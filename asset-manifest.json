@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/AnyLanguage-Wordle/static/css/main.43cf4c82.css",
-    "main.js": "/AnyLanguage-Wordle/static/js/main.7a95654f.js",
-    "static/js/787.3500bfec.chunk.js": "/AnyLanguage-Wordle/static/js/787.3500bfec.chunk.js",
-    "static/media/BCSans-Bold.woff": "/AnyLanguage-Wordle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
-    "static/media/BCSans-BoldItalic.woff": "/AnyLanguage-Wordle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
-    "static/media/BCSans-Italic.woff": "/AnyLanguage-Wordle/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
-    "static/media/BCSans-Regular.woff": "/AnyLanguage-Wordle/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
-    "index.html": "/AnyLanguage-Wordle/index.html",
-    "main.43cf4c82.css.map": "/AnyLanguage-Wordle/static/css/main.43cf4c82.css.map",
-    "main.7a95654f.js.map": "/AnyLanguage-Wordle/static/js/main.7a95654f.js.map",
-    "787.3500bfec.chunk.js.map": "/AnyLanguage-Wordle/static/js/787.3500bfec.chunk.js.map"
+    "main.css": "/static/css/main.2fc6471b.css",
+    "main.js": "/static/js/main.beb67613.js",
+    "static/js/787.3500bfec.chunk.js": "/static/js/787.3500bfec.chunk.js",
+    "static/media/BCSans-Bold.woff": "/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
+    "static/media/BCSans-BoldItalic.woff": "/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
+    "static/media/BCSans-Italic.woff": "/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
+    "static/media/BCSans-Regular.woff": "/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
+    "index.html": "/index.html",
+    "main.2fc6471b.css.map": "/static/css/main.2fc6471b.css.map",
+    "main.beb67613.js.map": "/static/js/main.beb67613.js.map",
+    "787.3500bfec.chunk.js.map": "/static/js/787.3500bfec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.43cf4c82.css",
-    "static/js/main.7a95654f.js"
+    "static/css/main.2fc6471b.css",
+    "static/js/main.beb67613.js"
   ]
 }
