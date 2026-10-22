@@ -18,3 +18,18 @@
 - **링크와 동기화**: `wiki/*.md`와 `notes.json`의 본문 동등성 유지. 앱은 `notes.json`만 렌더링하므로 Markdown 파일만 추가하고 게시했다고 주장하지 말 것.
 
 관련 문서: `wiki/circus-music-history.md`, `wiki/circus-music-concepts.md`, `wiki/circus-music-research-ledger.md`, `sources/conversations/2026-10-22-circus-music-visible.md`.
+
+## 2026-10-22 비서커스 대화 — 추가 검토 대기열
+
+- **원문 접근 범위**: 앞선 대화의 상세 요약만 현재 문맥에 남아 있음. 요약에서 생략된 설명·반론·정확한 인용과 과거 웹 결과는 직접 확인하지 못했으므로 전수 복원을 주장하지 말 것.
+- **라이브 4중주**: 실제 연주된 곡과 추정곡('Zhivago')을 구분. 익명 공연의 정확한 장비·믹싱·연주자 의도는 미확인. 사적 장소·방문 일시는 공개하지 않음.
+- **재즈 지역사**: 미주리 래그타임, 루이빌·멤피스 저그 밴드, territory band, 시카고의 세부 연혁·상호 영향은 대화 내 개요로만 기록. 단일 뉴올리언스 기원론을 반박하면서도 다른 지역을 임의로 단일 장르로 환원하지 말 것.
+- **악기·편성·노동**: 드럼키트와 인원 축소의 상관관계, 튜바에서 베이스로의 역할 이동, 군악대·서커스·극장 사이 인적 이동은 특정 고용 기록 없이는 일반화 금지.
+- **영화관 음악가의 실직**: AFM 약 22,000명/35,000명 추정의 원출처와 정의, Akron Strand의 6시간/15분, St. Louis/Philadelphia 파업, 'Bring Back the Flesh' 구호, Simon Bucharoff·Harry Hopkins의 1934년 사례, WPA·후대 녹음 금지·Music Performance Trust Fund의 정확한 관계 검증 필요.
+- **26개 청취 지점**: 곡/앨범/프로젝트 구분, 1923~2026년의 녹음·발매 연도, 2025~2026년 Mary Halvorson·Tomeka Reid·Ambrose Akinmusire 관련 작품명과 참여자 확인 필요. 실제 공연곡 여부와 청취 추천 여부는 구별.
+- **2026 재즈 생태계**: DownBeat·JJA·그래미의 기관별 부문과 수상자, Billboard·JazzWeek의 차트 분류·시점, 2026년 Hancock Institute 대회의 개최 도시·부문, 투어 지원 사업의 현행 운영 여부를 공식 자료와 대조할 것. 이번 편집에서 새 외부 조사는 수행하지 않음.
+- **가상 경력**: 17~35세 베이시스트는 예시일 뿐 실제 전기나 표준 성공 경로가 아님. 단계별 기관·프로그램은 개별 참가자의 성과를 보장하지 않음.
+- **철학적 비유**: 재즈 인터플레이와 들뢰즈의 배치·생성 사이의 관계는 해석적 비유. 음악가의 역사적 의도나 들뢰즈의 재즈 연구라고 단정하지 말 것.
+- **게시·동기화**: 사이트는 `notes.json`만 읽음. 이번에 생성한 17개 `wiki/*.md`와 사이트 본문의 링크·내용을 동기화하여 유지할 것.
+
+관련 문서: `wiki/jazz-history-plural.md`, `wiki/jazz-ensemble-labor.md`, `wiki/jazz-live-quartet-case.md`, `wiki/jazz-chronological-listening.md`, `wiki/jazz-current-ecosystem.md`, `wiki/jazz-career-path.md`, `wiki/silent-film-musician-labor.md`.
