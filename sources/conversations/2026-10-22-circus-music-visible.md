@@ -55,3 +55,37 @@
 ## 5. 처리하지 못한 내용
 
 이 대화의 생략된 이전 발화와 심층 리서치 결과 본문은 현재 접근할 수 없다. 따라서 대화 전체의 전수 분석, 완전한 1차 사료 검증, 정확한 노동 통계, 20~30곡의 실증적 청취 목록을 완료했다고 주장하지 않는다. 추가 원문이 실제로 제공되면 같은 주제 문서에 증분 병합하고 이 대장을 갱신해야 한다.
+
+## 6. 추가 처리: 서커스 이외의 재즈 대화 요약 (2026-10-22)
+
+이 source-key는 앞선 편집에서 서커스 중심으로 임시 명명되었다. 이번 재처리는 같은 채팅의 비서커스 부분을 추가하는 작업이므로 새로운 공식 대화 ID인 것처럼 별도 식별자를 만들지 않고 이 대장을 증분 갱신한다.
+
+추가 접근 범위는 이 대화의 앞선 여러 차례 발화를 압축한 요약과 저장소의 기존 음악 문서다. 모든 과거 발화의 원문·검색 결과·인용문을 직접 재열람할 수 있는 것은 아니다. 다음 항목은 요약에 명시적으로 남은 지식 소재이며, 원문 직접 인용이나 외부 재검증으로 취급하지 않는다.
+
+- J01. 기타·피아노·콘트라베이스·드럼 4중주의 현장 관찰. 'Hot House', 'Blackbird', 'Watermelon Man', 'Summer'가 언급되었고 'Zhivago'는 실제 연주 여부가 불확실하다. 브러시, 악보를 보는 연주자와 보지 않는 연주자, 눈짓과 즉흥, 기타가 크게 들리고 베이스가 작게 들린 음향 문제가 있다. 공연 장소·날짜·개인 식별 정보는 게시하지 않는다.
+- J02. 피치카토와 아르코, 콘트라베이스의 마이크·피에조 픽업, 전기 베이스의 솔리드바디·자기 픽업과 증폭, 저음의 어택과 지속, 워킹 베이스, 컴핑과 리듬 섹션의 역할. 선호 음색과 객석 음량을 구분한다.
+- J03. 행진악단의 금관·목관·타악, 브라스 밴드의 실제 편성, 드럼키트의 발 페달과 손발 통합, 대형 악단의 섹션 편곡, 소규모 밴드로의 기능 재배치, 현대 보컬·기타·베이스·건반·드럼 조합의 역사적 우연성과 노동 조건.
+- J04. 어택과 대선율의 개념, 코러스와 주제·독주, 악보와 즉흥의 공존, 눈짓·브러시·연주자 상호 반응. 들뢰즈의 배치·생성과의 연결은 음악가의 의도에 대한 사실이 아니라 해석적 비유다.
+- J05. 뉴올리언스의 중요성과 유일한 기원이라는 통념의 차이, 미주리 래그타임, 루이빌·멤피스 저그 밴드, 중서부·남서부 territory band, 시카고, 녹음·정전·생존자 편향. 빅밴드·비밥·하드밥·모달·프리·퓨전·현대 비정형 편성을 단선적 승리사로 보지 않는다.
+- J06. 무성영화의 극장 현장 음악, 1920년대 말~1930년대 유성영화 전환, 짧은 고용 호황과 축소, 녹음 한 번의 대규모 재생이 만드는 노동 수요 변화. 대화에서 제시된 약 22,000명·35,000명 수치, Akron Strand, St. Louis/Philadelphia의 노동 갈등, AFM의 'canned music' 캠페인, Simon Bucharoff와 Harry Hopkins, WPA Federal Music Project, 후대 AFM 녹음 금지·Music Performance Trust Fund는 미검증 주장으로 보존한다.
+- J07. 1923~2026년 26개 시대순 재즈 청취 지점. King Oliver, Louis Armstrong, Duke Ellington, Benny Goodman, Charlie Parker·Dizzy Gillespie, Art Blakey, Miles Davis, Ornette Coleman, Bill Evans, John Coltrane, Herbie Hancock, Pat Metheny·Jaco Pastorius, Weather Report, Kurt Rosenwinkel, The Bad Plus, Snarky Puppy, Kamasi Washington, Yussef Kamaal, Sons of Kemet, Immanuel Wilkins, Makaya McCraven, Mary Halvorson, Tomeka Reid, Ambrose Akinmusire. 개별 곡과 앨범을 구별하며, 특히 2025~2026년 작품명·연대는 재확인 필요.
+- J08. 현대 재즈 생태계의 다층적 위계: DownBeat Critics Poll, JJA Jazz Awards, 그래미, Billboard Jazz Albums, JazzWeek, Blue Note·ECM·Nonesuch·International Anthem·Pi·Mack Avenue, SFJAZZ·Jazz at Lincoln Center·North Sea Jazz·Newport·Montreux·Montréal, Hancock Institute·Sarah Vaughan·American Piano Awards·Essentially Ellington·Keep an Eye, jazzahead!, Jazz Touring Network·Jazz Road, NEA Jazz Masters. 2026년 수상자·차트·대회 개최 정보는 원자료 재확인 필요.
+- J09. 2026년 17세인 가상 재즈 베이시스트의 35세까지 7단계 모형: 청소년 앙상블, 음악학교와 유급 공연, 사이드맨 신뢰, 리더 정체성과 앨범, 쇼케이스·투어, 비평·수상, 국제 활동·교육의 병행. 실제 인물이나 보편적 성공 순서가 아니다.
+- J10. 다른 악기·편성·음악가의 '패배'와 노동시장을 역사 서술에 포함해야 한다는 반복된 문제의식. 음악의 형식·공연 기술·노동·매체·지역이 상호작용한다는 편집상 종합은 사료로 검증된 단일 이론이 아니다.
+
+## 7. 비서커스 원고 매핑
+
+- J01·J02·J04: `wiki/jazz-live-quartet-case.md`, `wiki/jazz-dialogue.md`, `wiki/jazz-listening.md`, `wiki/double-bass.md`, `wiki/electric-bass.md`, `wiki/rhythm-section.md`.
+- J03·J05·J10: `wiki/jazz-ensemble-labor.md`, `wiki/jazz-history-plural.md`, `wiki/drum-kit.md`, `wiki/brass-band.md`, `wiki/big-band.md`.
+- J06: `wiki/silent-film-musician-labor.md`, `wiki/silent-film.md`.
+- J07: `wiki/jazz-chronological-listening.md`.
+- J08: `wiki/jazz-current-ecosystem.md`.
+- J09: `wiki/jazz-career-path.md`.
+- 전반적인 길잡이: `wiki/jazz-to-ai.md`.
+- 웹사이트 게시 데이터: `notes.json`의 기존 10개 문서 증보, 7개 새 문서 생성.
+
+## 8. 원문·출처의 경계
+
+이번 편집에서 보이는 것은 이전 대화의 상세 요약과 저장소에 누적된 문서다. 요약에 빠진 발화나 당시 웹 검색의 정확한 결과를 완전히 복원했다고 주장하지 않는다. 기존 `jazz-to-ai` 문서에는 ChatGPT 공유 링크가 있지만, 그 링크의 내용과 이 대화의 모든 발화가 일치하는지 이번 작업에서 확인하지 않았다. 기존 위키에 이미 인용된 기관 링크는 보존하되 새 외부 조사를 하지 않았다.
+
+이 대장에는 공연장·정확한 방문일·개인 식별 정보를 넣지 않았다. 공개 가능한 음악 지식과 논증만 추출했다. 대화 전체의 전수 처리 상태는 **일부**이며, 현재 접근 가능한 요약과 기존 위키에 근거한 범위는 처리했다.
