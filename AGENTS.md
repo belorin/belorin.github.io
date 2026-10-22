@@ -1,4 +1,7 @@
 # AI 편집 지침
+
+> **대화 지식의 총합·증보 작업:** 먼저 [WIKI_PROTOCOL.md](./WIKI_PROTOCOL.md)를 읽고 그 편집·검수·외부 조사 금지 규칙을 따를 것. 이 파일의 `notes.json` 데이터 스키마·게시·보안 규칙도 함께 준수한다.
+
 이 저장소는 https://belorin.github.io 에 게시되는 공개 개인 위키다. 사용자의 대화를 주제별로 연결하고 갱신한다.
 ## 파일
 - notes.json: 모든 문서의 원본. JSON 배열이며 각 항목에 id, title, category, status, updated(YYYY-MM-DD, Asia/Seoul), summary, tags[], source, related[], body 필수.
