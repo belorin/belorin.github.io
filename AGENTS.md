@@ -1,0 +1,18 @@
+# AI 편집 지침
+이 저장소는 https://belorin.github.io 에 게시되는 공개 개인 위키다. 사용자의 대화를 주제별로 연결하고 갱신한다.
+## 파일
+- notes.json: 모든 문서의 원본. JSON 배열이며 각 항목에 id, title, category, status, updated(YYYY-MM-DD, Asia/Seoul), summary, tags[], source, related[], body 필수.
+- body: 간단한 Markdown. 단락, ## 소제목, - 목록, [이름](#문서-id), https 링크 지원. HTML/복잡한 Markdown 미지원.
+- index.html, style.css, app.js: 빌드 없는 정적 UI. 외부 라이브러리 없음.
+## 편집
+1. 먼저 AGENTS.md와 notes.json, 관련 문서를 읽는다.
+2. 사용자 발언 / AI 해석 / 외부 확인 사실을 구별한다. 확인하지 않은 과거 대화를 지어내거나 직접 인용하지 않는다.
+3. 기존 주제는 갱신하고 새로운 독립 주제만 문서로 추가한다. 입장 변화와 미해결 질문 보존.
+4. id는 소문자 영문/숫자/하이픈으로 고유하게 유지한다. related의 대상은 실제 존재해야 한다.
+5. source에 대화 날짜와 근거, 요약인지 원문인지 명시. 제안은 확정된 사용자 견해로 표현하지 않는다.
+6. 공개 허용은 모든 과거 사생활과 타인의 개인정보 일괄 공개 허용이 아니다. 현재 요청 관련 내용만 반영한다.
+7. 수정 후 JSON 파싱, 필수 필드, 고유 id와 related 링크를 검증. 변경 이유를 커밋에 남긴다.
+8. API 키/토큰을 프런트엔드나 저장소에 넣지 않는다.
+## 게시
+기존 main 브랜치 루트의 GitHub Pages 배포를 사용한다. .nojekyll 유지. 새 배포 서비스로 옮기지 않는다.
+이전 꼬들 이동 화면은 커밋 f4c75f272b5554b19276ec370dbc5a8044e340f5 에 보존되어 있다.
