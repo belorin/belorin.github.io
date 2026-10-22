@@ -41,14 +41,14 @@
 핵심 질문은 재생 가능한 음악의 경제적 이익을 누가 나누는가이다. 기술은 하나의 연주를 복제할 수 있게 하지만, 그 복제 때문에 사라진 현장 노동의 몫이 자동으로 연주자에게 돌아가지는 않는다. 노동조합과 제도는 그 분배 문제를 협상하는 장치로 이해할 수 있다.
 
 ## 서커스와 현대 음악 산업에 던지는 비교 질문
-서커스 악단, 극장 음악가, 지역 댄스 밴드는 모두 공연 장소에 음악가가 실제로 존재해야 하는가라는 조건에 영향을 받는다. 그러나 이들이 같은 시점에 같은 이유로 일자리를 잃었다고 단정할 수는 없다. [서커스 음악사](../wiki/circus-music-questions.md)에서는 공연의 실시간 cue와 기계음악을 별도로 검토한다.
+서커스 악단, 극장 음악가, 지역 댄스 밴드는 모두 공연 장소에 음악가가 실제로 존재해야 하는가라는 조건에 영향을 받는다. 그러나 이들이 같은 시점에 같은 이유로 일자리를 잃었다고 단정할 수는 없다. [서커스 음악사](../wiki/circus-music-history.md)에서는 공연의 실시간 cue와 기계음악을 별도로 검토한다.
 
 이 사례를 현대의 디지털 음악·AI와 곧바로 동일시하는 것도 주의해야 한다. 기술마다 생산·복제·저작권·고용의 구조가 다르기 때문이다. 비교의 출발점은 '기계가 인간을 대체한다'는 일반론보다 '어떤 공연의 어떤 노동이 어느 단계에서 재사용 가능해졌는가'라는 구체적 질문이다.
 
 ## 관련 문서와 출처 상태
 - [무성영화 반주와 유성영화 전환](../wiki/silent-film.md)
 - [악단 편성의 역사와 음악가 노동](../wiki/jazz-ensemble-labor.md)
-- [서커스 음악사](../wiki/circus-music-questions.md)
+- [서커스 음악사](../wiki/circus-music-history.md)
 - [Library of Congress: Silent Film Scores and Arrangements](https://www.loc.gov/collections/silent-film-scores-and-arrangements/about-this-collection/)
 - [Library of Congress: A Warming Flame](https://www.loc.gov/collections/silent-film-scores-and-arrangements/articles-and-essays/a-warming-flame/)
 
