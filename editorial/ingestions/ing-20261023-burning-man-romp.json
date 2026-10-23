@@ -1,0 +1,229 @@
+{
+  "id": "ing-20261023-burning-man-romp",
+  "processed_on": "2026-10-23",
+  "coverage": "visible-partial",
+  "limit_note": "현재 도구가 반환한 지식 범위는 모두 반영. 앞부분은 접근 불가이고 추가 페이지도 제공되지 않아 복원하지 않음. 기존 원고·장부와 중복 점검, 새 외부 조사 없음. 역사·사전 주장과 비교·구상의 검증 상태를 구분함.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "첫 소각의 인물·장소·규모와 주변 참여",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "burning-man-community",
+          "section": "1986년 베이커 비치: 첫 소각의 전해지는 경위"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "최초 동기와 반복의 이유 및 집단 경험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "burning-man-community",
+          "section": "1986년 베이커 비치: 첫 소각의 전해지는 경위"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "counterargument",
+      "title": "실연 소각설과 후대 신화화에 대한 반론",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "burning-man-community",
+          "section": "실연의 소각이라는 이야기와 하지의 맥락"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "하지의 불·인간형 소각과 의도적 제의 재현의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "burning-man-community",
+          "section": "실연의 소각이라는 이야기와 하지의 맥락"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "fact",
+      "title": "반복·상징화·사막 이동과 10원칙의 연혁",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "burning-man-community",
+          "section": "반복, 사막으로의 이동, 뒤따라 정리된 원칙"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "argument",
+      "title": "행위에서 상징과 문화가 형성되는 순서",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "burning-man-community",
+          "section": "반복, 사막으로의 이동, 뒤따라 정리된 원칙"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "example",
+      "title": "한국 불행사의 사례와 불의 기능",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "burning-man-community",
+          "section": "태우는 물체보다 공동체를 조직하는 방식"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "argument",
+      "title": "기존 공동체 재확인과 임시 공동체 구성의 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "burning-man-community",
+          "section": "태우는 물체보다 공동체를 조직하는 방식"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "argument",
+      "title": "Man Burn과 Temple Burn 및 동아시아 의례의 정서 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "burning-man-community",
+          "section": "Man Burn과 Temple Burn의 다른 정서"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "example",
+      "title": "한국형 참여 행사 구상과 토지·허가·운영 조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "burning-man-community",
+          "section": "한국형 행사 구상과 운영 조건"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "concept",
+      "title": "놀이·장난·작품에 쓰는 romp의 의미와 예시",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "romp-etymology",
+          "section": "신나는 놀이와 유쾌한 작품"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "fact",
+      "title": "ramp·raumpen·ramper 계보와 사전별 확신의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "romp-etymology",
+          "section": "ramp의 변형이라는 어원 설명"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "fact",
+      "title": "역사적 인물 명사와 사전별 최초 용례 연대",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "romp-etymology",
+          "section": "왈가닥을 가리킨 명사와 사전별 연대"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "fact",
+      "title": "romper와 rompers의 의미 변화 및 연대",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "romp-etymology",
+          "section": "romper와 rompers: 뛰노는 사람에서 아동복으로"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "concept",
+      "title": "경마에서 경기의 압승으로 확장된 용례",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "romp-etymology",
+          "section": "경마와 경기의 압승"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "argument",
+      "title": "초기 버닝맨을 romp로 표현하는 번역과 해석",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "romp-etymology",
+          "section": "초기 버닝맨을 설명하는 말"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "fact",
+      "title": "rump의 별개 의미와 어원",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "romp-etymology",
+          "section": "rump와의 구분"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "question",
+      "title": "기원 사료·사전 원문·용례 연대의 검토 상태",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "romp-etymology",
+          "section": "검토 상태"
+        },
+        {
+          "doc_id": "burning-man-community",
+          "section": "검토 상태"
+        }
+      ]
+    }
+  ]
+}

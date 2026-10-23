@@ -73,6 +73,24 @@
       "hypothesis": "재생 기술 이후 음악가 노조의 교섭과 재생 수익 분배 문제를, 인간 참여에서 나오는 협상력과 재분배 반론에 비추어 읽을 가능성",
       "reason": "극장 음악가의 교섭은 현장 노동이 필요하다는 사실에 기댔고, 점진적 무력화 논의는 시스템이 인간을 필요로 하는 정도가 협상력을 만든다고 본다.",
       "limitation": "노동조합의 역사적 경험이 AI 시대의 결과를 예측한다는 주장이 아니며, 국가 재정과 노동 시장의 구조 차이를 무시할 수 없다."
+    },
+    {
+      "id": "link-20261023-participation-community-organization",
+      "created_on": "2026-10-23",
+      "from": {
+        "doc_id": "burning-man-community",
+        "section": "태우는 물체보다 공동체를 조직하는 방식"
+      },
+      "to": {
+        "doc_id": "world-reading-groups",
+        "section": "모임을 관찰하는 일곱 질문"
+      },
+      "type": "methodological_parallel",
+      "status": "proposed",
+      "basis": "editorial_hypothesis",
+      "hypothesis": "문화 행사와 독서모임을 결과물보다 참여·운영·시간 단위·모임의 목적을 통해 비교하는 방법의 검토 가능성",
+      "reason": "불행사의 공동체 구성·해산과 독서모임의 선정 권한·읽기 리듬·참가 문턱은 사람들이 함께 문화를 조직하는 조건을 비교할 단서를 제공한다.",
+      "limitation": "일시적 사막 행사와 지속적인 독서모임의 운영이 같다는 주장이 아니며, 같은 공동체 효과나 역사적 계보를 확인한 것도 아니다."
     }
   ]
 }

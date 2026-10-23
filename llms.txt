@@ -74,3 +74,11 @@
 - [세계 독서모임: 온라인으로 관찰하는 독서문화의 여러 형태](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-reading-groups.md): 홍콩·카탈루냐·인도·일본의 공개 사례와 네 지역의 미확인 사례를 통해 온라인 접근성·운영·문화적 기능·조사 윤리를 구분한다.
 - [2026년 해외 독서모임 선정도서: 홍콩·바르셀로나·델리·일본](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/global-reading-club-2026-books.md): 2026년 홍콩 6권, 카탈루냐 6권, 델리 월별 6편과 챌린지 12권, 일본 온라인 행사 16건을 비교하고 공개 확인의 한계를 기록한다.
 - [해외 독서모임 따라 읽기: 2026년 선정작의 한국어 번역본](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-book-club-korean-editions.md): 월간 선정작의 한국어 대응명 14개와 인도 독서 챌린지 9개, 번역·단편 선집 여부 미확인 6개를 분리해 비교하는 읽기 목록.
+
+### 문화와 역사
+
+- [버닝맨의 기원과 불의 공동체: 해변의 놀이에서 임시도시까지](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/burning-man-community.md): 베이커 비치의 첫 소각과 반복·사막 이동, 한국 불행사와의 공동체 구조 비교, Man Burn·Temple Burn 및 한국형 행사 구상의 조건을 구별한다.
+
+### 언어
+
+- [romp의 뜻과 어원: 거친 움직임에서 놀이·난장극·압승으로](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/romp-etymology.md): ramp·ramper 계보의 설명, 역사적 인물 명사와 사전별 연대 차이, romper·rompers 및 놀이·작품·압승의 용례와 rump의 차이를 정리한다.

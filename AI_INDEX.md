@@ -160,3 +160,15 @@
 - **[해외 독서모임 따라 읽기: 2026년 선정작의 한국어 번역본](wiki/world-book-club-korean-editions.md)** · 별칭: 독서모임 한국어판, 해외 북클럽 번역본, 세계 독서모임 따라 읽기 · 수정: 2026-10-23 · 검토: 국내 한국어판 예비 대조·서지 검증 필요
   - 월간 선정작의 한국어 대응명 14개와 인도 독서 챌린지 9개, 번역·단편 선집 여부 미확인 6개를 분리해 비교하는 읽기 목록.
   - [웹페이지](https://belorin.github.io/#world-book-club-korean-editions) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-book-club-korean-editions.md)
+
+## 문화와 역사
+
+- **[버닝맨의 기원과 불의 공동체: 해변의 놀이에서 임시도시까지](wiki/burning-man-community.md)** · 별칭: 버닝맨, Burning Man, Man Burn, Temple Burn · 수정: 2026-10-23 · 검토: 기원 서술 미검증·비교 해석·행사 구상
+  - 베이커 비치의 첫 소각과 반복·사막 이동, 한국 불행사와의 공동체 구조 비교, Man Burn·Temple Burn 및 한국형 행사 구상의 조건을 구별한다.
+  - [웹페이지](https://belorin.github.io/#burning-man-community) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/burning-man-community.md)
+
+## 언어
+
+- **[romp의 뜻과 어원: 거친 움직임에서 놀이·난장극·압승으로](wiki/romp-etymology.md)** · 별칭: romp, romper, rompers, romp to victory · 수정: 2026-10-23 · 검토: 사전 귀속·어원·용례 연대 재검증 필요
+  - ramp·ramper 계보의 설명, 역사적 인물 명사와 사전별 연대 차이, romper·rompers 및 놀이·작품·압승의 용례와 rump의 차이를 정리한다.
+  - [웹페이지](https://belorin.github.io/#romp-etymology) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/romp-etymology.md)

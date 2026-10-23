@@ -134,6 +134,13 @@
       "type": "introduces",
       "evidence_section": "이 주제를 읽는 순서",
       "reason": "경제의 이행 조건과 계층별 분배를 구별하는 직접 관련 상세 원고를 읽기 순서에 연결한다."
+    },
+    {
+      "from": "burning-man-community",
+      "to": "romp-etymology",
+      "type": "introduces",
+      "evidence_section": "초기의 놀이를 가리키는 romp",
+      "reason": "초기 해변 소각의 놀이 성격을 설명하는 단어에서 뜻·어원·의미 변화의 상세 문서로 연결한다."
     }
   ]
 }

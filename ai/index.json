@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 45,
+  "document_count": 47,
   "documents": [
     {
       "id": "living-notes",
@@ -1467,6 +1467,68 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-class-fiction.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-class-fiction.md",
       "page_url": "https://belorin.github.io/#ai-class-fiction"
+    },
+    {
+      "id": "burning-man-community",
+      "title": "버닝맨의 기원과 불의 공동체: 해변의 놀이에서 임시도시까지",
+      "aliases": [
+        "버닝맨",
+        "Burning Man",
+        "Man Burn",
+        "Temple Burn"
+      ],
+      "category": "문화와 역사",
+      "tags": [
+        "버닝맨",
+        "불 의례",
+        "임시 공동체",
+        "달집태우기",
+        "참여 문화"
+      ],
+      "summary": "베이커 비치의 첫 소각과 반복·사막 이동, 한국 불행사와의 공동체 구조 비교, Man Burn·Temple Burn 및 한국형 행사 구상의 조건을 구별한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "기원 서술 미검증·비교 해석·행사 구상",
+      "last_updated_on": "2026-10-23",
+      "last_enriched_on": "2026-10-23",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "romp-etymology"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/burning-man-community.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/burning-man-community.md",
+      "page_url": "https://belorin.github.io/#burning-man-community"
+    },
+    {
+      "id": "romp-etymology",
+      "title": "romp의 뜻과 어원: 거친 움직임에서 놀이·난장극·압승으로",
+      "aliases": [
+        "romp",
+        "romper",
+        "rompers",
+        "romp to victory"
+      ],
+      "category": "언어",
+      "tags": [
+        "romp",
+        "어원",
+        "영어",
+        "의미 변화",
+        "버닝맨"
+      ],
+      "summary": "ramp·ramper 계보의 설명, 역사적 인물 명사와 사전별 연대 차이, romper·rompers 및 놀이·작품·압승의 용례와 rump의 차이를 정리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "사전 귀속·어원·용례 연대 재검증 필요",
+      "last_updated_on": "2026-10-23",
+      "last_enriched_on": "2026-10-23",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "burning-man-community"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/romp-etymology.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/romp-etymology.md",
+      "page_url": "https://belorin.github.io/#romp-etymology"
     }
   ]
 }
