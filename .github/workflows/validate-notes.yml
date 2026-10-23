@@ -1,0 +1,24 @@
+name: Validate generated website notes
+on:
+  push:
+    paths:
+      - "wiki/**"
+      - "notes.json"
+      - "scripts/build-notes.mjs"
+      - ".github/workflows/validate-notes.yml"
+  pull_request:
+    paths:
+      - "wiki/**"
+      - "notes.json"
+      - "scripts/build-notes.mjs"
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: node scripts/build-notes.mjs --check

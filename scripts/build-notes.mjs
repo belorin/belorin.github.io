@@ -1,0 +1,83 @@
+#!/usr/bin/env node
+/**
+ * Generate notes.json (website cache) from canonical Markdown articles.
+ * No packages or network required. Do not manually edit notes.json.
+ *
+ * Usage:
+ *   node scripts/build-notes.mjs         # update cache if changed
+ *   node scripts/build-notes.mjs --check # verify cache is up to date
+ */
+import fs from "node:fs";
+import path from "node:path";
+import process from "node:process";
+
+const root = process.cwd();
+const manifestPath = path.join(root, "wiki", "manifest.json");
+const outputPath = path.join(root, "notes.json");
+const manifest = JSON.parse(fs.readFileSync(manifestPath, "utf8"));
+const entries = manifest.documents;
+
+function fail(message) { throw Error(message); }
+function requireString(obj, key, id) {
+  if (typeof obj[key] !== "string") fail(id + ": invalid " + key);
+}
+function normalizeBody(text, alias) {
+  // The simple website renderer supports site hash links, not filesystem paths.
+  return text
+    .replace(/\]\((?:\.\/|\.\.\/wiki\/)([a-z0-9-]+)\.md\)/g,
+      (_match, id) => "](#" + (alias[id] ?? id) + ")")
+    .replace(/\]\(https:\/\/belorin\.github\.io\/#([a-z0-9-]+)\)/g,
+      (_match, id) => "](#" + id + ")");
+}
+function readBody(entry) {
+  const fullPath = path.resolve(root, entry.path);
+  const wikiRoot = path.resolve(root, "wiki") + path.sep;
+  if (!fullPath.startsWith(wikiRoot) || !entry.path.endsWith(".md")) {
+    fail(entry.id + ": unsafe or non-Markdown path");
+  }
+  const markdown = fs.readFileSync(fullPath, "utf8").replace(/\r\n/g, "\n");
+  const heading = markdown.match(/^# ([^\n]+)\n\n/);
+  if (!heading) fail(entry.id + ": expected a first-level heading and blank line");
+  return normalizeBody(markdown.slice(heading[0].length).trimEnd(), manifest.linkAliases ?? {});
+}
+if (!Array.isArray(entries)) fail("manifest.documents must be an array");
+const seenIds = new Set(), seenPaths = new Set(), orderSet = new Set();
+for (const entry of entries) {
+  requireString(entry, "id", entry.id || "unknown");
+  requireString(entry, "path", entry.id);
+  if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(entry.id)) fail("invalid id: " + entry.id);
+  if (seenIds.has(entry.id) || seenPaths.has(entry.path)) fail("duplicate id or path: " + entry.id);
+  seenIds.add(entry.id); seenPaths.add(entry.path);
+}
+const published = entries.filter(e => e.publish === true).sort((a,b)=>a.order-b.order);
+const publishedIds = new Set(published.map(e=>e.id));
+const required = ["id","title","category","status","updated","summary","source"];
+const notes = published.map(entry => {
+  for (const field of required) requireString(entry, field, entry.id);
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(entry.updated)) fail(entry.id + ": bad updated date");
+  if (!Array.isArray(entry.tags) || !entry.tags.every(x=>typeof x==="string")) fail(entry.id + ": invalid tags");
+  if (!Array.isArray(entry.related) || !entry.related.every(x=>typeof x==="string" && publishedIds.has(x))) fail(entry.id + ": missing related id");
+  if (!Number.isInteger(entry.order) || orderSet.has(entry.order)) fail(entry.id + ": invalid order");
+  orderSet.add(entry.order);
+  return {
+    id:entry.id, title:entry.title, category:entry.category, status:entry.status,
+    updated:entry.updated, summary:entry.summary, tags:entry.tags,
+    source:entry.source, related:entry.related, body:readBody(entry)
+  };
+});
+for (const note of notes) {
+  for (const match of note.body.matchAll(/\]\(#([a-z0-9-]+)\)/g)) {
+    if (!publishedIds.has(match[1])) fail(note.id + ": broken site link #" + match[1]);
+  }
+}
+const current = fs.existsSync(outputPath) ? JSON.parse(fs.readFileSync(outputPath,"utf8")) : null;
+const equals = JSON.stringify(current) === JSON.stringify(notes);
+if (process.argv.includes("--check")) {
+  if (!equals) fail("notes.json is out of date: run node scripts/build-notes.mjs and commit the result");
+  console.log("OK: " + notes.length + " published Markdown articles match notes.json");
+} else if (!equals) {
+  fs.writeFileSync(outputPath, JSON.stringify(notes,null,2) + "\n");
+  console.log("Updated notes.json from " + notes.length + " Markdown articles");
+} else {
+  console.log("No changes: notes.json already matches " + notes.length + " Markdown articles");
+}
