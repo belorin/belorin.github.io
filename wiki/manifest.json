@@ -1249,7 +1249,7 @@
     {
       "path": "wiki/world-reading-groups.md",
       "publish": true,
-      "order": null,
+      "order": 38,
       "id": "world-reading-groups",
       "title": "세계 독서모임: 온라인으로 관찰하는 독서문화의 여러 형태",
       "category": "독서 문화",
@@ -1279,7 +1279,7 @@
     {
       "path": "wiki/global-reading-club-2026-books.md",
       "publish": true,
-      "order": null,
+      "order": 39,
       "id": "global-reading-club-2026-books",
       "title": "2026년 해외 독서모임 선정도서: 홍콩·바르셀로나·델리·일본",
       "category": "독서 문화",
@@ -1309,7 +1309,7 @@
     {
       "path": "wiki/world-book-club-korean-editions.md",
       "publish": true,
-      "order": null,
+      "order": 40,
       "id": "world-book-club-korean-editions",
       "title": "해외 독서모임 따라 읽기: 2026년 선정작의 한국어 번역본",
       "category": "독서 문화",
