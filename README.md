@@ -12,7 +12,8 @@ https://belorin.github.io
 - **`AI_INDEX.md`, `ai/index.json`, `ai/relations.json`, `llms.txt`**: 자동 생성되는 AI 탐색 자료
 - **`notes.json`**: 위 두 정본으로부터 생성하는 웹사이트 데이터 (**직접 수정하지 않음**)
 - **`AGENTS.md` / `WIKI_PROTOCOL.md`**: AI 편집 규칙
-- **`editorial/ingestions/`**: 공개 가능한 추출 지식의 반영 위치와 보류 상태를 기록하는 편집 장부 (대화 원문 없음)
+- **`editorial/ingestions/`**: 직접 증보의 위치와 보류 상태를 기록하는 편집 장부 (대화 원문 없음)
+- **`editorial/crosslinks/index.json`**: 직접 입증되지 않은 개념적 유비·교차 편집 제안 장부. 자동 집필 대상이 아님.
 
 ## 편집·게시
 
@@ -20,7 +21,7 @@ https://belorin.github.io
 2. 별칭·검토 상태·증보일은 `wiki/manifest.json`, 의미 관계는 `wiki/relations.json`에 기록한다.
 3. `node scripts/build-notes.mjs`와 `node scripts/build-ai-index.mjs`를 실행한다.
 4. 대화에서 신규 지식을 반영했다면 `editorial/ingestions/index.json`과 해당 배치 JSON에 **짧은 지식 표제, 반영 문서의 정확한 절, 미완 항목**을 기록한다. 원문은 저장하지 않는다.
-5. 두 생성기의 `--check`와 `node scripts/validate-editorial.mjs`로 확인한다.
+5. 두 생성기의 `--check`, `node scripts/validate-editorial.mjs`, `node scripts/validate-crosslinks.mjs`, `node scripts/test-crosslinks.mjs`로 확인한다.
 6. 수정한 Markdown·manifest·관계 정본·생성된 JSON과 색인·편집 장부를 **같은 커밋**으로 `main`에 올린다.
 
 별도 npm 설치는 필요하지 않다. GitHub Actions가 누락된 빌드를 검증한다. `notes.json`을 편집하는 대신 반드시 Markdown을 수정한다.
@@ -41,3 +42,9 @@ https://belorin.github.io
 - [`llms.txt`](llms.txt): 외부 AI가 사용할 수 있는 선택적 진입점
 
 색인에서 후보를 좁힌 뒤 **Markdown 정본 전체를 읽어야** 본문의 세부 설명과 반론을 보존할 수 있다. 미게시 `publish:false` 원고는 외부 탐색 색인에 노출하지 않지만 공개 GitHub 저장소 자체가 비공개인 것은 아니다.
+
+## 교차 검색과 편집 제안 (04단계)
+
+`node scripts/search-wiki.mjs --query "재즈 즉흥성" --json`으로 제목·절·단문의 어휘 기반 후보를 검색하고, `node scripts/search-wiki.mjs --related jazz-dialogue --all --novel --json`으로 기존 직접 링크가 없는 개념적 연결 후보를 탐색할 수 있다. `--all`은 미게시 Markdown도 포함하되 저장소 자체는 공개되어 있다는 점에 주의한다.
+
+이 로컬 검색은 **임베딩 기반 의미 검색이 아니며**, 문자 n-gram과 기존 관계를 이용한 *후보 검색*이다. 일반 ChatGPT 채팅에서는 `AI_INDEX.md`, `wiki/manifest.json`, `editorial/crosslinks/index.json`을 읽고 모델이 전체 Markdown을 비교해 의미적 가설을 제안한다. 사람 또는 명시적인 편집 승인 전까지 `editorial/crosslinks/index.json`의 `proposed` 항목을 원고에 자동 반영하지 않는다. 자세한 사용법은 [교차 편집 지침](editorial/crosslinks/README.md) 참고.

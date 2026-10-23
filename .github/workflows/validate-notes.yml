@@ -12,6 +12,9 @@ on:
       - "llms.txt"
       - "scripts/validate-editorial.mjs"
       - "scripts/test-editorial.mjs"
+      - "scripts/search-wiki.mjs"
+      - "scripts/validate-crosslinks.mjs"
+      - "scripts/test-crosslinks.mjs"
       - ".github/workflows/validate-notes.yml"
   pull_request:
     paths:
@@ -25,6 +28,9 @@ on:
       - "llms.txt"
       - "scripts/validate-editorial.mjs"
       - "scripts/test-editorial.mjs"
+      - "scripts/search-wiki.mjs"
+      - "scripts/validate-crosslinks.mjs"
+      - "scripts/test-crosslinks.mjs"
       - ".github/workflows/validate-notes.yml"
 permissions:
   contents: read
@@ -40,3 +46,5 @@ jobs:
       - run: node scripts/build-ai-index.mjs --check
       - run: node scripts/validate-editorial.mjs
       - run: node scripts/test-editorial.mjs
+      - run: node scripts/validate-crosslinks.mjs
+      - run: node scripts/test-crosslinks.mjs
