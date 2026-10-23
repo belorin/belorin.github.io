@@ -88,6 +88,9 @@
 - **[유성영화의 등장과 극장 음악가: 재생 가능한 연주가 노동을 바꾸다](wiki/silent-film-musician-labor.md)** · 별칭: 유성영화와 극장 음악가 · 수정: 2026-10-22 · 검토: 대화 내 주장·세부 검증 필요
   - 무성영화의 현장 반주에서 녹음된 유성영화로의 전환, 실직·노조·공공사업과 재생 수익을 둘러싼 노동 문제를 분석한다.
   - [웹페이지](https://belorin.github.io/#silent-film-musician-labor) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/silent-film-musician-labor.md)
+- **[20세기 클래식의 잃어버린 계보: 존 마우체리와 정전의 재편](wiki/classical-canon-mauceri.md)** · 별칭: 전쟁과 음악, 클래식의 정전화, 영화음악과 클래식 · 수정: 2026-10-23 · 검토: 대화 내 주장·공연 일정 및 학계 수용 재검증 필요
+  - 나치의 퇴폐음악 정책과 망명, 영화·게임음악의 정전 진입, 전후 교향악의 반복 연주와 미래 음악사 재편을 구별한다.
+  - [웹페이지](https://belorin.github.io/#classical-canon-mauceri) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/classical-canon-mauceri.md)
 
 ## AI와 사회
 

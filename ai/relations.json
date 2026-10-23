@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 216,
+  "edge_count": 220,
   "edges": [
     {
       "from": "living-notes",
@@ -516,6 +516,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "silent-film",
+      "to": "classical-canon-mauceri",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "circus-music-questions",
       "to": "circus-music-concepts",
       "type": "related_to",
@@ -626,6 +632,12 @@
     {
       "from": "jazz-history-plural",
       "to": "jazz-current-ecosystem",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-history-plural",
+      "to": "classical-canon-mauceri",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1208,6 +1220,18 @@
     {
       "from": "world-book-club-korean-editions",
       "to": "world-reading-groups",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "classical-canon-mauceri",
+      "to": "silent-film",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "classical-canon-mauceri",
+      "to": "jazz-history-plural",
       "type": "related_to",
       "basis": "manifest.related"
     },
