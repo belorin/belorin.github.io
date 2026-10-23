@@ -141,17 +141,32 @@
 
 **이행 범위:** 이 단계에서는 본문의 서술을 새로 조사하거나 축약하지 않는다. 기존 웹사이트의 게시 문서와 링크를 그대로 보존하는 기계적 정본화만 진행한다. 메타데이터는 별도 manifest에 있으므로 추후 안정적인 frontmatter 이행은 독립 작업으로 수행할 수 있다.
 
+## 8A. AI 탐색 계층 (단계 03 이행)
+
+**정본은 여전히 `wiki/*.md`, `wiki/manifest.json`, `wiki/relations.json`이다.** AI 탐색 파일은 전부 자동 생성된 파생 뷰이며 본문을 복제하거나 대화 원문을 저장하지 않는다.
+
+1. 새 작업에서는 `AI_INDEX.md` 또는 `ai/index.json`을 **먼저 확인**해 공개 문서의 제목·별칭·검토 상태·수정일·관계를 훑는다.
+2. `wiki/manifest.json`도 읽어 **미게시 원고**를 탐색한다. 후보를 좁힌 뒤에는 관련된 Markdown **전체 원고**를 읽고 증보한다. 요약과 색인만으로 본문을 재집필하지 않는다.
+3. 문서 별칭(`aliases`)과 검토 상태(`review_state`)는 `wiki/manifest.json`에 둔다. `review_state`는 `unassessed`, `needs_review`, `reviewed` 중 하나이다. `reviewed`는 실제 검토가 이루어진 경우에만 사용한다. 원래 `status` 문장은 유지한다.
+4. 기존 `updated`는 기존 기록의 수정일이다. `last_enriched_on`은 **실제로 지식을 증보한 날짜만** 기록하며, 이전 증보일을 알 수 없으면 `null`로 둔다. 두 날짜를 동일하다고 추정하지 않는다.
+5. `manifest.related`는 **의미를 특정하지 않은 단순 연관**이다. `wiki/relations.json`에는 근거를 가진 의미 관계만 `from`, `to`, `type`, `evidence_section`, `reason`으로 별도 기록한다. 실제 본문에 존재하지 않는 근거 절을 기입하지 않는다.
+6. `node scripts/build-ai-index.mjs`로 `AI_INDEX.md`, `ai/index.json`, `ai/relations.json`, `llms.txt`를 생성하고, `--check`로 검증한다. 생성물을 직접 편집하지 않는다.
+7. 기존 `notes.json`과 정적 사이트는 변경하지 않는다. **Markdown·manifest·관계 정본·웹 JSON·AI 생성 색인을 같은 커밋으로 기록**한다.
+8. `/llms.txt`와 공개 AI 색인은 `publish:true` 문서만 나열한다. `publish:false` 원고는 자동 색인에 넣지 않는다. 그러나 GitHub 저장소가 공개이므로 파일 자체를 비공개로 보호하는 조치는 아니다.
+9. `/llms.txt`는 외부 AI를 위한 **선택적인 탐색 안내**이지 모든 AI가 자동으로 읽는다는 보장은 아니다. 내용 확인은 각 항목의 **직접 Markdown 주소**로 한다.
+10. 이 단계는 외부 자료를 조사하거나 새 지식을 생성하지 않고 이미 공개된 문서의 색인과 관계를 편집·파생시키는 작업이다.
+
 ## 9. 실행 절차
 
 각 대화창에서 이 프로토콜 URL을 주고 '이 대화를 위키에 증보해 줘'라고 요청하면 아래 순서로 실행한다.
 
-1. **확인:** 이 파일, `AGENTS.md`, `wiki/manifest.json`, 관련 `wiki/` 원고 및 `editorial/ingestions/index.json`의 기존 처리 기록을 읽는다.
+1. **확인:** 이 파일과 `AGENTS.md`, `AI_INDEX.md`/`ai/index.json`을 **먼저 읽고** 후보 문서를 찾는다. 다음으로 `wiki/manifest.json`의 미게시 원고, `editorial/ingestions/index.json`의 처리 이력을 확인하고 관련 Markdown 전문을 읽는다.
 2. **범위 판정:** 실제 접근 가능한 대화 부분과 이미 처리한 범위를 확인한다.
 3. **전수 추출:** 실제 접근 가능한 대화를 순서대로 살피며 주제 후보와 논증·사례·반론의 지식 대장을 작업 중에만 만든다. 대화 원문·발췌문은 GitHub에 보관하지 않는다.
 4. **중복·연결 조사:** 기존 위키에서 대응 문서와 개념적 관련 문서를 찾는다. 외부 인터넷 조사는 하지 않는다.
 5. **상세 집필:** 서적 수준으로 통합·증보하고, 새 독립 주제가 필요하면 별도의 Markdown 원고를 만든다.
-6. **게시 반영:** 사이트 공개가 적절한 문서는 `wiki/*.md`와 `wiki/manifest.json`을 편집하고 생성 스크립트로 `notes.json`을 재생성한다.
-7. **검수:** 원문 대조, 기존 문서 전후 비교, JSON 구조 및 링크를 검사한다.
+6. **게시 반영:** 공개할 원고는 `wiki/*.md`와 `wiki/manifest.json`, 필요하면 `wiki/relations.json`을 편집한다. 두 생성기를 실행해 `notes.json`과 AI 탐색 파일·`llms.txt`를 재생성한다.
+7. **검수:** 원문 대조, 기존 원고 전후 비교와 함께 `node scripts/build-notes.mjs --check`, `node scripts/build-ai-index.mjs --check`, `node scripts/validate-editorial.mjs`를 실행한다.
 8. **기록:** `editorial/ingestions/`에 비식별 지식 표제별 반영 문서·절·보류 상태를 기록한다. 사적 대화 원문과 직접 인용은 저장하지 않는다. 편집 장부 및 문서 링크를 검증한 뒤 수정된 파일을 커밋한다.
 9. **보고:** 생성/수정된 Markdown, manifest, 생성된 JSON, 핵심 증보 항목, 실제 커밋, 게시 여부, 미처리/불확실 범위를 보고한다.
 

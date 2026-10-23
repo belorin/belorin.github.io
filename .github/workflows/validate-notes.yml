@@ -6,6 +6,10 @@ on:
       - "notes.json"
       - "editorial/**"
       - "scripts/build-notes.mjs"
+      - "scripts/build-ai-index.mjs"
+      - "ai/**"
+      - "AI_INDEX.md"
+      - "llms.txt"
       - "scripts/validate-editorial.mjs"
       - "scripts/test-editorial.mjs"
       - ".github/workflows/validate-notes.yml"
@@ -15,6 +19,10 @@ on:
       - "notes.json"
       - "editorial/**"
       - "scripts/build-notes.mjs"
+      - "scripts/build-ai-index.mjs"
+      - "ai/**"
+      - "AI_INDEX.md"
+      - "llms.txt"
       - "scripts/validate-editorial.mjs"
       - "scripts/test-editorial.mjs"
       - ".github/workflows/validate-notes.yml"
@@ -29,5 +37,6 @@ jobs:
         with:
           node-version: "22"
       - run: node scripts/build-notes.mjs --check
+      - run: node scripts/build-ai-index.mjs --check
       - run: node scripts/validate-editorial.mjs
       - run: node scripts/test-editorial.mjs

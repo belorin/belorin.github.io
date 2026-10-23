@@ -8,6 +8,8 @@ https://belorin.github.io
 
 - **`wiki/*.md`**: 지식 본문의 유일한 정본
 - **`wiki/manifest.json`**: 문서별 메타데이터와 게시 여부의 정본
+- **`wiki/relations.json`**: 근거와 유형이 확인된 관계의 정본
+- **`AI_INDEX.md`, `ai/index.json`, `ai/relations.json`, `llms.txt`**: 자동 생성되는 AI 탐색 자료
 - **`notes.json`**: 위 두 정본으로부터 생성하는 웹사이트 데이터 (**직접 수정하지 않음**)
 - **`AGENTS.md` / `WIKI_PROTOCOL.md`**: AI 편집 규칙
 - **`editorial/ingestions/`**: 공개 가능한 추출 지식의 반영 위치와 보류 상태를 기록하는 편집 장부 (대화 원문 없음)
@@ -15,10 +17,11 @@ https://belorin.github.io
 ## 편집·게시
 
 1. 해당 `wiki/<문서-id>.md`를 편집한다. 새 글이면 `wiki/manifest.json`에 등록한다.
-2. `node scripts/build-notes.mjs`을 실행한다.
-3. 대화에서 신규 지식을 반영했다면 `editorial/ingestions/index.json`과 해당 배치 JSON에 **짧은 지식 표제, 반영 문서의 정확한 절, 미완 항목**을 기록한다. 원문은 저장하지 않는다.
-4. `node scripts/build-notes.mjs --check`와 `node scripts/validate-editorial.mjs`로 확인한다.
-5. 수정한 Markdown과 manifest, 생성된 `notes.json`, 편집 장부를 **같은 커밋**으로 `main`에 올린다.
+2. 별칭·검토 상태·증보일은 `wiki/manifest.json`, 의미 관계는 `wiki/relations.json`에 기록한다.
+3. `node scripts/build-notes.mjs`와 `node scripts/build-ai-index.mjs`를 실행한다.
+4. 대화에서 신규 지식을 반영했다면 `editorial/ingestions/index.json`과 해당 배치 JSON에 **짧은 지식 표제, 반영 문서의 정확한 절, 미완 항목**을 기록한다. 원문은 저장하지 않는다.
+5. 두 생성기의 `--check`와 `node scripts/validate-editorial.mjs`로 확인한다.
+6. 수정한 Markdown·manifest·관계 정본·생성된 JSON과 색인·편집 장부를 **같은 커밋**으로 `main`에 올린다.
 
 별도 npm 설치는 필요하지 않다. GitHub Actions가 누락된 빌드를 검증한다. `notes.json`을 편집하는 대신 반드시 Markdown을 수정한다.
 
@@ -29,3 +32,12 @@ https://belorin.github.io
 ## 향후 원고의 문체
 
 새로 집필·증보하는 원고는 독립적인 서적 문장으로 쓴다. '대화에서는', '사용자가 질문했고', 'AI가 설명했다'처럼 출처를 회고하는 문장을 사용하지 않는다. 이전 원고의 문장은 이번 단계에서 소급 수정하지 않는다. 편집 장부에는 대화 내용 대신 공개 가능한 지식 표제와 반영된 위치만 남긴다.
+
+## AI 탐색
+
+- [`AI_INDEX.md`](AI_INDEX.md): 공개 문서의 제목, 별칭, 검토 상태, 원고 링크를 탐색
+- [`ai/index.json`](ai/index.json): 기계용 문서 ID·별칭·수정일·증보일·검토 상태와 직접 Markdown 주소
+- [`ai/relations.json`](ai/relations.json): 단순 관련성과 근거 기반 의미 관계
+- [`llms.txt`](llms.txt): 외부 AI가 사용할 수 있는 선택적 진입점
+
+색인에서 후보를 좁힌 뒤 **Markdown 정본 전체를 읽어야** 본문의 세부 설명과 반론을 보존할 수 있다. 미게시 `publish:false` 원고는 외부 탐색 색인에 노출하지 않지만 공개 GitHub 저장소 자체가 비공개인 것은 아니다.
