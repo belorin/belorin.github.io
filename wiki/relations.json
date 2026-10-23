@@ -29,6 +29,83 @@
       "type": "elaborates",
       "evidence_section": "개념의 목적과 한계",
       "reason": "서커스 음악사의 질문을 분석 개념으로 심화한다."
+    },
+    {
+      "from": "ai-human-control-guide",
+      "to": "ai-takeover-human-recourse",
+      "type": "introduces",
+      "evidence_section": "이 주제를 읽는 순서",
+      "reason": "AI와 인간의 통제력에 관한 질문의 이동 경로에 따라 하위 문서를 안내한다."
+    },
+    {
+      "from": "ai-human-control-guide",
+      "to": "ai-goals-hostage-and-bait",
+      "type": "introduces",
+      "evidence_section": "이 주제를 읽는 순서",
+      "reason": "AI와 인간의 통제력에 관한 질문의 이동 경로에 따라 하위 문서를 안내한다."
+    },
+    {
+      "from": "ai-human-control-guide",
+      "to": "gradual-disempowerment",
+      "type": "introduces",
+      "evidence_section": "이 주제를 읽는 순서",
+      "reason": "AI와 인간의 통제력에 관한 질문의 이동 경로에 따라 하위 문서를 안내한다."
+    },
+    {
+      "from": "ai-human-control-guide",
+      "to": "disempowerment-measurement",
+      "type": "introduces",
+      "evidence_section": "이 주제를 읽는 순서",
+      "reason": "AI와 인간의 통제력에 관한 질문의 이동 경로에 따라 하위 문서를 안내한다."
+    },
+    {
+      "from": "ai-human-control-guide",
+      "to": "llm-disempowerment-patterns",
+      "type": "introduces",
+      "evidence_section": "이 주제를 읽는 순서",
+      "reason": "AI와 인간의 통제력에 관한 질문의 이동 경로에 따라 하위 문서를 안내한다."
+    },
+    {
+      "from": "ai-human-control-guide",
+      "to": "conversational-ai-persuasion",
+      "type": "introduces",
+      "evidence_section": "이 주제를 읽는 순서",
+      "reason": "AI와 인간의 통제력에 관한 질문의 이동 경로에 따라 하위 문서를 안내한다."
+    },
+    {
+      "from": "ai-human-control-guide",
+      "to": "ai-conversation-data-access",
+      "type": "introduces",
+      "evidence_section": "이 주제를 읽는 순서",
+      "reason": "AI와 인간의 통제력에 관한 질문의 이동 경로에 따라 하위 문서를 안내한다."
+    },
+    {
+      "from": "disempowerment-measurement",
+      "to": "gradual-disempowerment",
+      "type": "elaborates",
+      "evidence_section": "출발점: 원 논문이 스케치한 지표",
+      "reason": "점진적 무력화 논문이 제안한 인간 영향력 지표를 이후의 측정 연구로 구체화한다."
+    },
+    {
+      "from": "llm-disempowerment-patterns",
+      "to": "gradual-disempowerment",
+      "type": "illustrates",
+      "evidence_section": "개인 단위에서 사회 단위로",
+      "reason": "개인 대화 단위에서 관찰된 무력화 패턴을 사회 단위의 무력화 논리와 연결한다."
+    },
+    {
+      "from": "gradual-disempowerment",
+      "to": "ai-goals-hostage-and-bait",
+      "type": "contrasts",
+      "evidence_section": "극적 장악과의 대비: 적이 없는 위험",
+      "reason": "위협이 보이는 인질극 시나리오와 적이 없는 점진적 무력화를 대비한다."
+    },
+    {
+      "from": "ai-conversation-data-access",
+      "to": "conversational-ai-persuasion",
+      "type": "elaborates",
+      "evidence_section": "사각지대의 교차",
+      "reason": "깊은 개인화와 의도적 설득의 증거 공백이 접근권의 비대칭 때문에 메워지기 어려운 이유를 설명한다."
     }
   ]
 }

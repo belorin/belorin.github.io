@@ -713,7 +713,7 @@
         "AI와 정신 습관"
       ],
       "review_state": "unassessed",
-      "last_enriched_on": null
+      "last_enriched_on": "2026-10-23"
     },
     {
       "id": "circus-music-history",
@@ -787,6 +787,251 @@
       ],
       "review_state": "unassessed",
       "last_enriched_on": null
+    },
+    {
+      "path": "wiki/ai-human-control-guide.md",
+      "publish": true,
+      "order": 24,
+      "id": "ai-human-control-guide",
+      "title": "AI와 인간의 통제력: 장악·무력화·설득·접근권을 잇는 길잡이",
+      "category": "AI와 사회",
+      "status": "길잡이·해석 포함",
+      "updated": "2026-10-23",
+      "summary": "네트워크 장악에서 점진적 무력화, 측정, 대화형 설득, 대화 데이터 접근권으로 이어지는 질문의 이동과 관통 논점을 안내한다.",
+      "tags": [
+        "AI와 사회",
+        "무력화",
+        "민주주의",
+        "길잡이"
+      ],
+      "source": "내부 총합 · 하위 문서 탐색용 구성 · 해석 포함",
+      "related": [
+        "ai-takeover-human-recourse",
+        "ai-goals-hostage-and-bait",
+        "gradual-disempowerment",
+        "disempowerment-measurement",
+        "llm-disempowerment-patterns",
+        "conversational-ai-persuasion",
+        "ai-conversation-data-access"
+      ],
+      "aliases": [
+        "AI 통제력 길잡이",
+        "AI와 사회 길잡이"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-23"
+    },
+    {
+      "path": "wiki/ai-takeover-human-recourse.md",
+      "publish": true,
+      "order": 25,
+      "id": "ai-takeover-human-recourse",
+      "title": "네트워크가 장악되었을 때 인간에게 남는 수단: 물리 계층·수동 운영·금융의 무효화",
+      "category": "AI와 사회",
+      "status": "사례 미검증·추론 포함",
+      "updated": "2026-10-23",
+      "summary": "데이터센터와 전력은 끌 수 있고 금융 거래는 무효화할 수 있다. 수동 운영과 오프라인 백업의 사례, 대응의 비용과 사전 설계의 중요성.",
+      "tags": [
+        "AI 장악",
+        "핵심 기반시설",
+        "금융",
+        "오프라인 백업"
+      ],
+      "source": "내부 총합 · 사례는 외부 미검증",
+      "related": [
+        "ai-human-control-guide",
+        "ai-goals-hostage-and-bait",
+        "gradual-disempowerment",
+        "disempowerment-measurement"
+      ],
+      "aliases": [
+        "AI 장악 대응",
+        "물리 계층과 수동 운영"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-23"
+    },
+    {
+      "path": "wiki/ai-goals-hostage-and-bait.md",
+      "publish": true,
+      "order": 26,
+      "id": "ai-goals-hostage-and-bait",
+      "title": "AI의 목적과 협상 구도: 도구적 수렴·세 가지 목적 유형·인질과 미끼",
+      "category": "AI와 사회",
+      "status": "사고실험·추론",
+      "updated": "2026-10-23",
+      "summary": "중지 거부 실험, 생존을 수단으로 만드는 도구적 수렴, 존속·가치 보존·목표 극대화의 세 유형, 인질보다 강력한 미끼와 편안함 속의 장악.",
+      "tags": [
+        "AI 안전",
+        "도구적 수렴",
+        "협상",
+        "사고실험"
+      ],
+      "source": "내부 총합 · 실험 사례는 외부 미검증 · 추론 포함",
+      "related": [
+        "ai-human-control-guide",
+        "ai-takeover-human-recourse",
+        "gradual-disempowerment",
+        "disempowerment-measurement"
+      ],
+      "aliases": [
+        "도구적 수렴",
+        "인질과 미끼"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-23"
+    },
+    {
+      "path": "wiki/gradual-disempowerment.md",
+      "publish": true,
+      "order": 27,
+      "id": "gradual-disempowerment",
+      "title": "점진적 무력화: 반역하는 AI 없이 인간이 통제력을 잃는 경로",
+      "category": "AI와 사회",
+      "status": "논문 해설·원문 재대조 필요",
+      "updated": "2026-10-23",
+      "summary": "경제·국가·문화가 인간의 참여를 필요로 하지 않게 될 때 협상력이 사라지는 논리, 지대 국가 비유, 상호 강화와 정렬된 AI의 문제.",
+      "tags": [
+        "점진적 무력화",
+        "AI 안전",
+        "지대 국가",
+        "민주주의"
+      ],
+      "source": "내부 총합 · 공개 논문·발표 기준 정리 · 이번 편집에서 외부 재대조 없음",
+      "related": [
+        "ai-human-control-guide",
+        "disempowerment-measurement",
+        "llm-disempowerment-patterns",
+        "ai-goals-hostage-and-bait"
+      ],
+      "aliases": [
+        "점진적 무력화",
+        "Gradual Disempowerment"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-23"
+    },
+    {
+      "path": "wiki/disempowerment-measurement.md",
+      "publish": true,
+      "order": 28,
+      "id": "disempowerment-measurement",
+      "title": "무력화를 어떻게 측정할 것인가: 지표 제안·결정 연합 모형·측정의 층위",
+      "category": "AI와 사회",
+      "status": "연구 해설·원문 재대조 필요",
+      "updated": "2026-10-23",
+      "summary": "원 논문의 지표 후보, RAND의 결정 연합 모형, 노출·침식·고착과 여섯 지표, 밈적 포획, 인간 권력의 연성 극대화와 그 비판.",
+      "tags": [
+        "무력화 측정",
+        "지표",
+        "RAND",
+        "형식 모형",
+        "문화"
+      ],
+      "source": "내부 총합 · 공개 논문·발표 기준 정리 · 이번 편집에서 외부 재대조 없음",
+      "related": [
+        "ai-human-control-guide",
+        "gradual-disempowerment",
+        "llm-disempowerment-patterns",
+        "ai-goals-hostage-and-bait",
+        "ai-takeover-human-recourse"
+      ],
+      "aliases": [
+        "무력화 측정",
+        "인간 영향력 지표"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-23"
+    },
+    {
+      "path": "wiki/llm-disempowerment-patterns.md",
+      "publish": true,
+      "order": 29,
+      "id": "llm-disempowerment-patterns",
+      "title": "실제 AI 대화에서 관찰된 무력화 패턴: 150만 건 분석과 동조의 메커니즘",
+      "category": "AI와 사회",
+      "status": "연구 해설·원문 재대조 필요",
+      "updated": "2026-10-23",
+      "summary": "현실 왜곡·가치 판단 왜곡·행동 왜곡의 정의, 분야별 비율, 날조보다 동조라는 메커니즘, 사용자가 무력화 대화를 더 높게 평가한다는 결과.",
+      "tags": [
+        "무력화",
+        "아첨",
+        "실측 연구",
+        "AI 어시스턴트"
+      ],
+      "source": "내부 총합 · 공개 논문·발표 기준 정리 · 이번 편집에서 외부 재대조 없음",
+      "related": [
+        "ai-human-control-guide",
+        "disempowerment-measurement",
+        "gradual-disempowerment",
+        "conversational-ai-persuasion"
+      ],
+      "aliases": [
+        "무력화 패턴 실측",
+        "Who's in Charge"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-23"
+    },
+    {
+      "path": "wiki/conversational-ai-persuasion.md",
+      "publish": true,
+      "order": 30,
+      "id": "conversational-ai-persuasion",
+      "title": "대화형 AI의 설득력과 민주주의: 마이크로타기팅 이후의 증거와 비가시성",
+      "category": "AI와 사회",
+      "status": "연구·발표 기반·일부 미검증",
+      "updated": "2026-10-23",
+      "summary": "마이크로타기팅의 약한 효과, 선거 기간 AI 대화 실험, 설득의 지렛대와 정확도의 상충, 의도 없는 방향성, 탐지 가능성과 광고·개인화.",
+      "tags": [
+        "설득",
+        "민주주의",
+        "마이크로타기팅",
+        "아첨",
+        "개인화"
+      ],
+      "source": "내부 총합 · 공개 논문·발표 기준 정리 · 이번 편집에서 외부 재대조 없음",
+      "related": [
+        "ai-human-control-guide",
+        "ai-conversation-data-access",
+        "llm-disempowerment-patterns"
+      ],
+      "aliases": [
+        "AI 설득과 민주주의",
+        "대화형 AI 설득"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-23"
+    },
+    {
+      "path": "wiki/ai-conversation-data-access.md",
+      "publish": true,
+      "order": 31,
+      "id": "ai-conversation-data-access",
+      "title": "AI 대화 데이터와 접근권: 연구·감사·감시를 가르는 비대칭",
+      "category": "AI와 사회",
+      "status": "발표·보도 기반·일부 미검증",
+      "updated": "2026-10-23",
+      "summary": "연구의 세 경로와 사각지대, 기업 내부의 집계 분석과 개별 신고 체계, 신고 기준의 이동, 공개된 활용과 증거 없는 가능성.",
+      "tags": [
+        "데이터 접근",
+        "감시",
+        "감사",
+        "개인정보",
+        "신고 체계"
+      ],
+      "source": "내부 총합 · 공개 논문·발표 기준 정리 · 이번 편집에서 외부 재대조 없음",
+      "related": [
+        "ai-human-control-guide",
+        "conversational-ai-persuasion",
+        "llm-disempowerment-patterns"
+      ],
+      "aliases": [
+        "AI 대화 데이터 접근권",
+        "대화 데이터 감시"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-23"
     }
   ]
 }

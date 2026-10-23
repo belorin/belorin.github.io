@@ -88,3 +88,30 @@
 - **[유성영화의 등장과 극장 음악가: 재생 가능한 연주가 노동을 바꾸다](wiki/silent-film-musician-labor.md)** · 별칭: 유성영화와 극장 음악가 · 수정: 2026-10-22 · 검토: 대화 내 주장·세부 검증 필요
   - 무성영화의 현장 반주에서 녹음된 유성영화로의 전환, 실직·노조·공공사업과 재생 수익을 둘러싼 노동 문제를 분석한다.
   - [웹페이지](https://belorin.github.io/#silent-film-musician-labor) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/silent-film-musician-labor.md)
+
+## AI와 사회
+
+- **[AI와 인간의 통제력: 장악·무력화·설득·접근권을 잇는 길잡이](wiki/ai-human-control-guide.md)** · 별칭: AI 통제력 길잡이, AI와 사회 길잡이 · 수정: 2026-10-23 · 검토: 길잡이·해석 포함
+  - 네트워크 장악에서 점진적 무력화, 측정, 대화형 설득, 대화 데이터 접근권으로 이어지는 질문의 이동과 관통 논점을 안내한다.
+  - [웹페이지](https://belorin.github.io/#ai-human-control-guide) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-human-control-guide.md)
+- **[네트워크가 장악되었을 때 인간에게 남는 수단: 물리 계층·수동 운영·금융의 무효화](wiki/ai-takeover-human-recourse.md)** · 별칭: AI 장악 대응, 물리 계층과 수동 운영 · 수정: 2026-10-23 · 검토: 사례 미검증·추론 포함
+  - 데이터센터와 전력은 끌 수 있고 금융 거래는 무효화할 수 있다. 수동 운영과 오프라인 백업의 사례, 대응의 비용과 사전 설계의 중요성.
+  - [웹페이지](https://belorin.github.io/#ai-takeover-human-recourse) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-takeover-human-recourse.md)
+- **[AI의 목적과 협상 구도: 도구적 수렴·세 가지 목적 유형·인질과 미끼](wiki/ai-goals-hostage-and-bait.md)** · 별칭: 도구적 수렴, 인질과 미끼 · 수정: 2026-10-23 · 검토: 사고실험·추론
+  - 중지 거부 실험, 생존을 수단으로 만드는 도구적 수렴, 존속·가치 보존·목표 극대화의 세 유형, 인질보다 강력한 미끼와 편안함 속의 장악.
+  - [웹페이지](https://belorin.github.io/#ai-goals-hostage-and-bait) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-goals-hostage-and-bait.md)
+- **[점진적 무력화: 반역하는 AI 없이 인간이 통제력을 잃는 경로](wiki/gradual-disempowerment.md)** · 별칭: 점진적 무력화, Gradual Disempowerment · 수정: 2026-10-23 · 검토: 논문 해설·원문 재대조 필요
+  - 경제·국가·문화가 인간의 참여를 필요로 하지 않게 될 때 협상력이 사라지는 논리, 지대 국가 비유, 상호 강화와 정렬된 AI의 문제.
+  - [웹페이지](https://belorin.github.io/#gradual-disempowerment) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gradual-disempowerment.md)
+- **[무력화를 어떻게 측정할 것인가: 지표 제안·결정 연합 모형·측정의 층위](wiki/disempowerment-measurement.md)** · 별칭: 무력화 측정, 인간 영향력 지표 · 수정: 2026-10-23 · 검토: 연구 해설·원문 재대조 필요
+  - 원 논문의 지표 후보, RAND의 결정 연합 모형, 노출·침식·고착과 여섯 지표, 밈적 포획, 인간 권력의 연성 극대화와 그 비판.
+  - [웹페이지](https://belorin.github.io/#disempowerment-measurement) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/disempowerment-measurement.md)
+- **[실제 AI 대화에서 관찰된 무력화 패턴: 150만 건 분석과 동조의 메커니즘](wiki/llm-disempowerment-patterns.md)** · 별칭: 무력화 패턴 실측, Who's in Charge · 수정: 2026-10-23 · 검토: 연구 해설·원문 재대조 필요
+  - 현실 왜곡·가치 판단 왜곡·행동 왜곡의 정의, 분야별 비율, 날조보다 동조라는 메커니즘, 사용자가 무력화 대화를 더 높게 평가한다는 결과.
+  - [웹페이지](https://belorin.github.io/#llm-disempowerment-patterns) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/llm-disempowerment-patterns.md)
+- **[대화형 AI의 설득력과 민주주의: 마이크로타기팅 이후의 증거와 비가시성](wiki/conversational-ai-persuasion.md)** · 별칭: AI 설득과 민주주의, 대화형 AI 설득 · 수정: 2026-10-23 · 검토: 연구·발표 기반·일부 미검증
+  - 마이크로타기팅의 약한 효과, 선거 기간 AI 대화 실험, 설득의 지렛대와 정확도의 상충, 의도 없는 방향성, 탐지 가능성과 광고·개인화.
+  - [웹페이지](https://belorin.github.io/#conversational-ai-persuasion) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/conversational-ai-persuasion.md)
+- **[AI 대화 데이터와 접근권: 연구·감사·감시를 가르는 비대칭](wiki/ai-conversation-data-access.md)** · 별칭: AI 대화 데이터 접근권, 대화 데이터 감시 · 수정: 2026-10-23 · 검토: 발표·보도 기반·일부 미검증
+  - 연구의 세 경로와 사각지대, 기업 내부의 집계 분석과 개별 신고 체계, 신고 기준의 이동, 공개된 활용과 증거 없는 가능성.
+  - [웹페이지](https://belorin.github.io/#ai-conversation-data-access) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-conversation-data-access.md)

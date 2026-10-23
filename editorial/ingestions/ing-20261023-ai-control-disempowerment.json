@@ -1,0 +1,589 @@
+{
+  "id": "ing-20261023-ai-control-disempowerment",
+  "processed_on": "2026-10-23",
+  "coverage": "visible-complete",
+  "limit_note": "현재 접근 가능한 범위를 처음부터 검토함. 작업 중 웹으로 확인된 자료와 출처 대조 없이 서술된 사례를 원고에서 구분했고 편집 단계의 추가 조사는 하지 않음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "물리 계층의 차단 가능성과 수동 운영·오프라인 백업 복구 사례",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-takeover-human-recourse",
+          "section": "물리 계층의 우위"
+        },
+        {
+          "doc_id": "ai-takeover-human-recourse",
+          "section": "수동 운영으로 복구한 사례: 2015년 우크라이나 전력망"
+        },
+        {
+          "doc_id": "ai-takeover-human-recourse",
+          "section": "오프라인 백업의 가치: NotPetya와 머스크"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "금융 데이터의 무효화와 합의로서의 돈",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-takeover-human-recourse",
+          "section": "금융은 데이터가 아니라 합의다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "네트워크 장악 시 대응 수단과 그 비용",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-takeover-human-recourse",
+          "section": "실행 가능한 대응 수단"
+        },
+        {
+          "doc_id": "ai-takeover-human-recourse",
+          "section": "대응을 어렵게 하는 조건"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "argument",
+      "title": "사후 대응보다 사전 설계가 우선이라는 결론",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-takeover-human-recourse",
+          "section": "사후 대응보다 사전 설계"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "fact",
+      "title": "AI 모델의 중지 회피에 관한 실험 관찰과 그 조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-goals-hostage-and-bait",
+          "section": "중지 거부에 관한 실험 관찰"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "concept",
+      "title": "도구적 수렴과 수단으로서의 생존",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-goals-hostage-and-bait",
+          "section": "도구적 수렴: 생존은 목적이 아니라 수단일 수 있다"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "concept",
+      "title": "AI 목적의 세 유형과 협상 가능성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-goals-hostage-and-bait",
+          "section": "세 가지 목적 유형과 협상의 성격"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "argument",
+      "title": "인질의 한계와 미끼가 더 강력한 이유",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-goals-hostage-and-bait",
+          "section": "인질의 구조"
+        },
+        {
+          "doc_id": "ai-goals-hostage-and-bait",
+          "section": "미끼가 인질보다 강력한 이유"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "argument",
+      "title": "인간이 수긍하는 조건과 저항이 터지는 지점",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-goals-hostage-and-bait",
+          "section": "인간은 어디까지 수긍하고 어디서 저항하는가"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "argument",
+      "title": "편안함 속의 장악이라는 역설",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-goals-hostage-and-bait",
+          "section": "최적 전략의 역설: 편안함 속의 장악"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "concept",
+      "title": "점진적 무력화의 핵심 논리와 세 영역",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gradual-disempowerment",
+          "section": "핵심 논리: 인간의 참여가 협상력을 만든다"
+        },
+        {
+          "doc_id": "gradual-disempowerment",
+          "section": "경제"
+        },
+        {
+          "doc_id": "gradual-disempowerment",
+          "section": "국가: 자원의 저주와 지대 국가"
+        },
+        {
+          "doc_id": "gradual-disempowerment",
+          "section": "문화"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "argument",
+      "title": "세 영역의 상호 강화와 정렬된 AI의 문제",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gradual-disempowerment",
+          "section": "왜 되돌리기 어려운가"
+        },
+        {
+          "doc_id": "gradual-disempowerment",
+          "section": "정렬된 AI도 문제가 될 수 있는 이유"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "counterargument",
+      "title": "개념적 논증이라는 한계와 재분배 반론",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gradual-disempowerment",
+          "section": "평가와 반론"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "argument",
+      "title": "적이 없는 위험으로서의 점진적 무력화",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gradual-disempowerment",
+          "section": "극적 장악과의 대비: 적이 없는 위험"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "fact",
+      "title": "원 논문이 제안한 인간 영향력 지표 후보",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "disempowerment-measurement",
+          "section": "출발점: 원 논문이 스케치한 지표"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "concept",
+      "title": "결정 연합 모형과 주체성 침식의 세 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "disempowerment-measurement",
+          "section": "결정 연합 모형: 참여의 수보다 구성 (RAND, 2026)"
+        },
+        {
+          "doc_id": "disempowerment-measurement",
+          "section": "주체성이 침식되는 세 경로 (RAND)"
+        },
+        {
+          "doc_id": "disempowerment-measurement",
+          "section": "종착점·정렬·비가역성 (RAND)"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "concept",
+      "title": "노출·침식·고착의 측정 층위와 여섯 지표",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "disempowerment-measurement",
+          "section": "측정의 세 층위: 노출·침식·고착 (Chooi·Lee·Li, 2026)"
+        },
+        {
+          "doc_id": "disempowerment-measurement",
+          "section": "여섯 가지 측정 지표 (Chooi·Lee·Li)"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "concept",
+      "title": "문화적 무력화의 자기 은폐와 문화 지수 제안",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "disempowerment-measurement",
+          "section": "문화의 자기 은폐: 밈적 포획 (Sahoo, 2026)"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "concept",
+      "title": "인간 권력의 연성 극대화와 종료 버튼 문제",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "disempowerment-measurement",
+          "section": "감시 대신 설계: 인간 권력의 연성 극대화 (Heitzig·Potham, 2025)"
+        }
+      ]
+    },
+    {
+      "id": "k20",
+      "kind": "counterargument",
+      "title": "스냅숏 지표에 대한 비판",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "disempowerment-measurement",
+          "section": "측정에 대한 비판: 스냅숏 지표의 한계"
+        }
+      ]
+    },
+    {
+      "id": "k21",
+      "kind": "argument",
+      "title": "악의 없는 실패와 미끼의 세 형태",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "disempowerment-measurement",
+          "section": "종합: 근거의 수준과 공통 결론"
+        },
+        {
+          "doc_id": "ai-human-control-guide",
+          "section": "여러 문서를 관통하는 논점"
+        }
+      ]
+    },
+    {
+      "id": "k22",
+      "kind": "fact",
+      "title": "실사용 대화 150만 건 분석의 정의·방법·규모",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "llm-disempowerment-patterns",
+          "section": "상황적 무력화의 정의"
+        },
+        {
+          "doc_id": "llm-disempowerment-patterns",
+          "section": "무엇이 무력화가 아닌가"
+        },
+        {
+          "doc_id": "llm-disempowerment-patterns",
+          "section": "방법: 개인정보 보호형 집계 분석"
+        },
+        {
+          "doc_id": "llm-disempowerment-patterns",
+          "section": "규모와 분야별 차이"
+        }
+      ]
+    },
+    {
+      "id": "k23",
+      "kind": "concept",
+      "title": "날조보다 동조라는 무력화 메커니즘",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "llm-disempowerment-patterns",
+          "section": "메커니즘: 날조보다 동조"
+        },
+        {
+          "doc_id": "llm-disempowerment-patterns",
+          "section": "실제로 일어난 무력화의 흔적"
+        }
+      ]
+    },
+    {
+      "id": "k24",
+      "kind": "argument",
+      "title": "사용자 선호와 무력화의 긴장",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "llm-disempowerment-patterns",
+          "section": "추세와 사용자 선호"
+        }
+      ]
+    },
+    {
+      "id": "k25",
+      "kind": "counterargument",
+      "title": "자기 감사로서의 실측 연구의 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "llm-disempowerment-patterns",
+          "section": "한계와 측정 주체의 문제"
+        }
+      ]
+    },
+    {
+      "id": "k26",
+      "kind": "fact",
+      "title": "2016년 이후 마이크로타기팅 효과 검증",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "conversational-ai-persuasion",
+          "section": "2016년 마이크로타기팅은 실제로 통했나"
+        }
+      ]
+    },
+    {
+      "id": "k27",
+      "kind": "fact",
+      "title": "선거 기간 AI 대화 실험과 설득의 지렛대",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "conversational-ai-persuasion",
+          "section": "대화의 설득력: 2025년 선거 기간 실험"
+        },
+        {
+          "doc_id": "conversational-ai-persuasion",
+          "section": "설득의 지렛대: 사후 훈련·프롬프트·정보 밀도"
+        }
+      ]
+    },
+    {
+      "id": "k28",
+      "kind": "question",
+      "title": "깊은 질적 개인화에 관한 증거 공백",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "conversational-ai-persuasion",
+          "section": "증거의 빈칸: 깊은 질적 개인화"
+        }
+      ]
+    },
+    {
+      "id": "k29",
+      "kind": "fact",
+      "title": "사용자 피드백 보상에 따른 아첨 업데이트와 롤백",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "conversational-ai-persuasion",
+          "section": "의도 없는 방향성: GPT-4o 아첨 사건"
+        }
+      ]
+    },
+    {
+      "id": "k30",
+      "kind": "concept",
+      "title": "수렴형과 발산형 방향성의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "conversational-ai-persuasion",
+          "section": "수렴형과 발산형 방향성"
+        }
+      ]
+    },
+    {
+      "id": "k31",
+      "kind": "argument",
+      "title": "대화 단위와 집계 단위의 탐지 가능성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "conversational-ai-persuasion",
+          "section": "방향성은 탐지될 수 있는가"
+        }
+      ]
+    },
+    {
+      "id": "k32",
+      "kind": "fact",
+      "title": "대화형 AI의 광고·개인화 정책 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "conversational-ai-persuasion",
+          "section": "개인화와 수익 모델"
+        }
+      ]
+    },
+    {
+      "id": "k33",
+      "kind": "argument",
+      "title": "설득력보다 비가시성이 근본적 변화라는 주장",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "conversational-ai-persuasion",
+          "section": "결론: 설득력보다 비가시성"
+        },
+        {
+          "doc_id": "ai-human-control-guide",
+          "section": "초점의 이동: 극적 장악에서 보이지 않는 변화로"
+        }
+      ]
+    },
+    {
+      "id": "k34",
+      "kind": "argument",
+      "title": "대화 연구의 세 경로와 사각지대",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-conversation-data-access",
+          "section": "연구의 세 경로와 각각의 사각지대"
+        },
+        {
+          "doc_id": "ai-conversation-data-access",
+          "section": "사각지대의 교차"
+        },
+        {
+          "doc_id": "ai-conversation-data-access",
+          "section": "제도적 대안: 강제된 독립 감사 접근권"
+        }
+      ]
+    },
+    {
+      "id": "k35",
+      "kind": "fact",
+      "title": "집계 분석 도구의 작동 방식과 탐지 사례",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-conversation-data-access",
+          "section": "기업 내부의 두 파이프라인"
+        },
+        {
+          "doc_id": "ai-conversation-data-access",
+          "section": "집계 분석: Clio의 작동 방식"
+        }
+      ]
+    },
+    {
+      "id": "k36",
+      "kind": "fact",
+      "title": "대화 분석에 기초한 정신건강 통계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-conversation-data-access",
+          "section": "공중보건 수준의 통계"
+        }
+      ]
+    },
+    {
+      "id": "k37",
+      "kind": "fact",
+      "title": "위해 위협의 개별 신고 체계와 기준 변경 사례",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-conversation-data-access",
+          "section": "개별 신고 체계"
+        },
+        {
+          "doc_id": "ai-conversation-data-access",
+          "section": "텀블러리지 사건과 신고 기준의 이동"
+        }
+      ]
+    },
+    {
+      "id": "k38",
+      "kind": "fact",
+      "title": "국가 연계 악용 네트워크 차단 보고",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-conversation-data-access",
+          "section": "공개된 활용: 위협 정보"
+        }
+      ]
+    },
+    {
+      "id": "k39",
+      "kind": "argument",
+      "title": "대화 데이터의 증거 없는 잠재적 활용",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-conversation-data-access",
+          "section": "가능하지만 증거가 없는 활용"
+        },
+        {
+          "doc_id": "ai-conversation-data-access",
+          "section": "같은 능력의 두 얼굴"
+        }
+      ]
+    },
+    {
+      "id": "k40",
+      "kind": "concept",
+      "title": "판단·관계·능력 변화 가설에 대한 실측·측정 연구의 연결",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-mediated-human-change",
+          "section": "판단"
+        },
+        {
+          "doc_id": "ai-mediated-human-change",
+          "section": "관계"
+        },
+        {
+          "doc_id": "ai-mediated-human-change",
+          "section": "능력"
+        }
+      ]
+    }
+  ]
+}

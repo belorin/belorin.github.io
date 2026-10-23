@@ -37,6 +37,42 @@
       "hypothesis": "정해진 재즈 형식의 반복 속 새로운 연주와 생성의 철학을 유비적으로 비교할 가능성",
       "reason": "재즈에서 같은 코러스를 되풀이해도 선택과 상호작용이 달라진다는 설명을 생성과 변화의 개념적 틀로 검토할 수 있다.",
       "limitation": "둘의 개념이 동일하다는 주장이 아니며, 들뢰즈가 해당 재즈 기법을 설명했다고 추정할 근거도 아니다."
+    },
+    {
+      "id": "link-20261023-recording-automated-trading",
+      "created_on": "2026-10-23",
+      "from": {
+        "doc_id": "silent-film-musician-labor",
+        "section": "녹음은 음악을 없앤 것이 아니라 재생의 단위를 바꾸었다"
+      },
+      "to": {
+        "doc_id": "disempowerment-measurement",
+        "section": "종착점·정렬·비가역성 (RAND)"
+      },
+      "type": "methodological_parallel",
+      "status": "proposed",
+      "basis": "editorial_hypothesis",
+      "hypothesis": "현장의 인간 수행이 재사용 가능한 기술로 대체된 뒤 이전 방식으로 되돌리기 어려워지는 과정을 극장 음악과 주식 자동매매에서 비교할 가능성",
+      "reason": "두 문서 모두 기술 전환 이후 인간 참여의 위치가 이동하고 투자된 설비와 제도 때문에 복귀가 어려워지는 구조를 다룬다.",
+      "limitation": "두 전환의 고용 효과나 비가역성의 정도가 같다는 주장이 아니며, 형식 모형의 임계점 개념을 역사적 사례에 그대로 적용할 근거도 아니다."
+    },
+    {
+      "id": "link-20261023-union-leverage-rentier-state",
+      "created_on": "2026-10-23",
+      "from": {
+        "doc_id": "silent-film-musician-labor",
+        "section": "녹음 금지와 재생 수익을 둘러싼 교섭"
+      },
+      "to": {
+        "doc_id": "gradual-disempowerment",
+        "section": "핵심 논리: 인간의 참여가 협상력을 만든다"
+      },
+      "type": "analogy",
+      "status": "proposed",
+      "basis": "editorial_hypothesis",
+      "hypothesis": "재생 기술 이후 음악가 노조의 교섭과 재생 수익 분배 문제를, 인간 참여에서 나오는 협상력과 재분배 반론에 비추어 읽을 가능성",
+      "reason": "극장 음악가의 교섭은 현장 노동이 필요하다는 사실에 기댔고, 점진적 무력화 논의는 시스템이 인간을 필요로 하는 정도가 협상력을 만든다고 본다.",
+      "limitation": "노동조합의 역사적 경험이 AI 시대의 결과를 예측한다는 주장이 아니며, 국가 재정과 노동 시장의 구조 차이를 무시할 수 없다."
     }
   ]
 }
