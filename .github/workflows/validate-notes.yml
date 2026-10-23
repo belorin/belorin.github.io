@@ -4,15 +4,20 @@ on:
     paths:
       - "wiki/**"
       - "notes.json"
+      - "editorial/**"
       - "scripts/build-notes.mjs"
       - "scripts/validate-editorial.mjs"
-      - "editorial/**"
+      - "scripts/test-editorial.mjs"
       - ".github/workflows/validate-notes.yml"
   pull_request:
     paths:
       - "wiki/**"
       - "notes.json"
+      - "editorial/**"
       - "scripts/build-notes.mjs"
+      - "scripts/validate-editorial.mjs"
+      - "scripts/test-editorial.mjs"
+      - ".github/workflows/validate-notes.yml"
 permissions:
   contents: read
 jobs:
@@ -25,3 +30,4 @@ jobs:
           node-version: "22"
       - run: node scripts/build-notes.mjs --check
       - run: node scripts/validate-editorial.mjs
+      - run: node scripts/test-editorial.mjs

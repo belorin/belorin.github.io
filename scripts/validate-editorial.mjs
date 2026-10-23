@@ -33,7 +33,7 @@ function exactFields(obj, allowed, label) {
 }
 function boundedString(value, label, max = 180) {
   if (typeof value !== "string" || !value.trim() || value.length > max ||
-      /[\r\n\u0000-\u001f]/.test(value)) fail(label + ": expected a nonempty single-line public-safe string <= " + max);
+      (/[\r\n\u0000-\u001f]/.test(value) || /(?:https?:\/\/|chatgpt\.com\/share\/)/i.test(value))) fail(label + ": expected a nonempty single-line public-safe string without URLs <= " + max);
 }
 function date(value, label) {
   if (typeof value !== "string" || !/^\d{4}-\d{2}-\d{2}$/.test(value) ||
