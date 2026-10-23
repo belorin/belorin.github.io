@@ -53,7 +53,7 @@ function similarity(left,right){
  return den1&&den2?shared/Math.sqrt(den1*den2):0;
 }
 const queryGrams=anchor?gramsById.get(anchor):grams(query);
-const links=new Map(docs.map(d=>[d.id,new Set(d.related_ids.filter(x=>byId.has(x))]));
+const links=new Map(docs.map(d=>[d.id,new Set(d.related_ids.filter(x=>byId.has(x)))]));
 for(const d of docs)for(const to of links.get(d.id))links.get(to)?.add(d.id);
 const sourceN=anchor?(links.get(anchor)||new Set()):new Set();
 const candidates=docs.filter(d=>d.id!==anchor).map(d=>{
