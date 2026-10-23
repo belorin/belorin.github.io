@@ -91,6 +91,12 @@
 - **[20세기 클래식의 잃어버린 계보: 존 마우체리와 정전의 재편](wiki/classical-canon-mauceri.md)** · 별칭: 전쟁과 음악, 클래식의 정전화, 영화음악과 클래식 · 수정: 2026-10-23 · 검토: 대화 내 주장·공연 일정 및 학계 수용 재검증 필요
   - 나치의 퇴폐음악 정책과 망명, 영화·게임음악의 정전 진입, 전후 교향악의 반복 연주와 미래 음악사 재편을 구별한다.
   - [웹페이지](https://belorin.github.io/#classical-canon-mauceri) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/classical-canon-mauceri.md)
+- **[소가 다이스케와 지휘자의 직업 세계: 광주 인연에서 국제 중견 경력까지](wiki/daisuke-soga-conductor-career.md)** · 별칭: 소가 다이스케, 曽我大介, Daisuke Soga, 지휘자 시장 · 수정: 2026-10-23 · 검토: 인물 경력·시장 추정치 외부 재검증 필요
+  - 소가 다이스케의 광주·전남 반복 초청과 작곡·지휘 경력, 장기 포스트 종료와 은퇴의 구분, 세계 지휘자 시장의 희소한 자리 구조를 함께 살핀다.
+  - [웹페이지](https://belorin.github.io/#daisuke-soga-conductor-career) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/daisuke-soga-conductor-career.md)
+- **[희소 채널 시대에서 살아남은 음악방송: 일본·한국·이탈리아와 다른 계보](wiki/long-running-music-broadcasts.md)** · 별칭: 장수 음악방송, 희소 채널 음악방송, NHK 노도지만, 산레모 음악방송 · 수정: 2026-10-23 · 검토: 프로그램 연혁·방송제도 비교 재검증 필요
+  - NHK 노도지만·전국노래자랑·산레모 등을 희소 채널 시대의 중앙 방송에서 다채널 시대로 이어진 제도적 연속성이라는 기준으로 비교한다.
+  - [웹페이지](https://belorin.github.io/#long-running-music-broadcasts) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/long-running-music-broadcasts.md)
 
 ## AI와 사회
 
@@ -166,9 +172,24 @@
 - **[버닝맨의 기원과 불의 공동체: 해변의 놀이에서 임시도시까지](wiki/burning-man-community.md)** · 별칭: 버닝맨, Burning Man, Man Burn, Temple Burn · 수정: 2026-10-23 · 검토: 기원 서술 미검증·비교 해석·행사 구상
   - 베이커 비치의 첫 소각과 반복·사막 이동, 한국 불행사와의 공동체 구조 비교, Man Burn·Temple Burn 및 한국형 행사 구상의 조건을 구별한다.
   - [웹페이지](https://belorin.github.io/#burning-man-community) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/burning-man-community.md)
+- **[집에서 남의 축제를 엿보기: 세계 연례행사의 방송·스트리밍 지도](wiki/global-festival-streaming.md)** · 별칭: 세계 축제 스트리밍, 집에서 보는 축제, 연례행사 스트리밍 · 수정: 2026-10-23 · 검토: 행사 일정·중계 가용성 시점 의존·재검증 필요
+  - 산레모·유로비전부터 세마나 산타·아와오도리·코첼라·버닝맨까지, 연례행사가 방송과 만나는 세 유형과 월별 관찰 지점을 정리한다.
+  - [웹페이지](https://belorin.github.io/#global-festival-streaming) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/global-festival-streaming.md)
+- **[버닝맨의 10원칙과 제도화의 역설: 반상업·참여·안전·통치](wiki/burning-man-institutions.md)** · 별칭: 버닝맨 10원칙, Burning Man Ten Principles, 버닝맨 제도화, No Spectators · 수정: 2026-10-23 · 검토: 원칙·재무·사건 연혁 외부 재검증 필요
+  - 10원칙, 탈상품화와 대규모 예산의 긴장, No Spectators와 공식 웹캐스트, 안전·치안의 제도화가 함께 만든 버닝맨의 구조적 역설을 다룬다.
+  - [웹페이지](https://belorin.github.io/#burning-man-institutions) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/burning-man-institutions.md)
+- **[버닝맨은 무엇을 수출했나: 지역 번즈와 임시도시의 문화 프로토콜](wiki/burning-man-regional-network.md)** · 별칭: Regional Burn, Burning Man Regional Network, AfrikaBurn, Midburn, Kiwiburn, Burning Japan · 수정: 2026-10-23 · 검토: 지역 네트워크 수치·행사별 연혁 재검증 필요
+  - AfrikaBurn·Midburn·Kiwiburn·Burning Japan을 통해 사막의 외형보다 참여·선물·자율운영·흔적 지우기라는 문화 프로토콜이 어떻게 현지화되는지 살핀다.
+  - [웹페이지](https://belorin.github.io/#burning-man-regional-network) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/burning-man-regional-network.md)
 
 ## 언어
 
 - **[romp의 뜻과 어원: 거친 움직임에서 놀이·난장극·압승으로](wiki/romp-etymology.md)** · 별칭: romp, romper, rompers, romp to victory · 수정: 2026-10-23 · 검토: 사전 귀속·어원·용례 연대 재검증 필요
   - ramp·ramper 계보의 설명, 역사적 인물 명사와 사전별 연대 차이, romper·rompers 및 놀이·작품·압승의 용례와 rump의 차이를 정리한다.
   - [웹페이지](https://belorin.github.io/#romp-etymology) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/romp-etymology.md)
+
+## 사회와 제도
+
+- **[주인 없는 땅은 거의 없다: 사막의 공공토지와 미국 BLM](wiki/public-land-and-blm.md)** · 별칭: BLM, Bureau of Land Management, 공공 토지, 블랙록 사막 · 수정: 2026-10-23 · 검토: 토지법·면적 수치·국가별 제도 재검증 필요
+  - 무주지와 비민간 토지를 구별하고, 블랙록 사막의 BLM 허가 구조와 미국 서부·호주·나미비아·사하라의 겹쳐진 토지 권리를 설명한다.
+  - [웹페이지](https://belorin.github.io/#public-land-and-blm) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/public-land-and-blm.md)

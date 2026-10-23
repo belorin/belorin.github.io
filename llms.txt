@@ -45,6 +45,8 @@
 - [17세에서 35세까지: 현대 재즈 음악가의 경력 형성 모형](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-career-path.md): 가상의 베이시스트를 통해 청소년 앙상블, 음악학교, 사이드맨, 리더 음반, 투어, 비평, 교육의 경력 경로를 설명한다.
 - [유성영화의 등장과 극장 음악가: 재생 가능한 연주가 노동을 바꾸다](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/silent-film-musician-labor.md): 무성영화의 현장 반주에서 녹음된 유성영화로의 전환, 실직·노조·공공사업과 재생 수익을 둘러싼 노동 문제를 분석한다.
 - [20세기 클래식의 잃어버린 계보: 존 마우체리와 정전의 재편](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/classical-canon-mauceri.md): 나치의 퇴폐음악 정책과 망명, 영화·게임음악의 정전 진입, 전후 교향악의 반복 연주와 미래 음악사 재편을 구별한다.
+- [소가 다이스케와 지휘자의 직업 세계: 광주 인연에서 국제 중견 경력까지](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/daisuke-soga-conductor-career.md): 소가 다이스케의 광주·전남 반복 초청과 작곡·지휘 경력, 장기 포스트 종료와 은퇴의 구분, 세계 지휘자 시장의 희소한 자리 구조를 함께 살핀다.
+- [희소 채널 시대에서 살아남은 음악방송: 일본·한국·이탈리아와 다른 계보](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/long-running-music-broadcasts.md): NHK 노도지만·전국노래자랑·산레모 등을 희소 채널 시대의 중앙 방송에서 다채널 시대로 이어진 제도적 연속성이라는 기준으로 비교한다.
 
 ### AI와 사회
 
@@ -78,7 +80,14 @@
 ### 문화와 역사
 
 - [버닝맨의 기원과 불의 공동체: 해변의 놀이에서 임시도시까지](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/burning-man-community.md): 베이커 비치의 첫 소각과 반복·사막 이동, 한국 불행사와의 공동체 구조 비교, Man Burn·Temple Burn 및 한국형 행사 구상의 조건을 구별한다.
+- [집에서 남의 축제를 엿보기: 세계 연례행사의 방송·스트리밍 지도](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/global-festival-streaming.md): 산레모·유로비전부터 세마나 산타·아와오도리·코첼라·버닝맨까지, 연례행사가 방송과 만나는 세 유형과 월별 관찰 지점을 정리한다.
+- [버닝맨의 10원칙과 제도화의 역설: 반상업·참여·안전·통치](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/burning-man-institutions.md): 10원칙, 탈상품화와 대규모 예산의 긴장, No Spectators와 공식 웹캐스트, 안전·치안의 제도화가 함께 만든 버닝맨의 구조적 역설을 다룬다.
+- [버닝맨은 무엇을 수출했나: 지역 번즈와 임시도시의 문화 프로토콜](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/burning-man-regional-network.md): AfrikaBurn·Midburn·Kiwiburn·Burning Japan을 통해 사막의 외형보다 참여·선물·자율운영·흔적 지우기라는 문화 프로토콜이 어떻게 현지화되는지 살핀다.
 
 ### 언어
 
 - [romp의 뜻과 어원: 거친 움직임에서 놀이·난장극·압승으로](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/romp-etymology.md): ramp·ramper 계보의 설명, 역사적 인물 명사와 사전별 연대 차이, romper·rompers 및 놀이·작품·압승의 용례와 rump의 차이를 정리한다.
+
+### 사회와 제도
+
+- [주인 없는 땅은 거의 없다: 사막의 공공토지와 미국 BLM](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/public-land-and-blm.md): 무주지와 비민간 토지를 구별하고, 블랙록 사막의 BLM 허가 구조와 미국 서부·호주·나미비아·사하라의 겹쳐진 토지 권리를 설명한다.

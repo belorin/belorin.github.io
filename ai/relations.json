@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 243,
+  "edge_count": 259,
   "edges": [
     {
       "from": "living-notes",
@@ -1356,6 +1356,78 @@
       "basis": "manifest.related"
     },
     {
+      "from": "long-running-music-broadcasts",
+      "to": "global-festival-streaming",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "global-festival-streaming",
+      "to": "long-running-music-broadcasts",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "global-festival-streaming",
+      "to": "burning-man-community",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "global-festival-streaming",
+      "to": "burning-man-institutions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "public-land-and-blm",
+      "to": "burning-man-community",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "public-land-and-blm",
+      "to": "burning-man-institutions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "burning-man-institutions",
+      "to": "burning-man-community",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "burning-man-institutions",
+      "to": "public-land-and-blm",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "burning-man-institutions",
+      "to": "burning-man-regional-network",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "burning-man-institutions",
+      "to": "global-festival-streaming",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "burning-man-regional-network",
+      "to": "burning-man-community",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "burning-man-regional-network",
+      "to": "burning-man-institutions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "jazz-to-ai",
       "to": "jazz-dialogue",
       "type": "introduces",
@@ -1514,6 +1586,38 @@
       "basis": "curated",
       "evidence_section": "초기의 놀이를 가리키는 romp",
       "reason": "초기 해변 소각의 놀이 성격을 설명하는 단어에서 뜻·어원·의미 변화의 상세 문서로 연결한다."
+    },
+    {
+      "from": "global-festival-streaming",
+      "to": "burning-man-community",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "두 주 집중 시청의 2026년 사례",
+      "reason": "세계 연례행사 시청 일정에서 버닝맨을 접한 뒤 기원과 임시 공동체의 상세 설명으로 연결한다."
+    },
+    {
+      "from": "public-land-and-blm",
+      "to": "burning-man-community",
+      "type": "supports",
+      "basis": "curated",
+      "evidence_section": "블랙록 사막은 누구의 땅인가",
+      "reason": "블랙록 사막의 공공토지와 임시 사용 허가 구조가 버닝맨의 임시도시 배경을 제도적으로 보충한다."
+    },
+    {
+      "from": "burning-man-institutions",
+      "to": "burning-man-community",
+      "type": "elaborates",
+      "basis": "curated",
+      "evidence_section": "10원칙은 출발점이 아니라 뒤늦은 성문화",
+      "reason": "해변의 놀이와 임시 공동체에서 발전한 문화가 10원칙과 운영조직으로 제도화되는 과정을 심화한다."
+    },
+    {
+      "from": "burning-man-regional-network",
+      "to": "burning-man-community",
+      "type": "elaborates",
+      "basis": "curated",
+      "evidence_section": "사막의 외형이 아니라 문화 프로토콜",
+      "reason": "블랙록 사막에서 형성된 참여 문화를 여러 나라가 현지화하는 구조로 확장한다."
     }
   ]
 }
