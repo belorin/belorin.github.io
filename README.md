@@ -48,3 +48,7 @@ https://belorin.github.io
 `node scripts/search-wiki.mjs --query "재즈 즉흥성" --json`으로 제목·절·단문의 어휘 기반 후보를 검색하고, `node scripts/search-wiki.mjs --related jazz-dialogue --all --novel --json`으로 기존 직접 링크가 없는 개념적 연결 후보를 탐색할 수 있다. `--all`은 미게시 Markdown도 포함하되 저장소 자체는 공개되어 있다는 점에 주의한다.
 
 이 로컬 검색은 **임베딩 기반 의미 검색이 아니며**, 문자 n-gram과 기존 관계를 이용한 *후보 검색*이다. 일반 ChatGPT 채팅에서는 `AI_INDEX.md`, `wiki/manifest.json`, `editorial/crosslinks/index.json`을 읽고 모델이 전체 Markdown을 비교해 의미적 가설을 제안한다. 사람 또는 명시적인 편집 승인 전까지 `editorial/crosslinks/index.json`의 `proposed` 항목을 원고에 자동 반영하지 않는다. 자세한 사용법은 [교차 편집 지침](editorial/crosslinks/README.md) 참고.
+
+## 웹사이트 탐색 화면
+
+사이트는 별도 프레임워크 없이 `index.html`, `style.css`, `app.js`로 렌더링한다. 첫 화면(`/`)은 문서 인덱스로서 무작위 문서, 주제별 목록, 최근 수정 문서를 제공한다. `/#all`은 전체/검색 목록, `/#about`은 운영 안내, `/#<문서-id>`는 기존 북마크와 호환되는 본문 주소다. 문서 화면에는 본문 목차와 관련 문서, Markdown 정본 및 해당 파일의 GitHub 커밋 이력 링크가 있다. 콘텐츠 정본인 `wiki/*.md` 및 자동 생성 `notes.json`에는 영향을 주지 않는다.
