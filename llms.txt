@@ -44,6 +44,7 @@
 - [현대 재즈 생태계: 협업 네트워크와 여러 종류의 정상](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-current-ecosystem.md): 동료의 신뢰, DownBeat·JJA·그래미, 차트·라디오, 레이블·공연장·페스티벌·콩쿠르를 서로 다른 평가 체계로 구별한다.
 - [17세에서 35세까지: 현대 재즈 음악가의 경력 형성 모형](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-career-path.md): 가상의 베이시스트를 통해 청소년 앙상블, 음악학교, 사이드맨, 리더 음반, 투어, 비평, 교육의 경력 경로를 설명한다.
 - [유성영화의 등장과 극장 음악가: 재생 가능한 연주가 노동을 바꾸다](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/silent-film-musician-labor.md): 무성영화의 현장 반주에서 녹음된 유성영화로의 전환, 실직·노조·공공사업과 재생 수익을 둘러싼 노동 문제를 분석한다.
+- [20세기 클래식의 잃어버린 계보: 존 마우체리와 정전의 재편](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/classical-canon-mauceri.md): 나치의 퇴폐음악 정책과 망명, 영화·게임음악의 정전 진입, 전후 교향악의 반복 연주와 미래 음악사 재편을 구별한다.
 
 ### AI와 사회
 

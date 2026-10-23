@@ -2,7 +2,7 @@
   "id": "ing-20261023-mauceri-classical-canon",
   "processed_on": "2026-10-23",
   "coverage": "visible-complete",
-  "limit_note": "현재 접근 가능한 대화 내용만 처리. 외부 재조사 없음. 생성기·CI 검증 전 검토용 브랜치.",
+  "limit_note": "기존 배치의 접근 범위 기록을 유지. 이번 후속 작업은 저장소 원고·메타데이터·장부와 생성물의 검수이며 원대화 전체를 재대조하지 않음. 외부 재조사 없음.",
   "withheld_count": 0,
   "items": [
     {
@@ -19,7 +19,7 @@
     },
     {
       "id": "k02",
-      "kind": "history",
+      "kind": "fact",
       "title": "퇴폐음악 정책과 망명 작곡가의 수용",
       "status": "integrated",
       "targets": [
@@ -91,7 +91,7 @@
     },
     {
       "id": "k08",
-      "kind": "hypothesis",
+      "kind": "argument",
       "title": "미래의 다중 계보와 전후 교향악 재평가",
       "status": "integrated",
       "targets": [
