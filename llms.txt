@@ -64,3 +64,9 @@
 - [통제사회, 마르크스, 말년의 들뢰즈가 남긴 미래 문제](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-control-marx-future.md): 주형에서 변조, 개인에서 dividual, 빚진 인간, 『마르크스의 위대함』의 미완성 기획, 혁명적 생성·비소통·세계에 대한 믿음을 하나의 말년 문제계로 정리한다.
 - [들뢰즈 이후, 생성·자본·기술을 이어 간 사상가들](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/post-deleuze-novelty-thinkers.md): 라자라토, 하트·네그리, 데란다, 마수미, 브라이도티, 스텡게르스, 육후이, 파스퀴넬리로 분산된 들뢰즈 이후의 계보를 질문별로 정리한다.
 - [현대 세계를 지배하는 철학과 합리성: 자유주의에서 계산주의까지](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/contemporary-governing-philosophies.md): 단일 패권철학 대신 자유주의, 신자유주의, 통계적 실증주의, 경제학적 합리성, 계산·최적화가 서로 다른 제도에서 운영체제처럼 작동하는 구조를 정리한다.
+
+### 독서 문화
+
+- [세계 독서모임: 온라인으로 관찰하는 독서문화의 여러 형태](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-reading-groups.md): 홍콩·카탈루냐·인도·일본의 공개 사례와 네 지역의 미확인 사례를 통해 온라인 접근성·운영·문화적 기능·조사 윤리를 구분한다.
+- [2026년 해외 독서모임 선정도서: 홍콩·바르셀로나·델리·일본](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/global-reading-club-2026-books.md): 2026년 홍콩 6권, 카탈루냐 6권, 델리 월별 6편과 챌린지 12권, 일본 온라인 행사 16건을 비교하고 공개 확인의 한계를 기록한다.
+- [해외 독서모임 따라 읽기: 2026년 선정작의 한국어 번역본](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-book-club-korean-editions.md): 월간 선정작의 한국어 대응명 14개와 인도 독서 챌린지 9개, 번역·단편 선집 여부 미확인 6개를 분리해 비교하는 읽기 목록.

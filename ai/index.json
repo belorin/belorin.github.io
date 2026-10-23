@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 38,
+  "document_count": 41,
   "documents": [
     {
       "id": "living-notes",
@@ -1238,6 +1238,99 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-democracy-narrow-corridor.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-democracy-narrow-corridor.md",
       "page_url": "https://belorin.github.io/#ai-democracy-narrow-corridor"
+    },
+    {
+      "id": "world-reading-groups",
+      "title": "세계 독서모임: 온라인으로 관찰하는 독서문화의 여러 형태",
+      "aliases": [
+        "세계 북클럽",
+        "해외 독서모임",
+        "독서모임 조사"
+      ],
+      "category": "독서 문화",
+      "tags": [
+        "세계 독서문화",
+        "독서모임",
+        "지역 문화",
+        "온라인 북클럽",
+        "참관 윤리"
+      ],
+      "summary": "홍콩·카탈루냐·인도·일본의 공개 사례와 네 지역의 미확인 사례를 통해 온라인 접근성·운영·문화적 기능·조사 윤리를 구분한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "공개 사례 부분 확인·현행 운영 재검증 필요",
+      "last_updated_on": "2026-10-23",
+      "last_enriched_on": "2026-10-23",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "global-reading-club-2026-books",
+        "world-book-club-korean-editions"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-reading-groups.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/world-reading-groups.md",
+      "page_url": "https://belorin.github.io/#world-reading-groups"
+    },
+    {
+      "id": "global-reading-club-2026-books",
+      "title": "2026년 해외 독서모임 선정도서: 홍콩·바르셀로나·델리·일본",
+      "aliases": [
+        "해외 독서모임 도서 목록",
+        "2026 해외 북클럽 책"
+      ],
+      "category": "독서 문화",
+      "tags": [
+        "2026 독서 목록",
+        "홍콩",
+        "카탈루냐",
+        "인도",
+        "일본",
+        "세계문학"
+      ],
+      "summary": "2026년 홍콩 6권, 카탈루냐 6권, 델리 월별 6편과 챌린지 12권, 일본 온라인 행사 16건을 비교하고 공개 확인의 한계를 기록한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "2026년 7월 초 안내 기반·추가 활동 재검증 필요",
+      "last_updated_on": "2026-10-23",
+      "last_enriched_on": "2026-10-23",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "world-reading-groups",
+        "world-book-club-korean-editions"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/global-reading-club-2026-books.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/global-reading-club-2026-books.md",
+      "page_url": "https://belorin.github.io/#global-reading-club-2026-books"
+    },
+    {
+      "id": "world-book-club-korean-editions",
+      "title": "해외 독서모임 따라 읽기: 2026년 선정작의 한국어 번역본",
+      "aliases": [
+        "독서모임 한국어판",
+        "해외 북클럽 번역본",
+        "세계 독서모임 따라 읽기"
+      ],
+      "category": "독서 문화",
+      "tags": [
+        "한국어 번역본",
+        "세계문학",
+        "독서 목록",
+        "2026 북클럽",
+        "서지 검증"
+      ],
+      "summary": "월간 선정작의 한국어 대응명 14개와 인도 독서 챌린지 9개, 번역·단편 선집 여부 미확인 6개를 분리해 비교하는 읽기 목록.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "국내 한국어판 예비 대조·서지 검증 필요",
+      "last_updated_on": "2026-10-23",
+      "last_enriched_on": "2026-10-23",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "global-reading-club-2026-books",
+        "world-reading-groups"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-book-club-korean-editions.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/world-book-club-korean-editions.md",
+      "page_url": "https://belorin.github.io/#world-book-club-korean-editions"
     }
   ]
 }

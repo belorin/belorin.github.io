@@ -1,0 +1,249 @@
+{
+  "id": "ing-20261023-world-reading-clubs",
+  "processed_on": "2026-10-23",
+  "coverage": "visible-complete",
+  "limit_note": "현재 접근 가능한 모임 탐색·2026년 책 목록·한국어 대응명까지 처리; 새 인터넷 조사와 국내 서지 검증 없음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "question",
+      "title": "모임의 목적·선정·토론·지역성·외부 접근·기록 권한",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-reading-groups",
+          "section": "모임을 관찰하는 일곱 질문"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "온라인 접근성 유형과 외국인 참관의 조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-reading-groups",
+          "section": "온라인 접근성은 하나의 값이 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "curation",
+      "title": "25개국·40개 모임의 균형 표본 설계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-reading-groups",
+          "section": "연구 대상 지역과 표본 구성"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "example",
+      "title": "홍콩 회원 투표와 장르별 연간 선정",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-reading-groups",
+          "section": "홍콩 — Hong Kong Ladies Book Club"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "example",
+      "title": "카탈루냐 지역 신작과 작가 대화",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-reading-groups",
+          "section": "바르셀로나 — Club de Lectura de Quadern"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "example",
+      "title": "인도 단편·장편 병행과 연간 챌린지",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-reading-groups",
+          "section": "인도 델리 — The Indian Book Club"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "example",
+      "title": "일본 병렬 소모임과 장기 고전 강독",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-reading-groups",
+          "section": "일본 — 猫町。 네코마치"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "example",
+      "title": "카자흐스탄·조지아·나이지리아·케냐의 공개 목록 부재",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-reading-groups",
+          "section": "카자흐스탄·조지아·나이지리아·케냐: 선정 방식과 공개성의 간극"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "argument",
+      "title": "독서모임 사회적 유형화의 조건과 한국 비교의 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-reading-groups",
+          "section": "비교 유형을 만드는 방법"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "question",
+      "title": "참관·녹화·인용·익명성의 윤리와 취재 전제",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-reading-groups",
+          "section": "참관·인터뷰의 윤리적 경계"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "curation",
+      "title": "홍콩 2026년 5~10월 선정작 여섯 권",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-reading-club-2026-books",
+          "section": "홍콩: Hong Kong Ladies Book Club"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "curation",
+      "title": "바르셀로나 2026년 1~6월 카탈루냐 신작 여섯 권",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-reading-club-2026-books",
+          "section": "바르셀로나: Club de Lectura de Quadern"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "curation",
+      "title": "델리 2026년 6~7월 토론작 여섯 편",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-reading-club-2026-books",
+          "section": "인도 델리: The Indian Book Club의 6~7월 월별 토론 일정"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "curation",
+      "title": "델리 연간 도서 챌린지 열두 권과 월별 토론의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-reading-club-2026-books",
+          "section": "별개인 2026년 Reading Challenge: 12권"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "curation",
+      "title": "일본 네코마치 5~7월 온라인 행사 열여섯 건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-reading-club-2026-books",
+          "section": "일본: 猫町。 네코마치의 5~7월 온라인 행사"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "curation",
+      "title": "한국어판 대응명: 월간 도서 열네 작품",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-book-club-korean-editions",
+          "section": "월별 토론 선정작의 한국어 대응명"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "curation",
+      "title": "한국어판 대응명: 인도 챌린지 아홉 권",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-book-club-korean-editions",
+          "section": "인도 Reading Challenge의 한국어 대응명"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "question",
+      "title": "선집 수록·출간 여부 불명확한 여섯 작품",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-book-club-korean-editions",
+          "section": "제목과 판본 확인이 필요한 작품"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "curation",
+      "title": "해외 독서문화를 비교하는 일곱 가지 읽기 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-book-club-korean-editions",
+          "section": "문화적 비교를 위한 일곱 가지 읽기 경로"
+        }
+      ]
+    },
+    {
+      "id": "k20",
+      "kind": "concept",
+      "title": "한국어 서명 주장과 실제 출판 서지 검증의 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-book-club-korean-editions",
+          "section": "서지 검증의 최소 요건"
+        }
+      ]
+    }
+  ]
+}

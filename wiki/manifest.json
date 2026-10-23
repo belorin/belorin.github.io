@@ -1245,6 +1245,96 @@
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-23",
       "order": 37
+    },
+    {
+      "path": "wiki/world-reading-groups.md",
+      "publish": true,
+      "order": null,
+      "id": "world-reading-groups",
+      "title": "세계 독서모임: 온라인으로 관찰하는 독서문화의 여러 형태",
+      "category": "독서 문화",
+      "status": "공개 사례 부분 확인·현행 운영 재검증 필요",
+      "updated": "2026-10-23",
+      "summary": "홍콩·카탈루냐·인도·일본의 공개 사례와 네 지역의 미확인 사례를 통해 온라인 접근성·운영·문화적 기능·조사 윤리를 구분한다.",
+      "tags": [
+        "세계 독서문화",
+        "독서모임",
+        "지역 문화",
+        "온라인 북클럽",
+        "참관 윤리"
+      ],
+      "source": "내부 총합 · 2026년 과거 도서 목록과 모임 소개 재구성 · 외부 재조사 없음",
+      "related": [
+        "global-reading-club-2026-books",
+        "world-book-club-korean-editions"
+      ],
+      "aliases": [
+        "세계 북클럽",
+        "해외 독서모임",
+        "독서모임 조사"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-23"
+    },
+    {
+      "path": "wiki/global-reading-club-2026-books.md",
+      "publish": true,
+      "order": null,
+      "id": "global-reading-club-2026-books",
+      "title": "2026년 해외 독서모임 선정도서: 홍콩·바르셀로나·델리·일본",
+      "category": "독서 문화",
+      "status": "2026년 7월 초 안내 기반·추가 활동 재검증 필요",
+      "updated": "2026-10-23",
+      "summary": "2026년 홍콩 6권, 카탈루냐 6권, 델리 월별 6편과 챌린지 12권, 일본 온라인 행사 16건을 비교하고 공개 확인의 한계를 기록한다.",
+      "tags": [
+        "2026 독서 목록",
+        "홍콩",
+        "카탈루냐",
+        "인도",
+        "일본",
+        "세계문학"
+      ],
+      "source": "내부 총합 · 2026년 과거 도서 목록과 모임 소개 재구성 · 외부 재조사 없음",
+      "related": [
+        "world-reading-groups",
+        "world-book-club-korean-editions"
+      ],
+      "aliases": [
+        "해외 독서모임 도서 목록",
+        "2026 해외 북클럽 책"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-23"
+    },
+    {
+      "path": "wiki/world-book-club-korean-editions.md",
+      "publish": true,
+      "order": null,
+      "id": "world-book-club-korean-editions",
+      "title": "해외 독서모임 따라 읽기: 2026년 선정작의 한국어 번역본",
+      "category": "독서 문화",
+      "status": "국내 한국어판 예비 대조·서지 검증 필요",
+      "updated": "2026-10-23",
+      "summary": "월간 선정작의 한국어 대응명 14개와 인도 독서 챌린지 9개, 번역·단편 선집 여부 미확인 6개를 분리해 비교하는 읽기 목록.",
+      "tags": [
+        "한국어 번역본",
+        "세계문학",
+        "독서 목록",
+        "2026 북클럽",
+        "서지 검증"
+      ],
+      "source": "내부 총합 · 2026년 과거 도서 목록과 모임 소개 재구성 · 외부 재조사 없음",
+      "related": [
+        "global-reading-club-2026-books",
+        "world-reading-groups"
+      ],
+      "aliases": [
+        "독서모임 한국어판",
+        "해외 북클럽 번역본",
+        "세계 독서모임 따라 읽기"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-23"
     }
   ]
 }

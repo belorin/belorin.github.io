@@ -136,3 +136,15 @@
 - **[현대 세계를 지배하는 철학과 합리성: 자유주의에서 계산주의까지](wiki/contemporary-governing-philosophies.md)** · 별칭: 2026년의 패권철학, 계산주의, 현대의 지배적 합리성 · 수정: 2026-10-23 · 검토: 종합적 지도·해석
   - 단일 패권철학 대신 자유주의, 신자유주의, 통계적 실증주의, 경제학적 합리성, 계산·최적화가 서로 다른 제도에서 운영체제처럼 작동하는 구조를 정리한다.
   - [웹페이지](https://belorin.github.io/#contemporary-governing-philosophies) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/contemporary-governing-philosophies.md)
+
+## 독서 문화
+
+- **[세계 독서모임: 온라인으로 관찰하는 독서문화의 여러 형태](wiki/world-reading-groups.md)** · 별칭: 세계 북클럽, 해외 독서모임, 독서모임 조사 · 수정: 2026-10-23 · 검토: 공개 사례 부분 확인·현행 운영 재검증 필요
+  - 홍콩·카탈루냐·인도·일본의 공개 사례와 네 지역의 미확인 사례를 통해 온라인 접근성·운영·문화적 기능·조사 윤리를 구분한다.
+  - [웹페이지](https://belorin.github.io/#world-reading-groups) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-reading-groups.md)
+- **[2026년 해외 독서모임 선정도서: 홍콩·바르셀로나·델리·일본](wiki/global-reading-club-2026-books.md)** · 별칭: 해외 독서모임 도서 목록, 2026 해외 북클럽 책 · 수정: 2026-10-23 · 검토: 2026년 7월 초 안내 기반·추가 활동 재검증 필요
+  - 2026년 홍콩 6권, 카탈루냐 6권, 델리 월별 6편과 챌린지 12권, 일본 온라인 행사 16건을 비교하고 공개 확인의 한계를 기록한다.
+  - [웹페이지](https://belorin.github.io/#global-reading-club-2026-books) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/global-reading-club-2026-books.md)
+- **[해외 독서모임 따라 읽기: 2026년 선정작의 한국어 번역본](wiki/world-book-club-korean-editions.md)** · 별칭: 독서모임 한국어판, 해외 북클럽 번역본, 세계 독서모임 따라 읽기 · 수정: 2026-10-23 · 검토: 국내 한국어판 예비 대조·서지 검증 필요
+  - 월간 선정작의 한국어 대응명 14개와 인도 독서 챌린지 9개, 번역·단편 선집 여부 미확인 6개를 분리해 비교하는 읽기 목록.
+  - [웹페이지](https://belorin.github.io/#world-book-club-korean-editions) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-book-club-korean-editions.md)

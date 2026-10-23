@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 208,
+  "edge_count": 216,
   "edges": [
     {
       "from": "living-notes",
@@ -1176,6 +1176,42 @@
       "basis": "manifest.related"
     },
     {
+      "from": "world-reading-groups",
+      "to": "global-reading-club-2026-books",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-reading-groups",
+      "to": "world-book-club-korean-editions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "global-reading-club-2026-books",
+      "to": "world-reading-groups",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "global-reading-club-2026-books",
+      "to": "world-book-club-korean-editions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-book-club-korean-editions",
+      "to": "global-reading-club-2026-books",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-book-club-korean-editions",
+      "to": "world-reading-groups",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "jazz-to-ai",
       "to": "jazz-dialogue",
       "type": "introduces",
@@ -1294,6 +1330,22 @@
       "basis": "curated",
       "evidence_section": "사각지대의 교차",
       "reason": "깊은 개인화와 의도적 설득의 증거 공백이 접근권의 비대칭 때문에 메워지기 어려운 이유를 설명한다."
+    },
+    {
+      "from": "world-reading-groups",
+      "to": "global-reading-club-2026-books",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "모임을 관찰하는 일곱 질문",
+      "reason": "문화적 관찰 기준을 홍콩·바르셀로나·델리·일본의 실제 선정도서 배열에 연결한다."
+    },
+    {
+      "from": "global-reading-club-2026-books",
+      "to": "world-book-club-korean-editions",
+      "type": "curates",
+      "basis": "curated",
+      "evidence_section": "네 지역을 비교하는 독서 리듬",
+      "reason": "해외 선정작을 한국어로 따라 읽기 위한 대응·판본 검토 문서를 안내한다."
     }
   ]
 }
