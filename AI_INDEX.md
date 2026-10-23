@@ -121,6 +121,15 @@
 - **[AI와 민주주의의 좁은 회랑: 국가·시민사회·데이터 비대칭의 수리모형](wiki/ai-democracy-narrow-corridor.md)** · 별칭: AI와 민주주의, Why does AI hinder democratization, 민주주의 좁은 회랑 · 수정: 2026-10-23 · 검토: 논문 해설·수리모형 세부 재대조 필요
   - AI가 국가와 시민사회에 비대칭적으로 결합할 때 민주주의의 유지 영역이 좁아지는 조건부 수리모형, 164개국 디지털 능력 자료, 플랫폼·개인화로의 확장을 구분한다.
   - [웹페이지](https://belorin.github.io/#ai-democracy-narrow-corridor) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-democracy-narrow-corridor.md)
+- **[AI 경제 이행기: 과업·수요·혁신·소유를 둘러싼 경제학의 질문](wiki/ai-economic-transition.md)** · 별칭: AI 경제 이행기, AI 경제학파 비교 · 수정: 2026-10-23 · 검토: 공개 연구 보완·조건부 분석
+  - 과업의 대체·복원, 유효수요, 혁신의 병목, 소유와 분배를 여섯 분석 틀로 비교하고 이행 경로와 정량 모형의 조건을 구별한다.
+  - [웹페이지](https://belorin.github.io/#ai-economic-transition) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-economic-transition.md)
+- **[AI 시대의 자본·노동·분배: 소유와 협상력은 어떻게 재편되는가](wiki/ai-capital-labor-distribution.md)** · 별칭: AI와 자본 노동, AI 시대의 분배 · 수정: 2026-10-23 · 검토: 개념 분석·일부 자료 확인
+  - 자본 유형별 이해관계와 경영 자동화·소유권의 차이를 설명하고, 직업의 노출·채용 수요·숙련·교섭력을 조건별로 검토한다.
+  - [웹페이지](https://belorin.github.io/#ai-capital-labor-distribution) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-capital-labor-distribution.md)
+- **[AI 시대의 계급 서사: 자동화된 집과 들어갈 수 없는 삶](wiki/ai-class-fiction.md)** · 별칭: AI 계층 시나리오, AI 시대 기생충 사고실험 · 수정: 2026-10-23 · 검토: 허구적 사고실험·인과 검토
+  - 자동화된 주택과 서비스 노동의 입구, 지하의 기술자와 보안 봉쇄를 허구적 사고실험으로 읽고, 계급 서사의 조건과 인과적 공백을 검토한다.
+  - [웹페이지](https://belorin.github.io/#ai-class-fiction) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-class-fiction.md)
 
 ## 철학
 

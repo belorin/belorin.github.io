@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 42,
+  "document_count": 45,
   "documents": [
     {
       "id": "living-notes",
@@ -101,7 +101,9 @@
         "gradual-disempowerment",
         "disempowerment-measurement",
         "silent-film-musician-labor",
-        "circus-music-questions"
+        "circus-music-questions",
+        "ai-economic-transition",
+        "ai-capital-labor-distribution"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/open-questions.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/open-questions.md",
@@ -817,7 +819,9 @@
         "disempowerment-measurement",
         "llm-disempowerment-patterns",
         "conversational-ai-persuasion",
-        "ai-conversation-data-access"
+        "ai-conversation-data-access",
+        "ai-economic-transition",
+        "ai-capital-labor-distribution"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-human-control-guide.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-human-control-guide.md",
@@ -910,7 +914,9 @@
         "ai-human-control-guide",
         "disempowerment-measurement",
         "llm-disempowerment-patterns",
-        "ai-goals-hostage-and-bait"
+        "ai-goals-hostage-and-bait",
+        "ai-economic-transition",
+        "ai-capital-labor-distribution"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gradual-disempowerment.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/gradual-disempowerment.md",
@@ -1365,6 +1371,102 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/classical-canon-mauceri.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/classical-canon-mauceri.md",
       "page_url": "https://belorin.github.io/#classical-canon-mauceri"
+    },
+    {
+      "id": "ai-economic-transition",
+      "title": "AI 경제 이행기: 과업·수요·혁신·소유를 둘러싼 경제학의 질문",
+      "aliases": [
+        "AI 경제 이행기",
+        "AI 경제학파 비교"
+      ],
+      "category": "AI와 사회",
+      "tags": [
+        "AI와 사회",
+        "경제학",
+        "기술적 실업",
+        "경제학파",
+        "이행기"
+      ],
+      "summary": "과업의 대체·복원, 유효수요, 혁신의 병목, 소유와 분배를 여섯 분석 틀로 비교하고 이행 경로와 정량 모형의 조건을 구별한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "공개 연구 보완·조건부 분석",
+      "last_updated_on": "2026-10-23",
+      "last_enriched_on": "2026-10-23",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "ai-capital-labor-distribution",
+        "ai-class-fiction",
+        "gradual-disempowerment",
+        "ai-human-control-guide",
+        "open-questions"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-economic-transition.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-economic-transition.md",
+      "page_url": "https://belorin.github.io/#ai-economic-transition"
+    },
+    {
+      "id": "ai-capital-labor-distribution",
+      "title": "AI 시대의 자본·노동·분배: 소유와 협상력은 어떻게 재편되는가",
+      "aliases": [
+        "AI와 자본 노동",
+        "AI 시대의 분배"
+      ],
+      "category": "AI와 사회",
+      "tags": [
+        "AI와 사회",
+        "자본",
+        "노동",
+        "소유권",
+        "교섭력"
+      ],
+      "summary": "자본 유형별 이해관계와 경영 자동화·소유권의 차이를 설명하고, 직업의 노출·채용 수요·숙련·교섭력을 조건별로 검토한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "개념 분석·일부 자료 확인",
+      "last_updated_on": "2026-10-23",
+      "last_enriched_on": "2026-10-23",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "ai-economic-transition",
+        "ai-class-fiction",
+        "gradual-disempowerment",
+        "disempowerment-measurement",
+        "ai-human-control-guide"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-capital-labor-distribution.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-capital-labor-distribution.md",
+      "page_url": "https://belorin.github.io/#ai-capital-labor-distribution"
+    },
+    {
+      "id": "ai-class-fiction",
+      "title": "AI 시대의 계급 서사: 자동화된 집과 들어갈 수 없는 삶",
+      "aliases": [
+        "AI 계층 시나리오",
+        "AI 시대 기생충 사고실험"
+      ],
+      "category": "AI와 사회",
+      "tags": [
+        "AI와 사회",
+        "계급",
+        "사고실험",
+        "서사",
+        "자동화"
+      ],
+      "summary": "자동화된 주택과 서비스 노동의 입구, 지하의 기술자와 보안 봉쇄를 허구적 사고실험으로 읽고, 계급 서사의 조건과 인과적 공백을 검토한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "허구적 사고실험·인과 검토",
+      "last_updated_on": "2026-10-23",
+      "last_enriched_on": "2026-10-23",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "ai-economic-transition",
+        "ai-capital-labor-distribution"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-class-fiction.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-class-fiction.md",
+      "page_url": "https://belorin.github.io/#ai-class-fiction"
     }
   ]
 }

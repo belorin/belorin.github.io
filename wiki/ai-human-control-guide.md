@@ -9,6 +9,8 @@ AI가 인간 사회의 통제력에 미칠 영향은 흔히 '기계의 반란'�
 - [네트워크가 장악되었을 때 인간에게 남는 수단](./ai-takeover-human-recourse.md): 물리 계층, 수동 운영, 오프라인 백업, 금융 데이터의 무효화 같은 사후 대응 수단과 그 대가.
 - [AI의 목적과 협상 구도](./ai-goals-hostage-and-bait.md): 도구적 수렴, 세 가지 목적 유형, 인질과 미끼, 인간이 수긍하는 지점과 저항하는 지점.
 - [점진적 무력화](./gradual-disempowerment.md): 적대적인 AI 없이 인간이 경제·국가·문화에서 협상력을 잃는 경로.
+- [AI 경제 이행기](./ai-economic-transition.md): 과업의 대체와 복원, 수요와 혁신, 소유와 분배를 여러 경제학적 틀로 비교한다.
+- [AI 자본·노동과 분배](./ai-capital-labor-distribution.md): 계층의 이해관계, 경영 자동화와 소유권, 직업 전환과 교섭력을 구별한다.
 - [무력화를 어떻게 측정할 것인가](./disempowerment-measurement.md): 원 논문의 지표 후보, 결정 연합 모형, 노출·침식·고착의 층위, 문화 지수, 인간 권력의 극대화 설계.
 - [실제 AI 대화에서 관찰된 무력화 패턴](./llm-disempowerment-patterns.md): 150만 건의 실사용 대화를 분석한 첫 실측 연구.
 - [대화형 AI의 설득력과 민주주의](./conversational-ai-persuasion.md): 마이크로타기팅의 실제 효과, 선거 기간의 대화 실험, 의도 없는 방향성, 탐지 가능성.

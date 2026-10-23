@@ -1,0 +1,385 @@
+{
+  "id": "ing-20261023-ai-economic-transition",
+  "processed_on": "2026-10-23",
+  "coverage": "visible-partial",
+  "limit_note": "접근 가능한 일부 주제만 반영. 원자료의 경제 시뮬레이션과 기존 종합 원고는 확인 불가로 보류. 별도 허용된 공개 자료 조사에 따른 보충·수정은 원문 복원과 구별함.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "AI 이행기의 전환 속도와 보호 제도",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-economic-transition",
+          "section": "AI 경제 이행기: 과업·수요·혁신·소유를 둘러싼 경제학의 질문"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "생성 AI의 과업 노출과 실직률의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-economic-transition",
+          "section": "직업보다 과업을 먼저 보아야 하는 이유"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "자동화의 대체·복원 효과와 재교육의 조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-economic-transition",
+          "section": "과업 기반 노동경제학: 대체 효과와 새로운 일의 균형"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "argument",
+      "title": "케인스적 수요 분석과 전환기의 구매력",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-economic-transition",
+          "section": "케인스적 접근: 생산 능력과 구매력 사이의 시간차"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "argument",
+      "title": "혁신·성장 접근과 필수 과업의 병목",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-economic-transition",
+          "section": "혁신과 성장의 접근: 무엇을 자동화하고 무엇이 병목으로 남는가"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "argument",
+      "title": "기계화의 보상 논리와 소유·분배의 질문",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-economic-transition",
+          "section": "마르크스적 접근: 기계의 능력보다 생산관계와 분배"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "argument",
+      "title": "분산된 지식과 AI 계산 능력의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-economic-transition",
+          "section": "하이에크적 접근: 계산 능력과 분산된 지식의 차이"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "concept",
+      "title": "조세·보호·훈련과 제도별 실패 조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-economic-transition",
+          "section": "제도와 재정의 접근: 분배는 기술 도입 뒤에만 결정되지 않는다"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "example",
+      "title": "보완·지연·통제 집중의 세 가지 조건부 이행 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-economic-transition",
+          "section": "같은 기술 충격에서 갈라지는 세 가지 이행 경로"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "curation",
+      "title": "AI 경제 시나리오 연구와 정량 검증의 조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-economic-transition",
+          "section": "시뮬레이션을 실제 연구로 만들기 위한 조건"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "counterargument",
+      "title": "자산가 집단의 심리와 위험 감소에 관한 일반화 비판",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-capital-labor-distribution",
+          "section": "기득권의 심리보다 이해관계와 제도"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "concept",
+      "title": "기술·제조·부동산·자원·금융 자본의 이해관계 분화",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-capital-labor-distribution",
+          "section": "자본은 하나의 집단이 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "concept",
+      "title": "경영·투자 업무의 자동화와 소유권의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-capital-labor-distribution",
+          "section": "관리자의 과업이 자동화되어도 소유권은 남는다"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "fact",
+      "title": "클라우드·AI 제휴의 계약과 잠재적 경쟁 영향",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-capital-labor-distribution",
+          "section": "수익과 의존이 계약으로 묶이는 방식"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "argument",
+      "title": "국가·플랫폼의 기술 의존과 법적 권한의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-capital-labor-distribution",
+          "section": "국가와 플랫폼: 권력의 협력과 충돌"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "concept",
+      "title": "임금·고용·숙련·협상력·결정권의 다섯 평가축",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-capital-labor-distribution",
+          "section": "노동의 변화는 임금·고용·숙련·협상력·결정권을 나누어 본다"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "counterargument",
+      "title": "사무·중간관리·제조·물류의 소멸 전망을 과업별 조건으로 수정",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-capital-labor-distribution",
+          "section": "자동화 압력을 받을 과업과 그 조건"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "curation",
+      "title": "감독·돌봄·지역 조정·창작의 조건부 역할 목록",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-capital-labor-distribution",
+          "section": "감독·정책·윤리·위험 검증"
+        },
+        {
+          "doc_id": "ai-capital-labor-distribution",
+          "section": "돌봄·상담·교육·대면 서비스"
+        },
+        {
+          "doc_id": "ai-capital-labor-distribution",
+          "section": "지역 행정·공동체·현장 조정"
+        },
+        {
+          "doc_id": "ai-capital-labor-distribution",
+          "section": "창작·문화와 정당성의 형성"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "argument",
+      "title": "개인의 적응과 집단적 제도 선택의 규모 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-capital-labor-distribution",
+          "section": "개인의 적응과 집단의 제도 선택"
+        }
+      ]
+    },
+    {
+      "id": "k20",
+      "kind": "concept",
+      "title": "생활의 분배와 인간 영향력의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-capital-labor-distribution",
+          "section": "분배와 인간의 영향력은 연결되지만 같지 않다"
+        },
+        {
+          "doc_id": "gradual-disempowerment",
+          "section": "경제"
+        },
+        {
+          "doc_id": "gradual-disempowerment",
+          "section": "평가와 반론"
+        }
+      ]
+    },
+    {
+      "id": "k21",
+      "kind": "example",
+      "title": "자동화 사회의 가족별 노동 이력과 자산의 비대칭",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-class-fiction",
+          "section": "2039년 서울: 가족 모두에게서 사라지는 일"
+        },
+        {
+          "doc_id": "ai-class-fiction",
+          "section": "박씨 가족의 부: AI를 쓰는 사람과 자산을 가진 사람"
+        }
+      ]
+    },
+    {
+      "id": "k22",
+      "kind": "counterargument",
+      "title": "인간 서비스의 고용 입구와 완전 자동화 전제의 긴장",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-class-fiction",
+          "section": "인간 교사라는 입구와 인간 프리미엄의 한계"
+        },
+        {
+          "doc_id": "ai-class-fiction",
+          "section": "가족의 진입: 자동화의 주변에 남는 역할"
+        }
+      ]
+    },
+    {
+      "id": "k23",
+      "kind": "example",
+      "title": "감정·그림·안락함과 소속을 구분하는 주거 장면",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-class-fiction",
+          "section": "자동화된 집의 안락함과 소속의 부재"
+        }
+      ]
+    },
+    {
+      "id": "k24",
+      "kind": "example",
+      "title": "배제된 기술자와 보안 봉쇄의 인과적 공백",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-class-fiction",
+          "section": "지하의 전직 엔지니어: 기술 능력은 소속을 보장하지 않는다"
+        },
+        {
+          "doc_id": "ai-class-fiction",
+          "section": "생일 파티: 감각의 풍요와 보안의 봉쇄"
+        }
+      ]
+    },
+    {
+      "id": "k25",
+      "kind": "example",
+      "title": "이탈 권한과 최소 생존·존엄을 구분하는 허구적 결말",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-class-fiction",
+          "section": "결말의 비대칭: 이사할 수 있는 사람과 머물 곳이 없는 사람"
+        }
+      ]
+    },
+    {
+      "id": "k26",
+      "kind": "concept",
+      "title": "추상적 미래 진단보다 행동과 일상으로 계급을 드러내는 서사",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-class-fiction",
+          "section": "계급을 설명하는 장면과 대사의 조건"
+        }
+      ]
+    },
+    {
+      "id": "k27",
+      "kind": "question",
+      "title": "생산성·전환 속도·소득 지원과 참여의 연구 질문",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "open-questions",
+          "section": "기술은 인간의 일과 숙련을 어떻게 바꾸는가"
+        },
+        {
+          "doc_id": "ai-human-control-guide",
+          "section": "이 주제를 읽는 순서"
+        }
+      ]
+    },
+    {
+      "id": "k28",
+      "kind": "other",
+      "title": "경제 시뮬레이션의 기존 전제·수치·학파별 논증",
+      "status": "pending",
+      "targets": [],
+      "reason": "해당 원자료를 확인하지 못해 기존 논증의 복원과 완전 보존 여부를 판정할 수 없음. 새 공개 자료의 보충 분석으로 대체 완료 처리하지 않음."
+    },
+    {
+      "id": "k29",
+      "kind": "other",
+      "title": "기존 종합·수정 원고의 상세 내용 대조",
+      "status": "pending",
+      "targets": [],
+      "reason": "본문이 아닌 참조 표시만 확인되어 기존 원고의 세부와 현재 증보 사이의 중복·차이를 검수할 수 없음."
+    }
+  ]
+}

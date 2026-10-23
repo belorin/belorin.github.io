@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 220,
+  "edge_count": 240,
   "edges": [
     {
       "from": "living-notes",
@@ -114,6 +114,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "open-questions",
+      "to": "ai-economic-transition",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-questions",
+      "to": "ai-capital-labor-distribution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "jazz-to-ai",
       "to": "jazz-dialogue",
       "type": "related_to",
@@ -906,6 +918,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "ai-human-control-guide",
+      "to": "ai-economic-transition",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-human-control-guide",
+      "to": "ai-capital-labor-distribution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "ai-takeover-human-recourse",
       "to": "ai-human-control-guide",
       "type": "related_to",
@@ -974,6 +998,18 @@
     {
       "from": "gradual-disempowerment",
       "to": "ai-goals-hostage-and-bait",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gradual-disempowerment",
+      "to": "ai-economic-transition",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gradual-disempowerment",
+      "to": "ai-capital-labor-distribution",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1232,6 +1268,78 @@
     {
       "from": "classical-canon-mauceri",
       "to": "jazz-history-plural",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-economic-transition",
+      "to": "ai-capital-labor-distribution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-economic-transition",
+      "to": "ai-class-fiction",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-economic-transition",
+      "to": "gradual-disempowerment",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-economic-transition",
+      "to": "ai-human-control-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-economic-transition",
+      "to": "open-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-capital-labor-distribution",
+      "to": "ai-economic-transition",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-capital-labor-distribution",
+      "to": "ai-class-fiction",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-capital-labor-distribution",
+      "to": "gradual-disempowerment",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-capital-labor-distribution",
+      "to": "disempowerment-measurement",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-capital-labor-distribution",
+      "to": "ai-human-control-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-class-fiction",
+      "to": "ai-economic-transition",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-class-fiction",
+      "to": "ai-capital-labor-distribution",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1370,6 +1478,22 @@
       "basis": "curated",
       "evidence_section": "네 지역을 비교하는 독서 리듬",
       "reason": "해외 선정작을 한국어로 따라 읽기 위한 대응·판본 검토 문서를 안내한다."
+    },
+    {
+      "from": "ai-human-control-guide",
+      "to": "ai-economic-transition",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "이 주제를 읽는 순서",
+      "reason": "경제의 이행 조건과 계층별 분배를 구별하는 직접 관련 상세 원고를 읽기 순서에 연결한다."
+    },
+    {
+      "from": "ai-human-control-guide",
+      "to": "ai-capital-labor-distribution",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "이 주제를 읽는 순서",
+      "reason": "경제의 이행 조건과 계층별 분배를 구별하는 직접 관련 상세 원고를 읽기 순서에 연결한다."
     }
   ]
 }

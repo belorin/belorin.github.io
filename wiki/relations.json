@@ -120,6 +120,20 @@
       "type": "curates",
       "evidence_section": "네 지역을 비교하는 독서 리듬",
       "reason": "해외 선정작을 한국어로 따라 읽기 위한 대응·판본 검토 문서를 안내한다."
+    },
+    {
+      "from": "ai-human-control-guide",
+      "to": "ai-economic-transition",
+      "type": "introduces",
+      "evidence_section": "이 주제를 읽는 순서",
+      "reason": "경제의 이행 조건과 계층별 분배를 구별하는 직접 관련 상세 원고를 읽기 순서에 연결한다."
+    },
+    {
+      "from": "ai-human-control-guide",
+      "to": "ai-capital-labor-distribution",
+      "type": "introduces",
+      "evidence_section": "이 주제를 읽는 순서",
+      "reason": "경제의 이행 조건과 계층별 분배를 구별하는 직접 관련 상세 원고를 읽기 순서에 연결한다."
     }
   ]
 }

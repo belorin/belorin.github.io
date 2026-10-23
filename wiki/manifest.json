@@ -93,7 +93,9 @@
         "gradual-disempowerment",
         "disempowerment-measurement",
         "silent-film-musician-labor",
-        "circus-music-questions"
+        "circus-music-questions",
+        "ai-economic-transition",
+        "ai-capital-labor-distribution"
       ],
       "aliases": [
         "열린 질문"
@@ -897,7 +899,9 @@
         "disempowerment-measurement",
         "llm-disempowerment-patterns",
         "conversational-ai-persuasion",
-        "ai-conversation-data-access"
+        "ai-conversation-data-access",
+        "ai-economic-transition",
+        "ai-capital-labor-distribution"
       ],
       "aliases": [
         "AI 통제력 길잡이",
@@ -987,7 +991,9 @@
         "ai-human-control-guide",
         "disempowerment-measurement",
         "llm-disempowerment-patterns",
-        "ai-goals-hostage-and-bait"
+        "ai-goals-hostage-and-bait",
+        "ai-economic-transition",
+        "ai-capital-labor-distribution"
       ],
       "aliases": [
         "점진적 무력화",
@@ -1365,6 +1371,99 @@
         "전쟁과 음악",
         "클래식의 정전화",
         "영화음악과 클래식"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-23"
+    },
+    {
+      "path": "wiki/ai-economic-transition.md",
+      "publish": true,
+      "order": 42,
+      "id": "ai-economic-transition",
+      "title": "AI 경제 이행기: 과업·수요·혁신·소유를 둘러싼 경제학의 질문",
+      "category": "AI와 사회",
+      "status": "공개 연구 보완·조건부 분석",
+      "updated": "2026-10-23",
+      "summary": "과업의 대체·복원, 유효수요, 혁신의 병목, 소유와 분배를 여섯 분석 틀로 비교하고 이행 경로와 정량 모형의 조건을 구별한다.",
+      "tags": [
+        "AI와 사회",
+        "경제학",
+        "기술적 실업",
+        "경제학파",
+        "이행기"
+      ],
+      "source": "부분 총합 · 공개 자료 보완 · 사실·조건부 분석·허구 구별",
+      "related": [
+        "ai-capital-labor-distribution",
+        "ai-class-fiction",
+        "gradual-disempowerment",
+        "ai-human-control-guide",
+        "open-questions"
+      ],
+      "aliases": [
+        "AI 경제 이행기",
+        "AI 경제학파 비교"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-23"
+    },
+    {
+      "path": "wiki/ai-capital-labor-distribution.md",
+      "publish": true,
+      "order": 43,
+      "id": "ai-capital-labor-distribution",
+      "title": "AI 시대의 자본·노동·분배: 소유와 협상력은 어떻게 재편되는가",
+      "category": "AI와 사회",
+      "status": "개념 분석·일부 자료 확인",
+      "updated": "2026-10-23",
+      "summary": "자본 유형별 이해관계와 경영 자동화·소유권의 차이를 설명하고, 직업의 노출·채용 수요·숙련·교섭력을 조건별로 검토한다.",
+      "tags": [
+        "AI와 사회",
+        "자본",
+        "노동",
+        "소유권",
+        "교섭력"
+      ],
+      "source": "부분 총합 · 공개 자료 보완 · 사실·조건부 분석·허구 구별",
+      "related": [
+        "ai-economic-transition",
+        "ai-class-fiction",
+        "gradual-disempowerment",
+        "disempowerment-measurement",
+        "ai-human-control-guide"
+      ],
+      "aliases": [
+        "AI와 자본 노동",
+        "AI 시대의 분배"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-23"
+    },
+    {
+      "path": "wiki/ai-class-fiction.md",
+      "publish": true,
+      "order": 44,
+      "id": "ai-class-fiction",
+      "title": "AI 시대의 계급 서사: 자동화된 집과 들어갈 수 없는 삶",
+      "category": "AI와 사회",
+      "status": "허구적 사고실험·인과 검토",
+      "updated": "2026-10-23",
+      "summary": "자동화된 주택과 서비스 노동의 입구, 지하의 기술자와 보안 봉쇄를 허구적 사고실험으로 읽고, 계급 서사의 조건과 인과적 공백을 검토한다.",
+      "tags": [
+        "AI와 사회",
+        "계급",
+        "사고실험",
+        "서사",
+        "자동화"
+      ],
+      "source": "부분 총합 · 공개 자료 보완 · 사실·조건부 분석·허구 구별",
+      "related": [
+        "ai-economic-transition",
+        "ai-capital-labor-distribution"
+      ],
+      "aliases": [
+        "AI 계층 시나리오",
+        "AI 시대 기생충 사고실험"
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-23"
