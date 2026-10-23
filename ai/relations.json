@@ -1,0 +1,803 @@
+{
+  "version": 1,
+  "scope": "published_only",
+  "types": {
+    "related_to": "manifest.related의 일반적인 관련성",
+    "introduces": "상세 주제의 진입점",
+    "elaborates": "기존 주제 심화",
+    "illustrates": "사례로 구체화",
+    "curates": "대상을 선별·배열",
+    "contrasts": "차이 대조",
+    "challenges": "반론 제기",
+    "supports": "논거 제공"
+  },
+  "source_files": [
+    "wiki/manifest.json",
+    "wiki/relations.json"
+  ],
+  "edge_count": 129,
+  "edges": [
+    {
+      "from": "living-notes",
+      "to": "editing-principles",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "living-notes",
+      "to": "open-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "editing-principles",
+      "to": "living-notes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-questions",
+      "to": "living-notes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-questions",
+      "to": "editing-principles",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-to-ai",
+      "to": "jazz-dialogue",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-to-ai",
+      "to": "double-bass",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-to-ai",
+      "to": "electric-bass",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-to-ai",
+      "to": "big-band",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-to-ai",
+      "to": "brass-band",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-to-ai",
+      "to": "drum-kit",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-to-ai",
+      "to": "silent-film",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-to-ai",
+      "to": "circus-music-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-to-ai",
+      "to": "jazz-history-plural",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-to-ai",
+      "to": "jazz-ensemble-labor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-to-ai",
+      "to": "jazz-live-quartet-case",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-to-ai",
+      "to": "jazz-chronological-listening",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-to-ai",
+      "to": "jazz-current-ecosystem",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-to-ai",
+      "to": "jazz-career-path",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-to-ai",
+      "to": "silent-film-musician-labor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "double-bass",
+      "to": "electric-bass",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "double-bass",
+      "to": "rhythm-section",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "double-bass",
+      "to": "jazz-listening",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "double-bass",
+      "to": "jazz-ensemble-labor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "double-bass",
+      "to": "jazz-live-quartet-case",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "electric-bass",
+      "to": "double-bass",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "electric-bass",
+      "to": "rhythm-section",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "electric-bass",
+      "to": "drum-kit",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "electric-bass",
+      "to": "jazz-chronological-listening",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "electric-bass",
+      "to": "jazz-ensemble-labor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rhythm-section",
+      "to": "double-bass",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rhythm-section",
+      "to": "electric-bass",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rhythm-section",
+      "to": "drum-kit",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rhythm-section",
+      "to": "big-band",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rhythm-section",
+      "to": "jazz-dialogue",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rhythm-section",
+      "to": "jazz-ensemble-labor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rhythm-section",
+      "to": "jazz-live-quartet-case",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "big-band",
+      "to": "brass-band",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "big-band",
+      "to": "rhythm-section",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "big-band",
+      "to": "jazz-dialogue",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "big-band",
+      "to": "jazz-history-plural",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "big-band",
+      "to": "jazz-chronological-listening",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "brass-band",
+      "to": "big-band",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "brass-band",
+      "to": "drum-kit",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "brass-band",
+      "to": "jazz-dialogue",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "brass-band",
+      "to": "circus-music-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "brass-band",
+      "to": "circus-music-research-ledger",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "brass-band",
+      "to": "jazz-history-plural",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "brass-band",
+      "to": "jazz-ensemble-labor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "drum-kit",
+      "to": "brass-band",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "drum-kit",
+      "to": "rhythm-section",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "drum-kit",
+      "to": "electric-bass",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "drum-kit",
+      "to": "jazz-ensemble-labor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "drum-kit",
+      "to": "jazz-live-quartet-case",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-dialogue",
+      "to": "rhythm-section",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-dialogue",
+      "to": "big-band",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-dialogue",
+      "to": "jazz-listening",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-dialogue",
+      "to": "jazz-live-quartet-case",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-dialogue",
+      "to": "jazz-history-plural",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-dialogue",
+      "to": "jazz-current-ecosystem",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-dialogue",
+      "to": "jazz-career-path",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-listening",
+      "to": "double-bass",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-listening",
+      "to": "rhythm-section",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-listening",
+      "to": "jazz-dialogue",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-listening",
+      "to": "jazz-live-quartet-case",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-listening",
+      "to": "jazz-chronological-listening",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "silent-film",
+      "to": "circus-music-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "silent-film",
+      "to": "drum-kit",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "silent-film",
+      "to": "circus-music-concepts",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "silent-film",
+      "to": "circus-music-research-ledger",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "silent-film",
+      "to": "silent-film-musician-labor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "silent-film",
+      "to": "jazz-ensemble-labor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "circus-music-questions",
+      "to": "circus-music-concepts",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "circus-music-questions",
+      "to": "circus-music-research-ledger",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "circus-music-questions",
+      "to": "brass-band",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "circus-music-questions",
+      "to": "silent-film",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "circus-music-questions",
+      "to": "jazz-to-ai",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "circus-music-concepts",
+      "to": "circus-music-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "circus-music-concepts",
+      "to": "circus-music-research-ledger",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "circus-music-concepts",
+      "to": "silent-film",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "circus-music-concepts",
+      "to": "brass-band",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "circus-music-research-ledger",
+      "to": "circus-music-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "circus-music-research-ledger",
+      "to": "circus-music-concepts",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "circus-music-research-ledger",
+      "to": "silent-film",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "circus-music-research-ledger",
+      "to": "brass-band",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-history-plural",
+      "to": "jazz-to-ai",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-history-plural",
+      "to": "brass-band",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-history-plural",
+      "to": "big-band",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-history-plural",
+      "to": "jazz-ensemble-labor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-history-plural",
+      "to": "jazz-chronological-listening",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-history-plural",
+      "to": "jazz-current-ecosystem",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-ensemble-labor",
+      "to": "jazz-to-ai",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-ensemble-labor",
+      "to": "jazz-history-plural",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-ensemble-labor",
+      "to": "drum-kit",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-ensemble-labor",
+      "to": "rhythm-section",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-ensemble-labor",
+      "to": "big-band",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-ensemble-labor",
+      "to": "brass-band",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-ensemble-labor",
+      "to": "double-bass",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-ensemble-labor",
+      "to": "electric-bass",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-ensemble-labor",
+      "to": "silent-film-musician-labor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-ensemble-labor",
+      "to": "circus-music-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-live-quartet-case",
+      "to": "jazz-to-ai",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-live-quartet-case",
+      "to": "jazz-dialogue",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-live-quartet-case",
+      "to": "jazz-listening",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-live-quartet-case",
+      "to": "rhythm-section",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-live-quartet-case",
+      "to": "double-bass",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-live-quartet-case",
+      "to": "jazz-chronological-listening",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-chronological-listening",
+      "to": "jazz-history-plural",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-chronological-listening",
+      "to": "jazz-ensemble-labor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-chronological-listening",
+      "to": "jazz-live-quartet-case",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-chronological-listening",
+      "to": "jazz-current-ecosystem",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-chronological-listening",
+      "to": "electric-bass",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-current-ecosystem",
+      "to": "jazz-to-ai",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-current-ecosystem",
+      "to": "jazz-career-path",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-current-ecosystem",
+      "to": "jazz-history-plural",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-current-ecosystem",
+      "to": "jazz-chronological-listening",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-current-ecosystem",
+      "to": "jazz-dialogue",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-career-path",
+      "to": "jazz-current-ecosystem",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-career-path",
+      "to": "jazz-dialogue",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-career-path",
+      "to": "jazz-live-quartet-case",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-career-path",
+      "to": "jazz-chronological-listening",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "silent-film-musician-labor",
+      "to": "silent-film",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "silent-film-musician-labor",
+      "to": "jazz-ensemble-labor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "silent-film-musician-labor",
+      "to": "circus-music-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "silent-film-musician-labor",
+      "to": "circus-music-concepts",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "jazz-to-ai",
+      "to": "jazz-dialogue",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "재즈를 듣기 위한 기본 개념",
+      "reason": "기본 개념의 길잡이에서 즉흥연주와 인터플레이의 상세 설명으로 연결한다."
+    },
+    {
+      "from": "jazz-chronological-listening",
+      "to": "jazz-history-plural",
+      "type": "curates",
+      "basis": "curated",
+      "evidence_section": "이 목록을 읽는 방법",
+      "reason": "재즈의 역사적 변화를 청취 지점별로 배열한다."
+    },
+    {
+      "from": "jazz-live-quartet-case",
+      "to": "jazz-dialogue",
+      "type": "illustrates",
+      "basis": "curated",
+      "evidence_section": "작은 앙상블이 들려주는 여러 층위",
+      "reason": "소규모 공연 사례를 통해 즉흥과 상호 반응을 살핀다."
+    },
+    {
+      "from": "circus-music-concepts",
+      "to": "circus-music-questions",
+      "type": "elaborates",
+      "basis": "curated",
+      "evidence_section": "개념의 목적과 한계",
+      "reason": "서커스 음악사의 질문을 분석 개념으로 심화한다."
+    }
+  ]
+}

@@ -23,7 +23,12 @@
       "related": [
         "editing-principles",
         "open-questions"
-      ]
+      ],
+      "aliases": [
+        "열린 노트"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": null
     },
     {
       "path": "wiki/editing-principles.md",
@@ -42,7 +47,12 @@
       "source": "현재 대화에서 AI가 제안한 편집 규칙. 세부 규칙은 이후 조정 가능.",
       "related": [
         "living-notes"
-      ]
+      ],
+      "aliases": [
+        "편집 원칙"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": null
     },
     {
       "path": "wiki/open-questions.md",
@@ -62,7 +72,12 @@
       "related": [
         "living-notes",
         "editing-principles"
-      ]
+      ],
+      "aliases": [
+        "열린 질문"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": null
     },
     {
       "path": "wiki/jazz-to-ai.md",
@@ -95,7 +110,13 @@
         "jazz-current-ecosystem",
         "jazz-career-path",
         "silent-film-musician-labor"
-      ]
+      ],
+      "aliases": [
+        "재즈 길잡이",
+        "재즈 입문"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     },
     {
       "path": "wiki/double-bass.md",
@@ -119,7 +140,13 @@
         "jazz-listening",
         "jazz-ensemble-labor",
         "jazz-live-quartet-case"
-      ]
+      ],
+      "aliases": [
+        "콘트라베이스",
+        "더블 베이스"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     },
     {
       "path": "wiki/electric-bass.md",
@@ -143,7 +170,13 @@
         "drum-kit",
         "jazz-chronological-listening",
         "jazz-ensemble-labor"
-      ]
+      ],
+      "aliases": [
+        "전기 베이스",
+        "일렉트릭 베이스"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     },
     {
       "path": "wiki/rhythm-section.md",
@@ -169,7 +202,13 @@
         "jazz-dialogue",
         "jazz-ensemble-labor",
         "jazz-live-quartet-case"
-      ]
+      ],
+      "aliases": [
+        "리듬 섹션",
+        "워킹 베이스"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     },
     {
       "path": "wiki/big-band.md",
@@ -193,7 +232,12 @@
         "jazz-dialogue",
         "jazz-history-plural",
         "jazz-chronological-listening"
-      ]
+      ],
+      "aliases": [
+        "빅밴드"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     },
     {
       "path": "wiki/brass-band.md",
@@ -219,7 +263,13 @@
         "circus-music-research-ledger",
         "jazz-history-plural",
         "jazz-ensemble-labor"
-      ]
+      ],
+      "aliases": [
+        "브라스 밴드",
+        "뉴올리언스 재즈"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     },
     {
       "path": "wiki/drum-kit.md",
@@ -243,7 +293,12 @@
         "electric-bass",
         "jazz-ensemble-labor",
         "jazz-live-quartet-case"
-      ]
+      ],
+      "aliases": [
+        "드럼 키트"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     },
     {
       "path": "wiki/jazz-dialogue.md",
@@ -269,7 +324,13 @@
         "jazz-history-plural",
         "jazz-current-ecosystem",
         "jazz-career-path"
-      ]
+      ],
+      "aliases": [
+        "재즈 즉흥연주",
+        "스윙과 인터플레이"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     },
     {
       "path": "wiki/jazz-listening.md",
@@ -293,7 +354,12 @@
         "jazz-dialogue",
         "jazz-live-quartet-case",
         "jazz-chronological-listening"
-      ]
+      ],
+      "aliases": [
+        "공연 음향"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     },
     {
       "path": "wiki/silent-film.md",
@@ -318,7 +384,12 @@
         "circus-music-research-ledger",
         "silent-film-musician-labor",
         "jazz-ensemble-labor"
-      ]
+      ],
+      "aliases": [
+        "무성영화 반주"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     },
     {
       "path": "wiki/circus-music-questions.md",
@@ -344,7 +415,12 @@
         "brass-band",
         "silent-film",
         "jazz-to-ai"
-      ]
+      ],
+      "aliases": [
+        "서커스 음악사"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": null
     },
     {
       "path": "wiki/circus-music-concepts.md",
@@ -369,7 +445,12 @@
         "circus-music-research-ledger",
         "silent-film",
         "brass-band"
-      ]
+      ],
+      "aliases": [
+        "서커스 음악 분석 개념"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": null
     },
     {
       "path": "wiki/circus-music-research-ledger.md",
@@ -394,7 +475,12 @@
         "circus-music-concepts",
         "silent-film",
         "brass-band"
-      ]
+      ],
+      "aliases": [
+        "서커스 음악 조사 대장"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": null
     },
     {
       "path": "wiki/jazz-history-plural.md",
@@ -421,7 +507,12 @@
         "jazz-ensemble-labor",
         "jazz-chronological-listening",
         "jazz-current-ecosystem"
-      ]
+      ],
+      "aliases": [
+        "재즈의 역사"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": null
     },
     {
       "path": "wiki/jazz-ensemble-labor.md",
@@ -452,7 +543,12 @@
         "electric-bass",
         "silent-film-musician-labor",
         "circus-music-questions"
-      ]
+      ],
+      "aliases": [
+        "악단 편성과 노동"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": null
     },
     {
       "path": "wiki/jazz-live-quartet-case.md",
@@ -479,7 +575,12 @@
         "rhythm-section",
         "double-bass",
         "jazz-chronological-listening"
-      ]
+      ],
+      "aliases": [
+        "재즈 4중주 현장 청취"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": null
     },
     {
       "path": "wiki/jazz-chronological-listening.md",
@@ -505,7 +606,13 @@
         "jazz-live-quartet-case",
         "jazz-current-ecosystem",
         "electric-bass"
-      ]
+      ],
+      "aliases": [
+        "재즈 청취 지도",
+        "재즈 듣기 목록"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     },
     {
       "path": "wiki/jazz-current-ecosystem.md",
@@ -531,7 +638,12 @@
         "jazz-history-plural",
         "jazz-chronological-listening",
         "jazz-dialogue"
-      ]
+      ],
+      "aliases": [
+        "현대 재즈 생태계"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     },
     {
       "path": "wiki/jazz-career-path.md",
@@ -556,7 +668,12 @@
         "jazz-dialogue",
         "jazz-live-quartet-case",
         "jazz-chronological-listening"
-      ]
+      ],
+      "aliases": [
+        "재즈 음악가 경력"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": null
     },
     {
       "path": "wiki/silent-film-musician-labor.md",
@@ -581,32 +698,62 @@
         "jazz-ensemble-labor",
         "circus-music-questions",
         "circus-music-concepts"
-      ]
+      ],
+      "aliases": [
+        "유성영화와 극장 음악가"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     },
     {
       "id": "ai-mediated-human-change",
       "path": "wiki/ai-mediated-human-change.md",
-      "publish": false
+      "publish": false,
+      "aliases": [
+        "AI와 정신 습관"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     },
     {
       "id": "circus-music-history",
       "path": "wiki/circus-music-history.md",
-      "publish": false
+      "publish": false,
+      "aliases": [
+        "서커스 음악의 역사"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     },
     {
       "id": "deleuze-becoming-new",
       "path": "wiki/deleuze-becoming-new.md",
-      "publish": false
+      "publish": false,
+      "aliases": [
+        "들뢰즈와 생성"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     },
     {
       "id": "deleuze-cartography-future",
       "path": "wiki/deleuze-cartography-future.md",
-      "publish": false
+      "publish": false,
+      "aliases": [
+        "지도와 트레이싱"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     },
     {
       "id": "post-deleuze-novelty-thinkers",
       "path": "wiki/post-deleuze-novelty-thinkers.md",
-      "publish": false
+      "publish": false,
+      "aliases": [
+        "들뢰즈 이후의 사상가"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     }
   ]
 }

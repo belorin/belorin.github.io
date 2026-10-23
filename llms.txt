@@ -1,0 +1,45 @@
+# belorin · 열린 노트
+
+> Markdown을 정본으로 유지하는 누적형 지식백과. 이 목록은 탐색용이므로 상세 Markdown을 읽어야 한다.
+> 개인 대화 원문을 제공하지 않으며 공개 문서만 안내한다.
+
+## Navigation
+
+- [AI metadata index](https://belorin.github.io/ai/index.json): Document IDs, aliases, review state and dates.
+- [Typed relations](https://belorin.github.io/ai/relations.json): Related and curated semantic links.
+- [Markdown index](https://belorin.github.io/AI_INDEX.md): Browsable public article catalog.
+- [Website](https://belorin.github.io/): Human reading interface.
+
+## Published Markdown articles
+
+### 운영
+
+- [대화가 끝난 뒤에도 자라는 노트](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/living-notes.md): 대화를 보관하는 데서 출발해, 주제별 문서를 계속 고쳐 쓰는 공개 위키로.
+- [사람과 AI가 함께 편집하는 규칙](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/editing-principles.md): 발언과 해석을 구분하고, 새 대화가 기존 생각을 덮어쓰지 않도록.
+
+### 질문
+
+- [이 위키가 앞으로 답해야 할 질문](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/open-questions.md): 무엇을 기록하고, 무엇을 연결하고, 생각의 변화를 어떻게 남길 것인가.
+
+### 음악
+
+- [재즈와 밴드 음악 길잡이](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-to-ai.md): 재즈의 연주 방식부터 악기·편성·공연 노동·서커스 반주까지 살펴보는 음악 지식의 입구.
+- [콘트라베이스와 증폭](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/double-bass.md): 큰 공명통을 가진 저음 현악기. 마이크나 픽업을 이용해 증폭해도 전기 베이스와 같은 악기가 되지는 않는다.
+- [전기 베이스의 등장과 역할](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/electric-bass.md): 1951년 Fender Precision Bass가 전기 베이스 보급의 중요한 전환점이 되었다.
+- [리듬 섹션과 워킹 베이스](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/rhythm-section.md): 리듬 섹션은 박자만 찍는 반주가 아니라 화성·저음·리듬과 솔로를 조직하는 앙상블의 중심이다.
+- [빅밴드의 편성과 편곡](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/big-band.md): 여러 관악기 섹션과 리듬 섹션을 조직하는 재즈 악단. 전형적인 현대 편성은 17인이다.
+- [브라스 밴드와 뉴올리언스 재즈](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/brass-band.md): 행진·장례·춤·지역 공동체의 행사에서 활동한 관악 악단은 초기 재즈의 중요한 환경이었다.
+- [드럼키트는 어떻게 한 사람의 악기가 되었나](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/drum-kit.md): 여러 타악기의 역할을 손과 발로 통합한 드럼키트는 기술과 공연 편성의 변화가 함께 만든 악기다.
+- [재즈의 즉흥연주·스윙·인터플레이](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-dialogue.md): 곡의 형식, 즉흥적인 변화, 연주자 사이의 응답을 구별하면 재즈가 어떻게 움직이는지 들을 수 있다.
+- [공연 음향: 악기 편성과 소리의 균형](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-listening.md): 어떤 악기를 쓰는지와 관객에게 어떤 크기로 들리는지는 서로 다른 문제다.
+- [무성영화 반주와 유성영화 전환](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/silent-film.md): 무성영화의 음악은 극장 현장의 노동이었다. 녹음된 사운드의 보급은 그 일자리를 재편했다.
+- [서커스 음악사: 레퍼토리·공연기술·노동·매체의 교차](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/circus-music-questions.md): 행진곡·갈롭을 넘어 공연 동작, 악단의 노동, 기계음악, 영화와 현대 서커스를 여섯 분석축으로 연결한다. 확인 사실과 연구 질문을 구분한다.
+- [서커스 음악의 분석 개념: 동작·큐·상징을 구별하기](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/circus-music-concepts.md): 행위결박 음악, 소집음악, 링 레퍼토리, 과잉행진, 실시간 악보 엔진, 서커스성, 표지음악, 기계환락음악의 유용성과 시대착오 위험을 검토한다.
+- [서커스 음악사 조사 대장: 사료·연대표·인물·청취 목록](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/circus-music-research-ledger.md): 유럽과 미국의 공연사, 직업음악가, 악보·큐, 기계음악, 영화, 현대 서커스에 관한 12개 조사축과 미검증 목록을 관리한다.
+- [재즈의 역사: 하나의 기원이 아니라 교차하는 지역·악단·매체](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-history-plural.md): 뉴올리언스·래그타임·저그 밴드·territory band부터 비밥과 퓨전, 현대의 편성까지 단선적 진보가 아닌 다중 계보로 읽는다.
+- [밴드는 왜 그 편성이 되었는가: 악기·공간·기술·노동의 역사](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-ensemble-labor.md): 군악대의 악기 분업부터 드럼키트·전기 베이스·기타·건반의 표준화까지, 기술과 고용의 관계를 설명한다.
+- [재즈 4중주를 현장에서 듣는 법: 악보·즉흥·음향·선곡](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-live-quartet-case.md): 기타·피아노·콘트라베이스·드럼의 상호작용과 브러시·피치카토·악보·선곡·증폭을 구체적인 익명 공연 관찰로 살핀다.
+- [1923~2026 재즈 청취 지도: 편성과 질문이 바뀌는 26개의 지점](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-chronological-listening.md): King Oliver에서 Tomeka Reid와 Mary Halvorson까지, 26개 곡·앨범을 편성과 연주 질문에 따라 시대순으로 비교한다.
+- [현대 재즈 생태계: 협업 네트워크와 여러 종류의 정상](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-current-ecosystem.md): 동료의 신뢰, DownBeat·JJA·그래미, 차트·라디오, 레이블·공연장·페스티벌·콩쿠르를 서로 다른 평가 체계로 구별한다.
+- [17세에서 35세까지: 현대 재즈 음악가의 경력 형성 모형](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-career-path.md): 가상의 베이시스트를 통해 청소년 앙상블, 음악학교, 사이드맨, 리더 음반, 투어, 비평, 교육의 경력 경로를 설명한다.
+- [유성영화의 등장과 극장 음악가: 재생 가능한 연주가 노동을 바꾸다](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/silent-film-musician-labor.md): 무성영화의 현장 반주에서 녹음된 유성영화로의 전환, 실직·노조·공공사업과 재생 수익을 둘러싼 노동 문제를 분석한다.

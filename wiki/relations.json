@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "description": "의미를 확인한 관계만 수동 등록. manifest.related는 비유형 연관으로 파생된다.",
+  "relations": [
+    {
+      "from": "jazz-to-ai",
+      "to": "jazz-dialogue",
+      "type": "introduces",
+      "evidence_section": "재즈를 듣기 위한 기본 개념",
+      "reason": "기본 개념의 길잡이에서 즉흥연주와 인터플레이의 상세 설명으로 연결한다."
+    },
+    {
+      "from": "jazz-chronological-listening",
+      "to": "jazz-history-plural",
+      "type": "curates",
+      "evidence_section": "이 목록을 읽는 방법",
+      "reason": "재즈의 역사적 변화를 청취 지점별로 배열한다."
+    },
+    {
+      "from": "jazz-live-quartet-case",
+      "to": "jazz-dialogue",
+      "type": "illustrates",
+      "evidence_section": "작은 앙상블이 들려주는 여러 층위",
+      "reason": "소규모 공연 사례를 통해 즉흥과 상호 반응을 살핀다."
+    },
+    {
+      "from": "circus-music-concepts",
+      "to": "circus-music-questions",
+      "type": "elaborates",
+      "evidence_section": "개념의 목적과 한계",
+      "reason": "서커스 음악사의 질문을 분석 개념으로 심화한다."
+    }
+  ]
+}

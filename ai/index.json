@@ -1,0 +1,735 @@
+{
+  "version": 1,
+  "scope": "published_only",
+  "description": "탐색 메타데이터. 논증·사례는 Markdown 정본을 읽는다. 대화 원문은 포함하지 않는다.",
+  "source_files": [
+    "wiki/manifest.json",
+    "wiki/relations.json"
+  ],
+  "document_count": 23,
+  "documents": [
+    {
+      "id": "living-notes",
+      "title": "대화가 끝난 뒤에도 자라는 노트",
+      "aliases": [
+        "열린 노트"
+      ],
+      "category": "운영",
+      "tags": [
+        "개인 위키",
+        "AI 협업"
+      ],
+      "summary": "대화를 보관하는 데서 출발해, 주제별 문서를 계속 고쳐 쓰는 공개 위키로.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "운영 초안",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "editing-principles",
+        "open-questions"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/living-notes.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/living-notes.md",
+      "page_url": "https://belorin.github.io/#living-notes"
+    },
+    {
+      "id": "editing-principles",
+      "title": "사람과 AI가 함께 편집하는 규칙",
+      "aliases": [
+        "편집 원칙"
+      ],
+      "category": "운영",
+      "tags": [
+        "편집 원칙",
+        "출처"
+      ],
+      "summary": "발언과 해석을 구분하고, 새 대화가 기존 생각을 덮어쓰지 않도록.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "제안",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "living-notes"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/editing-principles.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/editing-principles.md",
+      "page_url": "https://belorin.github.io/#editing-principles"
+    },
+    {
+      "id": "open-questions",
+      "title": "이 위키가 앞으로 답해야 할 질문",
+      "aliases": [
+        "열린 질문"
+      ],
+      "category": "질문",
+      "tags": [
+        "질문",
+        "확장"
+      ],
+      "summary": "무엇을 기록하고, 무엇을 연결하고, 생각의 변화를 어떻게 남길 것인가.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "열린 질문",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "living-notes",
+        "editing-principles"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/open-questions.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/open-questions.md",
+      "page_url": "https://belorin.github.io/#open-questions"
+    },
+    {
+      "id": "jazz-to-ai",
+      "title": "재즈와 밴드 음악 길잡이",
+      "aliases": [
+        "재즈 길잡이",
+        "재즈 입문"
+      ],
+      "category": "음악",
+      "tags": [
+        "재즈",
+        "음악사"
+      ],
+      "summary": "재즈의 연주 방식부터 악기·편성·공연 노동·서커스 반주까지 살펴보는 음악 지식의 입구.",
+      "published": true,
+      "review_state": "unassessed",
+      "review_label": "자료 확인",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "jazz-dialogue",
+        "double-bass",
+        "electric-bass",
+        "big-band",
+        "brass-band",
+        "drum-kit",
+        "silent-film",
+        "circus-music-questions",
+        "jazz-history-plural",
+        "jazz-ensemble-labor",
+        "jazz-live-quartet-case",
+        "jazz-chronological-listening",
+        "jazz-current-ecosystem",
+        "jazz-career-path",
+        "silent-film-musician-labor"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-to-ai.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/jazz-to-ai.md",
+      "page_url": "https://belorin.github.io/#jazz-to-ai"
+    },
+    {
+      "id": "double-bass",
+      "title": "콘트라베이스와 증폭",
+      "aliases": [
+        "콘트라베이스",
+        "더블 베이스"
+      ],
+      "category": "음악",
+      "tags": [
+        "악기",
+        "콘트라베이스",
+        "픽업"
+      ],
+      "summary": "큰 공명통을 가진 저음 현악기. 마이크나 픽업을 이용해 증폭해도 전기 베이스와 같은 악기가 되지는 않는다.",
+      "published": true,
+      "review_state": "unassessed",
+      "review_label": "자료 확인",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "electric-bass",
+        "rhythm-section",
+        "jazz-listening",
+        "jazz-ensemble-labor",
+        "jazz-live-quartet-case"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/double-bass.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/double-bass.md",
+      "page_url": "https://belorin.github.io/#double-bass"
+    },
+    {
+      "id": "electric-bass",
+      "title": "전기 베이스의 등장과 역할",
+      "aliases": [
+        "전기 베이스",
+        "일렉트릭 베이스"
+      ],
+      "category": "음악",
+      "tags": [
+        "악기",
+        "전기 베이스",
+        "1951"
+      ],
+      "summary": "1951년 Fender Precision Bass가 전기 베이스 보급의 중요한 전환점이 되었다.",
+      "published": true,
+      "review_state": "unassessed",
+      "review_label": "자료 확인",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "double-bass",
+        "rhythm-section",
+        "drum-kit",
+        "jazz-chronological-listening",
+        "jazz-ensemble-labor"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/electric-bass.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/electric-bass.md",
+      "page_url": "https://belorin.github.io/#electric-bass"
+    },
+    {
+      "id": "rhythm-section",
+      "title": "리듬 섹션과 워킹 베이스",
+      "aliases": [
+        "리듬 섹션",
+        "워킹 베이스"
+      ],
+      "category": "음악",
+      "tags": [
+        "리듬 섹션",
+        "워킹 베이스",
+        "반주"
+      ],
+      "summary": "리듬 섹션은 박자만 찍는 반주가 아니라 화성·저음·리듬과 솔로를 조직하는 앙상블의 중심이다.",
+      "published": true,
+      "review_state": "unassessed",
+      "review_label": "자료 확인",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "double-bass",
+        "electric-bass",
+        "drum-kit",
+        "big-band",
+        "jazz-dialogue",
+        "jazz-ensemble-labor",
+        "jazz-live-quartet-case"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/rhythm-section.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/rhythm-section.md",
+      "page_url": "https://belorin.github.io/#rhythm-section"
+    },
+    {
+      "id": "big-band",
+      "title": "빅밴드의 편성과 편곡",
+      "aliases": [
+        "빅밴드"
+      ],
+      "category": "음악",
+      "tags": [
+        "빅밴드",
+        "스윙",
+        "편곡"
+      ],
+      "summary": "여러 관악기 섹션과 리듬 섹션을 조직하는 재즈 악단. 전형적인 현대 편성은 17인이다.",
+      "published": true,
+      "review_state": "unassessed",
+      "review_label": "자료 확인",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "brass-band",
+        "rhythm-section",
+        "jazz-dialogue",
+        "jazz-history-plural",
+        "jazz-chronological-listening"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/big-band.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/big-band.md",
+      "page_url": "https://belorin.github.io/#big-band"
+    },
+    {
+      "id": "brass-band",
+      "title": "브라스 밴드와 뉴올리언스 재즈",
+      "aliases": [
+        "브라스 밴드",
+        "뉴올리언스 재즈"
+      ],
+      "category": "음악",
+      "tags": [
+        "브라스 밴드",
+        "뉴올리언스",
+        "군악대"
+      ],
+      "summary": "행진·장례·춤·지역 공동체의 행사에서 활동한 관악 악단은 초기 재즈의 중요한 환경이었다.",
+      "published": true,
+      "review_state": "unassessed",
+      "review_label": "자료 확인",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "big-band",
+        "drum-kit",
+        "jazz-dialogue",
+        "circus-music-questions",
+        "circus-music-research-ledger",
+        "jazz-history-plural",
+        "jazz-ensemble-labor"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/brass-band.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/brass-band.md",
+      "page_url": "https://belorin.github.io/#brass-band"
+    },
+    {
+      "id": "drum-kit",
+      "title": "드럼키트는 어떻게 한 사람의 악기가 되었나",
+      "aliases": [
+        "드럼 키트"
+      ],
+      "category": "음악",
+      "tags": [
+        "드럼",
+        "페달",
+        "밴드"
+      ],
+      "summary": "여러 타악기의 역할을 손과 발로 통합한 드럼키트는 기술과 공연 편성의 변화가 함께 만든 악기다.",
+      "published": true,
+      "review_state": "unassessed",
+      "review_label": "자료 확인",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "brass-band",
+        "rhythm-section",
+        "electric-bass",
+        "jazz-ensemble-labor",
+        "jazz-live-quartet-case"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/drum-kit.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/drum-kit.md",
+      "page_url": "https://belorin.github.io/#drum-kit"
+    },
+    {
+      "id": "jazz-dialogue",
+      "title": "재즈의 즉흥연주·스윙·인터플레이",
+      "aliases": [
+        "재즈 즉흥연주",
+        "스윙과 인터플레이"
+      ],
+      "category": "음악",
+      "tags": [
+        "재즈",
+        "즉흥연주",
+        "스윙"
+      ],
+      "summary": "곡의 형식, 즉흥적인 변화, 연주자 사이의 응답을 구별하면 재즈가 어떻게 움직이는지 들을 수 있다.",
+      "published": true,
+      "review_state": "unassessed",
+      "review_label": "자료 확인",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "rhythm-section",
+        "big-band",
+        "jazz-listening",
+        "jazz-live-quartet-case",
+        "jazz-history-plural",
+        "jazz-current-ecosystem",
+        "jazz-career-path"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-dialogue.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/jazz-dialogue.md",
+      "page_url": "https://belorin.github.io/#jazz-dialogue"
+    },
+    {
+      "id": "jazz-listening",
+      "title": "공연 음향: 악기 편성과 소리의 균형",
+      "aliases": [
+        "공연 음향"
+      ],
+      "category": "음악",
+      "tags": [
+        "공연 음향",
+        "편성",
+        "어택"
+      ],
+      "summary": "어떤 악기를 쓰는지와 관객에게 어떤 크기로 들리는지는 서로 다른 문제다.",
+      "published": true,
+      "review_state": "unassessed",
+      "review_label": "자료 확인",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "double-bass",
+        "rhythm-section",
+        "jazz-dialogue",
+        "jazz-live-quartet-case",
+        "jazz-chronological-listening"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-listening.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/jazz-listening.md",
+      "page_url": "https://belorin.github.io/#jazz-listening"
+    },
+    {
+      "id": "silent-film",
+      "title": "무성영화 반주와 유성영화 전환",
+      "aliases": [
+        "무성영화 반주"
+      ],
+      "category": "음악",
+      "tags": [
+        "무성영화",
+        "유성영화",
+        "연주 노동"
+      ],
+      "summary": "무성영화의 음악은 극장 현장의 노동이었다. 녹음된 사운드의 보급은 그 일자리를 재편했다.",
+      "published": true,
+      "review_state": "unassessed",
+      "review_label": "자료 확인",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "circus-music-questions",
+        "drum-kit",
+        "circus-music-concepts",
+        "circus-music-research-ledger",
+        "silent-film-musician-labor",
+        "jazz-ensemble-labor"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/silent-film.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/silent-film.md",
+      "page_url": "https://belorin.github.io/#silent-film"
+    },
+    {
+      "id": "circus-music-questions",
+      "title": "서커스 음악사: 레퍼토리·공연기술·노동·매체의 교차",
+      "aliases": [
+        "서커스 음악사"
+      ],
+      "category": "음악",
+      "tags": [
+        "서커스 음악",
+        "음악사",
+        "공연기술",
+        "음악 노동",
+        "매체사"
+      ],
+      "summary": "행진곡·갈롭을 넘어 공연 동작, 악단의 노동, 기계음악, 영화와 현대 서커스를 여섯 분석축으로 연결한다. 확인 사실과 연구 질문을 구분한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "부분 확인·검토 필요",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "circus-music-concepts",
+        "circus-music-research-ledger",
+        "brass-band",
+        "silent-film",
+        "jazz-to-ai"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/circus-music-questions.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/circus-music-questions.md",
+      "page_url": "https://belorin.github.io/#circus-music-questions"
+    },
+    {
+      "id": "circus-music-concepts",
+      "title": "서커스 음악의 분석 개념: 동작·큐·상징을 구별하기",
+      "aliases": [
+        "서커스 음악 분석 개념"
+      ],
+      "category": "음악",
+      "tags": [
+        "서커스",
+        "개념사",
+        "큐",
+        "미키마우싱",
+        "가설"
+      ],
+      "summary": "행위결박 음악, 소집음악, 링 레퍼토리, 과잉행진, 실시간 악보 엔진, 서커스성, 표지음악, 기계환락음악의 유용성과 시대착오 위험을 검토한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "분석 가설·검토 필요",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "circus-music-questions",
+        "circus-music-research-ledger",
+        "silent-film",
+        "brass-band"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/circus-music-concepts.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/circus-music-concepts.md",
+      "page_url": "https://belorin.github.io/#circus-music-concepts"
+    },
+    {
+      "id": "circus-music-research-ledger",
+      "title": "서커스 음악사 조사 대장: 사료·연대표·인물·청취 목록",
+      "aliases": [
+        "서커스 음악 조사 대장"
+      ],
+      "category": "음악",
+      "tags": [
+        "서커스",
+        "사료",
+        "연대표",
+        "아카이브",
+        "청취 가이드"
+      ],
+      "summary": "유럽과 미국의 공연사, 직업음악가, 악보·큐, 기계음악, 영화, 현대 서커스에 관한 12개 조사축과 미검증 목록을 관리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "조사 대장·미완",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "circus-music-questions",
+        "circus-music-concepts",
+        "silent-film",
+        "brass-band"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/circus-music-research-ledger.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/circus-music-research-ledger.md",
+      "page_url": "https://belorin.github.io/#circus-music-research-ledger"
+    },
+    {
+      "id": "jazz-history-plural",
+      "title": "재즈의 역사: 하나의 기원이 아니라 교차하는 지역·악단·매체",
+      "aliases": [
+        "재즈의 역사"
+      ],
+      "category": "음악",
+      "tags": [
+        "재즈사",
+        "뉴올리언스",
+        "지역사",
+        "정전",
+        "편성"
+      ],
+      "summary": "뉴올리언스·래그타임·저그 밴드·territory band부터 비밥과 퓨전, 현대의 편성까지 단선적 진보가 아닌 다중 계보로 읽는다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 요약 기반·검토 필요",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "jazz-to-ai",
+        "brass-band",
+        "big-band",
+        "jazz-ensemble-labor",
+        "jazz-chronological-listening",
+        "jazz-current-ecosystem"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-history-plural.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/jazz-history-plural.md",
+      "page_url": "https://belorin.github.io/#jazz-history-plural"
+    },
+    {
+      "id": "jazz-ensemble-labor",
+      "title": "밴드는 왜 그 편성이 되었는가: 악기·공간·기술·노동의 역사",
+      "aliases": [
+        "악단 편성과 노동"
+      ],
+      "category": "음악",
+      "tags": [
+        "악기 편성",
+        "드럼키트",
+        "노동시장",
+        "브라스 밴드",
+        "밴드"
+      ],
+      "summary": "군악대의 악기 분업부터 드럼키트·전기 베이스·기타·건반의 표준화까지, 기술과 고용의 관계를 설명한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 요약 기반·검토 필요",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "jazz-to-ai",
+        "jazz-history-plural",
+        "drum-kit",
+        "rhythm-section",
+        "big-band",
+        "brass-band",
+        "double-bass",
+        "electric-bass",
+        "silent-film-musician-labor",
+        "circus-music-questions"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-ensemble-labor.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/jazz-ensemble-labor.md",
+      "page_url": "https://belorin.github.io/#jazz-ensemble-labor"
+    },
+    {
+      "id": "jazz-live-quartet-case",
+      "title": "재즈 4중주를 현장에서 듣는 법: 악보·즉흥·음향·선곡",
+      "aliases": [
+        "재즈 4중주 현장 청취"
+      ],
+      "category": "음악",
+      "tags": [
+        "라이브",
+        "재즈 4중주",
+        "인터플레이",
+        "공연 음향",
+        "선곡"
+      ],
+      "summary": "기타·피아노·콘트라베이스·드럼의 상호작용과 브러시·피치카토·악보·선곡·증폭을 구체적인 익명 공연 관찰로 살핀다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 요약 기반·검토 필요",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "jazz-to-ai",
+        "jazz-dialogue",
+        "jazz-listening",
+        "rhythm-section",
+        "double-bass",
+        "jazz-chronological-listening"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-live-quartet-case.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/jazz-live-quartet-case.md",
+      "page_url": "https://belorin.github.io/#jazz-live-quartet-case"
+    },
+    {
+      "id": "jazz-chronological-listening",
+      "title": "1923~2026 재즈 청취 지도: 편성과 질문이 바뀌는 26개의 지점",
+      "aliases": [
+        "재즈 청취 지도",
+        "재즈 듣기 목록"
+      ],
+      "category": "음악",
+      "tags": [
+        "재즈",
+        "청취 가이드",
+        "음반",
+        "재즈사",
+        "2026"
+      ],
+      "summary": "King Oliver에서 Tomeka Reid와 Mary Halvorson까지, 26개 곡·앨범을 편성과 연주 질문에 따라 시대순으로 비교한다.",
+      "published": true,
+      "review_state": "unassessed",
+      "review_label": "대화 내 주장·세부 검증 필요",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "jazz-history-plural",
+        "jazz-ensemble-labor",
+        "jazz-live-quartet-case",
+        "jazz-current-ecosystem",
+        "electric-bass"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-chronological-listening.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/jazz-chronological-listening.md",
+      "page_url": "https://belorin.github.io/#jazz-chronological-listening"
+    },
+    {
+      "id": "jazz-current-ecosystem",
+      "title": "현대 재즈 생태계: 협업 네트워크와 여러 종류의 정상",
+      "aliases": [
+        "현대 재즈 생태계"
+      ],
+      "category": "음악",
+      "tags": [
+        "현대 재즈",
+        "재즈 산업",
+        "재즈상",
+        "페스티벌",
+        "레이블"
+      ],
+      "summary": "동료의 신뢰, DownBeat·JJA·그래미, 차트·라디오, 레이블·공연장·페스티벌·콩쿠르를 서로 다른 평가 체계로 구별한다.",
+      "published": true,
+      "review_state": "unassessed",
+      "review_label": "대화 내 주장·세부 검증 필요",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "jazz-to-ai",
+        "jazz-career-path",
+        "jazz-history-plural",
+        "jazz-chronological-listening",
+        "jazz-dialogue"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-current-ecosystem.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/jazz-current-ecosystem.md",
+      "page_url": "https://belorin.github.io/#jazz-current-ecosystem"
+    },
+    {
+      "id": "jazz-career-path",
+      "title": "17세에서 35세까지: 현대 재즈 음악가의 경력 형성 모형",
+      "aliases": [
+        "재즈 음악가 경력"
+      ],
+      "category": "음악",
+      "tags": [
+        "재즈 음악가",
+        "경력",
+        "사이드맨",
+        "음악교육",
+        "투어"
+      ],
+      "summary": "가상의 베이시스트를 통해 청소년 앙상블, 음악학교, 사이드맨, 리더 음반, 투어, 비평, 교육의 경력 경로를 설명한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 요약 기반·검토 필요",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "jazz-current-ecosystem",
+        "jazz-dialogue",
+        "jazz-live-quartet-case",
+        "jazz-chronological-listening"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-career-path.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/jazz-career-path.md",
+      "page_url": "https://belorin.github.io/#jazz-career-path"
+    },
+    {
+      "id": "silent-film-musician-labor",
+      "title": "유성영화의 등장과 극장 음악가: 재생 가능한 연주가 노동을 바꾸다",
+      "aliases": [
+        "유성영화와 극장 음악가"
+      ],
+      "category": "음악",
+      "tags": [
+        "무성영화",
+        "유성영화",
+        "노동사",
+        "AFM",
+        "녹음기술"
+      ],
+      "summary": "무성영화의 현장 반주에서 녹음된 유성영화로의 전환, 실직·노조·공공사업과 재생 수익을 둘러싼 노동 문제를 분석한다.",
+      "published": true,
+      "review_state": "unassessed",
+      "review_label": "대화 내 주장·세부 검증 필요",
+      "last_updated_on": "2026-10-22",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "silent-film",
+        "jazz-ensemble-labor",
+        "circus-music-questions",
+        "circus-music-concepts"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/silent-film-musician-labor.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/silent-film-musician-labor.md",
+      "page_url": "https://belorin.github.io/#silent-film-musician-labor"
+    }
+  ]
+}
