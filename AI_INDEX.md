@@ -10,7 +10,7 @@
 
 ## 운영
 
-- **[대화가 끝난 뒤에도 자라는 노트](wiki/living-notes.md)** · 별칭: 열린 노트 · 수정: 2026-10-22 · 검토: 운영 초안
+- **[대화가 끝난 뒤에도 자라는 노트](wiki/living-notes.md)** · 별칭: 열린 노트 · 수정: 2026-10-23 · 검토: 운영 초안
   - 대화를 보관하는 데서 출발해, 주제별 문서를 계속 고쳐 쓰는 공개 위키로.
   - [웹페이지](https://belorin.github.io/#living-notes) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/living-notes.md)
 - **[사람과 AI가 함께 편집하는 규칙](wiki/editing-principles.md)** · 별칭: 편집 원칙 · 수정: 2026-10-22 · 검토: 제안
