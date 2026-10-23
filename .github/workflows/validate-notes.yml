@@ -5,6 +5,8 @@ on:
       - "wiki/**"
       - "notes.json"
       - "scripts/build-notes.mjs"
+      - "scripts/validate-editorial.mjs"
+      - "editorial/**"
       - ".github/workflows/validate-notes.yml"
   pull_request:
     paths:
@@ -22,3 +24,4 @@ jobs:
         with:
           node-version: "22"
       - run: node scripts/build-notes.mjs --check
+      - run: node scripts/validate-editorial.mjs
