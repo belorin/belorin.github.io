@@ -750,7 +750,7 @@
     {
       "id": "deleuze-becoming-new",
       "path": "wiki/deleuze-becoming-new.md",
-      "publish": false,
+      "publish": true,
       "aliases": [
         "들뢰즈와 생성",
         "들뢰즈와 미래",
@@ -774,9 +774,9 @@
       "related": [
         "deleuze-negation-history",
         "deleuze-control-marx-future",
-        "deleuze-cartography-future",
         "post-deleuze-novelty-thinkers"
-      ]
+      ],
+      "order": 32
     },
     {
       "id": "deleuze-cartography-future",
@@ -809,7 +809,7 @@
     {
       "id": "post-deleuze-novelty-thinkers",
       "path": "wiki/post-deleuze-novelty-thinkers.md",
-      "publish": false,
+      "publish": true,
       "aliases": [
         "들뢰즈 이후의 사상가",
         "들뢰즈의 후계자",
@@ -835,7 +835,8 @@
         "deleuze-becoming-new",
         "deleuze-control-marx-future",
         "contemporary-governing-philosophies"
-      ]
+      ],
+      "order": 35
     },
     {
       "path": "wiki/wiki-building-history.md",
@@ -1118,7 +1119,7 @@
     {
       "id": "deleuze-negation-history",
       "path": "wiki/deleuze-negation-history.md",
-      "publish": false,
+      "publish": true,
       "title": "차이, 문제, 역사: 『차이와 반복』의 부정 비판과 피비린내 나는 긍정",
       "category": "철학",
       "status": "원문 대조 기반 해설·외부 재검토 필요",
@@ -1135,8 +1136,7 @@
       "source": "내부 총합 · 대화 중 이미 대조된 프랑스어 원문·영어 번역·해설 정보 포함 · 이번 편집에서 외부 재조사 없음",
       "related": [
         "deleuze-becoming-new",
-        "deleuze-control-marx-future",
-        "deleuze-cartography-future"
+        "deleuze-control-marx-future"
       ],
       "aliases": [
         "들뢰즈와 부정",
@@ -1144,12 +1144,13 @@
         "차이와 반복의 역사론"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-23"
+      "last_enriched_on": "2026-10-23",
+      "order": 33
     },
     {
       "id": "deleuze-control-marx-future",
       "path": "wiki/deleuze-control-marx-future.md",
-      "publish": false,
+      "publish": true,
       "title": "통제사회, 마르크스, 말년의 들뢰즈가 남긴 미래 문제",
       "category": "철학",
       "status": "저작 해설·말년 미래관 해석",
@@ -1177,12 +1178,13 @@
         "Grandeur de Marx"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-23"
+      "last_enriched_on": "2026-10-23",
+      "order": 34
     },
     {
       "id": "contemporary-governing-philosophies",
       "path": "wiki/contemporary-governing-philosophies.md",
-      "publish": false,
+      "publish": true,
       "title": "현대 세계를 지배하는 철학과 합리성: 자유주의에서 계산주의까지",
       "category": "철학",
       "status": "종합적 지도·해석",
@@ -1208,12 +1210,13 @@
         "현대의 지배적 합리성"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-23"
+      "last_enriched_on": "2026-10-23",
+      "order": 36
     },
     {
       "id": "ai-democracy-narrow-corridor",
       "path": "wiki/ai-democracy-narrow-corridor.md",
-      "publish": false,
+      "publish": true,
       "title": "AI와 민주주의의 좁은 회랑: 국가·시민사회·데이터 비대칭의 수리모형",
       "category": "AI와 사회",
       "status": "논문 해설·수리모형 세부 재대조 필요",
@@ -1240,7 +1243,8 @@
         "민주주의 좁은 회랑"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-23"
+      "last_enriched_on": "2026-10-23",
+      "order": 37
     }
   ]
 }

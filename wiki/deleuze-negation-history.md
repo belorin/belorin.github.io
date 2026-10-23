@@ -75,7 +75,6 @@
 
 - [들뢰즈: 생성과 새로운 것의 철학](./deleuze-becoming-new.md)
 - [통제사회, 마르크스, 말년의 미래관](./deleuze-control-marx-future.md)
-- [지도와 트레이싱](./deleuze-cartography-future.md)
 
 ## 검토 상태
 

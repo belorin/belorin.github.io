@@ -58,7 +58,6 @@
 
 - [차이, 문제, 역사](./deleuze-negation-history.md)
 - [통제사회, 마르크스, 말년의 미래관](./deleuze-control-marx-future.md)
-- [지도와 트레이싱](./deleuze-cartography-future.md)
 - [들뢰즈 이후의 사상가들](./post-deleuze-novelty-thinkers.md)
 
 ## 검토 상태

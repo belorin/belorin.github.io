@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 32,
+  "document_count": 38,
   "documents": [
     {
       "id": "living-notes",
@@ -1039,6 +1039,205 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-conversation-data-access.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-conversation-data-access.md",
       "page_url": "https://belorin.github.io/#ai-conversation-data-access"
+    },
+    {
+      "id": "deleuze-becoming-new",
+      "title": "들뢰즈: 생성과 새로운 것의 철학",
+      "aliases": [
+        "들뢰즈와 생성",
+        "들뢰즈와 미래",
+        "들뢰즈 독서 경로"
+      ],
+      "category": "철학",
+      "tags": [
+        "들뢰즈",
+        "생성",
+        "배치",
+        "미래",
+        "독서 경로"
+      ],
+      "summary": "고정된 미래상보다 문제·생성·배치의 문법을 남긴 들뢰즈를 2026년의 렌즈로 읽고, 『디알로그』·『천 개의 고원』·통제사회로 이어지는 독서 경로를 정리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "개념 종합·현재 적용 해석 포함",
+      "last_updated_on": "2026-10-23",
+      "last_enriched_on": "2026-10-23",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "deleuze-negation-history",
+        "deleuze-control-marx-future",
+        "post-deleuze-novelty-thinkers"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-becoming-new.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/deleuze-becoming-new.md",
+      "page_url": "https://belorin.github.io/#deleuze-becoming-new"
+    },
+    {
+      "id": "deleuze-negation-history",
+      "title": "차이, 문제, 역사: 『차이와 반복』의 부정 비판과 피비린내 나는 긍정",
+      "aliases": [
+        "들뢰즈와 부정",
+        "피비린내와 잔혹함",
+        "차이와 반복의 역사론"
+      ],
+      "category": "철학",
+      "tags": [
+        "차이와 반복",
+        "부정",
+        "문제",
+        "역사",
+        "헤겔",
+        "긍정"
+      ],
+      "summary": "부정의 과대평가, 문제와 차이의 발생론, 역사의 비목적론, '피비린내와 잔혹함', 아름다운 영혼 비판을 통해 들뢰즈의 긍정이 평화주의가 아님을 정리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "원문 대조 기반 해설·외부 재검토 필요",
+      "last_updated_on": "2026-10-23",
+      "last_enriched_on": "2026-10-23",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "deleuze-becoming-new",
+        "deleuze-control-marx-future"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-negation-history.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/deleuze-negation-history.md",
+      "page_url": "https://belorin.github.io/#deleuze-negation-history"
+    },
+    {
+      "id": "deleuze-control-marx-future",
+      "title": "통제사회, 마르크스, 말년의 들뢰즈가 남긴 미래 문제",
+      "aliases": [
+        "통제사회에 관한 후기",
+        "말년의 들뢰즈",
+        "Grandeur de Marx"
+      ],
+      "category": "철학",
+      "tags": [
+        "통제사회",
+        "마르크스",
+        "dividual",
+        "부채",
+        "혁명적 생성",
+        "도래할 민중"
+      ],
+      "summary": "주형에서 변조, 개인에서 dividual, 빚진 인간, 『마르크스의 위대함』의 미완성 기획, 혁명적 생성·비소통·세계에 대한 믿음을 하나의 말년 문제계로 정리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "저작 해설·말년 미래관 해석",
+      "last_updated_on": "2026-10-23",
+      "last_enriched_on": "2026-10-23",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "deleuze-negation-history",
+        "deleuze-becoming-new",
+        "post-deleuze-novelty-thinkers",
+        "contemporary-governing-philosophies",
+        "ai-democracy-narrow-corridor"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-control-marx-future.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/deleuze-control-marx-future.md",
+      "page_url": "https://belorin.github.io/#deleuze-control-marx-future"
+    },
+    {
+      "id": "post-deleuze-novelty-thinkers",
+      "title": "들뢰즈 이후, 생성·자본·기술을 이어 간 사상가들",
+      "aliases": [
+        "들뢰즈 이후의 사상가",
+        "들뢰즈의 후계자",
+        "포스트 들뢰즈"
+      ],
+      "category": "철학",
+      "tags": [
+        "들뢰즈 이후",
+        "라자라토",
+        "네그리",
+        "데란다",
+        "육후이",
+        "AI 철학"
+      ],
+      "summary": "라자라토, 하트·네그리, 데란다, 마수미, 브라이도티, 스텡게르스, 육후이, 파스퀴넬리로 분산된 들뢰즈 이후의 계보를 질문별로 정리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "계보·독서 안내·일부 해석",
+      "last_updated_on": "2026-10-23",
+      "last_enriched_on": "2026-10-23",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "deleuze-becoming-new",
+        "deleuze-control-marx-future",
+        "contemporary-governing-philosophies"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/post-deleuze-novelty-thinkers.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/post-deleuze-novelty-thinkers.md",
+      "page_url": "https://belorin.github.io/#post-deleuze-novelty-thinkers"
+    },
+    {
+      "id": "contemporary-governing-philosophies",
+      "title": "현대 세계를 지배하는 철학과 합리성: 자유주의에서 계산주의까지",
+      "aliases": [
+        "2026년의 패권철학",
+        "계산주의",
+        "현대의 지배적 합리성"
+      ],
+      "category": "철학",
+      "tags": [
+        "자유주의",
+        "신자유주의",
+        "실증주의",
+        "경제학 제국주의",
+        "계산주의",
+        "AI"
+      ],
+      "summary": "단일 패권철학 대신 자유주의, 신자유주의, 통계적 실증주의, 경제학적 합리성, 계산·최적화가 서로 다른 제도에서 운영체제처럼 작동하는 구조를 정리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "종합적 지도·해석",
+      "last_updated_on": "2026-10-23",
+      "last_enriched_on": "2026-10-23",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "deleuze-control-marx-future",
+        "post-deleuze-novelty-thinkers",
+        "ai-democracy-narrow-corridor"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/contemporary-governing-philosophies.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/contemporary-governing-philosophies.md",
+      "page_url": "https://belorin.github.io/#contemporary-governing-philosophies"
+    },
+    {
+      "id": "ai-democracy-narrow-corridor",
+      "title": "AI와 민주주의의 좁은 회랑: 국가·시민사회·데이터 비대칭의 수리모형",
+      "aliases": [
+        "AI와 민주주의",
+        "Why does AI hinder democratization",
+        "민주주의 좁은 회랑"
+      ],
+      "category": "AI와 사회",
+      "tags": [
+        "AI",
+        "민주주의",
+        "좁은 회랑",
+        "국가",
+        "시민사회",
+        "데이터 비대칭"
+      ],
+      "summary": "AI가 국가와 시민사회에 비대칭적으로 결합할 때 민주주의의 유지 영역이 좁아지는 조건부 수리모형, 164개국 디지털 능력 자료, 플랫폼·개인화로의 확장을 구분한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "논문 해설·수리모형 세부 재대조 필요",
+      "last_updated_on": "2026-10-23",
+      "last_enriched_on": "2026-10-23",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "conversational-ai-persuasion",
+        "deleuze-control-marx-future",
+        "contemporary-governing-philosophies",
+        "gradual-disempowerment"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-democracy-narrow-corridor.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-democracy-narrow-corridor.md",
+      "page_url": "https://belorin.github.io/#ai-democracy-narrow-corridor"
     }
   ]
 }

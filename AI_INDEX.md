@@ -115,3 +115,24 @@
 - **[AI 대화 데이터와 접근권: 연구·감사·감시를 가르는 비대칭](wiki/ai-conversation-data-access.md)** · 별칭: AI 대화 데이터 접근권, 대화 데이터 감시 · 수정: 2026-10-23 · 검토: 발표·보도 기반·일부 미검증
   - 연구의 세 경로와 사각지대, 기업 내부의 집계 분석과 개별 신고 체계, 신고 기준의 이동, 공개된 활용과 증거 없는 가능성.
   - [웹페이지](https://belorin.github.io/#ai-conversation-data-access) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-conversation-data-access.md)
+- **[AI와 민주주의의 좁은 회랑: 국가·시민사회·데이터 비대칭의 수리모형](wiki/ai-democracy-narrow-corridor.md)** · 별칭: AI와 민주주의, Why does AI hinder democratization, 민주주의 좁은 회랑 · 수정: 2026-10-23 · 검토: 논문 해설·수리모형 세부 재대조 필요
+  - AI가 국가와 시민사회에 비대칭적으로 결합할 때 민주주의의 유지 영역이 좁아지는 조건부 수리모형, 164개국 디지털 능력 자료, 플랫폼·개인화로의 확장을 구분한다.
+  - [웹페이지](https://belorin.github.io/#ai-democracy-narrow-corridor) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-democracy-narrow-corridor.md)
+
+## 철학
+
+- **[들뢰즈: 생성과 새로운 것의 철학](wiki/deleuze-becoming-new.md)** · 별칭: 들뢰즈와 생성, 들뢰즈와 미래, 들뢰즈 독서 경로 · 수정: 2026-10-23 · 검토: 개념 종합·현재 적용 해석 포함
+  - 고정된 미래상보다 문제·생성·배치의 문법을 남긴 들뢰즈를 2026년의 렌즈로 읽고, 『디알로그』·『천 개의 고원』·통제사회로 이어지는 독서 경로를 정리한다.
+  - [웹페이지](https://belorin.github.io/#deleuze-becoming-new) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-becoming-new.md)
+- **[차이, 문제, 역사: 『차이와 반복』의 부정 비판과 피비린내 나는 긍정](wiki/deleuze-negation-history.md)** · 별칭: 들뢰즈와 부정, 피비린내와 잔혹함, 차이와 반복의 역사론 · 수정: 2026-10-23 · 검토: 원문 대조 기반 해설·외부 재검토 필요
+  - 부정의 과대평가, 문제와 차이의 발생론, 역사의 비목적론, '피비린내와 잔혹함', 아름다운 영혼 비판을 통해 들뢰즈의 긍정이 평화주의가 아님을 정리한다.
+  - [웹페이지](https://belorin.github.io/#deleuze-negation-history) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-negation-history.md)
+- **[통제사회, 마르크스, 말년의 들뢰즈가 남긴 미래 문제](wiki/deleuze-control-marx-future.md)** · 별칭: 통제사회에 관한 후기, 말년의 들뢰즈, Grandeur de Marx · 수정: 2026-10-23 · 검토: 저작 해설·말년 미래관 해석
+  - 주형에서 변조, 개인에서 dividual, 빚진 인간, 『마르크스의 위대함』의 미완성 기획, 혁명적 생성·비소통·세계에 대한 믿음을 하나의 말년 문제계로 정리한다.
+  - [웹페이지](https://belorin.github.io/#deleuze-control-marx-future) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-control-marx-future.md)
+- **[들뢰즈 이후, 생성·자본·기술을 이어 간 사상가들](wiki/post-deleuze-novelty-thinkers.md)** · 별칭: 들뢰즈 이후의 사상가, 들뢰즈의 후계자, 포스트 들뢰즈 · 수정: 2026-10-23 · 검토: 계보·독서 안내·일부 해석
+  - 라자라토, 하트·네그리, 데란다, 마수미, 브라이도티, 스텡게르스, 육후이, 파스퀴넬리로 분산된 들뢰즈 이후의 계보를 질문별로 정리한다.
+  - [웹페이지](https://belorin.github.io/#post-deleuze-novelty-thinkers) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/post-deleuze-novelty-thinkers.md)
+- **[현대 세계를 지배하는 철학과 합리성: 자유주의에서 계산주의까지](wiki/contemporary-governing-philosophies.md)** · 별칭: 2026년의 패권철학, 계산주의, 현대의 지배적 합리성 · 수정: 2026-10-23 · 검토: 종합적 지도·해석
+  - 단일 패권철학 대신 자유주의, 신자유주의, 통계적 실증주의, 경제학적 합리성, 계산·최적화가 서로 다른 제도에서 운영체제처럼 작동하는 구조를 정리한다.
+  - [웹페이지](https://belorin.github.io/#contemporary-governing-philosophies) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/contemporary-governing-philosophies.md)

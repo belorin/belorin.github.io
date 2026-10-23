@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 188,
+  "edge_count": 208,
   "edges": [
     {
       "from": "living-notes",
@@ -1052,6 +1052,126 @@
     {
       "from": "ai-conversation-data-access",
       "to": "llm-disempowerment-patterns",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-becoming-new",
+      "to": "deleuze-negation-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-becoming-new",
+      "to": "deleuze-control-marx-future",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-becoming-new",
+      "to": "post-deleuze-novelty-thinkers",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-negation-history",
+      "to": "deleuze-becoming-new",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-negation-history",
+      "to": "deleuze-control-marx-future",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-control-marx-future",
+      "to": "deleuze-negation-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-control-marx-future",
+      "to": "deleuze-becoming-new",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-control-marx-future",
+      "to": "post-deleuze-novelty-thinkers",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-control-marx-future",
+      "to": "contemporary-governing-philosophies",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-control-marx-future",
+      "to": "ai-democracy-narrow-corridor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "post-deleuze-novelty-thinkers",
+      "to": "deleuze-becoming-new",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "post-deleuze-novelty-thinkers",
+      "to": "deleuze-control-marx-future",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "post-deleuze-novelty-thinkers",
+      "to": "contemporary-governing-philosophies",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "contemporary-governing-philosophies",
+      "to": "deleuze-control-marx-future",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "contemporary-governing-philosophies",
+      "to": "post-deleuze-novelty-thinkers",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "contemporary-governing-philosophies",
+      "to": "ai-democracy-narrow-corridor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-democracy-narrow-corridor",
+      "to": "conversational-ai-persuasion",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-democracy-narrow-corridor",
+      "to": "deleuze-control-marx-future",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-democracy-narrow-corridor",
+      "to": "contemporary-governing-philosophies",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-democracy-narrow-corridor",
+      "to": "gradual-disempowerment",
       "type": "related_to",
       "basis": "manifest.related"
     },
