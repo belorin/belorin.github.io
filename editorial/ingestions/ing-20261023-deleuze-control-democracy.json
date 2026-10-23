@@ -1,0 +1,289 @@
+{
+  "id": "ing-20261023-deleuze-control-democracy",
+  "processed_on": "2026-10-23",
+  "coverage": "visible-complete",
+  "limit_note": "현재 이 채팅에서 접근 가능한 첫 철학 인용문부터 위키 반영 요청 직전까지 전수 처리; 외부 재조사 없음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "부정의 과대평가와 문제·차이의 발생론",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-negation-history",
+          "section": "부정은 원인이 아니라 표면 효과다"
+        },
+        {
+          "doc_id": "deleuze-negation-history",
+          "section": "기획의 보수성: 이미 주어진 항을 부정하는 것"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "역사의 비목적론과 원문의 passe par 해석",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-negation-history",
+          "section": "역사는 진보가 아니라 문제의 규정을 통과한다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "counterargument",
+      "title": "피비린내와 잔혹함이 차이의 긍정을 평화주의와 분리한다는 해석",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-negation-history",
+          "section": "피비린내와 잔혹함: 긍정은 평화주의가 아니다"
+        },
+        {
+          "doc_id": "deleuze-negation-history",
+          "section": "“혁명은 축제”와 역사적 잔혹함은 양립할 수 있다"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "플라톤식 모델·재현과 내재적 평가의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-negation-history",
+          "section": "플라톤식 도덕주의와 다른 평가"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "argument",
+      "title": "재현적 제도와 비재현적 플랫폼 통제가 공존하는 현대사회",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-negation-history",
+          "section": "현재 세계는 헤겔적인가"
+        },
+        {
+          "doc_id": "deleuze-control-marx-future",
+          "section": "자본주의가 비재현적으로 변한 역설"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "fact",
+      "title": "통제사회의 주형·변조·dividual·빚진 인간",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-control-marx-future",
+          "section": "규율사회에서 통제사회로"
+        },
+        {
+          "doc_id": "deleuze-control-marx-future",
+          "section": "개인에서 dividual로"
+        },
+        {
+          "doc_id": "deleuze-control-marx-future",
+          "section": "기업, 마케팅, 빚진 인간"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "fact",
+      "title": "말년의 마르크스 회귀와 미완성 『마르크스의 위대함』",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-control-marx-future",
+          "section": "『마르크스의 위대함』이라는 미완성 기획"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "argument",
+      "title": "혁명적 생성·비소통·세계에 대한 믿음으로 본 말년의 미래관",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-control-marx-future",
+          "section": "말년의 미래관: “아마도, 나는 모른다”"
+        },
+        {
+          "doc_id": "deleuze-control-marx-future",
+          "section": "혁명적 생성"
+        },
+        {
+          "doc_id": "deleuze-control-marx-future",
+          "section": "비소통의 공백과 회로 차단기"
+        },
+        {
+          "doc_id": "deleuze-control-marx-future",
+          "section": "세계를 믿는다는 것"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "curation",
+      "title": "『디알로그』·『천 개의 고원』·통제사회로 이어지는 독서 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-becoming-new",
+          "section": "독서 경로: 『디알로그』에서 말년의 통제사회까지"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "argument",
+      "title": "오래된 철학을 예언이 아닌 현재 문제의 렌즈로 읽는 기준",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-becoming-new",
+          "section": "2026년에 읽는 법: 예언이 아니라 오래된 고성능 렌즈"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "curation",
+      "title": "라자라토에서 육후이까지 분산된 들뢰즈 이후의 계보",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "post-deleuze-novelty-thinkers",
+          "section": "기능이 분산된 계보"
+        },
+        {
+          "doc_id": "post-deleuze-novelty-thinkers",
+          "section": "무엇을 읽을 것인가"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "argument",
+      "title": "단일 패권철학보다 제도별 합리성이 작동한다는 현대 철학 지도",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "contemporary-governing-philosophies",
+          "section": "하나의 패권철학보다 겹치는 운영체제"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "concept",
+      "title": "자유주의·신자유주의·통계적 실증주의·경제학·계산주의의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "contemporary-governing-philosophies",
+          "section": "자유주의: 법과 정치의 기본 운영체제"
+        },
+        {
+          "doc_id": "contemporary-governing-philosophies",
+          "section": "신자유주의: 시장보다 더 넓은 평가의 문법"
+        },
+        {
+          "doc_id": "contemporary-governing-philosophies",
+          "section": "학문의 운영 문법: 자연주의와 통계적 실증주의"
+        },
+        {
+          "doc_id": "contemporary-governing-philosophies",
+          "section": "경제학 제국주의: 철학보다 강한 사회과학의 언어"
+        },
+        {
+          "doc_id": "contemporary-governing-philosophies",
+          "section": "떠오르는 합리성: 계산주의·최적화·사이버네틱스"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "fact",
+      "title": "AI와 민주주의의 좁은 회랑 수리모형",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-democracy-narrow-corridor",
+          "section": "좁은 회랑: 국가와 시민사회의 두 힘"
+        },
+        {
+          "doc_id": "ai-democracy-narrow-corridor",
+          "section": "AI의 기술적 상보성"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "concept",
+      "title": "데이터 비대칭이 국가와 시민사회의 정치 비대칭으로 바뀌는 메커니즘",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-democracy-narrow-corridor",
+          "section": "데이터 비대칭이 정치 비대칭으로 변하는 과정"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "fact",
+      "title": "164개국 디지털 능력과 필터링·차단·사이버보안 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-democracy-narrow-corridor",
+          "section": "164개국 자료와 세 종류의 디지털 능력"
+        },
+        {
+          "doc_id": "ai-democracy-narrow-corridor",
+          "section": "능력과 실제 사용은 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "counterargument",
+      "title": "AI가 민주주의를 반드시 파괴한다는 식의 과장에 대한 조건부 해석",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-democracy-narrow-corridor",
+          "section": "무엇이 “수학적으로 증명”된 것인가"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "argument",
+      "title": "국가-시민사회 모형을 플랫폼과 대화형 개인화 문제로 확장",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-democracy-narrow-corridor",
+          "section": "국가-시민사회 모형 밖의 제3행위자: 플랫폼"
+        },
+        {
+          "doc_id": "ai-democracy-narrow-corridor",
+          "section": "개인화가 만든 또 다른 수리적 위험"
+        }
+      ]
+    }
+  ]
+}
