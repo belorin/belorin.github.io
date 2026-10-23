@@ -1,5 +1,7 @@
 {
   "version": 1,
   "description": "신규 지식 증보 배치의 내부 식별자 목록. 대화 원문, 인용, 링크는 저장하지 않는다.",
-  "batches": []
+  "batches": [
+    "ing-20261023-wiki-build-history"
+  ]
 }

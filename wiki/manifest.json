@@ -754,6 +754,39 @@
       ],
       "review_state": "unassessed",
       "last_enriched_on": null
+    },
+    {
+      "path": "wiki/wiki-building-history.md",
+      "publish": true,
+      "order": 23,
+      "id": "wiki-building-history",
+      "title": "누적형 지식백과 구축사: 총합·증보를 위한 설계와 구현",
+      "category": "운영",
+      "status": "구축 이력·구현 확인",
+      "updated": "2026-10-23",
+      "summary": "요약을 넘어 서적 수준의 지식 총합을 지향한 이유, Markdown 정본화부터 AI 탐색·교차 편집까지 네 단계의 구현과 GitHub 유지 방침.",
+      "tags": [
+        "위키 구축",
+        "아키텍처",
+        "Markdown",
+        "AI 편집",
+        "GitHub Pages",
+        "변경 이력"
+      ],
+      "source": "공개 저장소의 구성 파일·구현 커밋(2026-10-22~23)을 바탕으로 편집한 구축 이력",
+      "related": [
+        "living-notes",
+        "editing-principles",
+        "open-questions"
+      ],
+      "aliases": [
+        "위키 구축 이력",
+        "위키 아키텍처",
+        "위키 구성사",
+        "총합형 지식백과"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     }
   ]
 }

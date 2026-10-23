@@ -16,6 +16,9 @@
 - **[사람과 AI가 함께 편집하는 규칙](wiki/editing-principles.md)** · 별칭: 편집 원칙 · 수정: 2026-10-22 · 검토: 제안
   - 발언과 해석을 구분하고, 새 대화가 기존 생각을 덮어쓰지 않도록.
   - [웹페이지](https://belorin.github.io/#editing-principles) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/editing-principles.md)
+- **[누적형 지식백과 구축사: 총합·증보를 위한 설계와 구현](wiki/wiki-building-history.md)** · 별칭: 위키 구축 이력, 위키 아키텍처, 위키 구성사, 총합형 지식백과 · 수정: 2026-10-23 · 검토: 구축 이력·구현 확인
+  - 요약을 넘어 서적 수준의 지식 총합을 지향한 이유, Markdown 정본화부터 AI 탐색·교차 편집까지 네 단계의 구현과 GitHub 유지 방침.
+  - [웹페이지](https://belorin.github.io/#wiki-building-history) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wiki-building-history.md)
 
 ## 질문
 

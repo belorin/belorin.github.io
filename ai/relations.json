@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 129,
+  "edge_count": 132,
   "edges": [
     {
       "from": "living-notes",
@@ -764,6 +764,24 @@
     {
       "from": "silent-film-musician-labor",
       "to": "circus-music-concepts",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "wiki-building-history",
+      "to": "living-notes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "wiki-building-history",
+      "to": "editing-principles",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "wiki-building-history",
+      "to": "open-questions",
       "type": "related_to",
       "basis": "manifest.related"
     },
