@@ -15,6 +15,10 @@ on:
       - "scripts/search-wiki.mjs"
       - "scripts/validate-crosslinks.mjs"
       - "scripts/test-crosslinks.mjs"
+      - "scripts/test-viewer.mjs"
+      - "index.html"
+      - "style.css"
+      - "app.js"
       - ".github/workflows/validate-notes.yml"
   pull_request:
     paths:
@@ -31,6 +35,10 @@ on:
       - "scripts/search-wiki.mjs"
       - "scripts/validate-crosslinks.mjs"
       - "scripts/test-crosslinks.mjs"
+      - "scripts/test-viewer.mjs"
+      - "index.html"
+      - "style.css"
+      - "app.js"
       - ".github/workflows/validate-notes.yml"
 permissions:
   contents: read
@@ -48,3 +56,5 @@ jobs:
       - run: node scripts/test-editorial.mjs
       - run: node scripts/validate-crosslinks.mjs
       - run: node scripts/test-crosslinks.mjs
+      - run: node --check app.js
+      - run: node scripts/test-viewer.mjs
