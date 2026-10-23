@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "description": "확인된 관계가 아니라 교차 편집을 위해 검토할 해석적 가설. 본문이나 wiki/relations.json에 자동 반영하지 않는다. 대화 원문을 기록하지 않는다.",
+  "proposals": [
+    {
+      "id": "link-20261023-sound-labor-ai-skills",
+      "created_on": "2026-10-23",
+      "from": {
+        "doc_id": "silent-film-musician-labor",
+        "section": "녹음은 음악을 없앤 것이 아니라 재생의 단위를 바꾸었다"
+      },
+      "to": {
+        "doc_id": "ai-mediated-human-change",
+        "section": "능력"
+      },
+      "type": "methodological_parallel",
+      "status": "proposed",
+      "basis": "editorial_hypothesis",
+      "hypothesis": "기술 전환이 수행 능력의 가치와 노동의 배치를 바꾸는 방식에 대한 시대 간 비교 가능성",
+      "reason": "극장 음악의 녹음·재생 전환과 AI 보조에 따른 개인 능력 기준 변화는 생산과 수행의 위치가 이동한다는 비교 질문을 제공한다.",
+      "limitation": "두 기술의 고용 효과가 동일하다는 역사적 주장도, AI의 미래 영향을 확정한 예측도 아니다."
+    },
+    {
+      "id": "link-20261023-jazz-deleuze-repetition",
+      "created_on": "2026-10-23",
+      "from": {
+        "doc_id": "jazz-dialogue",
+        "section": "반복되는 코러스"
+      },
+      "to": {
+        "doc_id": "deleuze-becoming-new",
+        "section": "방향을 읽는 개념"
+      },
+      "type": "analogy",
+      "status": "proposed",
+      "basis": "editorial_hypothesis",
+      "hypothesis": "정해진 재즈 형식의 반복 속 새로운 연주와 생성의 철학을 유비적으로 비교할 가능성",
+      "reason": "재즈에서 같은 코러스를 되풀이해도 선택과 상호작용이 달라진다는 설명을 생성과 변화의 개념적 틀로 검토할 수 있다.",
+      "limitation": "둘의 개념이 동일하다는 주장이 아니며, 들뢰즈가 해당 재즈 기법을 설명했다고 추정할 근거도 아니다."
+    }
+  ]
+}
