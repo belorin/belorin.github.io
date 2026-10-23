@@ -14,13 +14,13 @@
 
 ### 운영
 
-- [대화가 끝난 뒤에도 자라는 노트](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/living-notes.md): 대화를 보관하는 데서 출발해, 주제별 문서를 계속 고쳐 쓰는 공개 위키로.
-- [사람과 AI가 함께 편집하는 규칙](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/editing-principles.md): 발언과 해석을 구분하고, 새 대화가 기존 생각을 덮어쓰지 않도록.
+- [대화가 끝난 뒤에도 자라는 노트](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/living-notes.md): 새로움과 생성, 중요도를 판단하는 능력, 음악·철학·AI·역사를 가로지르는 지식의 축적을 설명하는 열린 노트의 선언.
+- [사람과 AI가 함께 편집하는 규칙](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/editing-principles.md): 색인 우선 탐색, 논증·사례 보존, 사실과 해석의 구분, 원문 비보관, 간접 연결의 제안과 검증을 다루는 편집 규칙.
 - [누적형 지식백과 구축사: 총합·증보를 위한 설계와 구현](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wiki-building-history.md): 요약을 넘어 서적 수준의 지식 총합을 지향한 이유, Markdown 정본화부터 AI 탐색·교차 편집까지 네 단계의 구현과 GitHub 유지 방침.
 
 ### 질문
 
-- [이 위키가 앞으로 답해야 할 질문](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/open-questions.md): 무엇을 기록하고, 무엇을 연결하고, 생각의 변화를 어떻게 남길 것인가.
+- [이 위키가 앞으로 답해야 할 질문](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/open-questions.md): 중요한 문제의 선택, 반복과 개별성, AI의 통제력과 공감, 기술·노동·미래·역사와 지식 조직을 가로지르는 미해결 연구 문제.
 
 ### 음악
 

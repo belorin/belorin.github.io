@@ -17,18 +17,24 @@
       "category": "운영",
       "tags": [
         "개인 위키",
-        "AI 협업"
+        "새로움",
+        "생성",
+        "AI 협업",
+        "지식 축적"
       ],
-      "summary": "대화를 보관하는 데서 출발해, 주제별 문서를 계속 고쳐 쓰는 공개 위키로.",
+      "summary": "새로움과 생성, 중요도를 판단하는 능력, 음악·철학·AI·역사를 가로지르는 지식의 축적을 설명하는 열린 노트의 선언.",
       "published": true,
       "review_state": "needs_review",
-      "review_label": "운영 초안",
+      "review_label": "운영 방향",
       "last_updated_on": "2026-10-23",
-      "last_enriched_on": null,
-      "last_enriched_note": "not_recorded_for_legacy_content",
+      "last_enriched_on": "2026-10-23",
+      "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "editing-principles",
-        "open-questions"
+        "open-questions",
+        "wiki-building-history",
+        "jazz-dialogue",
+        "ai-human-control-guide"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/living-notes.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/living-notes.md",
@@ -43,17 +49,22 @@
       "category": "운영",
       "tags": [
         "편집 원칙",
-        "출처"
+        "정보 보존",
+        "근거",
+        "AI 협업",
+        "검증"
       ],
-      "summary": "발언과 해석을 구분하고, 새 대화가 기존 생각을 덮어쓰지 않도록.",
+      "summary": "색인 우선 탐색, 논증·사례 보존, 사실과 해석의 구분, 원문 비보관, 간접 연결의 제안과 검증을 다루는 편집 규칙.",
       "published": true,
       "review_state": "needs_review",
-      "review_label": "제안",
-      "last_updated_on": "2026-10-22",
-      "last_enriched_on": null,
-      "last_enriched_note": "not_recorded_for_legacy_content",
+      "review_label": "편집 원칙",
+      "last_updated_on": "2026-10-23",
+      "last_enriched_on": "2026-10-23",
+      "last_enriched_note": "explicitly_recorded",
       "related_ids": [
-        "living-notes"
+        "living-notes",
+        "open-questions",
+        "wiki-building-history"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/editing-principles.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/editing-principles.md",
@@ -68,18 +79,29 @@
       "category": "질문",
       "tags": [
         "질문",
-        "확장"
+        "철학",
+        "AI",
+        "개별성",
+        "미래",
+        "역사",
+        "지식 생산"
       ],
-      "summary": "무엇을 기록하고, 무엇을 연결하고, 생각의 변화를 어떻게 남길 것인가.",
+      "summary": "중요한 문제의 선택, 반복과 개별성, AI의 통제력과 공감, 기술·노동·미래·역사와 지식 조직을 가로지르는 미해결 연구 문제.",
       "published": true,
       "review_state": "needs_review",
-      "review_label": "열린 질문",
-      "last_updated_on": "2026-10-22",
-      "last_enriched_on": null,
-      "last_enriched_note": "not_recorded_for_legacy_content",
+      "review_label": "열린 연구 질문",
+      "last_updated_on": "2026-10-23",
+      "last_enriched_on": "2026-10-23",
+      "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "living-notes",
-        "editing-principles"
+        "editing-principles",
+        "wiki-building-history",
+        "jazz-dialogue",
+        "gradual-disempowerment",
+        "disempowerment-measurement",
+        "silent-film-musician-labor",
+        "circus-music-questions"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/open-questions.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/open-questions.md",

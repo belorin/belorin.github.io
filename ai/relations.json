@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 177,
+  "edge_count": 188,
   "edges": [
     {
       "from": "living-notes",
@@ -30,8 +30,38 @@
       "basis": "manifest.related"
     },
     {
+      "from": "living-notes",
+      "to": "wiki-building-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "living-notes",
+      "to": "jazz-dialogue",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "living-notes",
+      "to": "ai-human-control-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "editing-principles",
       "to": "living-notes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "editing-principles",
+      "to": "open-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "editing-principles",
+      "to": "wiki-building-history",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -44,6 +74,42 @@
     {
       "from": "open-questions",
       "to": "editing-principles",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-questions",
+      "to": "wiki-building-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-questions",
+      "to": "jazz-dialogue",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-questions",
+      "to": "gradual-disempowerment",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-questions",
+      "to": "disempowerment-measurement",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-questions",
+      "to": "silent-film-musician-labor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-questions",
+      "to": "circus-music-questions",
       "type": "related_to",
       "basis": "manifest.related"
     },

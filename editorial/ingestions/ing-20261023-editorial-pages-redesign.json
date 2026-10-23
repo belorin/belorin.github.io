@@ -1,0 +1,189 @@
+{
+  "id": "ing-20261023-editorial-pages-redesign",
+  "processed_on": "2026-10-23",
+  "coverage": "visible-partial",
+  "limit_note": "현재 접근 가능한 주제 논의와 기존 공개 원고·프로토콜만 반영; 과거 모든 채팅의 원문을 전수 복원하지 않음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "argument",
+      "title": "지식의 총합·증보와 새로움에 관한 운영 관점",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "living-notes",
+          "section": "지식은 결론보다 먼저 움직인다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "음악·철학·기술을 연결하는 질문 중심의 탐색",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "living-notes",
+          "section": "서로 다른 분야를 질문으로 연결하기"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "문제의 중요도를 판별하는 능력",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "living-notes",
+          "section": "무엇이 중요한지 판별하는 일"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "fact",
+      "title": "원문 비보관과 단일 정본의 운영 구조",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "living-notes",
+          "section": "사람이 읽고 AI가 증보하는 하나의 원고"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "argument",
+      "title": "색인 우선·원고 보존의 편집 방법",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "editing-principles",
+          "section": "색인을 먼저, 상세 원고를 나중에"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "argument",
+      "title": "사실·논증·가설의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "editing-principles",
+          "section": "사실·해석·가설을 혼동하지 않는다"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "argument",
+      "title": "간접적인 개념 연결의 제안 단계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "editing-principles",
+          "section": "간접적인 연결은 먼저 제안한다"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "fact",
+      "title": "공개 범위와 원문 비보관 정책",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "editing-principles",
+          "section": "공개할 수 있는 것만 남긴다"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "question",
+      "title": "중요한 질문을 고르는 능력",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "open-questions",
+          "section": "무엇이 중요한 질문인가"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "question",
+      "title": "철학적 반복과 생성의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "open-questions",
+          "section": "새로운 것은 반복 속에서 어떻게 생겨나는가"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "question",
+      "title": "즉흥성·AI 개별성의 성립 조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "open-questions",
+          "section": "즉흥성과 개별성은 어디에서 발생하는가"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "question",
+      "title": "AI와 인간의 판단권·통제력",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "open-questions",
+          "section": "AI가 판단을 돕는 동안 통제력은 어떻게 변하는가"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "question",
+      "title": "AI와 타자의 내면 검증 가능성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "open-questions",
+          "section": "AI와 인간의 내면을 어떻게 확인할 수 있는가"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "question",
+      "title": "기술 노동 변화와 미래 일상의 낯섦",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "open-questions",
+          "section": "미래의 일상은 왜 예측보다 낯설어지는가"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "question",
+      "title": "역사적 가능성의 복원과 지식의 서적화",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "open-questions",
+          "section": "연결된 위키는 언제 한 권의 책이 되는가"
+        }
+      ]
+    }
+  ]
+}
