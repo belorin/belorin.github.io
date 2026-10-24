@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 54,
+  "document_count": 55,
   "documents": [
     {
       "id": "living-notes",
@@ -805,16 +805,17 @@
         "민주주의",
         "길잡이"
       ],
-      "summary": "네트워크 장악에서 점진적 무력화, 측정, 대화형 설득, 대화 데이터 접근권으로 이어지는 질문의 이동과 관통 논점을 안내한다.",
+      "summary": "네트워크 장악에서 점진적 무력화, 지배의 농도, 측정, 대화형 설득, 대화 데이터 접근권으로 이어지는 질문의 이동과 관통 논점을 안내한다.",
       "published": true,
       "review_state": "needs_review",
       "review_label": "길잡이·해석 포함",
-      "last_updated_on": "2026-10-23",
-      "last_enriched_on": "2026-10-23",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "ai-takeover-human-recourse",
         "ai-goals-hostage-and-bait",
+        "ai-domination-gradient",
         "gradual-disempowerment",
         "disempowerment-measurement",
         "llm-disempowerment-patterns",
@@ -1754,6 +1755,42 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japanese-classical-tv-conductor-image.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/japanese-classical-tv-conductor-image.md",
       "page_url": "https://belorin.github.io/#japanese-classical-tv-conductor-image"
+    },
+    {
+      "id": "ai-domination-gradient",
+      "title": "AI 지배는 이미 시작되었는가: 사건이 아니라 농도로 보는 통제",
+      "aliases": [
+        "AI 지배의 농도",
+        "매끄러운 지배",
+        "AI 인지 인프라",
+        "AI 지배는 이미 시작되었다"
+      ],
+      "category": "AI와 사회",
+      "tags": [
+        "AI 지배",
+        "인지 인프라",
+        "맥락적 경사",
+        "주변화",
+        "p(doom)",
+        "카산드라"
+      ],
+      "summary": "AI 지배를 미래의 쿠데타가 아니라 현재부터 짙어질 수 있는 농도로 보고, 매개·의존·지배를 구분하며 맥락적 경사, 여덟 층, 사고 출처, p(doom), 카산드라식 조기 탐지를 검토한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "철학적 논증·대화 내 자료 기반·외부 재검증 필요",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "ai-human-control-guide",
+        "gradual-disempowerment",
+        "disempowerment-measurement",
+        "llm-disempowerment-patterns",
+        "conversational-ai-persuasion"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-domination-gradient.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-domination-gradient.md",
+      "page_url": "https://belorin.github.io/#ai-domination-gradient"
     }
   ]
 }

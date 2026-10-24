@@ -883,8 +883,8 @@
       "title": "AI와 인간의 통제력: 장악·무력화·설득·접근권을 잇는 길잡이",
       "category": "AI와 사회",
       "status": "길잡이·해석 포함",
-      "updated": "2026-10-23",
-      "summary": "네트워크 장악에서 점진적 무력화, 측정, 대화형 설득, 대화 데이터 접근권으로 이어지는 질문의 이동과 관통 논점을 안내한다.",
+      "updated": "2026-10-24",
+      "summary": "네트워크 장악에서 점진적 무력화, 지배의 농도, 측정, 대화형 설득, 대화 데이터 접근권으로 이어지는 질문의 이동과 관통 논점을 안내한다.",
       "tags": [
         "AI와 사회",
         "무력화",
@@ -895,6 +895,7 @@
       "related": [
         "ai-takeover-human-recourse",
         "ai-goals-hostage-and-bait",
+        "ai-domination-gradient",
         "gradual-disempowerment",
         "disempowerment-measurement",
         "llm-disempowerment-patterns",
@@ -908,7 +909,7 @@
         "AI와 사회 길잡이"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-23"
+      "last_enriched_on": "2026-10-24"
     },
     {
       "path": "wiki/ai-takeover-human-recourse.md",
@@ -1743,6 +1744,41 @@
       ],
       "updated": "2026-10-24",
       "source": "내부 총합 · 방송 연혁과 세대별 이미지 외부 미검증",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-24"
+    },
+    {
+      "path": "wiki/ai-domination-gradient.md",
+      "publish": true,
+      "order": 54,
+      "id": "ai-domination-gradient",
+      "title": "AI 지배는 이미 시작되었는가: 사건이 아니라 농도로 보는 통제",
+      "category": "AI와 사회",
+      "status": "철학적 논증·대화 내 자료 기반·외부 재검증 필요",
+      "updated": "2026-10-24",
+      "summary": "AI 지배를 미래의 쿠데타가 아니라 현재부터 짙어질 수 있는 농도로 보고, 매개·의존·지배를 구분하며 맥락적 경사, 여덟 층, 사고 출처, p(doom), 카산드라식 조기 탐지를 검토한다.",
+      "tags": [
+        "AI 지배",
+        "인지 인프라",
+        "맥락적 경사",
+        "주변화",
+        "p(doom)",
+        "카산드라"
+      ],
+      "source": "내부 총합 · 철학적 논증 및 대화 내 언급 자료 · 외부 추가 조사 없음",
+      "related": [
+        "ai-human-control-guide",
+        "gradual-disempowerment",
+        "disempowerment-measurement",
+        "llm-disempowerment-patterns",
+        "conversational-ai-persuasion"
+      ],
+      "aliases": [
+        "AI 지배의 농도",
+        "매끄러운 지배",
+        "AI 인지 인프라",
+        "AI 지배는 이미 시작되었다"
+      ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-24"
     }
