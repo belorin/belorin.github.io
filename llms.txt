@@ -86,6 +86,7 @@
 - [집에서 남의 축제를 엿보기: 세계 연례행사의 방송·스트리밍 지도](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/global-festival-streaming.md): 산레모·유로비전부터 세마나 산타·아와오도리·코첼라·버닝맨까지, 연례행사가 방송과 만나는 세 유형과 월별 관찰 지점을 정리한다.
 - [버닝맨의 10원칙과 제도화의 역설: 반상업·참여·안전·통치](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/burning-man-institutions.md): 10원칙, 탈상품화와 대규모 예산의 긴장, No Spectators와 공식 웹캐스트, 안전·치안의 제도화가 함께 만든 버닝맨의 구조적 역설을 다룬다.
 - [버닝맨은 무엇을 수출했나: 지역 번즈와 임시도시의 문화 프로토콜](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/burning-man-regional-network.md): AfrikaBurn·Midburn·Kiwiburn·Burning Japan을 통해 사막의 외형보다 참여·선물·자율운영·흔적 지우기라는 문화 프로토콜이 어떻게 현지화되는지 살핀다.
+- [수메르 재발견과 구약 원초사의 역사화: 홍수·에덴·바벨탑은 어떻게 재배치되었나](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/sumer-bible-primeval-history.md): 수메르·아카드·바빌로니아 문헌의 재발견이 창세기 1~11장을 문자 그대로의 역사로 확정한 것이 아니라, 홍수·에덴·바벨탑을 고대 서아시아 원초사 전통과 실제 역사적 배경 속에 재배치한 과정을 설명한다.
 
 ### 언어
 
