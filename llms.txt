@@ -102,6 +102,8 @@
 - [『탁월한 피해자』와 곽아람: 비면식 스토킹 기록이 묻는 피해자의 자리](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/excellent-victim-kwak-aram.md): 『탁월한 피해자』의 비면식 스토킹 기록과 형사사법 비판, 피해 감정의 규격화 문제, 2026년 공개 활동과 당시 사건 진행 상태를 함께 정리한다.
 - [2026년 9월 유럽의 ‘3차대전’ 루머를 읽는 법: 영공·드론·하이브리드전과 실제 확전 신호](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/europe-russia-escalation-signals-2026.md): 리투아니아 드론 격추·발트해 군사접촉·폴란드 경계·룩셈부르크 드론·FSB 국경 루머를 분해하고, NATO Article 4/5와 DEFCON을 구별해 실제 확전 신호를 판별한다.
 - [드론이 바꾼 비대칭전: 비용교환·후방 소멸·한반도와 아프리카·중앙아시아 사례](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/drone-asymmetric-warfare.md): 드론이 만드는 가격·생산시간·목표가치·귀속의 비대칭을 설명하고, 한반도와 에티오피아·리비아·키르기스스탄-타지키스탄·사헬·수단 사례에서 전황 변화와 한계를 비교한다.
+- [《어떻게 해야 했을까》와 일본 가족의 치료 결정: 1983년부터 2008년까지](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/dousureba-yokatta-family-psychiatry.md): 《どうすればよかったか？》의 가족사를 따라 의사 부모의 치료 거부, 1983~2008년 치료 선택지의 변화, 남동생의 법적·문화적 개입 한계와 한일 가족책임 차이를 함께 분석한다.
+- [우쓰노미야 병원 사건과 일본 정신의료의 40년: 폐쇄병동·감독 실패·개혁의 반복](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/utsunomiya-psychiatric-hospital-reform.md): 1984년 우쓰노미야 병원 사건의 폭행·인력부족·환자 노동·사회적 입원에서 1987년 법 개정, 대화천·아사쿠라·간데·다키야마 사건과 2024년 학대 신고제까지 이어지는 구조를 추적한다.
 
 ### 영화
 
