@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 286,
+  "edge_count": 294,
   "edges": [
     {
       "from": "living-notes",
@@ -1554,6 +1554,42 @@
       "basis": "manifest.related"
     },
     {
+      "from": "hank-asher-data-fusion-ai",
+      "to": "ai-democracy-narrow-corridor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hank-asher-data-fusion-ai",
+      "to": "ai-conversation-data-access",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hank-asher-data-fusion-ai",
+      "to": "korea-personal-data-lifecycle",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "korea-personal-data-lifecycle",
+      "to": "hank-asher-data-fusion-ai",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "korea-personal-data-lifecycle",
+      "to": "ai-democracy-narrow-corridor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "korea-personal-data-lifecycle",
+      "to": "ai-conversation-data-access",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "jazz-to-ai",
       "to": "jazz-dialogue",
       "type": "introduces",
@@ -1792,6 +1828,22 @@
       "basis": "curated",
       "evidence_section": "오보에: 예민한 완벽주의자라는 이미지",
       "reason": "오보이스트의 예민함이라는 직업적 이미지가 리드 제작·선별·습도 관리라는 실제 연주 노동과 연결되는 배경을 보충한다."
+    },
+    {
+      "from": "hank-asher-data-fusion-ai",
+      "to": "ai-democracy-narrow-corridor",
+      "type": "illustrates",
+      "basis": "curated",
+      "evidence_section": "인간 검토는 필요한 조건이지 충분조건은 아니다",
+      "reason": "데이터 융합과 조직 권한에 AI가 결합될 때 동일한 모델도 데이터·강제력 보유 주체에게 더 큰 통제력을 줄 수 있다는 구조를 역사적·기술적 사례로 구체화한다."
+    },
+    {
+      "from": "korea-personal-data-lifecycle",
+      "to": "hank-asher-data-fusion-ai",
+      "type": "contrasts",
+      "basis": "curated",
+      "evidence_section": "행크 애셔의 세계와 한국의 차이",
+      "reason": "한 사업가와 강력한 검색 데이터베이스 중심의 미국 사례와, 본인확인·광고·위탁·결합·유출이 분산된 한국의 데이터 생태계를 대비한다."
     }
   ]
 }
