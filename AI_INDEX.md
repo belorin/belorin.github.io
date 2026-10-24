@@ -199,6 +199,12 @@
 - **[주인 없는 땅은 거의 없다: 사막의 공공토지와 미국 BLM](wiki/public-land-and-blm.md)** · 별칭: BLM, Bureau of Land Management, 공공 토지, 블랙록 사막 · 수정: 2026-10-23 · 검토: 토지법·면적 수치·국가별 제도 재검증 필요
   - 무주지와 비민간 토지를 구별하고, 블랙록 사막의 BLM 허가 구조와 미국 서부·호주·나미비아·사하라의 겹쳐진 토지 권리를 설명한다.
   - [웹페이지](https://belorin.github.io/#public-land-and-blm) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/public-land-and-blm.md)
+- **[스토킹 피해를 손상이 아니라 침해로 보기: 관계거부·생활형성·강제된 중요성](wiki/stalking-harm-and-autonomy.md)** · 별칭: 스토킹 피해, 강제된 중요성, 관계거부의 자유, 생활형성의 자유 · 수정: 2026-10-24 · 검토: 법·철학적 분석 개념 · 대화 내 판례·연구 요약 기반 · 외부 재검증 필요
+  - 스토킹 피해를 공포·수치 같은 손상만으로 보지 않고 관계거부, 생활형성의 자유, 강제된 중요성, 성적 의미의 강제적 귀속이라는 침해 구조로 재구성한다.
+  - [웹페이지](https://belorin.github.io/#stalking-harm-and-autonomy) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/stalking-harm-and-autonomy.md)
+- **[『탁월한 피해자』와 곽아람: 비면식 스토킹 기록이 묻는 피해자의 자리](wiki/excellent-victim-kwak-aram.md)** · 별칭: 탁월한 피해자, 곽아람, 비면식 스토킹 기록 · 수정: 2026-10-24 · 검토: 2026년 공개보도·인터뷰 요약 기반 · 사건 진행 및 직함 재검증 필요
+  - 『탁월한 피해자』의 비면식 스토킹 기록과 형사사법 비판, 피해 감정의 규격화 문제, 2026년 공개 활동과 당시 사건 진행 상태를 함께 정리한다.
+  - [웹페이지](https://belorin.github.io/#excellent-victim-kwak-aram) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/excellent-victim-kwak-aram.md)
 
 ## 영화
 
