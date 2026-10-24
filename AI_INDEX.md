@@ -196,6 +196,9 @@
 - **[국지전은 어떻게 세계전쟁이 되는가: 1754·1618·1914·1939·1950과 2026년 다중 전선](wiki/war-escalation-local-to-world.md)** · 별칭: 국지전에서 세계대전, 전쟁의 연결, 1914 확전 모형 · 수정: 2026-10-24 · 검토: 역사 사례와 2026년 정세 비교·대화 내 자료 기반·세부 재검증 필요
   - 세계대전의 핵심을 국지전의 수가 아니라 전쟁들의 전략적 연결에서 찾고, 1754·1618·1914·1939·1950의 확전과 억제 사례를 러시아-유럽·대만·한반도의 동시 위기와 비교한다.
   - [웹페이지](https://belorin.github.io/#war-escalation-local-to-world) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/war-escalation-local-to-world.md)
+- **[혐오의 가속은 파국 없이 멈출 수 있는가: 집단공황과 정치적 선동의 역사적 브레이크](wiki/hate-escalation-brakes-history.md)** · 별칭: 혐오 가속의 브레이크, 집단공황의 중단, 파국 전 혐오정치 중단, 혐오사회 되돌리기 · 수정: 2026-10-24 · 검토: 대화 내 역사 사례 요약 · 사건별 세부 사실과 수치 외부 재검증 필요
+  - 전후의 반성이나 체제 붕괴가 아니라, 집단공황과 혐오 정치가 가속 중에 멈춘 청나라 영혼 도둑 공황·바스크 마녀사냥·적색공포·매카시즘·Popish Plot·드레퓌스기의 메커니즘을 비교한다.
+  - [웹페이지](https://belorin.github.io/#hate-escalation-brakes-history) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hate-escalation-brakes-history.md)
 
 ## 언어
 
