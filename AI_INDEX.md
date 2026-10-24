@@ -190,6 +190,9 @@
 - **[버닝맨은 무엇을 수출했나: 지역 번즈와 임시도시의 문화 프로토콜](wiki/burning-man-regional-network.md)** · 별칭: Regional Burn, Burning Man Regional Network, AfrikaBurn, Midburn, Kiwiburn, Burning Japan · 수정: 2026-10-23 · 검토: 지역 네트워크 수치·행사별 연혁 재검증 필요
   - AfrikaBurn·Midburn·Kiwiburn·Burning Japan을 통해 사막의 외형보다 참여·선물·자율운영·흔적 지우기라는 문화 프로토콜이 어떻게 현지화되는지 살핀다.
   - [웹페이지](https://belorin.github.io/#burning-man-regional-network) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/burning-man-regional-network.md)
+- **[수메르 재발견과 구약 원초사의 역사화: 홍수·에덴·바벨탑은 어떻게 재배치되었나](wiki/sumer-bible-primeval-history.md)** · 별칭: 수메르와 구약, 창세기 원초사, 메소포타미아와 성경, 노아의 홍수와 수메르, 에덴과 딜문 · 수정: 2026-10-24 · 검토: 대화 중 확인된 고대근동·성서학 자료 요약 기반 · 세부 연대와 학계 견해 외부 재검증 필요
+  - 수메르·아카드·바빌로니아 문헌의 재발견이 창세기 1~11장을 문자 그대로의 역사로 확정한 것이 아니라, 홍수·에덴·바벨탑을 고대 서아시아 원초사 전통과 실제 역사적 배경 속에 재배치한 과정을 설명한다.
+  - [웹페이지](https://belorin.github.io/#sumer-bible-primeval-history) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/sumer-bible-primeval-history.md)
 
 ## 언어
 
