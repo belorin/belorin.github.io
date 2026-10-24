@@ -1745,6 +1745,39 @@
       "source": "내부 총합 · 방송 연혁과 세대별 이미지 외부 미검증",
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-24"
+    },
+    {
+      "path": "wiki/ai-transition-policy-gap.md",
+      "publish": true,
+      "order": 54,
+      "id": "ai-transition-policy-gap",
+      "title": "AI 이행기의 정책 공백: 재교육이 해결하지 못하는 구조적 노동 대체",
+      "category": "AI와 사회",
+      "status": "조건부 정책 시뮬레이션·외부 미검증",
+      "updated": "2026-10-24",
+      "summary": "국제기구가 위험을 인식해도 대응하지 못하는 조건, 재교육의 거시적 한계, 자동화·재정·조세·정치의 시차를 분석한다.",
+      "tags": [
+        "AI",
+        "경제 이행기",
+        "재교육",
+        "국제기구",
+        "노동 수요",
+        "경제학",
+        "정책 실패"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "ai-economic-transition",
+        "ai-capital-labor-distribution",
+        "gradual-disempowerment"
+      ],
+      "aliases": [
+        "AI 재교육의 한계",
+        "AI 이행기 정책 실패",
+        "국제기구와 AI 경제"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-24"
     }
   ]
 }
