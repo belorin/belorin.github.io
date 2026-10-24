@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 64,
+  "document_count": 65,
   "documents": [
     {
       "id": "living-notes",
@@ -2079,6 +2079,39 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/anne-carson-nobel-first-reactions.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/anne-carson-nobel-first-reactions.md",
       "page_url": "https://belorin.github.io/#anne-carson-nobel-first-reactions"
+    },
+    {
+      "id": "hate-escalation-brakes-history",
+      "title": "혐오의 가속은 파국 없이 멈출 수 있는가: 집단공황과 정치적 선동의 역사적 브레이크",
+      "aliases": [
+        "혐오 가속의 브레이크",
+        "집단공황의 중단",
+        "파국 전 혐오정치 중단",
+        "혐오사회 되돌리기"
+      ],
+      "category": "문화와 역사",
+      "tags": [
+        "혐오",
+        "집단공황",
+        "마녀사냥",
+        "적색공포",
+        "매카시즘",
+        "Popish Plot",
+        "드레퓌스 사건",
+        "정치적 선동",
+        "사회적 가속"
+      ],
+      "summary": "전후의 반성이나 체제 붕괴가 아니라, 집단공황과 혐오 정치가 가속 중에 멈춘 청나라 영혼 도둑 공황·바스크 마녀사냥·적색공포·매카시즘·Popish Plot·드레퓌스기의 메커니즘을 비교한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 내 역사 사례 요약 · 사건별 세부 사실과 수치 외부 재검증 필요",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hate-escalation-brakes-history.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/hate-escalation-brakes-history.md",
+      "page_url": "https://belorin.github.io/#hate-escalation-brakes-history"
     }
   ]
 }

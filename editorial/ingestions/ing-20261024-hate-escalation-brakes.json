@@ -1,0 +1,141 @@
+{
+  "id": "ing-20261024-hate-escalation-brakes",
+  "processed_on": "2026-10-24",
+  "coverage": "visible-complete",
+  "limit_note": "현재 실제로 확인 가능한 발화 전체를 순차 검토했으며 외부 자료를 새로 조사하지 않음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k1",
+      "kind": "concept",
+      "title": "파국 후 수습과 파국 전 가속 중단의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hate-escalation-brakes-history",
+          "section": "문제의 정확한 형태: 충돌 후 반성이 아니라 가속 중 브레이크"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "kind": "counterargument",
+      "title": "전후 독일·장기적 관용 확대·북아일랜드를 대조군으로 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hate-escalation-brakes-history",
+          "section": "왜 전후 독일과 장기적 관용 확대는 다른 질문인가"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "kind": "example",
+      "title": "1768년 청나라 영혼 도둑 공황의 관료제 내부 검증",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hate-escalation-brakes-history",
+          "section": "1768년 청나라 영혼 도둑 공황: 관료제의 검증이 증폭을 꺾다"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "kind": "example",
+      "title": "1609~1614년 바스크 마녀공황과 증거 기준 강화",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hate-escalation-brakes-history",
+          "section": "1609~1614년 바스크 마녀공황: 증거 기준을 높여 전염을 끊다"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "kind": "example",
+      "title": "1919~1920년 미국 제1차 적색공포와 실패한 봉기 예언",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hate-escalation-brakes-history",
+          "section": "1919~1920년 미국 제1차 적색공포: 틀린 예언이 공포의 신용을 깎다"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "kind": "example",
+      "title": "1950~1954년 매카시즘과 자기 진영으로의 표적 확대",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hate-escalation-brakes-history",
+          "section": "1950~1954년 매카시즘: 표적이 자기 진영까지 확장될 때"
+        }
+      ]
+    },
+    {
+      "id": "k7",
+      "kind": "example",
+      "title": "1678~1681년 Popish Plot과 선동자 신빙성 소진",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hate-escalation-brakes-history",
+          "section": "1678~1681년 Popish Plot: 선동자의 신빙성이 소진되다"
+        }
+      ]
+    },
+    {
+      "id": "k8",
+      "kind": "example",
+      "title": "1898년 프랑스 반유대주의 급등의 부분적 중단",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hate-escalation-brakes-history",
+          "section": "1898년 프랑스 반유대주의 급등: 강한 동원이 반드시 계속 가속되지는 않는다"
+        }
+      ]
+    },
+    {
+      "id": "k9",
+      "kind": "argument",
+      "title": "관용의 승리보다 증폭장치의 고장이라는 공통 구조",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hate-escalation-brakes-history",
+          "section": "공통 구조: 관용의 승리보다 증폭장치의 고장"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "argument",
+      "title": "사적 혐오와 공개 규범·제도 집행·정치적 수익성의 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hate-escalation-brakes-history",
+          "section": "혐오의 감정과 혐오의 정치적 수익성을 구분하기"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "argument",
+      "title": "파국 전 중단을 가능하게 하는 검증·거부권·동맹 이탈 조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hate-escalation-brakes-history",
+          "section": "파국 전 중단의 일반 조건"
+        }
+      ]
+    }
+  ]
+}
