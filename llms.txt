@@ -113,6 +113,7 @@
 ### 영화
 
 - [《호프》 해외 흥행과 선판매: 박스오피스와 투자 회수를 분리해서 읽기](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hope-global-box-office.md): 2026년 10월 4일까지 확인된 《호프》의 한국·북미·영국 등 흥행 경로를 추적하고, 해외 선판매 MG와 현지 박스오피스가 제작비 회수에 어떻게 다르게 작동하는지 다른 한국영화와 비교해 설명한다.
+- [《어벤져스: 엔드게임》의 두 죽음: 나타샤의 희생과 토니 스타크의 장례식](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/endgame-natasha-tony-funeral.md): 보르미르에서 나타샤가 죽게 된 각본·재촬영 과정과 가족·자기결정의 서사 논리, 토니에게만 거대한 장례식이 집중된 이유와 2019~2021년 제작진의 서로 다른 해명을 함께 분석한다.
 
 ### 문학
 

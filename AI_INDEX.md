@@ -253,6 +253,9 @@
 - **[《호프》 해외 흥행과 선판매: 박스오피스와 투자 회수를 분리해서 읽기](wiki/hope-global-box-office.md)** · 별칭: 호프 해외 흥행, 호프 선판매, Hope box office, 한국영화 해외 박스오피스 · 수정: 2026-10-24 · 검토: 2026-10-04 수치 스냅샷·선판매 계약 세부 미공개·후속 시장 재검증 필요
   - 2026년 10월 4일까지 확인된 《호프》의 한국·북미·영국 등 흥행 경로를 추적하고, 해외 선판매 MG와 현지 박스오피스가 제작비 회수에 어떻게 다르게 작동하는지 다른 한국영화와 비교해 설명한다.
   - [웹페이지](https://belorin.github.io/#hope-global-box-office) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hope-global-box-office.md)
+- **[《어벤져스: 엔드게임》의 두 죽음: 나타샤의 희생과 토니 스타크의 장례식](wiki/endgame-natasha-tony-funeral.md)** · 별칭: 어벤져스 엔드게임 나타샤, 블랙 위도우 장례식, 나타샤 보르미르, 토니 스타크 장례식, 엔드게임 두 죽음 · 수정: 2026-10-25 · 검토: 제작진 인터뷰·영화 장면의 대화 내 확인 자료 총합 · 세부 인용과 제작 경위 재검증 필요
+  - 보르미르에서 나타샤가 죽게 된 각본·재촬영 과정과 가족·자기결정의 서사 논리, 토니에게만 거대한 장례식이 집중된 이유와 2019~2021년 제작진의 서로 다른 해명을 함께 분석한다.
+  - [웹페이지](https://belorin.github.io/#endgame-natasha-tony-funeral) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/endgame-natasha-tony-funeral.md)
 
 ## 문학
 
