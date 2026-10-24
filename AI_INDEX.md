@@ -226,6 +226,12 @@
 - **[드론이 바꾼 비대칭전: 비용교환·후방 소멸·한반도와 아프리카·중앙아시아 사례](wiki/drone-asymmetric-warfare.md)** · 별칭: 드론 비대칭전, 드론 소모전, 무인기 비대칭전 · 수정: 2026-10-24 · 검토: 전쟁 사례·피해수치·인과관계 외부 재검증 필요
   - 드론이 만드는 가격·생산시간·목표가치·귀속의 비대칭을 설명하고, 한반도와 에티오피아·리비아·키르기스스탄-타지키스탄·사헬·수단 사례에서 전황 변화와 한계를 비교한다.
   - [웹페이지](https://belorin.github.io/#drone-asymmetric-warfare) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/drone-asymmetric-warfare.md)
+- **[《어떻게 해야 했을까》와 일본 가족의 치료 결정: 1983년부터 2008년까지](wiki/dousureba-yokatta-family-psychiatry.md)** · 별칭: 어떻게 해야 했을까, どうすればよかったか？, 후지노 도모아키 가족, 일본 조현병 가족, 일본 가족 개입과 정신의료 · 수정: 2026-10-25 · 검토: 영화 반응·가족사·일본 정신의료 제도·한일 가족문화 비교의 대화 내 확인 자료 총합 · 세부 사실 재검증 필요
+  - 《どうすればよかったか？》의 가족사를 따라 의사 부모의 치료 거부, 1983~2008년 치료 선택지의 변화, 남동생의 법적·문화적 개입 한계와 한일 가족책임 차이를 함께 분석한다.
+  - [웹페이지](https://belorin.github.io/#dousureba-yokatta-family-psychiatry) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/dousureba-yokatta-family-psychiatry.md)
+- **[우쓰노미야 병원 사건과 일본 정신의료의 40년: 폐쇄병동·감독 실패·개혁의 반복](wiki/utsunomiya-psychiatric-hospital-reform.md)** · 별칭: 우쓰노미야 병원 사건, 宇都宮病院事件, 일본 정신병원 인권, 일본 정신의료 개혁 · 수정: 2026-10-25 · 검토: 우쓰노미야 사건·국회 및 국제조사·후속 정신병원 사건의 대화 내 확인 자료 총합 · 사건별 세부 재검증 필요
+  - 1984년 우쓰노미야 병원 사건의 폭행·인력부족·환자 노동·사회적 입원에서 1987년 법 개정, 대화천·아사쿠라·간데·다키야마 사건과 2024년 학대 신고제까지 이어지는 구조를 추적한다.
+  - [웹페이지](https://belorin.github.io/#utsunomiya-psychiatric-hospital-reform) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/utsunomiya-psychiatric-hospital-reform.md)
 
 ## 영화
 
