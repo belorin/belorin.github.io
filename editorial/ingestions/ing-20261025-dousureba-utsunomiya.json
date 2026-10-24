@@ -1,0 +1,169 @@
+{
+  "id": "ing-20261025-dousureba-utsunomiya",
+  "processed_on": "2026-10-25",
+  "coverage": "visible-complete",
+  "limit_note": "현재 채팅에서 영화 반응부터 우쓰노미야 사건, 치료 시점 평가와 한일 가족개입 비교까지 접근 가능한 범위를 처리했으며 외부 추가조사는 하지 않음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k1",
+      "kind": "fact",
+      "title": "일본에서의 미니시어터발 흥행과 가족영화로의 수용 확장",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "dousureba-yokatta-family-psychiatry",
+          "section": "일본에서 미니시어터발 사회현상이 된 이유"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "kind": "argument",
+      "title": "의사 부모의 전문성과 정신과 임상 전문성의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "dousureba-yokatta-family-psychiatry",
+          "section": "부모는 어느 정도의 의사였는가"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "kind": "argument",
+      "title": "1983년 장기입원 회피와 정신과 진료 단절의 분리 평가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "dousureba-yokatta-family-psychiatry",
+          "section": "1983년의 출발점: 이미 정신과에 갔다가 치료 연결이 끊겼다"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "kind": "argument",
+      "title": "1983~2008년 치료 선택지 변화에 따른 시기별 재평가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "dousureba-yokatta-family-psychiatry",
+          "section": "치료 판단을 시간축으로 다시 채점하기"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "kind": "argument",
+      "title": "성인 남동생의 입원 결정권과 행정적 우회로의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "dousureba-yokatta-family-psychiatry",
+          "section": "왜 남동생이 부모를 뿌리치고 누나를 데려가지 못했는가"
+        },
+        {
+          "doc_id": "dousureba-yokatta-family-psychiatry",
+          "section": "그렇다고 동생에게 아무 우회로도 없었던 것은 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "kind": "argument",
+      "title": "한일 가족책임 차이를 가족 무관심이 아닌 책임의 분절로 해석",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "dousureba-yokatta-family-psychiatry",
+          "section": "한국과 일본의 가족 개입 문화는 어떻게 다른가"
+        },
+        {
+          "doc_id": "dousureba-yokatta-family-psychiatry",
+          "section": "“각 관계에는 주인이 있다”는 해석"
+        }
+      ]
+    },
+    {
+      "id": "k7",
+      "kind": "fact",
+      "title": "우쓰노미야 병원의 인력부족·환자 노동·무자격 의료 구조",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "utsunomiya-psychiatric-hospital-reform",
+          "section": "944명의 환자와 턱없이 부족한 의료인력"
+        },
+        {
+          "doc_id": "utsunomiya-psychiatric-hospital-reform",
+          "section": "환자 노동과 무자격 의료"
+        }
+      ]
+    },
+    {
+      "id": "k8",
+      "kind": "fact",
+      "title": "543명 재심사와 퇴원 불가능성이 드러낸 사회적 입원",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "utsunomiya-psychiatric-hospital-reform",
+          "section": "543명 전수 재심사와 “사회적 입원”"
+        }
+      ]
+    },
+    {
+      "id": "k9",
+      "kind": "argument",
+      "title": "우쓰노미야 사건 이후 국제비판과 1987년 정신보건법 개정",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "utsunomiya-psychiatric-hospital-reform",
+          "section": "1985년 국제조사단이 본 일본 정신의료"
+        },
+        {
+          "doc_id": "utsunomiya-psychiatric-hospital-reform",
+          "section": "1987년 정신보건법 개정"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "fact",
+      "title": "1990년대 이후 반복된 정신병원 인권침해와 감독 실패 사례",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "utsunomiya-psychiatric-hospital-reform",
+          "section": "1990년대 이후 반복된 주요 사건"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "fact",
+      "title": "2024년 정신과병원 학대 신고의무와 첫 전국 집계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "utsunomiya-psychiatric-hospital-reform",
+          "section": "2024년부터 전국화된 학대 신고의무"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "argument",
+      "title": "우쓰노미야의 교훈과 1983년 치료거부를 구분하는 기준",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "utsunomiya-psychiatric-hospital-reform",
+          "section": "《어떻게 해야 했을까》의 1983년을 다시 보는 법"
+        }
+      ]
+    }
+  ]
+}
