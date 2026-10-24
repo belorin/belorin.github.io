@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 274,
+  "edge_count": 280,
   "edges": [
     {
       "from": "living-notes",
@@ -1490,6 +1490,42 @@
     {
       "from": "excellent-victim-kwak-aram",
       "to": "stalking-harm-and-autonomy",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "europe-russia-escalation-signals-2026",
+      "to": "war-escalation-local-to-world",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "europe-russia-escalation-signals-2026",
+      "to": "drone-asymmetric-warfare",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "war-escalation-local-to-world",
+      "to": "europe-russia-escalation-signals-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "war-escalation-local-to-world",
+      "to": "drone-asymmetric-warfare",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "drone-asymmetric-warfare",
+      "to": "war-escalation-local-to-world",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "drone-asymmetric-warfare",
+      "to": "europe-russia-escalation-signals-2026",
       "type": "related_to",
       "basis": "manifest.related"
     },
