@@ -94,9 +94,12 @@
 - **[소가 다이스케와 지휘자의 직업 세계: 광주 인연에서 국제 중견 경력까지](wiki/daisuke-soga-conductor-career.md)** · 별칭: 소가 다이스케, 曽我大介, Daisuke Soga, 지휘자 시장 · 수정: 2026-10-23 · 검토: 인물 경력·시장 추정치 외부 재검증 필요
   - 소가 다이스케의 광주·전남 반복 초청과 작곡·지휘 경력, 장기 포스트 종료와 은퇴의 구분, 세계 지휘자 시장의 희소한 자리 구조를 함께 살핀다.
   - [웹페이지](https://belorin.github.io/#daisuke-soga-conductor-career) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/daisuke-soga-conductor-career.md)
-- **[희소 채널 시대에서 살아남은 음악방송: 일본·한국·이탈리아와 다른 계보](wiki/long-running-music-broadcasts.md)** · 별칭: 장수 음악방송, 희소 채널 음악방송, NHK 노도지만, 산레모 음악방송 · 수정: 2026-10-23 · 검토: 프로그램 연혁·방송제도 비교 재검증 필요
+- **[희소 채널 시대에서 살아남은 음악방송: 일본·한국·이탈리아와 다른 계보](wiki/long-running-music-broadcasts.md)** · 별칭: 장수 음악방송, 희소 채널 음악방송, NHK 노도지만, 산레모 음악방송 · 수정: 2026-10-24 · 검토: 프로그램 연혁·방송제도 비교 재검증 필요
   - NHK 노도지만·전국노래자랑·산레모 등을 희소 채널 시대의 중앙 방송에서 다채널 시대로 이어진 제도적 연속성이라는 기준으로 비교한다.
   - [웹페이지](https://belorin.github.io/#long-running-music-broadcasts) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/long-running-music-broadcasts.md)
+- **[일본의 클래식 해설 방송과 지휘자 이미지: 《題名のない音楽会》 60년의 계보](wiki/japanese-classical-tv-conductor-image.md)** · 별칭: 題名のない音楽会, 제목 없는 음악회, Untitled Concert, 일본 클래식 TV · 수정: 2026-10-24 · 검토: 방송 연혁·진행자 계보·세대별 이미지 재검증 필요
+  - 1964년 시작해 60년을 넘긴 《題名のない音楽会》의 해설·실험 형식, 경쟁작 《オーケストラがやって来た!》, 오자와 세이지부터 《노다메 칸타빌레》까지 세대별 지휘자 이미지를 함께 살핀다.
+  - [웹페이지](https://belorin.github.io/#japanese-classical-tv-conductor-image) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japanese-classical-tv-conductor-image.md)
 
 ## AI와 사회
 

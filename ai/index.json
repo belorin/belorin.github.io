@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 53,
+  "document_count": 54,
   "documents": [
     {
       "id": "living-notes",
@@ -1580,11 +1580,12 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "프로그램 연혁·방송제도 비교 재검증 필요",
-      "last_updated_on": "2026-10-23",
+      "last_updated_on": "2026-10-24",
       "last_enriched_on": "2026-10-23",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
-        "global-festival-streaming"
+        "global-festival-streaming",
+        "japanese-classical-tv-conductor-image"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/long-running-music-broadcasts.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/long-running-music-broadcasts.md",
@@ -1721,6 +1722,38 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/burning-man-regional-network.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/burning-man-regional-network.md",
       "page_url": "https://belorin.github.io/#burning-man-regional-network"
+    },
+    {
+      "id": "japanese-classical-tv-conductor-image",
+      "title": "일본의 클래식 해설 방송과 지휘자 이미지: 《題名のない音楽会》 60년의 계보",
+      "aliases": [
+        "題名のない音楽会",
+        "제목 없는 음악회",
+        "Untitled Concert",
+        "일본 클래식 TV"
+      ],
+      "category": "음악",
+      "tags": [
+        "題名のない音楽会",
+        "클래식 음악방송",
+        "오자와 세이지",
+        "야마모토 나오즈미",
+        "노다메 칸타빌레"
+      ],
+      "summary": "1964년 시작해 60년을 넘긴 《題名のない音楽会》의 해설·실험 형식, 경쟁작 《オーケストラがやって来た!》, 오자와 세이지부터 《노다메 칸타빌레》까지 세대별 지휘자 이미지를 함께 살핀다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "방송 연혁·진행자 계보·세대별 이미지 재검증 필요",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "long-running-music-broadcasts",
+        "daisuke-soga-conductor-career"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japanese-classical-tv-conductor-image.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/japanese-classical-tv-conductor-image.md",
+      "page_url": "https://belorin.github.io/#japanese-classical-tv-conductor-image"
     }
   ]
 }
