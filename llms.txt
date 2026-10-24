@@ -67,6 +67,8 @@
 - [AI 시대의 자본·노동·분배: 소유와 협상력은 어떻게 재편되는가](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-capital-labor-distribution.md): 자본 유형별 이해관계와 경영 자동화·소유권의 차이를 설명하고, 직업의 노출·채용 수요·숙련·교섭력을 조건별로 검토한다.
 - [AI 시대의 계급 서사: 자동화된 집과 들어갈 수 없는 삶](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-class-fiction.md): 자동화된 주택과 서비스 노동의 입구, 지하의 기술자와 보안 봉쇄를 허구적 사고실험으로 읽고, 계급 서사의 조건과 인과적 공백을 검토한다.
 - [AI 지배는 이미 시작되었는가: 사건이 아니라 농도로 보는 통제](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-domination-gradient.md): AI 지배를 미래의 쿠데타가 아니라 현재부터 짙어질 수 있는 농도로 보고, 매개·의존·지배를 구분하며 맥락적 경사, 여덟 층, 사고 출처, p(doom), 카산드라식 조기 탐지를 검토한다.
+- [행크 애셔에서 팔란티어까지: 데이터 융합이 AI의 판단 인프라가 되기까지](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hank-asher-data-fusion-ai.md): 행크 애셔의 DBT·Seisint·MATRIX에서 팔란티어와 에이전트형 AI까지, 검색·결합이 추정·서사화·행동 제안으로 확장되는 데이터 권력의 계보를 살핀다.
+- [한국 개인정보의 생애: 수집·결합·유출·재사용의 경로](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-personal-data-lifecycle.md): 체크박스와 본인확인부터 광고·가명결합·마이데이터, 유출 뒤의 계정탈취·피싱·영업 DB까지 한국 개인정보가 복제·결합·재사용되는 경로를 추적한다.
 
 ### 철학
 

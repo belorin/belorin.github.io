@@ -1,0 +1,273 @@
+{
+  "id": "ing-20261025-hank-data-surveillance",
+  "processed_on": "2026-10-25",
+  "coverage": "visible-complete",
+  "limit_note": "현재 접근 가능한 범위를 처리했으며 참고 이미지 목록은 제외하고 외부 추가조사는 하지 않음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k1",
+      "kind": "fact",
+      "title": "행크 애셔의 DBT·Seisint·Accurint 계보와 동일인 중심 데이터 결합",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hank-asher-data-fusion-ai",
+          "section": "행크 애셔: 검색 가능한 인간을 만든 사업가"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "kind": "argument",
+      "title": "검색 속도와 연결성이 흩어진 기록을 실질적 조사 권력으로 바꾸는 구조",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hank-asher-data-fusion-ai",
+          "section": "행크 애셔: 검색 가능한 인간을 만든 사업가"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "kind": "example",
+      "title": "MATRIX를 통한 민간 상업 데이터와 경찰·국가안보 데이터 융합",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hank-asher-data-fusion-ai",
+          "section": "MATRIX와 민간 데이터의 국가화"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "kind": "argument",
+      "title": "행크식 검색·연결 인프라를 AI의 기억장치로 보고 추정·개입 단계와 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hank-asher-data-fusion-ai",
+          "section": "데이터베이스는 AI의 기억장치였다"
+        },
+        {
+          "doc_id": "hank-asher-data-fusion-ai",
+          "section": "검색에서 추정과 개입으로"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "kind": "argument",
+      "title": "팔란티어를 객체·관계·행동을 조직 모델에 연결하는 데이터 융합의 확장으로 해석",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hank-asher-data-fusion-ai",
+          "section": "팔란티어: 검색창에서 조직의 운영체계로"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "kind": "argument",
+      "title": "AI 감시의 위험을 환각뿐 아니라 약한 신호를 행정적 의심으로 서사화하는 문제로 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hank-asher-data-fusion-ai",
+          "section": "가장 위험한 오류는 그럴듯한 혐의다"
+        }
+      ]
+    },
+    {
+      "id": "k7",
+      "kind": "counterargument",
+      "title": "접근권한·감사기록·인간 검토와 감시 목적 자체의 정당성을 별도 문제로 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hank-asher-data-fusion-ai",
+          "section": "인간 검토는 필요한 조건이지 충분조건은 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k8",
+      "kind": "fact",
+      "title": "매켄지 펑크의 편의 대 프라이버시 우려와 예측치안 비판",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hank-asher-data-fusion-ai",
+          "section": "매켄지 펑크가 AI 이후에 덧붙인 우려"
+        }
+      ]
+    },
+    {
+      "id": "k9",
+      "kind": "argument",
+      "title": "행크의 AI 반응을 확인 사실이 아닌 검색증강·에이전트 선호 가능성의 추론으로 제한",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hank-asher-data-fusion-ai",
+          "section": "행크가 AI를 보았다면"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "concept",
+      "title": "한국 개인정보를 일회 판매가 아닌 복제·식별·결합·재사용의 생애로 파악",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-personal-data-lifecycle",
+          "section": "정보는 한 번 팔리고 사라지는 물건이 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "example",
+      "title": "홈플러스 경품사건과 제3자 제공·처리위탁을 통한 합법적 정보 이동의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-personal-data-lifecycle",
+          "section": "경품 응모권의 작은 글씨: 합법적 수집도 문제의 시작이 될 수 있다"
+        },
+        {
+          "doc_id": "korea-personal-data-lifecycle",
+          "section": "제3자 제공과 처리위탁은 같은 이동이 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "concept",
+      "title": "휴대전화번호·CI·DI를 한국형 동일인 연결의 강한 식별 접착제로 설명",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-personal-data-lifecycle",
+          "section": "이메일보다 강한 접착제: 휴대전화번호와 CI"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "argument",
+      "title": "광고 대조·프로파일링·가명정보 결합·마이데이터의 합법적 결합과 권리 문제",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-personal-data-lifecycle",
+          "section": "주소 자체보다 프로필이 더 값질 수 있다"
+        },
+        {
+          "doc_id": "korea-personal-data-lifecycle",
+          "section": "광고 플랫폼에서는 ‘판매’ 없이도 사람이 연결된다"
+        },
+        {
+          "doc_id": "korea-personal-data-lifecycle",
+          "section": "합법적 데이터 결합의 세계"
+        },
+        {
+          "doc_id": "korea-personal-data-lifecycle",
+          "section": "마이데이터: 흩어진 정보가 동의 아래 다시 모이는 시대"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "curation",
+      "title": "유출정보의 기업 갈취·정리·결합·계정탈취·피싱·명의도용·카드현금화·조직공격 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-personal-data-lifecycle",
+          "section": "유출된 정보의 첫 목적지는 종종 피해자가 아니다"
+        },
+        {
+          "doc_id": "korea-personal-data-lifecycle",
+          "section": "범죄시장에서 먼저 하는 일: 정리와 결합"
+        },
+        {
+          "doc_id": "korea-personal-data-lifecycle",
+          "section": "가장 즉시 돈이 되는 용도: 계정 탈취"
+        },
+        {
+          "doc_id": "korea-personal-data-lifecycle",
+          "section": "스미싱과 보이스피싱: 정확한 사실 하나가 거짓말 전체를 살린다"
+        },
+        {
+          "doc_id": "korea-personal-data-lifecycle",
+          "section": "신분증·인증수단이 붙으면 명의도용 위험이 급증한다"
+        },
+        {
+          "doc_id": "korea-personal-data-lifecycle",
+          "section": "카드정보는 다른 개인정보보다 빨리 현금화된다"
+        },
+        {
+          "doc_id": "korea-personal-data-lifecycle",
+          "section": "조직 공격에서는 사람의 접근권이 상품이 된다"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "argument",
+      "title": "유출 피해가 즉시 보이지 않는 이유를 대량 자동화·잠복·실패 비가시성·오래된 식별정보로 설명",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-personal-data-lifecycle",
+          "section": "왜 대부분의 사람은 뚜렷한 피해를 느끼지 못하는가"
+        },
+        {
+          "doc_id": "korea-personal-data-lifecycle",
+          "section": "개인정보의 유통기한은 사건 종료일과 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "argument",
+      "title": "생성형 AI가 데이터 정리·사람별 서사·공격문구 비용을 낮출 가능성과 실제 도입 규모의 불확실성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-personal-data-lifecycle",
+          "section": "AI 이후 달라지는 것은 정리와 서사화의 비용이다"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "argument",
+      "title": "행크의 중앙집중적 데이터베이스와 한국의 분산된 데이터 생태계 대비",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-personal-data-lifecycle",
+          "section": "행크 애셔의 세계와 한국의 차이"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "example",
+      "title": "서비스별 씨앗 이메일 별칭으로 자신의 데이터 유통과 프로파일링을 추적하는 제한적 실험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-personal-data-lifecycle",
+          "section": "스스로 유통 경로를 추적하는 씨앗 주소 실험"
+        }
+      ]
+    }
+  ]
+}

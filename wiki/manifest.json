@@ -2283,6 +2283,75 @@
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-25"
+    },
+    {
+      "path": "wiki/hank-asher-data-fusion-ai.md",
+      "publish": true,
+      "order": 71,
+      "id": "hank-asher-data-fusion-ai",
+      "title": "행크 애셔에서 팔란티어까지: 데이터 융합이 AI의 판단 인프라가 되기까지",
+      "category": "AI와 사회",
+      "status": "대화 내 확인·기업사와 최근 기술 세부 재검증 필요",
+      "updated": "2026-10-25",
+      "summary": "행크 애셔의 DBT·Seisint·MATRIX에서 팔란티어와 에이전트형 AI까지, 검색·결합이 추정·서사화·행동 제안으로 확장되는 데이터 권력의 계보를 살핀다.",
+      "tags": [
+        "행크 애셔",
+        "The Hank Show",
+        "데이터 융합",
+        "팔란티어",
+        "감시",
+        "예측치안",
+        "AI 에이전트"
+      ],
+      "source": "내부 총합 · 외부 재조사 없음 · 사실과 해석 구분",
+      "related": [
+        "ai-democracy-narrow-corridor",
+        "ai-conversation-data-access",
+        "korea-personal-data-lifecycle"
+      ],
+      "aliases": [
+        "행크 쇼와 AI",
+        "Hank Asher",
+        "행크 애셔",
+        "팔란티어와 데이터 융합"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "path": "wiki/korea-personal-data-lifecycle.md",
+      "publish": true,
+      "order": 72,
+      "id": "korea-personal-data-lifecycle",
+      "title": "한국 개인정보의 생애: 수집·결합·유출·재사용의 경로",
+      "category": "AI와 사회",
+      "status": "대화 내 확인·법제와 최근 사례 세부 재검증 필요",
+      "updated": "2026-10-25",
+      "summary": "체크박스와 본인확인부터 광고·가명결합·마이데이터, 유출 뒤의 계정탈취·피싱·영업 DB까지 한국 개인정보가 복제·결합·재사용되는 경로를 추적한다.",
+      "tags": [
+        "개인정보",
+        "한국",
+        "데이터 유출",
+        "CI",
+        "본인확인",
+        "크리덴셜 스터핑",
+        "스미싱",
+        "데이터 결합"
+      ],
+      "source": "내부 총합 · 외부 재조사 없음 · 법제·범죄경로 일부 재검증 필요",
+      "related": [
+        "hank-asher-data-fusion-ai",
+        "ai-democracy-narrow-corridor",
+        "ai-conversation-data-access"
+      ],
+      "aliases": [
+        "한국 개인정보 유통",
+        "개인정보의 생애",
+        "개인정보 유출 이후",
+        "한국 데이터 브로커"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
     }
   ]
 }
