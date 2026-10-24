@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 58,
+  "document_count": 59,
   "documents": [
     {
       "id": "living-notes",
@@ -1884,6 +1884,38 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/excellent-victim-kwak-aram.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/excellent-victim-kwak-aram.md",
       "page_url": "https://belorin.github.io/#excellent-victim-kwak-aram"
+    },
+    {
+      "id": "chiikawa-philosophy",
+      "title": "치이카와를 철학적으로 읽기: 욕망·노동·고귀한 거짓말과 일본의 비평 흐름",
+      "aliases": [
+        "치이카와 철학",
+        "ちいかわ 철학",
+        "치이카와 비평",
+        "고귀한 거짓말로서의 치이카와"
+      ],
+      "category": "철학",
+      "tags": [
+        "치이카와",
+        "ちいかわ",
+        "플라톤",
+        "고귀한 거짓말",
+        "욕망",
+        "노동",
+        "캐릭터론",
+        "알튀세르"
+      ],
+      "summary": "플라톤의 욕망론과 고귀한 거짓말로 치이카와 세계의 노동·규칙·행복을 읽고, 알튀세르·캐릭터론·만화표현론·노동비평·졸업논문까지 일본의 분석 흐름을 정리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 중 확인된 일본 철학·비평 자료 총합 · 최종 논문 전문 미대조 · 외부 재검증 필요",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/chiikawa-philosophy.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/chiikawa-philosophy.md",
+      "page_url": "https://belorin.github.io/#chiikawa-philosophy"
     }
   ]
 }
