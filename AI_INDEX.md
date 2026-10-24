@@ -160,6 +160,9 @@
 - **[현대 세계를 지배하는 철학과 합리성: 자유주의에서 계산주의까지](wiki/contemporary-governing-philosophies.md)** · 별칭: 2026년의 패권철학, 계산주의, 현대의 지배적 합리성 · 수정: 2026-10-23 · 검토: 종합적 지도·해석
   - 단일 패권철학 대신 자유주의, 신자유주의, 통계적 실증주의, 경제학적 합리성, 계산·최적화가 서로 다른 제도에서 운영체제처럼 작동하는 구조를 정리한다.
   - [웹페이지](https://belorin.github.io/#contemporary-governing-philosophies) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/contemporary-governing-philosophies.md)
+- **[치이카와를 철학적으로 읽기: 욕망·노동·고귀한 거짓말과 일본의 비평 흐름](wiki/chiikawa-philosophy.md)** · 별칭: 치이카와 철학, ちいかわ 철학, 치이카와 비평, 고귀한 거짓말로서의 치이카와 · 수정: 2026-10-24 · 검토: 대화 중 확인된 일본 철학·비평 자료 총합 · 최종 논문 전문 미대조 · 외부 재검증 필요
+  - 플라톤의 욕망론과 고귀한 거짓말로 치이카와 세계의 노동·규칙·행복을 읽고, 알튀세르·캐릭터론·만화표현론·노동비평·졸업논문까지 일본의 분석 흐름을 정리한다.
+  - [웹페이지](https://belorin.github.io/#chiikawa-philosophy) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/chiikawa-philosophy.md)
 
 ## 독서 문화
 
