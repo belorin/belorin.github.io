@@ -1,0 +1,117 @@
+{
+  "id": "ing-20261024-japanese-classical-tv",
+  "processed_on": "2026-10-24",
+  "coverage": "visible-partial",
+  "limit_note": "기존 장수 음악방송 문서에서 일본 클래식 해설 방송을 분리하고, 현재 복구 가능한 이전 대화 맥락의 진행자·경쟁작·세대별 지휘자 이미지를 통합. 새 외부 조사는 하지 않음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "1964년 시작·2024년 60주년·2009년 기네스 인증의 장수 연혁",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "japanese-classical-tv-conductor-image",
+          "section": "1964년에 시작해 60년을 넘긴 클래식 음악 TV"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "마유즈미 도시로와 Young People’s Concerts의 초기 구상 연결",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "japanese-classical-tv-conductor-image",
+          "section": "번스타인의 TV 음악교육과 마유즈미 도시로의 변형"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "연주·토크·실험·교육을 결합한 클래식 TV 해설 형식",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "japanese-classical-tv-conductor-image",
+          "section": "번스타인의 TV 음악교육과 마유즈미 도시로의 변형"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "fact",
+      "title": "마유즈미·하네다·사도·이시마루로 이어지는 진행 계보",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "japanese-classical-tv-conductor-image",
+          "section": "프로그램은 한 사람의 캐릭터에서 벗어나 계속 변했다"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "fact",
+      "title": "오케스트라가 왔다의 1972~1983년 544회 방송과 야마모토 나오즈미",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "japanese-classical-tv-conductor-image",
+          "section": "경쟁작 《オーケストラがやって来た!》: 해설보다 현장과 쇼맨십"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "argument",
+      "title": "야마모토의 친근한 TV 지휘자와 오자와의 세계적 마에스트로라는 이중 이미지",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "japanese-classical-tv-conductor-image",
+          "section": "1970~80년대: 친근한 TV 지휘자와 세계적 마에스트로의 병존"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "argument",
+      "title": "사도 유타카·소가 다이스케를 방송에 가시화된 지휘자 다음 세대로 읽는 관점",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "japanese-classical-tv-conductor-image",
+          "section": "그 방송을 보고 자란 다음 세대"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "argument",
+      "title": "노다메 칸타빌레의 치아키가 전제군주형에서 협업형 지휘자로 성장하는 서사",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "japanese-classical-tv-conductor-image",
+          "section": "2000년대 이후: 《노다메 칸타빌레》와 협업형 지휘자의 서사"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "concept",
+      "title": "세대별 대중매체가 지휘자 직업의 상상 가능한 얼굴을 바꾸었다는 비교 모형",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "japanese-classical-tv-conductor-image",
+          "section": "세대별로 보면 지휘자의 얼굴이 달라진다"
+        }
+      ]
+    }
+  ]
+}

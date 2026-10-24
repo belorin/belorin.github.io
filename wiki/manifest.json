@@ -1573,7 +1573,8 @@
         "지상파"
       ],
       "related": [
-        "global-festival-streaming"
+        "global-festival-streaming",
+        "japanese-classical-tv-conductor-image"
       ],
       "aliases": [
         "장수 음악방송",
@@ -1581,7 +1582,7 @@
         "NHK 노도지만",
         "산레모 음악방송"
       ],
-      "updated": "2026-10-23",
+      "updated": "2026-10-24",
       "source": "내부 총합 · 방송 연혁 외부 미검증",
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-23"
@@ -1713,6 +1714,37 @@
       "source": "내부 총합 · 지역 행사 연혁과 수치 외부 미검증",
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-23"
+    },
+    {
+      "path": "wiki/japanese-classical-tv-conductor-image.md",
+      "publish": true,
+      "order": 53,
+      "id": "japanese-classical-tv-conductor-image",
+      "title": "일본의 클래식 해설 방송과 지휘자 이미지: 《題名のない音楽会》 60년의 계보",
+      "category": "음악",
+      "status": "방송 연혁·진행자 계보·세대별 이미지 재검증 필요",
+      "summary": "1964년 시작해 60년을 넘긴 《題名のない音楽会》의 해설·실험 형식, 경쟁작 《オーケストラがやって来た!》, 오자와 세이지부터 《노다메 칸타빌레》까지 세대별 지휘자 이미지를 함께 살핀다.",
+      "tags": [
+        "題名のない音楽会",
+        "클래식 음악방송",
+        "오자와 세이지",
+        "야마모토 나오즈미",
+        "노다메 칸타빌레"
+      ],
+      "related": [
+        "long-running-music-broadcasts",
+        "daisuke-soga-conductor-career"
+      ],
+      "aliases": [
+        "題名のない音楽会",
+        "제목 없는 음악회",
+        "Untitled Concert",
+        "일본 클래식 TV"
+      ],
+      "updated": "2026-10-24",
+      "source": "내부 총합 · 방송 연혁과 세대별 이미지 외부 미검증",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-24"
     }
   ]
 }

@@ -73,7 +73,7 @@
       "targets": [
         {
           "doc_id": "long-running-music-broadcasts",
-          "section": "일본: 노래 경연, 교육용 노래, 클래식, 대중음악의 장기 포맷"
+          "section": "일본: 노래 경연, 교육용 노래, 대중음악의 장기 포맷"
         }
       ]
     },
@@ -353,9 +353,17 @@
       "id": "k29",
       "kind": "question",
       "title": "일본에서 지휘자 이미지와 오자와 세이지를 연결한 대중문화 비교",
-      "status": "pending",
-      "targets": [],
-      "reason": "접근 가능한 맥락에는 문제 제기만 남아 있고 구체적인 근거와 논증을 충분히 복원할 수 없음"
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "japanese-classical-tv-conductor-image",
+          "section": "1970~80년대: 친근한 TV 지휘자와 세계적 마에스트로의 병존"
+        },
+        {
+          "doc_id": "japanese-classical-tv-conductor-image",
+          "section": "2000년대 이후: 《노다메 칸타빌레》와 협업형 지휘자의 서사"
+        }
+      ]
     }
   ]
 }

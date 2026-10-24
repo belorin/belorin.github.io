@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 259,
+  "edge_count": 264,
   "edges": [
     {
       "from": "living-notes",
@@ -1362,6 +1362,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "long-running-music-broadcasts",
+      "to": "japanese-classical-tv-conductor-image",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "global-festival-streaming",
       "to": "long-running-music-broadcasts",
       "type": "related_to",
@@ -1424,6 +1430,18 @@
     {
       "from": "burning-man-regional-network",
       "to": "burning-man-institutions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "japanese-classical-tv-conductor-image",
+      "to": "long-running-music-broadcasts",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "japanese-classical-tv-conductor-image",
+      "to": "daisuke-soga-conductor-career",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1618,6 +1636,22 @@
       "basis": "curated",
       "evidence_section": "사막의 외형이 아니라 문화 프로토콜",
       "reason": "블랙록 사막에서 형성된 참여 문화를 여러 나라가 현지화하는 구조로 확장한다."
+    },
+    {
+      "from": "long-running-music-broadcasts",
+      "to": "japanese-classical-tv-conductor-image",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "일본: 노래 경연, 교육용 노래, 대중음악의 장기 포맷",
+      "reason": "장수 음악방송의 일본 사례에서 클래식 해설 방송의 별도 상세 문서로 연결한다."
+    },
+    {
+      "from": "japanese-classical-tv-conductor-image",
+      "to": "daisuke-soga-conductor-career",
+      "type": "illustrates",
+      "basis": "curated",
+      "evidence_section": "그 방송을 보고 자란 다음 세대",
+      "reason": "지휘자가 이미 대중매체에 가시화된 환경에서 성장한 다음 세대의 구체적 경력 사례로 소가 다이스케를 연결한다."
     }
   ]
 }
