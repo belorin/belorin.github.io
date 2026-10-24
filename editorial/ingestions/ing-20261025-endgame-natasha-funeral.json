@@ -1,0 +1,141 @@
+{
+  "id": "ing-20261025-endgame-natasha-funeral",
+  "processed_on": "2026-10-25",
+  "coverage": "visible-complete",
+  "limit_note": "현재 접근 가능한 대화 범위를 모두 처리했으며 새 외부 조사는 하지 않고 이미 확인된 제작진 발언과 영화 해석만 통합함",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k1",
+      "kind": "fact",
+      "title": "보르미르 희생자가 초기에는 클린트인 버전이 있었고 제작진 반응 뒤 나타샤로 바뀐 과정",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "endgame-natasha-tony-funeral",
+          "section": "보르미르의 죽음은 처음부터 나타샤로 고정되지 않았다"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "kind": "argument",
+      "title": "나타샤의 가족 획득과 자기결정권을 보르미르 희생의 캐릭터 완결로 해석한 제작 논리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "endgame-natasha-tony-funeral",
+          "section": "나타샤에게 부여된 완결: 가족과 선택권"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "kind": "argument",
+      "title": "클린트의 가족 복귀 서사와 나타샤의 공동체를 위한 희생을 대칭적으로 구성한 각본 논리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "endgame-natasha-tony-funeral",
+          "section": "클린트를 살린 논리: 돌아가야 할 가족"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "kind": "fact",
+      "title": "타노스 병력이 등장하는 초기 보르미르 전투판을 두 사람의 선택에 집중하는 장면으로 재촬영한 과정",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "endgame-natasha-tony-funeral",
+          "section": "보르미르 장면 자체도 다시 찍었다"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "kind": "counterargument",
+      "title": "나타샤의 죽음을 배우 퇴장 요구보다 원년 어벤져스 서사 완결로 보는 근거와 단독 영화 병행",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "endgame-natasha-tony-funeral",
+          "section": "배우를 내보내기 위해 죽였다는 설명과는 거리가 있다"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "kind": "argument",
+      "title": "나타샤의 짧은 호숫가 애도와 토니의 장례식·유언·유족 장면 사이 감정적 배분의 비대칭",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "endgame-natasha-tony-funeral",
+          "section": "문제는 장례식에서 다시 생긴다"
+        }
+      ]
+    },
+    {
+      "id": "k7",
+      "kind": "fact",
+      "title": "2019년부터 2021년까지 장례식 부재에 관한 루소·각본가·쇼트랜드·요한슨의 서로 다른 설명",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "endgame-natasha-tony-funeral",
+          "section": "제작진의 설명은 하나가 아니었다"
+        }
+      ]
+    },
+    {
+      "id": "k8",
+      "kind": "fact",
+      "title": "토니의 장례식을 보안명 The Wedding으로 촬영하고 MCU 여러 세대의 배우를 한자리에 모은 제작 의도",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "endgame-natasha-tony-funeral",
+          "section": "토니의 장례식은 한 사람의 장례식 이상이었다"
+        }
+      ]
+    },
+    {
+      "id": "k9",
+      "kind": "counterargument",
+      "title": "공적 인물 대 비밀 인물·이미 애도함·후속 영화 존재라는 해명이 각각 남기는 설명의 공백",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "endgame-natasha-tony-funeral",
+          "section": "제작진 설명이 충돌하는 지점"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "argument",
+      "title": "블랙 위도우의 옐레나 묘지 장면을 사적 애도의 형식이자 엔드게임의 감정적 공백에 대한 부분적 보완으로 해석",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "endgame-natasha-tony-funeral",
+          "section": "《블랙 위도우》의 묘지는 사후 보완이면서 성격의 재정의다"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "argument",
+      "title": "나타샤를 플롯을 완성하는 죽음, 토니를 프랜차이즈의 한 시대를 완성하는 죽음으로 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "endgame-natasha-tony-funeral",
+          "section": "플롯을 완성하는 죽음과 프랜차이즈를 완성하는 죽음"
+        }
+      ]
+    }
+  ]
+}

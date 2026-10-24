@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 73,
+  "document_count": 74,
   "documents": [
     {
       "id": "living-notes",
@@ -2380,6 +2380,39 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-personal-data-lifecycle.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/korea-personal-data-lifecycle.md",
       "page_url": "https://belorin.github.io/#korea-personal-data-lifecycle"
+    },
+    {
+      "id": "endgame-natasha-tony-funeral",
+      "title": "《어벤져스: 엔드게임》의 두 죽음: 나타샤의 희생과 토니 스타크의 장례식",
+      "aliases": [
+        "어벤져스 엔드게임 나타샤",
+        "블랙 위도우 장례식",
+        "나타샤 보르미르",
+        "토니 스타크 장례식",
+        "엔드게임 두 죽음"
+      ],
+      "category": "영화",
+      "tags": [
+        "어벤져스: 엔드게임",
+        "블랙 위도우",
+        "나타샤 로마노프",
+        "토니 스타크",
+        "호크아이",
+        "보르미르",
+        "장례식",
+        "MCU"
+      ],
+      "summary": "보르미르에서 나타샤가 죽게 된 각본·재촬영 과정과 가족·자기결정의 서사 논리, 토니에게만 거대한 장례식이 집중된 이유와 2019~2021년 제작진의 서로 다른 해명을 함께 분석한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "제작진 인터뷰·영화 장면의 대화 내 확인 자료 총합 · 세부 인용과 제작 경위 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/endgame-natasha-tony-funeral.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/endgame-natasha-tony-funeral.md",
+      "page_url": "https://belorin.github.io/#endgame-natasha-tony-funeral"
     }
   ]
 }
