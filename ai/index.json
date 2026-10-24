@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 66,
+  "document_count": 68,
   "documents": [
     {
       "id": "living-notes",
@@ -2147,6 +2147,70 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gwangju-building-art-network.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/gwangju-building-art-network.md",
       "page_url": "https://belorin.github.io/#gwangju-building-art-network"
+    },
+    {
+      "id": "dousureba-yokatta-family-psychiatry",
+      "title": "《어떻게 해야 했을까》와 일본 가족의 치료 결정: 1983년부터 2008년까지",
+      "aliases": [
+        "어떻게 해야 했을까",
+        "どうすればよかったか？",
+        "후지노 도모아키 가족",
+        "일본 조현병 가족",
+        "일본 가족 개입과 정신의료"
+      ],
+      "category": "사회와 제도",
+      "tags": [
+        "어떻게 해야 했을까",
+        "どうすればよかったか",
+        "조현병",
+        "일본 정신의료",
+        "가족",
+        "한일 비교",
+        "후지노 도모아키"
+      ],
+      "summary": "《どうすればよかったか？》의 가족사를 따라 의사 부모의 치료 거부, 1983~2008년 치료 선택지의 변화, 남동생의 법적·문화적 개입 한계와 한일 가족책임 차이를 함께 분석한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "영화 반응·가족사·일본 정신의료 제도·한일 가족문화 비교의 대화 내 확인 자료 총합 · 세부 사실 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/dousureba-yokatta-family-psychiatry.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/dousureba-yokatta-family-psychiatry.md",
+      "page_url": "https://belorin.github.io/#dousureba-yokatta-family-psychiatry"
+    },
+    {
+      "id": "utsunomiya-psychiatric-hospital-reform",
+      "title": "우쓰노미야 병원 사건과 일본 정신의료의 40년: 폐쇄병동·감독 실패·개혁의 반복",
+      "aliases": [
+        "우쓰노미야 병원 사건",
+        "宇都宮病院事件",
+        "일본 정신병원 인권",
+        "일본 정신의료 개혁"
+      ],
+      "category": "사회와 제도",
+      "tags": [
+        "우쓰노미야 병원",
+        "일본 정신의료",
+        "정신병원",
+        "인권",
+        "장기입원",
+        "정신보건법",
+        "간데병원",
+        "다키야마병원"
+      ],
+      "summary": "1984년 우쓰노미야 병원 사건의 폭행·인력부족·환자 노동·사회적 입원에서 1987년 법 개정, 대화천·아사쿠라·간데·다키야마 사건과 2024년 학대 신고제까지 이어지는 구조를 추적한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "우쓰노미야 사건·국회 및 국제조사·후속 정신병원 사건의 대화 내 확인 자료 총합 · 사건별 세부 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/utsunomiya-psychiatric-hospital-reform.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/utsunomiya-psychiatric-hospital-reform.md",
+      "page_url": "https://belorin.github.io/#utsunomiya-psychiatric-hospital-reform"
     }
   ]
 }
