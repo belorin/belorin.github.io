@@ -21,7 +21,8 @@
   </header>
   <main class="layout">
     <aside class="sidebar" aria-label="문서 탐색">
-      <div class="sidebar-inner">
+      <button id="explore-toggle" class="explore-toggle" type="button" aria-expanded="true" aria-controls="explore-panel">검색 · 주제 <span aria-hidden="true">⌃</span></button>
+      <div id="explore-panel" class="sidebar-inner">
         <label for="search">문서 검색</label>
         <input id="search" type="search" placeholder="제목, 본문, 키워드" autocomplete="off" aria-label="문서 검색">
         <div class="sidebar-section-label">주제</div>

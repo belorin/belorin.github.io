@@ -4,10 +4,18 @@ const view = document.querySelector('#view');
 const search = document.querySelector('#search');
 const filters = document.querySelector('#filters');
 const randomButton = document.querySelector('#sidebar-random');
+const exploreToggle = document.querySelector('#explore-toggle');
 const repo = 'https://github.com/belorin/belorin.github.io';
 let notes = [];
 let category = '전체';
 let randomPick = null;
+
+function setExploreOpen(open) {
+  exploreToggle.setAttribute('aria-expanded', String(open));
+}
+exploreToggle.addEventListener('click', () => {
+  setExploreOpen(exploreToggle.getAttribute('aria-expanded') !== 'true');
+});
 
 const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({
   '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;'
@@ -154,7 +162,7 @@ function listing() {
 function article(note) {
   const rendered = renderMarkdown(note.body, note.id);
   const toc = rendered.toc.length > 1
-    ? '<details class="toc" open><summary>이 글의 목차 · ' + rendered.toc.length + '개 절</summary><ol>' +
+    ? '<details class="toc"' + (window.matchMedia('(max-width: 800px)').matches ? '' : ' open') + '><summary>이 글의 목차 · ' + rendered.toc.length + '개 절</summary><ol>' +
       rendered.toc.map(item => '<li' + (item.level > 2 ? ' class="nested"' : '') +
         '><button type="button" data-jump="' + esc(item.id) + '">' +
         esc(item.title) + '</button></li>').join('') + '</ol></details>'
@@ -200,6 +208,7 @@ function render() {
   if (!notes.length) return;
   view.setAttribute('aria-busy','false');
   const hash = decodeURIComponent(location.hash.slice(1));
+  setExploreOpen(!byId(hash));
   if (!hash) home();
   else if (hash === 'all') listing();
   else if (hash === 'about') about();
@@ -234,7 +243,7 @@ window.addEventListener('hashchange', () => {
 document.addEventListener('keydown', event => {
   if (event.key === '/' && !event.metaKey && !event.ctrlKey && !event.altKey &&
       !['INPUT','TEXTAREA'].includes(document.activeElement?.tagName)) {
-    event.preventDefault(); search.focus();
+    event.preventDefault(); setExploreOpen(true); search.focus();
   }
   if (event.key === 'Escape' && document.activeElement === search) {
     search.value = '';
