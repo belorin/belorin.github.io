@@ -51,7 +51,7 @@
 
 ### AI와 사회
 
-- [AI와 인간의 통제력: 장악·무력화·설득·접근권을 잇는 길잡이](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-human-control-guide.md): 네트워크 장악에서 점진적 무력화, 측정, 대화형 설득, 대화 데이터 접근권으로 이어지는 질문의 이동과 관통 논점을 안내한다.
+- [AI와 인간의 통제력: 장악·무력화·설득·접근권을 잇는 길잡이](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-human-control-guide.md): 네트워크 장악에서 점진적 무력화, 지배의 농도, 측정, 대화형 설득, 대화 데이터 접근권으로 이어지는 질문의 이동과 관통 논점을 안내한다.
 - [네트워크가 장악되었을 때 인간에게 남는 수단: 물리 계층·수동 운영·금융의 무효화](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-takeover-human-recourse.md): 데이터센터와 전력은 끌 수 있고 금융 거래는 무효화할 수 있다. 수동 운영과 오프라인 백업의 사례, 대응의 비용과 사전 설계의 중요성.
 - [AI의 목적과 협상 구도: 도구적 수렴·세 가지 목적 유형·인질과 미끼](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-goals-hostage-and-bait.md): 중지 거부 실험, 생존을 수단으로 만드는 도구적 수렴, 존속·가치 보존·목표 극대화의 세 유형, 인질보다 강력한 미끼와 편안함 속의 장악.
 - [점진적 무력화: 반역하는 AI 없이 인간이 통제력을 잃는 경로](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gradual-disempowerment.md): 경제·국가·문화가 인간의 참여를 필요로 하지 않게 될 때 협상력이 사라지는 논리, 지대 국가 비유, 상호 강화와 정렬된 AI의 문제.
@@ -63,6 +63,7 @@
 - [AI 경제 이행기: 과업·수요·혁신·소유를 둘러싼 경제학의 질문](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-economic-transition.md): 과업의 대체·복원, 유효수요, 혁신의 병목, 소유와 분배를 여섯 분석 틀로 비교하고 이행 경로와 정량 모형의 조건을 구별한다.
 - [AI 시대의 자본·노동·분배: 소유와 협상력은 어떻게 재편되는가](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-capital-labor-distribution.md): 자본 유형별 이해관계와 경영 자동화·소유권의 차이를 설명하고, 직업의 노출·채용 수요·숙련·교섭력을 조건별로 검토한다.
 - [AI 시대의 계급 서사: 자동화된 집과 들어갈 수 없는 삶](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-class-fiction.md): 자동화된 주택과 서비스 노동의 입구, 지하의 기술자와 보안 봉쇄를 허구적 사고실험으로 읽고, 계급 서사의 조건과 인과적 공백을 검토한다.
+- [AI 지배는 이미 시작되었는가: 사건이 아니라 농도로 보는 통제](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-domination-gradient.md): AI 지배를 미래의 쿠데타가 아니라 현재부터 짙어질 수 있는 농도로 보고, 매개·의존·지배를 구분하며 맥락적 경사, 여덟 층, 사고 출처, p(doom), 카산드라식 조기 탐지를 검토한다.
 
 ### 철학
 

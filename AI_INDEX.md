@@ -103,8 +103,8 @@
 
 ## AI와 사회
 
-- **[AI와 인간의 통제력: 장악·무력화·설득·접근권을 잇는 길잡이](wiki/ai-human-control-guide.md)** · 별칭: AI 통제력 길잡이, AI와 사회 길잡이 · 수정: 2026-10-23 · 검토: 길잡이·해석 포함
-  - 네트워크 장악에서 점진적 무력화, 측정, 대화형 설득, 대화 데이터 접근권으로 이어지는 질문의 이동과 관통 논점을 안내한다.
+- **[AI와 인간의 통제력: 장악·무력화·설득·접근권을 잇는 길잡이](wiki/ai-human-control-guide.md)** · 별칭: AI 통제력 길잡이, AI와 사회 길잡이 · 수정: 2026-10-24 · 검토: 길잡이·해석 포함
+  - 네트워크 장악에서 점진적 무력화, 지배의 농도, 측정, 대화형 설득, 대화 데이터 접근권으로 이어지는 질문의 이동과 관통 논점을 안내한다.
   - [웹페이지](https://belorin.github.io/#ai-human-control-guide) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-human-control-guide.md)
 - **[네트워크가 장악되었을 때 인간에게 남는 수단: 물리 계층·수동 운영·금융의 무효화](wiki/ai-takeover-human-recourse.md)** · 별칭: AI 장악 대응, 물리 계층과 수동 운영 · 수정: 2026-10-23 · 검토: 사례 미검증·추론 포함
   - 데이터센터와 전력은 끌 수 있고 금융 거래는 무효화할 수 있다. 수동 운영과 오프라인 백업의 사례, 대응의 비용과 사전 설계의 중요성.
@@ -139,6 +139,9 @@
 - **[AI 시대의 계급 서사: 자동화된 집과 들어갈 수 없는 삶](wiki/ai-class-fiction.md)** · 별칭: AI 계층 시나리오, AI 시대 기생충 사고실험 · 수정: 2026-10-23 · 검토: 허구적 사고실험·인과 검토
   - 자동화된 주택과 서비스 노동의 입구, 지하의 기술자와 보안 봉쇄를 허구적 사고실험으로 읽고, 계급 서사의 조건과 인과적 공백을 검토한다.
   - [웹페이지](https://belorin.github.io/#ai-class-fiction) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-class-fiction.md)
+- **[AI 지배는 이미 시작되었는가: 사건이 아니라 농도로 보는 통제](wiki/ai-domination-gradient.md)** · 별칭: AI 지배의 농도, 매끄러운 지배, AI 인지 인프라, AI 지배는 이미 시작되었다 · 수정: 2026-10-24 · 검토: 철학적 논증·대화 내 자료 기반·외부 재검증 필요
+  - AI 지배를 미래의 쿠데타가 아니라 현재부터 짙어질 수 있는 농도로 보고, 매개·의존·지배를 구분하며 맥락적 경사, 여덟 층, 사고 출처, p(doom), 카산드라식 조기 탐지를 검토한다.
+  - [웹페이지](https://belorin.github.io/#ai-domination-gradient) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-domination-gradient.md)
 
 ## 철학
 

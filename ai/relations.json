@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 264,
+  "edge_count": 272,
   "edges": [
     {
       "from": "living-notes",
@@ -889,6 +889,12 @@
     },
     {
       "from": "ai-human-control-guide",
+      "to": "ai-domination-gradient",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-human-control-guide",
       "to": "gradual-disempowerment",
       "type": "related_to",
       "basis": "manifest.related"
@@ -1446,6 +1452,36 @@
       "basis": "manifest.related"
     },
     {
+      "from": "ai-domination-gradient",
+      "to": "ai-human-control-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-domination-gradient",
+      "to": "gradual-disempowerment",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-domination-gradient",
+      "to": "disempowerment-measurement",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-domination-gradient",
+      "to": "llm-disempowerment-patterns",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-domination-gradient",
+      "to": "conversational-ai-persuasion",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "jazz-to-ai",
       "to": "jazz-dialogue",
       "type": "introduces",
@@ -1652,6 +1688,22 @@
       "basis": "curated",
       "evidence_section": "그 방송을 보고 자란 다음 세대",
       "reason": "지휘자가 이미 대중매체에 가시화된 환경에서 성장한 다음 세대의 구체적 경력 사례로 소가 다이스케를 연결한다."
+    },
+    {
+      "from": "ai-human-control-guide",
+      "to": "ai-domination-gradient",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "이 주제를 읽는 순서",
+      "reason": "AI 통제력 논의의 읽기 순서에서 미래의 장악과 별도로 지배를 현재의 농도로 보는 철학적 원고를 안내한다."
+    },
+    {
+      "from": "ai-domination-gradient",
+      "to": "gradual-disempowerment",
+      "type": "contrasts",
+      "basis": "curated",
+      "evidence_section": "이미 시작되었다는 주장의 정확한 범위",
+      "reason": "현재의 저농도 의미적·제도적 개입과 인간 참여가 사라지는 미래의 점진적 무력화를 구별하면서 두 문제의 연속성을 설명한다."
     }
   ]
 }
