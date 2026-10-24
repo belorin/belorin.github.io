@@ -1,0 +1,189 @@
+{
+  "id": "ing-20261025-woodwind-reeds",
+  "processed_on": "2026-10-25",
+  "coverage": "visible-complete",
+  "limit_note": "현재 채팅에서 리드의 발음 원리부터 재료·공급망·한국·비용·전쟁기 부족·악기 소모품·오케스트라 스테레오타입과 농담까지 접근 가능한 범위를 처리했으며 외부 추가조사는 하지 않음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k1",
+      "kind": "concept",
+      "title": "클라리넷 싱글리드와 오보에·바순 더블리드의 발음 메커니즘",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "woodwind-reeds-material-history",
+          "section": "풀 한 조각이 악기의 성대가 되는 방식"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "kind": "argument",
+      "title": "Arundo donax 표준을 물성과 경로의존성의 결합으로 설명",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "woodwind-reeds-material-history",
+          "section": "왜 거의 모두 Arundo donax인가"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "kind": "fact",
+      "title": "Phragmites·대나무 등 비아룬도 천연 리드의 전통과 현대 실험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "woodwind-reeds-material-history",
+          "section": "다른 풀과 대나무도 실제로 연주된다"
+        },
+        {
+          "doc_id": "woodwind-reeds-material-history",
+          "section": "현대 서양악기에서의 대체 식물 실험"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "kind": "argument",
+      "title": "프랑스 단일 독점보다 지중해산 cane과 가공업체 중심의 공급 의존",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "woodwind-reeds-material-history",
+          "section": "프랑스 독점인가, 지중해 표준인가"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "kind": "fact",
+      "title": "태국의 현지 Arundo 개발과 한국의 원료 국산화 공백",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "woodwind-reeds-material-history",
+          "section": "태국의 국산화 실험과 한국의 빈자리"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "kind": "example",
+      "title": "클라리넷·오보에·바순 연주자의 연간 리드 비용 추산",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "woodwind-reeds-material-history",
+          "section": "연주자 한 사람은 1년에 얼마를 쓰는가"
+        }
+      ]
+    },
+    {
+      "id": "k7",
+      "kind": "example",
+      "title": "오텐자머·마이어·마살리스·모랄레스 등 비표준 리드 세팅",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "woodwind-reeds-material-history",
+          "section": "유명 연주자들의 비표준 세팅"
+        }
+      ]
+    },
+    {
+      "id": "k8",
+      "kind": "fact",
+      "title": "두 차례 세계대전의 cane 공급난과 미국·멕시코 대체 공급망 및 플라스틱 리드",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "woodwind-reeds-material-history",
+          "section": "전쟁이 끊은 풀의 공급망"
+        }
+      ]
+    },
+    {
+      "id": "k9",
+      "kind": "argument",
+      "title": "리드를 악기의 마지막 제작 공정·기계적 인터페이스로 해석",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "woodwind-reeds-material-history",
+          "section": "리드는 악기의 마지막 제작 공정이다"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "argument",
+      "title": "리드 산지의 테루아·침입종 역설·물성 기반 선별 기술의 문제",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "woodwind-reeds-material-history",
+          "section": "테루아, 침입종, 그리고 선별 기술"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "curation",
+      "title": "활털·송진·거트 현·깃털·자연피·펠트 등 악기의 생물성 소모품",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "instrument-consumables-organic-materials",
+          "section": "소모품을 보면 악기의 역사가 달라 보인다"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "argument",
+      "title": "악기별 성격상을 실제 심리 특성보다 직업문화적 스테레오타입으로 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-instrument-stereotypes",
+          "section": "스테레오타입은 실제 연구 대상이 되었다"
+        },
+        {
+          "doc_id": "orchestra-instrument-stereotypes",
+          "section": "악기가 사람을 만드는가, 사람이 악기를 고르는가"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "curation",
+      "title": "오보에·바순·호른·금관·비올라·현악·타악 등 파트별 스테레오타입",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-instrument-stereotypes",
+          "section": "오보에: 예민한 완벽주의자라는 이미지"
+        },
+        {
+          "doc_id": "orchestra-instrument-stereotypes",
+          "section": "비올라: 클래식계의 영원한 동네북"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "curation",
+      "title": "파트별 스테레오타입을 활용한 오케스트라 내부자 농담 묶음",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-instrument-stereotypes",
+          "section": "스테레오타입을 활용한 농담 묶음"
+        }
+      ]
+    }
+  ]
+}

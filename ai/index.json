@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 68,
+  "document_count": 71,
   "documents": [
     {
       "id": "living-notes",
@@ -2211,6 +2211,104 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/utsunomiya-psychiatric-hospital-reform.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/utsunomiya-psychiatric-hospital-reform.md",
       "page_url": "https://belorin.github.io/#utsunomiya-psychiatric-hospital-reform"
+    },
+    {
+      "id": "woodwind-reeds-material-history",
+      "title": "풀 한 조각이 오케스트라의 소리가 되기까지: 목관 리드의 재료·산업·전쟁",
+      "aliases": [
+        "목관 리드",
+        "아룬도 도낙스",
+        "리드 공급망",
+        "오보에 리드"
+      ],
+      "category": "음악",
+      "tags": [
+        "목관악기",
+        "리드",
+        "Arundo donax",
+        "오보에",
+        "클라리넷",
+        "바순",
+        "공급망"
+      ],
+      "summary": "클라리넷·오보에·바순의 리드가 어떻게 소리를 만들고, Arundo donax가 세계 표준이 된 과정과 대체 식물·한국·전쟁기 공급난·연주자 비용을 함께 살핀다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 내 확인·시장 수치와 일부 역사 일화 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "instrument-consumables-organic-materials",
+        "orchestra-instrument-stereotypes"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/woodwind-reeds-material-history.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/woodwind-reeds-material-history.md",
+      "page_url": "https://belorin.github.io/#woodwind-reeds-material-history"
+    },
+    {
+      "id": "instrument-consumables-organic-materials",
+      "title": "전통 악기를 움직이는 생물성 소모품: 풀·말털·장·가죽·깃털",
+      "aliases": [
+        "악기 소모품",
+        "생물성 악기 재료",
+        "활털과 거트 현"
+      ],
+      "category": "음악",
+      "tags": [
+        "악기",
+        "소모품",
+        "활털",
+        "거트 현",
+        "송진",
+        "하프시코드",
+        "타악기"
+      ],
+      "summary": "목관 리드, 활털과 송진, 거트 현, 하프시코드 깃털, 자연피 타악기와 펠트를 통해 전통 악기의 숨은 생물성 공급망을 살핀다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 내 확인·재료별 역사 세부 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "woodwind-reeds-material-history"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/instrument-consumables-organic-materials.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/instrument-consumables-organic-materials.md",
+      "page_url": "https://belorin.github.io/#instrument-consumables-organic-materials"
+    },
+    {
+      "id": "orchestra-instrument-stereotypes",
+      "title": "오케스트라의 악기별 성격 스테레오타입과 농담",
+      "aliases": [
+        "오케스트라 농담",
+        "악기별 성격",
+        "연주자 스테레오타입"
+      ],
+      "category": "음악",
+      "tags": [
+        "오케스트라",
+        "스테레오타입",
+        "음악가",
+        "오보에",
+        "비올라",
+        "호른",
+        "농담"
+      ],
+      "summary": "오보이스트의 예민함, 비올라 농담, 트럼펫의 자신감, 호른의 불안처럼 악기의 업무 조건이 어떻게 파트별 인간형과 내부 농담으로 번역되는지 정리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "스테레오타입 연구·농담 전승 세부 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "woodwind-reeds-material-history"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-instrument-stereotypes.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/orchestra-instrument-stereotypes.md",
+      "page_url": "https://belorin.github.io/#orchestra-instrument-stereotypes"
     }
   ]
 }
