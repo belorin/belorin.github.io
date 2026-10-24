@@ -151,6 +151,12 @@
 - **[AI 지배는 이미 시작되었는가: 사건이 아니라 농도로 보는 통제](wiki/ai-domination-gradient.md)** · 별칭: AI 지배의 농도, 매끄러운 지배, AI 인지 인프라, AI 지배는 이미 시작되었다 · 수정: 2026-10-24 · 검토: 철학적 논증·대화 내 자료 기반·외부 재검증 필요
   - AI 지배를 미래의 쿠데타가 아니라 현재부터 짙어질 수 있는 농도로 보고, 매개·의존·지배를 구분하며 맥락적 경사, 여덟 층, 사고 출처, p(doom), 카산드라식 조기 탐지를 검토한다.
   - [웹페이지](https://belorin.github.io/#ai-domination-gradient) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-domination-gradient.md)
+- **[행크 애셔에서 팔란티어까지: 데이터 융합이 AI의 판단 인프라가 되기까지](wiki/hank-asher-data-fusion-ai.md)** · 별칭: 행크 쇼와 AI, Hank Asher, 행크 애셔, 팔란티어와 데이터 융합 · 수정: 2026-10-25 · 검토: 대화 내 확인·기업사와 최근 기술 세부 재검증 필요
+  - 행크 애셔의 DBT·Seisint·MATRIX에서 팔란티어와 에이전트형 AI까지, 검색·결합이 추정·서사화·행동 제안으로 확장되는 데이터 권력의 계보를 살핀다.
+  - [웹페이지](https://belorin.github.io/#hank-asher-data-fusion-ai) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hank-asher-data-fusion-ai.md)
+- **[한국 개인정보의 생애: 수집·결합·유출·재사용의 경로](wiki/korea-personal-data-lifecycle.md)** · 별칭: 한국 개인정보 유통, 개인정보의 생애, 개인정보 유출 이후, 한국 데이터 브로커 · 수정: 2026-10-25 · 검토: 대화 내 확인·법제와 최근 사례 세부 재검증 필요
+  - 체크박스와 본인확인부터 광고·가명결합·마이데이터, 유출 뒤의 계정탈취·피싱·영업 DB까지 한국 개인정보가 복제·결합·재사용되는 경로를 추적한다.
+  - [웹페이지](https://belorin.github.io/#korea-personal-data-lifecycle) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-personal-data-lifecycle.md)
 
 ## 철학
 
