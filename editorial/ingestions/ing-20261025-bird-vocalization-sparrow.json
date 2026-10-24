@@ -1,0 +1,105 @@
+{
+  "id": "ing-20261025-bird-vocalization-sparrow",
+  "processed_on": "2026-10-25",
+  "coverage": "visible-complete",
+  "limit_note": "현재 실제로 보이는 새소리의 식별·의미·번역 및 참새 관련 발화만 총합. 기존 대화에서 제시된 외부 출처는 새로 열람하지 않았으며 A1~A9 대응과 지역 연구 수치는 재검증 필요.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k1",
+      "kind": "concept",
+      "title": "종 식별·발성 분류·기능 해석·언어 번역의 네 단계 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "bird-vocalization-sparrow",
+          "section": "식별과 번역 사이에는 몇 단계가 있는가"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "kind": "fact",
+      "title": "경고음의 기능적 지시성과 집단 대응의 관찰 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "bird-vocalization-sparrow",
+          "section": "경고음은 단순한 감정 표현을 넘어서는가"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "kind": "fact",
+      "title": "일본박새의 제한적인 조합적 의미",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "bird-vocalization-sparrow",
+          "section": "일본박새의 조합적 신호가 갖는 의미"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "kind": "fact",
+      "title": "금화조 호출 유형과 사회적 맥락의 분석",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "bird-vocalization-sparrow",
+          "section": "금화조의 호출 유형과 사회적 맥락"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "kind": "concept",
+      "title": "한국 참새와 집참새의 구별 및 현장 발성의 종류",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "bird-vocalization-sparrow",
+          "section": "한국의 참새: 무엇을 듣고 있는가"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "kind": "fact",
+      "title": "참새 아홉 발성 유형 소개 및 A1~A9 매핑의 검증 유보",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "bird-vocalization-sparrow",
+          "section": "아홉 가지 울음이라는 분류는 무엇을 뜻하는가"
+        }
+      ]
+    },
+    {
+      "id": "k7",
+      "kind": "fact",
+      "title": "광주·나주·담양 도시 소음과 참새 발성 변화의 연구 소개",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "bird-vocalization-sparrow",
+          "section": "도시의 소음은 참새의 발성을 바꾸는가"
+        }
+      ]
+    },
+    {
+      "id": "k8",
+      "kind": "argument",
+      "title": "새소리 AI 분석을 행동 맥락 및 재생 실험으로 검증해야 할 이유",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "bird-vocalization-sparrow",
+          "section": "현장에서 해석하려면 무엇을 함께 기록해야 하는가"
+        }
+      ]
+    }
+  ]
+}
