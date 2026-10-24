@@ -48,6 +48,9 @@
 - [소가 다이스케와 지휘자의 직업 세계: 광주 인연에서 국제 중견 경력까지](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/daisuke-soga-conductor-career.md): 소가 다이스케의 광주·전남 반복 초청과 작곡·지휘 경력, 장기 포스트 종료와 은퇴의 구분, 세계 지휘자 시장의 희소한 자리 구조를 함께 살핀다.
 - [희소 채널 시대에서 살아남은 음악방송: 일본·한국·이탈리아와 다른 계보](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/long-running-music-broadcasts.md): NHK 노도지만·전국노래자랑·산레모 등을 희소 채널 시대의 중앙 방송에서 다채널 시대로 이어진 제도적 연속성이라는 기준으로 비교한다.
 - [일본의 클래식 해설 방송과 지휘자 이미지: 《題名のない音楽会》 60년의 계보](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japanese-classical-tv-conductor-image.md): 1964년 시작해 60년을 넘긴 《題名のない音楽会》의 해설·실험 형식, 경쟁작 《オーケストラがやって来た!》, 오자와 세이지부터 《노다메 칸타빌레》까지 세대별 지휘자 이미지를 함께 살핀다.
+- [풀 한 조각이 오케스트라의 소리가 되기까지: 목관 리드의 재료·산업·전쟁](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/woodwind-reeds-material-history.md): 클라리넷·오보에·바순의 리드가 어떻게 소리를 만들고, Arundo donax가 세계 표준이 된 과정과 대체 식물·한국·전쟁기 공급난·연주자 비용을 함께 살핀다.
+- [전통 악기를 움직이는 생물성 소모품: 풀·말털·장·가죽·깃털](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/instrument-consumables-organic-materials.md): 목관 리드, 활털과 송진, 거트 현, 하프시코드 깃털, 자연피 타악기와 펠트를 통해 전통 악기의 숨은 생물성 공급망을 살핀다.
+- [오케스트라의 악기별 성격 스테레오타입과 농담](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-instrument-stereotypes.md): 오보이스트의 예민함, 비올라 농담, 트럼펫의 자신감, 호른의 불안처럼 악기의 업무 조건이 어떻게 파트별 인간형과 내부 농담으로 번역되는지 정리한다.
 
 ### AI와 사회
 

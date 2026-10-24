@@ -100,6 +100,15 @@
 - **[일본의 클래식 해설 방송과 지휘자 이미지: 《題名のない音楽会》 60년의 계보](wiki/japanese-classical-tv-conductor-image.md)** · 별칭: 題名のない音楽会, 제목 없는 음악회, Untitled Concert, 일본 클래식 TV · 수정: 2026-10-24 · 검토: 방송 연혁·진행자 계보·세대별 이미지 재검증 필요
   - 1964년 시작해 60년을 넘긴 《題名のない音楽会》의 해설·실험 형식, 경쟁작 《オーケストラがやって来た!》, 오자와 세이지부터 《노다메 칸타빌레》까지 세대별 지휘자 이미지를 함께 살핀다.
   - [웹페이지](https://belorin.github.io/#japanese-classical-tv-conductor-image) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japanese-classical-tv-conductor-image.md)
+- **[풀 한 조각이 오케스트라의 소리가 되기까지: 목관 리드의 재료·산업·전쟁](wiki/woodwind-reeds-material-history.md)** · 별칭: 목관 리드, 아룬도 도낙스, 리드 공급망, 오보에 리드 · 수정: 2026-10-25 · 검토: 대화 내 확인·시장 수치와 일부 역사 일화 재검증 필요
+  - 클라리넷·오보에·바순의 리드가 어떻게 소리를 만들고, Arundo donax가 세계 표준이 된 과정과 대체 식물·한국·전쟁기 공급난·연주자 비용을 함께 살핀다.
+  - [웹페이지](https://belorin.github.io/#woodwind-reeds-material-history) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/woodwind-reeds-material-history.md)
+- **[전통 악기를 움직이는 생물성 소모품: 풀·말털·장·가죽·깃털](wiki/instrument-consumables-organic-materials.md)** · 별칭: 악기 소모품, 생물성 악기 재료, 활털과 거트 현 · 수정: 2026-10-25 · 검토: 대화 내 확인·재료별 역사 세부 재검증 필요
+  - 목관 리드, 활털과 송진, 거트 현, 하프시코드 깃털, 자연피 타악기와 펠트를 통해 전통 악기의 숨은 생물성 공급망을 살핀다.
+  - [웹페이지](https://belorin.github.io/#instrument-consumables-organic-materials) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/instrument-consumables-organic-materials.md)
+- **[오케스트라의 악기별 성격 스테레오타입과 농담](wiki/orchestra-instrument-stereotypes.md)** · 별칭: 오케스트라 농담, 악기별 성격, 연주자 스테레오타입 · 수정: 2026-10-25 · 검토: 스테레오타입 연구·농담 전승 세부 재검증 필요
+  - 오보이스트의 예민함, 비올라 농담, 트럼펫의 자신감, 호른의 불안처럼 악기의 업무 조건이 어떻게 파트별 인간형과 내부 농담으로 번역되는지 정리한다.
+  - [웹페이지](https://belorin.github.io/#orchestra-instrument-stereotypes) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-instrument-stereotypes.md)
 
 ## AI와 사회
 

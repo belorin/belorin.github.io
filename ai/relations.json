@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 280,
+  "edge_count": 286,
   "edges": [
     {
       "from": "living-notes",
@@ -1530,6 +1530,30 @@
       "basis": "manifest.related"
     },
     {
+      "from": "woodwind-reeds-material-history",
+      "to": "instrument-consumables-organic-materials",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "woodwind-reeds-material-history",
+      "to": "orchestra-instrument-stereotypes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "instrument-consumables-organic-materials",
+      "to": "woodwind-reeds-material-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-instrument-stereotypes",
+      "to": "woodwind-reeds-material-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "jazz-to-ai",
       "to": "jazz-dialogue",
       "type": "introduces",
@@ -1752,6 +1776,22 @@
       "basis": "curated",
       "evidence_section": "이미 시작되었다는 주장의 정확한 범위",
       "reason": "현재의 저농도 의미적·제도적 개입과 인간 참여가 사라지는 미래의 점진적 무력화를 구별하면서 두 문제의 연속성을 설명한다."
+    },
+    {
+      "from": "instrument-consumables-organic-materials",
+      "to": "woodwind-reeds-material-history",
+      "type": "illustrates",
+      "basis": "curated",
+      "evidence_section": "목관 리드: 가장 극단적인 소모품",
+      "reason": "악기의 생물성 소모품 가운데 리드가 최초 진동원과 공급망을 동시에 좌우하는 극단적 사례임을 상세 문서로 연결한다."
+    },
+    {
+      "from": "orchestra-instrument-stereotypes",
+      "to": "woodwind-reeds-material-history",
+      "type": "supports",
+      "basis": "curated",
+      "evidence_section": "오보에: 예민한 완벽주의자라는 이미지",
+      "reason": "오보이스트의 예민함이라는 직업적 이미지가 리드 제작·선별·습도 관리라는 실제 연주 노동과 연결되는 배경을 보충한다."
     }
   ]
 }
