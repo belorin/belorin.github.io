@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 294,
+  "edge_count": 319,
   "edges": [
     {
       "from": "living-notes",
@@ -1278,6 +1278,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "classical-canon-mauceri",
+      "to": "orchestra-living-composers-canon",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "classical-canon-mauceri",
+      "to": "orchestra-repertoire-data-access",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "ai-economic-transition",
       "to": "ai-capital-labor-distribution",
       "type": "related_to",
@@ -1586,6 +1598,144 @@
     {
       "from": "korea-personal-data-lifecycle",
       "to": "ai-conversation-data-access",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-repertoire-data-access",
+      "to": "orchestra-living-composers-canon",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-repertoire-data-access",
+      "to": "world-orchestras-repertoire-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-repertoire-data-access",
+      "to": "orchestra-halls-seasons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-living-composers-canon",
+      "to": "classical-canon-mauceri",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-living-composers-canon",
+      "to": "orchestra-repertoire-data-access",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-living-composers-canon",
+      "to": "world-orchestras-repertoire-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-orchestras-repertoire-2026",
+      "to": "orchestra-living-composers-canon",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-orchestras-repertoire-2026",
+      "to": "korean-orchestras-repertoire-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-orchestras-repertoire-2026",
+      "to": "conductors-career-encores",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-orchestras-repertoire-2026",
+      "to": "orchestra-halls-seasons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "korean-orchestras-repertoire-2026",
+      "to": "world-orchestras-repertoire-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "korean-orchestras-repertoire-2026",
+      "to": "orchestra-repertoire-data-access",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "korean-orchestras-repertoire-2026",
+      "to": "orchestra-living-composers-canon",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestration-instrument-history",
+      "to": "woodwind-reeds-material-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestration-instrument-history",
+      "to": "orchestra-instrument-stereotypes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestration-instrument-history",
+      "to": "orchestra-halls-seasons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestration-instrument-history",
+      "to": "orchestra-living-composers-canon",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "conductors-career-encores",
+      "to": "daisuke-soga-conductor-career",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "conductors-career-encores",
+      "to": "world-orchestras-repertoire-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "conductors-career-encores",
+      "to": "orchestra-living-composers-canon",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-halls-seasons",
+      "to": "world-orchestras-repertoire-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-halls-seasons",
+      "to": "orchestra-repertoire-data-access",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-halls-seasons",
+      "to": "orchestration-instrument-history",
       "type": "related_to",
       "basis": "manifest.related"
     },
