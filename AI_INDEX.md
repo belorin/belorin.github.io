@@ -109,6 +109,9 @@
 - **[오케스트라의 악기별 성격 스테레오타입과 농담](wiki/orchestra-instrument-stereotypes.md)** · 별칭: 오케스트라 농담, 악기별 성격, 연주자 스테레오타입 · 수정: 2026-10-25 · 검토: 스테레오타입 연구·농담 전승 세부 재검증 필요
   - 오보이스트의 예민함, 비올라 농담, 트럼펫의 자신감, 호른의 불안처럼 악기의 업무 조건이 어떻게 파트별 인간형과 내부 농담으로 번역되는지 정리한다.
   - [웹페이지](https://belorin.github.io/#orchestra-instrument-stereotypes) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-instrument-stereotypes.md)
+- **[한국에서 기다릴 대형 뮤지컬: 내한 전망과 춤·아크로바틱 취향의 선택법](wiki/korea-dance-musical-tours.md)** · 별칭: 한국 뮤지컬 내한, 춤 많은 뮤지컬, 아크로바틱 뮤지컬, 뮤지컬 내한 전망, 라이온 킹 같은 뮤지컬 · 수정: 2026-10-25 · 검토: 2026년 9월 대화 내 확인 일정·장기 전망 총합 · 이후 일정과 미확정 한국행 재검증 필요
+  - 2026년 9월 확인 기준으로 한국 대형 뮤지컬의 확정 일정과 장기 내한 신호를 분리하고, 라이온 킹·노트르담 드 파리 같은 신체적 무대 언어를 좋아하는 관객에게 캣츠·MJ·물랑루즈·Some Like It Hot 등을 춤의 성격별로 비교한다.
+  - [웹페이지](https://belorin.github.io/#korea-dance-musical-tours) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-dance-musical-tours.md)
 
 ## AI와 사회
 
