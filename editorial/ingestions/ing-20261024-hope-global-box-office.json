@@ -1,0 +1,117 @@
+{
+  "id": "ing-20261024-hope-global-box-office",
+  "processed_on": "2026-10-24",
+  "coverage": "visible-complete",
+  "limit_note": "현재 접근 가능한 호프 흥행·선판매 논의를 처음부터 검토함. 최신 수치 확인은 대화 내 2026-10-04까지이며 외부 추가 조사 없음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "9월 중순부터 10월 4일까지 세계·북미 누적 흥행의 시점별 변화",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hope-global-box-office",
+          "section": "시점별 흥행 추이"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "북미 1,560개관 와이드 개봉과 2·3주차 급락을 함께 보는 흥행 강도",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hope-global-box-office",
+          "section": "북미: 큰 문으로 들어갔지만 빠르게 소진된 흥행"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "fact",
+      "title": "영국 첫 주말과 호주·러시아·홍콩 등 중소 해외 시장의 분산 매출",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hope-global-box-office",
+          "section": "영국과 기타 해외 시장"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "극장 총매출·해외 선판매 MG·오버리지의 회계적 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hope-global-box-office",
+          "section": "박스오피스와 선판매는 같은 돈이 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "fact",
+      "title": "200여 국가·권역 선판매와 순제작비 절반 수준의 사전 회수",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hope-global-box-office",
+          "section": "선판매가 이미 낮춘 투자 회수 부담"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "argument",
+      "title": "국내 458만 명·491억 원 총매출과 손익분기 추정의 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hope-global-box-office",
+          "section": "국내 흥행과 손익분기의 거친 계산"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "curation",
+      "title": "기생충·디워·어쩔수가없다·부산행·파묘 등과 비교한 호프의 해외 흥행 위치",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hope-global-box-office",
+          "section": "다른 한국영화와 비교하면 어디쯤인가"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "argument",
+      "title": "현지 배급사 손익과 차기작 MG 협상으로 이어지는 해외 흥행의 산업적 의미",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hope-global-box-office",
+          "section": "선판매 이후에도 해외 흥행이 중요한 이유"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "question",
+      "title": "국가별 계약 조건·P&A·후속 시장 결과가 남기는 최종 손익의 불확실성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hope-global-box-office",
+          "section": "남아 있는 불확실성"
+        }
+      ]
+    }
+  ]
+}
