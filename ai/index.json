@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 56,
+  "document_count": 58,
   "documents": [
     {
       "id": "living-notes",
@@ -1821,6 +1821,69 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hope-global-box-office.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/hope-global-box-office.md",
       "page_url": "https://belorin.github.io/#hope-global-box-office"
+    },
+    {
+      "id": "stalking-harm-and-autonomy",
+      "title": "스토킹 피해를 손상이 아니라 침해로 보기: 관계거부·생활형성·강제된 중요성",
+      "aliases": [
+        "스토킹 피해",
+        "강제된 중요성",
+        "관계거부의 자유",
+        "생활형성의 자유"
+      ],
+      "category": "사회와 제도",
+      "tags": [
+        "스토킹",
+        "피해",
+        "생활형성의 자유",
+        "관계거부",
+        "강제된 중요성",
+        "통신매체이용음란"
+      ],
+      "summary": "스토킹 피해를 공포·수치 같은 손상만으로 보지 않고 관계거부, 생활형성의 자유, 강제된 중요성, 성적 의미의 강제적 귀속이라는 침해 구조로 재구성한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "법·철학적 분석 개념 · 대화 내 판례·연구 요약 기반 · 외부 재검증 필요",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "excellent-victim-kwak-aram"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/stalking-harm-and-autonomy.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/stalking-harm-and-autonomy.md",
+      "page_url": "https://belorin.github.io/#stalking-harm-and-autonomy"
+    },
+    {
+      "id": "excellent-victim-kwak-aram",
+      "title": "『탁월한 피해자』와 곽아람: 비면식 스토킹 기록이 묻는 피해자의 자리",
+      "aliases": [
+        "탁월한 피해자",
+        "곽아람",
+        "비면식 스토킹 기록"
+      ],
+      "category": "사회와 제도",
+      "tags": [
+        "탁월한 피해자",
+        "곽아람",
+        "비면식 스토킹",
+        "형사사법",
+        "피해자성",
+        "피해자 보호"
+      ],
+      "summary": "『탁월한 피해자』의 비면식 스토킹 기록과 형사사법 비판, 피해 감정의 규격화 문제, 2026년 공개 활동과 당시 사건 진행 상태를 함께 정리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "2026년 공개보도·인터뷰 요약 기반 · 사건 진행 및 직함 재검증 필요",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "stalking-harm-and-autonomy"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/excellent-victim-kwak-aram.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/excellent-victim-kwak-aram.md",
+      "page_url": "https://belorin.github.io/#excellent-victim-kwak-aram"
     }
   ]
 }

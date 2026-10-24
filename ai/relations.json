@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 272,
+  "edge_count": 274,
   "edges": [
     {
       "from": "living-notes",
@@ -1478,6 +1478,18 @@
     {
       "from": "ai-domination-gradient",
       "to": "conversational-ai-persuasion",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "stalking-harm-and-autonomy",
+      "to": "excellent-victim-kwak-aram",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "excellent-victim-kwak-aram",
+      "to": "stalking-harm-and-autonomy",
       "type": "related_to",
       "basis": "manifest.related"
     },
