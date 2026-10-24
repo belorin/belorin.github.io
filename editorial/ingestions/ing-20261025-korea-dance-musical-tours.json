@@ -1,0 +1,153 @@
+{
+  "id": "ing-20261025-korea-dance-musical-tours",
+  "processed_on": "2026-10-25",
+  "coverage": "visible-complete",
+  "limit_note": "현재 접근 가능한 대화의 한국 대형 뮤지컬 일정·장기 내한 전망·춤 중심 선호 분석을 모두 처리했고 새 외부 조사는 하지 않음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k1",
+      "kind": "concept",
+      "title": "오리지널·인터내셔널 투어 내한과 한국어 라이선스 프로덕션의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-dance-musical-tours",
+          "section": "먼저 구분할 것: 내한과 한국어 프로덕션"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "kind": "argument",
+      "title": "대형 무대의 규모보다 춤의 밀도·신체성·스펙터클의 근원을 우선하는 선택 기준",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-dance-musical-tours",
+          "section": "무엇을 기다리는가: 노래가 아니라 몸으로 보는 뮤지컬"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "kind": "curation",
+      "title": "2026년 9월 기준 캣츠·겨울왕국·오페라의 유령·노트르담 드 파리·라이온 킹의 한국 일정 상태",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-dance-musical-tours",
+          "section": "2026년 9월에 확인된 한국 일정"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "kind": "curation",
+      "title": "춤·아크로바틱 취향으로 MJ·캣츠·물랑루즈·Some Like It Hot·앤 줄리엣을 재정렬한 추천",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-dance-musical-tours",
+          "section": "춤 취향으로 순위를 다시 매기면"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "kind": "example",
+      "title": "캣츠의 젤리클 볼과 재즈댄스·발레·체조적 동물 움직임을 춤 중심 추천 근거로 정리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-dance-musical-tours",
+          "section": "《캣츠》: 지금 가장 안전한 선택"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "kind": "example",
+      "title": "MJ의 마이클 잭슨 퍼포먼스·크리스토퍼 휠든 안무와 2027 아시아 투어를 한국행 감시 근거로 정리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-dance-musical-tours",
+          "section": "《MJ》: 한국행이면 최우선"
+        }
+      ]
+    },
+    {
+      "id": "k7",
+      "kind": "example",
+      "title": "물랑루즈의 캉캉·탱고·팝 군무와 아시아 월드투어 동선을 춤 중심 후보로 평가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-dance-musical-tours",
+          "section": "《물랑루즈!》: 노트르담과 라이온 킹 사이의 감각"
+        }
+      ]
+    },
+    {
+      "id": "k8",
+      "kind": "curation",
+      "title": "Some Like It Hot의 탭 군무와 앤 줄리엣의 팝 콘서트형 군무를 서로 다른 춤 취향으로 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-dance-musical-tours",
+          "section": "탭과 팝 군무: 《Some Like It Hot》과 《& Juliet》"
+        }
+      ]
+    },
+    {
+      "id": "k9",
+      "kind": "counterargument",
+      "title": "백 투 더 퓨처·겨울왕국·오페라의 유령처럼 대형 스펙터클이 곧 춤 중심 공연은 아니라는 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-dance-musical-tours",
+          "section": "큰 무대가 곧 몸의 스펙터클은 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "argument",
+      "title": "아시아 투어 존재·동아시아 동선·한국 제작사 공동제작·반복 흥행·장기 파트너십을 내한 신호로 읽는 방법",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-dance-musical-tours",
+          "section": "장기 내한 신호를 읽는 법"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "curation",
+      "title": "2027~2030년 MJ·물랑루즈·앤 줄리엣·Some Like It Hot·백 투 더 퓨처·디즈니·라이온 킹·해밀턴의 장기 관찰 목록",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-dance-musical-tours",
+          "section": "2027~2030 장기 전망"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "argument",
+      "title": "노트르담 드 파리의 가수와 전문 무용수 기능 분리가 강한 아크로바틱 신체성을 가능하게 한다는 해석",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-dance-musical-tours",
+          "section": "왜 《노트르담 드 파리》가 특별한 기준점인가"
+        }
+      ]
+    }
+  ]
+}

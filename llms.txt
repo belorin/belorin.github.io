@@ -51,6 +51,7 @@
 - [풀 한 조각이 오케스트라의 소리가 되기까지: 목관 리드의 재료·산업·전쟁](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/woodwind-reeds-material-history.md): 클라리넷·오보에·바순의 리드가 어떻게 소리를 만들고, Arundo donax가 세계 표준이 된 과정과 대체 식물·한국·전쟁기 공급난·연주자 비용을 함께 살핀다.
 - [전통 악기를 움직이는 생물성 소모품: 풀·말털·장·가죽·깃털](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/instrument-consumables-organic-materials.md): 목관 리드, 활털과 송진, 거트 현, 하프시코드 깃털, 자연피 타악기와 펠트를 통해 전통 악기의 숨은 생물성 공급망을 살핀다.
 - [오케스트라의 악기별 성격 스테레오타입과 농담](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-instrument-stereotypes.md): 오보이스트의 예민함, 비올라 농담, 트럼펫의 자신감, 호른의 불안처럼 악기의 업무 조건이 어떻게 파트별 인간형과 내부 농담으로 번역되는지 정리한다.
+- [한국에서 기다릴 대형 뮤지컬: 내한 전망과 춤·아크로바틱 취향의 선택법](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-dance-musical-tours.md): 2026년 9월 확인 기준으로 한국 대형 뮤지컬의 확정 일정과 장기 내한 신호를 분리하고, 라이온 킹·노트르담 드 파리 같은 신체적 무대 언어를 좋아하는 관객에게 캣츠·MJ·물랑루즈·Some Like It Hot 등을 춤의 성격별로 비교한다.
 
 ### AI와 사회
 
