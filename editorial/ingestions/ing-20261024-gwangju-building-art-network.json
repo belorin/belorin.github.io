@@ -1,0 +1,133 @@
+{
+  "id": "ing-20261024-gwangju-building-art-network",
+  "processed_on": "2026-10-24",
+  "coverage": "visible-complete",
+  "limit_note": "현재 접근 가능한 광주 건축물 미술·작가 네트워크 구간을 처리했으며 이번 편집에서 외부 추가 조사는 하지 않음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k1",
+      "kind": "concept",
+      "title": "공공미술과 건축물 미술작품의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gwangju-building-art-network",
+          "section": "공공미술보다 정확한 출발점: 건축물 미술작품"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "kind": "curation",
+      "title": "금남로·계림동 신축 건물의 아이콘형 조형물",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gwangju-building-art-network",
+          "section": "구도심 신축 건물: 아이콘과 포토존으로 이동한 조형물"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "kind": "curation",
+      "title": "상무지구 기업 사옥과 고층 건물의 추상조각 벨트",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gwangju-building-art-network",
+          "section": "상무지구: 2000년대 기업 추상조각의 벨트"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "kind": "curation",
+      "title": "아파트 화단에서 반복되는 가족·자연·행운의 상징",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gwangju-building-art-network",
+          "section": "아파트 화단의 가족·자연·행운"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "kind": "argument",
+      "title": "건축물 미술을 생활·접근권·노후화와 함께 읽는 관점",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gwangju-building-art-network",
+          "section": "건물과 생활이 작품을 다시 만든다"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "kind": "fact",
+      "title": "최규철·정춘표·조의현·전용환의 반복 설치와 경력 계보",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gwangju-building-art-network",
+          "section": "작가 계보를 읽는 법"
+        }
+      ]
+    },
+    {
+      "id": "k7",
+      "kind": "argument",
+      "title": "시공사 브랜드와 실제 작품 발주 주체를 분리하는 분석",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gwangju-building-art-network",
+          "section": "건설사가 어떤 작가를 선호하는가: 먼저 발주 구조를 분해해야 한다"
+        }
+      ]
+    },
+    {
+      "id": "k8",
+      "kind": "question",
+      "title": "대행업체·제작소·심의위원회가 작가 선택에 미치는 영향",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gwangju-building-art-network",
+          "section": "대행업체·제작소·심의위원회라는 보이지 않는 층"
+        }
+      ]
+    },
+    {
+      "id": "k9",
+      "kind": "counterargument",
+      "title": "동문·심의 경력·브랜드 반복을 특혜나 선호로 곧장 해석하지 않는 기준",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gwangju-building-art-network",
+          "section": "관계망을 조사할 때 단정해서는 안 되는 것"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "curation",
+      "title": "광주 비공식 미술관의 현장 기록 항목과 답사 구역",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gwangju-building-art-network",
+          "section": "광주 비공식 미술관을 기록하는 방법"
+        },
+        {
+          "doc_id": "gwangju-building-art-network",
+          "section": "우선 답사할 세 구역"
+        }
+      ]
+    }
+  ]
+}
