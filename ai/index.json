@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 65,
+  "document_count": 66,
   "documents": [
     {
       "id": "living-notes",
@@ -2112,6 +2112,41 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hate-escalation-brakes-history.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/hate-escalation-brakes-history.md",
       "page_url": "https://belorin.github.io/#hate-escalation-brakes-history"
+    },
+    {
+      "id": "gwangju-building-art-network",
+      "title": "광주의 보이지 않는 길거리 미술관: 아파트·사옥 조형물과 작가·건설 네트워크",
+      "aliases": [
+        "광주 공공미술",
+        "광주 건축물 미술",
+        "광주 아파트 조각",
+        "광주 길거리 미술관",
+        "광주 조각 네트워크"
+      ],
+      "category": "문화와 역사",
+      "tags": [
+        "광주",
+        "건축물 미술작품",
+        "공공미술",
+        "아파트 조각",
+        "도시 미술",
+        "건설사",
+        "시행사",
+        "조각가",
+        "미술품 대행",
+        "심의위원회"
+      ],
+      "summary": "광주의 아파트·사옥·오피스텔 앞 건축물 미술을 시대별 미감과 생활환경으로 읽고, 최규철·정춘표·조의현·전용환 등의 작가 계보와 시행사·시공사·대행업체·제작소·심의 구조를 분리해 추적한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 중 확인된 작품·작가·제도 자료 총합 · 발주 관계와 세부 사실 재검증 필요",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gwangju-building-art-network.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/gwangju-building-art-network.md",
+      "page_url": "https://belorin.github.io/#gwangju-building-art-network"
     }
   ]
 }

@@ -199,6 +199,9 @@
 - **[혐오의 가속은 파국 없이 멈출 수 있는가: 집단공황과 정치적 선동의 역사적 브레이크](wiki/hate-escalation-brakes-history.md)** · 별칭: 혐오 가속의 브레이크, 집단공황의 중단, 파국 전 혐오정치 중단, 혐오사회 되돌리기 · 수정: 2026-10-24 · 검토: 대화 내 역사 사례 요약 · 사건별 세부 사실과 수치 외부 재검증 필요
   - 전후의 반성이나 체제 붕괴가 아니라, 집단공황과 혐오 정치가 가속 중에 멈춘 청나라 영혼 도둑 공황·바스크 마녀사냥·적색공포·매카시즘·Popish Plot·드레퓌스기의 메커니즘을 비교한다.
   - [웹페이지](https://belorin.github.io/#hate-escalation-brakes-history) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hate-escalation-brakes-history.md)
+- **[광주의 보이지 않는 길거리 미술관: 아파트·사옥 조형물과 작가·건설 네트워크](wiki/gwangju-building-art-network.md)** · 별칭: 광주 공공미술, 광주 건축물 미술, 광주 아파트 조각, 광주 길거리 미술관, 광주 조각 네트워크 · 수정: 2026-10-24 · 검토: 대화 중 확인된 작품·작가·제도 자료 총합 · 발주 관계와 세부 사실 재검증 필요
+  - 광주의 아파트·사옥·오피스텔 앞 건축물 미술을 시대별 미감과 생활환경으로 읽고, 최규철·정춘표·조의현·전용환 등의 작가 계보와 시행사·시공사·대행업체·제작소·심의 구조를 분리해 추적한다.
+  - [웹페이지](https://belorin.github.io/#gwangju-building-art-network) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gwangju-building-art-network.md)
 
 ## 언어
 
