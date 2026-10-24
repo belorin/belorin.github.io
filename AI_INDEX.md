@@ -226,3 +226,9 @@
 - **[《호프》 해외 흥행과 선판매: 박스오피스와 투자 회수를 분리해서 읽기](wiki/hope-global-box-office.md)** · 별칭: 호프 해외 흥행, 호프 선판매, Hope box office, 한국영화 해외 박스오피스 · 수정: 2026-10-24 · 검토: 2026-10-04 수치 스냅샷·선판매 계약 세부 미공개·후속 시장 재검증 필요
   - 2026년 10월 4일까지 확인된 《호프》의 한국·북미·영국 등 흥행 경로를 추적하고, 해외 선판매 MG와 현지 박스오피스가 제작비 회수에 어떻게 다르게 작동하는지 다른 한국영화와 비교해 설명한다.
   - [웹페이지](https://belorin.github.io/#hope-global-box-office) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hope-global-box-office.md)
+
+## 문학
+
+- **[앤 카슨의 2026년 노벨문학상 수상 반응: ‘미쳤다’와 독자가 작품을 만나는 경로](wiki/anne-carson-nobel-first-reactions.md)** · 별칭: 앤 카슨 노벨상 인터뷰, Anne Carson Nobel reaction, 앤 카슨 미쳤다, Anne Carson crazy, 문학 작품의 발견 · 수정: 2026-10-24 · 검토: 2026년 수상 직후 보도 재인용 · RÚV 영상·영어 축어록 원문 재대조 필요
+  - 앤 카슨의 노벨문학상 수상 직후 'crazy' 반응과 독자들이 작품을 접하고 읽게 되는 경로에 관한 발언을 인터뷰별로 구분하고, 원문·의역·편집상 독해의 경계를 정리한다.
+  - [웹페이지](https://belorin.github.io/#anne-carson-nobel-first-reactions) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/anne-carson-nobel-first-reactions.md)

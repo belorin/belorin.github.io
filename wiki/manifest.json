@@ -2029,6 +2029,37 @@
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-24",
       "updated": "2026-10-24"
+    },
+    {
+      "path": "wiki/anne-carson-nobel-first-reactions.md",
+      "publish": true,
+      "order": 63,
+      "id": "anne-carson-nobel-first-reactions",
+      "title": "앤 카슨의 2026년 노벨문학상 수상 반응: ‘미쳤다’와 독자가 작품을 만나는 경로",
+      "category": "문학",
+      "status": "2026년 수상 직후 보도 재인용 · RÚV 영상·영어 축어록 원문 재대조 필요",
+      "updated": "2026-10-24",
+      "summary": "앤 카슨의 노벨문학상 수상 직후 'crazy' 반응과 독자들이 작품을 접하고 읽게 되는 경로에 관한 발언을 인터뷰별로 구분하고, 원문·의역·편집상 독해의 경계를 정리한다.",
+      "tags": [
+        "앤 카슨",
+        "Anne Carson",
+        "노벨문학상",
+        "2026 노벨문학상",
+        "인터뷰",
+        "문학의 수용",
+        "출판"
+      ],
+      "source": "내부 총합 · 대화 내 보도 재인용 · 영상 및 축어록 외부 재대조 필요",
+      "related": [],
+      "aliases": [
+        "앤 카슨 노벨상 인터뷰",
+        "Anne Carson Nobel reaction",
+        "앤 카슨 미쳤다",
+        "Anne Carson crazy",
+        "문학 작품의 발견"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-24"
     }
   ]
 }

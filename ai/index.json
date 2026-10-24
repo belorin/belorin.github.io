@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 63,
+  "document_count": 64,
   "documents": [
     {
       "id": "living-notes",
@@ -2047,6 +2047,38 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/drone-asymmetric-warfare.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/drone-asymmetric-warfare.md",
       "page_url": "https://belorin.github.io/#drone-asymmetric-warfare"
+    },
+    {
+      "id": "anne-carson-nobel-first-reactions",
+      "title": "앤 카슨의 2026년 노벨문학상 수상 반응: ‘미쳤다’와 독자가 작품을 만나는 경로",
+      "aliases": [
+        "앤 카슨 노벨상 인터뷰",
+        "Anne Carson Nobel reaction",
+        "앤 카슨 미쳤다",
+        "Anne Carson crazy",
+        "문학 작품의 발견"
+      ],
+      "category": "문학",
+      "tags": [
+        "앤 카슨",
+        "Anne Carson",
+        "노벨문학상",
+        "2026 노벨문학상",
+        "인터뷰",
+        "문학의 수용",
+        "출판"
+      ],
+      "summary": "앤 카슨의 노벨문학상 수상 직후 'crazy' 반응과 독자들이 작품을 접하고 읽게 되는 경로에 관한 발언을 인터뷰별로 구분하고, 원문·의역·편집상 독해의 경계를 정리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "2026년 수상 직후 보도 재인용 · RÚV 영상·영어 축어록 원문 재대조 필요",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/anne-carson-nobel-first-reactions.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/anne-carson-nobel-first-reactions.md",
+      "page_url": "https://belorin.github.io/#anne-carson-nobel-first-reactions"
     }
   ]
 }
