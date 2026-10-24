@@ -199,3 +199,9 @@
 - **[주인 없는 땅은 거의 없다: 사막의 공공토지와 미국 BLM](wiki/public-land-and-blm.md)** · 별칭: BLM, Bureau of Land Management, 공공 토지, 블랙록 사막 · 수정: 2026-10-23 · 검토: 토지법·면적 수치·국가별 제도 재검증 필요
   - 무주지와 비민간 토지를 구별하고, 블랙록 사막의 BLM 허가 구조와 미국 서부·호주·나미비아·사하라의 겹쳐진 토지 권리를 설명한다.
   - [웹페이지](https://belorin.github.io/#public-land-and-blm) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/public-land-and-blm.md)
+
+## 영화
+
+- **[《호프》 해외 흥행과 선판매: 박스오피스와 투자 회수를 분리해서 읽기](wiki/hope-global-box-office.md)** · 별칭: 호프 해외 흥행, 호프 선판매, Hope box office, 한국영화 해외 박스오피스 · 수정: 2026-10-24 · 검토: 2026-10-04 수치 스냅샷·선판매 계약 세부 미공개·후속 시장 재검증 필요
+  - 2026년 10월 4일까지 확인된 《호프》의 한국·북미·영국 등 흥행 경로를 추적하고, 해외 선판매 MG와 현지 박스오피스가 제작비 회수에 어떻게 다르게 작동하는지 다른 한국영화와 비교해 설명한다.
+  - [웹페이지](https://belorin.github.io/#hope-global-box-office) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hope-global-box-office.md)

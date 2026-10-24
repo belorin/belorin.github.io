@@ -1781,6 +1781,35 @@
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-24"
+    },
+    {
+      "path": "wiki/hope-global-box-office.md",
+      "publish": true,
+      "order": 55,
+      "id": "hope-global-box-office",
+      "title": "《호프》 해외 흥행과 선판매: 박스오피스와 투자 회수를 분리해서 읽기",
+      "category": "영화",
+      "status": "2026-10-04 수치 스냅샷·선판매 계약 세부 미공개·후속 시장 재검증 필요",
+      "updated": "2026-10-24",
+      "summary": "2026년 10월 4일까지 확인된 《호프》의 한국·북미·영국 등 흥행 경로를 추적하고, 해외 선판매 MG와 현지 박스오피스가 제작비 회수에 어떻게 다르게 작동하는지 다른 한국영화와 비교해 설명한다.",
+      "tags": [
+        "호프",
+        "나홍진",
+        "한국영화",
+        "해외흥행",
+        "선판매",
+        "박스오피스"
+      ],
+      "source": "내부 총합 · 2026-10-04까지 대화 중 확인된 공개 흥행 집계와 선판매 구조 · 이번 편집에서 외부 추가 조사 없음",
+      "related": [],
+      "aliases": [
+        "호프 해외 흥행",
+        "호프 선판매",
+        "Hope box office",
+        "한국영화 해외 박스오피스"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-24"
     }
   ]
 }
