@@ -54,7 +54,7 @@ const buildOutputs=function buildOutputs(manifest,relationSource){
    related_ids:d.related,
    ...(d.kind==="synthesis"?{kind:d.kind,synthesis_type:d.synthesis_type,based_on:d.based_on,note:"편집 해석. 사실 근거로 인용하지 않는다."}:{}),
    ...(d.kind==="fiction"?{kind:d.kind,fiction_part:d.fiction_part,...(d.work?{work:d.work,chapter:d.chapter}:{}),...(d.revised?{revised:true}:{}),note:"소설. 사실 근거로 인용하지 않는다."}:{}),
-   markdown_url:raw+d.path,github_url:gh+d.path,page_url:site+"#"+d.id
+   markdown_url:raw+d.path,github_url:gh+d.path,page_url:site+"notes/"+d.id+"/",app_url:site+"#"+d.id
   }))
  };
  const relations={
@@ -72,7 +72,7 @@ const buildOutputs=function buildOutputs(manifest,relationSource){
   "> 개인 대화 원문을 제공하지 않으며 공개 문서만 안내한다.",
   "","## 이 위키를 읽는 AI에게","",
   "1. 아래 목록의 제목과 설명에서 질문과 관련된 문서를 고른다. 분야를 넘나드는 연결이 많으므로 한 분류에서만 찾지 않는다.",
-  "2. 고른 문서의 Markdown 원문 링크를 실제로 열어 읽는다. 목록의 한 줄 설명만으로 내용을 단정하거나 인용하지 않는다.",
+  "2. 고른 문서의 링크(본문이 들어 있는 문서 페이지)를 실제로 열어 읽는다. 목록의 한 줄 설명만으로 내용을 단정하거나 인용하지 않는다.",
   "3. 문서 페이지 `"+site+"notes/<문서-id>/`에는 본문이 들어 있다. 원문 Markdown은 `"+raw+"wiki/<문서-id>.md`이다. 탐색 화면 주소 `"+site+"#<문서-id>`는 자바스크립트로 본문을 그리므로 HTML만 받으면 본문이 없다.",
   "4. 답할 때는 근거가 된 문서와 절 제목을 밝힌다. 원문에 없는 내용은 위키 밖의 지식이나 추론임을 구분한다.",
   "5. 맨 아래 '종합' 묶음은 여러 문서를 엮은 편집 해석이다. 생각의 실마리로 쓰되 사실의 근거로 인용하지 말고, 각 글이 밝힌 근거 문서를 읽는다.",
@@ -89,8 +89,8 @@ const buildOutputs=function buildOutputs(manifest,relationSource){
   for(const d of docs.filter(x=>x.category===c)){
    md.push("- **["+d.title+"]("+d.path+")** · 별칭: "+d.aliases.join(", ")+" · 수정: "+d.updated+" · 검토: "+d.status);
    md.push("  - "+d.summary);
-   md.push("  - [웹페이지]("+site+"#"+d.id+") · [직접 Markdown]("+raw+d.path+")");
-   ll.push("- ["+d.title+"]("+raw+d.path+"): "+d.summary);
+   md.push("  - [문서 페이지]("+site+"notes/"+d.id+"/) · [직접 Markdown]("+raw+d.path+")");
+   ll.push("- ["+d.title+"]("+site+"notes/"+d.id+"/): "+d.summary);
   }
   md.push("");ll.push("");
  }
@@ -102,8 +102,8 @@ const buildOutputs=function buildOutputs(manifest,relationSource){
    const n=docs.filter(x=>x.work===d.id).length;
    md.push("- **["+d.title+"]("+d.path+")** · "+(n?n+"개 장":"단편")+(d.revised?" · 개고본":"")+" · 수정: "+d.updated);
    md.push("  - "+d.summary);
-   md.push("  - [웹페이지]("+site+"#"+d.id+") · [직접 Markdown]("+raw+d.path+")");
-   ll.push("- ["+d.title+"]("+raw+d.path+"): [소설"+(n?" · "+n+"개 장":"")+"] "+d.summary);
+   md.push("  - [문서 페이지]("+site+"notes/"+d.id+"/) · [직접 Markdown]("+raw+d.path+")");
+   ll.push("- ["+d.title+"]("+site+"notes/"+d.id+"/): [소설"+(n?" · "+n+"개 장":"")+"] "+d.summary);
   }
   md.push("");ll.push("");
  }
@@ -115,8 +115,8 @@ const buildOutputs=function buildOutputs(manifest,relationSource){
   for(const d of syntheses){
    md.push("- **["+d.title+"]("+d.path+")** · "+label[d.synthesis_type]+" · 근거: "+d.based_on.join(", ")+" · 수정: "+d.updated);
    md.push("  - "+d.summary);
-   md.push("  - [웹페이지]("+site+"#"+d.id+") · [직접 Markdown]("+raw+d.path+")");
-   ll.push("- ["+d.title+"]("+raw+d.path+"): ["+label[d.synthesis_type]+"] "+d.summary);
+   md.push("  - [문서 페이지]("+site+"notes/"+d.id+"/) · [직접 Markdown]("+raw+d.path+")");
+   ll.push("- ["+d.title+"]("+site+"notes/"+d.id+"/): ["+label[d.synthesis_type]+"] "+d.summary);
   }
   md.push("");ll.push("");
  }

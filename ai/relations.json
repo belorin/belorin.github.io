@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 467,
+  "edge_count": 478,
   "edges": [
     {
       "from": "living-notes",
@@ -2534,6 +2534,72 @@
     {
       "from": "great-northern-telegraph-east-asia",
       "to": "qing-tributaries-dissolution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "where-novelty-comes-from",
+      "to": "living-notes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "where-novelty-comes-from",
+      "to": "open-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "where-novelty-comes-from",
+      "to": "editing-principles",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "where-novelty-comes-from",
+      "to": "deleuze-negation-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "where-novelty-comes-from",
+      "to": "deleuze-becoming-new",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "where-novelty-comes-from",
+      "to": "deleuze-number-intensity-spatium",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "where-novelty-comes-from",
+      "to": "deleuze-unthinkable-fold-thought",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "where-novelty-comes-from",
+      "to": "post-deleuze-novelty-thinkers",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "where-novelty-comes-from",
+      "to": "jazz-dialogue",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "where-novelty-comes-from",
+      "to": "jazz-live-quartet-case",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "where-novelty-comes-from",
+      "to": "jazz-ensemble-labor",
       "type": "related_to",
       "basis": "manifest.related"
     },

@@ -53,7 +53,7 @@
 - `replay-ladder-human-performance` 재생 사다리: 기술 전환은 인간 수행의 가치를 어디로 옮기는가
 - `jewish-messianic-claimants-kabbalah` 유대교의 수많은 메시아들: 중세의 구원 운동에서 카발라와 샤브타이 츠비까지
 - `starcraft-pluto-ai` Pluto AI와 인간의 스타크래프트: 자가대전이 만든 다른 메타
-- `where-novelty-comes-from` 새로움은 어디서 오는가: 다시 도는 형식, 다시 세운 문제, 식지 않은 차이 · 미게시
+- `where-novelty-comes-from` 새로움은 어디서 오는가: 다시 도는 형식, 다시 세운 문제, 식지 않은 차이
 
 ## 3. 한쪽에서만 건 관련 문서 (90)
 

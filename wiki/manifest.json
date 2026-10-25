@@ -4309,12 +4309,12 @@
     },
     {
       "path": "wiki/where-novelty-comes-from.md",
-      "publish": false,
+      "publish": true,
       "order": 130,
       "id": "where-novelty-comes-from",
       "title": "새로움은 어디서 오는가: 다시 도는 형식, 다시 세운 문제, 식지 않은 차이",
       "category": "종합",
-      "status": "편집 해석 · 게시 검토 전",
+      "status": "편집 해석",
       "updated": "2026-10-26",
       "summary": "들뢰즈의 차이와 문제, 재즈의 코러스와 인터플레이, 이 위키의 편집 원칙을 엮어 코러스로서의 문서, 문제 교체, 열기관으로서의 위키, 접힌 질문, 듣기의 선택이라는 다섯 개념을 제안하는 교차 종합.",
       "tags": [

@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `where-novelty-comes-from` · 분류: 종합 · **미게시** · 원고: [wiki/where-novelty-comes-from.md](../../../wiki/where-novelty-comes-from.md) · 10,125자 · 절 13개
+- id: `where-novelty-comes-from` · 분류: 종합 · 공개 · 원고: [wiki/where-novelty-comes-from.md](../../../wiki/where-novelty-comes-from.md) · 10,125자 · 절 13개
 - 별칭: 새로움은 어디서 오는가, 코러스로서의 문서, 열기관으로서의 위키, 접힌 질문
 - 요약: 들뢰즈의 차이와 문제, 재즈의 코러스와 인터플레이, 이 위키의 편집 원칙을 엮어 코러스로서의 문서, 문제 교체, 열기관으로서의 위키, 접힌 질문, 듣기의 선택이라는 다섯 개념을 제안하는 교차 종합.
 - 태그: 종합, 새로움, 반복, 차이, 즉흥, 위키
