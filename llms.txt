@@ -108,6 +108,7 @@
 - [혐오의 가속은 파국 없이 멈출 수 있는가: 집단공황과 정치적 선동의 역사적 브레이크](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hate-escalation-brakes-history.md): 전후의 반성이나 체제 붕괴가 아니라, 집단공황과 혐오 정치가 가속 중에 멈춘 청나라 영혼 도둑 공황·바스크 마녀사냥·적색공포·매카시즘·Popish Plot·드레퓌스기의 메커니즘을 비교한다.
 - [광주의 보이지 않는 길거리 미술관: 아파트·사옥 조형물과 작가·건설 네트워크](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gwangju-building-art-network.md): 광주의 아파트·사옥·오피스텔 앞 건축물 미술을 시대별 미감과 생활환경으로 읽고, 최규철·정춘표·조의현·전용환 등의 작가 계보와 시행사·시공사·대행업체·제작소·심의 구조를 분리해 추적한다.
 - [그리스만이 철학의 고향인가: 고대 지중해와 서아시아의 사상가·고서·전승](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ancient-philosophy-beyond-greece.md): 그리스 중심 철학사의 제도적 배경과 이집트·메소포타미아·바빌로니아·레반트·페르시아·페니키아·카르타고의 문헌을 시기·장르·전승별로 비교한다.
+- [드레퓌스 사건과 지식인들의 분열: 작가·학자·화가들은 어느 편에 섰는가](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/dreyfus-affair-intellectuals.md): 졸라·클레망소·프루스트·뒤르켐과 드뤼몽·바레스·드가 등 드레퓌스 사건을 둘러싼 지식인·예술가의 진영과 행동을 구분하고, 반유대주의·군 권위·지식인의 공적 책임을 분석한다.
 
 ### 언어
 

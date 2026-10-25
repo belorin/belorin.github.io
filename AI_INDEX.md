@@ -247,7 +247,7 @@
 - **[국지전은 어떻게 세계전쟁이 되는가: 1754·1618·1914·1939·1950과 2026년 다중 전선](wiki/war-escalation-local-to-world.md)** · 별칭: 국지전에서 세계대전, 전쟁의 연결, 1914 확전 모형 · 수정: 2026-10-24 · 검토: 역사 사례와 2026년 정세 비교·대화 내 자료 기반·세부 재검증 필요
   - 세계대전의 핵심을 국지전의 수가 아니라 전쟁들의 전략적 연결에서 찾고, 1754·1618·1914·1939·1950의 확전과 억제 사례를 러시아-유럽·대만·한반도의 동시 위기와 비교한다.
   - [웹페이지](https://belorin.github.io/#war-escalation-local-to-world) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/war-escalation-local-to-world.md)
-- **[혐오의 가속은 파국 없이 멈출 수 있는가: 집단공황과 정치적 선동의 역사적 브레이크](wiki/hate-escalation-brakes-history.md)** · 별칭: 혐오 가속의 브레이크, 집단공황의 중단, 파국 전 혐오정치 중단, 혐오사회 되돌리기 · 수정: 2026-10-24 · 검토: 대화 내 역사 사례 요약 · 사건별 세부 사실과 수치 외부 재검증 필요
+- **[혐오의 가속은 파국 없이 멈출 수 있는가: 집단공황과 정치적 선동의 역사적 브레이크](wiki/hate-escalation-brakes-history.md)** · 별칭: 혐오 가속의 브레이크, 집단공황의 중단, 파국 전 혐오정치 중단, 혐오사회 되돌리기 · 수정: 2026-10-25 · 검토: 대화 내 역사 사례 요약 · 사건별 세부 사실과 수치 외부 재검증 필요
   - 전후의 반성이나 체제 붕괴가 아니라, 집단공황과 혐오 정치가 가속 중에 멈춘 청나라 영혼 도둑 공황·바스크 마녀사냥·적색공포·매카시즘·Popish Plot·드레퓌스기의 메커니즘을 비교한다.
   - [웹페이지](https://belorin.github.io/#hate-escalation-brakes-history) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hate-escalation-brakes-history.md)
 - **[광주의 보이지 않는 길거리 미술관: 아파트·사옥 조형물과 작가·건설 네트워크](wiki/gwangju-building-art-network.md)** · 별칭: 광주 공공미술, 광주 건축물 미술, 광주 아파트 조각, 광주 길거리 미술관, 광주 조각 네트워크 · 수정: 2026-10-24 · 검토: 대화 중 확인된 작품·작가·제도 자료 총합 · 발주 관계와 세부 사실 재검증 필요
@@ -256,6 +256,9 @@
 - **[그리스만이 철학의 고향인가: 고대 지중해와 서아시아의 사상가·고서·전승](wiki/ancient-philosophy-beyond-greece.md)** · 별칭: 그리스 중심 철학사, 그리스 외부 고대 사상, 고대 근동 지혜문학 · 수정: 2026-10-25 · 검토: 내부 총합 · 저자 귀속과 편년 재검증 필요
   - 그리스 중심 철학사의 제도적 배경과 이집트·메소포타미아·바빌로니아·레반트·페르시아·페니키아·카르타고의 문헌을 시기·장르·전승별로 비교한다.
   - [웹페이지](https://belorin.github.io/#ancient-philosophy-beyond-greece) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ancient-philosophy-beyond-greece.md)
+- **[드레퓌스 사건과 지식인들의 분열: 작가·학자·화가들은 어느 편에 섰는가](wiki/dreyfus-affair-intellectuals.md)** · 별칭: 드레퓌스파, 반드레퓌스파, Dreyfus Affair, 드레퓌스 사건의 지식인, 지식인 선언 · 수정: 2026-10-25 · 검토: 대화 내부 총합 · 인물별 서명·입장 및 역사 세부 사료 재검증 필요
+  - 졸라·클레망소·프루스트·뒤르켐과 드뤼몽·바레스·드가 등 드레퓌스 사건을 둘러싼 지식인·예술가의 진영과 행동을 구분하고, 반유대주의·군 권위·지식인의 공적 책임을 분석한다.
+  - [웹페이지](https://belorin.github.io/#dreyfus-affair-intellectuals) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/dreyfus-affair-intellectuals.md)
 
 ## 언어
 
