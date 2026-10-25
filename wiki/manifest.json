@@ -4018,6 +4018,56 @@
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-26"
+    },
+    {
+      "publish": true,
+      "updated": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
+      "review_state": "needs_review",
+      "source": "내부 총합·외부 미검증",
+      "status": "대화 기반 집필",
+      "aliases": [],
+      "path": "wiki/climate-population-villain-logic.md",
+      "order": 123,
+      "id": "climate-population-villain-logic",
+      "title": "탄소예산과 인구 감축의 오류: 기후 디스토피아의 과학과 윤리",
+      "category": "자연과 과학",
+      "summary": "인구 감소와 탄소배출의 단순 비례 계산, 1.5도 예산의 불확실성, 학살 정당화의 논리적 비약",
+      "tags": [
+        "기후위기",
+        "탄소예산",
+        "인구",
+        "디스토피아"
+      ],
+      "related": [
+        "climate-breath-fiction"
+      ]
+    },
+    {
+      "publish": true,
+      "updated": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
+      "review_state": "needs_review",
+      "source": "내부 총합·외부 미검증",
+      "status": "대화 기반 집필",
+      "aliases": [],
+      "path": "wiki/climate-breath-fiction.md",
+      "order": 124,
+      "id": "climate-breath-fiction",
+      "title": "숨결: 기후 구원의 이름으로",
+      "category": "소설",
+      "kind": "fiction",
+      "fiction_part": "work",
+      "revised": false,
+      "summary": "아르카디아와 에바, 아이린의 기후 디스토피아 장면집",
+      "tags": [
+        "디스토피아",
+        "기후소설",
+        "아르카디아"
+      ],
+      "related": [
+        "climate-population-villain-logic"
+      ]
     }
   ]
 }
