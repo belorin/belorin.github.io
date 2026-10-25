@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 432,
+  "edge_count": 440,
   "edges": [
     {
       "from": "living-notes",
@@ -2276,6 +2276,54 @@
     {
       "from": "wiki-operations-pipeline",
       "to": "living-notes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "replay-ladder-human-performance",
+      "to": "silent-film-musician-labor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "replay-ladder-human-performance",
+      "to": "jazz-ensemble-labor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "replay-ladder-human-performance",
+      "to": "japan-physical-ai-skill-transfer",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "replay-ladder-human-performance",
+      "to": "gradual-disempowerment",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "replay-ladder-human-performance",
+      "to": "disempowerment-measurement",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "replay-ladder-human-performance",
+      "to": "ai-capital-labor-distribution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "replay-ladder-human-performance",
+      "to": "ai-transition-policy-gap",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "replay-ladder-human-performance",
+      "to": "open-questions",
       "type": "related_to",
       "basis": "manifest.related"
     },

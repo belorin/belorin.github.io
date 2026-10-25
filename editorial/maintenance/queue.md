@@ -48,7 +48,7 @@
 - `korea-dance-musical-tours` 한국에서 기다릴 대형 뮤지컬: 내한 전망과 춤·아크로바틱 취향의 선택법
 - `bird-vocalization-sparrow` 새소리는 어디까지 번역되었는가: 행동 신호에서 참새의 짹짹까지
 - `dwar-netflix-revival` 《디워》의 2026년 넷플릭스 역주행: 플랫폼 내부 확산과 외부 바이럴
-- `replay-ladder-human-performance` 재생 사다리: 기술 전환은 인간 수행의 가치를 어디로 옮기는가 · 미게시
+- `replay-ladder-human-performance` 재생 사다리: 기술 전환은 인간 수행의 가치를 어디로 옮기는가
 
 ## 3. 한쪽에서만 건 관련 문서 (78)
 

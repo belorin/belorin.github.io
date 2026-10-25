@@ -194,3 +194,7 @@
 - [라캉이 사상권력이던 시절: 『안티 오이디푸스』 전후의 정신분석과 독서 지도](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/lacan-anti-oedipus-history.md): 라캉의 세미나·학파·출판 권력, 1972년 반정신분석의 맥락, 1980~2020년대 변천과 입문 독서 목록.
 - [거대한 철학적 성채는 사라졌는가: 21세기의 정전과 체계 구축](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/philosophical-systems-after-2000.md): 바디우·슬로터다이크·지젝·브랜덤·라뤼엘·스티글레르·위크 후이·네가레스타니·네일 등 체계형 철학의 독서 지도.
 - [사상권력은 누구에게 있는가: 학파·제도·정책과 반발의 지도](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/contemporary-intellectual-power.md): 개념·교육·임상·정책·반발의 힘을 구분하고 AI 안전·젠더·CRT·DEI·신유물론·탈성장 담론의 권력 양식을 검토한다.
+
+### 종합 (편집 해석 · 사실 근거 아님)
+
+- [재생 사다리: 기술 전환은 인간 수행의 가치를 어디로 옮기는가](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/replay-ladder-human-performance.md): [교차 종합] 극장 음악가·드럼키트·숙련 전승을 엮어 재생 사다리, 잔여와 대기실, 압축, 전수의 창, 자리의 고착과 숙련의 고착이라는 다섯 개념을 제안하는 교차 종합.

@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `replay-ladder-human-performance` · 분류: 종합 · **미게시** · 원고: [wiki/replay-ladder-human-performance.md](../../../wiki/replay-ladder-human-performance.md) · 11,264자 · 절 14개
+- id: `replay-ladder-human-performance` · 분류: 종합 · 공개 · 원고: [wiki/replay-ladder-human-performance.md](../../../wiki/replay-ladder-human-performance.md) · 11,264자 · 절 14개
 - 별칭: 재생 사다리, 기술 전환과 인간 수행, 전수의 창
 - 요약: 극장 음악가·드럼키트·숙련 전승을 엮어 재생 사다리, 잔여와 대기실, 압축, 전수의 창, 자리의 고착과 숙련의 고착이라는 다섯 개념을 제안하는 교차 종합.
 - 태그: 종합, 기술 전환, 노동, 숙련, 재생, 협상력
