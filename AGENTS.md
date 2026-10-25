@@ -9,7 +9,7 @@
 - `wiki/manifest.json`: 문서 ID·제목·분류·상태·원본 출처·관련 문서·사이트 게시 여부(`publish`) 등 **메타데이터의 정본**. 본문은 복제하지 않는다.
 - `wiki/relations.json`: 근거 절과 설명이 명시된 **확인된 의미 관계**의 정본. `manifest.related`는 일반 연관.
 - `editorial/crosslinks/index.json`: **간접적 유비·해석적 관계의 검토 대기 제안 장부**. 제안 내용을 자동으로 본문이나 의미 관계 정본에 집필하지 않는다.
-- `editorial/map/index.md`, `editorial/map/docs/<id>.md`: **자동 생성 편집 지도**(`scripts/build-wiki-map.mjs`). 미게시 포함 모든 원고의 제목·별칭 한 줄 지도와, 문서별 카드(요약·절 목차·절별 분량과 첫 문장·장부 반영 기록·관계·제안). 후보를 찾는 도구이며 본문 판정을 대신하지 않는다. 직접 수정하지 않는다.
+- `editorial/map/index.md`, `editorial/map/docs/<id>.md`, `editorial/map/knowledge.md`: **자동 생성 편집 지도**(`scripts/build-wiki-map.mjs`). 미게시 포함 모든 원고의 제목·별칭 한 줄 지도, 문서별 카드(요약·소제목 경로·절별 줄 범위·분량·해시·첫 문장·장부 반영 기록·관계·제안), 장부를 뒤집은 지식 표제 역색인(표제 → 문서·절 → 배치·보류 상태). 후보를 찾는 도구이며 본문 판정을 대신하지 않는다. 직접 수정하지 않는다.
 - `scripts/search-wiki.mjs`: 로컬에서 사용하는 문자 n-gram·연관 그래프 기반 후보 검색(임베딩 아님). 일반 채팅에서 실행할 수 없으면 색인과 Markdown을 읽고 AI가 의미를 비교한다.
 - `scripts/validate-crosslinks.mjs` / `scripts/test-crosslinks.mjs`: 제안 근거 절과 편집 상태, 오프라인 검색 검증.
 - `AI_INDEX.md`, `ai/index.json`, `ai/relations.json`, `llms.txt`: **자동 생성 AI 탐색 자료**. 외부 공개 대상은 `publish:true`만이며 생성물을 직접 수정하지 않는다.
@@ -22,7 +22,7 @@
 - `index.html`, `style.css`, `app.js`: 정적 사이트 뷰어. 첫 화면은 무작위 글·주제·최근 갱신 인덱스, `/#all`은 검색 목록, `/#<문서-id>`는 목차·관련 글·개정 이력 화면이다. 본문 렌더러는 단락, `##`~`####` 소제목, 목록, 강조, 인라인 코드, 링크, Markdown 표(열 정렬·가로 스크롤)를 지원한다. 데이터의 정본은 바꾸지 않는다.
 
 ## 편집 절차
-1. `AGENTS.md`와 `WIKI_PROTOCOL.md`는 **전부** 읽는다. 그다음 **`editorial/map/index.md`(전체 지도)** 로 후보 문서를 찾고, 후보의 **문서 카드 `editorial/map/docs/<id>.md`** 에서 절 목차와 장부 기록을 확인한 뒤, 대조할 **절 본문**을 `wiki/*.md`에서 읽는다. 정의·전제 변경, 절 구조 재편·분할, 기존 서술과의 충돌, 카드로 위치를 판단할 수 없을 때는 **문서 전문**을 읽는다(WIKI_PROTOCOL §8A). `AI_INDEX.md`·`ai/index.json`·`wiki/manifest.json` 전체를 매번 읽을 필요는 없다.
+1. `AGENTS.md`와 `WIKI_PROTOCOL.md`는 **전부** 읽는다. 그다음 **`editorial/map/index.md`(전체 지도)** 로 후보 문서를 찾고, 후보의 **문서 카드 `editorial/map/docs/<id>.md`** 에서 절 목차와 장부 기록을 확인한 뒤(특정 논점의 처리 여부는 `editorial/map/knowledge.md`를 낱말로 검색하며 통째로 읽지 않는다), 대조할 **절 본문**을 `wiki/*.md`에서 읽는다. 정의·전제 변경, 절 구조 재편·분할, 기존 서술과의 충돌, 카드로 위치를 판단할 수 없을 때는 **문서 전문**을 읽는다(WIKI_PROTOCOL §8A). `AI_INDEX.md`·`ai/index.json`·`wiki/manifest.json` 전체를 매번 읽을 필요는 없다.
 2. 사용자 발언 / AI 해석 / 대화 안의 주장 / 사실 확인 결과를 구분한다. 원본 대화에 없는 내용을 창작하지 않는다.
 3. **직접 관련된 주제는 Markdown 문서에서 증보**하고, 독립 주제만 새 `.md`로 추가한다. `wiki/manifest.json`의 항목과 `related`도 함께 갱신한다. **간접적인 철학적 연관·유비는 자동 증보하지 말고 `editorial/crosslinks/index.json`에 `proposed`로 남긴다.**
 4. `id`는 소문자 영문·숫자·하이픈으로 고유하게 유지한다. `related`와 사이트용 내부 링크의 대상은 실제 게시 문서여야 한다.
@@ -51,4 +51,4 @@
 - `approved`는 집필 완료가 아니며 `integrated`는 실제 수정과 검수 후에만 사용한다.
 
 ## 이행 주의
-현재 사이트의 23개 공개 노트는 해당하는 Markdown 원고에서 생성한다. 일부 과거에 존재하던 Markdown은 `publish:false`로 두어 기존 웹사이트의 표시 상태를 유지했다. 게시 여부 변경은 별도 편집 결정이다. Markdown 본문과 생성 결과를 별도로 고치면 분기가 발생하므로 금지한다.
+사이트의 공개 노트는 모두 해당하는 Markdown 원고에서 생성한다(현재 문서 수는 `editorial/map/index.md` 참조). 일부 과거에 존재하던 Markdown은 `publish:false`로 두어 기존 웹사이트의 표시 상태를 유지했다. 게시 여부 변경은 별도 편집 결정이다. Markdown 본문과 생성 결과를 별도로 고치면 분기가 발생하므로 금지한다.
