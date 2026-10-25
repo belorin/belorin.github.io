@@ -265,6 +265,15 @@
 - **[세계는 다시 1914·1929·1939년으로 향하는가: 벨 에포크와 세 번의 파국을 비교하는 법](wiki/world-crisis-historical-analogies.md)** · 별칭: 현대와 대공황 직전 비교, 벨 에포크의 종언, 세계대전 전야의 현재, 현대 위기의 역사적 유비 · 수정: 2026-10-25 · 검토: 현재 접근 가능한 논의와 코어 시범자료 기반 · 외부 재검증 필요
   - 벨 에포크, 1929년 대공황, 1930년대 후반의 서로 다른 위기 메커니즘과 현대의 완충·연쇄 위험을 비교한다.
   - [웹페이지](https://belorin.github.io/#world-crisis-historical-analogies) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-crisis-historical-analogies.md)
+- **[베니스 비엔날레: 정원 박람회에서 세계 미술의 판단 장치까지](wiki/venice-biennale-history.md)** · 별칭: 베니스 비엔날레 역사, Biennale di Venezia, Venice Biennale, 베니스 효과 · 수정: 2026-10-25 · 검토: 대화 내부 자료 총합 · 연대·관람 수치와 시장 효과 재검증 필요
+  - 1895년의 도시 박람회에서 국가관·냉전·1968년의 제도 비판·큐레이터 시대를 거쳐 반년간 스타와 학술적 평판을 만드는 구조를 분석한다.
+  - [웹페이지](https://belorin.github.io/#venice-biennale-history) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/venice-biennale-history.md)
+- **[자르디니와 아르세날레: 베니스 비엔날레의 두 공간과 국가관 지도](wiki/venice-biennale-sites-pavilions.md)** · 별칭: 자르디니, Giardini della Biennale, 아르세날레, Arsenale, 베니스 국가관 목록 · 수정: 2026-10-25 · 검토: 공간과 국가관 목록 대화 총합 · 2026 개관·참여 배치 확인 필요
+  - 정원형 국가관 마을 자르디니와 옛 해군 공창 아르세날레의 체험 차이, 30개 국가명과 공동관·건물 수의 함정, 2026년 배치를 구분한다.
+  - [웹페이지](https://belorin.github.io/#venice-biennale-sites-pavilions) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/venice-biennale-sites-pavilions.md)
+- **[2026 베니스 비엔날레: 'In Minor Keys'의 비평, 정치적 파열과 느린 평가](wiki/venice-biennale-2026-critical-reception.md)** · 별칭: 2026 베니스 비엔날레, In Minor Keys, 2026 Venice Biennale, 코요 쿠오 비엔날레 · 수정: 2026-10-25 · 검토: 대화에 제시된 비평·보도 정리 · 개별 원문·작품·사건 재검증 필요
+  - 코요 쿠오의 사후 구현과 중앙전의 과밀·정치적 회피 논란, 대립하는 평론 및 주목받은 국가관·작품을 장기 평가의 문제와 연결한다.
+  - [웹페이지](https://belorin.github.io/#venice-biennale-2026-critical-reception) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/venice-biennale-2026-critical-reception.md)
 
 ## 언어
 

@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 95,
+  "document_count": 98,
   "documents": [
     {
       "id": "living-notes",
@@ -3122,6 +3122,112 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/mood-led-music-listening.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/mood-led-music-listening.md",
       "page_url": "https://belorin.github.io/#mood-led-music-listening"
+    },
+    {
+      "id": "venice-biennale-history",
+      "title": "베니스 비엔날레: 정원 박람회에서 세계 미술의 판단 장치까지",
+      "aliases": [
+        "베니스 비엔날레 역사",
+        "Biennale di Venezia",
+        "Venice Biennale",
+        "베니스 효과"
+      ],
+      "category": "문화와 역사",
+      "tags": [
+        "베니스 비엔날레",
+        "미술사",
+        "세계 박람회",
+        "국가관",
+        "1968년",
+        "큐레이터",
+        "미술 시장",
+        "스터디셀러"
+      ],
+      "summary": "1895년의 도시 박람회에서 국가관·냉전·1968년의 제도 비판·큐레이터 시대를 거쳐 반년간 스타와 학술적 평판을 만드는 구조를 분석한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 내부 자료 총합 · 연대·관람 수치와 시장 효과 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "venice-biennale-sites-pavilions",
+        "venice-biennale-2026-critical-reception"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/venice-biennale-history.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/venice-biennale-history.md",
+      "page_url": "https://belorin.github.io/#venice-biennale-history"
+    },
+    {
+      "id": "venice-biennale-sites-pavilions",
+      "title": "자르디니와 아르세날레: 베니스 비엔날레의 두 공간과 국가관 지도",
+      "aliases": [
+        "자르디니",
+        "Giardini della Biennale",
+        "아르세날레",
+        "Arsenale",
+        "베니스 국가관 목록"
+      ],
+      "category": "문화와 역사",
+      "tags": [
+        "자르디니",
+        "Giardini",
+        "아르세날레",
+        "Arsenale",
+        "국가관",
+        "전시 공간",
+        "베네치아",
+        "한국관"
+      ],
+      "summary": "정원형 국가관 마을 자르디니와 옛 해군 공창 아르세날레의 체험 차이, 30개 국가명과 공동관·건물 수의 함정, 2026년 배치를 구분한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "공간과 국가관 목록 대화 총합 · 2026 개관·참여 배치 확인 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "venice-biennale-history",
+        "venice-biennale-2026-critical-reception"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/venice-biennale-sites-pavilions.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/venice-biennale-sites-pavilions.md",
+      "page_url": "https://belorin.github.io/#venice-biennale-sites-pavilions"
+    },
+    {
+      "id": "venice-biennale-2026-critical-reception",
+      "title": "2026 베니스 비엔날레: 'In Minor Keys'의 비평, 정치적 파열과 느린 평가",
+      "aliases": [
+        "2026 베니스 비엔날레",
+        "In Minor Keys",
+        "2026 Venice Biennale",
+        "코요 쿠오 비엔날레"
+      ],
+      "category": "문화와 역사",
+      "tags": [
+        "2026 베니스 비엔날레",
+        "In Minor Keys",
+        "Koyo Kouoh",
+        "비평",
+        "전시 기획",
+        "정치와 예술",
+        "국가관",
+        "동시대미술"
+      ],
+      "summary": "코요 쿠오의 사후 구현과 중앙전의 과밀·정치적 회피 논란, 대립하는 평론 및 주목받은 국가관·작품을 장기 평가의 문제와 연결한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화에 제시된 비평·보도 정리 · 개별 원문·작품·사건 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "venice-biennale-history",
+        "venice-biennale-sites-pavilions"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/venice-biennale-2026-critical-reception.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/venice-biennale-2026-critical-reception.md",
+      "page_url": "https://belorin.github.io/#venice-biennale-2026-critical-reception"
     }
   ]
 }
