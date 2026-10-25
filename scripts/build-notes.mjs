@@ -49,30 +49,72 @@ for (const entry of entries) {
   if (seenIds.has(entry.id) || seenPaths.has(entry.path)) fail("duplicate id or path: " + entry.id);
   seenIds.add(entry.id); seenPaths.add(entry.path);
 }
-// Synthesis notes (SYNTHESIS.md) weave existing articles into an editorial
-// interpretation. They are marked, kept in their own category and never serve
-// as the basis of another document.
+// Special kinds have their own reserved category and rules:
+// - synthesis (SYNTHESIS.md): an editorial interpretation woven from articles;
+//   never the basis of another document.
+// - fiction (FICTION.md): a work, or one chapter of a work, kept as fiction.
 const SYNTHESIS_TYPES = new Set(["cross", "concept", "critique"]);
+const RESERVED = { synthesis: "종합", fiction: "소설" };
+const KIND_FIELDS = { synthesis: ["synthesis_type", "based_on"], fiction: ["fiction_part", "work", "chapter", "revised"] };
+const byEntryId = new Map(entries.map(e => [e.id, e]));
 const kinds = new Map(entries.map(e => [e.id, e.kind]));
+const chapterNumbers = new Map();
 for (const entry of entries) {
-  const body = () => fs.readFileSync(path.resolve(root, entry.path), "utf8");
-  if (entry.kind === undefined) {
-    if (entry.category === "종합") fail(entry.id + ": category 종합 is reserved for kind synthesis");
-    if (entry.synthesis_type !== undefined || entry.based_on !== undefined) fail(entry.id + ": synthesis fields require kind synthesis");
+  const text = fs.readFileSync(path.resolve(root, entry.path), "utf8");
+  checkOriginalBlocks(entry.id, text);
+  for (const [kind, category] of Object.entries(RESERVED)) {
+    if (entry.category === category && entry.kind !== kind) fail(entry.id + ": category " + category + " is reserved for kind " + kind);
+    if (entry.kind !== kind && KIND_FIELDS[kind].some(f => entry[f] !== undefined)) fail(entry.id + ": " + KIND_FIELDS[kind].join("/") + " require kind " + kind);
+  }
+  if (entry.kind === undefined) continue;
+  if (!RESERVED[entry.kind]) fail(entry.id + ": unknown kind " + entry.kind);
+  if (entry.category !== RESERVED[entry.kind]) fail(entry.id + ": " + entry.kind + " must use category " + RESERVED[entry.kind]);
+  if (entry.kind === "fiction") {
+    if (entry.revised !== undefined && typeof entry.revised !== "boolean") fail(entry.id + ": revised must be true or false");
+    if (entry.fiction_part === "work") {
+      if (entry.work !== undefined || entry.chapter !== undefined) fail(entry.id + ": a work has no work/chapter fields");
+    } else if (entry.fiction_part === "chapter") {
+      const work = byEntryId.get(entry.work);
+      if (!work || work.kind !== "fiction" || work.fiction_part !== "work") fail(entry.id + ": work must be the id of a fiction work");
+      if (!Number.isInteger(entry.chapter) || entry.chapter < 1) fail(entry.id + ": chapter must be a positive integer");
+      const key = entry.work + "#" + entry.chapter;
+      if (chapterNumbers.has(key)) fail(entry.id + ": duplicate chapter " + entry.chapter + " of " + entry.work);
+      chapterNumbers.set(key, entry.id);
+      const workText = fs.readFileSync(path.resolve(root, work.path), "utf8");
+      if (!workText.includes("](./" + entry.id + ".md)")) fail(entry.work + ": work must link its chapter ./" + entry.id + ".md");
+    } else fail(entry.id + ": fiction_part must be work or chapter");
     continue;
   }
-  if (entry.kind !== "synthesis") fail(entry.id + ": unknown kind " + entry.kind);
-  if (entry.category !== "종합") fail(entry.id + ": synthesis must use category 종합");
   if (!SYNTHESIS_TYPES.has(entry.synthesis_type)) fail(entry.id + ": synthesis_type must be cross, concept or critique");
   const basis = entry.based_on;
   if (!Array.isArray(basis) || basis.length < (entry.synthesis_type === "critique" ? 1 : 2)) fail(entry.id + ": based_on needs " + (entry.synthesis_type === "critique" ? "1+" : "2+") + " document ids");
   if (new Set(basis).size !== basis.length) fail(entry.id + ": duplicate based_on id");
-  const text = body();
   for (const id of basis) {
     if (!kinds.has(id)) fail(entry.id + ": based_on unknown id " + id);
     if (kinds.get(id) === "synthesis") fail(entry.id + ": based_on must not cite another synthesis (" + id + ")");
+    if (kinds.get(id) === "fiction" && entry.synthesis_type !== "critique") fail(entry.id + ": fiction can be the basis only of a critique (" + id + ")");
     if (!text.includes("](./" + id + ".md)")) fail(entry.id + ": body must link its basis ./" + id + ".md");
   }
+}
+// A revised passage keeps its original in a folded block (FICTION.md):
+//   :::원본  ...original text...  :::
+// Blocks must close and contain no headings, so tables of contents, cards
+// and ledger section checks only ever see the current text.
+function checkOriginalBlocks(id, text) {
+  let open = false;
+  for (const line of text.replace(/\r\n/g, "\n").split("\n")) {
+    const value = line.trim();
+    if (/^:::\s*원본(?:\s|$)/.test(value)) {
+      if (open) fail(id + ": nested :::원본 block");
+      open = true;
+    } else if (value === ":::") {
+      if (!open) fail(id + ": ::: without an opening :::원본");
+      open = false;
+    } else if (open && /^#{1,6}\s/.test(value)) {
+      fail(id + ": no headings inside a :::원본 block (use bold text)");
+    }
+  }
+  if (open) fail(id + ": unclosed :::원본 block");
 }
 const published = entries.filter(e => e.publish === true).sort((a,b)=>a.order-b.order);
 const publishedIds = new Set(published.map(e=>e.id));
@@ -88,7 +130,10 @@ const notes = published.map(entry => {
     id:entry.id, title:entry.title, category:entry.category, status:entry.status,
     updated:entry.updated, summary:entry.summary, tags:entry.tags,
     source:entry.source, related:entry.related,
-    ...(entry.kind ? {kind:entry.kind, synthesis_type:entry.synthesis_type, based_on:entry.based_on} : {}),
+    ...(entry.kind === "synthesis" ? {kind:entry.kind, synthesis_type:entry.synthesis_type, based_on:entry.based_on} : {}),
+    ...(entry.kind === "fiction" ? {kind:entry.kind, fiction_part:entry.fiction_part,
+      ...(entry.fiction_part === "chapter" ? {work:entry.work, chapter:entry.chapter} : {}),
+      ...(entry.revised ? {revised:true} : {})} : {}),
     body:readBody(entry)
   };
 });
@@ -96,6 +141,7 @@ for (const note of notes) {
   for (const id of note.based_on ?? []) {
     if (!publishedIds.has(id)) fail(note.id + ": published synthesis cites unpublished basis " + id);
   }
+  if (note.work && !publishedIds.has(note.work)) fail(note.id + ": published chapter of an unpublished work " + note.work);
   for (const match of note.body.matchAll(/\]\(#([a-z0-9-]+)\)/g)) {
     if (!publishedIds.has(match[1])) fail(note.id + ": broken site link #" + match[1]);
   }

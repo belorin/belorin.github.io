@@ -68,8 +68,9 @@ const bigrams = text => {
   }
   return set;
 };
-// Syntheses resemble their basis by design, so they are left out of similarity pairs.
-const articles = docs.filter(d => d.kind !== "synthesis");
+// Syntheses resemble their basis by design and novels are not knowledge
+// articles, so both are left out of similarity pairs.
+const articles = docs.filter(d => !d.kind);
 const signature = new Map(articles.map(d => [d.id, bigrams([d.title, ...(d.aliases ?? []), ...headings(d.id).filter(h => !GENERIC.has(h))].join(" "))]));
 const similar = [];
 for (let i = 0; i < articles.length; i++) for (let j = i + 1; j < articles.length; j++) {

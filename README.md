@@ -11,7 +11,7 @@ https://belorin.github.io
 - **`wiki/relations.json`**: 근거와 유형이 확인된 관계의 정본
 - **`AI_INDEX.md`, `ai/index.json`, `ai/relations.json`, `llms.txt`**: 자동 생성되는 AI 탐색 자료
 - **`notes.json`**: 위 두 정본으로부터 생성하는 웹사이트 데이터 (**직접 수정하지 않음**)
-- **`WIKI_PROTOCOL.md`**: 대화 증보 규칙(증보에 필요한 규칙 전부). **`MAINTENANCE.md`**: 정비 절차. **`SYNTHESIS.md`**: 종합 절차. **`AGENTS.md`**: 작업별로 읽을 문서를 안내하는 짧은 지침
+- **`WIKI_PROTOCOL.md`**: 대화 증보 규칙(증보에 필요한 규칙 전부). **`MAINTENANCE.md`**: 정비 절차. **`SYNTHESIS.md`**: 종합 절차. **`FICTION.md`**: 소설 보존 절차. **`AGENTS.md`**: 작업별로 읽을 문서를 안내하는 짧은 지침
 - **`editorial/ingestions/`**: 직접 증보의 위치와 보류 상태를 기록하는 편집 장부 (대화 원문 없음)
 - **`editorial/crosslinks/index.json`**: 직접 입증되지 않은 개념적 유비·교차 편집 제안 장부. 자동 집필 대상이 아님.
 
@@ -74,6 +74,15 @@ Pages는 브랜치 배포가 아니라 GitHub Actions 배포를 사용한다(Set
 - manifest의 `kind: "synthesis"`, `synthesis_type`, `based_on`, `category: "종합"`으로 등록한다. 처음에는 `publish: false`로 쓰고 소유자가 게시를 결정한다.
 - 사이트에서는 보라색 "종합" 말머리와 안내 상자로 표시되며, 전체 목록·문서 수·무작위 글에서 빠지고 "종합" 주제로 따로 모인다. AI 색인·`llms.txt`·편집 지도에서도 별도 묶음이다.
 - 종합은 다른 글의 사실 근거가 되지 않는다. 다른 종합의 근거로 쓰거나 대화 지식을 증보하면 빌드가 실패한다.
+
+## 소설
+
+대화에서 나온 소설은 해설로 바꾸지 않고 작품으로 보존한다. 절차는 [`FICTION.md`](FICTION.md)에 있으며, 대화에 소설 본문이 있거나 소설을 이어 쓸 때만 읽는다.
+
+- 판본은 최종본·가장 나중의 퇴고본을 기본으로 하고, 갈라지는 판본은 이본으로 남긴다.
+- 최소 손질은 항상 하고, 품질이 낮으면 판단해서 개고한다. 개고한 부분 뒤에는 원본을 `:::원본 … :::` 블록으로 겹쳐 두며, 사이트에서는 접혀 있다가 펼치면 보인다.
+- 긴 작품은 작품 문서(작품 노트와 목차)와 장별 문서로 나눈다. manifest는 `kind: "fiction"`, `fiction_part`(`work`/`chapter`), `work`, `chapter`, `revised`, `category: "소설"`.
+- 작품은 문서 수 합계에 들어가고 "소설" 주제로 모인다. 장 문서는 목록·합계·무작위 글에서 빠진다. 편집 지도에서는 작품당 한 줄이며 일상 증보에서 순회하지 않는다. 소설은 사실 근거로 인용하지 않는다(빌드가 검증).
 
 ## 향후 원고의 문체
 
