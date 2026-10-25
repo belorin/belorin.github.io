@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 622개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 623개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (3)
 
@@ -411,7 +411,7 @@
 - 프로이트 비판 대상의 단순화 방지 → `freud-before-anti-oedipus` § 『안티 오이디푸스』의 비판 대상을 지나치게 단순화하지 않기 · `ing-20261025-deleuze-intensity-hegel-freud`
 - 프로이트 입문서와 라캉 입문서의 목적 차이 → `freud-before-anti-oedipus` § 1972년을 위한 라캉 독서: 프로이트 원전을 대신하는 것이 아니다 · `ing-20261026-dreams-lacan-philosophy-power`
 
-## 운영 (40)
+## 운영 (41)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -453,8 +453,9 @@
 - 정비 대기열의 신호 종류와 첫 생성 시점의 수치 → `wiki-operations-pipeline` § 정비 대기열 · `ing-20261026-wiki-operations-pipeline`
 - 정비 권한 세 단계, 분량만으로 분할하지 않는 원칙, 보고서와 버전 로그 → `wiki-operations-pipeline` § 정비의 권한과 기록 · `ing-20261026-wiki-operations-pipeline`
 - 해시 주소가 자바스크립트 없는 LLM 열람에서 본문을 주지 못하는 문제와 입구 정비 → `wiki-operations-pipeline` § 링크를 건네받은 LLM이 읽는 것 · `ing-20261026-wiki-operations-pipeline`
-- 종합·해석 장르의 표시·집계 분리와 근거 재인용 금지, notes.json 분할, 분류 정비 → `wiki-operations-pipeline` § 미뤄 둔 것 · `ing-20261026-wiki-operations-pipeline`
+- 질문 답변 저장, notes.json 분할, 분류 정비 → `wiki-operations-pipeline` § 미뤄 둔 것 · `ing-20261026-wiki-operations-pipeline`
 - 구축사 05절 설계의 구현 기록 위치 안내 → `wiki-building-history` § 관련 문서와 검증 가능한 이력 · `ing-20261026-wiki-operations-pipeline`
+- 종합의 세 유형과 편집 해석 표시·근거 재인용 금지·미게시 우선 원칙 → `wiki-operations-pipeline` § 셋째 작업: 종합 · `ing-20261026-wiki-operations-pipeline`
 
 ## 사회와 제도 (36)
 

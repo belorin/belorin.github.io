@@ -22,6 +22,14 @@ const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({
   '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;'
 }[c]));
 const validId = id => /^[a-z0-9-]+$/.test(id);
+// Synthesis notes are editorial interpretations woven from articles (SYNTHESIS.md):
+// marked with their own color and kept out of article totals and random picks.
+const SYNTHESIS_LABELS = {cross:'교차 종합', concept:'개념 길잡이', critique:'편집 비평'};
+const isSynthesis = note => note.kind === 'synthesis';
+const articles = () => notes.filter(n => !isSynthesis(n));
+const synthesisBadge = note => isSynthesis(note)
+  ? '<span class="badge-synthesis">종합 · ' + esc(SYNTHESIS_LABELS[note.synthesis_type] || '해석') + '</span> '
+  : '';
 const byId = id => notes.find(note => note.id === id);
 const permalink = id => '#' + encodeURIComponent(id);
 const sorted = items => items.slice().sort((a,b) =>
@@ -141,7 +149,7 @@ function renderMarkdown(markdown, docId) {
 }
 
 function pickRandom(except) {
-  const choices = notes.filter(n => n.id !== except);
+  const choices = articles().filter(n => n.id !== except);
   if (!choices.length) return null;
   return choices[Math.floor(Math.random() * choices.length)];
 }
@@ -153,14 +161,14 @@ function goRandom() {
 function showFilters() {
   const counts = new Map();
   for (const n of notes) counts.set(n.category, (counts.get(n.category) || 0) + 1);
-  const choices = ['전체', ...[...counts.keys()].sort((a,b) =>
+  const choices = ['전체', ...[...counts.keys()].sort((a,b) => (a === '종합') - (b === '종합') ||
     counts.get(b) - counts.get(a) || a.localeCompare(b, 'ko'))];
   filters.replaceChildren();
   for (const name of choices) {
     const button = document.createElement('button');
-    const count = name === '전체' ? notes.length : counts.get(name);
+    const count = name === '전체' ? articles().length : counts.get(name);
     button.type = 'button';
-    button.className = name === category ? 'active' : '';
+    button.className = (name === category ? 'active' : '') + (name === '종합' ? ' synthesis' : '');
     button.setAttribute('aria-pressed', String(name === category));
     button.innerHTML = '<span>' + esc(name) + '</span><span class="filter-count">' + count + '</span>';
     button.addEventListener('click', () => {
@@ -177,7 +185,7 @@ function home() {
   const dateSorted = sorted(notes);
   const categoryCounts = [...new Set(notes.map(n => n.category))]
     .map(name => ({name, count:notes.filter(n => n.category === name).length}))
-    .sort((a,b) => b.count - a.count || a.name.localeCompare(b.name,'ko'));
+    .sort((a,b) => (a.name === '종합') - (b.name === '종합') || b.count - a.count || a.name.localeCompare(b.name,'ko'));
   const feature = randomPick
     ? '<div class="random-card"><div><div class="eyebrow">오늘의 무작위 문서</div>' +
       '<h2>' + esc(randomPick.title) + '</h2><p>' + esc(randomPick.summary) + '</p>' +
@@ -185,28 +193,29 @@ function home() {
       '<button type="button" class="outline-button" data-shuffle>다른 글 ↻</button></div>'
     : '';
   view.innerHTML =
-    '<div class="page-heading"><h1>문서 탐색</h1><p>현재 ' + notes.length +
-    '개의 문서. 주제를 고르거나 검색해서 바로 읽을 수 있습니다.</p></div>' +
+    '<div class="page-heading"><h1>문서 탐색</h1><p>현재 ' + articles().length + '개의 문서' +
+    (notes.length > articles().length ? ' · 종합 ' + (notes.length - articles().length) + '편' : '') +
+    '. 주제를 고르거나 검색해서 바로 읽을 수 있습니다.</p></div>' +
     feature +
     '<section><div class="section-heading"><h2>주제별 보기</h2><a href="#all">전체 목록 →</a></div>' +
     '<div class="topic-grid">' + categoryCounts.map(c =>
-      '<button class="topic" type="button" data-category="' + esc(c.name) + '">' +
+      '<button class="topic' + (c.name === '종합' ? ' synthesis' : '') + '" type="button" data-category="' + esc(c.name) + '">' +
       esc(c.name) + '<span>' + c.count + '개 →</span></button>').join('') + '</div></section>' +
     '<section><div class="section-heading"><h2>최근 갱신</h2><a href="#all">모든 문서 →</a></div>' +
     '<ul class="compact-list">' + dateSorted.slice(0,8).map(n =>
-      '<li><a href="' + permalink(n.id) + '"><span class="item-title">' + esc(n.title) +
+      '<li><a href="' + permalink(n.id) + '"><span class="item-title">' + synthesisBadge(n) + esc(n.title) +
       '</span><span class="item-date">' + esc(n.updated) + '</span></a></li>').join('') +
     '</ul></section>';
 }
 function listing() {
   const q = search.value.trim();
   const matches = sorted(notes.filter(n =>
-    (category === '전체' || n.category === category) && (!q || textMatch(n))));
+    (category === '전체' ? (q || !isSynthesis(n)) : n.category === category) && (!q || textMatch(n))));
   view.innerHTML =
     '<div class="page-heading"><h1>' + (q ? '검색 결과' : category === '전체' ? '전체 문서' : esc(category)) +
     '</h1><p>' + matches.length + '개 문서' + (q ? ' · 검색어: ' + esc(q) : '') + '</p></div>' +
     (matches.length
-      ? matches.map(n => '<div class="list-item"><div class="meta">' + esc(n.category) +
+      ? matches.map(n => '<div class="list-item"><div class="meta">' + synthesisBadge(n) + esc(n.category) +
         ' · ' + esc(n.updated) + '</div><h2><a href="' + permalink(n.id) + '">' +
         esc(n.title) + '</a></h2><p>' + esc(n.summary) + '</p></div>').join('')
       : '<div class="empty">해당하는 문서가 없습니다. 검색어나 주제를 변경해 보세요.</div>');
@@ -231,8 +240,16 @@ function article(note) {
     encodeURIComponent(note.id) + '.md';
   const commits = 'https://github.com/belorin/belorin.github.io/commits/main/wiki/' +
     encodeURIComponent(note.id) + '.md';
-  view.innerHTML = '<article class="reader"><a class="back" href="#all">← 문서 목록</a>' +
-    '<header class="reader-header"><div class="meta">' + esc(note.category) +
+  const basis = (note.based_on || []).filter(byId);
+  const synthesisNote = isSynthesis(note)
+    ? '<aside class="synthesis-note"><strong>종합 노트</strong> 이 글은 위키의 여러 문서를 엮은 편집 해석입니다. ' +
+      '사실의 근거는 아래 문서에 있으며, 이 글 자체는 다른 문서의 근거로 쓰지 않습니다.' +
+      (basis.length ? '<span class="synthesis-basis">근거 문서: ' + basis.map(id =>
+        '<a href="' + permalink(id) + '">' + esc(byId(id).title) + '</a>').join(' · ') + '</span>' : '') +
+      '</aside>'
+    : '';
+  view.innerHTML = '<article class="reader' + (isSynthesis(note) ? ' is-synthesis' : '') + '"><a class="back" href="#all">← 문서 목록</a>' +
+    '<header class="reader-header"><div class="meta">' + synthesisBadge(note) + esc(note.category) +
     ' · ' + esc(note.updated) + ' · ' + esc(note.status) + '</div>' +
     '<h1>' + esc(note.title) + '</h1>' +
     '<p class="reader-lead">' + esc(note.summary) + '</p>' +
@@ -240,7 +257,7 @@ function article(note) {
     '<button type="button" data-copy="' + esc(rawBase + encodeURIComponent(note.id) + '.md') + '">LLM용 원문 링크 복사</button>' +
     '<a href="' + commits + '" target="_blank" rel="noopener noreferrer">개정 이력 ↗</a>' +
     '<button type="button" data-random>무작위 글 ↝</button></div></header>' +
-    toc + '<div class="prose">' + rendered.html + '</div>' +
+    synthesisNote + toc + '<div class="prose">' + rendered.html + '</div>' +
     related +
     (note.source ? '<p class="reader-source">자료·검토 표기: ' + esc(note.source) + '</p>' : '') +
     '</article>';

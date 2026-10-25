@@ -49,6 +49,31 @@ for (const entry of entries) {
   if (seenIds.has(entry.id) || seenPaths.has(entry.path)) fail("duplicate id or path: " + entry.id);
   seenIds.add(entry.id); seenPaths.add(entry.path);
 }
+// Synthesis notes (SYNTHESIS.md) weave existing articles into an editorial
+// interpretation. They are marked, kept in their own category and never serve
+// as the basis of another document.
+const SYNTHESIS_TYPES = new Set(["cross", "concept", "critique"]);
+const kinds = new Map(entries.map(e => [e.id, e.kind]));
+for (const entry of entries) {
+  const body = () => fs.readFileSync(path.resolve(root, entry.path), "utf8");
+  if (entry.kind === undefined) {
+    if (entry.category === "종합") fail(entry.id + ": category 종합 is reserved for kind synthesis");
+    if (entry.synthesis_type !== undefined || entry.based_on !== undefined) fail(entry.id + ": synthesis fields require kind synthesis");
+    continue;
+  }
+  if (entry.kind !== "synthesis") fail(entry.id + ": unknown kind " + entry.kind);
+  if (entry.category !== "종합") fail(entry.id + ": synthesis must use category 종합");
+  if (!SYNTHESIS_TYPES.has(entry.synthesis_type)) fail(entry.id + ": synthesis_type must be cross, concept or critique");
+  const basis = entry.based_on;
+  if (!Array.isArray(basis) || basis.length < (entry.synthesis_type === "critique" ? 1 : 2)) fail(entry.id + ": based_on needs " + (entry.synthesis_type === "critique" ? "1+" : "2+") + " document ids");
+  if (new Set(basis).size !== basis.length) fail(entry.id + ": duplicate based_on id");
+  const text = body();
+  for (const id of basis) {
+    if (!kinds.has(id)) fail(entry.id + ": based_on unknown id " + id);
+    if (kinds.get(id) === "synthesis") fail(entry.id + ": based_on must not cite another synthesis (" + id + ")");
+    if (!text.includes("](./" + id + ".md)")) fail(entry.id + ": body must link its basis ./" + id + ".md");
+  }
+}
 const published = entries.filter(e => e.publish === true).sort((a,b)=>a.order-b.order);
 const publishedIds = new Set(published.map(e=>e.id));
 const required = ["id","title","category","status","updated","summary","source"];
@@ -62,10 +87,15 @@ const notes = published.map(entry => {
   return {
     id:entry.id, title:entry.title, category:entry.category, status:entry.status,
     updated:entry.updated, summary:entry.summary, tags:entry.tags,
-    source:entry.source, related:entry.related, body:readBody(entry)
+    source:entry.source, related:entry.related,
+    ...(entry.kind ? {kind:entry.kind, synthesis_type:entry.synthesis_type, based_on:entry.based_on} : {}),
+    body:readBody(entry)
   };
 });
 for (const note of notes) {
+  for (const id of note.based_on ?? []) {
+    if (!publishedIds.has(id)) fail(note.id + ": published synthesis cites unpublished basis " + id);
+  }
   for (const match of note.body.matchAll(/\]\(#([a-z0-9-]+)\)/g)) {
     if (!publishedIds.has(match[1])) fail(note.id + ": broken site link #" + match[1]);
   }

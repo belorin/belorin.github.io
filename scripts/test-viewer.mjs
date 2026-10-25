@@ -5,6 +5,14 @@ import fs from 'node:fs';
 import vm from 'node:vm';
 
 const notes = JSON.parse(fs.readFileSync('notes.json', 'utf8'));
+// An in-memory synthesis note so the synthesis display is always exercised.
+const [basisA, basisB] = notes.filter(n => n.kind !== 'synthesis');
+notes.push({id: 'viewer-test-synthesis', title: '시험 종합', category: '종합', status: '시험',
+  updated: '1900-01-01', summary: '시험용 종합 노트', tags: [], source: '시험',
+  related: [basisA.id, basisB.id], kind: 'synthesis', synthesis_type: 'cross',
+  based_on: [basisA.id, basisB.id],
+  body: '## 질문\n[근거](#' + basisA.id + ')와 [근거](#' + basisB.id + ')를 엮는다.'});
+const articleCount = notes.filter(n => n.kind !== 'synthesis').length;
 const events = new Map();
 function element() {
   return {
@@ -68,11 +76,20 @@ assert.equal(nodes.get('#explore-toggle').attributes['aria-expanded'], 'true');
 
 visit('#all');
 assert.equal(nodes.get('#explore-toggle').attributes['aria-expanded'], 'true');
-assert.ok(html().includes(notes.length + '개 문서'));
+assert.ok(html().includes(articleCount + '개 문서'));
+assert.ok(!html().includes('시험 종합'), 'Synthesis must stay out of the 전체 list');
 nodes.get('#search').value = 'AI';
 nodes.get('#search').listeners.input();
 assert.match(html(), /검색 결과/);
-assert.ok(!html().includes(notes.length + '개 문서'), 'Search did not narrow results');
+assert.ok(!html().includes(articleCount + '개 문서'), 'Search did not narrow results');
+
+visit('#viewer-test-synthesis');
+assert.match(html(), /class="reader is-synthesis"/);
+assert.match(html(), /<span class="badge-synthesis">종합 · 교차 종합<\/span>/);
+assert.match(html(), /class="synthesis-note"/);
+assert.ok(html().includes('href="#' + basisA.id + '"') && html().includes('href="#' + basisB.id + '"'), 'Basis links missing');
+visit('#' + basisA.id);
+assert.match(html(), /시험 종합/, 'Basis article should list the synthesis among connected notes');
 
 visit('#about');
 assert.match(html(), /운영과 원칙/);

@@ -97,6 +97,7 @@ for (const id of index.batches) {
       seenTargets.add(key);
       const doc = docs.get(target.doc_id);
       if (!doc) fail(id + "." + item.id + ": missing document " + target.doc_id);
+      if (doc.kind === "synthesis") fail(id + "." + item.id + ": conversation knowledge must not be integrated into synthesis " + target.doc_id);
       const count = actualHeadings(doc).filter(x=>x===target.section).length;
       if (count !== 1) fail(id + "." + item.id + ": expected exactly one heading '" + target.section + "' in " + doc.path + ", found " + count);
     }

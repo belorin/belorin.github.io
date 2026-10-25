@@ -9,6 +9,7 @@
 2. 고른 문서의 Markdown 원문 링크를 실제로 열어 읽는다. 목록의 한 줄 설명만으로 내용을 단정하거나 인용하지 않는다.
 3. 웹사이트 주소 `https://belorin.github.io/#<문서-id>`는 자바스크립트로 본문을 그리므로 HTML만 받으면 본문이 없다. 같은 문서의 원문은 `https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/<문서-id>.md`이다.
 4. 답할 때는 근거가 된 문서와 절 제목을 밝힌다. 원문에 없는 내용은 위키 밖의 지식이나 추론임을 구분한다.
+5. 맨 아래 '종합' 묶음은 여러 문서를 엮은 편집 해석이다. 생각의 실마리로 쓰되 사실의 근거로 인용하지 말고, 각 글이 밝힌 근거 문서를 읽는다.
 
 ## Navigation
 
@@ -24,7 +25,7 @@
 - [대화가 끝난 뒤에도 자라는 노트](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/living-notes.md): 새로움과 생성, 중요도를 판단하는 능력, 음악·철학·AI·역사를 가로지르는 지식의 축적을 설명하는 열린 노트의 선언.
 - [사람과 AI가 함께 편집하는 규칙](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/editing-principles.md): 색인 우선 탐색, 논증·사례 보존, 출처와 해석의 구분, 간접 연결 검토 및 누적 규모에 따른 읽기 비용의 후속 설계.
 - [누적형 지식백과 구축사: 총합·증보를 위한 설계와 구현](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wiki-building-history.md): Markdown 정본화·AI 탐색·교차 편집의 구축 이력과, 누적 증보의 과부하를 줄이는 절 단위 탐색·조건부 범위 확장·두 속도 편집의 후속 설계.
-- [원고만 쓰고 나머지는 기계에게: 편집 지도·자동 배포·정비로 바꾼 위키 운영](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wiki-operations-pipeline.md): 생성물 자동 배포, 전체 지도·문서 카드·지식 표제 역색인을 통한 계층적 읽기, 일상 증보와 정비의 분리, LLM이 링크로 읽을 수 있는 입구 정비.
+- [원고만 쓰고 나머지는 기계에게: 편집 지도·자동 배포·정비로 바꾼 위키 운영](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wiki-operations-pipeline.md): 생성물 자동 배포, 전체 지도·문서 카드·지식 표제 역색인을 통한 계층적 읽기, 일상 증보와 정비의 분리, 편집 해석으로서의 종합, LLM이 링크로 읽을 수 있는 입구 정비.
 
 ### 질문
 
