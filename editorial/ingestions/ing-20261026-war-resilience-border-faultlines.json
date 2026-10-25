@@ -1,0 +1,273 @@
+{
+  "id": "ing-20261026-war-resilience-border-faultlines",
+  "processed_on": "2026-10-26",
+  "coverage": "visible-complete",
+  "limit_note": "이 창에 실제 표시된 흑해 무인정·지상 무인체계·우러전 내구도·인도와 주변국 관계·세계 분쟁 순위·아프가니스탄 파키스탄의 설명 범위를 순서대로 검토. 2026년 봄까지의 시점 정보 및 근거 확인 수준을 명시하며 신규 외부 조사는 하지 않음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k1",
+      "kind": "concept",
+      "title": "흑해함대 3분의 1 무력화 발언의 분모와 해상무인정 단독 기여 해석의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "black-sea-ukraine-sea-denial",
+          "section": "군함의 3분의 1이라는 말의 범위"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "kind": "concept",
+      "title": "흑해의 제해권과 해상거부를 구별하는 기능별 분석",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "black-sea-ukraine-sea-denial",
+          "section": "함대의 수와 바다를 사용할 권리는 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "kind": "fact",
+      "title": "흑해 구역별 통제와 오데사 수출 회랑의 회복 및 잔여 타격 위험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "black-sea-ukraine-sea-denial",
+          "section": "어느 바다를 누가 장악하는가"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "kind": "argument",
+      "title": "드론 정찰 타격 전자전 결합으로 지상 기동을 제한하는 구조",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ukraine-ground-drone-defense",
+          "section": "정찰-타격-전자전의 결합"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "kind": "fact",
+      "title": "드론 표적 파괴 비중과 사상자 비중의 서로 다른 분모",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ukraine-ground-drone-defense",
+          "section": "드론 80%라는 수치의 함정"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "kind": "concept",
+      "title": "AI 정보처리와 지상무인차량 보급을 지상 드론 전투와 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ukraine-ground-drone-defense",
+          "section": "AI의 실제 위치: 판단을 압축하되 완전히 대체하지는 않는다"
+        }
+      ]
+    },
+    {
+      "id": "k7",
+      "kind": "argument",
+      "title": "무인체계 제거 반사실과 30·40~60% 기여율의 정량 검증 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ukraine-ground-drone-defense",
+          "section": "반사실적 질문: 무인체계가 없었다면 몇 퍼센트 더 못 버텼을까"
+        }
+      ]
+    },
+    {
+      "id": "k8",
+      "kind": "argument",
+      "title": "러시아의 무인체계 학습과 상호 기동거부로의 변화",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ukraine-ground-drone-defense",
+          "section": "러시아도 배웠다: 비대칭 우위에서 상호거부 전장으로"
+        }
+      ]
+    },
+    {
+      "id": "k9",
+      "kind": "fact",
+      "title": "러시아군 120만 사상자 추정과 약 30만 전사자 추정의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "russia-ukraine-war-endurance",
+          "section": "120만 사상자와 30만 전사자는 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "argument",
+      "title": "러시아 모병과 정치적 손실 흡수 및 숙련병 재생산의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "russia-ukraine-war-endurance",
+          "section": "국가의 손상과 정권의 위험은 왜 엇갈리는가"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "argument",
+      "title": "러시아 전사자 누적 단계표를 정치적 임계선으로 해석하지 않는 방법",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "russia-ukraine-war-endurance",
+          "section": "전사자가 몇 명이면 러시아가 멈출까"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "argument",
+      "title": "우크라이나 보병 교대 방공 서방 재정의 내구도 병목",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "russia-ukraine-war-endurance",
+          "section": "우크라이나 내구도의 병목: 전선에는 사람이 필요하다"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "argument",
+      "title": "장기 소모전 휴전 국지돌파 반격의 전망과 비정규화 확률 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "russia-ukraine-war-endurance",
+          "section": "가까운 시기의 네 경로와 전망치의 한계"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "fact",
+      "title": "인도 파키스탄 2025년 5월 충돌과 테러 보복 확대 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "south-asia-border-rivalries-2026",
+          "section": "인도-파키스탄: 테러가 군사보복으로 번역되는 경로"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "fact",
+      "title": "인도 중국 2020년 갈완 충돌 2024년 라다크 이격 및 수자원 경쟁",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "south-asia-border-rivalries-2026",
+          "section": "인도-중국: 2020년 충돌과 2024년 이격"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "concept",
+      "title": "아프간 탈레반과 파키스탄 TTP의 조직 구별과 전략적 후방의 역설",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "south-asia-border-rivalries-2026",
+          "section": "아프가니스탄-파키스탄: 두 탈레반과 하나의 국경"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "fact",
+      "title": "듀랜드 라인 파슈툰 공동체 난민 추방과 2026년 국경 직접 교전",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "south-asia-border-rivalries-2026",
+          "section": "듀랜드 라인: 국경을 둘러싼 상충된 정당성"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "concept",
+      "title": "발발 가능성과 파급력의 순위 기준을 분리하고 이미 교전 중인 지역을 제외",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-flashpoints-likelihood-2026",
+          "section": "무엇을 '발발'로 셀 것인가"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "argument",
+      "title": "태국 캄보디아 남중국해 카슈미르 등 소규모 충돌 발발 서열",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-flashpoints-likelihood-2026",
+          "section": "발생 가능성만 고려한 서열"
+        }
+      ]
+    },
+    {
+      "id": "k20",
+      "kind": "argument",
+      "title": "대만 한반도 러시아 NATO의 높은 파급력과 낮은 즉시 교전 가능성 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-flashpoints-likelihood-2026",
+          "section": "중요하지만 '첫 충돌 가능성'으로는 순위가 내려가는 곳"
+        }
+      ]
+    },
+    {
+      "id": "k21",
+      "kind": "concept",
+      "title": "드론 일반 비대칭의 흑해 및 우크라이나 지상전 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "drone-asymmetric-warfare",
+          "section": "우크라이나에서 비대칭이 바다와 육지에 적용된 방식"
+        }
+      ]
+    },
+    {
+      "id": "k22",
+      "kind": "concept",
+      "title": "세계대전 확전 질문과 개별 국경의 첫 충돌 가능성의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "war-escalation-local-to-world",
+          "section": "어느 분쟁이 먼저 터질까: 확전 위험과 발발 가능성의 분리"
+        }
+      ]
+    }
+  ]
+}

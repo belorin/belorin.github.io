@@ -267,6 +267,27 @@
       "type": "illustrates",
       "evidence_section": "취향의 다음 분기와 판단 유보",
       "reason": "선곡의 우선순위와 취향 검증의 한계를 구체적인 음악 목록으로 보여준다."
+    },
+    {
+      "from": "drone-asymmetric-warfare",
+      "to": "black-sea-ukraine-sea-denial",
+      "type": "elaborates",
+      "evidence_section": "우크라이나에서 비대칭이 바다와 육지에 적용된 방식",
+      "reason": "가격·생산시간 비대칭의 해상거부 적용과 상업항로의 기능적 효과를 상세 설명한다."
+    },
+    {
+      "from": "drone-asymmetric-warfare",
+      "to": "ukraine-ground-drone-defense",
+      "type": "elaborates",
+      "evidence_section": "우크라이나에서 비대칭이 바다와 육지에 적용된 방식",
+      "reason": "드론 비대칭전의 일반 개념에서 지상 전선의 정찰·FPV·전자전·보급 구조를 구체화한다."
+    },
+    {
+      "from": "war-escalation-local-to-world",
+      "to": "global-flashpoints-likelihood-2026",
+      "type": "contrasts",
+      "evidence_section": "어느 분쟁이 먼저 터질까: 확전 위험과 발발 가능성의 분리",
+      "reason": "분쟁들의 전략적 연쇄와 국경의 최초 소규모 충돌 가능성은 서로 다른 평가 문제임을 구별한다."
     }
   ]
 }
