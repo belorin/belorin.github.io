@@ -1,0 +1,261 @@
+{
+  "id": "ing-20261025-venice-biennale",
+  "processed_on": "2026-10-25",
+  "coverage": "visible-complete",
+  "limit_note": "현재 채팅에 표시된 발화와 기존 저장소 자료만 활용 · 외부 기사 및 수치 재열람 없음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k1",
+      "kind": "fact",
+      "title": "1895년부터 제61회 국제미술전까지의 연혁과 회차 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-history",
+          "section": "130년과 61회: 비엔날레의 시간은 단순한 2년 주기가 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "kind": "concept",
+      "title": "도시 관광 박람회로 출발한 국제미술전의 제도적 성격",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-history",
+          "section": "1895년: 관광 도시가 만든 국제 미술 박람회"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "kind": "argument",
+      "title": "중앙전과 국가관이라는 두 대표성 형식의 긴장",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-history",
+          "section": "국가관의 탄생: 미술의 형식이 국가를 닮다"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "kind": "fact",
+      "title": "전후 냉전기 미술 외교와 공간적 중심·주변 비대칭",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-history",
+          "section": "전후와 냉전: 세계 미술 권력의 지도"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "kind": "fact",
+      "title": "1968년 전시 저항과 제도 비판의 질문",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-history",
+          "section": "1968년: 전시가 권위의 대상이 되다"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "kind": "fact",
+      "title": "아페르토와 큐레이터 중심의 전시 체제",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-history",
+          "section": "1980년대: 큐레이터가 한 시대의 문장을 쓰다"
+        }
+      ]
+    },
+    {
+      "id": "k7",
+      "kind": "argument",
+      "title": "비서구와 탈식민 중심화의 의의 및 중심 권력의 잔존",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-history",
+          "section": "1990년대 이후: 누가 세계미술을 대표하는가"
+        }
+      ]
+    },
+    {
+      "id": "k8",
+      "kind": "concept",
+      "title": "프리오프닝 평가와 장기 관람이라는 서로 다른 시간",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-history",
+          "section": "반년짜리 전시의 두 시계: 첫 주의 폭발과 느린 재방문"
+        }
+      ]
+    },
+    {
+      "id": "k9",
+      "kind": "argument",
+      "title": "스타 탄생과 스터디셀러 및 베니스 효과의 인과 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-history",
+          "section": "스타 탄생과 '스터디셀러': 평판은 어떻게 남는가"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "concept",
+      "title": "자르디니와 아르세날레 명칭의 유래 및 공간 대비",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-sites-pavilions",
+          "section": "'정원들'과 '조선소·무기고'라는 이름"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "argument",
+      "title": "자르디니 국가관 분산 동선과 아르세날레 연속형 동선",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-sites-pavilions",
+          "section": "자르디니: 국가관마다 문턱이 있는 산책"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "argument",
+      "title": "국가관 위치가 드러내는 역사적 자원 불평등",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-sites-pavilions",
+          "section": "국가관 배치가 드러내는 권력의 누적"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "curation",
+      "title": "자르디니 30개 국가명과 공동관·건물 수 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-sites-pavilions",
+          "section": "약 30개 나라를 말할 때 정확히 세어야 할 것"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "fact",
+      "title": "2026년 참가 규모와 공간 분포 및 변동의 확인 경계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-sites-pavilions",
+          "section": "2026년 분포와 변동: 숫자는 고정된 건축 지도가 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "fact",
+      "title": "In Minor Keys의 기획과 코요 쿠오 사후 전시 실현",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-2026-critical-reception",
+          "section": "제61회 국제미술전: 낮은 음조가 던진 문제"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "argument",
+      "title": "참가국 정치 논쟁과 작품 평가를 분리하는 기준",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-2026-critical-reception",
+          "section": "작품 평가와 제도 사건은 같은 평판이 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "counterargument",
+      "title": "전시 과밀·편집력 부족 비판과 사후 구현 옹호의 대립",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-2026-critical-reception",
+          "section": "비판 1: 관대함이 편집의 부재로 바뀌는 순간"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "counterargument",
+      "title": "휴식과 치유의 미학을 정치적 회피로 볼 수 있는지의 논쟁",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-2026-critical-reception",
+          "section": "비판 2: 휴식의 언어는 정치적 위기에 답하는가"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "argument",
+      "title": "다성성과 비서구 모더니즘 재해석을 높게 보는 비평",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-2026-critical-reception",
+          "section": "옹호: 유작의 다성성과 주목받지 못한 계보"
+        }
+      ]
+    },
+    {
+      "id": "k20",
+      "kind": "curation",
+      "title": "중앙전 주요 작품과 오스트리아 등 국가관의 입소문 사례",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-2026-critical-reception",
+          "section": "강하게 회자된 작품과 국가관"
+        }
+      ]
+    },
+    {
+      "id": "k21",
+      "kind": "question",
+      "title": "개막기 여론과 장기적인 미술사적 평가를 구별하는 문제",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-2026-critical-reception",
+          "section": "평가는 언제 굳어지는가: 개막 주간과 이후의 여섯 달"
+        }
+      ]
+    }
+  ]
+}
