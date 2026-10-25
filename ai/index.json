@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 89,
+  "document_count": 90,
   "documents": [
     {
       "id": "living-notes",
@@ -2115,10 +2115,12 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "대화 내 역사 사례 요약 · 사건별 세부 사실과 수치 외부 재검증 필요",
-      "last_updated_on": "2026-10-24",
-      "last_enriched_on": "2026-10-24",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
       "last_enriched_note": "explicitly_recorded",
-      "related_ids": [],
+      "related_ids": [
+        "dreyfus-affair-intellectuals"
+      ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hate-escalation-brakes-history.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/hate-escalation-brakes-history.md",
       "page_url": "https://belorin.github.io/#hate-escalation-brakes-history"
@@ -2913,6 +2915,42 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ancient-philosophy-beyond-greece.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ancient-philosophy-beyond-greece.md",
       "page_url": "https://belorin.github.io/#ancient-philosophy-beyond-greece"
+    },
+    {
+      "id": "dreyfus-affair-intellectuals",
+      "title": "드레퓌스 사건과 지식인들의 분열: 작가·학자·화가들은 어느 편에 섰는가",
+      "aliases": [
+        "드레퓌스파",
+        "반드레퓌스파",
+        "Dreyfus Affair",
+        "드레퓌스 사건의 지식인",
+        "지식인 선언"
+      ],
+      "category": "문화와 역사",
+      "tags": [
+        "드레퓌스 사건",
+        "지식인",
+        "나는 고발한다",
+        "에밀 졸라",
+        "프루스트",
+        "뒤르켐",
+        "드가",
+        "반유대주의",
+        "프랑스 제3공화국"
+      ],
+      "summary": "졸라·클레망소·프루스트·뒤르켐과 드뤼몽·바레스·드가 등 드레퓌스 사건을 둘러싼 지식인·예술가의 진영과 행동을 구분하고, 반유대주의·군 권위·지식인의 공적 책임을 분석한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 내부 총합 · 인물별 서명·입장 및 역사 세부 사료 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "hate-escalation-brakes-history"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/dreyfus-affair-intellectuals.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/dreyfus-affair-intellectuals.md",
+      "page_url": "https://belorin.github.io/#dreyfus-affair-intellectuals"
     }
   ]
 }

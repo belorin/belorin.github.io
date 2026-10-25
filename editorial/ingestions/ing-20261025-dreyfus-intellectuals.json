@@ -1,0 +1,129 @@
+{
+  "id": "ing-20261025-dreyfus-intellectuals",
+  "processed_on": "2026-10-25",
+  "coverage": "visible-complete",
+  "limit_note": "현재 접근 가능한 인물 분류와 논증만 활용 · 외부 추가 조사 없음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k1",
+      "kind": "concept",
+      "title": "드레퓌스파와 반드레퓌스파의 의미 및 유죄·권위·소속 문제의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "dreyfus-affair-intellectuals",
+          "section": "드레퓌스파와 반드레퓌스파: '찬반'의 정확한 대상"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "kind": "fact",
+      "title": "1898년 졸라의 공개 고발과 지식인 청원 및 정치적 반작용",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "dreyfus-affair-intellectuals",
+          "section": "1898년: '나는 고발한다'와 지식인의 집단적 출현"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "kind": "curation",
+      "title": "졸라·클레망소·라자르·슈뢰르-케스트네르·레낙·조레스의 개입",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "dreyfus-affair-intellectuals",
+          "section": "드레퓌스파의 선두: 언론·정치·재심 운동"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "kind": "curation",
+      "title": "아나톨 프랑스·프루스트·뒤르켐·에르·페기·미르보·모네·르나르의 참여",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "dreyfus-affair-intellectuals",
+          "section": "드레퓌스파의 문학·철학·학문 진영"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "kind": "curation",
+      "title": "드뤼몽·바레스·모라스·로슈포르·르메트르·코페·브뤼느티에르·데룰레드·도데의 반대",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "dreyfus-affair-intellectuals",
+          "section": "반드레퓌스파의 중심: 민족주의와 군의 권위"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "kind": "example",
+      "title": "드가·르누아르·드니의 태도와 예술계 인간관계의 분열",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "dreyfus-affair-intellectuals",
+          "section": "화실과 우정까지 갈라진 사건: 드가·르누아르·드니"
+        }
+      ]
+    },
+    {
+      "id": "k7",
+      "kind": "counterargument",
+      "title": "로댕·페기·소렐·푸앵카레의 입장 분류와 근거의 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "dreyfus-affair-intellectuals",
+          "section": "고정된 두 색으로 칠하기 어려운 사람들"
+        }
+      ]
+    },
+    {
+      "id": "k8",
+      "kind": "argument",
+      "title": "서명자·조직가·전문가·후대 사상 궤적을 구별하는 인물 분석 기준",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "dreyfus-affair-intellectuals",
+          "section": "인물을 분류할 때 혼동하기 쉬운 다섯 가지 기준"
+        }
+      ]
+    },
+    {
+      "id": "k9",
+      "kind": "concept",
+      "title": "현대 지식인의 정치적 출현과 전문성·발언권 사이의 긴장",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "dreyfus-affair-intellectuals",
+          "section": "현대적 '지식인'이라는 문제의 탄생"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "example",
+      "title": "드레퓌스 사건의 지식인 분열과 기존 혐오 동원사 간 직접 연결",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hate-escalation-brakes-history",
+          "section": "1898년 프랑스 반유대주의 급등: 강한 동원이 반드시 계속 가속되지는 않는다"
+        }
+      ]
+    }
+  ]
+}

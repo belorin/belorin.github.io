@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 340,
+  "edge_count": 343,
   "edges": [
     {
       "from": "living-notes",
@@ -1584,6 +1584,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "hate-escalation-brakes-history",
+      "to": "dreyfus-affair-intellectuals",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "woodwind-reeds-material-history",
       "to": "instrument-consumables-organic-materials",
       "type": "related_to",
@@ -1860,6 +1866,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "dreyfus-affair-intellectuals",
+      "to": "hate-escalation-brakes-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "jazz-to-ai",
       "to": "jazz-dialogue",
       "type": "introduces",
@@ -2122,6 +2134,14 @@
       "basis": "curated",
       "evidence_section": "피지컬 AI: 현실세계가 다음 스케일링 대상이 될 때",
       "reason": "대규모 추론·시뮬레이션 계산이 로봇의 모방학습과 실제 작업 데이터 학습으로 확장되는 구체적 분야를 일본 피지컬 AI 사례가 보여 준다."
+    },
+    {
+      "from": "hate-escalation-brakes-history",
+      "to": "dreyfus-affair-intellectuals",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "1898년 프랑스 반유대주의 급등: 강한 동원이 반드시 계속 가속되지는 않는다",
+      "reason": "혐오 동원의 급등과 약화라는 역사적 배경에서 당시 문학가·학자·예술가의 진영 분열을 다룬 상세 글로 안내한다."
     }
   ]
 }
