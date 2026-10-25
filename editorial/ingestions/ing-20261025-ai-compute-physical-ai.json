@@ -1,0 +1,217 @@
+{
+  "id": "ing-20261025-ai-compute-physical-ai",
+  "processed_on": "2026-10-25",
+  "coverage": "visible-complete",
+  "limit_note": "현재 채팅에서 확인 가능한 두 질문과 응답을 전수 처리. 원본 공유 URL·대화 식별자 미확인. 기존 응답에 이미 포함된 링크만 보존하고 새 외부 조사 없음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "데이터센터 증설과 AI 품질의 관계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-compute-scaling-inference",
+          "section": "데이터센터 증설을 '더 큰 모델'로만 보면 놓치는 것"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "사전학습 스케일링과 추론 스케일링의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-compute-scaling-inference",
+          "section": "학습 스케일링과 추론 스케일링은 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "한 문제에 계산을 몰아주는 병렬 탐색과 검증",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-compute-scaling-inference",
+          "section": "한 문제에 계산을 몰아주는 세 가지 방식"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "AI를 하나의 답변자가 아니라 계산 조직으로 보는 관점",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-compute-scaling-inference",
+          "section": "AI를 '한 사람'보다 '계산 조직'으로 보기"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "example",
+      "title": "과학·수학·코딩에서 계산량이 탐색공간이 되는 방식",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-compute-scaling-inference",
+          "section": "과학·수학·코딩에서는 계산량이 탐색공간이 된다"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "counterargument",
+      "title": "계산량만으로 지능이 무한히 오르지 않는 이유",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-compute-scaling-inference",
+          "section": "계산량은 지능 그 자체가 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "concept",
+      "title": "손지능과 피지컬 AI의 범위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "japan-physical-ai-skill-transfer",
+          "section": "손지능은 무엇을 뜻하는가"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "argument",
+      "title": "숙련공의 암묵지를 로봇 데이터로 바꾸는 문제",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "japan-physical-ai-skill-transfer",
+          "section": "인터넷에 없는 데이터: 숙련공의 몸"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "fact",
+      "title": "가와사키 Successor와 Plesio의 숙련 전승 접근",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "japan-physical-ai-skill-transfer",
+          "section": "가와사키: Successor에서 Plesio로"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "fact",
+      "title": "Honda의 다지 로봇핸드와 Avatar Robot",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "japan-physical-ai-skill-transfer",
+          "section": "Honda: 인간용 도구를 쓰는 손"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "fact",
+      "title": "Toyota의 숙련 전승형 Physical AI",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "japan-physical-ai-skill-transfer",
+          "section": "Toyota: 숙련 전승을 Physical AI의 문제로"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "fact",
+      "title": "Yaskawa의 상황 적응형 로봇과 변형 물체 조작",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "japan-physical-ai-skill-transfer",
+          "section": "Yaskawa: 정해진 경로에서 상황 적응으로"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "fact",
+      "title": "FANUC의 모방학습과 디지털 트윈",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "japan-physical-ai-skill-transfer",
+          "section": "FANUC: 모방학습과 디지털 트윈의 결합"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "fact",
+      "title": "일본 정부와 AIST의 Physical AI 기반모델 전략",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "japan-physical-ai-skill-transfer",
+          "section": "정부와 AIST: 현장 데이터를 기반모델로"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "argument",
+      "title": "미국·중국·일본의 피지컬 AI 경로 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "japan-physical-ai-skill-transfer",
+          "section": "미국·중국·일본의 세 경로는 같은 경주가 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "argument",
+      "title": "숙련공 은퇴와 학습 데이터 소실의 시간제한",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "japan-physical-ai-skill-transfer",
+          "section": "은퇴는 노동력 감소이자 데이터 소실이다"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "concept",
+      "title": "대규모 AI 계산 인프라와 로봇 학습의 접점",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-compute-scaling-inference",
+          "section": "피지컬 AI: 현실세계가 다음 스케일링 대상이 될 때"
+        },
+        {
+          "doc_id": "japan-physical-ai-skill-transfer",
+          "section": "대규모 계산 인프라와 손지능의 접점"
+        }
+      ]
+    }
+  ]
+}

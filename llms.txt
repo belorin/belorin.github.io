@@ -77,6 +77,8 @@
 - [AI 지배는 이미 시작되었는가: 사건이 아니라 농도로 보는 통제](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-domination-gradient.md): AI 지배를 미래의 쿠데타가 아니라 현재부터 짙어질 수 있는 농도로 보고, 매개·의존·지배를 구분하며 맥락적 경사, 여덟 층, 사고 출처, p(doom), 카산드라식 조기 탐지를 검토한다.
 - [행크 애셔에서 팔란티어까지: 데이터 융합이 AI의 판단 인프라가 되기까지](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hank-asher-data-fusion-ai.md): 행크 애셔의 DBT·Seisint·MATRIX에서 팔란티어와 에이전트형 AI까지, 검색·결합이 추정·서사화·행동 제안으로 확장되는 데이터 권력의 계보를 살핀다.
 - [한국 개인정보의 생애: 수집·결합·유출·재사용의 경로](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-personal-data-lifecycle.md): 체크박스와 본인확인부터 광고·가명결합·마이데이터, 유출 뒤의 계정탈취·피싱·영업 DB까지 한국 개인정보가 복제·결합·재사용되는 경로를 추적한다.
+- [AI는 계산이 많아지면 무엇이 달라지는가: 데이터센터와 추론 스케일링](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-compute-scaling-inference.md): AI 데이터센터 증설을 단순한 더 큰 사전학습이 아니라 test-time compute, 병렬 탐색·검증, 과학·코딩·피지컬 AI 계산의 확대로 읽고 계산량의 한계를 함께 정리한다.
+- [사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japan-physical-ai-skill-transfer.md): 가와사키 Successor와 Honda 다지 핸드부터 Toyota·Yaskawa·FANUC·AIST까지, 일본이 숙련자의 손동작·힘 조절을 로봇 학습 데이터로 옮기려는 흐름을 정리한다.
 
 ### 철학
 

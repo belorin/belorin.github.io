@@ -181,6 +181,12 @@
 - **[한국 개인정보의 생애: 수집·결합·유출·재사용의 경로](wiki/korea-personal-data-lifecycle.md)** · 별칭: 한국 개인정보 유통, 개인정보의 생애, 개인정보 유출 이후, 한국 데이터 브로커 · 수정: 2026-10-25 · 검토: 대화 내 확인·법제와 최근 사례 세부 재검증 필요
   - 체크박스와 본인확인부터 광고·가명결합·마이데이터, 유출 뒤의 계정탈취·피싱·영업 DB까지 한국 개인정보가 복제·결합·재사용되는 경로를 추적한다.
   - [웹페이지](https://belorin.github.io/#korea-personal-data-lifecycle) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-personal-data-lifecycle.md)
+- **[AI는 계산이 많아지면 무엇이 달라지는가: 데이터센터와 추론 스케일링](wiki/ai-compute-scaling-inference.md)** · 별칭: AI 데이터센터와 추론, test-time scaling, 추론 컴퓨트, AI 계산 스케일링 · 수정: 2026-10-25 · 검토: 대화 내 확인 자료 총합 · 데이터센터 규모·기업 계획·추론 연구 세부 외부 재검증 필요
+  - AI 데이터센터 증설을 단순한 더 큰 사전학습이 아니라 test-time compute, 병렬 탐색·검증, 과학·코딩·피지컬 AI 계산의 확대로 읽고 계산량의 한계를 함께 정리한다.
+  - [웹페이지](https://belorin.github.io/#ai-compute-scaling-inference) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-compute-scaling-inference.md)
+- **[사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승](wiki/japan-physical-ai-skill-transfer.md)** · 별칭: 일본 피지컬 AI, 손지능, 숙련 전승 로봇, Physical AI Japan · 수정: 2026-10-25 · 검토: 대화 내 확인 자료 총합 · 기업 발표·정부 목표·국가 비교 해석 외부 재검증 필요
+  - 가와사키 Successor와 Honda 다지 핸드부터 Toyota·Yaskawa·FANUC·AIST까지, 일본이 숙련자의 손동작·힘 조절을 로봇 학습 데이터로 옮기려는 흐름을 정리한다.
+  - [웹페이지](https://belorin.github.io/#japan-physical-ai-skill-transfer) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japan-physical-ai-skill-transfer.md)
 
 ## 철학
 

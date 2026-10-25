@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 82,
+  "document_count": 84,
   "documents": [
     {
       "id": "living-notes",
@@ -2673,6 +2673,72 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-halls-seasons.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/orchestra-halls-seasons.md",
       "page_url": "https://belorin.github.io/#orchestra-halls-seasons"
+    },
+    {
+      "id": "ai-compute-scaling-inference",
+      "title": "AI는 계산이 많아지면 무엇이 달라지는가: 데이터센터와 추론 스케일링",
+      "aliases": [
+        "AI 데이터센터와 추론",
+        "test-time scaling",
+        "추론 컴퓨트",
+        "AI 계산 스케일링"
+      ],
+      "category": "AI와 사회",
+      "tags": [
+        "AI 데이터센터",
+        "추론 스케일링",
+        "test-time compute",
+        "AI 인프라",
+        "병렬 탐색",
+        "verifier"
+      ],
+      "summary": "AI 데이터센터 증설을 단순한 더 큰 사전학습이 아니라 test-time compute, 병렬 탐색·검증, 과학·코딩·피지컬 AI 계산의 확대로 읽고 계산량의 한계를 함께 정리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 내 확인 자료 총합 · 데이터센터 규모·기업 계획·추론 연구 세부 외부 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "japan-physical-ai-skill-transfer"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-compute-scaling-inference.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-compute-scaling-inference.md",
+      "page_url": "https://belorin.github.io/#ai-compute-scaling-inference"
+    },
+    {
+      "id": "japan-physical-ai-skill-transfer",
+      "title": "사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승",
+      "aliases": [
+        "일본 피지컬 AI",
+        "손지능",
+        "숙련 전승 로봇",
+        "Physical AI Japan"
+      ],
+      "category": "AI와 사회",
+      "tags": [
+        "피지컬 AI",
+        "로봇",
+        "일본",
+        "숙련 전승",
+        "손지능",
+        "모방학습",
+        "촉각 센서"
+      ],
+      "summary": "가와사키 Successor와 Honda 다지 핸드부터 Toyota·Yaskawa·FANUC·AIST까지, 일본이 숙련자의 손동작·힘 조절을 로봇 학습 데이터로 옮기려는 흐름을 정리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 내 확인 자료 총합 · 기업 발표·정부 목표·국가 비교 해석 외부 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "ai-compute-scaling-inference",
+        "ai-economic-transition"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japan-physical-ai-skill-transfer.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/japan-physical-ai-skill-transfer.md",
+      "page_url": "https://belorin.github.io/#japan-physical-ai-skill-transfer"
     }
   ]
 }

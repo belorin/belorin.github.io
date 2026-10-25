@@ -225,6 +225,13 @@
       "type": "contrasts",
       "evidence_section": "행크 애셔의 세계와 한국의 차이",
       "reason": "한 사업가와 강력한 검색 데이터베이스 중심의 미국 사례와, 본인확인·광고·위탁·결합·유출이 분산된 한국의 데이터 생태계를 대비한다."
+    },
+    {
+      "from": "ai-compute-scaling-inference",
+      "to": "japan-physical-ai-skill-transfer",
+      "type": "illustrates",
+      "evidence_section": "피지컬 AI: 현실세계가 다음 스케일링 대상이 될 때",
+      "reason": "대규모 추론·시뮬레이션 계산이 로봇의 모방학습과 실제 작업 데이터 학습으로 확장되는 구체적 분야를 일본 피지컬 AI 사례가 보여 준다."
     }
   ]
 }
