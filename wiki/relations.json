@@ -239,6 +239,27 @@
       "type": "introduces",
       "evidence_section": "1898년 프랑스 반유대주의 급등: 강한 동원이 반드시 계속 가속되지는 않는다",
       "reason": "혐오 동원의 급등과 약화라는 역사적 배경에서 당시 문학가·학자·예술가의 진영 분열을 다룬 상세 글로 안내한다."
+    },
+    {
+      "from": "world-crisis-historical-analogies",
+      "to": "war-escalation-local-to-world",
+      "type": "elaborates",
+      "evidence_section": "벨 에포크의 이중성: 연결된 세계와 충돌하는 제국",
+      "reason": "현대와 1914년의 역사 유비를 실제 확전 연결모형의 설명과 결합한다."
+    },
+    {
+      "from": "state-hollowing-country-pilot",
+      "to": "state-hollowing-index",
+      "type": "illustrates",
+      "evidence_section": "이 점수는 무엇을 계산했고 무엇을 계산하지 않았나",
+      "reason": "아홉 영역의 개념 설계와 네 변수 코어 적용을 구별하여 실증 시범의 한계를 보여준다."
+    },
+    {
+      "from": "critical-optimism-fragile-order",
+      "to": "state-hollowing-index",
+      "type": "elaborates",
+      "evidence_section": "완충장치가 먼저 사망한 곳에서의 낙관",
+      "reason": "비판적 낙관론의 제도적 완충을 국가별·계층별 기능 공동화 문제로 확장한다."
     }
   ]
 }

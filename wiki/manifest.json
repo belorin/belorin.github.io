@@ -1997,7 +1997,9 @@
       "source": "내부 총합 · 역사자료와 2026년 대화 중 확인된 정세 요약 · 이번 편집에서 외부 추가 조사 없음",
       "related": [
         "europe-russia-escalation-signals-2026",
-        "drone-asymmetric-warfare"
+        "drone-asymmetric-warfare",
+        "world-crisis-historical-analogies",
+        "critical-optimism-fragile-order"
       ],
       "aliases": [
         "국지전에서 세계대전",
@@ -2005,8 +2007,8 @@
         "1914 확전 모형"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-24",
-      "updated": "2026-10-24"
+      "last_enriched_on": "2026-10-25",
+      "updated": "2026-10-25"
     },
     {
       "path": "wiki/drone-asymmetric-warfare.md",
@@ -2904,6 +2906,141 @@
         "드레퓌스 사건의 지식인",
         "지식인 선언"
       ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "path": "wiki/world-crisis-historical-analogies.md",
+      "publish": true,
+      "order": 90,
+      "id": "world-crisis-historical-analogies",
+      "title": "세계는 다시 1914·1929·1939년으로 향하는가: 벨 에포크와 세 번의 파국을 비교하는 법",
+      "category": "문화와 역사",
+      "summary": "벨 에포크, 1929년 대공황, 1930년대 후반의 서로 다른 위기 메커니즘과 현대의 완충·연쇄 위험을 비교한다.",
+      "tags": [
+        "벨 에포크",
+        "1914년",
+        "1929년",
+        "1939년",
+        "세계경제",
+        "역사 유비",
+        "세계화"
+      ],
+      "aliases": [
+        "현대와 대공황 직전 비교",
+        "벨 에포크의 종언",
+        "세계대전 전야의 현재",
+        "현대 위기의 역사적 유비"
+      ],
+      "related": [
+        "war-escalation-local-to-world",
+        "critical-optimism-fragile-order",
+        "state-hollowing-index"
+      ],
+      "status": "현재 접근 가능한 논의와 코어 시범자료 기반 · 외부 재검증 필요",
+      "updated": "2026-10-25",
+      "source": "내부 총합·외부 미검증",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "path": "wiki/critical-optimism-fragile-order.md",
+      "publish": true,
+      "order": 91,
+      "id": "critical-optimism-fragile-order",
+      "title": "파국의 비용은 브레이크가 될 수 있는가: 비극적 완충론과 비판적 낙관주의",
+      "category": "정치경제",
+      "summary": "AI 구원론을 제외한 비용 피드백·핵 억지·금융 방화벽·에너지 전환과 제도 공동화의 반론으로 최소 낙관의 조건을 검토한다.",
+      "tags": [
+        "비판적 낙관론",
+        "비극적 완충론",
+        "위기",
+        "파국 회피",
+        "금융 안정",
+        "지정학",
+        "재균형"
+      ],
+      "aliases": [
+        "비극적 완충론",
+        "비싼 안정",
+        "AI 없는 낙관론",
+        "비판적 낙관의 수정해"
+      ],
+      "related": [
+        "world-crisis-historical-analogies",
+        "state-hollowing-index",
+        "state-hollowing-country-pilot",
+        "war-escalation-local-to-world"
+      ],
+      "status": "현재 접근 가능한 논의와 코어 시범자료 기반 · 외부 재검증 필요",
+      "updated": "2026-10-25",
+      "source": "내부 총합·외부 미검증",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "path": "wiki/state-hollowing-index.md",
+      "publish": true,
+      "order": 92,
+      "id": "state-hollowing-index",
+      "title": "국가는 언제 껍데기가 되는가: 형해화·좀비 국가·생활세계의 디스토피아",
+      "category": "정치경제",
+      "summary": "주권의 법적 외형과 기능적 연속성을 구분하고 폭력·행정·화폐·사회 재생산 등 아홉 층의 형해화 지수를 설계한다.",
+      "tags": [
+        "국가 형해화",
+        "좀비 국가",
+        "실패 국가",
+        "사회 재생산",
+        "국가 취약성",
+        "국가 역량",
+        "디스토피아"
+      ],
+      "aliases": [
+        "국가 형해화 지수",
+        "좀비 국가 지수",
+        "State Hollowing Index",
+        "국가 생명력 지수"
+      ],
+      "related": [
+        "state-hollowing-country-pilot",
+        "critical-optimism-fragile-order",
+        "world-crisis-historical-analogies"
+      ],
+      "status": "현재 접근 가능한 논의와 코어 시범자료 기반 · 외부 재검증 필요",
+      "updated": "2026-10-25",
+      "source": "내부 총합·외부 미검증",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "path": "wiki/state-hollowing-country-pilot.md",
+      "publish": true,
+      "order": 93,
+      "id": "state-hollowing-country-pilot",
+      "title": "20개국 국가 형해화 시범 측정: 네 지표로 본 껍데기와 기능의 불일치",
+      "category": "정치경제",
+      "summary": "GPI·FSI·물가·정부부채의 코어 v0.1 산식과 20개국 입력·점수, 결측 대체와 민감도·과잉해석의 한계를 기록한다.",
+      "tags": [
+        "20개국 비교",
+        "GPI",
+        "FSI",
+        "물가상승률",
+        "정부부채",
+        "취약국가",
+        "예비 지수"
+      ],
+      "aliases": [
+        "국가 형해화 20개국 표",
+        "좀비 국가 코어 v0.1",
+        "국가 공동화 국가별 비교"
+      ],
+      "related": [
+        "state-hollowing-index",
+        "critical-optimism-fragile-order"
+      ],
+      "status": "현재 접근 가능한 논의와 코어 시범자료 기반 · 외부 재검증 필요",
+      "updated": "2026-10-25",
+      "source": "내부 총합·외부 미검증",
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-25"
     }

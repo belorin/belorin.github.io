@@ -109,6 +109,7 @@
 - [광주의 보이지 않는 길거리 미술관: 아파트·사옥 조형물과 작가·건설 네트워크](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gwangju-building-art-network.md): 광주의 아파트·사옥·오피스텔 앞 건축물 미술을 시대별 미감과 생활환경으로 읽고, 최규철·정춘표·조의현·전용환 등의 작가 계보와 시행사·시공사·대행업체·제작소·심의 구조를 분리해 추적한다.
 - [그리스만이 철학의 고향인가: 고대 지중해와 서아시아의 사상가·고서·전승](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ancient-philosophy-beyond-greece.md): 그리스 중심 철학사의 제도적 배경과 이집트·메소포타미아·바빌로니아·레반트·페르시아·페니키아·카르타고의 문헌을 시기·장르·전승별로 비교한다.
 - [드레퓌스 사건과 지식인들의 분열: 작가·학자·화가들은 어느 편에 섰는가](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/dreyfus-affair-intellectuals.md): 졸라·클레망소·프루스트·뒤르켐과 드뤼몽·바레스·드가 등 드레퓌스 사건을 둘러싼 지식인·예술가의 진영과 행동을 구분하고, 반유대주의·군 권위·지식인의 공적 책임을 분석한다.
+- [세계는 다시 1914·1929·1939년으로 향하는가: 벨 에포크와 세 번의 파국을 비교하는 법](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-crisis-historical-analogies.md): 벨 에포크, 1929년 대공황, 1930년대 후반의 서로 다른 위기 메커니즘과 현대의 완충·연쇄 위험을 비교한다.
 
 ### 언어
 
@@ -140,3 +141,9 @@
 ### 문화
 
 - [음악과 책의 공급 폭발: 한 사람의 귀와 눈은 얼마나 따라갈 수 있는가](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/music-books-supply-attention.md): 음악과 종이책의 역사적 생산량, 개인 소비시간, AI 공급, 차트 집중과 큐레이션을 비교하며 관측과 추정의 경계를 검토한다.
+
+### 정치경제
+
+- [파국의 비용은 브레이크가 될 수 있는가: 비극적 완충론과 비판적 낙관주의](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/critical-optimism-fragile-order.md): AI 구원론을 제외한 비용 피드백·핵 억지·금융 방화벽·에너지 전환과 제도 공동화의 반론으로 최소 낙관의 조건을 검토한다.
+- [국가는 언제 껍데기가 되는가: 형해화·좀비 국가·생활세계의 디스토피아](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/state-hollowing-index.md): 주권의 법적 외형과 기능적 연속성을 구분하고 폭력·행정·화폐·사회 재생산 등 아홉 층의 형해화 지수를 설계한다.
+- [20개국 국가 형해화 시범 측정: 네 지표로 본 껍데기와 기능의 불일치](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/state-hollowing-country-pilot.md): GPI·FSI·물가·정부부채의 코어 v0.1 산식과 20개국 입력·점수, 결측 대체와 민감도·과잉해석의 한계를 기록한다.
