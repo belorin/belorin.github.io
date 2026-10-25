@@ -11,9 +11,36 @@ https://belorin.github.io
 - **`wiki/relations.json`**: 근거와 유형이 확인된 관계의 정본
 - **`AI_INDEX.md`, `ai/index.json`, `ai/relations.json`, `llms.txt`**: 자동 생성되는 AI 탐색 자료
 - **`notes.json`**: 위 두 정본으로부터 생성하는 웹사이트 데이터 (**직접 수정하지 않음**)
-- **`AGENTS.md` / `WIKI_PROTOCOL.md`**: AI 편집 규칙
+- **`WIKI_PROTOCOL.md`**: 대화 증보 규칙(증보에 필요한 규칙 전부). **`MAINTENANCE.md`**: 정비 절차. **`SYNTHESIS.md`**: 종합 절차. **`AGENTS.md`**: 작업별로 읽을 문서를 안내하는 짧은 지침
 - **`editorial/ingestions/`**: 직접 증보의 위치와 보류 상태를 기록하는 편집 장부 (대화 원문 없음)
 - **`editorial/crosslinks/index.json`**: 직접 입증되지 않은 개념적 유비·교차 편집 제안 장부. 자동 집필 대상이 아님.
+
+## 파일 구성
+
+**원고와 정본**
+- `wiki/*.md`: 지식 본문의 유일한 편집 정본. 긴 논증, 출처, 사례를 요약 없이 보존한다.
+- `wiki/manifest.json`: 문서 ID·제목·분류·상태·출처·관련 문서·게시 여부(`publish`)·순서·별칭·검토 상태·증보일 등 메타데이터의 정본. 종합 글은 `kind`·`synthesis_type`·`based_on`을 더 가진다.
+- `wiki/relations.json`: 근거 절과 설명이 명시된 확인된 의미 관계의 정본. `manifest.related`는 일반 연관.
+
+**편집 기록(정본, 공개 파일)**
+- `editorial/ingestions/index.json`, `editorial/ingestions/<batch-id>.json`: 증보 배치 색인과 배치별 지식 표제·반영 문서·절·보류 항목. 대화 원문·발췌·URL은 저장하지 않는다.
+- `editorial/crosslinks/index.json`: 간접적 유비·해석적 관계의 검토 대기 제안 장부. 본문이나 관계 정본에 자동으로 집필하지 않는다.
+- `editorial/maintenance/log.json`, `editorial/maintenance/reports/<버전>.md`: 정비 버전 로그와 정비 보고서.
+
+**생성물(직접 수정 금지, GitHub Actions가 갱신)**
+- `notes.json`: 사이트가 읽는 문서 데이터(`scripts/build-notes.mjs`). 종합 글의 규칙도 이 스크립트가 검증한다.
+- `AI_INDEX.md`, `ai/index.json`, `ai/relations.json`, `llms.txt`: 외부 AI용 공개 색인(`scripts/build-ai-index.mjs`). `publish:true` 문서만 싣는다.
+- `editorial/map/index.md`, `editorial/map/docs/<id>.md`, `editorial/map/knowledge.md`: 편집 지도(`scripts/build-wiki-map.mjs`). 미게시 포함 모든 원고의 지도, 문서별 카드(소제목 경로·줄 범위·분량·해시·첫 문장·장부 기록·관계), 장부를 뒤집은 지식 표제 역색인. 지도가 25,000자를 넘으면 자동으로 분류별 파일(`editorial/map/categories/`)로 나뉜다. 미게시 원고를 포함하는 편집용 자료이므로 공개 AI 색인과 `llms.txt`에는 연결하지 않는다.
+- `editorial/maintenance/queue.md`: 정비 대기열(`scripts/build-maintenance-queue.mjs`). 정비 로그도 이 스크립트가 검증한다.
+
+**검증·검색 스크립트**
+- `scripts/validate-editorial.mjs`, `scripts/test-editorial.mjs`: 증보 장부의 배치·항목·반영 문서와 절의 존재를 검증한다.
+- `scripts/validate-crosslinks.mjs`, `scripts/test-crosslinks.mjs`: 교차 제안의 근거 절·상태와 오프라인 검색을 검증한다.
+- `scripts/search-wiki.mjs`: 문자 n-gram·연관 그래프 기반 후보 검색(임베딩 아님).
+- `scripts/test-viewer.mjs`: 사이트 뷰어 동작 시험.
+
+**사이트**
+- `index.html`, `style.css`, `app.js`: 정적 사이트 뷰어. 첫 화면은 무작위 글·주제·최근 갱신, `/#all`은 검색 목록, `/#<문서-id>`는 목차·관련 글·개정 이력 화면이다. 렌더러는 단락, `##`~`####` 소제목, 목록, 강조, 인라인 코드, 링크, Markdown 표를 지원한다.
 
 ## 편집·게시
 
@@ -65,7 +92,7 @@ Pages는 브랜치 배포가 아니라 GitHub Actions 배포를 사용한다(Set
 - `editorial/map/docs/<id>.md`: 문서별 카드. 요약, 절 목차(소제목 경로·줄 범위·분량·해시·첫 문장), 장부에 기록된 반영 지식, 관계와 교차 제안
 - [`editorial/map/knowledge.md`](editorial/map/knowledge.md): 편집 장부를 뒤집은 지식 표제 역색인(표제 → 문서·절 → 처리 배치, 보류 항목). 낱말로 검색하는 용도
 
-지도 → 후보 카드 → 해당 절 본문 순으로 읽고, 정의 변경·구조 재편·충돌·위치 불명확 시 문서 전문으로 넓힌다(WIKI_PROTOCOL §8A). 지도와 카드는 후보 탐색용이며, 중복 판정은 반드시 본문을 읽고 한다. 미게시 `publish:false` 원고는 외부 탐색 색인에 노출하지 않지만 공개 GitHub 저장소 자체가 비공개인 것은 아니다.
+지도 → 후보 카드 → 해당 절 본문 순으로 읽고, 정의 변경·구조 재편·충돌·위치 불명확 시 문서 전문으로 넓힌다(WIKI_PROTOCOL §4). 지도와 카드는 후보 탐색용이며, 중복 판정은 반드시 본문을 읽고 한다. 미게시 `publish:false` 원고는 외부 탐색 색인에 노출하지 않지만 공개 GitHub 저장소 자체가 비공개인 것은 아니다.
 
 ## 교차 검색과 편집 제안 (04단계)
 
