@@ -38,9 +38,9 @@ const fakeWindow = {
 };
 const fakeLocation = {hash: ''};
 const fakeFetch = async () => ({ok: true, json: async () => notes});
-vm.runInNewContext(fs.readFileSync('app.js', 'utf8'),
-  {document: fakeDocument, window: fakeWindow, location: fakeLocation,
-   fetch: fakeFetch, console, Math, Error},
+const context = {document: fakeDocument, window: fakeWindow, location: fakeLocation,
+  fetch: fakeFetch, console, Math, Error};
+vm.runInNewContext(fs.readFileSync('app.js', 'utf8'), context,
   {filename: 'app.js', timeout: 5000});
 
 await new Promise(resolve => setImmediate(resolve));
@@ -83,4 +83,43 @@ assert.match(html(), /오늘의 무작위 문서/);
 fakeWindow.matchMedia = () => ({matches: false});
 visit('#ai-human-control-guide');
 assert.match(html(), /<details class="toc" open><summary>/);
-console.log('OK: home, categories, article, TOC, links, listing, search, about, missing article');
+
+// Regression: public manuscripts must render tables rather than pipe-delimited paragraphs.
+visit('#state-hollowing-country-pilot');
+assert.equal((html().match(/<table>/g) || []).length, 2);
+assert.equal((html().match(/<tbody>/g) || []).length, 2);
+assert.equal((html().match(/<tr>/g) || []).length, 42);
+assert.match(html(), /<th scope="col" class="align-right">GPI<\/th>/);
+assert.match(html(), /<td class="align-right"><strong>18\.6<\/strong><\/td>/);
+assert.ok(!html().includes('| ---'), 'Table delimiter leaked into article');
+
+const markdown = text => context.renderMarkdown(text, 'table-test').html;
+const table = markdown('앞 문단\n\n항목 | 수치 | 설명\n:--- | ---: | :---:\n**강조** | 42 | [링크](#all)\n빈 칸 | 7\n추가 칸 | 8 | `코드` | 무시\n\n## 다음 절\n- 목록');
+assert.match(table, /<p>앞 문단<\/p><div class="table-scroll"/);
+assert.match(table, /role="region"[^>]*tabindex="0"/);
+assert.match(table, /<th scope="col" class="align-center">설명<\/th>/);
+assert.match(table, /<td class="align-left"><strong>강조<\/strong><\/td>/);
+assert.match(table, /<td class="align-center"><a href="#all">링크<\/a><\/td>/);
+assert.match(table, /<td class="align-center"><\/td>/);
+assert.ok(!table.includes('무시'), 'Extra body cells should be ignored');
+assert.match(table, /<\/table><\/div><h2[^>]*>다음 절<\/h2><ul><li>목록<\/li><\/ul>/);
+
+const pipes = markdown('| 이름 | 표현 |\n| --- | --- |\n| a\\|b | `x|y` |\n| c | 끝\\| |');
+assert.match(pipes, /<td class="align-left">a\|b<\/td>/);
+assert.match(pipes, /<td class="align-left"><code>x\|y<\/code><\/td>/);
+assert.match(pipes, /<td class="align-left">끝\|<\/td>/);
+assert.ok(!markdown('일반 | 문장\n이어지는 문장').includes('<table>'));
+assert.ok(!markdown('| A | B |\n| --- |').includes('<table>'), 'Mismatched header is not a table');
+const unsafe = markdown('| <img src=x onerror=alert(1)> |\n| --- |\n| [위험](javascript:alert) |');
+assert.ok(!unsafe.includes('<img'));
+assert.ok(!unsafe.includes('href="javascript:'));
+assert.match(unsafe, /&lt;img/);
+
+let tableDocuments = 0;
+for (const note of notes) {
+  const count = note.body.split('\n').filter(line => /^\|\s*:?-{3,}:?\s*\|/.test(line)).length;
+  if (!count) continue;
+  assert.equal((markdown(note.body).match(/<table>/g) || []).length, count, note.id);
+  tableDocuments++;
+}
+console.log('OK: viewer routes, mobile navigation, Markdown tables, alignment, escaping and ' + tableDocuments + ' published table documents');

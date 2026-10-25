@@ -94,6 +94,16 @@ kbd{border:1px solid var(--line);border-radius:3px;padding:0 5px;background:var(
 .prose code{font-size:.9em;background:var(--soft);border-radius:3px;padding:1px 4px}
 .prose strong{font-weight:750}
 .prose blockquote{border-left:3px solid var(--accent);color:var(--muted);margin:18px 0;padding:2px 16px}
+.prose .table-scroll{max-width:100%;overflow-x:auto;margin:0 0 22px;border:1px solid var(--line);border-radius:8px}
+.prose .table-scroll:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.prose table{width:100%;border-collapse:collapse;font-size:.9em;line-height:1.65}
+.prose th,.prose td{min-width:7rem;padding:10px 12px;vertical-align:top;border-bottom:1px solid var(--line)}
+.prose th{background:var(--soft);font-weight:700}
+.prose tbody tr:last-child td{border-bottom:0}
+.prose tbody tr:nth-child(even){background:var(--paper)}
+.prose .align-left{text-align:left}
+.prose .align-center{text-align:center}
+.prose .align-right{text-align:right}
 .reader-bottom{margin-top:42px;padding-top:20px;border-top:1px solid var(--line)}
 .reader-bottom h2{font-size:15px;margin:0 0 13px}
 .related-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}
@@ -156,4 +166,6 @@ kbd{border:1px solid var(--line);border-radius:3px;padding:0 5px;background:var(
  .main-view{max-width:none}
  .reader-header{break-after:avoid}
  .prose a{color:var(--ink)}
+ .prose .table-scroll{overflow:visible}
+ .prose th,.prose td{min-width:0;padding:6px}
 }
