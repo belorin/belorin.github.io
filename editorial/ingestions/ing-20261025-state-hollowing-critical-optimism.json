@@ -1,0 +1,225 @@
+{
+  "id": "ing-20261025-state-hollowing-critical-optimism",
+  "processed_on": "2026-10-25",
+  "coverage": "visible-complete",
+  "limit_note": "현재 화면에서 접근 가능한 토론과 포함된 시범 조사 보고서만 반영하며 표본 수치와 외부 문헌의 최신성은 재검증하지 않음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k1",
+      "kind": "argument",
+      "title": "벨 에포크·1929년·1939년의 서로 다른 위험 기제",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-crisis-historical-analogies",
+          "section": "직전이라는 말의 위험"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "kind": "counterargument",
+      "title": "1914년형 확전과 현대 억지·제한전의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-crisis-historical-analogies",
+          "section": "벨 에포크의 이중성: 연결된 세계와 충돌하는 제국"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "kind": "argument",
+      "title": "기술 낙관·금융 취약성과 제도적 방화벽의 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-crisis-historical-analogies",
+          "section": "1929년의 그림자: 신기술·자산·신용·관세"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "kind": "argument",
+      "title": "1930년대식 수정주의와 현대 권위주의의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-crisis-historical-analogies",
+          "section": "1930년대 후반: 정치적 피로, 수정주의, 전쟁의 선택 가능성"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "kind": "argument",
+      "title": "위험의 복합 연쇄와 역사 유비의 해석 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-crisis-historical-analogies",
+          "section": "파국의 합성보다 위기의 연쇄를 본다"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "kind": "concept",
+      "title": "AI 구원론 없이 구성하는 비극적 완충론",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "critical-optimism-fragile-order",
+          "section": "낙관이 훨씬 어려운 시대"
+        }
+      ]
+    },
+    {
+      "id": "k7",
+      "kind": "counterargument",
+      "title": "비용 피드백이 자동 감속을 보장하지 않는 조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "critical-optimism-fragile-order",
+          "section": "비관식에 빠져 있는 반작용"
+        }
+      ]
+    },
+    {
+      "id": "k8",
+      "kind": "argument",
+      "title": "핵 억지·금융 안정화·에너지 전환의 조건부 완충",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "critical-optimism-fragile-order",
+          "section": "전쟁의 브레이크: 비싼 전면전과 잔혹한 제한전"
+        }
+      ]
+    },
+    {
+      "id": "k9",
+      "kind": "counterargument",
+      "title": "제도적 완충장치의 불균등한 분포와 이미 도착한 디스토피아",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "critical-optimism-fragile-order",
+          "section": "완충장치가 먼저 사망한 곳에서의 낙관"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "concept",
+      "title": "법적 주권과 실제 국가기능을 분리하는 국가 형해화 개념",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "state-hollowing-index",
+          "section": "국가는 있는데 국가는 작동하지 않는다"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "concept",
+      "title": "폭력·행정·화폐·재생산·탈출·비공식망·법치·외부 의존·투자의 아홉 층",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "state-hollowing-index",
+          "section": "100점 개념 설계와 중간 단계"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "question",
+      "title": "토드 영아사망률과 미확인 대리모 지표의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "state-hollowing-index",
+          "section": "네 번째 층: 사회적 재생산의 붕괴"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "argument",
+      "title": "빈곤 낙인·중복지표·평균값 편향을 피하는 보정",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "state-hollowing-index",
+          "section": "비교의 함정과 보정 원칙"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "fact",
+      "title": "GPI·FSI·물가·정부부채 네 지표 코어 산식",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "state-hollowing-country-pilot",
+          "section": "모형과 정규화"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "curation",
+      "title": "20개국 코어 측정 입력값과 단계 분포",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "state-hollowing-country-pilot",
+          "section": "20개국 입력값: 서로 다른 시대를 한 행에 놓은 한계"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "example",
+      "title": "이란·레바논·베네수엘라와 선진국의 서로 다른 압력",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "state-hollowing-country-pilot",
+          "section": "유형은 점수보다 중요한 정보를 제공한다"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "counterargument",
+      "title": "레바논·베네수엘라의 과거 부채값 대체와 민감도 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "state-hollowing-country-pilot",
+          "section": "민감도와 자료 문제"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "argument",
+      "title": "기존 세계전쟁 확전 모형과 국가 공동화 관점의 직접 통합",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "war-escalation-local-to-world",
+          "section": "역사 유비의 두 번째 층: 전쟁 전야와 국가의 내부 공동화"
+        }
+      ]
+    }
+  ]
+}

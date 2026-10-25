@@ -244,7 +244,7 @@
 - **[수메르 재발견과 구약 원초사의 역사화: 홍수·에덴·바벨탑은 어떻게 재배치되었나](wiki/sumer-bible-primeval-history.md)** · 별칭: 수메르와 구약, 창세기 원초사, 메소포타미아와 성경, 노아의 홍수와 수메르, 에덴과 딜문 · 수정: 2026-10-25 · 검토: 대화 중 확인된 고대근동·성서학 자료 요약 기반 · 세부 연대와 학계 견해 외부 재검증 필요
   - 수메르·아카드·바빌로니아 문헌의 재발견이 창세기 1~11장을 문자 그대로의 역사로 확정한 것이 아니라, 홍수·에덴·바벨탑을 고대 서아시아 원초사 전통과 실제 역사적 배경 속에 재배치한 과정을 설명한다.
   - [웹페이지](https://belorin.github.io/#sumer-bible-primeval-history) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/sumer-bible-primeval-history.md)
-- **[국지전은 어떻게 세계전쟁이 되는가: 1754·1618·1914·1939·1950과 2026년 다중 전선](wiki/war-escalation-local-to-world.md)** · 별칭: 국지전에서 세계대전, 전쟁의 연결, 1914 확전 모형 · 수정: 2026-10-24 · 검토: 역사 사례와 2026년 정세 비교·대화 내 자료 기반·세부 재검증 필요
+- **[국지전은 어떻게 세계전쟁이 되는가: 1754·1618·1914·1939·1950과 2026년 다중 전선](wiki/war-escalation-local-to-world.md)** · 별칭: 국지전에서 세계대전, 전쟁의 연결, 1914 확전 모형 · 수정: 2026-10-25 · 검토: 역사 사례와 2026년 정세 비교·대화 내 자료 기반·세부 재검증 필요
   - 세계대전의 핵심을 국지전의 수가 아니라 전쟁들의 전략적 연결에서 찾고, 1754·1618·1914·1939·1950의 확전과 억제 사례를 러시아-유럽·대만·한반도의 동시 위기와 비교한다.
   - [웹페이지](https://belorin.github.io/#war-escalation-local-to-world) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/war-escalation-local-to-world.md)
 - **[혐오의 가속은 파국 없이 멈출 수 있는가: 집단공황과 정치적 선동의 역사적 브레이크](wiki/hate-escalation-brakes-history.md)** · 별칭: 혐오 가속의 브레이크, 집단공황의 중단, 파국 전 혐오정치 중단, 혐오사회 되돌리기 · 수정: 2026-10-25 · 검토: 대화 내 역사 사례 요약 · 사건별 세부 사실과 수치 외부 재검증 필요
@@ -259,6 +259,9 @@
 - **[드레퓌스 사건과 지식인들의 분열: 작가·학자·화가들은 어느 편에 섰는가](wiki/dreyfus-affair-intellectuals.md)** · 별칭: 드레퓌스파, 반드레퓌스파, Dreyfus Affair, 드레퓌스 사건의 지식인, 지식인 선언 · 수정: 2026-10-25 · 검토: 대화 내부 총합 · 인물별 서명·입장 및 역사 세부 사료 재검증 필요
   - 졸라·클레망소·프루스트·뒤르켐과 드뤼몽·바레스·드가 등 드레퓌스 사건을 둘러싼 지식인·예술가의 진영과 행동을 구분하고, 반유대주의·군 권위·지식인의 공적 책임을 분석한다.
   - [웹페이지](https://belorin.github.io/#dreyfus-affair-intellectuals) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/dreyfus-affair-intellectuals.md)
+- **[세계는 다시 1914·1929·1939년으로 향하는가: 벨 에포크와 세 번의 파국을 비교하는 법](wiki/world-crisis-historical-analogies.md)** · 별칭: 현대와 대공황 직전 비교, 벨 에포크의 종언, 세계대전 전야의 현재, 현대 위기의 역사적 유비 · 수정: 2026-10-25 · 검토: 현재 접근 가능한 논의와 코어 시범자료 기반 · 외부 재검증 필요
+  - 벨 에포크, 1929년 대공황, 1930년대 후반의 서로 다른 위기 메커니즘과 현대의 완충·연쇄 위험을 비교한다.
+  - [웹페이지](https://belorin.github.io/#world-crisis-historical-analogies) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-crisis-historical-analogies.md)
 
 ## 언어
 
@@ -316,3 +319,15 @@
 - **[음악과 책의 공급 폭발: 한 사람의 귀와 눈은 얼마나 따라갈 수 있는가](wiki/music-books-supply-attention.md)** · 별칭: 문화 공급 과잉, 음악과 책의 생산 소비 격차 · 수정: 2026-10-25 · 검토: 대화 내부 추정·검토 필요
   - 음악과 종이책의 역사적 생산량, 개인 소비시간, AI 공급, 차트 집중과 큐레이션을 비교하며 관측과 추정의 경계를 검토한다.
   - [웹페이지](https://belorin.github.io/#music-books-supply-attention) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/music-books-supply-attention.md)
+
+## 정치경제
+
+- **[파국의 비용은 브레이크가 될 수 있는가: 비극적 완충론과 비판적 낙관주의](wiki/critical-optimism-fragile-order.md)** · 별칭: 비극적 완충론, 비싼 안정, AI 없는 낙관론, 비판적 낙관의 수정해 · 수정: 2026-10-25 · 검토: 현재 접근 가능한 논의와 코어 시범자료 기반 · 외부 재검증 필요
+  - AI 구원론을 제외한 비용 피드백·핵 억지·금융 방화벽·에너지 전환과 제도 공동화의 반론으로 최소 낙관의 조건을 검토한다.
+  - [웹페이지](https://belorin.github.io/#critical-optimism-fragile-order) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/critical-optimism-fragile-order.md)
+- **[국가는 언제 껍데기가 되는가: 형해화·좀비 국가·생활세계의 디스토피아](wiki/state-hollowing-index.md)** · 별칭: 국가 형해화 지수, 좀비 국가 지수, State Hollowing Index, 국가 생명력 지수 · 수정: 2026-10-25 · 검토: 현재 접근 가능한 논의와 코어 시범자료 기반 · 외부 재검증 필요
+  - 주권의 법적 외형과 기능적 연속성을 구분하고 폭력·행정·화폐·사회 재생산 등 아홉 층의 형해화 지수를 설계한다.
+  - [웹페이지](https://belorin.github.io/#state-hollowing-index) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/state-hollowing-index.md)
+- **[20개국 국가 형해화 시범 측정: 네 지표로 본 껍데기와 기능의 불일치](wiki/state-hollowing-country-pilot.md)** · 별칭: 국가 형해화 20개국 표, 좀비 국가 코어 v0.1, 국가 공동화 국가별 비교 · 수정: 2026-10-25 · 검토: 현재 접근 가능한 논의와 코어 시범자료 기반 · 외부 재검증 필요
+  - GPI·FSI·물가·정부부채의 코어 v0.1 산식과 20개국 입력·점수, 결측 대체와 민감도·과잉해석의 한계를 기록한다.
+  - [웹페이지](https://belorin.github.io/#state-hollowing-country-pilot) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/state-hollowing-country-pilot.md)
