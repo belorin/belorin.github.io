@@ -1,6 +1,6 @@
 # 누적형 지식백과 편집 프로토콜
 
-> 버전: 1.3 · 제정: 2026-10-22 · 개정: 2026-10-25 · 대상: `belorin/belorin.github.io` (`main`)
+> 버전: 1.4 · 제정: 2026-10-22 · 개정: 2026-10-26 · 대상: `belorin/belorin.github.io` (`main`)
 >
 > 이 문서는 특정 ChatGPT 대화를 이 저장소의 지식백과에 **총합·증보**하기 위한 실행 규칙이다. 기존 `AGENTS.md`의 저장소 형식·보안·게시 규칙을 함께 따른다. 충돌하는 경우 저장소의 실제 작동 방식과 안전 제한을 우선 확인하고, 임의로 데이터를 훼손하지 않는다.
 
@@ -155,10 +155,10 @@
 1. 기존 `wiki/*.md`와 `wiki/manifest.json`에서 관련 원고를 확인한다.
 2. 논증의 깊이와 정보를 보존하며 **Markdown에만** 실제 내용을 증보한다. 신규 문서는 manifest에 등록한다.
 3. 정적 사이트의 기존 `app.js`가 지원하는 제한된 Markdown과 해시 링크 형식에 맞춰 생성한다.
-4. `node scripts/build-notes.mjs`과 `node scripts/build-notes.mjs --check`를 순서대로 실행한다.
-5. **수정된 Markdown, 메타데이터, 생성된 JSON을 같은 커밋**으로 기록한다. CI 검사가 통과했는지 확인한다.
+4. **브랜치나 PR을 만들지 않고 `main`에 직접 커밋한다.** 여러 파일을 한 커밋에 쓸 수 없으면 Markdown → manifest·관계 정본 → 편집 장부 순으로 나누어 커밋한다.
+5. **생성물(`notes.json`, `AI_INDEX.md`, `ai/*`, `llms.txt`)은 직접 작성하지 않는다.** `main`에 커밋되면 GitHub Actions(`.github/workflows/deploy-pages.yml`)가 생성·검증한 뒤 생성물을 자동 커밋하고 사이트를 배포한다. 검증에 실패하면 배포되지 않으므로 Actions 탭의 결과를 확인한다.
 
-**게시와 보안:** 현재 `https://belorin.github.io/#문서-id` 체계, `main` 브랜치 기반 GitHub Pages, `.nojekyll`을 유지한다. `publish:false` 원고는 사이트에 자동 등장하지 않는다. 대화 전체를 공개 저장소에 무단 업로드하지 않으며 개인정보·민감 정보가 포함된 미공개 출처는 게재를 보류한다.
+**게시와 보안:** 현재 `https://belorin.github.io/#문서-id` 체계, GitHub Actions 기반 Pages 배포, `.nojekyll`을 유지한다. `publish:false` 원고는 사이트에 자동 등장하지 않는다. 대화 전체를 공개 저장소에 무단 업로드하지 않으며 개인정보·민감 정보가 포함된 미공개 출처는 게재를 보류한다.
 
 **이행 범위:** 이 단계에서는 본문의 서술을 새로 조사하거나 축약하지 않는다. 기존 웹사이트의 게시 문서와 링크를 그대로 보존하는 기계적 정본화만 진행한다. 메타데이터는 별도 manifest에 있으므로 추후 안정적인 frontmatter 이행은 독립 작업으로 수행할 수 있다.
 
@@ -171,8 +171,8 @@
 3. 문서 별칭(`aliases`)과 검토 상태(`review_state`)는 `wiki/manifest.json`에 둔다. `review_state`는 `unassessed`, `needs_review`, `reviewed` 중 하나이다. `reviewed`는 실제 검토가 이루어진 경우에만 사용한다. 원래 `status` 문장은 유지한다.
 4. 기존 `updated`는 기존 기록의 수정일이다. `last_enriched_on`은 **실제로 지식을 증보한 날짜만** 기록하며, 이전 증보일을 알 수 없으면 `null`로 둔다. 두 날짜를 동일하다고 추정하지 않는다.
 5. `manifest.related`는 **의미를 특정하지 않은 단순 연관**이다. `wiki/relations.json`에는 근거를 가진 의미 관계만 `from`, `to`, `type`, `evidence_section`, `reason`으로 별도 기록한다. 실제 본문에 존재하지 않는 근거 절을 기입하지 않는다.
-6. `node scripts/build-ai-index.mjs`로 `AI_INDEX.md`, `ai/index.json`, `ai/relations.json`, `llms.txt`를 생성하고, `--check`로 검증한다. 생성물을 직접 편집하지 않는다.
-7. 기존 `notes.json`과 정적 사이트는 변경하지 않는다. **Markdown·manifest·관계 정본·웹 JSON·AI 생성 색인을 같은 커밋으로 기록**한다.
+6. `AI_INDEX.md`, `ai/index.json`, `ai/relations.json`, `llms.txt`는 `scripts/build-ai-index.mjs`가 생성한다. 생성물을 직접 편집하지 않는다.
+7. 생성은 `main` 커밋 뒤 GitHub Actions가 자동으로 수행한다. 편집자는 Markdown·manifest·관계 정본·편집 장부만 커밋한다.
 8. `/llms.txt`와 공개 AI 색인은 `publish:true` 문서만 나열한다. `publish:false` 원고는 자동 색인에 넣지 않는다. 그러나 GitHub 저장소가 공개이므로 파일 자체를 비공개로 보호하는 조치는 아니다.
 9. `/llms.txt`는 외부 AI를 위한 **선택적인 탐색 안내**이지 모든 AI가 자동으로 읽는다는 보장은 아니다. 내용 확인은 각 항목의 **직접 Markdown 주소**로 한다.
 10. 이 단계는 외부 자료를 조사하거나 새 지식을 생성하지 않고 이미 공개된 문서의 색인과 관계를 편집·파생시키는 작업이다.
@@ -202,10 +202,10 @@
 3. **전수 추출:** 실제 접근 가능한 대화를 순서대로 살피며 주제 후보와 논증·사례·반론의 지식 대장을 작업 중에만 만든다. 대화 원문·발췌문은 GitHub에 보관하지 않는다.
 4. **중복·연결 조사:** 색인과 관계망을 통해 직접 관련 문서뿐 아니라 간접적인 후보도 탐색한다. 로컬 명령이 가능하면 `scripts/search-wiki.mjs`를 사용하고, 그렇지 않으면 색인과 원고를 AI가 의미적으로 비교한다. **간접적 가설은 `editorial/crosslinks/index.json`에 제안으로 기록하고 자동 본문 편입하지 않는다.** 외부 인터넷 조사는 하지 않는다.
 5. **상세 집필:** 서적 수준으로 통합·증보하고, 새 독립 주제가 필요하면 별도의 Markdown 원고를 만든다.
-6. **게시 반영:** 공개할 원고는 `wiki/*.md`와 `wiki/manifest.json`, 필요하면 `wiki/relations.json`을 편집한다. 두 생성기를 실행해 `notes.json`과 AI 탐색 파일·`llms.txt`를 재생성한다.
-7. **검수:** 원문 대조, 기존 원고 전후 비교와 함께 `node scripts/build-notes.mjs --check`, `node scripts/build-ai-index.mjs --check`, `node scripts/validate-editorial.mjs`를 실행한다.
+6. **게시 반영:** 공개할 원고는 `wiki/*.md`와 `wiki/manifest.json`, 필요하면 `wiki/relations.json`을 편집한다. `main`에 직접 커밋하며 `notes.json`과 AI 탐색 파일·`llms.txt`는 GitHub Actions가 재생성한다.
+7. **검수:** 원문 대조, 기존 원고 전후 비교를 수행한다. 형식·ID·링크·장부 검증은 커밋 뒤 GitHub Actions가 수행하며, 로컬 실행이 가능하면 `node scripts/build-notes.mjs`, `node scripts/build-ai-index.mjs`, `node scripts/validate-editorial.mjs`로 미리 확인할 수 있다.
 8. **기록:** 직접 증보는 `editorial/ingestions/`에 비식별 지식 표제별 반영 문서·절을 기록하고, 간접적인 개념 연결은 `editorial/crosslinks/index.json`에 제안 상태로 별도 기록한다. 사적 대화 원문과 직접 인용은 저장하지 않는다. 두 장부를 검증한 뒤 수정된 파일을 커밋한다.
-9. **보고:** 생성/수정된 Markdown, manifest, 생성된 JSON, 핵심 증보 항목, 실제 커밋, 게시 여부, 미처리/불확실 범위를 보고한다.
+9. **보고:** 생성/수정된 Markdown, manifest, 핵심 증보 항목, 실제 커밋, 게시 여부, 미처리/불확실 범위를 보고한다.
 
 도구가 없거나 쓰기에 실패하면 완료한 척하지 말고, 결과물을 Markdown으로 제공할 수 있는 범위까지 처리하며 저장소 변경 여부를 명확히 밝힌다. 중대한 정보 손실이나 기존 문서와의 미해결 충돌이 예상되면 파괴적 덮어쓰기를 피하고 검토 항목으로 남긴다.
 
@@ -224,7 +224,7 @@
 - [ ] 관련 문서를 실제로 확인했고, 지식 항목마다 통합된 문서·절 또는 미반영 상태를 기록했는가?
 - [ ] 대화 원문·발췌·사적인 링크를 저장하지 않았으며, 새 본문을 출처 회고체가 아닌 독립적인 설명으로 썼는가?
 - [ ] 선택했거나 자율 판단한 문체가 독립적 `~다`체를 유지하면서 주제에 맞는 생동감을 살렸고, 수사적 표현 때문에 정확성이나 논증이 손상되지 않았는가?
-- [ ] 웹사이트 게시가 필요하다면 Markdown과 manifest를 수정해 `notes.json`을 재생성하고 형식·ID·링크를 검증했는가?
+- [ ] 웹사이트 게시가 필요하다면 Markdown과 manifest를 `main`에 커밋했고, 생성물을 직접 쓰지 않았는가? (확인 가능하면 Actions 배포 성공 여부도 보고)
 - [ ] 간접적인 유비·철학적 연결을 확정 사실로 자동 집필하지 않고 별도 제안으로 구분했는가?
 - [ ] 처리 범위, 작업 중 빠진 구간, 확인이 어려운 부분, 실제 커밋 내역을 보고했는가?
 
