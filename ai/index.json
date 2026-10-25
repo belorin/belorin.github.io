@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 132,
+  "document_count": 133,
   "documents": [
     {
       "id": "living-notes",
@@ -39,7 +39,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/living-notes.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/living-notes.md",
-      "page_url": "https://belorin.github.io/#living-notes"
+      "page_url": "https://belorin.github.io/notes/living-notes/",
+      "app_url": "https://belorin.github.io/#living-notes"
     },
     {
       "id": "editing-principles",
@@ -71,7 +72,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/editing-principles.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/editing-principles.md",
-      "page_url": "https://belorin.github.io/#editing-principles"
+      "page_url": "https://belorin.github.io/notes/editing-principles/",
+      "app_url": "https://belorin.github.io/#editing-principles"
     },
     {
       "id": "open-questions",
@@ -111,7 +113,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/open-questions.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/open-questions.md",
-      "page_url": "https://belorin.github.io/#open-questions"
+      "page_url": "https://belorin.github.io/notes/open-questions/",
+      "app_url": "https://belorin.github.io/#open-questions"
     },
     {
       "id": "jazz-to-ai",
@@ -151,7 +154,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-to-ai.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/jazz-to-ai.md",
-      "page_url": "https://belorin.github.io/#jazz-to-ai"
+      "page_url": "https://belorin.github.io/notes/jazz-to-ai/",
+      "app_url": "https://belorin.github.io/#jazz-to-ai"
     },
     {
       "id": "double-bass",
@@ -182,7 +186,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/double-bass.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/double-bass.md",
-      "page_url": "https://belorin.github.io/#double-bass"
+      "page_url": "https://belorin.github.io/notes/double-bass/",
+      "app_url": "https://belorin.github.io/#double-bass"
     },
     {
       "id": "electric-bass",
@@ -213,7 +218,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/electric-bass.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/electric-bass.md",
-      "page_url": "https://belorin.github.io/#electric-bass"
+      "page_url": "https://belorin.github.io/notes/electric-bass/",
+      "app_url": "https://belorin.github.io/#electric-bass"
     },
     {
       "id": "rhythm-section",
@@ -246,7 +252,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/rhythm-section.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/rhythm-section.md",
-      "page_url": "https://belorin.github.io/#rhythm-section"
+      "page_url": "https://belorin.github.io/notes/rhythm-section/",
+      "app_url": "https://belorin.github.io/#rhythm-section"
     },
     {
       "id": "big-band",
@@ -276,7 +283,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/big-band.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/big-band.md",
-      "page_url": "https://belorin.github.io/#big-band"
+      "page_url": "https://belorin.github.io/notes/big-band/",
+      "app_url": "https://belorin.github.io/#big-band"
     },
     {
       "id": "brass-band",
@@ -309,7 +317,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/brass-band.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/brass-band.md",
-      "page_url": "https://belorin.github.io/#brass-band"
+      "page_url": "https://belorin.github.io/notes/brass-band/",
+      "app_url": "https://belorin.github.io/#brass-band"
     },
     {
       "id": "drum-kit",
@@ -339,7 +348,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/drum-kit.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/drum-kit.md",
-      "page_url": "https://belorin.github.io/#drum-kit"
+      "page_url": "https://belorin.github.io/notes/drum-kit/",
+      "app_url": "https://belorin.github.io/#drum-kit"
     },
     {
       "id": "jazz-dialogue",
@@ -372,7 +382,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-dialogue.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/jazz-dialogue.md",
-      "page_url": "https://belorin.github.io/#jazz-dialogue"
+      "page_url": "https://belorin.github.io/notes/jazz-dialogue/",
+      "app_url": "https://belorin.github.io/#jazz-dialogue"
     },
     {
       "id": "jazz-listening",
@@ -402,7 +413,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-listening.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/jazz-listening.md",
-      "page_url": "https://belorin.github.io/#jazz-listening"
+      "page_url": "https://belorin.github.io/notes/jazz-listening/",
+      "app_url": "https://belorin.github.io/#jazz-listening"
     },
     {
       "id": "silent-film",
@@ -434,7 +446,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/silent-film.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/silent-film.md",
-      "page_url": "https://belorin.github.io/#silent-film"
+      "page_url": "https://belorin.github.io/notes/silent-film/",
+      "app_url": "https://belorin.github.io/#silent-film"
     },
     {
       "id": "circus-music-questions",
@@ -466,7 +479,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/circus-music-questions.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/circus-music-questions.md",
-      "page_url": "https://belorin.github.io/#circus-music-questions"
+      "page_url": "https://belorin.github.io/notes/circus-music-questions/",
+      "app_url": "https://belorin.github.io/#circus-music-questions"
     },
     {
       "id": "circus-music-concepts",
@@ -497,7 +511,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/circus-music-concepts.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/circus-music-concepts.md",
-      "page_url": "https://belorin.github.io/#circus-music-concepts"
+      "page_url": "https://belorin.github.io/notes/circus-music-concepts/",
+      "app_url": "https://belorin.github.io/#circus-music-concepts"
     },
     {
       "id": "circus-music-research-ledger",
@@ -528,7 +543,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/circus-music-research-ledger.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/circus-music-research-ledger.md",
-      "page_url": "https://belorin.github.io/#circus-music-research-ledger"
+      "page_url": "https://belorin.github.io/notes/circus-music-research-ledger/",
+      "app_url": "https://belorin.github.io/#circus-music-research-ledger"
     },
     {
       "id": "jazz-history-plural",
@@ -562,7 +578,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-history-plural.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/jazz-history-plural.md",
-      "page_url": "https://belorin.github.io/#jazz-history-plural"
+      "page_url": "https://belorin.github.io/notes/jazz-history-plural/",
+      "app_url": "https://belorin.github.io/#jazz-history-plural"
     },
     {
       "id": "jazz-ensemble-labor",
@@ -599,7 +616,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-ensemble-labor.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/jazz-ensemble-labor.md",
-      "page_url": "https://belorin.github.io/#jazz-ensemble-labor"
+      "page_url": "https://belorin.github.io/notes/jazz-ensemble-labor/",
+      "app_url": "https://belorin.github.io/#jazz-ensemble-labor"
     },
     {
       "id": "jazz-live-quartet-case",
@@ -632,7 +650,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-live-quartet-case.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/jazz-live-quartet-case.md",
-      "page_url": "https://belorin.github.io/#jazz-live-quartet-case"
+      "page_url": "https://belorin.github.io/notes/jazz-live-quartet-case/",
+      "app_url": "https://belorin.github.io/#jazz-live-quartet-case"
     },
     {
       "id": "jazz-chronological-listening",
@@ -665,7 +684,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-chronological-listening.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/jazz-chronological-listening.md",
-      "page_url": "https://belorin.github.io/#jazz-chronological-listening"
+      "page_url": "https://belorin.github.io/notes/jazz-chronological-listening/",
+      "app_url": "https://belorin.github.io/#jazz-chronological-listening"
     },
     {
       "id": "jazz-current-ecosystem",
@@ -697,7 +717,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-current-ecosystem.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/jazz-current-ecosystem.md",
-      "page_url": "https://belorin.github.io/#jazz-current-ecosystem"
+      "page_url": "https://belorin.github.io/notes/jazz-current-ecosystem/",
+      "app_url": "https://belorin.github.io/#jazz-current-ecosystem"
     },
     {
       "id": "jazz-career-path",
@@ -728,7 +749,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-career-path.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/jazz-career-path.md",
-      "page_url": "https://belorin.github.io/#jazz-career-path"
+      "page_url": "https://belorin.github.io/notes/jazz-career-path/",
+      "app_url": "https://belorin.github.io/#jazz-career-path"
     },
     {
       "id": "silent-film-musician-labor",
@@ -759,7 +781,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/silent-film-musician-labor.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/silent-film-musician-labor.md",
-      "page_url": "https://belorin.github.io/#silent-film-musician-labor"
+      "page_url": "https://belorin.github.io/notes/silent-film-musician-labor/",
+      "app_url": "https://belorin.github.io/#silent-film-musician-labor"
     },
     {
       "id": "wiki-building-history",
@@ -797,7 +820,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wiki-building-history.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/wiki-building-history.md",
-      "page_url": "https://belorin.github.io/#wiki-building-history"
+      "page_url": "https://belorin.github.io/notes/wiki-building-history/",
+      "app_url": "https://belorin.github.io/#wiki-building-history"
     },
     {
       "id": "ai-human-control-guide",
@@ -834,7 +858,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-human-control-guide.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-human-control-guide.md",
-      "page_url": "https://belorin.github.io/#ai-human-control-guide"
+      "page_url": "https://belorin.github.io/notes/ai-human-control-guide/",
+      "app_url": "https://belorin.github.io/#ai-human-control-guide"
     },
     {
       "id": "ai-takeover-human-recourse",
@@ -865,7 +890,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-takeover-human-recourse.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-takeover-human-recourse.md",
-      "page_url": "https://belorin.github.io/#ai-takeover-human-recourse"
+      "page_url": "https://belorin.github.io/notes/ai-takeover-human-recourse/",
+      "app_url": "https://belorin.github.io/#ai-takeover-human-recourse"
     },
     {
       "id": "ai-goals-hostage-and-bait",
@@ -896,7 +922,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-goals-hostage-and-bait.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-goals-hostage-and-bait.md",
-      "page_url": "https://belorin.github.io/#ai-goals-hostage-and-bait"
+      "page_url": "https://belorin.github.io/notes/ai-goals-hostage-and-bait/",
+      "app_url": "https://belorin.github.io/#ai-goals-hostage-and-bait"
     },
     {
       "id": "gradual-disempowerment",
@@ -930,7 +957,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gradual-disempowerment.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/gradual-disempowerment.md",
-      "page_url": "https://belorin.github.io/#gradual-disempowerment"
+      "page_url": "https://belorin.github.io/notes/gradual-disempowerment/",
+      "app_url": "https://belorin.github.io/#gradual-disempowerment"
     },
     {
       "id": "disempowerment-measurement",
@@ -963,7 +991,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/disempowerment-measurement.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/disempowerment-measurement.md",
-      "page_url": "https://belorin.github.io/#disempowerment-measurement"
+      "page_url": "https://belorin.github.io/notes/disempowerment-measurement/",
+      "app_url": "https://belorin.github.io/#disempowerment-measurement"
     },
     {
       "id": "llm-disempowerment-patterns",
@@ -994,7 +1023,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/llm-disempowerment-patterns.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/llm-disempowerment-patterns.md",
-      "page_url": "https://belorin.github.io/#llm-disempowerment-patterns"
+      "page_url": "https://belorin.github.io/notes/llm-disempowerment-patterns/",
+      "app_url": "https://belorin.github.io/#llm-disempowerment-patterns"
     },
     {
       "id": "conversational-ai-persuasion",
@@ -1025,7 +1055,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/conversational-ai-persuasion.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/conversational-ai-persuasion.md",
-      "page_url": "https://belorin.github.io/#conversational-ai-persuasion"
+      "page_url": "https://belorin.github.io/notes/conversational-ai-persuasion/",
+      "app_url": "https://belorin.github.io/#conversational-ai-persuasion"
     },
     {
       "id": "ai-conversation-data-access",
@@ -1056,7 +1087,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-conversation-data-access.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-conversation-data-access.md",
-      "page_url": "https://belorin.github.io/#ai-conversation-data-access"
+      "page_url": "https://belorin.github.io/notes/ai-conversation-data-access/",
+      "app_url": "https://belorin.github.io/#ai-conversation-data-access"
     },
     {
       "id": "deleuze-becoming-new",
@@ -1090,7 +1122,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-becoming-new.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/deleuze-becoming-new.md",
-      "page_url": "https://belorin.github.io/#deleuze-becoming-new"
+      "page_url": "https://belorin.github.io/notes/deleuze-becoming-new/",
+      "app_url": "https://belorin.github.io/#deleuze-becoming-new"
     },
     {
       "id": "deleuze-negation-history",
@@ -1126,7 +1159,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-negation-history.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/deleuze-negation-history.md",
-      "page_url": "https://belorin.github.io/#deleuze-negation-history"
+      "page_url": "https://belorin.github.io/notes/deleuze-negation-history/",
+      "app_url": "https://belorin.github.io/#deleuze-negation-history"
     },
     {
       "id": "deleuze-control-marx-future",
@@ -1161,7 +1195,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-control-marx-future.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/deleuze-control-marx-future.md",
-      "page_url": "https://belorin.github.io/#deleuze-control-marx-future"
+      "page_url": "https://belorin.github.io/notes/deleuze-control-marx-future/",
+      "app_url": "https://belorin.github.io/#deleuze-control-marx-future"
     },
     {
       "id": "post-deleuze-novelty-thinkers",
@@ -1195,7 +1230,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/post-deleuze-novelty-thinkers.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/post-deleuze-novelty-thinkers.md",
-      "page_url": "https://belorin.github.io/#post-deleuze-novelty-thinkers"
+      "page_url": "https://belorin.github.io/notes/post-deleuze-novelty-thinkers/",
+      "app_url": "https://belorin.github.io/#post-deleuze-novelty-thinkers"
     },
     {
       "id": "contemporary-governing-philosophies",
@@ -1228,7 +1264,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/contemporary-governing-philosophies.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/contemporary-governing-philosophies.md",
-      "page_url": "https://belorin.github.io/#contemporary-governing-philosophies"
+      "page_url": "https://belorin.github.io/notes/contemporary-governing-philosophies/",
+      "app_url": "https://belorin.github.io/#contemporary-governing-philosophies"
     },
     {
       "id": "ai-democracy-narrow-corridor",
@@ -1262,7 +1299,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-democracy-narrow-corridor.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-democracy-narrow-corridor.md",
-      "page_url": "https://belorin.github.io/#ai-democracy-narrow-corridor"
+      "page_url": "https://belorin.github.io/notes/ai-democracy-narrow-corridor/",
+      "app_url": "https://belorin.github.io/#ai-democracy-narrow-corridor"
     },
     {
       "id": "world-reading-groups",
@@ -1293,7 +1331,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-reading-groups.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/world-reading-groups.md",
-      "page_url": "https://belorin.github.io/#world-reading-groups"
+      "page_url": "https://belorin.github.io/notes/world-reading-groups/",
+      "app_url": "https://belorin.github.io/#world-reading-groups"
     },
     {
       "id": "global-reading-club-2026-books",
@@ -1324,7 +1363,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/global-reading-club-2026-books.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/global-reading-club-2026-books.md",
-      "page_url": "https://belorin.github.io/#global-reading-club-2026-books"
+      "page_url": "https://belorin.github.io/notes/global-reading-club-2026-books/",
+      "app_url": "https://belorin.github.io/#global-reading-club-2026-books"
     },
     {
       "id": "world-book-club-korean-editions",
@@ -1355,7 +1395,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-book-club-korean-editions.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/world-book-club-korean-editions.md",
-      "page_url": "https://belorin.github.io/#world-book-club-korean-editions"
+      "page_url": "https://belorin.github.io/notes/world-book-club-korean-editions/",
+      "app_url": "https://belorin.github.io/#world-book-club-korean-editions"
     },
     {
       "id": "classical-canon-mauceri",
@@ -1389,7 +1430,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/classical-canon-mauceri.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/classical-canon-mauceri.md",
-      "page_url": "https://belorin.github.io/#classical-canon-mauceri"
+      "page_url": "https://belorin.github.io/notes/classical-canon-mauceri/",
+      "app_url": "https://belorin.github.io/#classical-canon-mauceri"
     },
     {
       "id": "ai-economic-transition",
@@ -1423,7 +1465,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-economic-transition.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-economic-transition.md",
-      "page_url": "https://belorin.github.io/#ai-economic-transition"
+      "page_url": "https://belorin.github.io/notes/ai-economic-transition/",
+      "app_url": "https://belorin.github.io/#ai-economic-transition"
     },
     {
       "id": "ai-capital-labor-distribution",
@@ -1457,7 +1500,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-capital-labor-distribution.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-capital-labor-distribution.md",
-      "page_url": "https://belorin.github.io/#ai-capital-labor-distribution"
+      "page_url": "https://belorin.github.io/notes/ai-capital-labor-distribution/",
+      "app_url": "https://belorin.github.io/#ai-capital-labor-distribution"
     },
     {
       "id": "ai-class-fiction",
@@ -1487,7 +1531,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-class-fiction.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-class-fiction.md",
-      "page_url": "https://belorin.github.io/#ai-class-fiction"
+      "page_url": "https://belorin.github.io/notes/ai-class-fiction/",
+      "app_url": "https://belorin.github.io/#ai-class-fiction"
     },
     {
       "id": "burning-man-community",
@@ -1518,7 +1563,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/burning-man-community.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/burning-man-community.md",
-      "page_url": "https://belorin.github.io/#burning-man-community"
+      "page_url": "https://belorin.github.io/notes/burning-man-community/",
+      "app_url": "https://belorin.github.io/#burning-man-community"
     },
     {
       "id": "romp-etymology",
@@ -1549,7 +1595,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/romp-etymology.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/romp-etymology.md",
-      "page_url": "https://belorin.github.io/#romp-etymology"
+      "page_url": "https://belorin.github.io/notes/romp-etymology/",
+      "app_url": "https://belorin.github.io/#romp-etymology"
     },
     {
       "id": "daisuke-soga-conductor-career",
@@ -1578,7 +1625,8 @@
       "related_ids": [],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/daisuke-soga-conductor-career.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/daisuke-soga-conductor-career.md",
-      "page_url": "https://belorin.github.io/#daisuke-soga-conductor-career"
+      "page_url": "https://belorin.github.io/notes/daisuke-soga-conductor-career/",
+      "app_url": "https://belorin.github.io/#daisuke-soga-conductor-career"
     },
     {
       "id": "long-running-music-broadcasts",
@@ -1610,7 +1658,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/long-running-music-broadcasts.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/long-running-music-broadcasts.md",
-      "page_url": "https://belorin.github.io/#long-running-music-broadcasts"
+      "page_url": "https://belorin.github.io/notes/long-running-music-broadcasts/",
+      "app_url": "https://belorin.github.io/#long-running-music-broadcasts"
     },
     {
       "id": "global-festival-streaming",
@@ -1642,7 +1691,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/global-festival-streaming.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/global-festival-streaming.md",
-      "page_url": "https://belorin.github.io/#global-festival-streaming"
+      "page_url": "https://belorin.github.io/notes/global-festival-streaming/",
+      "app_url": "https://belorin.github.io/#global-festival-streaming"
     },
     {
       "id": "public-land-and-blm",
@@ -1674,7 +1724,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/public-land-and-blm.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/public-land-and-blm.md",
-      "page_url": "https://belorin.github.io/#public-land-and-blm"
+      "page_url": "https://belorin.github.io/notes/public-land-and-blm/",
+      "app_url": "https://belorin.github.io/#public-land-and-blm"
     },
     {
       "id": "burning-man-institutions",
@@ -1708,7 +1759,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/burning-man-institutions.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/burning-man-institutions.md",
-      "page_url": "https://belorin.github.io/#burning-man-institutions"
+      "page_url": "https://belorin.github.io/notes/burning-man-institutions/",
+      "app_url": "https://belorin.github.io/#burning-man-institutions"
     },
     {
       "id": "burning-man-regional-network",
@@ -1742,7 +1794,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/burning-man-regional-network.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/burning-man-regional-network.md",
-      "page_url": "https://belorin.github.io/#burning-man-regional-network"
+      "page_url": "https://belorin.github.io/notes/burning-man-regional-network/",
+      "app_url": "https://belorin.github.io/#burning-man-regional-network"
     },
     {
       "id": "japanese-classical-tv-conductor-image",
@@ -1774,7 +1827,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japanese-classical-tv-conductor-image.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/japanese-classical-tv-conductor-image.md",
-      "page_url": "https://belorin.github.io/#japanese-classical-tv-conductor-image"
+      "page_url": "https://belorin.github.io/notes/japanese-classical-tv-conductor-image/",
+      "app_url": "https://belorin.github.io/#japanese-classical-tv-conductor-image"
     },
     {
       "id": "ai-domination-gradient",
@@ -1810,7 +1864,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-domination-gradient.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-domination-gradient.md",
-      "page_url": "https://belorin.github.io/#ai-domination-gradient"
+      "page_url": "https://belorin.github.io/notes/ai-domination-gradient/",
+      "app_url": "https://belorin.github.io/#ai-domination-gradient"
     },
     {
       "id": "hope-global-box-office",
@@ -1840,7 +1895,8 @@
       "related_ids": [],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hope-global-box-office.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/hope-global-box-office.md",
-      "page_url": "https://belorin.github.io/#hope-global-box-office"
+      "page_url": "https://belorin.github.io/notes/hope-global-box-office/",
+      "app_url": "https://belorin.github.io/#hope-global-box-office"
     },
     {
       "id": "stalking-harm-and-autonomy",
@@ -1872,7 +1928,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/stalking-harm-and-autonomy.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/stalking-harm-and-autonomy.md",
-      "page_url": "https://belorin.github.io/#stalking-harm-and-autonomy"
+      "page_url": "https://belorin.github.io/notes/stalking-harm-and-autonomy/",
+      "app_url": "https://belorin.github.io/#stalking-harm-and-autonomy"
     },
     {
       "id": "excellent-victim-kwak-aram",
@@ -1903,7 +1960,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/excellent-victim-kwak-aram.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/excellent-victim-kwak-aram.md",
-      "page_url": "https://belorin.github.io/#excellent-victim-kwak-aram"
+      "page_url": "https://belorin.github.io/notes/excellent-victim-kwak-aram/",
+      "app_url": "https://belorin.github.io/#excellent-victim-kwak-aram"
     },
     {
       "id": "chiikawa-philosophy",
@@ -1935,7 +1993,8 @@
       "related_ids": [],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/chiikawa-philosophy.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/chiikawa-philosophy.md",
-      "page_url": "https://belorin.github.io/#chiikawa-philosophy"
+      "page_url": "https://belorin.github.io/notes/chiikawa-philosophy/",
+      "app_url": "https://belorin.github.io/#chiikawa-philosophy"
     },
     {
       "id": "sumer-bible-primeval-history",
@@ -1969,7 +2028,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/sumer-bible-primeval-history.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/sumer-bible-primeval-history.md",
-      "page_url": "https://belorin.github.io/#sumer-bible-primeval-history"
+      "page_url": "https://belorin.github.io/notes/sumer-bible-primeval-history/",
+      "app_url": "https://belorin.github.io/#sumer-bible-primeval-history"
     },
     {
       "id": "europe-russia-escalation-signals-2026",
@@ -2003,7 +2063,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/europe-russia-escalation-signals-2026.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/europe-russia-escalation-signals-2026.md",
-      "page_url": "https://belorin.github.io/#europe-russia-escalation-signals-2026"
+      "page_url": "https://belorin.github.io/notes/europe-russia-escalation-signals-2026/",
+      "app_url": "https://belorin.github.io/#europe-russia-escalation-signals-2026"
     },
     {
       "id": "war-escalation-local-to-world",
@@ -2041,7 +2102,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/war-escalation-local-to-world.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/war-escalation-local-to-world.md",
-      "page_url": "https://belorin.github.io/#war-escalation-local-to-world"
+      "page_url": "https://belorin.github.io/notes/war-escalation-local-to-world/",
+      "app_url": "https://belorin.github.io/#war-escalation-local-to-world"
     },
     {
       "id": "drone-asymmetric-warfare",
@@ -2076,7 +2138,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/drone-asymmetric-warfare.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/drone-asymmetric-warfare.md",
-      "page_url": "https://belorin.github.io/#drone-asymmetric-warfare"
+      "page_url": "https://belorin.github.io/notes/drone-asymmetric-warfare/",
+      "app_url": "https://belorin.github.io/#drone-asymmetric-warfare"
     },
     {
       "id": "anne-carson-nobel-first-reactions",
@@ -2108,7 +2171,8 @@
       "related_ids": [],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/anne-carson-nobel-first-reactions.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/anne-carson-nobel-first-reactions.md",
-      "page_url": "https://belorin.github.io/#anne-carson-nobel-first-reactions"
+      "page_url": "https://belorin.github.io/notes/anne-carson-nobel-first-reactions/",
+      "app_url": "https://belorin.github.io/#anne-carson-nobel-first-reactions"
     },
     {
       "id": "hate-escalation-brakes-history",
@@ -2143,7 +2207,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hate-escalation-brakes-history.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/hate-escalation-brakes-history.md",
-      "page_url": "https://belorin.github.io/#hate-escalation-brakes-history"
+      "page_url": "https://belorin.github.io/notes/hate-escalation-brakes-history/",
+      "app_url": "https://belorin.github.io/#hate-escalation-brakes-history"
     },
     {
       "id": "gwangju-building-art-network",
@@ -2178,7 +2243,8 @@
       "related_ids": [],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gwangju-building-art-network.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/gwangju-building-art-network.md",
-      "page_url": "https://belorin.github.io/#gwangju-building-art-network"
+      "page_url": "https://belorin.github.io/notes/gwangju-building-art-network/",
+      "app_url": "https://belorin.github.io/#gwangju-building-art-network"
     },
     {
       "id": "dousureba-yokatta-family-psychiatry",
@@ -2210,7 +2276,8 @@
       "related_ids": [],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/dousureba-yokatta-family-psychiatry.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/dousureba-yokatta-family-psychiatry.md",
-      "page_url": "https://belorin.github.io/#dousureba-yokatta-family-psychiatry"
+      "page_url": "https://belorin.github.io/notes/dousureba-yokatta-family-psychiatry/",
+      "app_url": "https://belorin.github.io/#dousureba-yokatta-family-psychiatry"
     },
     {
       "id": "utsunomiya-psychiatric-hospital-reform",
@@ -2242,7 +2309,8 @@
       "related_ids": [],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/utsunomiya-psychiatric-hospital-reform.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/utsunomiya-psychiatric-hospital-reform.md",
-      "page_url": "https://belorin.github.io/#utsunomiya-psychiatric-hospital-reform"
+      "page_url": "https://belorin.github.io/notes/utsunomiya-psychiatric-hospital-reform/",
+      "app_url": "https://belorin.github.io/#utsunomiya-psychiatric-hospital-reform"
     },
     {
       "id": "woodwind-reeds-material-history",
@@ -2276,7 +2344,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/woodwind-reeds-material-history.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/woodwind-reeds-material-history.md",
-      "page_url": "https://belorin.github.io/#woodwind-reeds-material-history"
+      "page_url": "https://belorin.github.io/notes/woodwind-reeds-material-history/",
+      "app_url": "https://belorin.github.io/#woodwind-reeds-material-history"
     },
     {
       "id": "instrument-consumables-organic-materials",
@@ -2308,7 +2377,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/instrument-consumables-organic-materials.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/instrument-consumables-organic-materials.md",
-      "page_url": "https://belorin.github.io/#instrument-consumables-organic-materials"
+      "page_url": "https://belorin.github.io/notes/instrument-consumables-organic-materials/",
+      "app_url": "https://belorin.github.io/#instrument-consumables-organic-materials"
     },
     {
       "id": "orchestra-instrument-stereotypes",
@@ -2340,7 +2410,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-instrument-stereotypes.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/orchestra-instrument-stereotypes.md",
-      "page_url": "https://belorin.github.io/#orchestra-instrument-stereotypes"
+      "page_url": "https://belorin.github.io/notes/orchestra-instrument-stereotypes/",
+      "app_url": "https://belorin.github.io/#orchestra-instrument-stereotypes"
     },
     {
       "id": "hank-asher-data-fusion-ai",
@@ -2375,7 +2446,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hank-asher-data-fusion-ai.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/hank-asher-data-fusion-ai.md",
-      "page_url": "https://belorin.github.io/#hank-asher-data-fusion-ai"
+      "page_url": "https://belorin.github.io/notes/hank-asher-data-fusion-ai/",
+      "app_url": "https://belorin.github.io/#hank-asher-data-fusion-ai"
     },
     {
       "id": "korea-personal-data-lifecycle",
@@ -2412,7 +2484,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-personal-data-lifecycle.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/korea-personal-data-lifecycle.md",
-      "page_url": "https://belorin.github.io/#korea-personal-data-lifecycle"
+      "page_url": "https://belorin.github.io/notes/korea-personal-data-lifecycle/",
+      "app_url": "https://belorin.github.io/#korea-personal-data-lifecycle"
     },
     {
       "id": "endgame-natasha-tony-funeral",
@@ -2445,7 +2518,8 @@
       "related_ids": [],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/endgame-natasha-tony-funeral.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/endgame-natasha-tony-funeral.md",
-      "page_url": "https://belorin.github.io/#endgame-natasha-tony-funeral"
+      "page_url": "https://belorin.github.io/notes/endgame-natasha-tony-funeral/",
+      "app_url": "https://belorin.github.io/#endgame-natasha-tony-funeral"
     },
     {
       "id": "korea-dance-musical-tours",
@@ -2479,7 +2553,8 @@
       "related_ids": [],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-dance-musical-tours.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/korea-dance-musical-tours.md",
-      "page_url": "https://belorin.github.io/#korea-dance-musical-tours"
+      "page_url": "https://belorin.github.io/notes/korea-dance-musical-tours/",
+      "app_url": "https://belorin.github.io/#korea-dance-musical-tours"
     },
     {
       "id": "orchestra-repertoire-data-access",
@@ -2510,7 +2585,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-repertoire-data-access.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/orchestra-repertoire-data-access.md",
-      "page_url": "https://belorin.github.io/#orchestra-repertoire-data-access"
+      "page_url": "https://belorin.github.io/notes/orchestra-repertoire-data-access/",
+      "app_url": "https://belorin.github.io/#orchestra-repertoire-data-access"
     },
     {
       "id": "orchestra-living-composers-canon",
@@ -2541,7 +2617,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-living-composers-canon.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/orchestra-living-composers-canon.md",
-      "page_url": "https://belorin.github.io/#orchestra-living-composers-canon"
+      "page_url": "https://belorin.github.io/notes/orchestra-living-composers-canon/",
+      "app_url": "https://belorin.github.io/#orchestra-living-composers-canon"
     },
     {
       "id": "world-orchestras-repertoire-2026",
@@ -2574,7 +2651,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-orchestras-repertoire-2026.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/world-orchestras-repertoire-2026.md",
-      "page_url": "https://belorin.github.io/#world-orchestras-repertoire-2026"
+      "page_url": "https://belorin.github.io/notes/world-orchestras-repertoire-2026/",
+      "app_url": "https://belorin.github.io/#world-orchestras-repertoire-2026"
     },
     {
       "id": "korean-orchestras-repertoire-2026",
@@ -2606,7 +2684,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korean-orchestras-repertoire-2026.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/korean-orchestras-repertoire-2026.md",
-      "page_url": "https://belorin.github.io/#korean-orchestras-repertoire-2026"
+      "page_url": "https://belorin.github.io/notes/korean-orchestras-repertoire-2026/",
+      "app_url": "https://belorin.github.io/#korean-orchestras-repertoire-2026"
     },
     {
       "id": "orchestration-instrument-history",
@@ -2639,7 +2718,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestration-instrument-history.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/orchestration-instrument-history.md",
-      "page_url": "https://belorin.github.io/#orchestration-instrument-history"
+      "page_url": "https://belorin.github.io/notes/orchestration-instrument-history/",
+      "app_url": "https://belorin.github.io/#orchestration-instrument-history"
     },
     {
       "id": "conductors-career-encores",
@@ -2671,7 +2751,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/conductors-career-encores.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/conductors-career-encores.md",
-      "page_url": "https://belorin.github.io/#conductors-career-encores"
+      "page_url": "https://belorin.github.io/notes/conductors-career-encores/",
+      "app_url": "https://belorin.github.io/#conductors-career-encores"
     },
     {
       "id": "orchestra-halls-seasons",
@@ -2703,7 +2784,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-halls-seasons.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/orchestra-halls-seasons.md",
-      "page_url": "https://belorin.github.io/#orchestra-halls-seasons"
+      "page_url": "https://belorin.github.io/notes/orchestra-halls-seasons/",
+      "app_url": "https://belorin.github.io/#orchestra-halls-seasons"
     },
     {
       "id": "ai-compute-scaling-inference",
@@ -2735,7 +2817,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-compute-scaling-inference.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-compute-scaling-inference.md",
-      "page_url": "https://belorin.github.io/#ai-compute-scaling-inference"
+      "page_url": "https://belorin.github.io/notes/ai-compute-scaling-inference/",
+      "app_url": "https://belorin.github.io/#ai-compute-scaling-inference"
     },
     {
       "id": "japan-physical-ai-skill-transfer",
@@ -2769,7 +2852,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japan-physical-ai-skill-transfer.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/japan-physical-ai-skill-transfer.md",
-      "page_url": "https://belorin.github.io/#japan-physical-ai-skill-transfer"
+      "page_url": "https://belorin.github.io/notes/japan-physical-ai-skill-transfer/",
+      "app_url": "https://belorin.github.io/#japan-physical-ai-skill-transfer"
     },
     {
       "id": "ai-transition-policy-gap",
@@ -2803,7 +2887,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-transition-policy-gap.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-transition-policy-gap.md",
-      "page_url": "https://belorin.github.io/#ai-transition-policy-gap"
+      "page_url": "https://belorin.github.io/notes/ai-transition-policy-gap/",
+      "app_url": "https://belorin.github.io/#ai-transition-policy-gap"
     },
     {
       "id": "bird-vocalization-sparrow",
@@ -2836,7 +2921,8 @@
       "related_ids": [],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/bird-vocalization-sparrow.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/bird-vocalization-sparrow.md",
-      "page_url": "https://belorin.github.io/#bird-vocalization-sparrow"
+      "page_url": "https://belorin.github.io/notes/bird-vocalization-sparrow/",
+      "app_url": "https://belorin.github.io/#bird-vocalization-sparrow"
     },
     {
       "id": "music-books-supply-attention",
@@ -2868,7 +2954,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/music-books-supply-attention.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/music-books-supply-attention.md",
-      "page_url": "https://belorin.github.io/#music-books-supply-attention"
+      "page_url": "https://belorin.github.io/notes/music-books-supply-attention/",
+      "app_url": "https://belorin.github.io/#music-books-supply-attention"
     },
     {
       "id": "deleuze-number-intensity-spatium",
@@ -2908,7 +2995,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-number-intensity-spatium.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/deleuze-number-intensity-spatium.md",
-      "page_url": "https://belorin.github.io/#deleuze-number-intensity-spatium"
+      "page_url": "https://belorin.github.io/notes/deleuze-number-intensity-spatium/",
+      "app_url": "https://belorin.github.io/#deleuze-number-intensity-spatium"
     },
     {
       "id": "ancient-philosophy-beyond-greece",
@@ -2942,7 +3030,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ancient-philosophy-beyond-greece.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ancient-philosophy-beyond-greece.md",
-      "page_url": "https://belorin.github.io/#ancient-philosophy-beyond-greece"
+      "page_url": "https://belorin.github.io/notes/ancient-philosophy-beyond-greece/",
+      "app_url": "https://belorin.github.io/#ancient-philosophy-beyond-greece"
     },
     {
       "id": "dreyfus-affair-intellectuals",
@@ -2978,7 +3067,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/dreyfus-affair-intellectuals.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/dreyfus-affair-intellectuals.md",
-      "page_url": "https://belorin.github.io/#dreyfus-affair-intellectuals"
+      "page_url": "https://belorin.github.io/notes/dreyfus-affair-intellectuals/",
+      "app_url": "https://belorin.github.io/#dreyfus-affair-intellectuals"
     },
     {
       "id": "world-crisis-historical-analogies",
@@ -3013,7 +3103,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-crisis-historical-analogies.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/world-crisis-historical-analogies.md",
-      "page_url": "https://belorin.github.io/#world-crisis-historical-analogies"
+      "page_url": "https://belorin.github.io/notes/world-crisis-historical-analogies/",
+      "app_url": "https://belorin.github.io/#world-crisis-historical-analogies"
     },
     {
       "id": "critical-optimism-fragile-order",
@@ -3049,7 +3140,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/critical-optimism-fragile-order.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/critical-optimism-fragile-order.md",
-      "page_url": "https://belorin.github.io/#critical-optimism-fragile-order"
+      "page_url": "https://belorin.github.io/notes/critical-optimism-fragile-order/",
+      "app_url": "https://belorin.github.io/#critical-optimism-fragile-order"
     },
     {
       "id": "state-hollowing-index",
@@ -3084,7 +3176,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/state-hollowing-index.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/state-hollowing-index.md",
-      "page_url": "https://belorin.github.io/#state-hollowing-index"
+      "page_url": "https://belorin.github.io/notes/state-hollowing-index/",
+      "app_url": "https://belorin.github.io/#state-hollowing-index"
     },
     {
       "id": "state-hollowing-country-pilot",
@@ -3117,7 +3210,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/state-hollowing-country-pilot.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/state-hollowing-country-pilot.md",
-      "page_url": "https://belorin.github.io/#state-hollowing-country-pilot"
+      "page_url": "https://belorin.github.io/notes/state-hollowing-country-pilot/",
+      "app_url": "https://belorin.github.io/#state-hollowing-country-pilot"
     },
     {
       "id": "mood-led-music-listening",
@@ -3146,7 +3240,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/mood-led-music-listening.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/mood-led-music-listening.md",
-      "page_url": "https://belorin.github.io/#mood-led-music-listening"
+      "page_url": "https://belorin.github.io/notes/mood-led-music-listening/",
+      "app_url": "https://belorin.github.io/#mood-led-music-listening"
     },
     {
       "id": "venice-biennale-history",
@@ -3181,7 +3276,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/venice-biennale-history.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/venice-biennale-history.md",
-      "page_url": "https://belorin.github.io/#venice-biennale-history"
+      "page_url": "https://belorin.github.io/notes/venice-biennale-history/",
+      "app_url": "https://belorin.github.io/#venice-biennale-history"
     },
     {
       "id": "venice-biennale-sites-pavilions",
@@ -3217,7 +3313,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/venice-biennale-sites-pavilions.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/venice-biennale-sites-pavilions.md",
-      "page_url": "https://belorin.github.io/#venice-biennale-sites-pavilions"
+      "page_url": "https://belorin.github.io/notes/venice-biennale-sites-pavilions/",
+      "app_url": "https://belorin.github.io/#venice-biennale-sites-pavilions"
     },
     {
       "id": "venice-biennale-2026-critical-reception",
@@ -3252,7 +3349,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/venice-biennale-2026-critical-reception.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/venice-biennale-2026-critical-reception.md",
-      "page_url": "https://belorin.github.io/#venice-biennale-2026-critical-reception"
+      "page_url": "https://belorin.github.io/notes/venice-biennale-2026-critical-reception/",
+      "app_url": "https://belorin.github.io/#venice-biennale-2026-critical-reception"
     },
     {
       "id": "credit-observation-archive",
@@ -3285,7 +3383,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/credit-observation-archive.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/credit-observation-archive.md",
-      "page_url": "https://belorin.github.io/#credit-observation-archive"
+      "page_url": "https://belorin.github.io/notes/credit-observation-archive/",
+      "app_url": "https://belorin.github.io/#credit-observation-archive"
     },
     {
       "id": "book-preview-credit-sourcing",
@@ -3317,7 +3416,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/book-preview-credit-sourcing.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/book-preview-credit-sourcing.md",
-      "page_url": "https://belorin.github.io/#book-preview-credit-sourcing"
+      "page_url": "https://belorin.github.io/notes/book-preview-credit-sourcing/",
+      "app_url": "https://belorin.github.io/#book-preview-credit-sourcing"
     },
     {
       "id": "hegel-fichte-schelling-difference",
@@ -3348,7 +3448,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hegel-fichte-schelling-difference.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/hegel-fichte-schelling-difference.md",
-      "page_url": "https://belorin.github.io/#hegel-fichte-schelling-difference"
+      "page_url": "https://belorin.github.io/notes/hegel-fichte-schelling-difference/",
+      "app_url": "https://belorin.github.io/#hegel-fichte-schelling-difference"
     },
     {
       "id": "deleuze-unthinkable-fold-thought",
@@ -3378,7 +3479,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-unthinkable-fold-thought.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/deleuze-unthinkable-fold-thought.md",
-      "page_url": "https://belorin.github.io/#deleuze-unthinkable-fold-thought"
+      "page_url": "https://belorin.github.io/notes/deleuze-unthinkable-fold-thought/",
+      "app_url": "https://belorin.github.io/#deleuze-unthinkable-fold-thought"
     },
     {
       "id": "freud-before-anti-oedipus",
@@ -3411,7 +3513,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/freud-before-anti-oedipus.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/freud-before-anti-oedipus.md",
-      "page_url": "https://belorin.github.io/#freud-before-anti-oedipus"
+      "page_url": "https://belorin.github.io/notes/freud-before-anti-oedipus/",
+      "app_url": "https://belorin.github.io/#freud-before-anti-oedipus"
     },
     {
       "id": "fruit-flesh-living-cells",
@@ -3447,7 +3550,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/fruit-flesh-living-cells.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/fruit-flesh-living-cells.md",
-      "page_url": "https://belorin.github.io/#fruit-flesh-living-cells"
+      "page_url": "https://belorin.github.io/notes/fruit-flesh-living-cells/",
+      "app_url": "https://belorin.github.io/#fruit-flesh-living-cells"
     },
     {
       "id": "gut-fiber-fermentation",
@@ -3484,7 +3588,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gut-fiber-fermentation.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/gut-fiber-fermentation.md",
-      "page_url": "https://belorin.github.io/#gut-fiber-fermentation"
+      "page_url": "https://belorin.github.io/notes/gut-fiber-fermentation/",
+      "app_url": "https://belorin.github.io/#gut-fiber-fermentation"
     },
     {
       "id": "gut-microbiome-colonization",
@@ -3521,7 +3626,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gut-microbiome-colonization.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/gut-microbiome-colonization.md",
-      "page_url": "https://belorin.github.io/#gut-microbiome-colonization"
+      "page_url": "https://belorin.github.io/notes/gut-microbiome-colonization/",
+      "app_url": "https://belorin.github.io/#gut-microbiome-colonization"
     },
     {
       "id": "gut-cosmic-horror-worldbuilding",
@@ -3558,7 +3664,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gut-cosmic-horror-worldbuilding.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/gut-cosmic-horror-worldbuilding.md",
-      "page_url": "https://belorin.github.io/#gut-cosmic-horror-worldbuilding"
+      "page_url": "https://belorin.github.io/notes/gut-cosmic-horror-worldbuilding/",
+      "app_url": "https://belorin.github.io/#gut-cosmic-horror-worldbuilding"
     },
     {
       "id": "dwar-netflix-revival",
@@ -3586,7 +3693,8 @@
       "related_ids": [],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/dwar-netflix-revival.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/dwar-netflix-revival.md",
-      "page_url": "https://belorin.github.io/#dwar-netflix-revival"
+      "page_url": "https://belorin.github.io/notes/dwar-netflix-revival/",
+      "app_url": "https://belorin.github.io/#dwar-netflix-revival"
     },
     {
       "id": "freud-dreams-modern-science",
@@ -3617,7 +3725,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/freud-dreams-modern-science.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/freud-dreams-modern-science.md",
-      "page_url": "https://belorin.github.io/#freud-dreams-modern-science"
+      "page_url": "https://belorin.github.io/notes/freud-dreams-modern-science/",
+      "app_url": "https://belorin.github.io/#freud-dreams-modern-science"
     },
     {
       "id": "lacan-anti-oedipus-history",
@@ -3649,7 +3758,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/lacan-anti-oedipus-history.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/lacan-anti-oedipus-history.md",
-      "page_url": "https://belorin.github.io/#lacan-anti-oedipus-history"
+      "page_url": "https://belorin.github.io/notes/lacan-anti-oedipus-history/",
+      "app_url": "https://belorin.github.io/#lacan-anti-oedipus-history"
     },
     {
       "id": "philosophical-systems-after-2000",
@@ -3682,7 +3792,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/philosophical-systems-after-2000.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/philosophical-systems-after-2000.md",
-      "page_url": "https://belorin.github.io/#philosophical-systems-after-2000"
+      "page_url": "https://belorin.github.io/notes/philosophical-systems-after-2000/",
+      "app_url": "https://belorin.github.io/#philosophical-systems-after-2000"
     },
     {
       "id": "contemporary-intellectual-power",
@@ -3714,7 +3825,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/contemporary-intellectual-power.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/contemporary-intellectual-power.md",
-      "page_url": "https://belorin.github.io/#contemporary-intellectual-power"
+      "page_url": "https://belorin.github.io/notes/contemporary-intellectual-power/",
+      "app_url": "https://belorin.github.io/#contemporary-intellectual-power"
     },
     {
       "id": "wiki-operations-pipeline",
@@ -3751,7 +3863,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wiki-operations-pipeline.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/wiki-operations-pipeline.md",
-      "page_url": "https://belorin.github.io/#wiki-operations-pipeline"
+      "page_url": "https://belorin.github.io/notes/wiki-operations-pipeline/",
+      "app_url": "https://belorin.github.io/#wiki-operations-pipeline"
     },
     {
       "id": "replay-ladder-human-performance",
@@ -3802,7 +3915,8 @@
       "note": "편집 해석. 사실 근거로 인용하지 않는다.",
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/replay-ladder-human-performance.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/replay-ladder-human-performance.md",
-      "page_url": "https://belorin.github.io/#replay-ladder-human-performance"
+      "page_url": "https://belorin.github.io/notes/replay-ladder-human-performance/",
+      "app_url": "https://belorin.github.io/#replay-ladder-human-performance"
     },
     {
       "id": "black-sea-ukraine-sea-denial",
@@ -3834,7 +3948,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/black-sea-ukraine-sea-denial.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/black-sea-ukraine-sea-denial.md",
-      "page_url": "https://belorin.github.io/#black-sea-ukraine-sea-denial"
+      "page_url": "https://belorin.github.io/notes/black-sea-ukraine-sea-denial/",
+      "app_url": "https://belorin.github.io/#black-sea-ukraine-sea-denial"
     },
     {
       "id": "ukraine-ground-drone-defense",
@@ -3868,7 +3983,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ukraine-ground-drone-defense.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ukraine-ground-drone-defense.md",
-      "page_url": "https://belorin.github.io/#ukraine-ground-drone-defense"
+      "page_url": "https://belorin.github.io/notes/ukraine-ground-drone-defense/",
+      "app_url": "https://belorin.github.io/#ukraine-ground-drone-defense"
     },
     {
       "id": "russia-ukraine-war-endurance",
@@ -3902,7 +4018,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/russia-ukraine-war-endurance.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/russia-ukraine-war-endurance.md",
-      "page_url": "https://belorin.github.io/#russia-ukraine-war-endurance"
+      "page_url": "https://belorin.github.io/notes/russia-ukraine-war-endurance/",
+      "app_url": "https://belorin.github.io/#russia-ukraine-war-endurance"
     },
     {
       "id": "south-asia-border-rivalries-2026",
@@ -3937,7 +4054,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/south-asia-border-rivalries-2026.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/south-asia-border-rivalries-2026.md",
-      "page_url": "https://belorin.github.io/#south-asia-border-rivalries-2026"
+      "page_url": "https://belorin.github.io/notes/south-asia-border-rivalries-2026/",
+      "app_url": "https://belorin.github.io/#south-asia-border-rivalries-2026"
     },
     {
       "id": "global-flashpoints-likelihood-2026",
@@ -3971,7 +4089,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/global-flashpoints-likelihood-2026.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/global-flashpoints-likelihood-2026.md",
-      "page_url": "https://belorin.github.io/#global-flashpoints-likelihood-2026"
+      "page_url": "https://belorin.github.io/notes/global-flashpoints-likelihood-2026/",
+      "app_url": "https://belorin.github.io/#global-flashpoints-likelihood-2026"
     },
     {
       "id": "jewish-messianic-claimants-kabbalah",
@@ -4004,7 +4123,8 @@
       "related_ids": [],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jewish-messianic-claimants-kabbalah.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/jewish-messianic-claimants-kabbalah.md",
-      "page_url": "https://belorin.github.io/#jewish-messianic-claimants-kabbalah"
+      "page_url": "https://belorin.github.io/notes/jewish-messianic-claimants-kabbalah/",
+      "app_url": "https://belorin.github.io/#jewish-messianic-claimants-kabbalah"
     },
     {
       "id": "luddite-movement-history",
@@ -4033,7 +4153,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/luddite-movement-history.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/luddite-movement-history.md",
-      "page_url": "https://belorin.github.io/#luddite-movement-history"
+      "page_url": "https://belorin.github.io/notes/luddite-movement-history/",
+      "app_url": "https://belorin.github.io/#luddite-movement-history"
     },
     {
       "id": "luddite-executions-memory",
@@ -4062,7 +4183,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/luddite-executions-memory.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/luddite-executions-memory.md",
-      "page_url": "https://belorin.github.io/#luddite-executions-memory"
+      "page_url": "https://belorin.github.io/notes/luddite-executions-memory/",
+      "app_url": "https://belorin.github.io/#luddite-executions-memory"
     },
     {
       "id": "information-hype-wow-index",
@@ -4099,7 +4221,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/information-hype-wow-index.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/information-hype-wow-index.md",
-      "page_url": "https://belorin.github.io/#information-hype-wow-index"
+      "page_url": "https://belorin.github.io/notes/information-hype-wow-index/",
+      "app_url": "https://belorin.github.io/#information-hype-wow-index"
     },
     {
       "id": "climate-population-villain-logic",
@@ -4124,7 +4247,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/climate-population-villain-logic.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/climate-population-villain-logic.md",
-      "page_url": "https://belorin.github.io/#climate-population-villain-logic"
+      "page_url": "https://belorin.github.io/notes/climate-population-villain-logic/",
+      "app_url": "https://belorin.github.io/#climate-population-villain-logic"
     },
     {
       "id": "climate-breath-fiction",
@@ -4151,7 +4275,8 @@
       "note": "소설. 사실 근거로 인용하지 않는다.",
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/climate-breath-fiction.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/climate-breath-fiction.md",
-      "page_url": "https://belorin.github.io/#climate-breath-fiction"
+      "page_url": "https://belorin.github.io/notes/climate-breath-fiction/",
+      "app_url": "https://belorin.github.io/#climate-breath-fiction"
     },
     {
       "id": "gpt-wiki-zero-prototype",
@@ -4187,7 +4312,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gpt-wiki-zero-prototype.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/gpt-wiki-zero-prototype.md",
-      "page_url": "https://belorin.github.io/#gpt-wiki-zero-prototype"
+      "page_url": "https://belorin.github.io/notes/gpt-wiki-zero-prototype/",
+      "app_url": "https://belorin.github.io/#gpt-wiki-zero-prototype"
     },
     {
       "id": "starcraft-pluto-ai",
@@ -4221,7 +4347,8 @@
       "related_ids": [],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/starcraft-pluto-ai.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/starcraft-pluto-ai.md",
-      "page_url": "https://belorin.github.io/#starcraft-pluto-ai"
+      "page_url": "https://belorin.github.io/notes/starcraft-pluto-ai/",
+      "app_url": "https://belorin.github.io/#starcraft-pluto-ai"
     },
     {
       "id": "ryukyu-disposition-qing-japan",
@@ -4254,7 +4381,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ryukyu-disposition-qing-japan.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ryukyu-disposition-qing-japan.md",
-      "page_url": "https://belorin.github.io/#ryukyu-disposition-qing-japan"
+      "page_url": "https://belorin.github.io/notes/ryukyu-disposition-qing-japan/",
+      "app_url": "https://belorin.github.io/#ryukyu-disposition-qing-japan"
     },
     {
       "id": "east-asia-telegraph-network-1880s",
@@ -4289,7 +4417,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/east-asia-telegraph-network-1880s.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/east-asia-telegraph-network-1880s.md",
-      "page_url": "https://belorin.github.io/#east-asia-telegraph-network-1880s"
+      "page_url": "https://belorin.github.io/notes/east-asia-telegraph-network-1880s/",
+      "app_url": "https://belorin.github.io/#east-asia-telegraph-network-1880s"
     },
     {
       "id": "great-northern-telegraph-east-asia",
@@ -4323,7 +4452,67 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/great-northern-telegraph-east-asia.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/great-northern-telegraph-east-asia.md",
-      "page_url": "https://belorin.github.io/#great-northern-telegraph-east-asia"
+      "page_url": "https://belorin.github.io/notes/great-northern-telegraph-east-asia/",
+      "app_url": "https://belorin.github.io/#great-northern-telegraph-east-asia"
+    },
+    {
+      "id": "where-novelty-comes-from",
+      "title": "새로움은 어디서 오는가: 다시 도는 형식, 다시 세운 문제, 식지 않은 차이",
+      "aliases": [
+        "새로움은 어디서 오는가",
+        "코러스로서의 문서",
+        "열기관으로서의 위키",
+        "접힌 질문"
+      ],
+      "category": "종합",
+      "tags": [
+        "종합",
+        "새로움",
+        "반복",
+        "차이",
+        "즉흥",
+        "위키"
+      ],
+      "summary": "들뢰즈의 차이와 문제, 재즈의 코러스와 인터플레이, 이 위키의 편집 원칙을 엮어 코러스로서의 문서, 문제 교체, 열기관으로서의 위키, 접힌 질문, 듣기의 선택이라는 다섯 개념을 제안하는 교차 종합.",
+      "published": true,
+      "review_state": "unassessed",
+      "review_label": "편집 해석",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "living-notes",
+        "open-questions",
+        "editing-principles",
+        "deleuze-negation-history",
+        "deleuze-becoming-new",
+        "deleuze-number-intensity-spatium",
+        "deleuze-unthinkable-fold-thought",
+        "post-deleuze-novelty-thinkers",
+        "jazz-dialogue",
+        "jazz-live-quartet-case",
+        "jazz-ensemble-labor"
+      ],
+      "kind": "synthesis",
+      "synthesis_type": "cross",
+      "based_on": [
+        "living-notes",
+        "open-questions",
+        "editing-principles",
+        "deleuze-negation-history",
+        "deleuze-becoming-new",
+        "deleuze-number-intensity-spatium",
+        "deleuze-unthinkable-fold-thought",
+        "post-deleuze-novelty-thinkers",
+        "jazz-dialogue",
+        "jazz-live-quartet-case",
+        "jazz-ensemble-labor"
+      ],
+      "note": "편집 해석. 사실 근거로 인용하지 않는다.",
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/where-novelty-comes-from.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/where-novelty-comes-from.md",
+      "page_url": "https://belorin.github.io/notes/where-novelty-comes-from/",
+      "app_url": "https://belorin.github.io/#where-novelty-comes-from"
     },
     {
       "id": "late-qing-yongying-daily-life",
@@ -4358,7 +4547,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/late-qing-yongying-daily-life.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/late-qing-yongying-daily-life.md",
-      "page_url": "https://belorin.github.io/#late-qing-yongying-daily-life"
+      "page_url": "https://belorin.github.io/notes/late-qing-yongying-daily-life/",
+      "app_url": "https://belorin.github.io/#late-qing-yongying-daily-life"
     },
     {
       "id": "qing-tributaries-dissolution",
@@ -4393,7 +4583,8 @@
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/qing-tributaries-dissolution.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/qing-tributaries-dissolution.md",
-      "page_url": "https://belorin.github.io/#qing-tributaries-dissolution"
+      "page_url": "https://belorin.github.io/notes/qing-tributaries-dissolution/",
+      "app_url": "https://belorin.github.io/#qing-tributaries-dissolution"
     }
   ]
 }

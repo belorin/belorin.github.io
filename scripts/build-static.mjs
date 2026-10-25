@@ -48,8 +48,8 @@ function staticArticle(note) {
   return view.innerHTML
     .replace(/<button type="button" data-jump="([^"]+)">([\s\S]*?)<\/button>/g, '<a href="#$1">$2</a>')
     .replace(/<button type="button" data-random>[\s\S]*?<\/button>/g, "")
-    .replace(/<button type="button" data-copy="([^"]+)">[\s\S]*?<\/button>/g,
-      `<a href="$1">원문 Markdown</a><a href="/#${note.id}">탐색 화면에서 보기</a>`)
+    .replace(/<button type="button" data-copy="[^"]+">[\s\S]*?<\/button>/g,
+      `<a href="https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/${note.id}.md">원문 Markdown</a><a href="/#${note.id}">탐색 화면에서 보기</a>`)
     .replace(/href="#all"/g, 'href="/notes/"')
     .replace(/href="#about"/g, 'href="/#about"')
     .replace(/href="#([a-z0-9-]+)"/g, (match, id) => ids.has(id) ? `href="/notes/${id}/"` : match);
