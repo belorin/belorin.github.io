@@ -1,0 +1,189 @@
+{
+  "id": "ing-20261026-gpt-wiki-zero-prototype",
+  "processed_on": "2026-10-26",
+  "coverage": "visible-complete",
+  "limit_note": "현재 이 채팅에서 접근 가능한 초기 내보내기·Codex·위키 구상과 집필 목적의 정교화만 다룸. 내보내기 원본·과거 채팅의 시간 메타데이터·실제 초기 도구 구현 여부는 직접 확인하지 못함. 추가 외부 조사 없음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "GPT 접근형 위키의 목적과 장기 집필 일관성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gpt-wiki-zero-prototype",
+          "section": "목표가 바뀌는 순간: 대화 아카이브에서 집필의 연속성으로"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "대화 보관과 확정 지식 정본의 권위 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gpt-wiki-zero-prototype",
+          "section": "원본을 바로 정본으로 삼지 않는 세 겹의 구조"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "내보내기·Markdown 변환·비공개 원본 분리의 초기 공정",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gpt-wiki-zero-prototype",
+          "section": "원본을 바로 정본으로 삼지 않는 세 겹의 구조"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "Obsidian·MkDocs·RAG의 역할 차이와 단계적 도입",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gpt-wiki-zero-prototype",
+          "section": "자료 저장소와 위키 엔진은 별개다"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "concept",
+      "title": "창작 canon의 승인 상태와 내부 설정 권위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gpt-wiki-zero-prototype",
+          "section": "확정 설정: canon"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "concept",
+      "title": "채택과 폐기의 근거를 남기는 결정 장부",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gpt-wiki-zero-prototype",
+          "section": "결정 장부: decision log"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "concept",
+      "title": "미확정 설정의 분리와 즉흥 고착 방지",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gpt-wiki-zero-prototype",
+          "section": "미해결 문제: open questions"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "concept",
+      "title": "정본에서 파생하는 집필용 문맥 묶음",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gpt-wiki-zero-prototype",
+          "section": "집필용 문맥 묶음: context pack"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "concept",
+      "title": "프로젝트·Custom GPT·외부 연결의 접근 경로와 최신성 문제",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gpt-wiki-zero-prototype",
+          "section": "GPT가 접근하는 경로: 읽을 수 있음과 최신임을 구분한다"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "concept",
+      "title": "Codex의 변환·운영과 GPT의 집필 책임 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gpt-wiki-zero-prototype",
+          "section": "Codex가 해야 하는 일과 집필 모델이 해야 하는 일"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "argument",
+      "title": "집필-후보 추출-사람 승인-정본 갱신의 순환",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gpt-wiki-zero-prototype",
+          "section": "Codex가 해야 하는 일과 집필 모델이 해야 하는 일"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "argument",
+      "title": "원문 통째 검색·과잉 요약·오래된 문맥·공개 혼동의 실패 방식",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gpt-wiki-zero-prototype",
+          "section": "실패하기 쉬운 지점"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "concept",
+      "title": "GPT 위키 제0호기와 후속 누적형 지식백과의 범위 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gpt-wiki-zero-prototype",
+          "section": "제0호기와 후속 누적형 지식백과의 차이"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "question",
+      "title": "원본 시각 미확인과 구현 여부의 보류 경계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gpt-wiki-zero-prototype",
+          "section": "제0호기와 후속 누적형 지식백과의 차이"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "question",
+      "title": "장기 기억 위키의 탐색·동기화·승인·공개 과제",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gpt-wiki-zero-prototype",
+          "section": "남겨진 설계 문제"
+        }
+      ]
+    }
+  ]
+}
