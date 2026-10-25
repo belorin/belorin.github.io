@@ -8,6 +8,7 @@
 - 태그: 점진적 무력화, AI 안전, 지대 국가, 민주주의
 - 수정일: 2026-10-23 · 실제 증보일: 2026-10-23 · 검토: needs_review
 - 관련 문서: `ai-human-control-guide`, `disempowerment-measurement`, `llm-disempowerment-patterns`, `ai-goals-hostage-and-bait`, `ai-economic-transition`, `ai-capital-labor-distribution`, `ai-transition-policy-gap`
+- 이 문서를 근거로 쓴 종합: `replay-ladder-human-performance`
 
 ## 절 목차
 

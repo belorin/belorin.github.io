@@ -8,6 +8,7 @@
 - 태그: AI와 사회, 자본, 노동, 소유권, 교섭력
 - 수정일: 2026-10-23 · 실제 증보일: 2026-10-23 · 검토: needs_review
 - 관련 문서: `ai-economic-transition`, `ai-class-fiction`, `gradual-disempowerment`, `disempowerment-measurement`, `ai-human-control-guide`, `ai-transition-policy-gap`
+- 이 문서를 근거로 쓴 종합: `replay-ladder-human-performance`
 
 ## 절 목차
 
