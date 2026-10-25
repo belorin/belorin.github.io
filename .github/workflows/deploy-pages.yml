@@ -1,6 +1,6 @@
 name: Build and deploy site
 # main에 원고(wiki/*.md, manifest, 장부)가 올라오면 생성물을 만들고 검증한 뒤
-# 1) 생성물(notes.json, AI 색인, llms.txt, 편집 지도)을 main에 자동 커밋하고
+# 1) 생성물(notes.json, AI 색인, llms.txt, 편집 지도, 정비 대기열)을 main에 자동 커밋하고
 # 2) 같은 결과물로 GitHub Pages를 배포한다.
 # GITHUB_TOKEN으로 만든 자동 커밋은 워크플로를 다시 촉발하지 않으므로 반복되지 않는다.
 on:
@@ -27,11 +27,13 @@ jobs:
           node scripts/build-notes.mjs
           node scripts/build-ai-index.mjs
           node scripts/build-wiki-map.mjs
+          node scripts/build-maintenance-queue.mjs
       - name: Validate
         run: |
           node scripts/build-notes.mjs --check
           node scripts/build-ai-index.mjs --check
           node scripts/build-wiki-map.mjs --check
+          node scripts/build-maintenance-queue.mjs --check
           node scripts/validate-editorial.mjs
           node scripts/test-editorial.mjs
           node scripts/validate-crosslinks.mjs
@@ -40,7 +42,7 @@ jobs:
           node scripts/test-viewer.mjs
       - name: Commit regenerated files to main
         run: |
-          git add -A notes.json AI_INDEX.md ai llms.txt editorial/map
+          git add -A notes.json AI_INDEX.md ai llms.txt editorial/map editorial/maintenance/queue.md
           if git diff --cached --quiet; then
             echo "Generated files already up to date."
             exit 0

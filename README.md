@@ -21,13 +21,22 @@ https://belorin.github.io
 2. 별칭·검토 상태·증보일은 `wiki/manifest.json`, 의미 관계는 `wiki/relations.json`에 기록한다.
 3. 대화에서 신규 지식을 반영했다면 `editorial/ingestions/index.json`과 해당 배치 JSON에 **짧은 지식 표제, 반영 문서의 정확한 절, 미완 항목**을 기록한다. 원문은 저장하지 않는다.
 4. Markdown·manifest·관계 정본·편집 장부를 `main`에 직접 커밋한다. 브랜치·PR은 필요 없다.
-5. GitHub Actions(`.github/workflows/deploy-pages.yml`)가 `notes.json`·AI 색인·`llms.txt`·편집 지도를 생성·검증하고, 생성물을 `main`에 자동 커밋한 뒤 사이트를 배포한다. 검증에 실패하면 배포하지 않고 직전 사이트를 유지한다.
+5. GitHub Actions(`.github/workflows/deploy-pages.yml`)가 `notes.json`·AI 색인·`llms.txt`·편집 지도·정비 대기열을 생성·검증하고, 생성물을 `main`에 자동 커밋한 뒤 사이트를 배포한다. 검증에 실패하면 배포하지 않고 직전 사이트를 유지한다.
 
 별도 npm 설치는 필요하지 않다. 로컬에서는 `node scripts/build-notes.mjs`, `node scripts/build-ai-index.mjs`와 검증 스크립트로 미리 확인할 수 있다. `notes.json`을 편집하는 대신 반드시 Markdown을 수정한다.
 
 현재 공개 페이지 주소는 기존과 같이 `/#문서-id`이다. `publish:false` 원고는 GitHub에서 Markdown으로는 확인 가능하지만 사이트 목록에는 나오지 않는다.
 
 Pages는 브랜치 배포가 아니라 GitHub Actions 배포를 사용한다(Settings → Pages → Source: GitHub Actions). 사이트는 워크플로가 직접 생성한 결과물로 배포하므로, 생성물의 자동 커밋이 별도의 Pages 빌드를 촉발하지 않아도 게시가 누락되지 않는다. 자동 커밋은 GitHub에서 생성물(AI 색인 등)을 읽는 편집자를 위해 저장소를 최신으로 유지하는 용도다.
+
+## 정비
+
+새 대화를 넣는 일상 증보는 새 지식과 직접 관련된 절과 연결만 검토한다. 멀리 떨어진 문서 사이의 관계, 중복 후보, 고립 문서, 보류 항목은 가끔 하는 **정비**에서 다룬다.
+
+- [`MAINTENANCE.md`](MAINTENANCE.md): 정비 절차. 정비를 요청할 때만 읽는다.
+- [`editorial/maintenance/queue.md`](editorial/maintenance/queue.md): 원고 전체에서 기계가 찾은 정비 신호(자동 생성)
+- `editorial/maintenance/log.json`: 정비 버전 로그(`M001`, `M002`, …)
+- `editorial/maintenance/reports/<버전>.md`: 정비 보고서. 병합·분할·분류 변경·교차 제안 승인은 여기 제안으로만 남긴다.
 
 ## 향후 원고의 문체
 
