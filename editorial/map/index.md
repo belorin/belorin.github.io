@@ -86,7 +86,7 @@
 - `venice-biennale-history` 베니스 비엔날레: 정원 박람회에서 세계 미술의 판단 장치까지 — 베니스 비엔날레 역사, Biennale di Venezia, Venice Biennale, 베니스 효과 · 11절 · 5.4천 자 · 장부 9건
 - `venice-biennale-sites-pavilions` 자르디니와 아르세날레: 베니스 비엔날레의 두 공간과 국가관 지도 — 자르디니, Giardini della Biennale, 아르세날레, Arsenale, 베니스 국가관 목록 · 8절 · 3.5천 자 · 장부 5건
 - `venice-biennale-2026-critical-reception` 2026 베니스 비엔날레: 'In Minor Keys'의 비평, 정치적 파열과 느린 평가 — 2026 베니스 비엔날레, In Minor Keys, 2026 Venice Biennale, 코요 쿠오 비엔날레 · 8절 · 5.3천 자 · 장부 7건
-- `jewish-messianic-claimants-kabbalah` 유대교의 수많은 메시아들: 중세의 구원 운동에서 카발라와 샤브타이 츠비까지 — 중세 유대교 메시아, 유대 메시아 참칭자, 유대교의 메시아들, 카발라와 메시아주의, Pseudo-Messiahs · 12절 · 8.0천 자 · 장부 12건
+- `jewish-messianic-claimants-kabbalah` 유대교의 수많은 메시아들: 중세의 구원 운동에서 카발라와 샤브타이 츠비까지 — 중세 유대교 메시아, 유대 메시아 참칭자, 유대교의 메시아들, 카발라와 메시아주의, Pseudo-Messiahs · 12절 · 8.1천 자 · 장부 12건
 
 ## 사회와 제도 (12)
 
