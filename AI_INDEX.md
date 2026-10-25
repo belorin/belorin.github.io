@@ -361,3 +361,21 @@
 - **[온라인 서점 미리보기와 판권면 수집: 기술적 가능성과 허용 범위](wiki/book-preview-credit-sourcing.md)** · 별칭: 미리보기 크롤링, 판권면 OCR, 서점 도서정보 API · 수정: 2026-10-25 · 검토: 자료 수집 설계·서비스별 조건 미검증
   - 서점 상품정보·본문 발췌·미리보기 이미지를 구별하고 공식 메타데이터·출판사 샘플·수동 검수·제휴를 비교하는 판권면 수집 전략.
   - [웹페이지](https://belorin.github.io/#book-preview-credit-sourcing) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/book-preview-credit-sourcing.md)
+
+## 생명과학
+
+- **[사과는 딴 뒤에도 살아 있는가: 과육 세포·호흡·숙성·노화](wiki/fruit-flesh-living-cells.md)** · 별칭: 사과 세포, 과육은 살아 있는가, 사과 숙성과 호흡, 과육 현미경 · 수정: 2026-10-25 · 검토: 내부 총합 · 생물학적 일반화 및 창작 유비의 한계 검토 필요
+  - 쪼글쪼글한 사과의 속살이 버티는 이유를 살아 있는 유조직 세포, 팽압·세포벽·펙틴, ATP 호흡, 후숙·저장과 현미경 관찰로 설명한다.
+  - [웹페이지](https://belorin.github.io/#fruit-flesh-living-cells) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/fruit-flesh-living-cells.md)
+- **[소화하지 못하는 것을 먹는 이유: 식이섬유·발효·방귀의 시간표](wiki/gut-fiber-fermentation.md)** · 별칭: 섬유질과 종이, 방귀가 나오는 이유, 치즈 밀가루 가스, 장내 발효 시간표 · 수정: 2026-10-25 · 검토: 내부 총합 · 생물학적 일반화 및 창작 유비의 한계 검토 필요
+  - 셀룰로오스와 종이의 역설에서 출발해 불용성·발효성 섬유질, 장내 미생물의 교차급식, 유당과 밀 프룩탄, 가스 및 배변 시간을 구별한다.
+  - [웹페이지](https://belorin.github.io/#gut-fiber-fermentation) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gut-fiber-fermentation.md)
+- **[내 몸속의 인구와 이민: 장내미생물·항생제·정착 저항·미생물 이식](wiki/gut-microbiome-colonization.md)** · 별칭: 장내미생물 생태계, 유산균 정착, FMT 정착, 인간 39조 미생물 · 수정: 2026-10-25 · 검토: 내부 총합 · 생물학적 일반화 및 창작 유비의 한계 검토 필요
+  - 수십조 미생물의 개인별 군집과 짧은 세대시간을 출발점으로 항생제 교란, 프로바이오틱스의 일시적 통과, 분변미생물 이식의 정착과 위험을 생태학적으로 비교한다.
+  - [웹페이지](https://belorin.github.io/#gut-microbiome-colonization) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gut-microbiome-colonization.md)
+
+## 창작
+
+- **[위대한 내부의 공포: 장내 생태계를 코스믹 호러 세계로 바꾸는 법](wiki/gut-cosmic-horror-worldbuilding.md)** · 별칭: 안쪽의 별 설정, 젖은 별의 도시 구상, 장내 세균 공포소설, 룸 세계관 · 수정: 2026-10-25 · 검토: 내부 총합 · 생물학적 일반화 및 창작 유비의 한계 검토 필요
+  - 세균의 이분법·세대시간·먹이 유입·점액층·파지·항생제를 이질적 문명의 법칙으로 번역하고, 룸·아라·무오의 미스터리와 두 차례의 서사 구상 차이를 분석한다.
+  - [웹페이지](https://belorin.github.io/#gut-cosmic-horror-worldbuilding) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gut-cosmic-horror-worldbuilding.md)

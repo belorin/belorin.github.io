@@ -159,3 +159,13 @@
 
 - [이름의 출현을 기록하는 크레딧 아카이브: 판권면·스탭롤·인사발령](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/credit-observation-archive.md): 책 판권면과 영화·예능 스탭롤, 공공 인사기록을 출현 로그로 저장하고 동명이인 인물 후보와 원문 크레딧을 구별하는 데이터 모델·단계별 수집·검수 및 공개 정책.
 - [온라인 서점 미리보기와 판권면 수집: 기술적 가능성과 허용 범위](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/book-preview-credit-sourcing.md): 서점 상품정보·본문 발췌·미리보기 이미지를 구별하고 공식 메타데이터·출판사 샘플·수동 검수·제휴를 비교하는 판권면 수집 전략.
+
+### 생명과학
+
+- [사과는 딴 뒤에도 살아 있는가: 과육 세포·호흡·숙성·노화](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/fruit-flesh-living-cells.md): 쪼글쪼글한 사과의 속살이 버티는 이유를 살아 있는 유조직 세포, 팽압·세포벽·펙틴, ATP 호흡, 후숙·저장과 현미경 관찰로 설명한다.
+- [소화하지 못하는 것을 먹는 이유: 식이섬유·발효·방귀의 시간표](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gut-fiber-fermentation.md): 셀룰로오스와 종이의 역설에서 출발해 불용성·발효성 섬유질, 장내 미생물의 교차급식, 유당과 밀 프룩탄, 가스 및 배변 시간을 구별한다.
+- [내 몸속의 인구와 이민: 장내미생물·항생제·정착 저항·미생물 이식](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gut-microbiome-colonization.md): 수십조 미생물의 개인별 군집과 짧은 세대시간을 출발점으로 항생제 교란, 프로바이오틱스의 일시적 통과, 분변미생물 이식의 정착과 위험을 생태학적으로 비교한다.
+
+### 창작
+
+- [위대한 내부의 공포: 장내 생태계를 코스믹 호러 세계로 바꾸는 법](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gut-cosmic-horror-worldbuilding.md): 세균의 이분법·세대시간·먹이 유입·점액층·파지·항생제를 이질적 문명의 법칙으로 번역하고, 룸·아라·무오의 미스터리와 두 차례의 서사 구상 차이를 분석한다.
