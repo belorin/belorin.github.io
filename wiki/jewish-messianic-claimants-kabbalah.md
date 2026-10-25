@@ -107,6 +107,6 @@
 
 ## 자료 범위와 검토할 문제
 
-이 글은 《책의 민족》의 카발라 장을 계기로 정리된 인물·사례 목록과 당시 제시된 개략적 설명의 범위에서 구성했다. 책의 해당 문장 전후 맥락과 원서의 정확한 서지·쪽수, 인물별 사료의 연대와 자기 선언 여부를 새로 대조하지 않았다. 개별 사례는 **재검증이 필요한 전승·개설서 기반 서술**로 읽어야 한다.
+《책의 민족》의 카발라 장처럼 반복된 메시아 출현을 강조하는 역사 서술은, 여러 시대에 나타난 구원 운동을 한눈에 바라보는 출발점이 된다. 다만 이 문서의 연대·인물 분류는 **개설 수준의 목록을 정돈한 결과**이며, 해당 책의 구절 전후 맥락·정확한 원서 서지와 쪽수·개별 인물에 관한 1차 사료가 모두 대조된 연구 결과는 아니다. 각 사례를 **재검증이 필요한 전승·개설서 기반 서술**로 읽어야 한다.
 
-원래 제시된 참고 경로에는 [Jewish Encyclopedia의 ‘Pseudo-Messiahs’](https://www.jewishencyclopedia.com/articles/12416-pseudo-messiahs), [Encyclopaedia Britannica의 ‘Messiah’](https://www.britannica.com/topic/messiah-religion), [‘Shabbetai Tzevi’](https://www.britannica.com/biography/Shabbetai-Tzevi), [‘Shabbetaianism’](https://www.britannica.com/topic/Shabbetaianism)이 있다. 이 문서에서는 그 링크를 새로 열람하거나 보강 자료로 사용하지 않았다. 특히 이름 없는 11~12세기의 인물, 루리아·비탈에게 귀속되는 메시아적 지위, 각 사례의 정확한 연대는 원문과 전문 연구의 추가 대조가 필요한 부분이다.
+참고 경로로는 [Jewish Encyclopedia의 ‘Pseudo-Messiahs’](https://www.jewishencyclopedia.com/articles/12416-pseudo-messiahs), [Encyclopaedia Britannica의 ‘Messiah’](https://www.britannica.com/topic/messiah-religion), [‘Shabbetai Tzevi’](https://www.britannica.com/biography/Shabbetai-Tzevi), [‘Shabbetaianism’](https://www.britannica.com/topic/Shabbetaianism)이 있다. 이 문서의 개별 연대와 해석은 이 링크의 최신 본문과 새로 대조한 것이 아니다. 특히 이름 없는 11~12세기의 인물, 루리아·비탈에게 귀속되는 메시아적 지위, 각 사례의 정확한 연대는 전문 연구와의 추가 대조가 필요한 부분이다.
