@@ -1,0 +1,81 @@
+{
+  "id": "ing-20261025-dwar-netflix-revival",
+  "processed_on": "2026-10-25",
+  "coverage": "visible-complete",
+  "limit_note": "현재 접근 가능한 대화 발화와 기존 저장소 자료만 사용. 외부 자료 재검증 없음. 자동 생성물·검증은 별도 작업.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k1",
+      "kind": "fact",
+      "title": "2026년 8월 유럽 신규 편입과 차트 상승",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "dwar-netflix-revival",
+          "section": "2026년 8월의 관찰: 신규 편입과 순위 상승"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "kind": "argument",
+      "title": "동시기 구작 비교와 통제변수 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "dwar-netflix-revival",
+          "section": "같은 시기 편입된 구작과의 비교"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "kind": "concept",
+      "title": "괴수 액션의 스트리밍 상품 재포장",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "dwar-netflix-revival",
+          "section": "스트리밍 상품으로서의 장르적 재포장"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "kind": "argument",
+      "title": "외부 바이럴과 내부 확산의 경쟁 가설",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "dwar-netflix-revival",
+          "section": "외부 바이럴과 내부 바이럴의 경쟁 가설"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "kind": "argument",
+      "title": "국내 제작 담론과 해외 소비 프레임의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "dwar-netflix-revival",
+          "section": "한국에서의 기억과 해외에서의 소비"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "kind": "question",
+      "title": "국가별 순위와 추천 노출 검증 설계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "dwar-netflix-revival",
+          "section": "미해결 문제와 검증 설계"
+        }
+      ]
+    }
+  ]
+}
