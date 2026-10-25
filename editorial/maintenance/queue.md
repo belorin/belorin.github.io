@@ -4,9 +4,9 @@
 
 마지막 정비: 없음 · 다음 정비 버전: **M001** (첫 정비이므로 모든 문서가 변경 문서로 잡힌다)
 
-원고 116개 · 변경 문서 116 · 고립 12 · 한쪽 연결 70 · 보류 3 · 열린 교차 제안 7
+원고 117개 · 변경 문서 117 · 고립 13 · 한쪽 연결 78 · 보류 3 · 열린 교차 제안 7
 
-## 1. 지난 정비 이후 변경된 문서 (116)
+## 1. 지난 정비 이후 변경된 문서 (117)
 
 첫 정비이므로 전체 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
@@ -27,11 +27,12 @@
 - **문화** (1): `music-books-supply-attention`
 - **언어** (1): `romp-etymology`
 - **자연과 과학** (1): `bird-vocalization-sparrow`
+- **종합** (1): `replay-ladder-human-performance`
 - **질문** (1): `open-questions`
 - **창작** (1): `gut-cosmic-horror-worldbuilding`
 - **철학·심리** (1): `freud-dreams-modern-science`
 
-## 2. 들어오는 연결이 없는 문서 (12)
+## 2. 들어오는 연결이 없는 문서 (13)
 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
@@ -47,8 +48,9 @@
 - `korea-dance-musical-tours` 한국에서 기다릴 대형 뮤지컬: 내한 전망과 춤·아크로바틱 취향의 선택법
 - `bird-vocalization-sparrow` 새소리는 어디까지 번역되었는가: 행동 신호에서 참새의 짹짹까지
 - `dwar-netflix-revival` 《디워》의 2026년 넷플릭스 역주행: 플랫폼 내부 확산과 외부 바이럴
+- `replay-ladder-human-performance` 재생 사다리: 기술 전환은 인간 수행의 가치를 어디로 옮기는가 · 미게시
 
-## 3. 한쪽에서만 건 관련 문서 (70)
+## 3. 한쪽에서만 건 관련 문서 (78)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -122,6 +124,14 @@
 - `gut-cosmic-horror-worldbuilding` → `gut-fiber-fermentation`
 - `philosophical-systems-after-2000` → `deleuze-becoming-new`
 - `wiki-operations-pipeline` → `living-notes`
+- `replay-ladder-human-performance` → `silent-film-musician-labor`
+- `replay-ladder-human-performance` → `jazz-ensemble-labor`
+- `replay-ladder-human-performance` → `japan-physical-ai-skill-transfer`
+- `replay-ladder-human-performance` → `gradual-disempowerment`
+- `replay-ladder-human-performance` → `disempowerment-measurement`
+- `replay-ladder-human-performance` → `ai-capital-labor-distribution`
+- `replay-ladder-human-performance` → `ai-transition-policy-gap`
+- `replay-ladder-human-performance` → `open-questions`
 
 ## 4. 관련 문서가 없는 문서 (13)
 
@@ -181,10 +191,10 @@
 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
-- 긴 문서 (8): `wiki-building-history` 14,233자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `ai-capital-labor-distribution` 11,322자, `korea-personal-data-lifecycle` 11,027자, `korea-dance-musical-tours` 10,337자, `wiki-operations-pipeline` 10,290자, `stalking-harm-and-autonomy` 10,033자
+- 긴 문서 (9): `wiki-building-history` 14,233자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `ai-capital-labor-distribution` 11,322자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `korea-dance-musical-tours` 10,337자, `wiki-operations-pipeline` 10,290자, `stalking-harm-and-autonomy` 10,033자
 - 짧은 문서 (7): `double-bass` 1,227자, `deleuze-cartography-future` 1,291자, `electric-bass` 1,325자, `rhythm-section` 1,383자, `big-band` 1,400자, `jazz-listening` 1,435자, `drum-kit` 1,481자
 
 ## 9. 분류 참고
 
-분류 20개: 음악 36, AI와 사회 18, 문화와 역사 14, 철학 11, 사회와 제도 7, 운영 4, 독서 문화 3, 영화 3, 정치경제 3, 생명과학 3, 철학·사상사 3, 미분류 2, 기술·지식 아카이브 2, 질문 1, 언어 1, 문학 1, 자연과 과학 1, 문화 1, 창작 1, 철학·심리 1
-문서가 하나뿐인 분류 7개: 질문, 언어, 문학, 자연과 과학, 문화, 창작, 철학·심리. 분류 체계 변경은 제안만 한다.
+분류 21개: 음악 36, AI와 사회 18, 문화와 역사 14, 철학 11, 사회와 제도 7, 운영 4, 독서 문화 3, 영화 3, 정치경제 3, 생명과학 3, 철학·사상사 3, 미분류 2, 기술·지식 아카이브 2, 질문 1, 언어 1, 문학 1, 자연과 과학 1, 문화 1, 창작 1, 철학·심리 1, 종합 1
+문서가 하나뿐인 분류 8개: 질문, 언어, 문학, 자연과 과학, 문화, 창작, 철학·심리, 종합. 분류 체계 변경은 제안만 한다.

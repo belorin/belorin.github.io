@@ -8,6 +8,7 @@
 - 태그: 피지컬 AI, 로봇, 일본, 숙련 전승, 손지능, 모방학습, 촉각 센서
 - 수정일: 2026-10-25 · 실제 증보일: 2026-10-25 · 검토: needs_review
 - 관련 문서: `ai-compute-scaling-inference`, `ai-economic-transition`
+- 이 문서를 근거로 쓴 종합: `replay-ladder-human-performance`
 
 ## 절 목차
 

@@ -8,6 +8,7 @@
 - 태그: AI, 경제 이행기, 재교육, 국제기구, 노동 수요, 경제학, 정책 실패
 - 수정일: 2026-10-24 · 실제 증보일: 2026-10-24 · 검토: needs_review
 - 관련 문서: `ai-economic-transition`, `ai-capital-labor-distribution`, `gradual-disempowerment`
+- 이 문서를 근거로 쓴 종합: `replay-ladder-human-performance`
 
 ## 절 목차
 

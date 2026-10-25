@@ -8,6 +8,7 @@
 - 태그: 무성영화, 유성영화, 노동사, AFM, 녹음기술
 - 수정일: 2026-10-22 · 실제 증보일: 미확인 · 검토: unassessed
 - 관련 문서: `silent-film`, `jazz-ensemble-labor`, `circus-music-questions`, `circus-music-concepts`
+- 이 문서를 근거로 쓴 종합: `replay-ladder-human-performance`
 
 ## 절 목차
 
