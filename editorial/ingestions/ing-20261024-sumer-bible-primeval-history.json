@@ -1,0 +1,101 @@
+{
+  "id": "ing-20261024-sumer-bible-primeval-history",
+  "processed_on": "2026-10-24",
+  "coverage": "visible-complete",
+  "limit_note": "현재 실제로 접근 가능한 수메르 재발견과 구약 원초사 논의 범위를 순차 검토했으며 외부 링크를 새로 열람하거나 추가 조사하지 않음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k1",
+      "kind": "concept",
+      "title": "사건의 역사화와 전승의 역사화 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "sumer-bible-primeval-history",
+          "section": "사건의 역사화와 전승의 역사화를 구분하기"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "kind": "fact",
+      "title": "지우수드라·아트라하시스·우트나피쉬팀·노아로 이어지는 홍수 전승 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "sumer-bible-primeval-history",
+          "section": "대홍수: 가장 강하게 역사적 배경을 얻은 원초사"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "kind": "argument",
+      "title": "수메르 왕명록과 실제 홍수층이 제공하는 증거의 범위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "sumer-bible-primeval-history",
+          "section": "수메르 왕명록의 ‘홍수 이전’과 ‘홍수 이후’"
+        },
+        {
+          "doc_id": "sumer-bible-primeval-history",
+          "section": "실제 홍수는 있었는가: 고고학이 주는 것과 주지 않는 것"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "kind": "concept",
+      "title": "에덴과 딜문을 현실 지리와 신화 지리의 중첩으로 읽기",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "sumer-bible-primeval-history",
+          "section": "에덴: 현실 지리와 신화 지리가 겹쳐진 공간"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "kind": "fact",
+      "title": "바벨탑과 에테메난키·바빌론 포로기의 역사적 배경",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "sumer-bible-primeval-history",
+          "section": "바벨탑: 역사적 배경과 신화적 설명이 가장 가까이 붙는 사례"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "kind": "argument",
+      "title": "메소포타미아 원초사가 세계사 정사로 체감되지 않는 이유",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "sumer-bible-primeval-history",
+          "section": "왜 이것이 ‘세계사 정사’로 널리 퍼지지 않았는가"
+        }
+      ]
+    },
+    {
+      "id": "k7",
+      "kind": "concept",
+      "title": "창세기 1~11장을 고대 서아시아 원초사 전통 안에 배치하는 모형",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "sumer-bible-primeval-history",
+          "section": "창세기 1~11장을 ‘서아시아 원초사 전통’으로 보기"
+        },
+        {
+          "doc_id": "sumer-bible-primeval-history",
+          "section": "‘신화인가 역사인가’라는 양자택일을 넘어서"
+        }
+      ]
+    }
+  ]
+}

@@ -91,6 +91,42 @@
       "hypothesis": "문화 행사와 독서모임을 결과물보다 참여·운영·시간 단위·모임의 목적을 통해 비교하는 방법의 검토 가능성",
       "reason": "불행사의 공동체 구성·해산과 독서모임의 선정 권한·읽기 리듬·참가 문턱은 사람들이 함께 문화를 조직하는 조건을 비교할 단서를 제공한다.",
       "limitation": "일시적 사막 행사와 지속적인 독서모임의 운영이 같다는 주장이 아니며, 같은 공동체 효과나 역사적 계보를 확인한 것도 아니다."
+    },
+    {
+      "id": "link-20261024-chiikawa-plato-deleuze",
+      "created_on": "2026-10-24",
+      "from": {
+        "doc_id": "chiikawa-philosophy",
+        "section": "이 독해가 강한 곳과 약한 곳"
+      },
+      "to": {
+        "doc_id": "deleuze-negation-history",
+        "section": "플라톤식 도덕주의와 다른 평가"
+      },
+      "type": "possible_contrast",
+      "status": "proposed",
+      "basis": "editorial_hypothesis",
+      "hypothesis": "치이카와의 욕망을 플라톤적 규범과 습관의 통치로 읽는 관점과, 배치가 무엇을 가능하게 하고 막는지를 묻는 들뢰즈적 평가를 대비할 가능성",
+      "reason": "치이카와 문서는 순응과 규칙을 중심으로 한 플라톤 독해의 강점과 한계를 다루고, 들뢰즈 문서는 초월적 모델보다 배치의 내재적 효과를 평가하는 관점을 설명한다.",
+      "limitation": "현재 대화에는 완성된 들뢰즈식 치이카와 분석이 없고 들뢰즈가 치이카와를 논한 근거도 없으므로, 두 문서를 직접 연결한 해석은 후속 검토가 필요하다."
+    },
+    {
+      "id": "link-20261024-affect-hate-escalation",
+      "created_on": "2026-10-24",
+      "from": {
+        "doc_id": "hate-escalation-brakes-history",
+        "section": "공통 구조: 관용의 승리보다 증폭장치의 고장"
+      },
+      "to": {
+        "doc_id": "post-deleuze-novelty-thinkers",
+        "section": "브라이언 마수미: 정동과 미디어 정치"
+      },
+      "type": "conceptual_extension",
+      "status": "proposed",
+      "basis": "editorial_hypothesis",
+      "hypothesis": "역사적 집단공황의 증폭과 중단 사례를 정동이 미디어와 정치에서 순환·증폭되는 문제와 비교해 볼 가능성",
+      "reason": "새 문서는 공포와 혐오의 사실 내용보다 고발·수사·정치 보상이 증폭을 만드는 과정을 비교하고, 마수미 절은 불안과 공포 같은 정동의 순환과 증폭을 분석 대상으로 제시한다.",
+      "limitation": "역사 사례가 마수미 이론으로 설명된다는 뜻이 아니며, 각 사건의 인과를 정동 이론 하나로 환원할 근거도 없다."
     }
   ]
 }

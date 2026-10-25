@@ -1,0 +1,585 @@
+{
+  "id": "ing-20261025-orchestra-repertoire-seasons",
+  "processed_on": "2026-10-25",
+  "coverage": "visible-partial",
+  "limit_note": "초기 긴 대화는 접근 가능한 요약을, 최근 발화는 직접 확인한 범위를 사용. 대화 공유 URL·원본 식별자 미확인. 새로운 외부 조사 없음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "세계 레퍼토리 데이터베이스: 무엇을 얻고 무엇을 얻지 못하는가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-repertoire-data-access",
+          "section": "세계 레퍼토리 데이터베이스: 무엇을 얻고 무엇을 얻지 못하는가"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "미국 오케스트라 2,218개라는 숫자의 함정",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-repertoire-data-access",
+          "section": "미국 오케스트라 2,218개라는 숫자의 함정"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "공연장 수와 음악을 들을 가능성은 다르다",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-repertoire-data-access",
+          "section": "공연장 수와 음악을 들을 가능성은 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "fact",
+      "title": "Bachtrack의 '콘서트' 10개 연례 통계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-repertoire-data-access",
+          "section": "Bachtrack의 '콘서트' 10개 연례 통계"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "concept",
+      "title": "초연, 두 번째 공연, 정전화는 세 개의 사건이다",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-living-composers-canon",
+          "section": "초연, 두 번째 공연, 정전화는 세 개의 사건이다"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "fact",
+      "title": "Bachtrack에서 생존 작곡가가 늘어나는 방식",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-living-composers-canon",
+          "section": "Bachtrack에서 생존 작곡가가 늘어나는 방식"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "concept",
+      "title": "14%는 실제로 얼마나 새로운가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-living-composers-canon",
+          "section": "14%는 실제로 얼마나 새로운가"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "concept",
+      "title": "프로그램의 문장을 읽는 감상법",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-living-composers-canon",
+          "section": "프로그램의 문장을 읽는 감상법"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "concept",
+      "title": "빈 필: 말러·브루크너와 의례 사이의 전통",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-orchestras-repertoire-2026",
+          "section": "빈 필: 말러·브루크너와 의례 사이의 전통"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "concept",
+      "title": "베를린 필: 작품 사이에 논리를 배치하는 레퍼토리 전략가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-orchestras-repertoire-2026",
+          "section": "베를린 필: 작품 사이에 논리를 배치하는 레퍼토리 전략가"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "concept",
+      "title": "로열 콘세르트헤바우: 말러와 브루크너의 유산을 메켈레에게 넘기다",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-orchestras-repertoire-2026",
+          "section": "로열 콘세르트헤바우: 말러와 브루크너의 유산을 메켈레에게 넘기다"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "concept",
+      "title": "런던 심포니: 정통 교향곡만으로는 설명되지 않는 도시형 문화 플랫폼",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-orchestras-repertoire-2026",
+          "section": "런던 심포니: 정통 교향곡만으로는 설명되지 않는 도시형 문화 플랫폼"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "concept",
+      "title": "시카고 심포니: 미국 음악과 대편성의 힘, 메켈레 시대의 예고",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-orchestras-repertoire-2026",
+          "section": "시카고 심포니: 미국 음악과 대편성의 힘, 메켈레 시대의 예고"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "fact",
+      "title": "이 다섯이 세계 클래식의 전부는 아니다",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-orchestras-repertoire-2026",
+          "section": "이 다섯이 세계 클래식의 전부는 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "concept",
+      "title": "캐릭터는 해석이며, 의상은 근거가 아니다",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-orchestras-repertoire-2026",
+          "section": "캐릭터는 해석이며, 의상은 근거가 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "concept",
+      "title": "서울시립교향악단: 말러 사이클과 모차르트 집중",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korean-orchestras-repertoire-2026",
+          "section": "서울시립교향악단: 말러 사이클과 모차르트 집중"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "concept",
+      "title": "KBS교향악단: 70주년, 정명훈, 말러의 재집중",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korean-orchestras-repertoire-2026",
+          "section": "KBS교향악단: 70주년, 정명훈, 말러의 재집중"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "concept",
+      "title": "국립심포니오케스트라: 표준 레퍼토리의 공공 번역자",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korean-orchestras-repertoire-2026",
+          "section": "국립심포니오케스트라: 표준 레퍼토리의 공공 번역자"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "concept",
+      "title": "부산시립교향악단: 브루크너의 거대한 구조물",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korean-orchestras-repertoire-2026",
+          "section": "부산시립교향악단: 브루크너의 거대한 구조물"
+        }
+      ]
+    },
+    {
+      "id": "k20",
+      "kind": "concept",
+      "title": "인천시립교향악단: 가장 명시적으로 시리즈 이름을 앞세운 기획자",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korean-orchestras-repertoire-2026",
+          "section": "인천시립교향악단: 가장 명시적으로 시리즈 이름을 앞세운 기획자"
+        }
+      ]
+    },
+    {
+      "id": "k21",
+      "kind": "concept",
+      "title": "부천필하모닉: 프로그램에 읽는 제목을 붙이는 문학형 편집자",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korean-orchestras-repertoire-2026",
+          "section": "부천필하모닉: 프로그램에 읽는 제목을 붙이는 문학형 편집자"
+        }
+      ]
+    },
+    {
+      "id": "k22",
+      "kind": "concept",
+      "title": "대구시립교향악단: 한 작곡가의 방을 차례로 여는 도슨트",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korean-orchestras-repertoire-2026",
+          "section": "대구시립교향악단: 한 작곡가의 방을 차례로 여는 도슨트"
+        }
+      ]
+    },
+    {
+      "id": "k23",
+      "kind": "concept",
+      "title": "광주시립교향악단: 청중과의 거리 줄이기",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korean-orchestras-repertoire-2026",
+          "section": "광주시립교향악단: 청중과의 거리 줄이기"
+        }
+      ]
+    },
+    {
+      "id": "k24",
+      "kind": "concept",
+      "title": "대전시립교향악단: 챔버·디스커버리·걸음마의 여러 문턱",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korean-orchestras-repertoire-2026",
+          "section": "대전시립교향악단: 챔버·디스커버리·걸음마의 여러 문턱"
+        }
+      ]
+    },
+    {
+      "id": "k25",
+      "kind": "concept",
+      "title": "수원시립교향악단: 전통을 중량급 레퍼토리로 확장하는 도전자",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korean-orchestras-repertoire-2026",
+          "section": "수원시립교향악단: 전통을 중량급 레퍼토리로 확장하는 도전자"
+        }
+      ]
+    },
+    {
+      "id": "k26",
+      "kind": "concept",
+      "title": "경기필하모닉: 캐릭터를 보류할 용기",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korean-orchestras-repertoire-2026",
+          "section": "경기필하모닉: 캐릭터를 보류할 용기"
+        }
+      ]
+    },
+    {
+      "id": "k27",
+      "kind": "concept",
+      "title": "한국 악단을 캐릭터로 그릴 때 지켜야 할 선",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korean-orchestras-repertoire-2026",
+          "section": "한국 악단을 캐릭터로 그릴 때 지켜야 할 선"
+        }
+      ]
+    },
+    {
+      "id": "k28",
+      "kind": "concept",
+      "title": "작곡가가 선택할 수 있는 관현악의 층위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestration-instrument-history",
+          "section": "작곡가가 선택할 수 있는 관현악의 층위"
+        }
+      ]
+    },
+    {
+      "id": "k29",
+      "kind": "concept",
+      "title": "라흐마니노프 《교향적 무곡》의 '양념'은 얼마나 많은 사람을 요구하는가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestration-instrument-history",
+          "section": "라흐마니노프 《교향적 무곡》의 '양념'은 얼마나 많은 사람을 요구하는가"
+        }
+      ]
+    },
+    {
+      "id": "k30",
+      "kind": "argument",
+      "title": "말러는 왜 지방 악단의 예산을 빨아들이는가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestration-instrument-history",
+          "section": "말러는 왜 지방 악단의 예산을 빨아들이는가"
+        }
+      ]
+    },
+    {
+      "id": "k31",
+      "kind": "concept",
+      "title": "협주곡: 한 개인과 전체 악단의 대결은 언제 생겼는가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestration-instrument-history",
+          "section": "협주곡: 한 개인과 전체 악단의 대결은 언제 생겼는가"
+        }
+      ]
+    },
+    {
+      "id": "k32",
+      "kind": "concept",
+      "title": "클래식 음악은 본래 어디에서 연주되었는가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestration-instrument-history",
+          "section": "클래식 음악은 본래 어디에서 연주되었는가"
+        }
+      ]
+    },
+    {
+      "id": "k33",
+      "kind": "concept",
+      "title": "새 악기의 탄생과 관현악 입장 심사",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestration-instrument-history",
+          "section": "새 악기의 탄생과 관현악 입장 심사"
+        }
+      ]
+    },
+    {
+      "id": "k34",
+      "kind": "concept",
+      "title": "전자악기가 아니어도 새 어쿠스틱 악기는 태어난다",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestration-instrument-history",
+          "section": "전자악기가 아니어도 새 어쿠스틱 악기는 태어난다"
+        }
+      ]
+    },
+    {
+      "id": "k35",
+      "kind": "concept",
+      "title": "클라우스 메켈레라는 비정상적으로 빠른 경력",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "conductors-career-encores",
+          "section": "클라우스 메켈레라는 비정상적으로 빠른 경력"
+        }
+      ]
+    },
+    {
+      "id": "k36",
+      "kind": "argument",
+      "title": "왜 콘세르트헤바우와 시카고는 같은 사람을 원하는가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "conductors-career-encores",
+          "section": "왜 콘세르트헤바우와 시카고는 같은 사람을 원하는가"
+        }
+      ]
+    },
+    {
+      "id": "k37",
+      "kind": "concept",
+      "title": "요즘 젊은 지휘자 붐은 있는가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "conductors-career-encores",
+          "section": "요즘 젊은 지휘자 붐은 있는가"
+        }
+      ]
+    },
+    {
+      "id": "k38",
+      "kind": "concept",
+      "title": "핀란드가 지휘자를 계속 배출하는 이유",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "conductors-career-encores",
+          "section": "핀란드가 지휘자를 계속 배출하는 이유"
+        }
+      ]
+    },
+    {
+      "id": "k39",
+      "kind": "concept",
+      "title": "예전에도 혜성 같은 지휘자는 있었는가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "conductors-career-encores",
+          "section": "예전에도 혜성 같은 지휘자는 있었는가"
+        }
+      ]
+    },
+    {
+      "id": "k40",
+      "kind": "concept",
+      "title": "지휘자의 자리는 몇 개인가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "conductors-career-encores",
+          "section": "지휘자의 자리는 몇 개인가"
+        }
+      ]
+    },
+    {
+      "id": "k41",
+      "kind": "concept",
+      "title": "앵콜은 마지막에 던지는 사적인 문장이다",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "conductors-career-encores",
+          "section": "앵콜은 마지막에 던지는 사적인 문장이다"
+        }
+      ]
+    },
+    {
+      "id": "k42",
+      "kind": "concept",
+      "title": "필하모닉, 심포니, 오케스트라: 이름은 무엇을 뜻하는가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-halls-seasons",
+          "section": "필하모닉, 심포니, 오케스트라: 이름은 무엇을 뜻하는가"
+        }
+      ]
+    },
+    {
+      "id": "k43",
+      "kind": "concept",
+      "title": "가을에 시작해 다음 해 여름에 끝나는 시즌",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-halls-seasons",
+          "section": "가을에 시작해 다음 해 여름에 끝나는 시즌"
+        }
+      ]
+    },
+    {
+      "id": "k44",
+      "kind": "fact",
+      "title": "다섯 명문 악단의 본거지 홀",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-halls-seasons",
+          "section": "다섯 명문 악단의 본거지 홀"
+        }
+      ]
+    },
+    {
+      "id": "k45",
+      "kind": "concept",
+      "title": "한 콘서트홀과 한 악단이 같은 말이 아닌 이유",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-halls-seasons",
+          "section": "한 콘서트홀과 한 악단이 같은 말이 아닌 이유"
+        }
+      ]
+    },
+    {
+      "id": "k46",
+      "kind": "concept",
+      "title": "빈 필 신년음악회라는 별도의 산업",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-halls-seasons",
+          "section": "빈 필 신년음악회라는 별도의 산업"
+        }
+      ]
+    },
+    {
+      "id": "k47",
+      "kind": "concept",
+      "title": "작은 방과 세계적 권위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-halls-seasons",
+          "section": "작은 방과 세계적 권위"
+        }
+      ]
+    },
+    {
+      "id": "k48",
+      "kind": "argument",
+      "title": "생존 작곡가의 비율과 정전 형성의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "classical-canon-mauceri",
+          "section": "생존 작곡가의 비율과 다음 연주의 경제학"
+        }
+      ]
+    }
+  ]
+}

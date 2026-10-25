@@ -1,0 +1,185 @@
+{
+  "id": "ing-20261024-ai-domination-gradient",
+  "processed_on": "2026-10-24",
+  "coverage": "visible-complete",
+  "limit_note": "현재 접근 가능한 대화 범위를 처음부터 검토함. 외부 자료는 새로 조사하지 않았고, 대화 중 이미 소개된 외부 수치와 연구는 재검증 여부를 본문에 구분함",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "AI 지배를 사건이 아니라 농도로 보는 현재형 가설",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-domination-gradient",
+          "section": "지배는 날짜가 아니라 농도로 시작될 수 있다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "counterargument",
+      "title": "안경·컴퓨터 반례를 통한 매개·의존·지배의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-domination-gradient",
+          "section": "매개·의존·지배를 구분해야 한다"
+        },
+        {
+          "doc_id": "ai-domination-gradient",
+          "section": "안경과 컴퓨터 반론"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "언어 개입·방향성·물질 고착·문화 선택압·능력감의 다섯 관찰 재배치",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-domination-gradient",
+          "section": "처음의 다섯 관찰을 다시 배치하기"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "의도 대신 분포의 변위로 정의한 맥락적 경사",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-domination-gradient",
+          "section": "방향성 대신 맥락적 경사"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "concept",
+      "title": "의미적 매개에서 통제 비대칭까지 이어지는 지배의 여덟 층",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-domination-gradient",
+          "section": "지배의 여덟 층"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "argument",
+      "title": "단일 점수 대신 도구에서 환경으로 이어지는 농도의 상태 전이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-domination-gradient",
+          "section": "농도는 하나의 숫자보다 상태 전이로 본다"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "counterargument",
+      "title": "이미 지배라는 강한 문장의 범위 제한과 점진적 무력화의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-domination-gradient",
+          "section": "이미 시작되었다는 주장의 정확한 범위"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "concept",
+      "title": "AI 대화 뒤 사고의 출처가 지워지는 문제와 반사실 질문",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-domination-gradient",
+          "section": "사고의 출처가 지워지는 문제"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "curation",
+      "title": "행동·생각·채택·의존·출처를 묻는 일상의 다섯 질문",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-domination-gradient",
+          "section": "일상의 다섯 질문"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "argument",
+      "title": "p(doom)의 주관적 확률과 인류 주변화를 사건 중심 위험론에서 구분하기",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-domination-gradient",
+          "section": "멸망 확률과 주변화: 미래의 대사건에 집중하는 방식"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "concept",
+      "title": "카산드라 욕망을 조기 구조 탐지와 예측 장부로 전환하는 방법",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-domination-gradient",
+          "section": "카산드라 욕망을 조기 구조 탐지로 바꾸기"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "counterargument",
+      "title": "AI와 함께 만든 AI 지배론을 증거가 아니라 실연으로 제한하는 반증 규칙",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-domination-gradient",
+          "section": "반증 가능성을 지키기"
+        },
+        {
+          "doc_id": "ai-domination-gradient",
+          "section": "메타적 실연: 생각의 지형을 누가 그리는가"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "question",
+      "title": "영향과 지배의 경계·다양성·이의제기·사고 출처에 관한 미해결 질문",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-domination-gradient",
+          "section": "미해결 질문"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "argument",
+      "title": "통제력 길잡이에 미래 사건에서 현재 농도로의 초점 이동 추가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-human-control-guide",
+          "section": "초점의 이동: 극적 장악에서 보이지 않는 변화로"
+        }
+      ]
+    }
+  ]
+}

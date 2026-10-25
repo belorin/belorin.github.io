@@ -1,0 +1,109 @@
+{
+  "id": "ing-20261024-anne-carson-nobel-reactions",
+  "processed_on": "2026-10-24",
+  "coverage": "visible-complete",
+  "limit_note": "실제로 접근 가능한 문답과 보도 재인용만 검토함. 원본 영상·전체 녹취의 독립 대조 및 외부 조사는 하지 않음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k1",
+      "kind": "fact",
+      "title": "2026년 노벨문학상 수상 반응의 인터뷰 상황과 매체 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "anne-carson-nobel-first-reactions",
+          "section": "수상 직후 인터뷰의 현장"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "kind": "argument",
+      "title": "crazy의 대상과 놀라움·비난 사이 번역의 경계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "anne-carson-nobel-first-reactions",
+          "section": "“Crazy. I think they're all crazy”: 무엇이 미쳤다는 말인가"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "kind": "fact",
+      "title": "현장 인터뷰의 바람·수상 통지·한림원 연락·독자층 질문",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "anne-carson-nobel-first-reactions",
+          "section": "보도에서 전해진 질문과 답변의 범위"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "kind": "concept",
+      "title": "hear things와 read things를 작품의 발견·선택으로 구별하는 해석",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "anne-carson-nobel-first-reactions",
+          "section": "“I don't understand how people hear things or read things”"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "kind": "argument",
+      "title": "작품의 존재와 독자 도달, 실제 읽기의 단계 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "anne-carson-nobel-first-reactions",
+          "section": "책의 가치, 발견 가능성, 실제 독서는 서로 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "kind": "example",
+      "title": "노벨상 스티커와 출판사의 기대를 독자 발견의 매개로 해석",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "anne-carson-nobel-first-reactions",
+          "section": "출판사의 기대와 노벨상 스티커"
+        }
+      ]
+    },
+    {
+      "id": "k7",
+      "kind": "fact",
+      "title": "RÚV 현장 영상과 노벨상 공식 전화 인터뷰의 별개 자료 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "anne-carson-nobel-first-reactions",
+          "section": "공식 전화 인터뷰는 별개의 자료다"
+        }
+      ]
+    },
+    {
+      "id": "k8",
+      "kind": "question",
+      "title": "보도 인용 단편과 영어 전체 축어록 사이의 검증 경계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "anne-carson-nobel-first-reactions",
+          "section": "번역과 인용에서 남는 문제"
+        },
+        {
+          "doc_id": "anne-carson-nobel-first-reactions",
+          "section": "자료와 검증 상태"
+        }
+      ]
+    }
+  ]
+}

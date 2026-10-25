@@ -1,0 +1,117 @@
+{
+  "id": "ing-20261024-chiikawa-philosophy",
+  "processed_on": "2026-10-24",
+  "coverage": "visible-complete",
+  "limit_note": "현재 실제로 접근 가능한 대화 범위를 순차 검토했으며 이번 편집에서는 외부 추가 조사를 하지 않음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k1",
+      "kind": "fact",
+      "title": "일본에서 치이카와가 철학·노동·캐릭터론·만화표현론의 분석 대상으로 확장된 흐름",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "chiikawa-philosophy",
+          "section": "연구는 이미 팬 고찰을 넘어섰다"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "kind": "fact",
+      "title": "히라이시의 2025년 논문과 2024년 발표자료 사이의 자료 경계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "chiikawa-philosophy",
+          "section": "히라이시 논문의 위치와 자료의 경계"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "kind": "argument",
+      "title": "초기 욕망적 존재에서 사회 구성원으로 이동하는 치이카와의 문제 설정",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "chiikawa-philosophy",
+          "section": "출발점: “이런 식으로 되어 살아가고 싶다”"
+        },
+        {
+          "doc_id": "chiikawa-philosophy",
+          "section": "욕망적인 존재에게 사회가 생길 때"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "kind": "concept",
+      "title": "플라톤의 2차적 덕으로 읽는 습관·노동·규칙의 사회적 통치",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "chiikawa-philosophy",
+          "section": "2차적 덕: 철학하지 않아도 질서 안에서 잘 사는 법"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "kind": "example",
+      "title": "마법의 지팡이 에피소드에서 욕망이 사회적 절차를 우회할 때 나타나는 괴물화",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "chiikawa-philosophy",
+          "section": "마법의 지팡이: 욕망이 절차를 건너뛸 때 괴물이 된다"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "kind": "argument",
+      "title": "고귀한 거짓말로서의 치이카와와 이미 주어진 질서의 자연화",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "chiikawa-philosophy",
+          "section": "고귀한 거짓말: 이미 주어진 질서를 자연스럽게 느끼게 하는 장치"
+        }
+      ]
+    },
+    {
+      "id": "k7",
+      "kind": "counterargument",
+      "title": "순응 독해의 한계와 우정·서술 시점·우사기가 만드는 반례",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "chiikawa-philosophy",
+          "section": "이 독해가 강한 곳과 약한 곳"
+        },
+        {
+          "doc_id": "chiikawa-philosophy",
+          "section": "우사기라는 반례와 규범의 누수"
+        }
+      ]
+    },
+    {
+      "id": "k8",
+      "kind": "curation",
+      "title": "알튀세르·캐라/캐릭터·소리와 리듬·노동·심리적 수용을 잇는 일본의 치이카와 비평 지형",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "chiikawa-philosophy",
+          "section": "일본에서 확장되고 있는 다른 독해들"
+        },
+        {
+          "doc_id": "chiikawa-philosophy",
+          "section": "현재 확인되는 연구 지형"
+        }
+      ]
+    }
+  ]
+}

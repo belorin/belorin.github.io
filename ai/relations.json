@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 264,
+  "edge_count": 329,
   "edges": [
     {
       "from": "living-notes",
@@ -889,6 +889,12 @@
     },
     {
       "from": "ai-human-control-guide",
+      "to": "ai-domination-gradient",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-human-control-guide",
       "to": "gradual-disempowerment",
       "type": "related_to",
       "basis": "manifest.related"
@@ -1010,6 +1016,12 @@
     {
       "from": "gradual-disempowerment",
       "to": "ai-capital-labor-distribution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gradual-disempowerment",
+      "to": "ai-transition-policy-gap",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1272,6 +1284,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "classical-canon-mauceri",
+      "to": "orchestra-living-composers-canon",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "classical-canon-mauceri",
+      "to": "orchestra-repertoire-data-access",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "ai-economic-transition",
       "to": "ai-capital-labor-distribution",
       "type": "related_to",
@@ -1302,6 +1326,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "ai-economic-transition",
+      "to": "ai-transition-policy-gap",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "ai-capital-labor-distribution",
       "to": "ai-economic-transition",
       "type": "related_to",
@@ -1328,6 +1358,12 @@
     {
       "from": "ai-capital-labor-distribution",
       "to": "ai-human-control-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-capital-labor-distribution",
+      "to": "ai-transition-policy-gap",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1442,6 +1478,318 @@
     {
       "from": "japanese-classical-tv-conductor-image",
       "to": "daisuke-soga-conductor-career",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-domination-gradient",
+      "to": "ai-human-control-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-domination-gradient",
+      "to": "gradual-disempowerment",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-domination-gradient",
+      "to": "disempowerment-measurement",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-domination-gradient",
+      "to": "llm-disempowerment-patterns",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-domination-gradient",
+      "to": "conversational-ai-persuasion",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "stalking-harm-and-autonomy",
+      "to": "excellent-victim-kwak-aram",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "excellent-victim-kwak-aram",
+      "to": "stalking-harm-and-autonomy",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "europe-russia-escalation-signals-2026",
+      "to": "war-escalation-local-to-world",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "europe-russia-escalation-signals-2026",
+      "to": "drone-asymmetric-warfare",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "war-escalation-local-to-world",
+      "to": "europe-russia-escalation-signals-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "war-escalation-local-to-world",
+      "to": "drone-asymmetric-warfare",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "drone-asymmetric-warfare",
+      "to": "war-escalation-local-to-world",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "drone-asymmetric-warfare",
+      "to": "europe-russia-escalation-signals-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "woodwind-reeds-material-history",
+      "to": "instrument-consumables-organic-materials",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "woodwind-reeds-material-history",
+      "to": "orchestra-instrument-stereotypes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "instrument-consumables-organic-materials",
+      "to": "woodwind-reeds-material-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-instrument-stereotypes",
+      "to": "woodwind-reeds-material-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hank-asher-data-fusion-ai",
+      "to": "ai-democracy-narrow-corridor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hank-asher-data-fusion-ai",
+      "to": "ai-conversation-data-access",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hank-asher-data-fusion-ai",
+      "to": "korea-personal-data-lifecycle",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "korea-personal-data-lifecycle",
+      "to": "hank-asher-data-fusion-ai",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "korea-personal-data-lifecycle",
+      "to": "ai-democracy-narrow-corridor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "korea-personal-data-lifecycle",
+      "to": "ai-conversation-data-access",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-repertoire-data-access",
+      "to": "orchestra-living-composers-canon",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-repertoire-data-access",
+      "to": "world-orchestras-repertoire-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-repertoire-data-access",
+      "to": "orchestra-halls-seasons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-living-composers-canon",
+      "to": "classical-canon-mauceri",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-living-composers-canon",
+      "to": "orchestra-repertoire-data-access",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-living-composers-canon",
+      "to": "world-orchestras-repertoire-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-orchestras-repertoire-2026",
+      "to": "orchestra-living-composers-canon",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-orchestras-repertoire-2026",
+      "to": "korean-orchestras-repertoire-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-orchestras-repertoire-2026",
+      "to": "conductors-career-encores",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-orchestras-repertoire-2026",
+      "to": "orchestra-halls-seasons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "korean-orchestras-repertoire-2026",
+      "to": "world-orchestras-repertoire-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "korean-orchestras-repertoire-2026",
+      "to": "orchestra-repertoire-data-access",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "korean-orchestras-repertoire-2026",
+      "to": "orchestra-living-composers-canon",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestration-instrument-history",
+      "to": "woodwind-reeds-material-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestration-instrument-history",
+      "to": "orchestra-instrument-stereotypes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestration-instrument-history",
+      "to": "orchestra-halls-seasons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestration-instrument-history",
+      "to": "orchestra-living-composers-canon",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "conductors-career-encores",
+      "to": "daisuke-soga-conductor-career",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "conductors-career-encores",
+      "to": "world-orchestras-repertoire-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "conductors-career-encores",
+      "to": "orchestra-living-composers-canon",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-halls-seasons",
+      "to": "world-orchestras-repertoire-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-halls-seasons",
+      "to": "orchestra-repertoire-data-access",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-halls-seasons",
+      "to": "orchestration-instrument-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-compute-scaling-inference",
+      "to": "japan-physical-ai-skill-transfer",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "japan-physical-ai-skill-transfer",
+      "to": "ai-compute-scaling-inference",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "japan-physical-ai-skill-transfer",
+      "to": "ai-economic-transition",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-transition-policy-gap",
+      "to": "ai-economic-transition",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-transition-policy-gap",
+      "to": "ai-capital-labor-distribution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-transition-policy-gap",
+      "to": "gradual-disempowerment",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1652,6 +2000,62 @@
       "basis": "curated",
       "evidence_section": "그 방송을 보고 자란 다음 세대",
       "reason": "지휘자가 이미 대중매체에 가시화된 환경에서 성장한 다음 세대의 구체적 경력 사례로 소가 다이스케를 연결한다."
+    },
+    {
+      "from": "ai-human-control-guide",
+      "to": "ai-domination-gradient",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "이 주제를 읽는 순서",
+      "reason": "AI 통제력 논의의 읽기 순서에서 미래의 장악과 별도로 지배를 현재의 농도로 보는 철학적 원고를 안내한다."
+    },
+    {
+      "from": "ai-domination-gradient",
+      "to": "gradual-disempowerment",
+      "type": "contrasts",
+      "basis": "curated",
+      "evidence_section": "이미 시작되었다는 주장의 정확한 범위",
+      "reason": "현재의 저농도 의미적·제도적 개입과 인간 참여가 사라지는 미래의 점진적 무력화를 구별하면서 두 문제의 연속성을 설명한다."
+    },
+    {
+      "from": "instrument-consumables-organic-materials",
+      "to": "woodwind-reeds-material-history",
+      "type": "illustrates",
+      "basis": "curated",
+      "evidence_section": "목관 리드: 가장 극단적인 소모품",
+      "reason": "악기의 생물성 소모품 가운데 리드가 최초 진동원과 공급망을 동시에 좌우하는 극단적 사례임을 상세 문서로 연결한다."
+    },
+    {
+      "from": "orchestra-instrument-stereotypes",
+      "to": "woodwind-reeds-material-history",
+      "type": "supports",
+      "basis": "curated",
+      "evidence_section": "오보에: 예민한 완벽주의자라는 이미지",
+      "reason": "오보이스트의 예민함이라는 직업적 이미지가 리드 제작·선별·습도 관리라는 실제 연주 노동과 연결되는 배경을 보충한다."
+    },
+    {
+      "from": "hank-asher-data-fusion-ai",
+      "to": "ai-democracy-narrow-corridor",
+      "type": "illustrates",
+      "basis": "curated",
+      "evidence_section": "인간 검토는 필요한 조건이지 충분조건은 아니다",
+      "reason": "데이터 융합과 조직 권한에 AI가 결합될 때 동일한 모델도 데이터·강제력 보유 주체에게 더 큰 통제력을 줄 수 있다는 구조를 역사적·기술적 사례로 구체화한다."
+    },
+    {
+      "from": "korea-personal-data-lifecycle",
+      "to": "hank-asher-data-fusion-ai",
+      "type": "contrasts",
+      "basis": "curated",
+      "evidence_section": "행크 애셔의 세계와 한국의 차이",
+      "reason": "한 사업가와 강력한 검색 데이터베이스 중심의 미국 사례와, 본인확인·광고·위탁·결합·유출이 분산된 한국의 데이터 생태계를 대비한다."
+    },
+    {
+      "from": "ai-compute-scaling-inference",
+      "to": "japan-physical-ai-skill-transfer",
+      "type": "illustrates",
+      "basis": "curated",
+      "evidence_section": "피지컬 AI: 현실세계가 다음 스케일링 대상이 될 때",
+      "reason": "대규모 추론·시뮬레이션 계산이 로봇의 모방학습과 실제 작업 데이터 학습으로 확장되는 구체적 분야를 일본 피지컬 AI 사례가 보여 준다."
     }
   ]
 }

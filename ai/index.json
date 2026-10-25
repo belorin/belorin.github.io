@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 54,
+  "document_count": 85,
   "documents": [
     {
       "id": "living-notes",
@@ -805,16 +805,17 @@
         "민주주의",
         "길잡이"
       ],
-      "summary": "네트워크 장악에서 점진적 무력화, 측정, 대화형 설득, 대화 데이터 접근권으로 이어지는 질문의 이동과 관통 논점을 안내한다.",
+      "summary": "네트워크 장악에서 점진적 무력화, 지배의 농도, 측정, 대화형 설득, 대화 데이터 접근권으로 이어지는 질문의 이동과 관통 논점을 안내한다.",
       "published": true,
       "review_state": "needs_review",
       "review_label": "길잡이·해석 포함",
-      "last_updated_on": "2026-10-23",
-      "last_enriched_on": "2026-10-23",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "ai-takeover-human-recourse",
         "ai-goals-hostage-and-bait",
+        "ai-domination-gradient",
         "gradual-disempowerment",
         "disempowerment-measurement",
         "llm-disempowerment-patterns",
@@ -916,7 +917,8 @@
         "llm-disempowerment-patterns",
         "ai-goals-hostage-and-bait",
         "ai-economic-transition",
-        "ai-capital-labor-distribution"
+        "ai-capital-labor-distribution",
+        "ai-transition-policy-gap"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gradual-disempowerment.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/gradual-disempowerment.md",
@@ -1361,12 +1363,14 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "대화 내 주장·공연 일정 및 학계 수용 재검증 필요",
-      "last_updated_on": "2026-10-23",
-      "last_enriched_on": "2026-10-23",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "silent-film",
-        "jazz-history-plural"
+        "jazz-history-plural",
+        "orchestra-living-composers-canon",
+        "orchestra-repertoire-data-access"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/classical-canon-mauceri.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/classical-canon-mauceri.md",
@@ -1399,7 +1403,8 @@
         "ai-class-fiction",
         "gradual-disempowerment",
         "ai-human-control-guide",
-        "open-questions"
+        "open-questions",
+        "ai-transition-policy-gap"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-economic-transition.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-economic-transition.md",
@@ -1432,7 +1437,8 @@
         "ai-class-fiction",
         "gradual-disempowerment",
         "disempowerment-measurement",
-        "ai-human-control-guide"
+        "ai-human-control-guide",
+        "ai-transition-policy-gap"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-capital-labor-distribution.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-capital-labor-distribution.md",
@@ -1754,6 +1760,1022 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japanese-classical-tv-conductor-image.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/japanese-classical-tv-conductor-image.md",
       "page_url": "https://belorin.github.io/#japanese-classical-tv-conductor-image"
+    },
+    {
+      "id": "ai-domination-gradient",
+      "title": "AI 지배는 이미 시작되었는가: 사건이 아니라 농도로 보는 통제",
+      "aliases": [
+        "AI 지배의 농도",
+        "매끄러운 지배",
+        "AI 인지 인프라",
+        "AI 지배는 이미 시작되었다"
+      ],
+      "category": "AI와 사회",
+      "tags": [
+        "AI 지배",
+        "인지 인프라",
+        "맥락적 경사",
+        "주변화",
+        "p(doom)",
+        "카산드라"
+      ],
+      "summary": "AI 지배를 미래의 쿠데타가 아니라 현재부터 짙어질 수 있는 농도로 보고, 매개·의존·지배를 구분하며 맥락적 경사, 여덟 층, 사고 출처, p(doom), 카산드라식 조기 탐지를 검토한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "철학적 논증·대화 내 자료 기반·외부 재검증 필요",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "ai-human-control-guide",
+        "gradual-disempowerment",
+        "disempowerment-measurement",
+        "llm-disempowerment-patterns",
+        "conversational-ai-persuasion"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-domination-gradient.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-domination-gradient.md",
+      "page_url": "https://belorin.github.io/#ai-domination-gradient"
+    },
+    {
+      "id": "hope-global-box-office",
+      "title": "《호프》 해외 흥행과 선판매: 박스오피스와 투자 회수를 분리해서 읽기",
+      "aliases": [
+        "호프 해외 흥행",
+        "호프 선판매",
+        "Hope box office",
+        "한국영화 해외 박스오피스"
+      ],
+      "category": "영화",
+      "tags": [
+        "호프",
+        "나홍진",
+        "한국영화",
+        "해외흥행",
+        "선판매",
+        "박스오피스"
+      ],
+      "summary": "2026년 10월 4일까지 확인된 《호프》의 한국·북미·영국 등 흥행 경로를 추적하고, 해외 선판매 MG와 현지 박스오피스가 제작비 회수에 어떻게 다르게 작동하는지 다른 한국영화와 비교해 설명한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "2026-10-04 수치 스냅샷·선판매 계약 세부 미공개·후속 시장 재검증 필요",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hope-global-box-office.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/hope-global-box-office.md",
+      "page_url": "https://belorin.github.io/#hope-global-box-office"
+    },
+    {
+      "id": "stalking-harm-and-autonomy",
+      "title": "스토킹 피해를 손상이 아니라 침해로 보기: 관계거부·생활형성·강제된 중요성",
+      "aliases": [
+        "스토킹 피해",
+        "강제된 중요성",
+        "관계거부의 자유",
+        "생활형성의 자유"
+      ],
+      "category": "사회와 제도",
+      "tags": [
+        "스토킹",
+        "피해",
+        "생활형성의 자유",
+        "관계거부",
+        "강제된 중요성",
+        "통신매체이용음란"
+      ],
+      "summary": "스토킹 피해를 공포·수치 같은 손상만으로 보지 않고 관계거부, 생활형성의 자유, 강제된 중요성, 성적 의미의 강제적 귀속이라는 침해 구조로 재구성한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "법·철학적 분석 개념 · 대화 내 판례·연구 요약 기반 · 외부 재검증 필요",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "excellent-victim-kwak-aram"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/stalking-harm-and-autonomy.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/stalking-harm-and-autonomy.md",
+      "page_url": "https://belorin.github.io/#stalking-harm-and-autonomy"
+    },
+    {
+      "id": "excellent-victim-kwak-aram",
+      "title": "『탁월한 피해자』와 곽아람: 비면식 스토킹 기록이 묻는 피해자의 자리",
+      "aliases": [
+        "탁월한 피해자",
+        "곽아람",
+        "비면식 스토킹 기록"
+      ],
+      "category": "사회와 제도",
+      "tags": [
+        "탁월한 피해자",
+        "곽아람",
+        "비면식 스토킹",
+        "형사사법",
+        "피해자성",
+        "피해자 보호"
+      ],
+      "summary": "『탁월한 피해자』의 비면식 스토킹 기록과 형사사법 비판, 피해 감정의 규격화 문제, 2026년 공개 활동과 당시 사건 진행 상태를 함께 정리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "2026년 공개보도·인터뷰 요약 기반 · 사건 진행 및 직함 재검증 필요",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "stalking-harm-and-autonomy"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/excellent-victim-kwak-aram.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/excellent-victim-kwak-aram.md",
+      "page_url": "https://belorin.github.io/#excellent-victim-kwak-aram"
+    },
+    {
+      "id": "chiikawa-philosophy",
+      "title": "치이카와를 철학적으로 읽기: 욕망·노동·고귀한 거짓말과 일본의 비평 흐름",
+      "aliases": [
+        "치이카와 철학",
+        "ちいかわ 철학",
+        "치이카와 비평",
+        "고귀한 거짓말로서의 치이카와"
+      ],
+      "category": "철학",
+      "tags": [
+        "치이카와",
+        "ちいかわ",
+        "플라톤",
+        "고귀한 거짓말",
+        "욕망",
+        "노동",
+        "캐릭터론",
+        "알튀세르"
+      ],
+      "summary": "플라톤의 욕망론과 고귀한 거짓말로 치이카와 세계의 노동·규칙·행복을 읽고, 알튀세르·캐릭터론·만화표현론·노동비평·졸업논문까지 일본의 분석 흐름을 정리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 중 확인된 일본 철학·비평 자료 총합 · 최종 논문 전문 미대조 · 외부 재검증 필요",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/chiikawa-philosophy.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/chiikawa-philosophy.md",
+      "page_url": "https://belorin.github.io/#chiikawa-philosophy"
+    },
+    {
+      "id": "sumer-bible-primeval-history",
+      "title": "수메르 재발견과 구약 원초사의 역사화: 홍수·에덴·바벨탑은 어떻게 재배치되었나",
+      "aliases": [
+        "수메르와 구약",
+        "창세기 원초사",
+        "메소포타미아와 성경",
+        "노아의 홍수와 수메르",
+        "에덴과 딜문"
+      ],
+      "category": "문화와 역사",
+      "tags": [
+        "수메르",
+        "창세기",
+        "대홍수",
+        "에덴",
+        "바벨탑",
+        "길가메시",
+        "고대근동"
+      ],
+      "summary": "수메르·아카드·바빌로니아 문헌의 재발견이 창세기 1~11장을 문자 그대로의 역사로 확정한 것이 아니라, 홍수·에덴·바벨탑을 고대 서아시아 원초사 전통과 실제 역사적 배경 속에 재배치한 과정을 설명한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 중 확인된 고대근동·성서학 자료 요약 기반 · 세부 연대와 학계 견해 외부 재검증 필요",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/sumer-bible-primeval-history.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/sumer-bible-primeval-history.md",
+      "page_url": "https://belorin.github.io/#sumer-bible-primeval-history"
+    },
+    {
+      "id": "europe-russia-escalation-signals-2026",
+      "title": "2026년 9월 유럽의 ‘3차대전’ 루머를 읽는 법: 영공·드론·하이브리드전과 실제 확전 신호",
+      "aliases": [
+        "유럽 3차대전 루머",
+        "NATO 확전 신호",
+        "러시아-NATO 회색지대"
+      ],
+      "category": "사회와 제도",
+      "tags": [
+        "유럽 안보",
+        "NATO",
+        "러시아",
+        "하이브리드전",
+        "Article 4",
+        "Article 5",
+        "에스토니아"
+      ],
+      "summary": "리투아니아 드론 격추·발트해 군사접촉·폴란드 경계·룩셈부르크 드론·FSB 국경 루머를 분해하고, NATO Article 4/5와 DEFCON을 구별해 실제 확전 신호를 판별한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "2026년 9월 보도 스냅샷·귀속 및 후속 조사 재검증 필요",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "war-escalation-local-to-world",
+        "drone-asymmetric-warfare"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/europe-russia-escalation-signals-2026.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/europe-russia-escalation-signals-2026.md",
+      "page_url": "https://belorin.github.io/#europe-russia-escalation-signals-2026"
+    },
+    {
+      "id": "war-escalation-local-to-world",
+      "title": "국지전은 어떻게 세계전쟁이 되는가: 1754·1618·1914·1939·1950과 2026년 다중 전선",
+      "aliases": [
+        "국지전에서 세계대전",
+        "전쟁의 연결",
+        "1914 확전 모형"
+      ],
+      "category": "문화와 역사",
+      "tags": [
+        "세계대전",
+        "확전",
+        "1914년",
+        "한국전쟁",
+        "대만",
+        "한반도",
+        "동맹"
+      ],
+      "summary": "세계대전의 핵심을 국지전의 수가 아니라 전쟁들의 전략적 연결에서 찾고, 1754·1618·1914·1939·1950의 확전과 억제 사례를 러시아-유럽·대만·한반도의 동시 위기와 비교한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "역사 사례와 2026년 정세 비교·대화 내 자료 기반·세부 재검증 필요",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "europe-russia-escalation-signals-2026",
+        "drone-asymmetric-warfare"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/war-escalation-local-to-world.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/war-escalation-local-to-world.md",
+      "page_url": "https://belorin.github.io/#war-escalation-local-to-world"
+    },
+    {
+      "id": "drone-asymmetric-warfare",
+      "title": "드론이 바꾼 비대칭전: 비용교환·후방 소멸·한반도와 아프리카·중앙아시아 사례",
+      "aliases": [
+        "드론 비대칭전",
+        "드론 소모전",
+        "무인기 비대칭전"
+      ],
+      "category": "사회와 제도",
+      "tags": [
+        "드론",
+        "비대칭전",
+        "한반도",
+        "에티오피아",
+        "리비아",
+        "사헬",
+        "수단"
+      ],
+      "summary": "드론이 만드는 가격·생산시간·목표가치·귀속의 비대칭을 설명하고, 한반도와 에티오피아·리비아·키르기스스탄-타지키스탄·사헬·수단 사례에서 전황 변화와 한계를 비교한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "전쟁 사례·피해수치·인과관계 외부 재검증 필요",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "war-escalation-local-to-world",
+        "europe-russia-escalation-signals-2026"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/drone-asymmetric-warfare.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/drone-asymmetric-warfare.md",
+      "page_url": "https://belorin.github.io/#drone-asymmetric-warfare"
+    },
+    {
+      "id": "anne-carson-nobel-first-reactions",
+      "title": "앤 카슨의 2026년 노벨문학상 수상 반응: ‘미쳤다’와 독자가 작품을 만나는 경로",
+      "aliases": [
+        "앤 카슨 노벨상 인터뷰",
+        "Anne Carson Nobel reaction",
+        "앤 카슨 미쳤다",
+        "Anne Carson crazy",
+        "문학 작품의 발견"
+      ],
+      "category": "문학",
+      "tags": [
+        "앤 카슨",
+        "Anne Carson",
+        "노벨문학상",
+        "2026 노벨문학상",
+        "인터뷰",
+        "문학의 수용",
+        "출판"
+      ],
+      "summary": "앤 카슨의 노벨문학상 수상 직후 'crazy' 반응과 독자들이 작품을 접하고 읽게 되는 경로에 관한 발언을 인터뷰별로 구분하고, 원문·의역·편집상 독해의 경계를 정리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "2026년 수상 직후 보도 재인용 · RÚV 영상·영어 축어록 원문 재대조 필요",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/anne-carson-nobel-first-reactions.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/anne-carson-nobel-first-reactions.md",
+      "page_url": "https://belorin.github.io/#anne-carson-nobel-first-reactions"
+    },
+    {
+      "id": "hate-escalation-brakes-history",
+      "title": "혐오의 가속은 파국 없이 멈출 수 있는가: 집단공황과 정치적 선동의 역사적 브레이크",
+      "aliases": [
+        "혐오 가속의 브레이크",
+        "집단공황의 중단",
+        "파국 전 혐오정치 중단",
+        "혐오사회 되돌리기"
+      ],
+      "category": "문화와 역사",
+      "tags": [
+        "혐오",
+        "집단공황",
+        "마녀사냥",
+        "적색공포",
+        "매카시즘",
+        "Popish Plot",
+        "드레퓌스 사건",
+        "정치적 선동",
+        "사회적 가속"
+      ],
+      "summary": "전후의 반성이나 체제 붕괴가 아니라, 집단공황과 혐오 정치가 가속 중에 멈춘 청나라 영혼 도둑 공황·바스크 마녀사냥·적색공포·매카시즘·Popish Plot·드레퓌스기의 메커니즘을 비교한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 내 역사 사례 요약 · 사건별 세부 사실과 수치 외부 재검증 필요",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hate-escalation-brakes-history.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/hate-escalation-brakes-history.md",
+      "page_url": "https://belorin.github.io/#hate-escalation-brakes-history"
+    },
+    {
+      "id": "gwangju-building-art-network",
+      "title": "광주의 보이지 않는 길거리 미술관: 아파트·사옥 조형물과 작가·건설 네트워크",
+      "aliases": [
+        "광주 공공미술",
+        "광주 건축물 미술",
+        "광주 아파트 조각",
+        "광주 길거리 미술관",
+        "광주 조각 네트워크"
+      ],
+      "category": "문화와 역사",
+      "tags": [
+        "광주",
+        "건축물 미술작품",
+        "공공미술",
+        "아파트 조각",
+        "도시 미술",
+        "건설사",
+        "시행사",
+        "조각가",
+        "미술품 대행",
+        "심의위원회"
+      ],
+      "summary": "광주의 아파트·사옥·오피스텔 앞 건축물 미술을 시대별 미감과 생활환경으로 읽고, 최규철·정춘표·조의현·전용환 등의 작가 계보와 시행사·시공사·대행업체·제작소·심의 구조를 분리해 추적한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 중 확인된 작품·작가·제도 자료 총합 · 발주 관계와 세부 사실 재검증 필요",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gwangju-building-art-network.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/gwangju-building-art-network.md",
+      "page_url": "https://belorin.github.io/#gwangju-building-art-network"
+    },
+    {
+      "id": "dousureba-yokatta-family-psychiatry",
+      "title": "《어떻게 해야 했을까》와 일본 가족의 치료 결정: 1983년부터 2008년까지",
+      "aliases": [
+        "어떻게 해야 했을까",
+        "どうすればよかったか？",
+        "후지노 도모아키 가족",
+        "일본 조현병 가족",
+        "일본 가족 개입과 정신의료"
+      ],
+      "category": "사회와 제도",
+      "tags": [
+        "어떻게 해야 했을까",
+        "どうすればよかったか",
+        "조현병",
+        "일본 정신의료",
+        "가족",
+        "한일 비교",
+        "후지노 도모아키"
+      ],
+      "summary": "《どうすればよかったか？》의 가족사를 따라 의사 부모의 치료 거부, 1983~2008년 치료 선택지의 변화, 남동생의 법적·문화적 개입 한계와 한일 가족책임 차이를 함께 분석한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "영화 반응·가족사·일본 정신의료 제도·한일 가족문화 비교의 대화 내 확인 자료 총합 · 세부 사실 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/dousureba-yokatta-family-psychiatry.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/dousureba-yokatta-family-psychiatry.md",
+      "page_url": "https://belorin.github.io/#dousureba-yokatta-family-psychiatry"
+    },
+    {
+      "id": "utsunomiya-psychiatric-hospital-reform",
+      "title": "우쓰노미야 병원 사건과 일본 정신의료의 40년: 폐쇄병동·감독 실패·개혁의 반복",
+      "aliases": [
+        "우쓰노미야 병원 사건",
+        "宇都宮病院事件",
+        "일본 정신병원 인권",
+        "일본 정신의료 개혁"
+      ],
+      "category": "사회와 제도",
+      "tags": [
+        "우쓰노미야 병원",
+        "일본 정신의료",
+        "정신병원",
+        "인권",
+        "장기입원",
+        "정신보건법",
+        "간데병원",
+        "다키야마병원"
+      ],
+      "summary": "1984년 우쓰노미야 병원 사건의 폭행·인력부족·환자 노동·사회적 입원에서 1987년 법 개정, 대화천·아사쿠라·간데·다키야마 사건과 2024년 학대 신고제까지 이어지는 구조를 추적한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "우쓰노미야 사건·국회 및 국제조사·후속 정신병원 사건의 대화 내 확인 자료 총합 · 사건별 세부 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/utsunomiya-psychiatric-hospital-reform.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/utsunomiya-psychiatric-hospital-reform.md",
+      "page_url": "https://belorin.github.io/#utsunomiya-psychiatric-hospital-reform"
+    },
+    {
+      "id": "woodwind-reeds-material-history",
+      "title": "풀 한 조각이 오케스트라의 소리가 되기까지: 목관 리드의 재료·산업·전쟁",
+      "aliases": [
+        "목관 리드",
+        "아룬도 도낙스",
+        "리드 공급망",
+        "오보에 리드"
+      ],
+      "category": "음악",
+      "tags": [
+        "목관악기",
+        "리드",
+        "Arundo donax",
+        "오보에",
+        "클라리넷",
+        "바순",
+        "공급망"
+      ],
+      "summary": "클라리넷·오보에·바순의 리드가 어떻게 소리를 만들고, Arundo donax가 세계 표준이 된 과정과 대체 식물·한국·전쟁기 공급난·연주자 비용을 함께 살핀다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 내 확인·시장 수치와 일부 역사 일화 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "instrument-consumables-organic-materials",
+        "orchestra-instrument-stereotypes"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/woodwind-reeds-material-history.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/woodwind-reeds-material-history.md",
+      "page_url": "https://belorin.github.io/#woodwind-reeds-material-history"
+    },
+    {
+      "id": "instrument-consumables-organic-materials",
+      "title": "전통 악기를 움직이는 생물성 소모품: 풀·말털·장·가죽·깃털",
+      "aliases": [
+        "악기 소모품",
+        "생물성 악기 재료",
+        "활털과 거트 현"
+      ],
+      "category": "음악",
+      "tags": [
+        "악기",
+        "소모품",
+        "활털",
+        "거트 현",
+        "송진",
+        "하프시코드",
+        "타악기"
+      ],
+      "summary": "목관 리드, 활털과 송진, 거트 현, 하프시코드 깃털, 자연피 타악기와 펠트를 통해 전통 악기의 숨은 생물성 공급망을 살핀다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 내 확인·재료별 역사 세부 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "woodwind-reeds-material-history"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/instrument-consumables-organic-materials.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/instrument-consumables-organic-materials.md",
+      "page_url": "https://belorin.github.io/#instrument-consumables-organic-materials"
+    },
+    {
+      "id": "orchestra-instrument-stereotypes",
+      "title": "오케스트라의 악기별 성격 스테레오타입과 농담",
+      "aliases": [
+        "오케스트라 농담",
+        "악기별 성격",
+        "연주자 스테레오타입"
+      ],
+      "category": "음악",
+      "tags": [
+        "오케스트라",
+        "스테레오타입",
+        "음악가",
+        "오보에",
+        "비올라",
+        "호른",
+        "농담"
+      ],
+      "summary": "오보이스트의 예민함, 비올라 농담, 트럼펫의 자신감, 호른의 불안처럼 악기의 업무 조건이 어떻게 파트별 인간형과 내부 농담으로 번역되는지 정리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "스테레오타입 연구·농담 전승 세부 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "woodwind-reeds-material-history"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-instrument-stereotypes.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/orchestra-instrument-stereotypes.md",
+      "page_url": "https://belorin.github.io/#orchestra-instrument-stereotypes"
+    },
+    {
+      "id": "hank-asher-data-fusion-ai",
+      "title": "행크 애셔에서 팔란티어까지: 데이터 융합이 AI의 판단 인프라가 되기까지",
+      "aliases": [
+        "행크 쇼와 AI",
+        "Hank Asher",
+        "행크 애셔",
+        "팔란티어와 데이터 융합"
+      ],
+      "category": "AI와 사회",
+      "tags": [
+        "행크 애셔",
+        "The Hank Show",
+        "데이터 융합",
+        "팔란티어",
+        "감시",
+        "예측치안",
+        "AI 에이전트"
+      ],
+      "summary": "행크 애셔의 DBT·Seisint·MATRIX에서 팔란티어와 에이전트형 AI까지, 검색·결합이 추정·서사화·행동 제안으로 확장되는 데이터 권력의 계보를 살핀다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 내 확인·기업사와 최근 기술 세부 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "ai-democracy-narrow-corridor",
+        "ai-conversation-data-access",
+        "korea-personal-data-lifecycle"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hank-asher-data-fusion-ai.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/hank-asher-data-fusion-ai.md",
+      "page_url": "https://belorin.github.io/#hank-asher-data-fusion-ai"
+    },
+    {
+      "id": "korea-personal-data-lifecycle",
+      "title": "한국 개인정보의 생애: 수집·결합·유출·재사용의 경로",
+      "aliases": [
+        "한국 개인정보 유통",
+        "개인정보의 생애",
+        "개인정보 유출 이후",
+        "한국 데이터 브로커"
+      ],
+      "category": "AI와 사회",
+      "tags": [
+        "개인정보",
+        "한국",
+        "데이터 유출",
+        "CI",
+        "본인확인",
+        "크리덴셜 스터핑",
+        "스미싱",
+        "데이터 결합"
+      ],
+      "summary": "체크박스와 본인확인부터 광고·가명결합·마이데이터, 유출 뒤의 계정탈취·피싱·영업 DB까지 한국 개인정보가 복제·결합·재사용되는 경로를 추적한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 내 확인·법제와 최근 사례 세부 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "hank-asher-data-fusion-ai",
+        "ai-democracy-narrow-corridor",
+        "ai-conversation-data-access"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-personal-data-lifecycle.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/korea-personal-data-lifecycle.md",
+      "page_url": "https://belorin.github.io/#korea-personal-data-lifecycle"
+    },
+    {
+      "id": "endgame-natasha-tony-funeral",
+      "title": "《어벤져스: 엔드게임》의 두 죽음: 나타샤의 희생과 토니 스타크의 장례식",
+      "aliases": [
+        "어벤져스 엔드게임 나타샤",
+        "블랙 위도우 장례식",
+        "나타샤 보르미르",
+        "토니 스타크 장례식",
+        "엔드게임 두 죽음"
+      ],
+      "category": "영화",
+      "tags": [
+        "어벤져스: 엔드게임",
+        "블랙 위도우",
+        "나타샤 로마노프",
+        "토니 스타크",
+        "호크아이",
+        "보르미르",
+        "장례식",
+        "MCU"
+      ],
+      "summary": "보르미르에서 나타샤가 죽게 된 각본·재촬영 과정과 가족·자기결정의 서사 논리, 토니에게만 거대한 장례식이 집중된 이유와 2019~2021년 제작진의 서로 다른 해명을 함께 분석한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "제작진 인터뷰·영화 장면의 대화 내 확인 자료 총합 · 세부 인용과 제작 경위 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/endgame-natasha-tony-funeral.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/endgame-natasha-tony-funeral.md",
+      "page_url": "https://belorin.github.io/#endgame-natasha-tony-funeral"
+    },
+    {
+      "id": "korea-dance-musical-tours",
+      "title": "한국에서 기다릴 대형 뮤지컬: 내한 전망과 춤·아크로바틱 취향의 선택법",
+      "aliases": [
+        "한국 뮤지컬 내한",
+        "춤 많은 뮤지컬",
+        "아크로바틱 뮤지컬",
+        "뮤지컬 내한 전망",
+        "라이온 킹 같은 뮤지컬"
+      ],
+      "category": "음악",
+      "tags": [
+        "뮤지컬",
+        "내한",
+        "춤",
+        "아크로바틱",
+        "캣츠",
+        "MJ",
+        "물랑루즈",
+        "라이온 킹",
+        "노트르담 드 파리"
+      ],
+      "summary": "2026년 9월 확인 기준으로 한국 대형 뮤지컬의 확정 일정과 장기 내한 신호를 분리하고, 라이온 킹·노트르담 드 파리 같은 신체적 무대 언어를 좋아하는 관객에게 캣츠·MJ·물랑루즈·Some Like It Hot 등을 춤의 성격별로 비교한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "2026년 9월 대화 내 확인 일정·장기 전망 총합 · 이후 일정과 미확정 한국행 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-dance-musical-tours.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/korea-dance-musical-tours.md",
+      "page_url": "https://belorin.github.io/#korea-dance-musical-tours"
+    },
+    {
+      "id": "orchestra-repertoire-data-access",
+      "title": "오케스트라를 세는 법: 세계 레퍼토리 데이터와 지역의 클래식 접근성",
+      "aliases": [
+        "세계 오케스트라 통계",
+        "Classical Access Index"
+      ],
+      "category": "음악",
+      "tags": [
+        "오케스트라 통계",
+        "레퍼토리 데이터",
+        "Bachtrack",
+        "KOPIS",
+        "접근성 지수"
+      ],
+      "summary": "Bachtrack·Operabase·뉴욕 필 공연 DB의 범위, 나라별 오케스트라 수의 함정, 공연장과 30~120분 생활권 접근성 지수 및 2014~2025년 등록 콘서트 추이를 비교한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "orchestra-living-composers-canon",
+        "world-orchestras-repertoire-2026",
+        "orchestra-halls-seasons"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-repertoire-data-access.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/orchestra-repertoire-data-access.md",
+      "page_url": "https://belorin.github.io/#orchestra-repertoire-data-access"
+    },
+    {
+      "id": "orchestra-living-composers-canon",
+      "title": "클래식은 화석인가: 생존 작곡가의 연주와 정전이 자라는 속도",
+      "aliases": [
+        "살아 있는 작곡가",
+        "현대 클래식 정전"
+      ],
+      "category": "음악",
+      "tags": [
+        "생존 작곡가",
+        "현대 클래식",
+        "정전",
+        "초연",
+        "재연"
+      ],
+      "summary": "Bachtrack 2022~2025년 생존 작곡가·여성 작곡가 통계, 패르트·윌리엄스와 신작 재연의 차이, 음악기관의 현재성을 분석한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "classical-canon-mauceri",
+        "orchestra-repertoire-data-access",
+        "world-orchestras-repertoire-2026"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-living-composers-canon.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/orchestra-living-composers-canon.md",
+      "page_url": "https://belorin.github.io/#orchestra-living-composers-canon"
+    },
+    {
+      "id": "world-orchestras-repertoire-2026",
+      "title": "세계 5대 오케스트라의 2026년 프로그램: 전통, 실험, 계승, 세대교체",
+      "aliases": [
+        "세계 5대 교향악단",
+        "세계 명문 악단 2026"
+      ],
+      "category": "음악",
+      "tags": [
+        "2026 오케스트라",
+        "빈 필",
+        "베를린 필",
+        "LSO",
+        "시카고 심포니",
+        "콘세르트헤바우"
+      ],
+      "summary": "빈·베를린·콘세르트헤바우·런던 심포니·시카고의 주요 작품·지휘자·시즌 전략을 대조하고 레퍼토리 기반 캐릭터 비평을 분리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "orchestra-living-composers-canon",
+        "korean-orchestras-repertoire-2026",
+        "conductors-career-encores",
+        "orchestra-halls-seasons"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-orchestras-repertoire-2026.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/world-orchestras-repertoire-2026.md",
+      "page_url": "https://belorin.github.io/#world-orchestras-repertoire-2026"
+    },
+    {
+      "id": "korean-orchestras-repertoire-2026",
+      "title": "한국 교향악단의 2026년 레퍼토리: 도시 이미지가 아니라 실제 선곡으로 구별하기",
+      "aliases": [
+        "한국 오케스트라 캐릭터",
+        "한국 교향악단 선곡"
+      ],
+      "category": "음악",
+      "tags": [
+        "한국 교향악단",
+        "2026 시즌",
+        "서울시향",
+        "인천시향",
+        "부천필",
+        "큐레이션"
+      ],
+      "summary": "서울·KBS·국립·부산·인천·부천·대구·광주·대전·수원·경기필의 확인된 2026년 프로그램과 인상비평의 한계를 구별한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "world-orchestras-repertoire-2026",
+        "orchestra-repertoire-data-access",
+        "orchestra-living-composers-canon"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korean-orchestras-repertoire-2026.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/korean-orchestras-repertoire-2026.md",
+      "page_url": "https://belorin.github.io/#korean-orchestras-repertoire-2026"
+    },
+    {
+      "id": "orchestration-instrument-history",
+      "title": "오케스트라라는 악기의 내부: 편성 비용, 협주곡, 새 음색의 역사",
+      "aliases": [
+        "오케스트레이션 역사",
+        "새 어쿠스틱 악기"
+      ],
+      "category": "음악",
+      "tags": [
+        "관현악법",
+        "말러",
+        "라흐마니노프",
+        "협주곡",
+        "첼레스타",
+        "악기 혁신"
+      ],
+      "summary": "말러 대편성의 고용·리허설 비용, 라흐마니노프의 타악·하프, 바로크 협주곡, 음악 공간의 역사, 첼레스타와 새로운 어쿠스틱 악기 계보를 총합한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "woodwind-reeds-material-history",
+        "orchestra-instrument-stereotypes",
+        "orchestra-halls-seasons",
+        "orchestra-living-composers-canon"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestration-instrument-history.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/orchestration-instrument-history.md",
+      "page_url": "https://belorin.github.io/#orchestration-instrument-history"
+    },
+    {
+      "id": "conductors-career-encores",
+      "title": "지휘자 스타 시스템의 미래: 클라우스 메켈레, 젊은 지휘자 붐, 앵콜의 마지막 한마디",
+      "aliases": [
+        "Klaus Mäkelä",
+        "메켈레 현상",
+        "지휘자 앵콜"
+      ],
+      "category": "음악",
+      "tags": [
+        "지휘자",
+        "클라우스 메켈레",
+        "젊은 지휘자",
+        "앵콜",
+        "스타 시스템"
+      ],
+      "summary": "메켈레의 암스테르담·시카고 동시 취임과 젊은 지휘자 세대교체, 벤치·칸텔리·쉬퍼스 등의 역사적 사례, 앵콜 선곡을 구분한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "daisuke-soga-conductor-career",
+        "world-orchestras-repertoire-2026",
+        "orchestra-living-composers-canon"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/conductors-career-encores.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/conductors-career-encores.md",
+      "page_url": "https://belorin.github.io/#conductors-career-encores"
+    },
+    {
+      "id": "orchestra-halls-seasons",
+      "title": "오케스트라는 어디에 사는가: 이름, 시즌, 콘서트홀과 신년음악회",
+      "aliases": [
+        "2027 빈 필 신년음악회",
+        "세계 콘서트홀"
+      ],
+      "category": "음악",
+      "tags": [
+        "콘서트홀",
+        "무지크페라인",
+        "오케스트라 시즌",
+        "필하모닉",
+        "신년음악회",
+        "빈 필"
+      ],
+      "summary": "Symphony·Philharmonic 명칭의 역사, 가을 개막 시즌과 한국의 달력연도 시즌, 다섯 명문 악단의 본거지 홀·좌석 수, 빈 필 신년음악회 중계와 추첨을 다룬다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "world-orchestras-repertoire-2026",
+        "orchestra-repertoire-data-access",
+        "orchestration-instrument-history"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-halls-seasons.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/orchestra-halls-seasons.md",
+      "page_url": "https://belorin.github.io/#orchestra-halls-seasons"
+    },
+    {
+      "id": "ai-compute-scaling-inference",
+      "title": "AI는 계산이 많아지면 무엇이 달라지는가: 데이터센터와 추론 스케일링",
+      "aliases": [
+        "AI 데이터센터와 추론",
+        "test-time scaling",
+        "추론 컴퓨트",
+        "AI 계산 스케일링"
+      ],
+      "category": "AI와 사회",
+      "tags": [
+        "AI 데이터센터",
+        "추론 스케일링",
+        "test-time compute",
+        "AI 인프라",
+        "병렬 탐색",
+        "verifier"
+      ],
+      "summary": "AI 데이터센터 증설을 단순한 더 큰 사전학습이 아니라 test-time compute, 병렬 탐색·검증, 과학·코딩·피지컬 AI 계산의 확대로 읽고 계산량의 한계를 함께 정리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 내 확인 자료 총합 · 데이터센터 규모·기업 계획·추론 연구 세부 외부 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "japan-physical-ai-skill-transfer"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-compute-scaling-inference.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-compute-scaling-inference.md",
+      "page_url": "https://belorin.github.io/#ai-compute-scaling-inference"
+    },
+    {
+      "id": "japan-physical-ai-skill-transfer",
+      "title": "사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승",
+      "aliases": [
+        "일본 피지컬 AI",
+        "손지능",
+        "숙련 전승 로봇",
+        "Physical AI Japan"
+      ],
+      "category": "AI와 사회",
+      "tags": [
+        "피지컬 AI",
+        "로봇",
+        "일본",
+        "숙련 전승",
+        "손지능",
+        "모방학습",
+        "촉각 센서"
+      ],
+      "summary": "가와사키 Successor와 Honda 다지 핸드부터 Toyota·Yaskawa·FANUC·AIST까지, 일본이 숙련자의 손동작·힘 조절을 로봇 학습 데이터로 옮기려는 흐름을 정리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 내 확인 자료 총합 · 기업 발표·정부 목표·국가 비교 해석 외부 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "ai-compute-scaling-inference",
+        "ai-economic-transition"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japan-physical-ai-skill-transfer.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/japan-physical-ai-skill-transfer.md",
+      "page_url": "https://belorin.github.io/#japan-physical-ai-skill-transfer"
+    },
+    {
+      "id": "ai-transition-policy-gap",
+      "title": "AI 이행기의 정책 공백: 재교육이 해결하지 못하는 구조적 노동 대체",
+      "aliases": [
+        "AI 재교육의 한계",
+        "AI 이행기 정책 실패",
+        "국제기구와 AI 경제"
+      ],
+      "category": "AI와 사회",
+      "tags": [
+        "AI",
+        "경제 이행기",
+        "재교육",
+        "국제기구",
+        "노동 수요",
+        "경제학",
+        "정책 실패"
+      ],
+      "summary": "국제기구가 위험을 인식해도 대응하지 못하는 조건, 재교육의 거시적 한계, 자동화·재정·조세·정치의 시차를 분석한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "조건부 정책 시뮬레이션·외부 미검증",
+      "last_updated_on": "2026-10-24",
+      "last_enriched_on": "2026-10-24",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "ai-economic-transition",
+        "ai-capital-labor-distribution",
+        "gradual-disempowerment"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-transition-policy-gap.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-transition-policy-gap.md",
+      "page_url": "https://belorin.github.io/#ai-transition-policy-gap"
     }
   ]
 }

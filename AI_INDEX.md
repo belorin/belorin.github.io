@@ -88,7 +88,7 @@
 - **[유성영화의 등장과 극장 음악가: 재생 가능한 연주가 노동을 바꾸다](wiki/silent-film-musician-labor.md)** · 별칭: 유성영화와 극장 음악가 · 수정: 2026-10-22 · 검토: 대화 내 주장·세부 검증 필요
   - 무성영화의 현장 반주에서 녹음된 유성영화로의 전환, 실직·노조·공공사업과 재생 수익을 둘러싼 노동 문제를 분석한다.
   - [웹페이지](https://belorin.github.io/#silent-film-musician-labor) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/silent-film-musician-labor.md)
-- **[20세기 클래식의 잃어버린 계보: 존 마우체리와 정전의 재편](wiki/classical-canon-mauceri.md)** · 별칭: 전쟁과 음악, 클래식의 정전화, 영화음악과 클래식 · 수정: 2026-10-23 · 검토: 대화 내 주장·공연 일정 및 학계 수용 재검증 필요
+- **[20세기 클래식의 잃어버린 계보: 존 마우체리와 정전의 재편](wiki/classical-canon-mauceri.md)** · 별칭: 전쟁과 음악, 클래식의 정전화, 영화음악과 클래식 · 수정: 2026-10-25 · 검토: 대화 내 주장·공연 일정 및 학계 수용 재검증 필요
   - 나치의 퇴폐음악 정책과 망명, 영화·게임음악의 정전 진입, 전후 교향악의 반복 연주와 미래 음악사 재편을 구별한다.
   - [웹페이지](https://belorin.github.io/#classical-canon-mauceri) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/classical-canon-mauceri.md)
 - **[소가 다이스케와 지휘자의 직업 세계: 광주 인연에서 국제 중견 경력까지](wiki/daisuke-soga-conductor-career.md)** · 별칭: 소가 다이스케, 曽我大介, Daisuke Soga, 지휘자 시장 · 수정: 2026-10-23 · 검토: 인물 경력·시장 추정치 외부 재검증 필요
@@ -100,11 +100,44 @@
 - **[일본의 클래식 해설 방송과 지휘자 이미지: 《題名のない音楽会》 60년의 계보](wiki/japanese-classical-tv-conductor-image.md)** · 별칭: 題名のない音楽会, 제목 없는 음악회, Untitled Concert, 일본 클래식 TV · 수정: 2026-10-24 · 검토: 방송 연혁·진행자 계보·세대별 이미지 재검증 필요
   - 1964년 시작해 60년을 넘긴 《題名のない音楽会》의 해설·실험 형식, 경쟁작 《オーケストラがやって来た!》, 오자와 세이지부터 《노다메 칸타빌레》까지 세대별 지휘자 이미지를 함께 살핀다.
   - [웹페이지](https://belorin.github.io/#japanese-classical-tv-conductor-image) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japanese-classical-tv-conductor-image.md)
+- **[풀 한 조각이 오케스트라의 소리가 되기까지: 목관 리드의 재료·산업·전쟁](wiki/woodwind-reeds-material-history.md)** · 별칭: 목관 리드, 아룬도 도낙스, 리드 공급망, 오보에 리드 · 수정: 2026-10-25 · 검토: 대화 내 확인·시장 수치와 일부 역사 일화 재검증 필요
+  - 클라리넷·오보에·바순의 리드가 어떻게 소리를 만들고, Arundo donax가 세계 표준이 된 과정과 대체 식물·한국·전쟁기 공급난·연주자 비용을 함께 살핀다.
+  - [웹페이지](https://belorin.github.io/#woodwind-reeds-material-history) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/woodwind-reeds-material-history.md)
+- **[전통 악기를 움직이는 생물성 소모품: 풀·말털·장·가죽·깃털](wiki/instrument-consumables-organic-materials.md)** · 별칭: 악기 소모품, 생물성 악기 재료, 활털과 거트 현 · 수정: 2026-10-25 · 검토: 대화 내 확인·재료별 역사 세부 재검증 필요
+  - 목관 리드, 활털과 송진, 거트 현, 하프시코드 깃털, 자연피 타악기와 펠트를 통해 전통 악기의 숨은 생물성 공급망을 살핀다.
+  - [웹페이지](https://belorin.github.io/#instrument-consumables-organic-materials) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/instrument-consumables-organic-materials.md)
+- **[오케스트라의 악기별 성격 스테레오타입과 농담](wiki/orchestra-instrument-stereotypes.md)** · 별칭: 오케스트라 농담, 악기별 성격, 연주자 스테레오타입 · 수정: 2026-10-25 · 검토: 스테레오타입 연구·농담 전승 세부 재검증 필요
+  - 오보이스트의 예민함, 비올라 농담, 트럼펫의 자신감, 호른의 불안처럼 악기의 업무 조건이 어떻게 파트별 인간형과 내부 농담으로 번역되는지 정리한다.
+  - [웹페이지](https://belorin.github.io/#orchestra-instrument-stereotypes) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-instrument-stereotypes.md)
+- **[한국에서 기다릴 대형 뮤지컬: 내한 전망과 춤·아크로바틱 취향의 선택법](wiki/korea-dance-musical-tours.md)** · 별칭: 한국 뮤지컬 내한, 춤 많은 뮤지컬, 아크로바틱 뮤지컬, 뮤지컬 내한 전망, 라이온 킹 같은 뮤지컬 · 수정: 2026-10-25 · 검토: 2026년 9월 대화 내 확인 일정·장기 전망 총합 · 이후 일정과 미확정 한국행 재검증 필요
+  - 2026년 9월 확인 기준으로 한국 대형 뮤지컬의 확정 일정과 장기 내한 신호를 분리하고, 라이온 킹·노트르담 드 파리 같은 신체적 무대 언어를 좋아하는 관객에게 캣츠·MJ·물랑루즈·Some Like It Hot 등을 춤의 성격별로 비교한다.
+  - [웹페이지](https://belorin.github.io/#korea-dance-musical-tours) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-dance-musical-tours.md)
+- **[오케스트라를 세는 법: 세계 레퍼토리 데이터와 지역의 클래식 접근성](wiki/orchestra-repertoire-data-access.md)** · 별칭: 세계 오케스트라 통계, Classical Access Index · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
+  - Bachtrack·Operabase·뉴욕 필 공연 DB의 범위, 나라별 오케스트라 수의 함정, 공연장과 30~120분 생활권 접근성 지수 및 2014~2025년 등록 콘서트 추이를 비교한다.
+  - [웹페이지](https://belorin.github.io/#orchestra-repertoire-data-access) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-repertoire-data-access.md)
+- **[클래식은 화석인가: 생존 작곡가의 연주와 정전이 자라는 속도](wiki/orchestra-living-composers-canon.md)** · 별칭: 살아 있는 작곡가, 현대 클래식 정전 · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
+  - Bachtrack 2022~2025년 생존 작곡가·여성 작곡가 통계, 패르트·윌리엄스와 신작 재연의 차이, 음악기관의 현재성을 분석한다.
+  - [웹페이지](https://belorin.github.io/#orchestra-living-composers-canon) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-living-composers-canon.md)
+- **[세계 5대 오케스트라의 2026년 프로그램: 전통, 실험, 계승, 세대교체](wiki/world-orchestras-repertoire-2026.md)** · 별칭: 세계 5대 교향악단, 세계 명문 악단 2026 · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
+  - 빈·베를린·콘세르트헤바우·런던 심포니·시카고의 주요 작품·지휘자·시즌 전략을 대조하고 레퍼토리 기반 캐릭터 비평을 분리한다.
+  - [웹페이지](https://belorin.github.io/#world-orchestras-repertoire-2026) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-orchestras-repertoire-2026.md)
+- **[한국 교향악단의 2026년 레퍼토리: 도시 이미지가 아니라 실제 선곡으로 구별하기](wiki/korean-orchestras-repertoire-2026.md)** · 별칭: 한국 오케스트라 캐릭터, 한국 교향악단 선곡 · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
+  - 서울·KBS·국립·부산·인천·부천·대구·광주·대전·수원·경기필의 확인된 2026년 프로그램과 인상비평의 한계를 구별한다.
+  - [웹페이지](https://belorin.github.io/#korean-orchestras-repertoire-2026) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korean-orchestras-repertoire-2026.md)
+- **[오케스트라라는 악기의 내부: 편성 비용, 협주곡, 새 음색의 역사](wiki/orchestration-instrument-history.md)** · 별칭: 오케스트레이션 역사, 새 어쿠스틱 악기 · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
+  - 말러 대편성의 고용·리허설 비용, 라흐마니노프의 타악·하프, 바로크 협주곡, 음악 공간의 역사, 첼레스타와 새로운 어쿠스틱 악기 계보를 총합한다.
+  - [웹페이지](https://belorin.github.io/#orchestration-instrument-history) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestration-instrument-history.md)
+- **[지휘자 스타 시스템의 미래: 클라우스 메켈레, 젊은 지휘자 붐, 앵콜의 마지막 한마디](wiki/conductors-career-encores.md)** · 별칭: Klaus Mäkelä, 메켈레 현상, 지휘자 앵콜 · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
+  - 메켈레의 암스테르담·시카고 동시 취임과 젊은 지휘자 세대교체, 벤치·칸텔리·쉬퍼스 등의 역사적 사례, 앵콜 선곡을 구분한다.
+  - [웹페이지](https://belorin.github.io/#conductors-career-encores) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/conductors-career-encores.md)
+- **[오케스트라는 어디에 사는가: 이름, 시즌, 콘서트홀과 신년음악회](wiki/orchestra-halls-seasons.md)** · 별칭: 2027 빈 필 신년음악회, 세계 콘서트홀 · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
+  - Symphony·Philharmonic 명칭의 역사, 가을 개막 시즌과 한국의 달력연도 시즌, 다섯 명문 악단의 본거지 홀·좌석 수, 빈 필 신년음악회 중계와 추첨을 다룬다.
+  - [웹페이지](https://belorin.github.io/#orchestra-halls-seasons) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-halls-seasons.md)
 
 ## AI와 사회
 
-- **[AI와 인간의 통제력: 장악·무력화·설득·접근권을 잇는 길잡이](wiki/ai-human-control-guide.md)** · 별칭: AI 통제력 길잡이, AI와 사회 길잡이 · 수정: 2026-10-23 · 검토: 길잡이·해석 포함
-  - 네트워크 장악에서 점진적 무력화, 측정, 대화형 설득, 대화 데이터 접근권으로 이어지는 질문의 이동과 관통 논점을 안내한다.
+- **[AI와 인간의 통제력: 장악·무력화·설득·접근권을 잇는 길잡이](wiki/ai-human-control-guide.md)** · 별칭: AI 통제력 길잡이, AI와 사회 길잡이 · 수정: 2026-10-24 · 검토: 길잡이·해석 포함
+  - 네트워크 장악에서 점진적 무력화, 지배의 농도, 측정, 대화형 설득, 대화 데이터 접근권으로 이어지는 질문의 이동과 관통 논점을 안내한다.
   - [웹페이지](https://belorin.github.io/#ai-human-control-guide) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-human-control-guide.md)
 - **[네트워크가 장악되었을 때 인간에게 남는 수단: 물리 계층·수동 운영·금융의 무효화](wiki/ai-takeover-human-recourse.md)** · 별칭: AI 장악 대응, 물리 계층과 수동 운영 · 수정: 2026-10-23 · 검토: 사례 미검증·추론 포함
   - 데이터센터와 전력은 끌 수 있고 금융 거래는 무효화할 수 있다. 수동 운영과 오프라인 백업의 사례, 대응의 비용과 사전 설계의 중요성.
@@ -139,6 +172,24 @@
 - **[AI 시대의 계급 서사: 자동화된 집과 들어갈 수 없는 삶](wiki/ai-class-fiction.md)** · 별칭: AI 계층 시나리오, AI 시대 기생충 사고실험 · 수정: 2026-10-23 · 검토: 허구적 사고실험·인과 검토
   - 자동화된 주택과 서비스 노동의 입구, 지하의 기술자와 보안 봉쇄를 허구적 사고실험으로 읽고, 계급 서사의 조건과 인과적 공백을 검토한다.
   - [웹페이지](https://belorin.github.io/#ai-class-fiction) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-class-fiction.md)
+- **[AI 지배는 이미 시작되었는가: 사건이 아니라 농도로 보는 통제](wiki/ai-domination-gradient.md)** · 별칭: AI 지배의 농도, 매끄러운 지배, AI 인지 인프라, AI 지배는 이미 시작되었다 · 수정: 2026-10-24 · 검토: 철학적 논증·대화 내 자료 기반·외부 재검증 필요
+  - AI 지배를 미래의 쿠데타가 아니라 현재부터 짙어질 수 있는 농도로 보고, 매개·의존·지배를 구분하며 맥락적 경사, 여덟 층, 사고 출처, p(doom), 카산드라식 조기 탐지를 검토한다.
+  - [웹페이지](https://belorin.github.io/#ai-domination-gradient) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-domination-gradient.md)
+- **[행크 애셔에서 팔란티어까지: 데이터 융합이 AI의 판단 인프라가 되기까지](wiki/hank-asher-data-fusion-ai.md)** · 별칭: 행크 쇼와 AI, Hank Asher, 행크 애셔, 팔란티어와 데이터 융합 · 수정: 2026-10-25 · 검토: 대화 내 확인·기업사와 최근 기술 세부 재검증 필요
+  - 행크 애셔의 DBT·Seisint·MATRIX에서 팔란티어와 에이전트형 AI까지, 검색·결합이 추정·서사화·행동 제안으로 확장되는 데이터 권력의 계보를 살핀다.
+  - [웹페이지](https://belorin.github.io/#hank-asher-data-fusion-ai) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hank-asher-data-fusion-ai.md)
+- **[한국 개인정보의 생애: 수집·결합·유출·재사용의 경로](wiki/korea-personal-data-lifecycle.md)** · 별칭: 한국 개인정보 유통, 개인정보의 생애, 개인정보 유출 이후, 한국 데이터 브로커 · 수정: 2026-10-25 · 검토: 대화 내 확인·법제와 최근 사례 세부 재검증 필요
+  - 체크박스와 본인확인부터 광고·가명결합·마이데이터, 유출 뒤의 계정탈취·피싱·영업 DB까지 한국 개인정보가 복제·결합·재사용되는 경로를 추적한다.
+  - [웹페이지](https://belorin.github.io/#korea-personal-data-lifecycle) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-personal-data-lifecycle.md)
+- **[AI는 계산이 많아지면 무엇이 달라지는가: 데이터센터와 추론 스케일링](wiki/ai-compute-scaling-inference.md)** · 별칭: AI 데이터센터와 추론, test-time scaling, 추론 컴퓨트, AI 계산 스케일링 · 수정: 2026-10-25 · 검토: 대화 내 확인 자료 총합 · 데이터센터 규모·기업 계획·추론 연구 세부 외부 재검증 필요
+  - AI 데이터센터 증설을 단순한 더 큰 사전학습이 아니라 test-time compute, 병렬 탐색·검증, 과학·코딩·피지컬 AI 계산의 확대로 읽고 계산량의 한계를 함께 정리한다.
+  - [웹페이지](https://belorin.github.io/#ai-compute-scaling-inference) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-compute-scaling-inference.md)
+- **[사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승](wiki/japan-physical-ai-skill-transfer.md)** · 별칭: 일본 피지컬 AI, 손지능, 숙련 전승 로봇, Physical AI Japan · 수정: 2026-10-25 · 검토: 대화 내 확인 자료 총합 · 기업 발표·정부 목표·국가 비교 해석 외부 재검증 필요
+  - 가와사키 Successor와 Honda 다지 핸드부터 Toyota·Yaskawa·FANUC·AIST까지, 일본이 숙련자의 손동작·힘 조절을 로봇 학습 데이터로 옮기려는 흐름을 정리한다.
+  - [웹페이지](https://belorin.github.io/#japan-physical-ai-skill-transfer) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japan-physical-ai-skill-transfer.md)
+- **[AI 이행기의 정책 공백: 재교육이 해결하지 못하는 구조적 노동 대체](wiki/ai-transition-policy-gap.md)** · 별칭: AI 재교육의 한계, AI 이행기 정책 실패, 국제기구와 AI 경제 · 수정: 2026-10-24 · 검토: 조건부 정책 시뮬레이션·외부 미검증
+  - 국제기구가 위험을 인식해도 대응하지 못하는 조건, 재교육의 거시적 한계, 자동화·재정·조세·정치의 시차를 분석한다.
+  - [웹페이지](https://belorin.github.io/#ai-transition-policy-gap) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-transition-policy-gap.md)
 
 ## 철학
 
@@ -157,6 +208,9 @@
 - **[현대 세계를 지배하는 철학과 합리성: 자유주의에서 계산주의까지](wiki/contemporary-governing-philosophies.md)** · 별칭: 2026년의 패권철학, 계산주의, 현대의 지배적 합리성 · 수정: 2026-10-23 · 검토: 종합적 지도·해석
   - 단일 패권철학 대신 자유주의, 신자유주의, 통계적 실증주의, 경제학적 합리성, 계산·최적화가 서로 다른 제도에서 운영체제처럼 작동하는 구조를 정리한다.
   - [웹페이지](https://belorin.github.io/#contemporary-governing-philosophies) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/contemporary-governing-philosophies.md)
+- **[치이카와를 철학적으로 읽기: 욕망·노동·고귀한 거짓말과 일본의 비평 흐름](wiki/chiikawa-philosophy.md)** · 별칭: 치이카와 철학, ちいかわ 철학, 치이카와 비평, 고귀한 거짓말로서의 치이카와 · 수정: 2026-10-24 · 검토: 대화 중 확인된 일본 철학·비평 자료 총합 · 최종 논문 전문 미대조 · 외부 재검증 필요
+  - 플라톤의 욕망론과 고귀한 거짓말로 치이카와 세계의 노동·규칙·행복을 읽고, 알튀세르·캐릭터론·만화표현론·노동비평·졸업논문까지 일본의 분석 흐름을 정리한다.
+  - [웹페이지](https://belorin.github.io/#chiikawa-philosophy) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/chiikawa-philosophy.md)
 
 ## 독서 문화
 
@@ -184,6 +238,18 @@
 - **[버닝맨은 무엇을 수출했나: 지역 번즈와 임시도시의 문화 프로토콜](wiki/burning-man-regional-network.md)** · 별칭: Regional Burn, Burning Man Regional Network, AfrikaBurn, Midburn, Kiwiburn, Burning Japan · 수정: 2026-10-23 · 검토: 지역 네트워크 수치·행사별 연혁 재검증 필요
   - AfrikaBurn·Midburn·Kiwiburn·Burning Japan을 통해 사막의 외형보다 참여·선물·자율운영·흔적 지우기라는 문화 프로토콜이 어떻게 현지화되는지 살핀다.
   - [웹페이지](https://belorin.github.io/#burning-man-regional-network) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/burning-man-regional-network.md)
+- **[수메르 재발견과 구약 원초사의 역사화: 홍수·에덴·바벨탑은 어떻게 재배치되었나](wiki/sumer-bible-primeval-history.md)** · 별칭: 수메르와 구약, 창세기 원초사, 메소포타미아와 성경, 노아의 홍수와 수메르, 에덴과 딜문 · 수정: 2026-10-24 · 검토: 대화 중 확인된 고대근동·성서학 자료 요약 기반 · 세부 연대와 학계 견해 외부 재검증 필요
+  - 수메르·아카드·바빌로니아 문헌의 재발견이 창세기 1~11장을 문자 그대로의 역사로 확정한 것이 아니라, 홍수·에덴·바벨탑을 고대 서아시아 원초사 전통과 실제 역사적 배경 속에 재배치한 과정을 설명한다.
+  - [웹페이지](https://belorin.github.io/#sumer-bible-primeval-history) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/sumer-bible-primeval-history.md)
+- **[국지전은 어떻게 세계전쟁이 되는가: 1754·1618·1914·1939·1950과 2026년 다중 전선](wiki/war-escalation-local-to-world.md)** · 별칭: 국지전에서 세계대전, 전쟁의 연결, 1914 확전 모형 · 수정: 2026-10-24 · 검토: 역사 사례와 2026년 정세 비교·대화 내 자료 기반·세부 재검증 필요
+  - 세계대전의 핵심을 국지전의 수가 아니라 전쟁들의 전략적 연결에서 찾고, 1754·1618·1914·1939·1950의 확전과 억제 사례를 러시아-유럽·대만·한반도의 동시 위기와 비교한다.
+  - [웹페이지](https://belorin.github.io/#war-escalation-local-to-world) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/war-escalation-local-to-world.md)
+- **[혐오의 가속은 파국 없이 멈출 수 있는가: 집단공황과 정치적 선동의 역사적 브레이크](wiki/hate-escalation-brakes-history.md)** · 별칭: 혐오 가속의 브레이크, 집단공황의 중단, 파국 전 혐오정치 중단, 혐오사회 되돌리기 · 수정: 2026-10-24 · 검토: 대화 내 역사 사례 요약 · 사건별 세부 사실과 수치 외부 재검증 필요
+  - 전후의 반성이나 체제 붕괴가 아니라, 집단공황과 혐오 정치가 가속 중에 멈춘 청나라 영혼 도둑 공황·바스크 마녀사냥·적색공포·매카시즘·Popish Plot·드레퓌스기의 메커니즘을 비교한다.
+  - [웹페이지](https://belorin.github.io/#hate-escalation-brakes-history) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hate-escalation-brakes-history.md)
+- **[광주의 보이지 않는 길거리 미술관: 아파트·사옥 조형물과 작가·건설 네트워크](wiki/gwangju-building-art-network.md)** · 별칭: 광주 공공미술, 광주 건축물 미술, 광주 아파트 조각, 광주 길거리 미술관, 광주 조각 네트워크 · 수정: 2026-10-24 · 검토: 대화 중 확인된 작품·작가·제도 자료 총합 · 발주 관계와 세부 사실 재검증 필요
+  - 광주의 아파트·사옥·오피스텔 앞 건축물 미술을 시대별 미감과 생활환경으로 읽고, 최규철·정춘표·조의현·전용환 등의 작가 계보와 시행사·시공사·대행업체·제작소·심의 구조를 분리해 추적한다.
+  - [웹페이지](https://belorin.github.io/#gwangju-building-art-network) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gwangju-building-art-network.md)
 
 ## 언어
 
@@ -196,3 +262,36 @@
 - **[주인 없는 땅은 거의 없다: 사막의 공공토지와 미국 BLM](wiki/public-land-and-blm.md)** · 별칭: BLM, Bureau of Land Management, 공공 토지, 블랙록 사막 · 수정: 2026-10-23 · 검토: 토지법·면적 수치·국가별 제도 재검증 필요
   - 무주지와 비민간 토지를 구별하고, 블랙록 사막의 BLM 허가 구조와 미국 서부·호주·나미비아·사하라의 겹쳐진 토지 권리를 설명한다.
   - [웹페이지](https://belorin.github.io/#public-land-and-blm) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/public-land-and-blm.md)
+- **[스토킹 피해를 손상이 아니라 침해로 보기: 관계거부·생활형성·강제된 중요성](wiki/stalking-harm-and-autonomy.md)** · 별칭: 스토킹 피해, 강제된 중요성, 관계거부의 자유, 생활형성의 자유 · 수정: 2026-10-24 · 검토: 법·철학적 분석 개념 · 대화 내 판례·연구 요약 기반 · 외부 재검증 필요
+  - 스토킹 피해를 공포·수치 같은 손상만으로 보지 않고 관계거부, 생활형성의 자유, 강제된 중요성, 성적 의미의 강제적 귀속이라는 침해 구조로 재구성한다.
+  - [웹페이지](https://belorin.github.io/#stalking-harm-and-autonomy) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/stalking-harm-and-autonomy.md)
+- **[『탁월한 피해자』와 곽아람: 비면식 스토킹 기록이 묻는 피해자의 자리](wiki/excellent-victim-kwak-aram.md)** · 별칭: 탁월한 피해자, 곽아람, 비면식 스토킹 기록 · 수정: 2026-10-24 · 검토: 2026년 공개보도·인터뷰 요약 기반 · 사건 진행 및 직함 재검증 필요
+  - 『탁월한 피해자』의 비면식 스토킹 기록과 형사사법 비판, 피해 감정의 규격화 문제, 2026년 공개 활동과 당시 사건 진행 상태를 함께 정리한다.
+  - [웹페이지](https://belorin.github.io/#excellent-victim-kwak-aram) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/excellent-victim-kwak-aram.md)
+- **[2026년 9월 유럽의 ‘3차대전’ 루머를 읽는 법: 영공·드론·하이브리드전과 실제 확전 신호](wiki/europe-russia-escalation-signals-2026.md)** · 별칭: 유럽 3차대전 루머, NATO 확전 신호, 러시아-NATO 회색지대 · 수정: 2026-10-24 · 검토: 2026년 9월 보도 스냅샷·귀속 및 후속 조사 재검증 필요
+  - 리투아니아 드론 격추·발트해 군사접촉·폴란드 경계·룩셈부르크 드론·FSB 국경 루머를 분해하고, NATO Article 4/5와 DEFCON을 구별해 실제 확전 신호를 판별한다.
+  - [웹페이지](https://belorin.github.io/#europe-russia-escalation-signals-2026) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/europe-russia-escalation-signals-2026.md)
+- **[드론이 바꾼 비대칭전: 비용교환·후방 소멸·한반도와 아프리카·중앙아시아 사례](wiki/drone-asymmetric-warfare.md)** · 별칭: 드론 비대칭전, 드론 소모전, 무인기 비대칭전 · 수정: 2026-10-24 · 검토: 전쟁 사례·피해수치·인과관계 외부 재검증 필요
+  - 드론이 만드는 가격·생산시간·목표가치·귀속의 비대칭을 설명하고, 한반도와 에티오피아·리비아·키르기스스탄-타지키스탄·사헬·수단 사례에서 전황 변화와 한계를 비교한다.
+  - [웹페이지](https://belorin.github.io/#drone-asymmetric-warfare) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/drone-asymmetric-warfare.md)
+- **[《어떻게 해야 했을까》와 일본 가족의 치료 결정: 1983년부터 2008년까지](wiki/dousureba-yokatta-family-psychiatry.md)** · 별칭: 어떻게 해야 했을까, どうすればよかったか？, 후지노 도모아키 가족, 일본 조현병 가족, 일본 가족 개입과 정신의료 · 수정: 2026-10-25 · 검토: 영화 반응·가족사·일본 정신의료 제도·한일 가족문화 비교의 대화 내 확인 자료 총합 · 세부 사실 재검증 필요
+  - 《どうすればよかったか？》의 가족사를 따라 의사 부모의 치료 거부, 1983~2008년 치료 선택지의 변화, 남동생의 법적·문화적 개입 한계와 한일 가족책임 차이를 함께 분석한다.
+  - [웹페이지](https://belorin.github.io/#dousureba-yokatta-family-psychiatry) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/dousureba-yokatta-family-psychiatry.md)
+- **[우쓰노미야 병원 사건과 일본 정신의료의 40년: 폐쇄병동·감독 실패·개혁의 반복](wiki/utsunomiya-psychiatric-hospital-reform.md)** · 별칭: 우쓰노미야 병원 사건, 宇都宮病院事件, 일본 정신병원 인권, 일본 정신의료 개혁 · 수정: 2026-10-25 · 검토: 우쓰노미야 사건·국회 및 국제조사·후속 정신병원 사건의 대화 내 확인 자료 총합 · 사건별 세부 재검증 필요
+  - 1984년 우쓰노미야 병원 사건의 폭행·인력부족·환자 노동·사회적 입원에서 1987년 법 개정, 대화천·아사쿠라·간데·다키야마 사건과 2024년 학대 신고제까지 이어지는 구조를 추적한다.
+  - [웹페이지](https://belorin.github.io/#utsunomiya-psychiatric-hospital-reform) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/utsunomiya-psychiatric-hospital-reform.md)
+
+## 영화
+
+- **[《호프》 해외 흥행과 선판매: 박스오피스와 투자 회수를 분리해서 읽기](wiki/hope-global-box-office.md)** · 별칭: 호프 해외 흥행, 호프 선판매, Hope box office, 한국영화 해외 박스오피스 · 수정: 2026-10-24 · 검토: 2026-10-04 수치 스냅샷·선판매 계약 세부 미공개·후속 시장 재검증 필요
+  - 2026년 10월 4일까지 확인된 《호프》의 한국·북미·영국 등 흥행 경로를 추적하고, 해외 선판매 MG와 현지 박스오피스가 제작비 회수에 어떻게 다르게 작동하는지 다른 한국영화와 비교해 설명한다.
+  - [웹페이지](https://belorin.github.io/#hope-global-box-office) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hope-global-box-office.md)
+- **[《어벤져스: 엔드게임》의 두 죽음: 나타샤의 희생과 토니 스타크의 장례식](wiki/endgame-natasha-tony-funeral.md)** · 별칭: 어벤져스 엔드게임 나타샤, 블랙 위도우 장례식, 나타샤 보르미르, 토니 스타크 장례식, 엔드게임 두 죽음 · 수정: 2026-10-25 · 검토: 제작진 인터뷰·영화 장면의 대화 내 확인 자료 총합 · 세부 인용과 제작 경위 재검증 필요
+  - 보르미르에서 나타샤가 죽게 된 각본·재촬영 과정과 가족·자기결정의 서사 논리, 토니에게만 거대한 장례식이 집중된 이유와 2019~2021년 제작진의 서로 다른 해명을 함께 분석한다.
+  - [웹페이지](https://belorin.github.io/#endgame-natasha-tony-funeral) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/endgame-natasha-tony-funeral.md)
+
+## 문학
+
+- **[앤 카슨의 2026년 노벨문학상 수상 반응: ‘미쳤다’와 독자가 작품을 만나는 경로](wiki/anne-carson-nobel-first-reactions.md)** · 별칭: 앤 카슨 노벨상 인터뷰, Anne Carson Nobel reaction, 앤 카슨 미쳤다, Anne Carson crazy, 문학 작품의 발견 · 수정: 2026-10-24 · 검토: 2026년 수상 직후 보도 재인용 · RÚV 영상·영어 축어록 원문 재대조 필요
+  - 앤 카슨의 노벨문학상 수상 직후 'crazy' 반응과 독자들이 작품을 접하고 읽게 되는 경로에 관한 발언을 인터뷰별로 구분하고, 원문·의역·편집상 독해의 경계를 정리한다.
+  - [웹페이지](https://belorin.github.io/#anne-carson-nobel-first-reactions) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/anne-carson-nobel-first-reactions.md)

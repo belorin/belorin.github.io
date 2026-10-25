@@ -1,0 +1,153 @@
+{
+  "id": "ing-20261024-stalking-harm-framework",
+  "processed_on": "2026-10-24",
+  "coverage": "visible-complete",
+  "limit_note": "현재 실제로 접근 가능한 대화 범위를 순차 검토했으며 외부 추가 조사는 하지 않음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k1",
+      "kind": "concept",
+      "title": "스토킹 피해의 손상과 침해 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "stalking-harm-and-autonomy",
+          "section": "손상과 침해를 분리하기"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "kind": "concept",
+      "title": "관계하지 않을 자유와 관계종결 의사의 실효성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "stalking-harm-and-autonomy",
+          "section": "관계할 권리와 관계하지 않을 권리"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "kind": "concept",
+      "title": "강제된 중요성과 자기창설적 관련성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "stalking-harm-and-autonomy",
+          "section": "강제된 중요성: 설명 개념이지 구성요건은 아니다"
+        },
+        {
+          "doc_id": "stalking-harm-and-autonomy",
+          "section": "정당화된 중요성과 자기창설적 관련성"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "kind": "argument",
+      "title": "불법적 강제 중요성을 가르는 네 질문",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "stalking-harm-and-autonomy",
+          "section": "불법성을 가르는 네 질문"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "kind": "concept",
+      "title": "성적 스토킹의 비동의적 표상과 맥락 결부",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "stalking-harm-and-autonomy",
+          "section": "성적 스토킹에서 가해자가 새로 만드는 것"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "kind": "argument",
+      "title": "분노를 피해의 결여가 아니라 침해 인식으로 읽기",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "stalking-harm-and-autonomy",
+          "section": "분노는 피해의 결여가 아니라 침해의 인식일 수 있다"
+        }
+      ]
+    },
+    {
+      "id": "k7",
+      "kind": "concept",
+      "title": "세계의 오염을 생활영역의 비자발적 재편으로 번역",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "stalking-harm-and-autonomy",
+          "section": "세계의 오염을 법률어로 번역하기"
+        }
+      ]
+    },
+    {
+      "id": "k8",
+      "kind": "argument",
+      "title": "범죄 성립·보호조치·실제 손상의 절차적 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "stalking-harm-and-autonomy",
+          "section": "형사절차에서 세 층위를 분리하기"
+        }
+      ]
+    },
+    {
+      "id": "k9",
+      "kind": "fact",
+      "title": "『탁월한 피해자』의 비면식 스토킹과 형사사법 문제의식",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "excellent-victim-kwak-aram",
+          "section": "책과 문제의식"
+        },
+        {
+          "doc_id": "excellent-victim-kwak-aram",
+          "section": "비면식 스토킹과 형사사법의 피해자 자리"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "fact",
+      "title": "곽아람의 2026년 공개 활동과 사건 진행 시점 자료",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "excellent-victim-kwak-aram",
+          "section": "2026년 공개 활동의 흐름"
+        },
+        {
+          "doc_id": "excellent-victim-kwak-aram",
+          "section": "사건 진행의 공개된 시점별 상태"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "argument",
+      "title": "피해자의 회복을 가해자의 중요성이 낮아지는 상태로 보기",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "excellent-victim-kwak-aram",
+          "section": "기록 이후의 방향: 사건의 사람이 되지 않기"
+        }
+      ]
+    }
+  ]
+}
