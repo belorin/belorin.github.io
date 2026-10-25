@@ -31,4 +31,30 @@
 
 ## 장부에 기록된 반영 지식
 
-- 없음 (장부 도입 이전 원고이거나 아직 기록이 없다. 기록이 없다는 것은 내용이 없다는 뜻이 아니다.)
+- **목표가 바뀌는 순간: 대화 아카이브에서 집필의 연속성으로**
+  - GPT 접근형 위키의 목적과 장기 집필 일관성 · `ing-20261026-gpt-wiki-zero-prototype`
+- **원본을 바로 정본으로 삼지 않는 세 겹의 구조**
+  - 대화 보관과 확정 지식 정본의 권위 구분 · `ing-20261026-gpt-wiki-zero-prototype`
+  - 내보내기·Markdown 변환·비공개 원본 분리의 초기 공정 · `ing-20261026-gpt-wiki-zero-prototype`
+- **자료 저장소와 위키 엔진은 별개다**
+  - Obsidian·MkDocs·RAG의 역할 차이와 단계적 도입 · `ing-20261026-gpt-wiki-zero-prototype`
+- **확정 설정: canon**
+  - 창작 canon의 승인 상태와 내부 설정 권위 · `ing-20261026-gpt-wiki-zero-prototype`
+- **결정 장부: decision log**
+  - 채택과 폐기의 근거를 남기는 결정 장부 · `ing-20261026-gpt-wiki-zero-prototype`
+- **미해결 문제: open questions**
+  - 미확정 설정의 분리와 즉흥 고착 방지 · `ing-20261026-gpt-wiki-zero-prototype`
+- **집필용 문맥 묶음: context pack**
+  - 정본에서 파생하는 집필용 문맥 묶음 · `ing-20261026-gpt-wiki-zero-prototype`
+- **GPT가 접근하는 경로: 읽을 수 있음과 최신임을 구분한다**
+  - 프로젝트·Custom GPT·외부 연결의 접근 경로와 최신성 문제 · `ing-20261026-gpt-wiki-zero-prototype`
+- **Codex가 해야 하는 일과 집필 모델이 해야 하는 일**
+  - Codex의 변환·운영과 GPT의 집필 책임 분리 · `ing-20261026-gpt-wiki-zero-prototype`
+  - 집필-후보 추출-사람 승인-정본 갱신의 순환 · `ing-20261026-gpt-wiki-zero-prototype`
+- **실패하기 쉬운 지점**
+  - 원문 통째 검색·과잉 요약·오래된 문맥·공개 혼동의 실패 방식 · `ing-20261026-gpt-wiki-zero-prototype`
+- **제0호기와 후속 누적형 지식백과의 차이**
+  - GPT 위키 제0호기와 후속 누적형 지식백과의 범위 차이 · `ing-20261026-gpt-wiki-zero-prototype`
+  - 원본 시각 미확인과 구현 여부의 보류 경계 · `ing-20261026-gpt-wiki-zero-prototype`
+- **남겨진 설계 문제**
+  - 장기 기억 위키의 탐색·동기화·승인·공개 과제 · `ing-20261026-gpt-wiki-zero-prototype`
