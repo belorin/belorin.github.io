@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 696개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 713개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (3)
 
@@ -11,7 +11,7 @@
 - 기존 종합·수정 원고의 상세 내용 대조 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 본문이 아닌 참조 표시만 확인되어 기존 원고의 세부와 현재 증보 사이의 중복·차이를 검수할 수 없음.
 - 라즈베리파이 모델·DB·OCR·백업의 실제 배포 결정 → 반영 위치 없음 · `ing-20261025-credit-observation` · pending — 구체적 배포 설계 결과가 확인되지 않아 확정 사양은 보류
 
-## AI와 사회 (126)
+## AI와 사회 (143)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -141,6 +141,23 @@
 - 정책 시행착오의 조건부 연쇄 → `ai-transition-policy-gap` § 정책 시행착오의 연쇄: 조건부 시뮬레이션 · `ing-20261024-ai-policy-gap`
 - 자동화와 제도 적응의 시차 → `ai-transition-policy-gap` § 왜 이행기를 독립적인 연구 대상으로 보아야 하는가 · `ing-20261024-ai-policy-gap`
 - 공개 크레딧의 검색 가능한 이력화와 동명이인 위험 → `korea-personal-data-lifecycle` § 공개된 크레딧이 검색 가능한 개인 이력이 될 때 · `ing-20261025-credit-observation`
+- Pluto 개발자 Vegard Mella와 LetaBot 개발자 구분 → `starcraft-pluto-ai` § 개발자부터 바로잡아야 한다 · `ing-20261026-starcraft-pluto-ai`
+- tscmoo의 장기 브루드워 AI 개발 경력 → `starcraft-pluto-ai` § 개발자부터 바로잡아야 한다 · `ing-20261026-starcraft-pluto-ai`
+- 세 종족 단일 모델과 자가대전 강화학습 구조 → `starcraft-pluto-ai` § Pluto의 핵심: 세 종족을 하나의 모델이 배운다 · `ing-20261026-starcraft-pluto-ai`
+- CoG 2026 우승과 CPU 공개 버전 → `starcraft-pluto-ai` § 2026년 대회 우승과 공개 버전 · `ing-20261026-starcraft-pluto-ai`
+- 공식 Pluto와 무단 리마스터 래더 이식판의 구분 → `starcraft-pluto-ai` § 한국에서 알려진 Pluto와 원 개발자의 Pluto는 구분해야 한다 · `ing-20261026-starcraft-pluto-ai`
+- APM보다 입력 인터페이스가 공정성에 미치는 영향 → `starcraft-pluto-ai` § APM 숫자보다 중요한 것은 인터페이스다 · `ing-20261026-starcraft-pluto-ai`
+- 화력 배분·멀티태스킹·관리 부담 유닛이 만드는 전투 우위 → `starcraft-pluto-ai` § Pluto의 전투가 무서운 이유 · `ing-20261026-starcraft-pluto-ai`
+- 인간에게 이식 가능한 전술과 AI 전용 조작의 구분 → `starcraft-pluto-ai` § 인간이 가져갈 수 있는 것과 가져갈 수 없는 것 · `ing-20261026-starcraft-pluto-ai`
+- 수송선·드롭 취약성과 자가대전의 공유 사각지대 가설 → `starcraft-pluto-ai` § 가장 유명해진 약점: 수송선과 드롭 · `ing-20261026-starcraft-pluto-ai`
+- 치즈·다크스웜·불리한 상황의 소극성 등 취약점 후보 → `starcraft-pluto-ai` § 그 밖에 발견된 취약점 · `ing-20261026-starcraft-pluto-ai`
+- Snow·Soma·Larva·Mini·Best·Jaedong 후속 대결 보고 → `starcraft-pluto-ai` § 인간도 학습했다: ‘Pluto전’이라는 새로운 메타 · `ing-20261026-starcraft-pluto-ai`
+- 도재욱 정면 대결 연패가 보여 준 공략 가능성과 일반 실력의 차이 → `starcraft-pluto-ai` § 도재욱의 0:9가 남긴 반례 · `ing-20261026-starcraft-pluto-ai`
+- 뮤탈리스크를 통해 본 인간 메타의 시선·클릭 제약 → `starcraft-pluto-ai` § 뮤탈리스크가 보여 주는 인간 메타의 조건 · `ing-20261026-starcraft-pluto-ai`
+- 알파고 비유와 전략 우위·조작 우위의 구분 → `starcraft-pluto-ai` § 알파고와 같은 충격인가 · `ing-20261026-starcraft-pluto-ai`
+- 2026년 10월 8일까지 개발자 직접 반응과 로드맵의 부재 → `starcraft-pluto-ai` § 개발자 Vegard Mella는 한국의 붐에 뭐라고 했는가 · `ing-20261026-starcraft-pluto-ai`
+- 인간 공략을 다시 학습하는 AI-인간-재학습 순환 → `starcraft-pluto-ai` § 다음 단계가 더 중요하다: 인간과 AI의 두 번째 학습 사이클 · `ing-20261026-starcraft-pluto-ai`
+- 경기 전적·모델 버전·개발자 후속 발언의 검증 경계 → `starcraft-pluto-ai` § 남아 있는 검증 과제 · `ing-20261026-starcraft-pluto-ai`
 
 ## 문화와 역사 (124)
 
