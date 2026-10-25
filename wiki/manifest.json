@@ -59,7 +59,8 @@
         "living-notes",
         "open-questions",
         "wiki-building-history",
-        "wiki-operations-pipeline"
+        "wiki-operations-pipeline",
+        "gpt-wiki-zero-prototype"
       ],
       "aliases": [
         "편집 원칙"
@@ -857,7 +858,7 @@
       "category": "운영",
       "status": "구축 이력·계층 편집 후속 설계 포함",
       "updated": "2026-10-26",
-      "summary": "Markdown 정본화·AI 탐색·교차 편집의 구축 이력과, 누적 증보의 과부하를 줄이는 절 단위 탐색·조건부 범위 확장·두 속도 편집의 후속 설계.",
+      "summary": "GPT 위키의 외부 기억 선행 구상에서 출발하여 Markdown 정본화·AI 탐색·교차 편집의 구축 이력과, 누적 증보의 과부하를 줄이는 절 단위 탐색·조건부 범위 확장·두 속도 편집의 후속 설계.",
       "tags": [
         "위키 구축",
         "아키텍처",
@@ -871,7 +872,8 @@
         "living-notes",
         "editing-principles",
         "open-questions",
-        "wiki-operations-pipeline"
+        "wiki-operations-pipeline",
+        "gpt-wiki-zero-prototype"
       ],
       "aliases": [
         "위키 구축 이력",
@@ -3656,7 +3658,7 @@
       "category": "운영",
       "status": "운영 개편 기록",
       "updated": "2026-10-26",
-      "summary": "생성물 자동 배포, 전체 지도·문서 카드·지식 표제 역색인을 통한 계층적 읽기, 프로토콜 v2.0 경량화, 일상 증보와 정비의 분리, 편집 해석으로서의 종합, LLM이 링크로 읽을 수 있는 입구 정비.",
+      "summary": "GPT 위키 초기 구상의 접근성 문제를 이어받아 생성물 자동 배포, 전체 지도·문서 카드·지식 표제 역색인을 통한 계층적 읽기, 프로토콜 v2.0 경량화, 일상 증보와 정비의 분리, 편집 해석으로서의 종합, LLM이 링크로 읽을 수 있는 입구 정비.",
       "tags": [
         "위키 운영",
         "GitHub Actions",
@@ -3669,7 +3671,8 @@
       "related": [
         "wiki-building-history",
         "editing-principles",
-        "living-notes"
+        "living-notes",
+        "gpt-wiki-zero-prototype"
       ],
       "aliases": [
         "위키 운영 개편",
@@ -4068,6 +4071,41 @@
       "related": [
         "climate-population-villain-logic"
       ]
+    },
+    {
+      "path": "wiki/gpt-wiki-zero-prototype.md",
+      "publish": true,
+      "order": 125,
+      "id": "gpt-wiki-zero-prototype",
+      "title": "GPT 위키 제0호기: 대화 내보내기에서 지속 집필의 기억 장치로",
+      "category": "운영",
+      "status": "초기 구상·구현 기록 아님",
+      "updated": "2026-10-26",
+      "summary": "ChatGPT 내보내기와 Codex를 출발점으로, 원본·대화별 변환본·지식 정본의 분리, canon·결정 장부·문맥 묶음·미정 설정 관리, GPT 접근 경로와 집필-승인-증보 순환을 설계한 선행 구상.",
+      "tags": [
+        "GPT 위키",
+        "대화 내보내기",
+        "Codex",
+        "canon",
+        "외부 기억",
+        "집필 일관성",
+        "운영사"
+      ],
+      "source": "내부 총합·외부 미검증·초기 논의의 정확한 시각 미확인",
+      "related": [
+        "wiki-building-history",
+        "wiki-operations-pipeline",
+        "editing-principles"
+      ],
+      "aliases": [
+        "GPT 위키 제로호기",
+        "GPT 위키 0호기",
+        "GPT 위키 초기 구상",
+        "ChatGPT 내보내기 위키",
+        "GPT 기억 위키"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-26"
     }
   ]
 }
