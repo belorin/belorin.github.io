@@ -301,3 +301,9 @@
 - **[새소리는 어디까지 번역되었는가: 행동 신호에서 참새의 짹짹까지](wiki/bird-vocalization-sparrow.md)** · 별칭: 새소리 번역, 새의 언어, 참새 울음소리, 참새어, 조류 의사소통 · 수정: 2026-10-25 · 검토: 대화 내부의 연구 소개 총합 · 논문별 세부 분류·수치 재검증 필요
   - 종 인식·발성 유형·행동 신호·인간 언어 번역의 차이를 일본박새·금화조·한국 참새 연구로 검토하고, 참새 아홉 유형과 도시 소음 연구의 검증 경계를 정리한다.
   - [웹페이지](https://belorin.github.io/#bird-vocalization-sparrow) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/bird-vocalization-sparrow.md)
+
+## 문화
+
+- **[음악과 책의 공급 폭발: 한 사람의 귀와 눈은 얼마나 따라갈 수 있는가](wiki/music-books-supply-attention.md)** · 별칭: 문화 공급 과잉, 음악과 책의 생산 소비 격차 · 수정: 2026-10-25 · 검토: 대화 내부 추정·검토 필요
+  - 음악과 종이책의 역사적 생산량, 개인 소비시간, AI 공급, 차트 집중과 큐레이션을 비교하며 관측과 추정의 경계를 검토한다.
+  - [웹페이지](https://belorin.github.io/#music-books-supply-attention) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/music-books-supply-attention.md)

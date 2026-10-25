@@ -1,0 +1,45 @@
+{
+  "id": "ing-20261025-music-books-attention",
+  "processed_on": "2026-10-25",
+  "coverage": "visible-complete",
+  "limit_note": "기존 브랜치 원고와 지식 항목을 보존하여 공개. 이번 후속 검수는 원고·메타데이터·장부·생성물에 한정하며 원대화 전체 재대조와 외부 조사는 수행하지 않음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "argument",
+      "title": "음악과 책의 공급량과 개인 소비능력",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "music-books-supply-attention",
+          "section": "생산량과 소비능력은 서로 다른 지표다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "example",
+      "title": "음악 생산량과 청취시간의 시나리오",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "music-books-supply-attention",
+          "section": "인간의 귀: 음악 청취시간의 유한성"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "example",
+      "title": "종이책 신간과 평생 독서량",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "music-books-supply-attention",
+          "section": "책: 공급 과잉의 역사는 음악보다 오래되었다"
+        }
+      ]
+    }
+  ]
+}

@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 329,
+  "edge_count": 331,
   "edges": [
     {
       "from": "living-notes",
@@ -44,6 +44,12 @@
     {
       "from": "living-notes",
       "to": "ai-human-control-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "living-notes",
+      "to": "music-books-supply-attention",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1790,6 +1796,12 @@
     {
       "from": "ai-transition-policy-gap",
       "to": "gradual-disempowerment",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "music-books-supply-attention",
+      "to": "living-notes",
       "type": "related_to",
       "basis": "manifest.related"
     },
