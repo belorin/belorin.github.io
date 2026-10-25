@@ -37,6 +37,7 @@ a:hover{color:var(--accent)}
 .sidebar-tip{font-size:11px;color:var(--muted);margin-top:28px}
 kbd{border:1px solid var(--line);border-radius:3px;padding:0 5px;background:var(--paper);font:11px/1.4 monospace}
 .main-view{max-width:860px;min-width:0;width:100%}
+.static-layout{grid-template-columns:minmax(0,860px);justify-content:center}
 .muted{color:var(--muted)}
 .page-heading{margin:0 0 22px}
 .page-heading h1{font-size:clamp(24px,3vw,32px);letter-spacing:-1px;line-height:1.35;margin:0 0 7px}

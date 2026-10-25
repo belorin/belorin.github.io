@@ -11,6 +11,8 @@ on:
       - "scripts/build-ai-index.mjs"
       - "scripts/build-wiki-map.mjs"
       - "scripts/build-maintenance-queue.mjs"
+      - "scripts/build-static.mjs"
+      - "robots.txt"
       - "ai/**"
       - "AI_INDEX.md"
       - "llms.txt"
@@ -34,6 +36,8 @@ on:
       - "scripts/build-ai-index.mjs"
       - "scripts/build-wiki-map.mjs"
       - "scripts/build-maintenance-queue.mjs"
+      - "scripts/build-static.mjs"
+      - "robots.txt"
       - "ai/**"
       - "AI_INDEX.md"
       - "llms.txt"
@@ -68,3 +72,4 @@ jobs:
       - run: node scripts/test-crosslinks.mjs
       - run: node --check app.js
       - run: node scripts/test-viewer.mjs
+      - run: node scripts/build-static.mjs "$RUNNER_TEMP/site"

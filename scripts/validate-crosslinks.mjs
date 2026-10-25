@@ -3,6 +3,8 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import process from 'node:process';
+// Headings inside a folded ":::원본 … :::" block (FICTION.md) belong to the old text.
+const withoutOriginals = text => text.replace(/^[ \t]*:::[ \t]*원본(?:[ \t].*)?$[\s\S]*?^[ \t]*:::[ \t]*$/gm, "");
 const root=process.cwd();
 const manifest=JSON.parse(fs.readFileSync(path.join(root,'wiki/manifest.json'),'utf8'));
 const ledger=JSON.parse(fs.readFileSync(path.join(root,'editorial/crosslinks/index.json'),'utf8'));
@@ -17,7 +19,7 @@ function checkRef(ref,n){
  exact(ref,['doc_id','section'],n);safe(ref.doc_id,n+'.doc_id',90);safe(ref.section,n+'.section',200);
  const d=docs.get(ref.doc_id);if(!d)fail(n+': unknown document '+ref.doc_id);
  const body=fs.readFileSync(path.join(root,d.path),'utf8');
- const headings=Array.from(body.matchAll(/^#{1,6}[ \t]+(.+?)[ \t]*$/gm),m=>m[1].trim());
+ const headings=Array.from(withoutOriginals(body).matchAll(/^#{1,6}[ \t]+(.+?)[ \t]*$/gm),m=>m[1].trim());
  if(headings.filter(h=>h===ref.section).length!==1)fail(n+': missing or ambiguous section '+ref.section);
 }
 exact(ledger,['version','description','proposals'],'index');

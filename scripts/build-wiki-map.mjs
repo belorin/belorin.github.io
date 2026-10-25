@@ -53,10 +53,13 @@ function outline(markdown) {
   const lines = markdown.replace(/\r\n/g, "\n").split("\n");
   if (!/^# /.test(lines[0] ?? "")) fail("expected a first-level heading");
   const sections = [{ level: 1, title: "(도입부)", start: 2, lines: [] }];
-  let fenced = false;
+  let fenced = false, original = false;
   lines.slice(1).forEach((line, i) => {
     if (line.trim().startsWith("```")) fenced = !fenced;
-    const heading = !fenced && line.match(/^(#{2,4})[ \t]+(.+?)[ \t]*$/);
+    // Headings inside a folded ":::원본 … :::" block (FICTION.md) belong to the old text.
+    if (/^:::\s*원본(?:\s|$)/.test(line.trim())) original = true;
+    else if (original && line.trim() === ":::") original = false;
+    const heading = !fenced && !original && line.match(/^(#{2,4})[ \t]+(.+?)[ \t]*$/);
     if (heading) sections.push({ level: heading[1].length, title: heading[2].trim(), start: i + 2, lines: [line] });
     else sections.at(-1).lines.push(line);
   });
