@@ -780,7 +780,8 @@
         "deleuze-negation-history",
         "deleuze-control-marx-future",
         "post-deleuze-novelty-thinkers",
-        "deleuze-number-intensity-spatium"
+        "deleuze-number-intensity-spatium",
+        "freud-before-anti-oedipus"
       ],
       "order": 32
     },
@@ -1149,7 +1150,10 @@
       "related": [
         "deleuze-becoming-new",
         "deleuze-control-marx-future",
-        "deleuze-number-intensity-spatium"
+        "deleuze-number-intensity-spatium",
+        "hegel-fichte-schelling-difference",
+        "deleuze-unthinkable-fold-thought",
+        "freud-before-anti-oedipus"
       ],
       "aliases": [
         "들뢰즈와 부정",
@@ -2817,7 +2821,7 @@
       "title": "수에서 비동등한 것은 무엇을 하는가: 기수·서수, 강도와 들뢰즈의 spatium",
       "category": "철학",
       "status": "내부 총합 · 수식 및 원전 용례 재검증 필요",
-      "summary": "유리수·무리수와 기수·서수의 수학적 구별부터 강도적 spatium, 플라톤의 세계 영혼과 중항을 검토하고 불확실한 산식의 판독을 보류한다.",
+      "summary": "기수·서수와 강도적 spatium에 더해 소여와 가치, 감각적 잡다, 카르노·퀴리의 원리, 강도의 질화·연장·자기소멸을 구분한다.",
       "tags": [
         "들뢰즈",
         "기수",
@@ -2825,7 +2829,12 @@
         "무리수",
         "비동등성",
         "spatium",
-        "세계 영혼"
+        "세계 영혼",
+        "카르노",
+        "퀴리",
+        "감성",
+        "소여",
+        "질화"
       ],
       "aliases": [
         "수의 기수와 서수",
@@ -3236,6 +3245,95 @@
         "미리보기 크롤링",
         "판권면 OCR",
         "서점 도서정보 API"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "id": "hegel-fichte-schelling-difference",
+      "path": "wiki/hegel-fichte-schelling-difference.md",
+      "publish": true,
+      "order": 100,
+      "title": "헤겔의 『피히테와 셸링 철학 체계의 차이』: 주관의 동일성과 절대적 동일성",
+      "category": "철학",
+      "status": "내부 총합 · 원전 문구·비교 해석 재검토 필요",
+      "updated": "2026-10-25",
+      "summary": "피히테의 자아·비자아가 남기는 대립, 셸링의 자연과 정신, 헤겔의 동일성과 비동일성 및 초기·후기 평가의 차이를 읽는다.",
+      "tags": [
+        "헤겔",
+        "피히테",
+        "셸링",
+        "동일성",
+        "비동일성",
+        "독일 관념론"
+      ],
+      "source": "내부 총합 · 접근 가능한 논의 및 예시만 사용 · 외부 재조사 없음",
+      "related": [
+        "deleuze-negation-history"
+      ],
+      "aliases": [
+        "피히테와 셸링의 철학 체계의 차이",
+        "헤겔 초기 동일성",
+        "형식과 본질"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "id": "deleuze-unthinkable-fold-thought",
+      "path": "wiki/deleuze-unthinkable-fold-thought.md",
+      "publish": true,
+      "order": 101,
+      "title": "사유의 중심에 접혀 있는 불가능자: 생각할 수 없음이 생각을 움직일 때",
+      "category": "철학",
+      "status": "내부 총합 · 원전 문구·비교 해석 재검토 필요",
+      "updated": "2026-10-25",
+      "summary": "사유의 내부에 안-주름잡힌 불가능성을 죽음·자기인식·사랑의 비유와 사유에 대한 강제라는 문제로 구별해 설명한다.",
+      "tags": [
+        "들뢰즈",
+        "사유",
+        "불가능자",
+        "안-주름",
+        "강제된 사유"
+      ],
+      "source": "내부 총합 · 접근 가능한 논의 및 예시만 사용 · 외부 재조사 없음",
+      "related": [
+        "deleuze-negation-history"
+      ],
+      "aliases": [
+        "사유의 불가능자",
+        "안주름",
+        "사유의 내부의 접힘"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "id": "freud-before-anti-oedipus",
+      "path": "wiki/freud-before-anti-oedipus.md",
+      "publish": true,
+      "order": 102,
+      "title": "『안티 오이디푸스』 전에 읽는 프로이트: 한 권과 두 권의 선택",
+      "category": "철학",
+      "status": "내부 총합 · 원전 문구·비교 해석 재검토 필요",
+      "updated": "2026-10-25",
+      "summary": "한 권은 『정신분석 입문』, 두 권은 『꿈의 해석』과 『성욕에 관한 세 편의 에세이』로 읽는 목적과 선택 근거를 구분한다.",
+      "tags": [
+        "프로이트",
+        "안티 오이디푸스",
+        "꿈의 해석",
+        "정신분석 입문",
+        "성욕에 관한 세 편의 에세이"
+      ],
+      "source": "내부 총합 · 접근 가능한 논의 및 예시만 사용 · 외부 재조사 없음",
+      "related": [
+        "deleuze-becoming-new",
+        "deleuze-negation-history"
+      ],
+      "aliases": [
+        "안티 오이디푸스 사전 독서",
+        "프로이트 입문서 추천",
+        "반오이디푸스 읽기"
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-25"

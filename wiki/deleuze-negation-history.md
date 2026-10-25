@@ -73,6 +73,9 @@
 
 ## 관련 문서
 
+- [헤겔의 피히테·셸링 비교](./hegel-fichte-schelling-difference.md)
+- [사유의 불가능자와 내부의 접힘](./deleuze-unthinkable-fold-thought.md)
+- [『안티 오이디푸스』를 위한 프로이트 독서](./freud-before-anti-oedipus.md)
 - [비동등한 수와 들뢰즈의 spatium](./deleuze-number-intensity-spatium.md)
 - [들뢰즈: 생성과 새로운 것의 철학](./deleuze-becoming-new.md)
 - [통제사회, 마르크스, 말년의 미래관](./deleuze-control-marx-future.md)
