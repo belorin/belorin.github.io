@@ -1,6 +1,6 @@
 # AI 편집 지침
 
-> **대화 지식의 총합·증보 작업:** 먼저 [WIKI_PROTOCOL.md](./WIKI_PROTOCOL.md)를 읽는다. **위키 전체 정비**를 요청받았을 때는 [MAINTENANCE.md](./MAINTENANCE.md)를 따른다. **글을 수정할 때는 `wiki/*.md`를 고치고, `notes.json`은 직접 작성하지 않는다.** 생성물(`notes.json`, AI 색인, `llms.txt`)은 `main`에 커밋되면 GitHub Actions가 자동으로 재생성·커밋·배포하므로 직접 만들지 않는다. **브랜치·PR을 만들지 말고 `main`에 직접 커밋한다.**
+> **대화 지식의 총합·증보 작업:** 먼저 [WIKI_PROTOCOL.md](./WIKI_PROTOCOL.md)를 읽는다. **위키 전체 정비**를 요청받았을 때는 [MAINTENANCE.md](./MAINTENANCE.md)를, 기존 문서들을 엮는 **종합**(교차 종합·개념 길잡이·편집 비평)을 요청받았을 때는 [SYNTHESIS.md](./SYNTHESIS.md)를 따른다. **글을 수정할 때는 `wiki/*.md`를 고치고, `notes.json`은 직접 작성하지 않는다.** 생성물(`notes.json`, AI 색인, `llms.txt`)은 `main`에 커밋되면 GitHub Actions가 자동으로 재생성·커밋·배포하므로 직접 만들지 않는다. **브랜치·PR을 만들지 말고 `main`에 직접 커밋한다.**
 
 이 저장소는 https://belorin.github.io 에 게시되는 공개 개인 위키다. 사용자의 대화를 주제별로 연결하고 갱신한다.
 
@@ -11,6 +11,7 @@
 - `editorial/crosslinks/index.json`: **간접적 유비·해석적 관계의 검토 대기 제안 장부**. 제안 내용을 자동으로 본문이나 의미 관계 정본에 집필하지 않는다.
 - `editorial/map/index.md`, `editorial/map/docs/<id>.md`, `editorial/map/knowledge.md`: **자동 생성 편집 지도**(`scripts/build-wiki-map.mjs`). 미게시 포함 모든 원고의 제목·별칭 한 줄 지도, 문서별 카드(요약·소제목 경로·절별 줄 범위·분량·해시·첫 문장·장부 반영 기록·관계·제안), 장부를 뒤집은 지식 표제 역색인(표제 → 문서·절 → 배치·보류 상태). 후보를 찾는 도구이며 본문 판정을 대신하지 않는다. 직접 수정하지 않는다.
 - `MAINTENANCE.md`, `editorial/maintenance/`: **정비 절차**와 그 기록. `queue.md`는 자동 생성 정비 대기열(`scripts/build-maintenance-queue.mjs`, 직접 수정 금지), `log.json`은 정비 버전 로그, `reports/<버전>.md`는 정비 보고서. 일상 증보에서는 읽지 않는다.
+- `SYNTHESIS.md`: **종합 절차**. 종합 글은 manifest에 `kind: "synthesis"`, `synthesis_type`, `based_on`, `category: "종합"`을 가진 편집 해석이며 사이트·지도·색인에서 따로 표시된다. 종합 글은 사실 근거로 인용하지 않고, 대화 지식을 증보하지 않으며, 다른 종합의 근거로 쓰지 않는다(빌드가 검증). 일상 증보에서는 읽지 않는다.
 - `scripts/search-wiki.mjs`: 로컬에서 사용하는 문자 n-gram·연관 그래프 기반 후보 검색(임베딩 아님). 일반 채팅에서 실행할 수 없으면 색인과 Markdown을 읽고 AI가 의미를 비교한다.
 - `scripts/validate-crosslinks.mjs` / `scripts/test-crosslinks.mjs`: 제안 근거 절과 편집 상태, 오프라인 검색 검증.
 - `AI_INDEX.md`, `ai/index.json`, `ai/relations.json`, `llms.txt`: **자동 생성 AI 탐색 자료**. 외부 공개 대상은 `publish:true`만이며 생성물을 직접 수정하지 않는다.

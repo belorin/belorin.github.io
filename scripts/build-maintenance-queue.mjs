@@ -68,14 +68,16 @@ const bigrams = text => {
   }
   return set;
 };
-const signature = new Map(docs.map(d => [d.id, bigrams([d.title, ...(d.aliases ?? []), ...headings(d.id).filter(h => !GENERIC.has(h))].join(" "))]));
+// Syntheses resemble their basis by design, so they are left out of similarity pairs.
+const articles = docs.filter(d => d.kind !== "synthesis");
+const signature = new Map(articles.map(d => [d.id, bigrams([d.title, ...(d.aliases ?? []), ...headings(d.id).filter(h => !GENERIC.has(h))].join(" "))]));
 const similar = [];
-for (let i = 0; i < docs.length; i++) for (let j = i + 1; j < docs.length; j++) {
-  const a = signature.get(docs[i].id), b = signature.get(docs[j].id);
+for (let i = 0; i < articles.length; i++) for (let j = i + 1; j < articles.length; j++) {
+  const a = signature.get(articles[i].id), b = signature.get(articles[j].id);
   let shared = 0;
   for (const g of a) if (b.has(g)) shared++;
   const score = shared / (a.size + b.size - shared || 1);
-  similar.push({ a: docs[i].id, b: docs[j].id, score });
+  similar.push({ a: articles[i].id, b: articles[j].id, score });
 }
 similar.sort((x, y) => y.score - x.score || x.a.localeCompare(y.a) || x.b.localeCompare(y.b));
 

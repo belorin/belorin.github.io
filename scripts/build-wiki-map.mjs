@@ -28,6 +28,7 @@ const byId = new Map(docs.map(d => [d.id, d]));
 
 function fail(message) { throw Error(message); }
 const count = n => n.toLocaleString("en-US");
+const SYNTHESIS_LABELS = { cross: "교차 종합", concept: "개념 길잡이", critique: "편집 비평" };
 const hash = text => crypto.createHash("sha256").update(text).digest("hex").slice(0, 8);
 const plain = text => text
   .replace(/!?\[([^\]]*)\]\([^)]*\)/g, "$1")
@@ -108,6 +109,11 @@ for (const doc of docs) {
   if (doc.tags?.length) card.push("- 태그: " + doc.tags.join(", "));
   card.push(`- 수정일: ${doc.updated ?? "없음"} · 실제 증보일: ${doc.last_enriched_on ?? "미확인"} · 검토: ${doc.review_state ?? "없음"}`);
   if (doc.related?.length) card.push("- 관련 문서: " + doc.related.map(id => `\`${id}\``).join(", "));
+  if (doc.kind === "synthesis") {
+    card.push(`- **종합(${SYNTHESIS_LABELS[doc.synthesis_type]})**: 편집 해석이다. 사실 근거로 인용하지 않으며 대화 지식을 이 글에 증보하지 않는다. 근거 문서: ${doc.based_on.map(id => `\`${id}\``).join(", ")}`);
+  }
+  const usedBy = docs.filter(d => d.based_on?.includes(doc.id));
+  if (usedBy.length) card.push("- 이 문서를 근거로 쓴 종합: " + usedBy.map(d => `\`${d.id}\``).join(", "));
 
   card.push("", "## 절 목차", "");
   card.push("들여쓰기가 소제목 경로(상위 절 아래의 하위 절)다. `L시작–끝`은 원고 파일에서 그 절 고유 부분(하위 절 제외)의 줄 범위, 글자 수는 그 본문 분량, 8자리 해시는 그 줄들의 내용 지문으로 원고가 바뀌면 달라진다. 첫 문장은 위치 확인용이며 절의 내용을 대표하지 않는다.", "");
@@ -150,15 +156,20 @@ map.push("# 위키 전체 지도", "");
 map.push("> 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 미게시 원고를 포함한 **모든 원고**를 한 줄씩 싣는다.");
 map.push("> 사용 순서: ① 채팅에서 추출한 지식 항목마다 아래 제목·별칭으로 후보를 찾는다 → ② 후보의 문서 카드 `editorial/map/docs/<id>.md`에서 절 목차와 장부 기록을 본다 → ③ 해당 절 본문을 읽고 대조한다. 전문으로 넓히는 조건은 WIKI_PROTOCOL §8A를 따른다.");
 map.push("> 지도와 카드는 후보를 찾는 도구일 뿐이다. 중복·반영 여부는 원고 본문을 읽고 판정한다.", "");
-map.push(`원고 ${docs.length}개 (미게시 ${docs.filter(d => !d.publish).length}) · 절 ${count(sectionTotal)}개 · 장부 지식 항목 ${ledgerItems}개`, "");
+const synthesisCount = docs.filter(d => d.kind === "synthesis").length;
+map.push(`원고 ${docs.length - synthesisCount}개 (미게시 ${docs.filter(d => !d.publish && d.kind !== "synthesis").length})${synthesisCount ? ` · 종합 ${synthesisCount}편` : ""} · 절 ${count(sectionTotal)}개 · 장부 지식 항목 ${ledgerItems}개`, "");
 map.push("형식: `id` 제목 — 별칭 · 절 수 · 분량 · 장부 기록 수. 장부 없음은 장부 도입 이전 원고이거나 기록이 없는 원고이며, 내용이 없다는 뜻이 아니다.", "");
 map.push("특정 논점이 이미 처리되었는지는 [지식 표제 역색인](knowledge.md)에서 낱말로 **검색**한다(통째로 읽지 않는다). 장부가 없는 원고는 문서 카드의 절 목차로 찾는다.", "");
-for (const [category, list] of [...categories].sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0], "ko"))) {
+// The synthesis group (category 종합) always comes last, apart from the knowledge articles.
+const mapOrder = ([a, x], [b, y]) => (a === "종합") - (b === "종합") || y.length - x.length || a.localeCompare(b, "ko");
+for (const [category, list] of [...categories].sort(mapOrder)) {
   map.push(`## ${category} (${list.length})`, "");
+  if (category === "종합") map.push("편집 해석(SYNTHESIS.md). 지식 원고가 아니며 사실 근거로 인용하지 않는다. 대화 지식을 증보할 후보로 삼지 않는다.", "");
   for (const { doc, chars, sectionCount, ledgerCount } of list) {
     const alias = doc.aliases?.length ? " — " + doc.aliases.join(", ") : "";
     const ledgerNote = ledgerCount ? `장부 ${ledgerCount}건` : "장부 없음";
-    map.push(`- \`${doc.id}\` ${doc.title}${alias} · ${sectionCount}절 · ${(chars / 1000).toFixed(1)}천 자 · ${ledgerNote}${doc.publish ? "" : " · 미게시"}`);
+    const kindNote = doc.kind === "synthesis" ? ` · ${SYNTHESIS_LABELS[doc.synthesis_type]} · 근거 ${doc.based_on.length}편` : ` · ${ledgerNote}`;
+    map.push(`- \`${doc.id}\` ${doc.title}${alias} · ${sectionCount}절 · ${(chars / 1000).toFixed(1)}천 자${kindNote}${doc.publish ? "" : " · 미게시"}`);
   }
   map.push("");
 }

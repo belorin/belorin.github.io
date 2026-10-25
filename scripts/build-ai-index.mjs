@@ -49,7 +49,9 @@ const buildOutputs=function buildOutputs(manifest,relationSource){
    published:true,review_state:d.review_state,review_label:d.status,last_updated_on:d.updated,
    last_enriched_on:d.last_enriched_on||null,
    last_enriched_note:d.last_enriched_on?"explicitly_recorded":"not_recorded_for_legacy_content",
-   related_ids:d.related,markdown_url:raw+d.path,github_url:gh+d.path,page_url:site+"#"+d.id
+   related_ids:d.related,
+   ...(d.kind?{kind:d.kind,synthesis_type:d.synthesis_type,based_on:d.based_on,note:"편집 해석. 사실 근거로 인용하지 않는다."}:{}),
+   markdown_url:raw+d.path,github_url:gh+d.path,page_url:site+"#"+d.id
   }))
  };
  const relations={
@@ -70,13 +72,14 @@ const buildOutputs=function buildOutputs(manifest,relationSource){
   "2. 고른 문서의 Markdown 원문 링크를 실제로 열어 읽는다. 목록의 한 줄 설명만으로 내용을 단정하거나 인용하지 않는다.",
   "3. 웹사이트 주소 `"+site+"#<문서-id>`는 자바스크립트로 본문을 그리므로 HTML만 받으면 본문이 없다. 같은 문서의 원문은 `"+raw+"wiki/<문서-id>.md`이다.",
   "4. 답할 때는 근거가 된 문서와 절 제목을 밝힌다. 원문에 없는 내용은 위키 밖의 지식이나 추론임을 구분한다.",
+  "5. 맨 아래 '종합' 묶음은 여러 문서를 엮은 편집 해석이다. 생각의 실마리로 쓰되 사실의 근거로 인용하지 말고, 각 글이 밝힌 근거 문서를 읽는다.",
   "","## Navigation","",
   "- [AI metadata index]("+site+"ai/index.json): Document IDs, aliases, review state and dates.",
   "- [Typed relations]("+site+"ai/relations.json): Related and curated semantic links.",
   "- [Markdown index]("+site+"AI_INDEX.md): Browsable public article catalog.",
   "- [Website]("+site+"): Human reading interface.",
   "","## Published Markdown articles",""];
- const cats=[...new Set(docs.map(d=>d.category))];
+ const cats=[...new Set(docs.filter(d=>!d.kind).map(d=>d.category))];
  for(const c of cats){
   md.push("## "+c,"");ll.push("### "+c,"");
   for(const d of docs.filter(x=>x.category===c)){
@@ -84,6 +87,19 @@ const buildOutputs=function buildOutputs(manifest,relationSource){
    md.push("  - "+d.summary);
    md.push("  - [웹페이지]("+site+"#"+d.id+") · [직접 Markdown]("+raw+d.path+")");
    ll.push("- ["+d.title+"]("+raw+d.path+"): "+d.summary);
+  }
+  md.push("");ll.push("");
+ }
+ const syntheses=docs.filter(d=>d.kind==="synthesis");
+ if(syntheses.length){
+  const label={cross:"교차 종합",concept:"개념 길잡이",critique:"편집 비평"};
+  md.push("## 종합 (편집 해석 · 사실 근거 아님)","","> 여러 문서를 엮은 편집 해석이다. 사실 근거로 인용하지 않고, 각 글의 근거 문서를 읽는다.","");
+  ll.push("### 종합 (편집 해석 · 사실 근거 아님)","");
+  for(const d of syntheses){
+   md.push("- **["+d.title+"]("+d.path+")** · "+label[d.synthesis_type]+" · 근거: "+d.based_on.join(", ")+" · 수정: "+d.updated);
+   md.push("  - "+d.summary);
+   md.push("  - [웹페이지]("+site+"#"+d.id+") · [직접 Markdown]("+raw+d.path+")");
+   ll.push("- ["+d.title+"]("+raw+d.path+"): ["+label[d.synthesis_type]+"] "+d.summary);
   }
   md.push("");ll.push("");
  }

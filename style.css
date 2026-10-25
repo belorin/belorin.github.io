@@ -1,6 +1,7 @@
 :root {
   --bg:#f9f8f4; --paper:#fffefa; --ink:#252b29; --muted:#66716a;
   --line:#dfe3db; --accent:#34654b; --light:#edf3ec; --soft:#f2f4ef;
+  --synth:#7a4686; --synth-light:#f6eff8;
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
@@ -61,6 +62,14 @@ kbd{border:1px solid var(--line);border-radius:3px;padding:0 5px;background:var(
 .compact-list .item-title{font-size:14px;line-height:1.5;font-weight:550}
 .item-date{font-size:11px;color:var(--muted);white-space:nowrap}
 .meta{font-size:12px;color:var(--accent)}
+.badge-synthesis{display:inline-block;font-size:11px;font-weight:650;line-height:1.5;color:var(--synth);background:var(--synth-light);border:1px solid color-mix(in srgb,var(--synth) 30%,transparent);border-radius:4px;padding:0 6px;margin-right:4px;vertical-align:1px;white-space:nowrap}
+.is-synthesis .reader-header h1{color:var(--synth)}
+.synthesis-note{margin:18px 0 22px;padding:12px 15px;border-left:3px solid var(--synth);background:var(--synth-light);border-radius:0 8px 8px 0;font-size:13px;line-height:1.7}
+.synthesis-note strong{color:var(--synth);margin-right:6px}
+.synthesis-basis{display:block;margin-top:6px;color:var(--muted)}
+.synthesis-basis a{color:var(--synth);text-decoration:underline}
+.topic.synthesis{color:var(--synth);background:var(--synth-light);border-color:color-mix(in srgb,var(--synth) 30%,transparent)}
+.filters .synthesis{color:var(--synth)}
 .list-summary{font-size:13px;color:var(--muted);line-height:1.65;margin:5px 0}
 .list-item{padding:19px 0;border-bottom:1px solid var(--line)}
 .list-item h2{font-size:19px;letter-spacing:-.4px;margin:5px 0;line-height:1.45}
