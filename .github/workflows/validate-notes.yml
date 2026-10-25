@@ -9,6 +9,7 @@ on:
       - "scripts/build-notes.mjs"
       - ".github/workflows/deploy-pages.yml"
       - "scripts/build-ai-index.mjs"
+      - "scripts/build-wiki-map.mjs"
       - "ai/**"
       - "AI_INDEX.md"
       - "llms.txt"
@@ -30,6 +31,7 @@ on:
       - "scripts/build-notes.mjs"
       - ".github/workflows/deploy-pages.yml"
       - "scripts/build-ai-index.mjs"
+      - "scripts/build-wiki-map.mjs"
       - "ai/**"
       - "AI_INDEX.md"
       - "llms.txt"
@@ -56,6 +58,7 @@ jobs:
       # 생성물은 커밋하지 않아도 된다: CI에서 생성한 뒤 검증한다 (main 배포는 deploy-pages.yml).
       - run: node scripts/build-notes.mjs
       - run: node scripts/build-ai-index.mjs
+      - run: node scripts/build-wiki-map.mjs
       - run: node scripts/validate-editorial.mjs
       - run: node scripts/test-editorial.mjs
       - run: node scripts/validate-crosslinks.mjs
