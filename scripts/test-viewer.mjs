@@ -12,7 +12,15 @@ notes.push({id: 'viewer-test-synthesis', title: '시험 종합', category: '종�
   related: [basisA.id, basisB.id], kind: 'synthesis', synthesis_type: 'cross',
   based_on: [basisA.id, basisB.id],
   body: '## 질문\n[근거](#' + basisA.id + ')와 [근거](#' + basisB.id + ')를 엮는다.'});
-const articleCount = notes.filter(n => n.kind !== 'synthesis').length;
+// An in-memory novel: a work counted in totals, chapters reached only through it.
+notes.push({id: 'viewer-test-novel', title: '시험 소설', category: '소설', status: '시험', updated: '1900-01-01',
+  summary: '시험용 소설', tags: [], source: '시험', related: [], kind: 'fiction', fiction_part: 'work', revised: true,
+  body: '## 목차\n- [1장](#viewer-test-novel-01)\n- [2장](#viewer-test-novel-02)'});
+for (const n of [1, 2]) notes.push({id: 'viewer-test-novel-0' + n, title: '시험 소설 ' + n + '장', category: '소설',
+  status: '시험', updated: '1900-01-01', summary: n + '장', tags: [], source: '시험', related: [], kind: 'fiction',
+  fiction_part: 'chapter', work: 'viewer-test-novel', chapter: n, revised: n === 1,
+  body: '고친 문장이다.' + (n === 1 ? '\n\n:::원본 1장 초고\n고치기 전 **문장**이다.\n:::\n\n뒤 문단.' : '')});
+const articleCount = notes.filter(n => n.kind !== 'synthesis' && n.fiction_part !== 'chapter').length;
 const events = new Map();
 function element() {
   return {
@@ -90,6 +98,21 @@ assert.match(html(), /class="synthesis-note"/);
 assert.ok(html().includes('href="#' + basisA.id + '"') && html().includes('href="#' + basisB.id + '"'), 'Basis links missing');
 visit('#' + basisA.id);
 assert.match(html(), /시험 종합/, 'Basis article should list the synthesis among connected notes');
+
+visit('#viewer-test-novel-01');
+assert.match(html(), /class="reader is-fiction"/);
+assert.match(html(), /<span class="badge-fiction">소설 · 1장 · 개고본<\/span>/);
+assert.match(html(), /class="fiction-note"/);
+assert.match(html(), /<details class="original-text"><summary>1장 초고 — 개고 전 원본 보기<\/summary><div class="original-body"><p>고치기 전 <strong>문장<\/strong>이다.<\/p><\/div><\/details><p>뒤 문단.<\/p>/);
+assert.match(html(), /href="#viewer-test-novel">↑ 목차: 시험 소설<\/a>/);
+assert.match(html(), /href="#viewer-test-novel-02">다음 장 →/);
+assert.ok(!html().includes('이전 장'), 'First chapter has no previous chapter');
+visit('#viewer-test-novel-02');
+assert.match(html(), /href="#viewer-test-novel-01">← 이전 장/);
+assert.ok(!html().includes('fiction-note'), 'Unrevised chapter shows no revision note');
+nodes.get('#search').value = '';
+visit('#all');
+assert.ok(html().includes('시험 소설') && !html().includes('시험 소설 1장'), 'Works are listed, chapters are not');
 
 visit('#about');
 assert.match(html(), /운영과 원칙/);

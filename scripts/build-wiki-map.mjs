@@ -112,6 +112,9 @@ for (const doc of docs) {
   if (doc.kind === "synthesis") {
     card.push(`- **종합(${SYNTHESIS_LABELS[doc.synthesis_type]})**: 편집 해석이다. 사실 근거로 인용하지 않으며 대화 지식을 이 글에 증보하지 않는다. 근거 문서: ${doc.based_on.map(id => `\`${id}\``).join(", ")}`);
   }
+  if (doc.kind === "fiction") {
+    card.push(`- **소설(${doc.fiction_part === "chapter" ? `\`${doc.work}\`의 ${doc.chapter}장` : "작품"}${doc.revised ? " · 개고본" : ""})**: 창작 작품이다. 사실 근거로 인용하지 않으며 대화 지식을 증보할 대상이 아니다(FICTION.md).`);
+  }
   const usedBy = docs.filter(d => d.based_on?.includes(doc.id));
   if (usedBy.length) card.push("- 이 문서를 근거로 쓴 종합: " + usedBy.map(d => `\`${d.id}\``).join(", "));
 
@@ -159,18 +162,25 @@ const SPLIT_AT = Number(process.env.WIKI_MAP_SPLIT_AT) || 25000;
 const categoryDir = path.join(outDir, "categories");
 const categoryFile = category => category.replace(/[\s/]+/g, "-") + ".md";
 const synthesisCount = docs.filter(d => d.kind === "synthesis").length;
+// Totals count knowledge articles and novels (one per work); chapters and syntheses are reported apart.
+const counted = docs.filter(d => d.kind !== "synthesis" && d.fiction_part !== "chapter");
+const workCount = docs.filter(d => d.fiction_part === "work").length;
+const chapterCount = docs.filter(d => d.fiction_part === "chapter").length;
 const header = [
   "# 위키 전체 지도", "",
   "> 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 미게시 원고를 포함한 **모든 원고**를 싣는다.",
   "> 사용 순서: ① 채팅에서 추출한 지식 항목마다 제목·별칭으로 후보를 찾는다 → ② 후보의 문서 카드 `editorial/map/docs/<id>.md`에서 절 목차와 장부 기록을 본다 → ③ 해당 절 본문을 읽고 대조한다. 전문으로 넓히는 조건은 WIKI_PROTOCOL §4를 따른다.",
   "> 지도와 카드는 후보를 찾는 도구일 뿐이다. 중복·반영 여부는 원고 본문을 읽고 판정한다.", "",
-  `원고 ${docs.length - synthesisCount}개 (미게시 ${docs.filter(d => !d.publish && d.kind !== "synthesis").length})${synthesisCount ? ` · 종합 ${synthesisCount}편` : ""} · 절 ${count(sectionTotal)}개 · 장부 지식 항목 ${ledgerItems}개`, "",
+  `원고 ${counted.length}개 (미게시 ${counted.filter(d => !d.publish).length}${workCount ? `, 소설 ${workCount}편 포함` : ""})${chapterCount ? ` · 소설 장 문서 ${chapterCount}개` : ""}${synthesisCount ? ` · 종합 ${synthesisCount}편` : ""} · 절 ${count(sectionTotal)}개 · 장부 지식 항목 ${ledgerItems}개`, "",
   "특정 논점이 이미 처리되었는지는 [지식 표제 역색인](knowledge.md)에서 낱말로 **검색**한다(통째로 읽지 않는다). 장부가 없는 원고는 문서 카드의 절 목차로 찾는다.", "",
 ];
 const lineFormat = "형식: `id` 제목 — 별칭 · 절 수 · 분량 · 장부 기록 수. 장부 없음은 장부 도입 이전 원고이거나 기록이 없는 원고이며, 내용이 없다는 뜻이 아니다.";
 const synthesisNote = "편집 해석(SYNTHESIS.md). 지식 원고가 아니며 사실 근거로 인용하지 않는다. 대화 지식을 증보할 후보로 삼지 않는다.";
+const fictionNote = "창작 작품(FICTION.md). 일상 증보에서는 이 묶음을 순회하지 않는다. 작품당 한 줄이며 장별 문서는 각 작품의 목차와 카드에서 이어진다.";
 // The synthesis group (category 종합) always comes last, apart from the knowledge articles.
-const mapOrder = ([a, x], [b, y]) => (a === "종합") - (b === "종합") || y.length - x.length || a.localeCompare(b, "ko");
+// Novels (category 소설) come just before it; both are outside ordinary ingestion.
+const categoryRank = c => c === "종합" ? 2 : c === "소설" ? 1 : 0;
+const mapOrder = ([a, x], [b, y]) => categoryRank(a) - categoryRank(b) || y.length - x.length || a.localeCompare(b, "ko");
 const orderedCategories = [...categories].sort(mapOrder);
 const docLine = ({ doc, chars, sectionCount, ledgerCount }) => {
   const alias = doc.aliases?.length ? " — " + doc.aliases.join(", ") : "";
@@ -178,9 +188,15 @@ const docLine = ({ doc, chars, sectionCount, ledgerCount }) => {
   const kindNote = doc.kind === "synthesis" ? ` · ${SYNTHESIS_LABELS[doc.synthesis_type]} · 근거 ${doc.based_on.length}편` : ` · ${ledgerNote}`;
   return `- \`${doc.id}\` ${doc.title}${alias} · ${sectionCount}절 · ${(chars / 1000).toFixed(1)}천 자${kindNote}${doc.publish ? "" : " · 미게시"}`;
 };
+const fictionLine = ({ doc }) => {
+  const chapters = docs.filter(d => d.work === doc.id);
+  const chars = [doc, ...chapters].reduce((sum, d) => sum + fs.readFileSync(path.join(root, d.path), "utf8").trim().length, 0);
+  return `- \`${doc.id}\` ${doc.title} · ${chapters.length ? `${chapters.length}개 장` : "단편"} · ${(chars / 1000).toFixed(1)}천 자${doc.revised ? " · 개고본" : ""}${doc.publish ? "" : " · 미게시"}`;
+};
+const mapEntries = (category, list) => category === "소설" ? list.filter(({ doc }) => doc.fiction_part === "work") : list;
 const categoryBody = (category, list) => [
-  ...(category === "종합" ? [synthesisNote, ""] : []),
-  ...list.map(docLine), "",
+  ...(category === "종합" ? [synthesisNote, ""] : category === "소설" ? [fictionNote, ""] : []),
+  ...mapEntries(category, list).map(category === "소설" ? fictionLine : docLine), "",
 ];
 const single = [...header, lineFormat, ""];
 for (const [category, list] of orderedCategories) single.push(`## ${category} (${list.length})`, "", ...categoryBody(category, list));
@@ -195,7 +211,8 @@ if (!split) {
     const file = categoryFile(category);
     index.push(`## ${category} (${list.length}) → [분류 지도](categories/${encodeURI(file)})`, "");
     if (category === "종합") index.push(synthesisNote, "");
-    index.push(list.map(({ doc }) => `\`${doc.id}\``).join(" · "), "");
+    if (category === "소설") index.push(fictionNote, "");
+    index.push(mapEntries(category, list).map(({ doc }) => `\`${doc.id}\``).join(" · "), "");
     const page = [`# 분류 지도: ${category} (${list.length})`, "", "> 자동 생성. 직접 수정하지 않는다. [전체 지도로](../index.md)", "", lineFormat, "", ...categoryBody(category, list)];
     outputs.set(path.join(categoryDir, file), page.join("\n").trimEnd() + "\n");
   }

@@ -50,7 +50,8 @@ const buildOutputs=function buildOutputs(manifest,relationSource){
    last_enriched_on:d.last_enriched_on||null,
    last_enriched_note:d.last_enriched_on?"explicitly_recorded":"not_recorded_for_legacy_content",
    related_ids:d.related,
-   ...(d.kind?{kind:d.kind,synthesis_type:d.synthesis_type,based_on:d.based_on,note:"편집 해석. 사실 근거로 인용하지 않는다."}:{}),
+   ...(d.kind==="synthesis"?{kind:d.kind,synthesis_type:d.synthesis_type,based_on:d.based_on,note:"편집 해석. 사실 근거로 인용하지 않는다."}:{}),
+   ...(d.kind==="fiction"?{kind:d.kind,fiction_part:d.fiction_part,...(d.work?{work:d.work,chapter:d.chapter}:{}),...(d.revised?{revised:true}:{}),note:"소설. 사실 근거로 인용하지 않는다."}:{}),
    markdown_url:raw+d.path,github_url:gh+d.path,page_url:site+"#"+d.id
   }))
  };
@@ -73,6 +74,7 @@ const buildOutputs=function buildOutputs(manifest,relationSource){
   "3. 웹사이트 주소 `"+site+"#<문서-id>`는 자바스크립트로 본문을 그리므로 HTML만 받으면 본문이 없다. 같은 문서의 원문은 `"+raw+"wiki/<문서-id>.md`이다.",
   "4. 답할 때는 근거가 된 문서와 절 제목을 밝힌다. 원문에 없는 내용은 위키 밖의 지식이나 추론임을 구분한다.",
   "5. 맨 아래 '종합' 묶음은 여러 문서를 엮은 편집 해석이다. 생각의 실마리로 쓰되 사실의 근거로 인용하지 말고, 각 글이 밝힌 근거 문서를 읽는다.",
+  "6. '소설' 묶음은 창작 작품이다. 사실의 근거로 인용하지 않는다. 긴 작품은 작품 문서의 목차에서 장별 원문으로 이동한다. ':::원본'으로 감싼 부분은 개고 전 원문이다.",
   "","## Navigation","",
   "- [AI metadata index]("+site+"ai/index.json): Document IDs, aliases, review state and dates.",
   "- [Typed relations]("+site+"ai/relations.json): Related and curated semantic links.",
@@ -87,6 +89,19 @@ const buildOutputs=function buildOutputs(manifest,relationSource){
    md.push("  - "+d.summary);
    md.push("  - [웹페이지]("+site+"#"+d.id+") · [직접 Markdown]("+raw+d.path+")");
    ll.push("- ["+d.title+"]("+raw+d.path+"): "+d.summary);
+  }
+  md.push("");ll.push("");
+ }
+ const works=docs.filter(d=>d.kind==="fiction"&&d.fiction_part==="work");
+ if(works.length){
+  md.push("## 소설 (창작 작품 · 사실 근거 아님)","","> 장별 문서는 각 작품의 목차에서 이어진다.","");
+  ll.push("### 소설 (창작 작품 · 사실 근거 아님)","");
+  for(const d of works){
+   const n=docs.filter(x=>x.work===d.id).length;
+   md.push("- **["+d.title+"]("+d.path+")** · "+(n?n+"개 장":"단편")+(d.revised?" · 개고본":"")+" · 수정: "+d.updated);
+   md.push("  - "+d.summary);
+   md.push("  - [웹페이지]("+site+"#"+d.id+") · [직접 Markdown]("+raw+d.path+")");
+   ll.push("- ["+d.title+"]("+raw+d.path+"): [소설"+(n?" · "+n+"개 장":"")+"] "+d.summary);
   }
   md.push("");ll.push("");
  }
