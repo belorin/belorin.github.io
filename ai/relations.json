@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 478,
+  "edge_count": 482,
   "edges": [
     {
       "from": "living-notes",
@@ -2636,6 +2636,30 @@
     {
       "from": "qing-tributaries-dissolution",
       "to": "east-asia-telegraph-network-1880s",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hormuz-iran-war-naval-power-2026",
+      "to": "drone-asymmetric-warfare",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hormuz-iran-war-naval-power-2026",
+      "to": "south-asia-border-rivalries-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hormuz-iran-war-naval-power-2026",
+      "to": "black-sea-ukraine-sea-denial",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hormuz-iran-war-naval-power-2026",
+      "to": "war-escalation-local-to-world",
       "type": "related_to",
       "basis": "manifest.related"
     },

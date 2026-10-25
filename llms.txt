@@ -154,6 +154,7 @@
 - [러시아와 우크라이나는 얼마나 더 버틸 수 있는가: 소모전·병력 재생산·국가 내구도](https://belorin.github.io/notes/russia-ukraine-war-endurance/): 러시아 120만 사상자와 전사자 추정의 차이, 손실의 사회적 배분, 우크라이나의 병력·방공·재정 병목 및 전쟁 경로를 구분한다.
 - [남아시아의 세 국경: 인도·파키스탄·중국·아프가니스탄의 서로 다른 충돌 구조](https://belorin.github.io/notes/south-asia-border-rivalries-2026/): 카슈미르의 테러·보복, 인중 고산국경·댐 경쟁, 탈레반과 TTP를 둘러싼 아프간-파키스탄 충돌을 분리해 분석한다.
 - [전쟁은 아직 시작되지 않았지만 어디서 먼저 충돌할까: 2026년 분쟁 단층선 확률 순위](https://belorin.github.io/notes/global-flashpoints-likelihood-2026/): 파급력과 분리한 소규모 충돌 발발가능성 중심 순위와 교전 중 지역 제외 기준을 제시한다.
+- [호르무즈 해협은 왜 함대로 열 수 없는가: 2026년 이란전과 인도양 해군력](https://belorin.github.io/notes/hormuz-iran-war-naval-power-2026/): 차바하르와 인도 해군의 전략, 주요 해군의 전력 비교, 호르무즈 해상거부·소해·항행 복구, 미군 증원과 휴전 시나리오, 이란의 기지 공격 및 F-15E 손실 보도의 증거 수준을 구별한다.
 
 ### 영화
 

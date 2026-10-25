@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 754개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 761개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (6)
 
@@ -421,6 +421,75 @@
 - 한국 음악 세 곡과 우선 청취 네 곡 → `mood-led-music-listening` § 한국 음악으로 넓히는 별도의 갈래; `mood-led-music-listening` § 먼저 들어 볼 네 곡 · `ing-20261025-mood-led-music-listening`
 - 추가 탐색 방향과 청취 반응의 미확인 → `mood-led-music-listening` § 취향의 다음 분기와 판단 유보 · `ing-20261025-mood-led-music-listening`
 
+## 사회와 제도 (64)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 무주지와 비민간 토지의 구분 → `public-land-and-blm` § 무주지와 비민간 토지는 다르다 · `ing-20261023-soga-media-burning-ecosystem`
+- 블랙록 사막의 BLM 관리와 Special Recreation Permit → `public-land-and-blm` § 블랙록 사막은 누구의 땅인가 · `ing-20261023-soga-media-burning-ecosystem`
+- BLM의 multiple use 토지 운영 기능 → `public-land-and-blm` § BLM은 국립공원 관리청과 다른 종류의 기관이다 · `ing-20261023-soga-media-burning-ecosystem`
+- 호주·나미비아·사하라의 겹쳐진 토지 권리 사례 → `public-land-and-blm` § 호주: Crown land 위에 여러 권리가 겹친다; `public-land-and-blm` § 나미비아와 사하라·아라비아의 사막 · `ing-20261023-soga-media-burning-ecosystem`
+- 스토킹 피해의 손상과 침해 구분 → `stalking-harm-and-autonomy` § 손상과 침해를 분리하기 · `ing-20261024-stalking-harm-framework`
+- 관계하지 않을 자유와 관계종결 의사의 실효성 → `stalking-harm-and-autonomy` § 관계할 권리와 관계하지 않을 권리 · `ing-20261024-stalking-harm-framework`
+- 강제된 중요성과 자기창설적 관련성 → `stalking-harm-and-autonomy` § 강제된 중요성: 설명 개념이지 구성요건은 아니다; `stalking-harm-and-autonomy` § 정당화된 중요성과 자기창설적 관련성 · `ing-20261024-stalking-harm-framework`
+- 불법적 강제 중요성을 가르는 네 질문 → `stalking-harm-and-autonomy` § 불법성을 가르는 네 질문 · `ing-20261024-stalking-harm-framework`
+- 성적 스토킹의 비동의적 표상과 맥락 결부 → `stalking-harm-and-autonomy` § 성적 스토킹에서 가해자가 새로 만드는 것 · `ing-20261024-stalking-harm-framework`
+- 분노를 피해의 결여가 아니라 침해 인식으로 읽기 → `stalking-harm-and-autonomy` § 분노는 피해의 결여가 아니라 침해의 인식일 수 있다 · `ing-20261024-stalking-harm-framework`
+- 세계의 오염을 생활영역의 비자발적 재편으로 번역 → `stalking-harm-and-autonomy` § 세계의 오염을 법률어로 번역하기 · `ing-20261024-stalking-harm-framework`
+- 범죄 성립·보호조치·실제 손상의 절차적 분리 → `stalking-harm-and-autonomy` § 형사절차에서 세 층위를 분리하기 · `ing-20261024-stalking-harm-framework`
+- 『탁월한 피해자』의 비면식 스토킹과 형사사법 문제의식 → `excellent-victim-kwak-aram` § 책과 문제의식; `excellent-victim-kwak-aram` § 비면식 스토킹과 형사사법의 피해자 자리 · `ing-20261024-stalking-harm-framework`
+- 곽아람의 2026년 공개 활동과 사건 진행 시점 자료 → `excellent-victim-kwak-aram` § 2026년 공개 활동의 흐름; `excellent-victim-kwak-aram` § 사건 진행의 공개된 시점별 상태 · `ing-20261024-stalking-harm-framework`
+- 피해자의 회복을 가해자의 중요성이 낮아지는 상태로 보기 → `excellent-victim-kwak-aram` § 기록 이후의 방향: 사건의 사람이 되지 않기 · `ing-20261024-stalking-harm-framework`
+- 2026년 9월 유럽의 연속적 드론·영공·군사접촉 사건과 전쟁 임박 판단의 구분 → `europe-russia-escalation-signals-2026` § 며칠 사이 겹친 사건들 · `ing-20261024-war-escalation-drone-asymmetry`
+- NATO Article 4·Article 5와 DEFCON의 제도적 차이 → `europe-russia-escalation-signals-2026` § Article 4와 Article 5는 DEFCON이 아니다 · `ing-20261024-war-escalation-drone-asymmetry`
+- 러시아의 직접 지상전선 확대보다 회색지대 접촉면 확대가 갖는 비용·정보·정치적 의미 → `europe-russia-escalation-signals-2026` § 러시아의 ‘전선 확대’보다 ‘접촉면 확대’ · `ing-20261024-war-escalation-drone-asymmetry`
+- 2025년 에스토니아 영공침범 기사와 정례 NATO 회의가 최신 위기정보로 재유통되는 문제 → `europe-russia-escalation-signals-2026` § 재탕 뉴스가 전쟁 임박의 체감을 키우는 방식 · `ing-20261024-war-escalation-drone-asymmetry`
+- FSB 에스토니아 야간통행금지 루머에서 에스토니아 국경운영 결정·FSB 공지·기존 국경제도를 구분 → `europe-russia-escalation-signals-2026` § FSB와 에스토니아 ‘야간통행금지’ 루머 · `ing-20261024-war-escalation-drone-asymmetry`
+- 드론이 만드는 가격·생산시간·목표가치·정치적 귀속의 네 비대칭 → `drone-asymmetric-warfare` § 네 가지 비대칭 · `ing-20261024-war-escalation-drone-asymmetry`
+- 한반도에서 드론이 재래식 전력격차를 제거하기보다 방어비용과 전쟁 지속 가능성을 높이는 문제 → `drone-asymmetric-warfare` § 한반도에서 왜 특히 곤란한가; `drone-asymmetric-warfare` § 전쟁을 짧게 끝내는 격차가 약해질 수 있다 · `ing-20261024-war-escalation-drone-asymmetry`
+- 에티오피아·리비아·키르기스스탄-타지키스탄·말리·부르키나파소·수단의 드론전 사례 → `drone-asymmetric-warfare` § 에티오피아 티그라이 전쟁: 열세 정부군에 즉석 정밀공군을 제공하다; `drone-asymmetric-warfare` § 리비아 내전: 전투를 뒤집었지만 전쟁을 끝내지는 못하다; `drone-asymmetric-warfare` § 2022년 키르기스스탄-타지키스탄 국경전: 국경 총격전의 정밀타격화; `drone-asymmetric-warfare` § 말리와 부르키나파소: 먼 지역에 폭력을 투사할 수 있게 된 약한 정부; `drone-asymmetric-warfare` § 수단 내전: 지상전선이 움직여도 후방이 사라지지 않는다 · `ing-20261024-war-escalation-drone-asymmetry`
+- 드론은 전쟁을 해결하기보다 전투를 뒤집고 약한 세력의 생존기간과 후방 타격범위를 늘리는 경우가 많다는 비교 → `drone-asymmetric-warfare` § 다섯 사례가 보여주는 공통 결과 · `ing-20261024-war-escalation-drone-asymmetry`
+- 일본에서의 미니시어터발 흥행과 가족영화로의 수용 확장 → `dousureba-yokatta-family-psychiatry` § 일본에서 미니시어터발 사회현상이 된 이유 · `ing-20261025-dousureba-utsunomiya`
+- 의사 부모의 전문성과 정신과 임상 전문성의 구분 → `dousureba-yokatta-family-psychiatry` § 부모는 어느 정도의 의사였는가 · `ing-20261025-dousureba-utsunomiya`
+- 1983년 장기입원 회피와 정신과 진료 단절의 분리 평가 → `dousureba-yokatta-family-psychiatry` § 1983년의 출발점: 이미 정신과에 갔다가 치료 연결이 끊겼다 · `ing-20261025-dousureba-utsunomiya`
+- 1983~2008년 치료 선택지 변화에 따른 시기별 재평가 → `dousureba-yokatta-family-psychiatry` § 치료 판단을 시간축으로 다시 채점하기 · `ing-20261025-dousureba-utsunomiya`
+- 성인 남동생의 입원 결정권과 행정적 우회로의 구분 → `dousureba-yokatta-family-psychiatry` § 왜 남동생이 부모를 뿌리치고 누나를 데려가지 못했는가; `dousureba-yokatta-family-psychiatry` § 그렇다고 동생에게 아무 우회로도 없었던 것은 아니다 · `ing-20261025-dousureba-utsunomiya`
+- 한일 가족책임 차이를 가족 무관심이 아닌 책임의 분절로 해석 → `dousureba-yokatta-family-psychiatry` § 한국과 일본의 가족 개입 문화는 어떻게 다른가; `dousureba-yokatta-family-psychiatry` § “각 관계에는 주인이 있다”는 해석 · `ing-20261025-dousureba-utsunomiya`
+- 우쓰노미야 병원의 인력부족·환자 노동·무자격 의료 구조 → `utsunomiya-psychiatric-hospital-reform` § 944명의 환자와 턱없이 부족한 의료인력; `utsunomiya-psychiatric-hospital-reform` § 환자 노동과 무자격 의료 · `ing-20261025-dousureba-utsunomiya`
+- 543명 재심사와 퇴원 불가능성이 드러낸 사회적 입원 → `utsunomiya-psychiatric-hospital-reform` § 543명 전수 재심사와 “사회적 입원” · `ing-20261025-dousureba-utsunomiya`
+- 우쓰노미야 사건 이후 국제비판과 1987년 정신보건법 개정 → `utsunomiya-psychiatric-hospital-reform` § 1985년 국제조사단이 본 일본 정신의료; `utsunomiya-psychiatric-hospital-reform` § 1987년 정신보건법 개정 · `ing-20261025-dousureba-utsunomiya`
+- 1990년대 이후 반복된 정신병원 인권침해와 감독 실패 사례 → `utsunomiya-psychiatric-hospital-reform` § 1990년대 이후 반복된 주요 사건 · `ing-20261025-dousureba-utsunomiya`
+- 2024년 정신과병원 학대 신고의무와 첫 전국 집계 → `utsunomiya-psychiatric-hospital-reform` § 2024년부터 전국화된 학대 신고의무 · `ing-20261025-dousureba-utsunomiya`
+- 우쓰노미야의 교훈과 1983년 치료거부를 구분하는 기준 → `utsunomiya-psychiatric-hospital-reform` § 《어떻게 해야 했을까》의 1983년을 다시 보는 법 · `ing-20261025-dousureba-utsunomiya`
+- 흑해함대 3분의 1 무력화 발언의 분모와 해상무인정 단독 기여 해석의 구분 → `black-sea-ukraine-sea-denial` § 군함의 3분의 1이라는 말의 범위 · `ing-20261026-war-resilience-border-faultlines`
+- 흑해의 제해권과 해상거부를 구별하는 기능별 분석 → `black-sea-ukraine-sea-denial` § 함대의 수와 바다를 사용할 권리는 다르다 · `ing-20261026-war-resilience-border-faultlines`
+- 흑해 구역별 통제와 오데사 수출 회랑의 회복 및 잔여 타격 위험 → `black-sea-ukraine-sea-denial` § 어느 바다를 누가 장악하는가 · `ing-20261026-war-resilience-border-faultlines`
+- 드론 정찰 타격 전자전 결합으로 지상 기동을 제한하는 구조 → `ukraine-ground-drone-defense` § 정찰-타격-전자전의 결합 · `ing-20261026-war-resilience-border-faultlines`
+- 드론 표적 파괴 비중과 사상자 비중의 서로 다른 분모 → `ukraine-ground-drone-defense` § 드론 80%라는 수치의 함정 · `ing-20261026-war-resilience-border-faultlines`
+- AI 정보처리와 지상무인차량 보급을 지상 드론 전투와 구별 → `ukraine-ground-drone-defense` § AI의 실제 위치: 판단을 압축하되 완전히 대체하지는 않는다 · `ing-20261026-war-resilience-border-faultlines`
+- 무인체계 제거 반사실과 30·40~60% 기여율의 정량 검증 한계 → `ukraine-ground-drone-defense` § 반사실적 질문: 무인체계가 없었다면 몇 퍼센트 더 못 버텼을까 · `ing-20261026-war-resilience-border-faultlines`
+- 러시아의 무인체계 학습과 상호 기동거부로의 변화 → `ukraine-ground-drone-defense` § 러시아도 배웠다: 비대칭 우위에서 상호거부 전장으로 · `ing-20261026-war-resilience-border-faultlines`
+- 러시아군 120만 사상자 추정과 약 30만 전사자 추정의 구별 → `russia-ukraine-war-endurance` § 120만 사상자와 30만 전사자는 다르다 · `ing-20261026-war-resilience-border-faultlines`
+- 러시아 모병과 정치적 손실 흡수 및 숙련병 재생산의 차이 → `russia-ukraine-war-endurance` § 국가의 손상과 정권의 위험은 왜 엇갈리는가 · `ing-20261026-war-resilience-border-faultlines`
+- 러시아 전사자 누적 단계표를 정치적 임계선으로 해석하지 않는 방법 → `russia-ukraine-war-endurance` § 전사자가 몇 명이면 러시아가 멈출까 · `ing-20261026-war-resilience-border-faultlines`
+- 우크라이나 보병 교대 방공 서방 재정의 내구도 병목 → `russia-ukraine-war-endurance` § 우크라이나 내구도의 병목: 전선에는 사람이 필요하다 · `ing-20261026-war-resilience-border-faultlines`
+- 장기 소모전 휴전 국지돌파 반격의 전망과 비정규화 확률 구분 → `russia-ukraine-war-endurance` § 가까운 시기의 네 경로와 전망치의 한계 · `ing-20261026-war-resilience-border-faultlines`
+- 인도 파키스탄 2025년 5월 충돌과 테러 보복 확대 경로 → `south-asia-border-rivalries-2026` § 인도-파키스탄: 테러가 군사보복으로 번역되는 경로 · `ing-20261026-war-resilience-border-faultlines`
+- 인도 중국 2020년 갈완 충돌 2024년 라다크 이격 및 수자원 경쟁 → `south-asia-border-rivalries-2026` § 인도-중국: 2020년 충돌과 2024년 이격 · `ing-20261026-war-resilience-border-faultlines`
+- 아프간 탈레반과 파키스탄 TTP의 조직 구별과 전략적 후방의 역설 → `south-asia-border-rivalries-2026` § 아프가니스탄-파키스탄: 두 탈레반과 하나의 국경 · `ing-20261026-war-resilience-border-faultlines`
+- 듀랜드 라인 파슈툰 공동체 난민 추방과 2026년 국경 직접 교전 → `south-asia-border-rivalries-2026` § 듀랜드 라인: 국경을 둘러싼 상충된 정당성 · `ing-20261026-war-resilience-border-faultlines`
+- 발발 가능성과 파급력의 순위 기준을 분리하고 이미 교전 중인 지역을 제외 → `global-flashpoints-likelihood-2026` § 무엇을 '발발'로 셀 것인가 · `ing-20261026-war-resilience-border-faultlines`
+- 태국 캄보디아 남중국해 카슈미르 등 소규모 충돌 발발 서열 → `global-flashpoints-likelihood-2026` § 발생 가능성만 고려한 서열 · `ing-20261026-war-resilience-border-faultlines`
+- 대만 한반도 러시아 NATO의 높은 파급력과 낮은 즉시 교전 가능성 구별 → `global-flashpoints-likelihood-2026` § 중요하지만 '첫 충돌 가능성'으로는 순위가 내려가는 곳 · `ing-20261026-war-resilience-border-faultlines`
+- 드론 일반 비대칭의 흑해 및 우크라이나 지상전 비교 → `drone-asymmetric-warfare` § 우크라이나에서 비대칭이 바다와 육지에 적용된 방식 · `ing-20261026-war-resilience-border-faultlines`
+- 차바하르에서 호르무즈까지: 하나의 항구가 드러낸 전략의 역설 → `hormuz-iran-war-naval-power-2026` § 차바하르에서 호르무즈까지: 하나의 항구가 드러낸 전략의 역설 · `ing-20261026-hormuz-indian-ocean-naval`
+- 인도양의 해군들: 숫자와 임무가 어긋나는 곳 → `hormuz-iran-war-naval-power-2026` § 인도양의 해군들: 숫자와 임무가 어긋나는 곳 · `ing-20261026-hormuz-indian-ocean-naval`
+- 함대를 이기는 것과 해협을 여는 것은 다르다 → `hormuz-iran-war-naval-power-2026` § 함대를 이기는 것과 해협을 여는 것은 다르다 · `ing-20261026-hormuz-indian-ocean-naval`
+- 어디까지 억제해야 하는가: 섬, 해안, 내륙 → `hormuz-iran-war-naval-power-2026` § 어디까지 억제해야 하는가: 섬, 해안, 내륙 · `ing-20261026-hormuz-indian-ocean-naval`
+- 전쟁을 닫는 작전과 전쟁을 키우는 작전 → `hormuz-iran-war-naval-power-2026` § 전쟁을 닫는 작전과 전쟁을 키우는 작전 · `ing-20261026-hormuz-indian-ocean-naval`
+- 걸프의 분산 기지와 이란의 비대칭 보복 → `hormuz-iran-war-naval-power-2026` § 걸프의 분산 기지와 이란의 비대칭 보복 · `ing-20261026-hormuz-indian-ocean-naval`
+- 전쟁의 종결은 무엇을 뜻하는가 → `hormuz-iran-war-naval-power-2026` § 전쟁의 종결은 무엇을 뜻하는가 · `ing-20261026-hormuz-indian-ocean-naval`
+
 ## 운영 (58)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -483,68 +552,6 @@
 - GPT 위키 제0호기와 후속 누적형 지식백과의 범위 차이 → `gpt-wiki-zero-prototype` § 제0호기와 후속 누적형 지식백과의 차이 · `ing-20261026-gpt-wiki-zero-prototype`
 - 원본 시각 미확인과 구현 여부의 보류 경계 → `gpt-wiki-zero-prototype` § 제0호기와 후속 누적형 지식백과의 차이 · `ing-20261026-gpt-wiki-zero-prototype`
 - 장기 기억 위키의 탐색·동기화·승인·공개 과제 → `gpt-wiki-zero-prototype` § 남겨진 설계 문제 · `ing-20261026-gpt-wiki-zero-prototype`
-
-## 사회와 제도 (57)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 무주지와 비민간 토지의 구분 → `public-land-and-blm` § 무주지와 비민간 토지는 다르다 · `ing-20261023-soga-media-burning-ecosystem`
-- 블랙록 사막의 BLM 관리와 Special Recreation Permit → `public-land-and-blm` § 블랙록 사막은 누구의 땅인가 · `ing-20261023-soga-media-burning-ecosystem`
-- BLM의 multiple use 토지 운영 기능 → `public-land-and-blm` § BLM은 국립공원 관리청과 다른 종류의 기관이다 · `ing-20261023-soga-media-burning-ecosystem`
-- 호주·나미비아·사하라의 겹쳐진 토지 권리 사례 → `public-land-and-blm` § 호주: Crown land 위에 여러 권리가 겹친다; `public-land-and-blm` § 나미비아와 사하라·아라비아의 사막 · `ing-20261023-soga-media-burning-ecosystem`
-- 스토킹 피해의 손상과 침해 구분 → `stalking-harm-and-autonomy` § 손상과 침해를 분리하기 · `ing-20261024-stalking-harm-framework`
-- 관계하지 않을 자유와 관계종결 의사의 실효성 → `stalking-harm-and-autonomy` § 관계할 권리와 관계하지 않을 권리 · `ing-20261024-stalking-harm-framework`
-- 강제된 중요성과 자기창설적 관련성 → `stalking-harm-and-autonomy` § 강제된 중요성: 설명 개념이지 구성요건은 아니다; `stalking-harm-and-autonomy` § 정당화된 중요성과 자기창설적 관련성 · `ing-20261024-stalking-harm-framework`
-- 불법적 강제 중요성을 가르는 네 질문 → `stalking-harm-and-autonomy` § 불법성을 가르는 네 질문 · `ing-20261024-stalking-harm-framework`
-- 성적 스토킹의 비동의적 표상과 맥락 결부 → `stalking-harm-and-autonomy` § 성적 스토킹에서 가해자가 새로 만드는 것 · `ing-20261024-stalking-harm-framework`
-- 분노를 피해의 결여가 아니라 침해 인식으로 읽기 → `stalking-harm-and-autonomy` § 분노는 피해의 결여가 아니라 침해의 인식일 수 있다 · `ing-20261024-stalking-harm-framework`
-- 세계의 오염을 생활영역의 비자발적 재편으로 번역 → `stalking-harm-and-autonomy` § 세계의 오염을 법률어로 번역하기 · `ing-20261024-stalking-harm-framework`
-- 범죄 성립·보호조치·실제 손상의 절차적 분리 → `stalking-harm-and-autonomy` § 형사절차에서 세 층위를 분리하기 · `ing-20261024-stalking-harm-framework`
-- 『탁월한 피해자』의 비면식 스토킹과 형사사법 문제의식 → `excellent-victim-kwak-aram` § 책과 문제의식; `excellent-victim-kwak-aram` § 비면식 스토킹과 형사사법의 피해자 자리 · `ing-20261024-stalking-harm-framework`
-- 곽아람의 2026년 공개 활동과 사건 진행 시점 자료 → `excellent-victim-kwak-aram` § 2026년 공개 활동의 흐름; `excellent-victim-kwak-aram` § 사건 진행의 공개된 시점별 상태 · `ing-20261024-stalking-harm-framework`
-- 피해자의 회복을 가해자의 중요성이 낮아지는 상태로 보기 → `excellent-victim-kwak-aram` § 기록 이후의 방향: 사건의 사람이 되지 않기 · `ing-20261024-stalking-harm-framework`
-- 2026년 9월 유럽의 연속적 드론·영공·군사접촉 사건과 전쟁 임박 판단의 구분 → `europe-russia-escalation-signals-2026` § 며칠 사이 겹친 사건들 · `ing-20261024-war-escalation-drone-asymmetry`
-- NATO Article 4·Article 5와 DEFCON의 제도적 차이 → `europe-russia-escalation-signals-2026` § Article 4와 Article 5는 DEFCON이 아니다 · `ing-20261024-war-escalation-drone-asymmetry`
-- 러시아의 직접 지상전선 확대보다 회색지대 접촉면 확대가 갖는 비용·정보·정치적 의미 → `europe-russia-escalation-signals-2026` § 러시아의 ‘전선 확대’보다 ‘접촉면 확대’ · `ing-20261024-war-escalation-drone-asymmetry`
-- 2025년 에스토니아 영공침범 기사와 정례 NATO 회의가 최신 위기정보로 재유통되는 문제 → `europe-russia-escalation-signals-2026` § 재탕 뉴스가 전쟁 임박의 체감을 키우는 방식 · `ing-20261024-war-escalation-drone-asymmetry`
-- FSB 에스토니아 야간통행금지 루머에서 에스토니아 국경운영 결정·FSB 공지·기존 국경제도를 구분 → `europe-russia-escalation-signals-2026` § FSB와 에스토니아 ‘야간통행금지’ 루머 · `ing-20261024-war-escalation-drone-asymmetry`
-- 드론이 만드는 가격·생산시간·목표가치·정치적 귀속의 네 비대칭 → `drone-asymmetric-warfare` § 네 가지 비대칭 · `ing-20261024-war-escalation-drone-asymmetry`
-- 한반도에서 드론이 재래식 전력격차를 제거하기보다 방어비용과 전쟁 지속 가능성을 높이는 문제 → `drone-asymmetric-warfare` § 한반도에서 왜 특히 곤란한가; `drone-asymmetric-warfare` § 전쟁을 짧게 끝내는 격차가 약해질 수 있다 · `ing-20261024-war-escalation-drone-asymmetry`
-- 에티오피아·리비아·키르기스스탄-타지키스탄·말리·부르키나파소·수단의 드론전 사례 → `drone-asymmetric-warfare` § 에티오피아 티그라이 전쟁: 열세 정부군에 즉석 정밀공군을 제공하다; `drone-asymmetric-warfare` § 리비아 내전: 전투를 뒤집었지만 전쟁을 끝내지는 못하다; `drone-asymmetric-warfare` § 2022년 키르기스스탄-타지키스탄 국경전: 국경 총격전의 정밀타격화; `drone-asymmetric-warfare` § 말리와 부르키나파소: 먼 지역에 폭력을 투사할 수 있게 된 약한 정부; `drone-asymmetric-warfare` § 수단 내전: 지상전선이 움직여도 후방이 사라지지 않는다 · `ing-20261024-war-escalation-drone-asymmetry`
-- 드론은 전쟁을 해결하기보다 전투를 뒤집고 약한 세력의 생존기간과 후방 타격범위를 늘리는 경우가 많다는 비교 → `drone-asymmetric-warfare` § 다섯 사례가 보여주는 공통 결과 · `ing-20261024-war-escalation-drone-asymmetry`
-- 일본에서의 미니시어터발 흥행과 가족영화로의 수용 확장 → `dousureba-yokatta-family-psychiatry` § 일본에서 미니시어터발 사회현상이 된 이유 · `ing-20261025-dousureba-utsunomiya`
-- 의사 부모의 전문성과 정신과 임상 전문성의 구분 → `dousureba-yokatta-family-psychiatry` § 부모는 어느 정도의 의사였는가 · `ing-20261025-dousureba-utsunomiya`
-- 1983년 장기입원 회피와 정신과 진료 단절의 분리 평가 → `dousureba-yokatta-family-psychiatry` § 1983년의 출발점: 이미 정신과에 갔다가 치료 연결이 끊겼다 · `ing-20261025-dousureba-utsunomiya`
-- 1983~2008년 치료 선택지 변화에 따른 시기별 재평가 → `dousureba-yokatta-family-psychiatry` § 치료 판단을 시간축으로 다시 채점하기 · `ing-20261025-dousureba-utsunomiya`
-- 성인 남동생의 입원 결정권과 행정적 우회로의 구분 → `dousureba-yokatta-family-psychiatry` § 왜 남동생이 부모를 뿌리치고 누나를 데려가지 못했는가; `dousureba-yokatta-family-psychiatry` § 그렇다고 동생에게 아무 우회로도 없었던 것은 아니다 · `ing-20261025-dousureba-utsunomiya`
-- 한일 가족책임 차이를 가족 무관심이 아닌 책임의 분절로 해석 → `dousureba-yokatta-family-psychiatry` § 한국과 일본의 가족 개입 문화는 어떻게 다른가; `dousureba-yokatta-family-psychiatry` § “각 관계에는 주인이 있다”는 해석 · `ing-20261025-dousureba-utsunomiya`
-- 우쓰노미야 병원의 인력부족·환자 노동·무자격 의료 구조 → `utsunomiya-psychiatric-hospital-reform` § 944명의 환자와 턱없이 부족한 의료인력; `utsunomiya-psychiatric-hospital-reform` § 환자 노동과 무자격 의료 · `ing-20261025-dousureba-utsunomiya`
-- 543명 재심사와 퇴원 불가능성이 드러낸 사회적 입원 → `utsunomiya-psychiatric-hospital-reform` § 543명 전수 재심사와 “사회적 입원” · `ing-20261025-dousureba-utsunomiya`
-- 우쓰노미야 사건 이후 국제비판과 1987년 정신보건법 개정 → `utsunomiya-psychiatric-hospital-reform` § 1985년 국제조사단이 본 일본 정신의료; `utsunomiya-psychiatric-hospital-reform` § 1987년 정신보건법 개정 · `ing-20261025-dousureba-utsunomiya`
-- 1990년대 이후 반복된 정신병원 인권침해와 감독 실패 사례 → `utsunomiya-psychiatric-hospital-reform` § 1990년대 이후 반복된 주요 사건 · `ing-20261025-dousureba-utsunomiya`
-- 2024년 정신과병원 학대 신고의무와 첫 전국 집계 → `utsunomiya-psychiatric-hospital-reform` § 2024년부터 전국화된 학대 신고의무 · `ing-20261025-dousureba-utsunomiya`
-- 우쓰노미야의 교훈과 1983년 치료거부를 구분하는 기준 → `utsunomiya-psychiatric-hospital-reform` § 《어떻게 해야 했을까》의 1983년을 다시 보는 법 · `ing-20261025-dousureba-utsunomiya`
-- 흑해함대 3분의 1 무력화 발언의 분모와 해상무인정 단독 기여 해석의 구분 → `black-sea-ukraine-sea-denial` § 군함의 3분의 1이라는 말의 범위 · `ing-20261026-war-resilience-border-faultlines`
-- 흑해의 제해권과 해상거부를 구별하는 기능별 분석 → `black-sea-ukraine-sea-denial` § 함대의 수와 바다를 사용할 권리는 다르다 · `ing-20261026-war-resilience-border-faultlines`
-- 흑해 구역별 통제와 오데사 수출 회랑의 회복 및 잔여 타격 위험 → `black-sea-ukraine-sea-denial` § 어느 바다를 누가 장악하는가 · `ing-20261026-war-resilience-border-faultlines`
-- 드론 정찰 타격 전자전 결합으로 지상 기동을 제한하는 구조 → `ukraine-ground-drone-defense` § 정찰-타격-전자전의 결합 · `ing-20261026-war-resilience-border-faultlines`
-- 드론 표적 파괴 비중과 사상자 비중의 서로 다른 분모 → `ukraine-ground-drone-defense` § 드론 80%라는 수치의 함정 · `ing-20261026-war-resilience-border-faultlines`
-- AI 정보처리와 지상무인차량 보급을 지상 드론 전투와 구별 → `ukraine-ground-drone-defense` § AI의 실제 위치: 판단을 압축하되 완전히 대체하지는 않는다 · `ing-20261026-war-resilience-border-faultlines`
-- 무인체계 제거 반사실과 30·40~60% 기여율의 정량 검증 한계 → `ukraine-ground-drone-defense` § 반사실적 질문: 무인체계가 없었다면 몇 퍼센트 더 못 버텼을까 · `ing-20261026-war-resilience-border-faultlines`
-- 러시아의 무인체계 학습과 상호 기동거부로의 변화 → `ukraine-ground-drone-defense` § 러시아도 배웠다: 비대칭 우위에서 상호거부 전장으로 · `ing-20261026-war-resilience-border-faultlines`
-- 러시아군 120만 사상자 추정과 약 30만 전사자 추정의 구별 → `russia-ukraine-war-endurance` § 120만 사상자와 30만 전사자는 다르다 · `ing-20261026-war-resilience-border-faultlines`
-- 러시아 모병과 정치적 손실 흡수 및 숙련병 재생산의 차이 → `russia-ukraine-war-endurance` § 국가의 손상과 정권의 위험은 왜 엇갈리는가 · `ing-20261026-war-resilience-border-faultlines`
-- 러시아 전사자 누적 단계표를 정치적 임계선으로 해석하지 않는 방법 → `russia-ukraine-war-endurance` § 전사자가 몇 명이면 러시아가 멈출까 · `ing-20261026-war-resilience-border-faultlines`
-- 우크라이나 보병 교대 방공 서방 재정의 내구도 병목 → `russia-ukraine-war-endurance` § 우크라이나 내구도의 병목: 전선에는 사람이 필요하다 · `ing-20261026-war-resilience-border-faultlines`
-- 장기 소모전 휴전 국지돌파 반격의 전망과 비정규화 확률 구분 → `russia-ukraine-war-endurance` § 가까운 시기의 네 경로와 전망치의 한계 · `ing-20261026-war-resilience-border-faultlines`
-- 인도 파키스탄 2025년 5월 충돌과 테러 보복 확대 경로 → `south-asia-border-rivalries-2026` § 인도-파키스탄: 테러가 군사보복으로 번역되는 경로 · `ing-20261026-war-resilience-border-faultlines`
-- 인도 중국 2020년 갈완 충돌 2024년 라다크 이격 및 수자원 경쟁 → `south-asia-border-rivalries-2026` § 인도-중국: 2020년 충돌과 2024년 이격 · `ing-20261026-war-resilience-border-faultlines`
-- 아프간 탈레반과 파키스탄 TTP의 조직 구별과 전략적 후방의 역설 → `south-asia-border-rivalries-2026` § 아프가니스탄-파키스탄: 두 탈레반과 하나의 국경 · `ing-20261026-war-resilience-border-faultlines`
-- 듀랜드 라인 파슈툰 공동체 난민 추방과 2026년 국경 직접 교전 → `south-asia-border-rivalries-2026` § 듀랜드 라인: 국경을 둘러싼 상충된 정당성 · `ing-20261026-war-resilience-border-faultlines`
-- 발발 가능성과 파급력의 순위 기준을 분리하고 이미 교전 중인 지역을 제외 → `global-flashpoints-likelihood-2026` § 무엇을 '발발'로 셀 것인가 · `ing-20261026-war-resilience-border-faultlines`
-- 태국 캄보디아 남중국해 카슈미르 등 소규모 충돌 발발 서열 → `global-flashpoints-likelihood-2026` § 발생 가능성만 고려한 서열 · `ing-20261026-war-resilience-border-faultlines`
-- 대만 한반도 러시아 NATO의 높은 파급력과 낮은 즉시 교전 가능성 구별 → `global-flashpoints-likelihood-2026` § 중요하지만 '첫 충돌 가능성'으로는 순위가 내려가는 곳 · `ing-20261026-war-resilience-border-faultlines`
-- 드론 일반 비대칭의 흑해 및 우크라이나 지상전 비교 → `drone-asymmetric-warfare` § 우크라이나에서 비대칭이 바다와 육지에 적용된 방식 · `ing-20261026-war-resilience-border-faultlines`
 
 ## 철학 (45)
 

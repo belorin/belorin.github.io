@@ -355,6 +355,9 @@
 - **[전쟁은 아직 시작되지 않았지만 어디서 먼저 충돌할까: 2026년 분쟁 단층선 확률 순위](wiki/global-flashpoints-likelihood-2026.md)** · 별칭: 세계 분쟁 고위험 단층선, 발발 가능성 순위, 분쟁 확률 순위 · 수정: 2026-10-26 · 검토: 2026년 봄까지 언급된 자료 기반 · 시점 한정 · 정량 추정 및 최신 정세 재검증 필요
   - 파급력과 분리한 소규모 충돌 발발가능성 중심 순위와 교전 중 지역 제외 기준을 제시한다.
   - [문서 페이지](https://belorin.github.io/notes/global-flashpoints-likelihood-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/global-flashpoints-likelihood-2026.md)
+- **[호르무즈 해협은 왜 함대로 열 수 없는가: 2026년 이란전과 인도양 해군력](wiki/hormuz-iran-war-naval-power-2026.md)** · 별칭: 호르무즈 해협 봉쇄, 2026 이란전 해군력, 차바하르와 인도양 해군 · 수정: 2026-10-26 · 검토: 2026년 봄 전황 분석 · 사실관계 검토 필요
+  - 차바하르와 인도 해군의 전략, 주요 해군의 전력 비교, 호르무즈 해상거부·소해·항행 복구, 미군 증원과 휴전 시나리오, 이란의 기지 공격 및 F-15E 손실 보도의 증거 수준을 구별한다.
+  - [문서 페이지](https://belorin.github.io/notes/hormuz-iran-war-naval-power-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hormuz-iran-war-naval-power-2026.md)
 
 ## 영화
 
