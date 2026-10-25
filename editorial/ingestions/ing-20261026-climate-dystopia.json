@@ -1,0 +1,57 @@
+{
+  "id": "ing-20261026-climate-dystopia",
+  "processed_on": "2026-10-26",
+  "coverage": "visible-complete",
+  "limit_note": "현재 표시된 대화의 기후 계산 및 소설 장면을 대상으로 함. 외부 검증 없음. 작품의 실행 수단 세부 묘사는 안전과 개연성을 위해 비작동적 서사로 압축했고 장면 일부는 편집 개고함.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "argument",
+      "title": "전쟁 사망자와 탄소배출 감소의 비례 계산 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "climate-population-villain-logic",
+          "section": "출발점: 전쟁 사망자와 배출량의 잘못된 등식"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "1.5도 탄소예산과 인구 감소 시나리오의 전제",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "climate-population-villain-logic",
+          "section": "1.5°C와 탄소예산"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "기후위기 악역의 계산주의와 도덕적 비약",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "climate-population-villain-logic",
+          "section": "계산에서 명령으로 건너뛰는 순간"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "other",
+      "title": "기후 디스토피아 숨결 장면집",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "climate-breath-fiction",
+          "section": "작품 노트"
+        }
+      ]
+    }
+  ]
+}
