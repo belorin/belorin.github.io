@@ -58,7 +58,8 @@
       "related": [
         "living-notes",
         "open-questions",
-        "wiki-building-history"
+        "wiki-building-history",
+        "wiki-operations-pipeline"
       ],
       "aliases": [
         "편집 원칙"
@@ -868,7 +869,8 @@
       "related": [
         "living-notes",
         "editing-principles",
-        "open-questions"
+        "open-questions",
+        "wiki-operations-pipeline"
       ],
       "aliases": [
         "위키 구축 이력",
@@ -3633,6 +3635,40 @@
         "현대 사상권력",
         "사상과 정책",
         "학파 권력"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-26"
+    },
+    {
+      "path": "wiki/wiki-operations-pipeline.md",
+      "publish": true,
+      "order": 112,
+      "id": "wiki-operations-pipeline",
+      "title": "원고만 쓰고 나머지는 기계에게: 편집 지도·자동 배포·정비로 바꾼 위키 운영",
+      "category": "운영",
+      "status": "운영 개편 기록",
+      "updated": "2026-10-26",
+      "summary": "생성물 자동 배포, 전체 지도·문서 카드·지식 표제 역색인을 통한 계층적 읽기, 일상 증보와 정비의 분리, LLM이 링크로 읽을 수 있는 입구 정비.",
+      "tags": [
+        "위키 운영",
+        "GitHub Actions",
+        "편집 지도",
+        "정비",
+        "LLM",
+        "색인"
+      ],
+      "source": "내부 총합 · 저장소 구현 확인 · 외부 조사 없음",
+      "related": [
+        "wiki-building-history",
+        "editing-principles",
+        "living-notes"
+      ],
+      "aliases": [
+        "위키 운영 개편",
+        "편집 지도",
+        "정비 절차",
+        "LLM 원문 링크",
+        "자동 배포"
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-26"

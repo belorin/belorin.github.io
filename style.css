@@ -73,6 +73,8 @@ kbd{border:1px solid var(--line);border-radius:3px;padding:0 5px;background:var(
 .reader-header h1{font-size:clamp(25px,3.3vw,35px);letter-spacing:-1.1px;line-height:1.42;margin:8px 0 10px}
 .reader-lead{font-size:15px;line-height:1.8;color:var(--muted);margin:10px 0 0}
 .reader-tools{display:flex;gap:15px;flex-wrap:wrap;margin-top:17px;font-size:12px}
+.llm-note{margin-top:28px;font-size:12px;line-height:1.7;color:var(--muted);overflow-wrap:anywhere}
+.llm-note p{margin:0 0 8px}
 .reader-tools a,.reader-tools button{color:var(--accent);border:0;background:none;padding:0;font-size:12px}
 .reader-tools a:hover,.reader-tools button:hover{text-decoration:underline}
 .toc{background:var(--soft);border:1px solid var(--line);border-radius:8px;margin:18px 0 29px;padding:0 15px}

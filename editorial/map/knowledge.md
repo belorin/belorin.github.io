@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 610개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 622개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (3)
 
@@ -411,6 +411,51 @@
 - 프로이트 비판 대상의 단순화 방지 → `freud-before-anti-oedipus` § 『안티 오이디푸스』의 비판 대상을 지나치게 단순화하지 않기 · `ing-20261025-deleuze-intensity-hegel-freud`
 - 프로이트 입문서와 라캉 입문서의 목적 차이 → `freud-before-anti-oedipus` § 1972년을 위한 라캉 독서: 프로이트 원전을 대신하는 것이 아니다 · `ing-20261026-dreams-lacan-philosophy-power`
 
+## 운영 (40)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 요약과 총합의 차이 → `wiki-building-history` § 기획의 출발점: 요약이 아니라 총합 · `ing-20261023-wiki-build-history`
+- 단일 Markdown 정본과 독서·탐색 화면의 분리 → `wiki-building-history` § 핵심 아키텍처: 하나의 정본과 두 개의 탐색 화면 · `ing-20261023-wiki-build-history`
+- 공개 저장소의 원문 비보관 및 외부 조사 제한 → `wiki-building-history` § 원본 충실성과 공개 정책 · `ing-20261023-wiki-build-history`
+- 단일 편집 프로토콜의 제정 → `wiki-building-history` § 준비 단계: 공통 편집 프로토콜의 제정 · `ing-20261023-wiki-build-history`
+- 01 Markdown 정본화와 기존 사이트 호환 → `wiki-building-history` § 01. Markdown 정본화: 본문과 생성물의 분리 · `ing-20261023-wiki-build-history`
+- 02 원문 없는 증보 이력 관리 → `wiki-building-history` § 02. 증보 이력: 원문이 아니라 반영 상태를 추적 · `ing-20261023-wiki-build-history`
+- 03 색인 우선 탐색과 llms.txt → `wiki-building-history` § 03. AI 탐색 계층: 색인을 먼저 읽고 원고를 찾아가기 · `ing-20261023-wiki-build-history`
+- 04 교차 관계 검색과 해석적 승인 절차 → `wiki-building-history` § 04. 의미 검색과 교차 편집: 직접 증보와 해석 제안의 분리 · `ing-20261023-wiki-build-history`
+- GitHub Pages 유지와 렌더링 교체의 판단 기준 → `wiki-building-history` § 게시 기술을 바꾸지 않는 이유 · `ing-20261023-wiki-build-history`
+- 프로토콜 링크로 시작하는 증보 작업 흐름 → `wiki-building-history` § 한 줄 호출과 편집 절차 · `ing-20261023-wiki-build-history`
+- 장문 독서 경험과 지식 보존 검수의 향후 과제 → `wiki-building-history` § 운영 한계와 향후 개선의 우선순위 · `ing-20261023-wiki-build-history`
+- 지식의 총합·증보와 새로움에 관한 운영 관점 → `living-notes` § 지식은 결론보다 먼저 움직인다 · `ing-20261023-editorial-pages-redesign`
+- 음악·철학·기술을 연결하는 질문 중심의 탐색 → `living-notes` § 서로 다른 분야를 질문으로 연결하기 · `ing-20261023-editorial-pages-redesign`
+- 문제의 중요도를 판별하는 능력 → `living-notes` § 무엇이 중요한지 판별하는 일 · `ing-20261023-editorial-pages-redesign`
+- 원문 비보관과 단일 정본의 운영 구조 → `living-notes` § 사람이 읽고 AI가 증보하는 하나의 원고 · `ing-20261023-editorial-pages-redesign`
+- 색인 우선·원고 보존의 편집 방법 → `editing-principles` § 색인을 먼저, 상세 원고를 나중에 · `ing-20261023-editorial-pages-redesign`
+- 사실·논증·가설의 구분 → `editing-principles` § 사실·해석·가설을 혼동하지 않는다 · `ing-20261023-editorial-pages-redesign`
+- 간접적인 개념 연결의 제안 단계 → `editing-principles` § 간접적인 연결은 먼저 제안한다 · `ing-20261023-editorial-pages-redesign`
+- 공개 범위와 원문 비보관 정책 → `editing-principles` § 공개할 수 있는 것만 남긴다 · `ing-20261023-editorial-pages-redesign`
+- 누적 증보의 과부하와 현행 규칙의 구현 경계 → `wiki-building-history` § 05. 누적 증보의 과부하와 계층 편집 설계 · `ing-20261026-wiki-incremental-editing`
+- 상세 보존량과 매회 읽기량의 분리 → `wiki-building-history` § 보존량과 매회 읽기량을 분리한다 · `ing-20261026-wiki-incremental-editing`
+- 계층 순회와 파생 개요의 한계 → `wiki-building-history` § 위층에서 찾고 아래층에서 판정한다 · `ing-20261026-wiki-incremental-editing`
+- 본문 대조·읽기 범위 확장·불확실 항목의 보류 → `wiki-building-history` § 중복 판정과 읽기 범위 확장의 조건 · `ing-20261026-wiki-incremental-editing`
+- 절 고정 주소·해시·지식 표제 역색인 → `wiki-building-history` § 절의 고정 주소와 지식 표제 역색인 · `ing-20261026-wiki-incremental-editing`
+- 일상 증보·정기 정비·전역 기계 검사의 분리 → `wiki-building-history` § 일상 증보와 정기 정비의 두 속도 · `ing-20261026-wiki-incremental-editing`
+- 처리 경계·대화 내 체크포인트·승인된 지식 환류 → `wiki-building-history` § 처리 경계와 승인된 지식의 환류 · `ing-20261026-wiki-incremental-editing`
+- 프로토콜 모듈화·구현 순서·배포 자동화와 MCP의 경계 → `wiki-building-history` § 구현의 순서와 현재의 경계 · `ing-20261026-wiki-incremental-editing`
+- 편집 원칙의 누적 비용 설계 안내 → `editing-principles` § 누적 규모와 읽기 비용: 후속 설계 · `ing-20261026-wiki-incremental-editing`
+- 선독 자료 중복과 생성물 동시 커밋이 만든 읽기·쓰기 과부하 → `wiki-operations-pipeline` § 문제: 지식보다 부속물이 무거워졌다 · `ing-20261026-wiki-operations-pipeline`
+- GitHub Actions 배포와 원고만 커밋하는 편집 규칙 → `wiki-operations-pipeline` § 조판은 기계에게: 원고만 커밋한다 · `ing-20261026-wiki-operations-pipeline`
+- 전체 지도의 구성과 장부 없는 원고의 구별 → `wiki-operations-pipeline` § 전체 지도 · `ing-20261026-wiki-operations-pipeline`
+- 문서 카드의 소제목 경로·줄 범위·해시·첫 문장 → `wiki-operations-pipeline` § 문서 카드 · `ing-20261026-wiki-operations-pipeline`
+- 편집 장부를 뒤집은 지식 표제 역색인과 검색 전용 원칙 → `wiki-operations-pipeline` § 지식 표제 역색인 · `ing-20261026-wiki-operations-pipeline`
+- 프로토콜 전부 읽기 유지, 전문 확대 조건, 색인만으로 중복 판정 금지 → `wiki-operations-pipeline` § 바뀐 읽기 순서와 그 경계 · `ing-20261026-wiki-operations-pipeline`
+- 일상 증보와 정비의 두 속도, 기계 검사와 AI 판단의 비용 구분 → `wiki-operations-pipeline` § 두 속도: 일상 증보와 정비 · `ing-20261026-wiki-operations-pipeline`
+- 정비 대기열의 신호 종류와 첫 생성 시점의 수치 → `wiki-operations-pipeline` § 정비 대기열 · `ing-20261026-wiki-operations-pipeline`
+- 정비 권한 세 단계, 분량만으로 분할하지 않는 원칙, 보고서와 버전 로그 → `wiki-operations-pipeline` § 정비의 권한과 기록 · `ing-20261026-wiki-operations-pipeline`
+- 해시 주소가 자바스크립트 없는 LLM 열람에서 본문을 주지 못하는 문제와 입구 정비 → `wiki-operations-pipeline` § 링크를 건네받은 LLM이 읽는 것 · `ing-20261026-wiki-operations-pipeline`
+- 종합·해석 장르의 표시·집계 분리와 근거 재인용 금지, notes.json 분할, 분류 정비 → `wiki-operations-pipeline` § 미뤄 둔 것 · `ing-20261026-wiki-operations-pipeline`
+- 구축사 05절 설계의 구현 기록 위치 안내 → `wiki-building-history` § 관련 문서와 검증 가능한 이력 · `ing-20261026-wiki-operations-pipeline`
+
 ## 사회와 제도 (36)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -451,39 +496,6 @@
 - 1990년대 이후 반복된 정신병원 인권침해와 감독 실패 사례 → `utsunomiya-psychiatric-hospital-reform` § 1990년대 이후 반복된 주요 사건 · `ing-20261025-dousureba-utsunomiya`
 - 2024년 정신과병원 학대 신고의무와 첫 전국 집계 → `utsunomiya-psychiatric-hospital-reform` § 2024년부터 전국화된 학대 신고의무 · `ing-20261025-dousureba-utsunomiya`
 - 우쓰노미야의 교훈과 1983년 치료거부를 구분하는 기준 → `utsunomiya-psychiatric-hospital-reform` § 《어떻게 해야 했을까》의 1983년을 다시 보는 법 · `ing-20261025-dousureba-utsunomiya`
-
-## 운영 (28)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 요약과 총합의 차이 → `wiki-building-history` § 기획의 출발점: 요약이 아니라 총합 · `ing-20261023-wiki-build-history`
-- 단일 Markdown 정본과 독서·탐색 화면의 분리 → `wiki-building-history` § 핵심 아키텍처: 하나의 정본과 두 개의 탐색 화면 · `ing-20261023-wiki-build-history`
-- 공개 저장소의 원문 비보관 및 외부 조사 제한 → `wiki-building-history` § 원본 충실성과 공개 정책 · `ing-20261023-wiki-build-history`
-- 단일 편집 프로토콜의 제정 → `wiki-building-history` § 준비 단계: 공통 편집 프로토콜의 제정 · `ing-20261023-wiki-build-history`
-- 01 Markdown 정본화와 기존 사이트 호환 → `wiki-building-history` § 01. Markdown 정본화: 본문과 생성물의 분리 · `ing-20261023-wiki-build-history`
-- 02 원문 없는 증보 이력 관리 → `wiki-building-history` § 02. 증보 이력: 원문이 아니라 반영 상태를 추적 · `ing-20261023-wiki-build-history`
-- 03 색인 우선 탐색과 llms.txt → `wiki-building-history` § 03. AI 탐색 계층: 색인을 먼저 읽고 원고를 찾아가기 · `ing-20261023-wiki-build-history`
-- 04 교차 관계 검색과 해석적 승인 절차 → `wiki-building-history` § 04. 의미 검색과 교차 편집: 직접 증보와 해석 제안의 분리 · `ing-20261023-wiki-build-history`
-- GitHub Pages 유지와 렌더링 교체의 판단 기준 → `wiki-building-history` § 게시 기술을 바꾸지 않는 이유 · `ing-20261023-wiki-build-history`
-- 프로토콜 링크로 시작하는 증보 작업 흐름 → `wiki-building-history` § 한 줄 호출과 편집 절차 · `ing-20261023-wiki-build-history`
-- 장문 독서 경험과 지식 보존 검수의 향후 과제 → `wiki-building-history` § 운영 한계와 향후 개선의 우선순위 · `ing-20261023-wiki-build-history`
-- 지식의 총합·증보와 새로움에 관한 운영 관점 → `living-notes` § 지식은 결론보다 먼저 움직인다 · `ing-20261023-editorial-pages-redesign`
-- 음악·철학·기술을 연결하는 질문 중심의 탐색 → `living-notes` § 서로 다른 분야를 질문으로 연결하기 · `ing-20261023-editorial-pages-redesign`
-- 문제의 중요도를 판별하는 능력 → `living-notes` § 무엇이 중요한지 판별하는 일 · `ing-20261023-editorial-pages-redesign`
-- 원문 비보관과 단일 정본의 운영 구조 → `living-notes` § 사람이 읽고 AI가 증보하는 하나의 원고 · `ing-20261023-editorial-pages-redesign`
-- 색인 우선·원고 보존의 편집 방법 → `editing-principles` § 색인을 먼저, 상세 원고를 나중에 · `ing-20261023-editorial-pages-redesign`
-- 사실·논증·가설의 구분 → `editing-principles` § 사실·해석·가설을 혼동하지 않는다 · `ing-20261023-editorial-pages-redesign`
-- 간접적인 개념 연결의 제안 단계 → `editing-principles` § 간접적인 연결은 먼저 제안한다 · `ing-20261023-editorial-pages-redesign`
-- 공개 범위와 원문 비보관 정책 → `editing-principles` § 공개할 수 있는 것만 남긴다 · `ing-20261023-editorial-pages-redesign`
-- 누적 증보의 과부하와 현행 규칙의 구현 경계 → `wiki-building-history` § 05. 누적 증보의 과부하와 계층 편집 설계 · `ing-20261026-wiki-incremental-editing`
-- 상세 보존량과 매회 읽기량의 분리 → `wiki-building-history` § 보존량과 매회 읽기량을 분리한다 · `ing-20261026-wiki-incremental-editing`
-- 계층 순회와 파생 개요의 한계 → `wiki-building-history` § 위층에서 찾고 아래층에서 판정한다 · `ing-20261026-wiki-incremental-editing`
-- 본문 대조·읽기 범위 확장·불확실 항목의 보류 → `wiki-building-history` § 중복 판정과 읽기 범위 확장의 조건 · `ing-20261026-wiki-incremental-editing`
-- 절 고정 주소·해시·지식 표제 역색인 → `wiki-building-history` § 절의 고정 주소와 지식 표제 역색인 · `ing-20261026-wiki-incremental-editing`
-- 일상 증보·정기 정비·전역 기계 검사의 분리 → `wiki-building-history` § 일상 증보와 정기 정비의 두 속도 · `ing-20261026-wiki-incremental-editing`
-- 처리 경계·대화 내 체크포인트·승인된 지식 환류 → `wiki-building-history` § 처리 경계와 승인된 지식의 환류 · `ing-20261026-wiki-incremental-editing`
-- 프로토콜 모듈화·구현 순서·배포 자동화와 MCP의 경계 → `wiki-building-history` § 구현의 순서와 현재의 경계 · `ing-20261026-wiki-incremental-editing`
-- 편집 원칙의 누적 비용 설계 안내 → `editing-principles` § 누적 규모와 읽기 비용: 후속 설계 · `ing-20261026-wiki-incremental-editing`
 
 ## 철학·사상사 (27)
 

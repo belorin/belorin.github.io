@@ -6,7 +6,8 @@
   <meta name="description" content="이어 쓰는 지식백과. 문서를 찾고, 읽고, 연결합니다.">
   <title>belorin · 열린 노트</title>
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='85'%3E✳%3C/text%3E%3C/svg%3E">
-  <link rel="stylesheet" href="style.css?v=20261025-tables">
+  <link rel="alternate" type="text/plain" href="llms.txt" title="AI·LLM용 문서 목록">
+  <link rel="stylesheet" href="style.css?v=20261026-llm">
 </head>
 <body>
   <header class="site-header">
@@ -36,12 +37,16 @@
     </aside>
     <section id="view" class="main-view" aria-live="polite" aria-busy="true">
       <p class="muted">문서를 불러오는 중입니다.</p>
+      <div class="llm-note">
+        <p><strong>AI·LLM 안내:</strong> 이 사이트는 자바스크립트로 본문을 그리므로 이 HTML에는 본문이 없습니다. 주소의 <code>#</code> 뒤가 문서 ID이며, 문서 원문은 <code>https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/&lt;문서-id&gt;.md</code>에서 읽을 수 있습니다. 예: <code>https://belorin.github.io/#living-notes</code>의 원문은 <a href="https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/living-notes.md">https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/living-notes.md</a>. 전체 문서 목록과 원문 링크, 읽는 방법은 <a href="https://belorin.github.io/llms.txt">https://belorin.github.io/llms.txt</a>에 있습니다.</p>
+        <p lang="en"><strong>For AI assistants:</strong> this page renders articles with JavaScript, so this HTML contains no article text. The part after <code>#</code> in the URL is the document ID; read the article at <code>https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/&lt;document-id&gt;.md</code>. The full list of articles with source links is at <a href="https://belorin.github.io/llms.txt">https://belorin.github.io/llms.txt</a>.</p>
+      </div>
     </section>
   </main>
   <footer class="site-footer">
     <span>belorin / 열린 노트</span>
     <a href="https://github.com/belorin/belorin.github.io">원고와 편집 이력 ↗</a>
   </footer>
-  <script src="app.js?v=20261025-tables" defer></script>
+  <script src="app.js?v=20261026-llm" defer></script>
 </body>
 </html>
