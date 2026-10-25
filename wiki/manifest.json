@@ -2636,6 +2636,70 @@
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-25"
+    },
+    {
+      "id": "ai-compute-scaling-inference",
+      "path": "wiki/ai-compute-scaling-inference.md",
+      "publish": true,
+      "order": 82,
+      "title": "AI는 계산이 많아지면 무엇이 달라지는가: 데이터센터와 추론 스케일링",
+      "category": "AI와 사회",
+      "status": "대화 내 확인 자료 총합 · 데이터센터 규모·기업 계획·추론 연구 세부 외부 재검증 필요",
+      "updated": "2026-10-25",
+      "summary": "AI 데이터센터 증설을 단순한 더 큰 사전학습이 아니라 test-time compute, 병렬 탐색·검증, 과학·코딩·피지컬 AI 계산의 확대로 읽고 계산량의 한계를 함께 정리한다.",
+      "tags": [
+        "AI 데이터센터",
+        "추론 스케일링",
+        "test-time compute",
+        "AI 인프라",
+        "병렬 탐색",
+        "verifier"
+      ],
+      "source": "내부 총합 · 현재 접근 가능한 논의와 이미 제시된 링크만 사용 · 이번 편집에서 외부 추가 조사 없음",
+      "related": [
+        "japan-physical-ai-skill-transfer"
+      ],
+      "aliases": [
+        "AI 데이터센터와 추론",
+        "test-time scaling",
+        "추론 컴퓨트",
+        "AI 계산 스케일링"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "id": "japan-physical-ai-skill-transfer",
+      "path": "wiki/japan-physical-ai-skill-transfer.md",
+      "publish": true,
+      "order": 83,
+      "title": "사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승",
+      "category": "AI와 사회",
+      "status": "대화 내 확인 자료 총합 · 기업 발표·정부 목표·국가 비교 해석 외부 재검증 필요",
+      "updated": "2026-10-25",
+      "summary": "가와사키 Successor와 Honda 다지 핸드부터 Toyota·Yaskawa·FANUC·AIST까지, 일본이 숙련자의 손동작·힘 조절을 로봇 학습 데이터로 옮기려는 흐름을 정리한다.",
+      "tags": [
+        "피지컬 AI",
+        "로봇",
+        "일본",
+        "숙련 전승",
+        "손지능",
+        "모방학습",
+        "촉각 센서"
+      ],
+      "source": "내부 총합 · 현재 접근 가능한 논의와 이미 제시된 기업·정부 링크만 사용 · 이번 편집에서 외부 추가 조사 없음",
+      "related": [
+        "ai-compute-scaling-inference",
+        "ai-economic-transition"
+      ],
+      "aliases": [
+        "일본 피지컬 AI",
+        "손지능",
+        "숙련 전승 로봇",
+        "Physical AI Japan"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
     }
   ]
 }
