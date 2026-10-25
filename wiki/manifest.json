@@ -2356,7 +2356,8 @@
       "related": [
         "hank-asher-data-fusion-ai",
         "ai-democracy-narrow-corridor",
-        "ai-conversation-data-access"
+        "ai-conversation-data-access",
+        "credit-observation-archive"
       ],
       "aliases": [
         "한국 개인정보 유통",
@@ -3172,6 +3173,69 @@
         "In Minor Keys",
         "2026 Venice Biennale",
         "코요 쿠오 비엔날레"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "path": "wiki/credit-observation-archive.md",
+      "publish": true,
+      "order": 98,
+      "id": "credit-observation-archive",
+      "title": "이름의 출현을 기록하는 크레딧 아카이브: 판권면·스탭롤·인사발령",
+      "category": "기술·지식 아카이브",
+      "status": "프로젝트 설계·예시 판독 검토 필요",
+      "updated": "2026-10-25",
+      "summary": "책 판권면과 영화·예능 스탭롤, 공공 인사기록을 출현 로그로 저장하고 동명이인 인물 후보와 원문 크레딧을 구별하는 데이터 모델·단계별 수집·검수 및 공개 정책.",
+      "tags": [
+        "크레딧",
+        "판권면",
+        "영화 스탭롤",
+        "인명 데이터베이스",
+        "동명이인",
+        "라즈베리파이"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "book-preview-credit-sourcing",
+        "korea-personal-data-lifecycle"
+      ],
+      "aliases": [
+        "크레딧 지도",
+        "이름 관찰 DB",
+        "출현 기록 DB",
+        "크레딧 아카이브"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "path": "wiki/book-preview-credit-sourcing.md",
+      "publish": true,
+      "order": 99,
+      "id": "book-preview-credit-sourcing",
+      "title": "온라인 서점 미리보기와 판권면 수집: 기술적 가능성과 허용 범위",
+      "category": "기술·지식 아카이브",
+      "status": "자료 수집 설계·서비스별 조건 미검증",
+      "updated": "2026-10-25",
+      "summary": "서점 상품정보·본문 발췌·미리보기 이미지를 구별하고 공식 메타데이터·출판사 샘플·수동 검수·제휴를 비교하는 판권면 수집 전략.",
+      "tags": [
+        "온라인 서점",
+        "책 미리보기",
+        "OCR",
+        "ISBN",
+        "자료 수집",
+        "출처 검증"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "credit-observation-archive",
+        "korea-personal-data-lifecycle"
+      ],
+      "aliases": [
+        "미리보기 크롤링",
+        "판권면 OCR",
+        "서점 도서정보 API"
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-25"

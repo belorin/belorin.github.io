@@ -1,0 +1,197 @@
+{
+  "id": "ing-20261025-credit-observation",
+  "processed_on": "2026-10-25",
+  "coverage": "visible-complete",
+  "limit_note": "표시된 판권면·발화만 처리 · 개별 서점 이용조건과 배포 설계 결과는 미확인",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k1",
+      "kind": "concept",
+      "title": "이름 문자열 출현 기록과 동일인 추론의 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "credit-observation-archive",
+          "section": "이름 DB가 아니라 출현 기록 DB"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "kind": "argument",
+      "title": "작품·출처·이름 묶음·인물 후보의 데이터 구조",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "credit-observation-archive",
+          "section": "여섯 개 층의 자료 모델"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "kind": "example",
+      "title": "2025년 도서 판권면의 날짜·역할·이름·ISBN 표본",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "credit-observation-archive",
+          "section": "첫 표본: 『AI는 인간을 먹고 자란다』 판권면"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "kind": "concept",
+      "title": "원문 역할과 매체별 표준 역할 분류의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "credit-observation-archive",
+          "section": "원문 역할명과 표준 역할 분류"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "kind": "question",
+      "title": "제작 노동의 협업과 반복 출현의 분석 가능성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "credit-observation-archive",
+          "section": "출현의 역사로 물어볼 수 있는 질문"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "kind": "argument",
+      "title": "책에서 영화·TV·공공기관으로 단계별 범위 확장",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "credit-observation-archive",
+          "section": "출판에서 영화·TV·공공기관으로 확장하는 순서"
+        }
+      ]
+    },
+    {
+      "id": "k7",
+      "kind": "question",
+      "title": "라즈베리파이 서버 MVP의 점진적 역할 분담",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "credit-observation-archive",
+          "section": "라즈베리파이 서버에서 단계적으로 구현하기"
+        }
+      ]
+    },
+    {
+      "id": "k8",
+      "kind": "counterargument",
+      "title": "공개 크레딧의 검색 가능한 이력화와 동명이인 위험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-personal-data-lifecycle",
+          "section": "공개된 크레딧이 검색 가능한 개인 이력이 될 때"
+        }
+      ]
+    },
+    {
+      "id": "k9",
+      "kind": "concept",
+      "title": "서점의 상품정보와 미리보기 이미지 수집의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "book-preview-credit-sourcing",
+          "section": "책 페이지에서 구별해야 할 세 종류의 데이터"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "curation",
+      "title": "국내외 서점·출판사·서지 자료원별 잠정 평가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "book-preview-credit-sourcing",
+          "section": "서비스와 자료원별 검토표"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "argument",
+      "title": "도서 후보 발견과 판권면 원본 획득의 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "book-preview-credit-sourcing",
+          "section": "발견용 목록과 입수한 원본을 분리한다"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "argument",
+      "title": "내부 이미지 OCR과 공개 크레딧 필드의 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "book-preview-credit-sourcing",
+          "section": "판권면 이미지와 크레딧 데이터는 공개 수준이 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "counterargument",
+      "title": "로봇 배제 신호와 저작권 및 접근 제한의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "book-preview-credit-sourcing",
+          "section": "robots.txt와 저작물 이용권의 차이"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "argument",
+      "title": "출판사 제공·제휴 가능성과 성사 여부의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "book-preview-credit-sourcing",
+          "section": "출판사 제공과 협력 모델"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "argument",
+      "title": "소규모 수집 실험의 성과 지표와 권한 검토",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "book-preview-credit-sourcing",
+          "section": "소규모 실험의 평가 기준"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "question",
+      "title": "라즈베리파이 모델·DB·OCR·백업의 실제 배포 결정",
+      "status": "pending",
+      "targets": [],
+      "reason": "구체적 배포 설계 결과가 확인되지 않아 확정 사양은 보류"
+    }
+  ]
+}

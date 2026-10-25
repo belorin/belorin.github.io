@@ -343,3 +343,12 @@
 - **[20개국 국가 형해화 시범 측정: 네 지표로 본 껍데기와 기능의 불일치](wiki/state-hollowing-country-pilot.md)** · 별칭: 국가 형해화 20개국 표, 좀비 국가 코어 v0.1, 국가 공동화 국가별 비교 · 수정: 2026-10-25 · 검토: 현재 접근 가능한 논의와 코어 시범자료 기반 · 외부 재검증 필요
   - GPI·FSI·물가·정부부채의 코어 v0.1 산식과 20개국 입력·점수, 결측 대체와 민감도·과잉해석의 한계를 기록한다.
   - [웹페이지](https://belorin.github.io/#state-hollowing-country-pilot) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/state-hollowing-country-pilot.md)
+
+## 기술·지식 아카이브
+
+- **[이름의 출현을 기록하는 크레딧 아카이브: 판권면·스탭롤·인사발령](wiki/credit-observation-archive.md)** · 별칭: 크레딧 지도, 이름 관찰 DB, 출현 기록 DB, 크레딧 아카이브 · 수정: 2026-10-25 · 검토: 프로젝트 설계·예시 판독 검토 필요
+  - 책 판권면과 영화·예능 스탭롤, 공공 인사기록을 출현 로그로 저장하고 동명이인 인물 후보와 원문 크레딧을 구별하는 데이터 모델·단계별 수집·검수 및 공개 정책.
+  - [웹페이지](https://belorin.github.io/#credit-observation-archive) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/credit-observation-archive.md)
+- **[온라인 서점 미리보기와 판권면 수집: 기술적 가능성과 허용 범위](wiki/book-preview-credit-sourcing.md)** · 별칭: 미리보기 크롤링, 판권면 OCR, 서점 도서정보 API · 수정: 2026-10-25 · 검토: 자료 수집 설계·서비스별 조건 미검증
+  - 서점 상품정보·본문 발췌·미리보기 이미지를 구별하고 공식 메타데이터·출판사 샘플·수동 검수·제휴를 비교하는 판권면 수집 전략.
+  - [웹페이지](https://belorin.github.io/#book-preview-credit-sourcing) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/book-preview-credit-sourcing.md)
