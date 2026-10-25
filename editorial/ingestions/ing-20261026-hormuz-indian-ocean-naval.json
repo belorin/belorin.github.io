@@ -1,7 +1,7 @@
 {
   "id": "ing-20261026-hormuz-indian-ocean-naval",
   "processed_on": "2026-10-26",
-  "coverage": "visible-complete",
+  "coverage": "visible-partial",
   "limit_note": "현재 접근 가능한 대화 발화만 처리. 외부 보도 재검증 없이 대화에 제시된 주장과 불확실성 구분.",
   "withheld_count": 0,
   "items": [
@@ -88,6 +88,31 @@
           "section": "전쟁의 종결은 무엇을 뜻하는가"
         }
       ]
+    },
+    {
+      "title": "차바하르 항만과 인도의 전략적 자율성",
+      "status": "integrated",
+      "document": "chabahar-india-strategic-autonomy-2026",
+      "section": "미국과 협력하면서 이란에도 투자하는 이유"
+    },
+    {
+      "title": "인도와 호주 해군의 전력 및 훈련",
+      "status": "integrated",
+      "document": "indian-ocean-navies-comparison",
+      "section": "훈련의 이름에서 실제 과목을 읽기"
+    },
+    {
+      "title": "호르무즈 기뢰 소해와 상업항행 재개",
+      "status": "integrated",
+      "document": "hormuz-sea-denial-reopening",
+      "section": "해협을 연다는 말의 세 단계"
+    },
+    {
+      "title": "미군 전개와 F-15E 승무원 구조",
+      "status": "integrated",
+      "document": "iran-war-us-force-losses-2026",
+      "section": "F-15E 승무원 구조 사건이 드러낸 증거의 층위"
     }
-  ]
+  ],
+  "scope_note": "현재 접근 가능한 대화 후반부 및 이전 문맥 요약과 저장소 원고에 근거한 부분 재집필. 접근 불가능한 초기 발화의 완전 복원은 주장하지 않음. 외부 조사 없음."
 }
