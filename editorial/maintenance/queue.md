@@ -4,15 +4,15 @@
 
 마지막 정비: 없음 · 다음 정비 버전: **M001** (첫 정비이므로 모든 문서가 변경 문서로 잡힌다)
 
-원고 123개 · 변경 문서 123 · 고립 14 · 한쪽 연결 78 · 보류 3 · 열린 교차 제안 7
+원고 125개 · 변경 문서 125 · 고립 14 · 한쪽 연결 78 · 보류 3 · 열린 교차 제안 7
 
-## 1. 지난 정비 이후 변경된 문서 (123)
+## 1. 지난 정비 이후 변경된 문서 (125)
 
 첫 정비이므로 전체 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
 - **음악** (36): `jazz-to-ai`, `double-bass`, `electric-bass`, `rhythm-section`, `big-band`, `brass-band`, `drum-kit`, `jazz-dialogue`, `jazz-listening`, `silent-film`, `circus-music-questions`, `circus-music-concepts`, `circus-music-research-ledger`, `jazz-history-plural`, `jazz-ensemble-labor`, `jazz-live-quartet-case`, `jazz-chronological-listening`, `jazz-current-ecosystem`, `jazz-career-path`, `silent-film-musician-labor`, `classical-canon-mauceri`, `daisuke-soga-conductor-career`, `long-running-music-broadcasts`, `japanese-classical-tv-conductor-image`, `woodwind-reeds-material-history`, `instrument-consumables-organic-materials`, `orchestra-instrument-stereotypes`, `korea-dance-musical-tours`, `orchestra-repertoire-data-access`, `orchestra-living-composers-canon`, `world-orchestras-repertoire-2026`, `korean-orchestras-repertoire-2026`, `orchestration-instrument-history`, `conductors-career-encores`, `orchestra-halls-seasons`, `mood-led-music-listening`
 - **AI와 사회** (18): `ai-human-control-guide`, `ai-takeover-human-recourse`, `ai-goals-hostage-and-bait`, `gradual-disempowerment`, `disempowerment-measurement`, `llm-disempowerment-patterns`, `conversational-ai-persuasion`, `ai-conversation-data-access`, `ai-democracy-narrow-corridor`, `ai-economic-transition`, `ai-capital-labor-distribution`, `ai-class-fiction`, `ai-domination-gradient`, `hank-asher-data-fusion-ai`, `korea-personal-data-lifecycle`, `ai-compute-scaling-inference`, `japan-physical-ai-skill-transfer`, `ai-transition-policy-gap`
-- **문화와 역사** (15): `burning-man-community`, `global-festival-streaming`, `burning-man-institutions`, `burning-man-regional-network`, `sumer-bible-primeval-history`, `war-escalation-local-to-world`, `hate-escalation-brakes-history`, `gwangju-building-art-network`, `ancient-philosophy-beyond-greece`, `dreyfus-affair-intellectuals`, `world-crisis-historical-analogies`, `venice-biennale-history`, `venice-biennale-sites-pavilions`, `venice-biennale-2026-critical-reception`, `jewish-messianic-claimants-kabbalah`
+- **문화와 역사** (17): `burning-man-community`, `global-festival-streaming`, `burning-man-institutions`, `burning-man-regional-network`, `sumer-bible-primeval-history`, `war-escalation-local-to-world`, `hate-escalation-brakes-history`, `gwangju-building-art-network`, `ancient-philosophy-beyond-greece`, `dreyfus-affair-intellectuals`, `world-crisis-historical-analogies`, `venice-biennale-history`, `venice-biennale-sites-pavilions`, `venice-biennale-2026-critical-reception`, `jewish-messianic-claimants-kabbalah`, `luddite-movement-history`, `luddite-executions-memory`
 - **사회와 제도** (12): `public-land-and-blm`, `stalking-harm-and-autonomy`, `excellent-victim-kwak-aram`, `europe-russia-escalation-signals-2026`, `drone-asymmetric-warfare`, `dousureba-yokatta-family-psychiatry`, `utsunomiya-psychiatric-hospital-reform`, `black-sea-ukraine-sea-denial`, `ukraine-ground-drone-defense`, `russia-ukraine-war-endurance`, `south-asia-border-rivalries-2026`, `global-flashpoints-likelihood-2026`
 - **철학** (11): `deleuze-becoming-new`, `deleuze-cartography-future`, `post-deleuze-novelty-thinkers`, `deleuze-negation-history`, `deleuze-control-marx-future`, `contemporary-governing-philosophies`, `chiikawa-philosophy`, `deleuze-number-intensity-spatium`, `hegel-fichte-schelling-difference`, `deleuze-unthinkable-fold-thought`, `freud-before-anti-oedipus`
 - **운영** (4): `living-notes`, `editing-principles`, `wiki-building-history`, `wiki-operations-pipeline`
@@ -169,7 +169,7 @@
 - `ai-human-control-guide` ↔ `gradual-disempowerment` · 0.12 · 연결됨
 - `global-reading-club-2026-books` ↔ `anne-carson-nobel-first-reactions` · 0.12
 - `wiki-building-history` ↔ `wiki-operations-pipeline` · 0.12 · 연결됨
-- `burning-man-institutions` ↔ `burning-man-regional-network` · 0.12 · 연결됨
+- `luddite-movement-history` ↔ `luddite-executions-memory` · 0.12 · 연결됨
 
 ## 6. 보류 항목 (3)
 
@@ -198,5 +198,5 @@
 
 ## 9. 분류 참고
 
-분류 21개: 음악 36, AI와 사회 18, 문화와 역사 15, 사회와 제도 12, 철학 11, 운영 4, 독서 문화 3, 영화 3, 정치경제 3, 생명과학 3, 철학·사상사 3, 미분류 2, 기술·지식 아카이브 2, 질문 1, 언어 1, 문학 1, 자연과 과학 1, 문화 1, 창작 1, 철학·심리 1, 종합 1
+분류 21개: 음악 36, AI와 사회 18, 문화와 역사 17, 사회와 제도 12, 철학 11, 운영 4, 독서 문화 3, 영화 3, 정치경제 3, 생명과학 3, 철학·사상사 3, 미분류 2, 기술·지식 아카이브 2, 질문 1, 언어 1, 문학 1, 자연과 과학 1, 문화 1, 창작 1, 철학·심리 1, 종합 1
 문서가 하나뿐인 분류 8개: 질문, 언어, 문학, 자연과 과학, 문화, 창작, 철학·심리, 종합. 분류 체계 변경은 제안만 한다.

@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 659개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 666개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (3)
 
@@ -142,7 +142,7 @@
 - 자동화와 제도 적응의 시차 → `ai-transition-policy-gap` § 왜 이행기를 독립적인 연구 대상으로 보아야 하는가 · `ing-20261024-ai-policy-gap`
 - 공개 크레딧의 검색 가능한 이력화와 동명이인 위험 → `korea-personal-data-lifecycle` § 공개된 크레딧이 검색 가능한 개인 이력이 될 때 · `ing-20261025-credit-observation`
 
-## 문화와 역사 (117)
+## 문화와 역사 (124)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -263,6 +263,13 @@
 - 시대·인물·구원 운동 성격을 대조하는 간략 연표 → `jewish-messianic-claimants-kabbalah` § 대표 인물의 간략 연표와 분류 · `ing-20261026-jewish-messianism-kabbalah`
 - 모든 세기라는 수사·연대별 증거 불균등·공동체의 권위 부여 기준 → `jewish-messianic-claimants-kabbalah` § '모든 세기의 메시아'라는 표현을 읽는 세 가지 기준 · `ing-20261026-jewish-messianism-kabbalah`
 - 서지·개별 전승·메시아 자칭 여부의 재검증 필요성 → `jewish-messianic-claimants-kabbalah` § 자료 범위와 검토할 문제 · `ing-20261026-jewish-messianism-kabbalah`
+- 러다이트의 지역별 노동조건과 1811~1813년 진행 → `luddite-movement-history` § 1812년: 지역 운동이 무장 충돌로 바뀌다 · `ing-20261026-luddite-history-executions`
+- 기술 반대 통념과 집단교섭 해석의 구별 → `luddite-movement-history` § 기술 반대라는 이름의 함정 · `ing-20261026-luddite-history-executions`
+- 요크 랭커스터 체스터 후기 사건의 사형 집행과 선고 구분 → `luddite-executions-memory` § 사망자 명단을 만들 때의 첫 구분 · `ing-20261026-luddite-history-executions`
+- 요크 사형자 명단과 개인별 신상의 미검증 문제 → `luddite-executions-memory` § 요크셔: 이름이 남은 사람들 · `ing-20261026-luddite-history-executions`
+- 러프버러 펜트리치와 후속 운동의 구별 → `luddite-executions-memory` § 1816~1817년: 후기 사건 · `ing-20261026-luddite-history-executions`
+- 처형자의 개인사 복원과 순교자 기억의 한계 → `luddite-executions-memory` § 사람의 삶을 복원하는 방법 · `ing-20261026-luddite-history-executions`
+- 프랭크 필과 사이크스의 오래된 공개 도서 및 번역 이용조건 → `luddite-executions-memory` § 오래된 무료 공개 도서와 번역의 문제 · `ing-20261026-luddite-history-executions`
 
 ## 음악 (105)
 

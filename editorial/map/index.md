@@ -4,7 +4,7 @@
 > 사용 순서: ① 채팅에서 추출한 지식 항목마다 제목·별칭으로 후보를 찾는다 → ② 후보의 문서 카드 `editorial/map/docs/<id>.md`에서 절 목차와 장부 기록을 본다 → ③ 해당 절 본문을 읽고 대조한다. 전문으로 넓히는 조건은 WIKI_PROTOCOL §4를 따른다.
 > 지도와 카드는 후보를 찾는 도구일 뿐이다. 중복·반영 여부는 원고 본문을 읽고 판정한다.
 
-원고 122개 (미게시 3) · 종합 1편 · 절 1,309개 · 장부 지식 항목 659개
+원고 124개 (미게시 3) · 종합 1편 · 절 1,323개 · 장부 지식 항목 666개
 
 특정 논점이 이미 처리되었는지는 [지식 표제 역색인](knowledge.md)에서 낱말로 **검색**한다(통째로 읽지 않는다). 장부가 없는 원고는 문서 카드의 절 목차로 찾는다.
 
@@ -70,7 +70,7 @@
 - `japan-physical-ai-skill-transfer` 사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승 — 일본 피지컬 AI, 손지능, 숙련 전승 로봇, Physical AI Japan · 12절 · 7.8천 자 · 장부 11건
 - `ai-transition-policy-gap` AI 이행기의 정책 공백: 재교육이 해결하지 못하는 구조적 노동 대체 — AI 재교육의 한계, AI 이행기 정책 실패, 국제기구와 AI 경제 · 7절 · 4.9천 자 · 장부 6건
 
-## 문화와 역사 (15)
+## 문화와 역사 (17)
 
 - `burning-man-community` 버닝맨의 기원과 불의 공동체: 해변의 놀이에서 임시도시까지 — 버닝맨, Burning Man, Man Burn, Temple Burn · 8절 · 4.9천 자 · 장부 11건
 - `global-festival-streaming` 집에서 남의 축제를 엿보기: 세계 연례행사의 방송·스트리밍 지도 — 세계 축제 스트리밍, 집에서 보는 축제, 연례행사 스트리밍 · 9절 · 2.9천 자 · 장부 3건
@@ -87,6 +87,8 @@
 - `venice-biennale-sites-pavilions` 자르디니와 아르세날레: 베니스 비엔날레의 두 공간과 국가관 지도 — 자르디니, Giardini della Biennale, 아르세날레, Arsenale, 베니스 국가관 목록 · 8절 · 3.5천 자 · 장부 5건
 - `venice-biennale-2026-critical-reception` 2026 베니스 비엔날레: 'In Minor Keys'의 비평, 정치적 파열과 느린 평가 — 2026 베니스 비엔날레, In Minor Keys, 2026 Venice Biennale, 코요 쿠오 비엔날레 · 8절 · 5.3천 자 · 장부 7건
 - `jewish-messianic-claimants-kabbalah` 유대교의 수많은 메시아들: 중세의 구원 운동에서 카발라와 샤브타이 츠비까지 — 중세 유대교 메시아, 유대 메시아 참칭자, 유대교의 메시아들, 카발라와 메시아주의, Pseudo-Messiahs · 12절 · 8.1천 자 · 장부 12건
+- `luddite-movement-history` 러다이트 운동: 기계 파괴에서 교수대까지 — 러다이트 운동, Luddite movement, 네드 러드 · 7절 · 2.4천 자 · 장부 2건
+- `luddite-executions-memory` 러다이트 처형자와 기억: 이름, 재판, 그리고 남겨진 기록 — 러다이트 처형자, 러다이트 사형자 명단, Luddite executions · 7절 · 2.1천 자 · 장부 5건
 
 ## 사회와 제도 (12)
 

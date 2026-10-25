@@ -289,6 +289,12 @@
 - **[유대교의 수많은 메시아들: 중세의 구원 운동에서 카발라와 샤브타이 츠비까지](wiki/jewish-messianic-claimants-kabbalah.md)** · 별칭: 중세 유대교 메시아, 유대 메시아 참칭자, 유대교의 메시아들, 카발라와 메시아주의, Pseudo-Messiahs · 수정: 2026-10-26 · 검토: 접근 가능한 개략 서술 기반 · 일부 전승·연대·메시아 자칭 여부 검토 필요
   - 크레타의 모세에서 샤브타이 츠비와 프랑크까지 메시아 참칭자, 선구자, 예언자와 카발라 신비가의 차이를 시대별로 구분한다.
   - [웹페이지](https://belorin.github.io/#jewish-messianic-claimants-kabbalah) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jewish-messianic-claimants-kabbalah.md)
+- **[러다이트 운동: 기계 파괴에서 교수대까지](wiki/luddite-movement-history.md)** · 별칭: 러다이트 운동, Luddite movement, 네드 러드 · 수정: 2026-10-26 · 검토: 대화 기반 집필 · 개인별 처형 명단과 인용 원문 검증 필요
+  - 1811~1817년 러다이트의 지역별 발단, 기술과 임금의 갈등, 무장 충돌과 법·재판·기억의 문제.
+  - [웹페이지](https://belorin.github.io/#luddite-movement-history) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/luddite-movement-history.md)
+- **[러다이트 처형자와 기억: 이름, 재판, 그리고 남겨진 기록](wiki/luddite-executions-memory.md)** · 별칭: 러다이트 처형자, 러다이트 사형자 명단, Luddite executions · 수정: 2026-10-26 · 검토: 대화 기반 집필 · 개인별 처형 명단과 인용 원문 검증 필요
+  - 러다이트 관련 사형 선고와 집행의 차이, 인물별 명단 검증, 후기 봉기, 역사서 공개본과 번역 저작권의 쟁점.
+  - [웹페이지](https://belorin.github.io/#luddite-executions-memory) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/luddite-executions-memory.md)
 
 ## 언어
 

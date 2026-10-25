@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 440,
+  "edge_count": 442,
   "edges": [
     {
       "from": "living-notes",
@@ -2408,6 +2408,18 @@
     {
       "from": "global-flashpoints-likelihood-2026",
       "to": "europe-russia-escalation-signals-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "luddite-movement-history",
+      "to": "luddite-executions-memory",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "luddite-executions-memory",
+      "to": "luddite-movement-history",
       "type": "related_to",
       "basis": "manifest.related"
     },
