@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 119,
+  "document_count": 120,
   "documents": [
     {
       "id": "living-notes",
@@ -3966,6 +3966,39 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/global-flashpoints-likelihood-2026.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/global-flashpoints-likelihood-2026.md",
       "page_url": "https://belorin.github.io/#global-flashpoints-likelihood-2026"
+    },
+    {
+      "id": "jewish-messianic-claimants-kabbalah",
+      "title": "유대교의 수많은 메시아들: 중세의 구원 운동에서 카발라와 샤브타이 츠비까지",
+      "aliases": [
+        "중세 유대교 메시아",
+        "유대 메시아 참칭자",
+        "유대교의 메시아들",
+        "카발라와 메시아주의",
+        "Pseudo-Messiahs"
+      ],
+      "category": "문화와 역사",
+      "tags": [
+        "유대교",
+        "메시아주의",
+        "카발라",
+        "아불라피아",
+        "샤브타이 츠비",
+        "다비드 알로이",
+        "마이모니데스",
+        "종교사"
+      ],
+      "summary": "크레타의 모세에서 샤브타이 츠비와 프랑크까지 메시아 참칭자, 선구자, 예언자와 카발라 신비가의 차이를 시대별로 구분한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "접근 가능한 개략 서술 기반 · 일부 전승·연대·메시아 자칭 여부 검토 필요",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jewish-messianic-claimants-kabbalah.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/jewish-messianic-claimants-kabbalah.md",
+      "page_url": "https://belorin.github.io/#jewish-messianic-claimants-kabbalah"
     }
   ]
 }

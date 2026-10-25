@@ -286,6 +286,9 @@
 - **[2026 베니스 비엔날레: 'In Minor Keys'의 비평, 정치적 파열과 느린 평가](wiki/venice-biennale-2026-critical-reception.md)** · 별칭: 2026 베니스 비엔날레, In Minor Keys, 2026 Venice Biennale, 코요 쿠오 비엔날레 · 수정: 2026-10-25 · 검토: 대화에 제시된 비평·보도 정리 · 개별 원문·작품·사건 재검증 필요
   - 코요 쿠오의 사후 구현과 중앙전의 과밀·정치적 회피 논란, 대립하는 평론 및 주목받은 국가관·작품을 장기 평가의 문제와 연결한다.
   - [웹페이지](https://belorin.github.io/#venice-biennale-2026-critical-reception) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/venice-biennale-2026-critical-reception.md)
+- **[유대교의 수많은 메시아들: 중세의 구원 운동에서 카발라와 샤브타이 츠비까지](wiki/jewish-messianic-claimants-kabbalah.md)** · 별칭: 중세 유대교 메시아, 유대 메시아 참칭자, 유대교의 메시아들, 카발라와 메시아주의, Pseudo-Messiahs · 수정: 2026-10-26 · 검토: 접근 가능한 개략 서술 기반 · 일부 전승·연대·메시아 자칭 여부 검토 필요
+  - 크레타의 모세에서 샤브타이 츠비와 프랑크까지 메시아 참칭자, 선구자, 예언자와 카발라 신비가의 차이를 시대별로 구분한다.
+  - [웹페이지](https://belorin.github.io/#jewish-messianic-claimants-kabbalah) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jewish-messianic-claimants-kabbalah.md)
 
 ## 언어
 

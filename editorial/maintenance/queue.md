@@ -4,15 +4,15 @@
 
 마지막 정비: 없음 · 다음 정비 버전: **M001** (첫 정비이므로 모든 문서가 변경 문서로 잡힌다)
 
-원고 122개 · 변경 문서 122 · 고립 13 · 한쪽 연결 78 · 보류 3 · 열린 교차 제안 7
+원고 123개 · 변경 문서 123 · 고립 14 · 한쪽 연결 78 · 보류 3 · 열린 교차 제안 7
 
-## 1. 지난 정비 이후 변경된 문서 (122)
+## 1. 지난 정비 이후 변경된 문서 (123)
 
 첫 정비이므로 전체 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
 - **음악** (36): `jazz-to-ai`, `double-bass`, `electric-bass`, `rhythm-section`, `big-band`, `brass-band`, `drum-kit`, `jazz-dialogue`, `jazz-listening`, `silent-film`, `circus-music-questions`, `circus-music-concepts`, `circus-music-research-ledger`, `jazz-history-plural`, `jazz-ensemble-labor`, `jazz-live-quartet-case`, `jazz-chronological-listening`, `jazz-current-ecosystem`, `jazz-career-path`, `silent-film-musician-labor`, `classical-canon-mauceri`, `daisuke-soga-conductor-career`, `long-running-music-broadcasts`, `japanese-classical-tv-conductor-image`, `woodwind-reeds-material-history`, `instrument-consumables-organic-materials`, `orchestra-instrument-stereotypes`, `korea-dance-musical-tours`, `orchestra-repertoire-data-access`, `orchestra-living-composers-canon`, `world-orchestras-repertoire-2026`, `korean-orchestras-repertoire-2026`, `orchestration-instrument-history`, `conductors-career-encores`, `orchestra-halls-seasons`, `mood-led-music-listening`
 - **AI와 사회** (18): `ai-human-control-guide`, `ai-takeover-human-recourse`, `ai-goals-hostage-and-bait`, `gradual-disempowerment`, `disempowerment-measurement`, `llm-disempowerment-patterns`, `conversational-ai-persuasion`, `ai-conversation-data-access`, `ai-democracy-narrow-corridor`, `ai-economic-transition`, `ai-capital-labor-distribution`, `ai-class-fiction`, `ai-domination-gradient`, `hank-asher-data-fusion-ai`, `korea-personal-data-lifecycle`, `ai-compute-scaling-inference`, `japan-physical-ai-skill-transfer`, `ai-transition-policy-gap`
-- **문화와 역사** (14): `burning-man-community`, `global-festival-streaming`, `burning-man-institutions`, `burning-man-regional-network`, `sumer-bible-primeval-history`, `war-escalation-local-to-world`, `hate-escalation-brakes-history`, `gwangju-building-art-network`, `ancient-philosophy-beyond-greece`, `dreyfus-affair-intellectuals`, `world-crisis-historical-analogies`, `venice-biennale-history`, `venice-biennale-sites-pavilions`, `venice-biennale-2026-critical-reception`
+- **문화와 역사** (15): `burning-man-community`, `global-festival-streaming`, `burning-man-institutions`, `burning-man-regional-network`, `sumer-bible-primeval-history`, `war-escalation-local-to-world`, `hate-escalation-brakes-history`, `gwangju-building-art-network`, `ancient-philosophy-beyond-greece`, `dreyfus-affair-intellectuals`, `world-crisis-historical-analogies`, `venice-biennale-history`, `venice-biennale-sites-pavilions`, `venice-biennale-2026-critical-reception`, `jewish-messianic-claimants-kabbalah`
 - **사회와 제도** (12): `public-land-and-blm`, `stalking-harm-and-autonomy`, `excellent-victim-kwak-aram`, `europe-russia-escalation-signals-2026`, `drone-asymmetric-warfare`, `dousureba-yokatta-family-psychiatry`, `utsunomiya-psychiatric-hospital-reform`, `black-sea-ukraine-sea-denial`, `ukraine-ground-drone-defense`, `russia-ukraine-war-endurance`, `south-asia-border-rivalries-2026`, `global-flashpoints-likelihood-2026`
 - **철학** (11): `deleuze-becoming-new`, `deleuze-cartography-future`, `post-deleuze-novelty-thinkers`, `deleuze-negation-history`, `deleuze-control-marx-future`, `contemporary-governing-philosophies`, `chiikawa-philosophy`, `deleuze-number-intensity-spatium`, `hegel-fichte-schelling-difference`, `deleuze-unthinkable-fold-thought`, `freud-before-anti-oedipus`
 - **운영** (4): `living-notes`, `editing-principles`, `wiki-building-history`, `wiki-operations-pipeline`
@@ -32,7 +32,7 @@
 - **창작** (1): `gut-cosmic-horror-worldbuilding`
 - **철학·심리** (1): `freud-dreams-modern-science`
 
-## 2. 들어오는 연결이 없는 문서 (13)
+## 2. 들어오는 연결이 없는 문서 (14)
 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
@@ -49,6 +49,7 @@
 - `bird-vocalization-sparrow` 새소리는 어디까지 번역되었는가: 행동 신호에서 참새의 짹짹까지
 - `dwar-netflix-revival` 《디워》의 2026년 넷플릭스 역주행: 플랫폼 내부 확산과 외부 바이럴
 - `replay-ladder-human-performance` 재생 사다리: 기술 전환은 인간 수행의 가치를 어디로 옮기는가
+- `jewish-messianic-claimants-kabbalah` 유대교의 수많은 메시아들: 중세의 구원 운동에서 카발라와 샤브타이 츠비까지
 
 ## 3. 한쪽에서만 건 관련 문서 (78)
 
@@ -133,7 +134,7 @@
 - `replay-ladder-human-performance` → `ai-transition-policy-gap`
 - `replay-ladder-human-performance` → `open-questions`
 
-## 4. 관련 문서가 없는 문서 (13)
+## 4. 관련 문서가 없는 문서 (14)
 
 - `ai-mediated-human-change` undefined
 - `circus-music-history` undefined
@@ -148,6 +149,7 @@
 - `korea-dance-musical-tours` 한국에서 기다릴 대형 뮤지컬: 내한 전망과 춤·아크로바틱 취향의 선택법
 - `bird-vocalization-sparrow` 새소리는 어디까지 번역되었는가: 행동 신호에서 참새의 짹짹까지
 - `dwar-netflix-revival` 《디워》의 2026년 넷플릭스 역주행: 플랫폼 내부 확산과 외부 바이럴
+- `jewish-messianic-claimants-kabbalah` 유대교의 수많은 메시아들: 중세의 구원 운동에서 카발라와 샤브타이 츠비까지
 
 ## 5. 제목·소제목이 비슷한 문서 쌍 (상위 15)
 
@@ -196,5 +198,5 @@
 
 ## 9. 분류 참고
 
-분류 21개: 음악 36, AI와 사회 18, 문화와 역사 14, 사회와 제도 12, 철학 11, 운영 4, 독서 문화 3, 영화 3, 정치경제 3, 생명과학 3, 철학·사상사 3, 미분류 2, 기술·지식 아카이브 2, 질문 1, 언어 1, 문학 1, 자연과 과학 1, 문화 1, 창작 1, 철학·심리 1, 종합 1
+분류 21개: 음악 36, AI와 사회 18, 문화와 역사 15, 사회와 제도 12, 철학 11, 운영 4, 독서 문화 3, 영화 3, 정치경제 3, 생명과학 3, 철학·사상사 3, 미분류 2, 기술·지식 아카이브 2, 질문 1, 언어 1, 문학 1, 자연과 과학 1, 문화 1, 창작 1, 철학·심리 1, 종합 1
 문서가 하나뿐인 분류 8개: 질문, 언어, 문학, 자연과 과학, 문화, 창작, 철학·심리, 종합. 분류 체계 변경은 제안만 한다.
