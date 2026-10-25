@@ -67,7 +67,7 @@ const visit = fragment => {
 };
 assert.ok(notes.length > 0, 'Expected published notes');
 assert.match(html(), /오늘의 무작위 문서/);
-assert.match(html(), /주제별 보기/);
+assert.ok(!html().includes('topic-grid'), 'Home no longer repeats the topic list');
 assert.match(html(), /최근 갱신/);
 assert.ok(nodes.get('#filters').children.length > 1, 'Missing category filters');
 
