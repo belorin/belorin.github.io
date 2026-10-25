@@ -4362,6 +4362,40 @@
         "jazz-live-quartet-case",
         "jazz-ensemble-labor"
       ]
+    },
+    {
+      "path": "wiki/hormuz-iran-war-naval-power-2026.md",
+      "publish": true,
+      "order": 133,
+      "id": "hormuz-iran-war-naval-power-2026",
+      "title": "호르무즈 해협은 왜 함대로 열 수 없는가: 2026년 이란전과 인도양 해군력",
+      "category": "사회와 제도",
+      "status": "2026년 봄 전황 분석 · 사실관계 검토 필요",
+      "updated": "2026-10-26",
+      "summary": "차바하르와 인도 해군의 전략, 주요 해군의 전력 비교, 호르무즈 해상거부·소해·항행 복구, 미군 증원과 휴전 시나리오, 이란의 기지 공격 및 F-15E 손실 보도의 증거 수준을 구별한다.",
+      "tags": [
+        "호르무즈",
+        "이란전",
+        "차바하르",
+        "인도 해군",
+        "미군",
+        "해상거부",
+        "비대칭전"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "drone-asymmetric-warfare",
+        "south-asia-border-rivalries-2026",
+        "black-sea-ukraine-sea-denial",
+        "war-escalation-local-to-world"
+      ],
+      "aliases": [
+        "호르무즈 해협 봉쇄",
+        "2026 이란전 해군력",
+        "차바하르와 인도양 해군"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-26"
     }
   ]
 }
