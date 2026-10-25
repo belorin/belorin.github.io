@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 126,
+  "document_count": 127,
   "documents": [
     {
       "id": "living-notes",
@@ -4188,6 +4188,40 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gpt-wiki-zero-prototype.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/gpt-wiki-zero-prototype.md",
       "page_url": "https://belorin.github.io/#gpt-wiki-zero-prototype"
+    },
+    {
+      "id": "starcraft-pluto-ai",
+      "title": "Pluto AI와 인간의 스타크래프트: 자가대전이 만든 다른 메타",
+      "aliases": [
+        "Pluto AI",
+        "플루토 AI",
+        "스타크래프트 플루토",
+        "tscmoo Pluto"
+      ],
+      "category": "AI와 사회",
+      "tags": [
+        "StarCraft",
+        "Brood War",
+        "Pluto AI",
+        "tscmoo",
+        "강화학습",
+        "자가대전",
+        "게임 AI",
+        "BWAPI",
+        "프로게이머",
+        "인간-AI 대결"
+      ],
+      "summary": "Pluto의 개발자와 구조, 자가대전 강화학습, 한국 프로 대인전, API 조작 우위와 인간 메타의 충돌, 드롭·치즈 등 취약점과 인간의 적응, 개발자의 공개 반응 경계를 총합한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 집필 · 경기 전적·개발자 발언·세부 수치 외부 재검증 필요",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/starcraft-pluto-ai.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/starcraft-pluto-ai.md",
+      "page_url": "https://belorin.github.io/#starcraft-pluto-ai"
     }
   ]
 }

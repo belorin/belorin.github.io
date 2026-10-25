@@ -199,6 +199,9 @@
 - **[AI 이행기의 정책 공백: 재교육이 해결하지 못하는 구조적 노동 대체](wiki/ai-transition-policy-gap.md)** · 별칭: AI 재교육의 한계, AI 이행기 정책 실패, 국제기구와 AI 경제 · 수정: 2026-10-24 · 검토: 조건부 정책 시뮬레이션·외부 미검증
   - 국제기구가 위험을 인식해도 대응하지 못하는 조건, 재교육의 거시적 한계, 자동화·재정·조세·정치의 시차를 분석한다.
   - [웹페이지](https://belorin.github.io/#ai-transition-policy-gap) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-transition-policy-gap.md)
+- **[Pluto AI와 인간의 스타크래프트: 자가대전이 만든 다른 메타](wiki/starcraft-pluto-ai.md)** · 별칭: Pluto AI, 플루토 AI, 스타크래프트 플루토, tscmoo Pluto · 수정: 2026-10-26 · 검토: 대화 기반 집필 · 경기 전적·개발자 발언·세부 수치 외부 재검증 필요
+  - Pluto의 개발자와 구조, 자가대전 강화학습, 한국 프로 대인전, API 조작 우위와 인간 메타의 충돌, 드롭·치즈 등 취약점과 인간의 적응, 개발자의 공개 반응 경계를 총합한다.
+  - [웹페이지](https://belorin.github.io/#starcraft-pluto-ai) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/starcraft-pluto-ai.md)
 
 ## 철학
 
