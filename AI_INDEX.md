@@ -88,7 +88,7 @@
 - **[유성영화의 등장과 극장 음악가: 재생 가능한 연주가 노동을 바꾸다](wiki/silent-film-musician-labor.md)** · 별칭: 유성영화와 극장 음악가 · 수정: 2026-10-22 · 검토: 대화 내 주장·세부 검증 필요
   - 무성영화의 현장 반주에서 녹음된 유성영화로의 전환, 실직·노조·공공사업과 재생 수익을 둘러싼 노동 문제를 분석한다.
   - [웹페이지](https://belorin.github.io/#silent-film-musician-labor) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/silent-film-musician-labor.md)
-- **[20세기 클래식의 잃어버린 계보: 존 마우체리와 정전의 재편](wiki/classical-canon-mauceri.md)** · 별칭: 전쟁과 음악, 클래식의 정전화, 영화음악과 클래식 · 수정: 2026-10-23 · 검토: 대화 내 주장·공연 일정 및 학계 수용 재검증 필요
+- **[20세기 클래식의 잃어버린 계보: 존 마우체리와 정전의 재편](wiki/classical-canon-mauceri.md)** · 별칭: 전쟁과 음악, 클래식의 정전화, 영화음악과 클래식 · 수정: 2026-10-25 · 검토: 대화 내 주장·공연 일정 및 학계 수용 재검증 필요
   - 나치의 퇴폐음악 정책과 망명, 영화·게임음악의 정전 진입, 전후 교향악의 반복 연주와 미래 음악사 재편을 구별한다.
   - [웹페이지](https://belorin.github.io/#classical-canon-mauceri) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/classical-canon-mauceri.md)
 - **[소가 다이스케와 지휘자의 직업 세계: 광주 인연에서 국제 중견 경력까지](wiki/daisuke-soga-conductor-career.md)** · 별칭: 소가 다이스케, 曽我大介, Daisuke Soga, 지휘자 시장 · 수정: 2026-10-23 · 검토: 인물 경력·시장 추정치 외부 재검증 필요
@@ -112,6 +112,27 @@
 - **[한국에서 기다릴 대형 뮤지컬: 내한 전망과 춤·아크로바틱 취향의 선택법](wiki/korea-dance-musical-tours.md)** · 별칭: 한국 뮤지컬 내한, 춤 많은 뮤지컬, 아크로바틱 뮤지컬, 뮤지컬 내한 전망, 라이온 킹 같은 뮤지컬 · 수정: 2026-10-25 · 검토: 2026년 9월 대화 내 확인 일정·장기 전망 총합 · 이후 일정과 미확정 한국행 재검증 필요
   - 2026년 9월 확인 기준으로 한국 대형 뮤지컬의 확정 일정과 장기 내한 신호를 분리하고, 라이온 킹·노트르담 드 파리 같은 신체적 무대 언어를 좋아하는 관객에게 캣츠·MJ·물랑루즈·Some Like It Hot 등을 춤의 성격별로 비교한다.
   - [웹페이지](https://belorin.github.io/#korea-dance-musical-tours) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-dance-musical-tours.md)
+- **[오케스트라를 세는 법: 세계 레퍼토리 데이터와 지역의 클래식 접근성](wiki/orchestra-repertoire-data-access.md)** · 별칭: 세계 오케스트라 통계, Classical Access Index · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
+  - Bachtrack·Operabase·뉴욕 필 공연 DB의 범위, 나라별 오케스트라 수의 함정, 공연장과 30~120분 생활권 접근성 지수 및 2014~2025년 등록 콘서트 추이를 비교한다.
+  - [웹페이지](https://belorin.github.io/#orchestra-repertoire-data-access) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-repertoire-data-access.md)
+- **[클래식은 화석인가: 생존 작곡가의 연주와 정전이 자라는 속도](wiki/orchestra-living-composers-canon.md)** · 별칭: 살아 있는 작곡가, 현대 클래식 정전 · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
+  - Bachtrack 2022~2025년 생존 작곡가·여성 작곡가 통계, 패르트·윌리엄스와 신작 재연의 차이, 음악기관의 현재성을 분석한다.
+  - [웹페이지](https://belorin.github.io/#orchestra-living-composers-canon) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-living-composers-canon.md)
+- **[세계 5대 오케스트라의 2026년 프로그램: 전통, 실험, 계승, 세대교체](wiki/world-orchestras-repertoire-2026.md)** · 별칭: 세계 5대 교향악단, 세계 명문 악단 2026 · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
+  - 빈·베를린·콘세르트헤바우·런던 심포니·시카고의 주요 작품·지휘자·시즌 전략을 대조하고 레퍼토리 기반 캐릭터 비평을 분리한다.
+  - [웹페이지](https://belorin.github.io/#world-orchestras-repertoire-2026) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-orchestras-repertoire-2026.md)
+- **[한국 교향악단의 2026년 레퍼토리: 도시 이미지가 아니라 실제 선곡으로 구별하기](wiki/korean-orchestras-repertoire-2026.md)** · 별칭: 한국 오케스트라 캐릭터, 한국 교향악단 선곡 · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
+  - 서울·KBS·국립·부산·인천·부천·대구·광주·대전·수원·경기필의 확인된 2026년 프로그램과 인상비평의 한계를 구별한다.
+  - [웹페이지](https://belorin.github.io/#korean-orchestras-repertoire-2026) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korean-orchestras-repertoire-2026.md)
+- **[오케스트라라는 악기의 내부: 편성 비용, 협주곡, 새 음색의 역사](wiki/orchestration-instrument-history.md)** · 별칭: 오케스트레이션 역사, 새 어쿠스틱 악기 · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
+  - 말러 대편성의 고용·리허설 비용, 라흐마니노프의 타악·하프, 바로크 협주곡, 음악 공간의 역사, 첼레스타와 새로운 어쿠스틱 악기 계보를 총합한다.
+  - [웹페이지](https://belorin.github.io/#orchestration-instrument-history) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestration-instrument-history.md)
+- **[지휘자 스타 시스템의 미래: 클라우스 메켈레, 젊은 지휘자 붐, 앵콜의 마지막 한마디](wiki/conductors-career-encores.md)** · 별칭: Klaus Mäkelä, 메켈레 현상, 지휘자 앵콜 · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
+  - 메켈레의 암스테르담·시카고 동시 취임과 젊은 지휘자 세대교체, 벤치·칸텔리·쉬퍼스 등의 역사적 사례, 앵콜 선곡을 구분한다.
+  - [웹페이지](https://belorin.github.io/#conductors-career-encores) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/conductors-career-encores.md)
+- **[오케스트라는 어디에 사는가: 이름, 시즌, 콘서트홀과 신년음악회](wiki/orchestra-halls-seasons.md)** · 별칭: 2027 빈 필 신년음악회, 세계 콘서트홀 · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
+  - Symphony·Philharmonic 명칭의 역사, 가을 개막 시즌과 한국의 달력연도 시즌, 다섯 명문 악단의 본거지 홀·좌석 수, 빈 필 신년음악회 중계와 추첨을 다룬다.
+  - [웹페이지](https://belorin.github.io/#orchestra-halls-seasons) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-halls-seasons.md)
 
 ## AI와 사회
 
@@ -160,6 +181,15 @@
 - **[한국 개인정보의 생애: 수집·결합·유출·재사용의 경로](wiki/korea-personal-data-lifecycle.md)** · 별칭: 한국 개인정보 유통, 개인정보의 생애, 개인정보 유출 이후, 한국 데이터 브로커 · 수정: 2026-10-25 · 검토: 대화 내 확인·법제와 최근 사례 세부 재검증 필요
   - 체크박스와 본인확인부터 광고·가명결합·마이데이터, 유출 뒤의 계정탈취·피싱·영업 DB까지 한국 개인정보가 복제·결합·재사용되는 경로를 추적한다.
   - [웹페이지](https://belorin.github.io/#korea-personal-data-lifecycle) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-personal-data-lifecycle.md)
+- **[AI는 계산이 많아지면 무엇이 달라지는가: 데이터센터와 추론 스케일링](wiki/ai-compute-scaling-inference.md)** · 별칭: AI 데이터센터와 추론, test-time scaling, 추론 컴퓨트, AI 계산 스케일링 · 수정: 2026-10-25 · 검토: 대화 내 확인 자료 총합 · 데이터센터 규모·기업 계획·추론 연구 세부 외부 재검증 필요
+  - AI 데이터센터 증설을 단순한 더 큰 사전학습이 아니라 test-time compute, 병렬 탐색·검증, 과학·코딩·피지컬 AI 계산의 확대로 읽고 계산량의 한계를 함께 정리한다.
+  - [웹페이지](https://belorin.github.io/#ai-compute-scaling-inference) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-compute-scaling-inference.md)
+- **[사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승](wiki/japan-physical-ai-skill-transfer.md)** · 별칭: 일본 피지컬 AI, 손지능, 숙련 전승 로봇, Physical AI Japan · 수정: 2026-10-25 · 검토: 대화 내 확인 자료 총합 · 기업 발표·정부 목표·국가 비교 해석 외부 재검증 필요
+  - 가와사키 Successor와 Honda 다지 핸드부터 Toyota·Yaskawa·FANUC·AIST까지, 일본이 숙련자의 손동작·힘 조절을 로봇 학습 데이터로 옮기려는 흐름을 정리한다.
+  - [웹페이지](https://belorin.github.io/#japan-physical-ai-skill-transfer) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japan-physical-ai-skill-transfer.md)
+- **[AI 이행기의 정책 공백: 재교육이 해결하지 못하는 구조적 노동 대체](wiki/ai-transition-policy-gap.md)** · 별칭: AI 재교육의 한계, AI 이행기 정책 실패, 국제기구와 AI 경제 · 수정: 2026-10-24 · 검토: 조건부 정책 시뮬레이션·외부 미검증
+  - 국제기구가 위험을 인식해도 대응하지 못하는 조건, 재교육의 거시적 한계, 자동화·재정·조세·정치의 시차를 분석한다.
+  - [웹페이지](https://belorin.github.io/#ai-transition-policy-gap) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-transition-policy-gap.md)
 
 ## 철학
 
@@ -265,3 +295,9 @@
 - **[앤 카슨의 2026년 노벨문학상 수상 반응: ‘미쳤다’와 독자가 작품을 만나는 경로](wiki/anne-carson-nobel-first-reactions.md)** · 별칭: 앤 카슨 노벨상 인터뷰, Anne Carson Nobel reaction, 앤 카슨 미쳤다, Anne Carson crazy, 문학 작품의 발견 · 수정: 2026-10-24 · 검토: 2026년 수상 직후 보도 재인용 · RÚV 영상·영어 축어록 원문 재대조 필요
   - 앤 카슨의 노벨문학상 수상 직후 'crazy' 반응과 독자들이 작품을 접하고 읽게 되는 경로에 관한 발언을 인터뷰별로 구분하고, 원문·의역·편집상 독해의 경계를 정리한다.
   - [웹페이지](https://belorin.github.io/#anne-carson-nobel-first-reactions) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/anne-carson-nobel-first-reactions.md)
+
+## 자연과 과학
+
+- **[새소리는 어디까지 번역되었는가: 행동 신호에서 참새의 짹짹까지](wiki/bird-vocalization-sparrow.md)** · 별칭: 새소리 번역, 새의 언어, 참새 울음소리, 참새어, 조류 의사소통 · 수정: 2026-10-25 · 검토: 대화 내부의 연구 소개 총합 · 논문별 세부 분류·수치 재검증 필요
+  - 종 인식·발성 유형·행동 신호·인간 언어 번역의 차이를 일본박새·금화조·한국 참새 연구로 검토하고, 참새 아홉 유형과 도시 소음 연구의 검증 경계를 정리한다.
+  - [웹페이지](https://belorin.github.io/#bird-vocalization-sparrow) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/bird-vocalization-sparrow.md)

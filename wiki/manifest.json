@@ -994,7 +994,8 @@
         "llm-disempowerment-patterns",
         "ai-goals-hostage-and-bait",
         "ai-economic-transition",
-        "ai-capital-labor-distribution"
+        "ai-capital-labor-distribution",
+        "ai-transition-policy-gap"
       ],
       "aliases": [
         "점진적 무력화",
@@ -1353,7 +1354,7 @@
       "title": "20세기 클래식의 잃어버린 계보: 존 마우체리와 정전의 재편",
       "category": "음악",
       "status": "대화 내 주장·공연 일정 및 학계 수용 재검증 필요",
-      "updated": "2026-10-23",
+      "updated": "2026-10-25",
       "summary": "나치의 퇴폐음악 정책과 망명, 영화·게임음악의 정전 진입, 전후 교향악의 반복 연주와 미래 음악사 재편을 구별한다.",
       "tags": [
         "존 마우체리",
@@ -1366,7 +1367,9 @@
       "source": "내부 총합 · 접근 가능한 논의 기반 · 외부 재조사 없음",
       "related": [
         "silent-film",
-        "jazz-history-plural"
+        "jazz-history-plural",
+        "orchestra-living-composers-canon",
+        "orchestra-repertoire-data-access"
       ],
       "aliases": [
         "전쟁과 음악",
@@ -1374,7 +1377,7 @@
         "영화음악과 클래식"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-23"
+      "last_enriched_on": "2026-10-25"
     },
     {
       "path": "wiki/ai-economic-transition.md",
@@ -1399,7 +1402,8 @@
         "ai-class-fiction",
         "gradual-disempowerment",
         "ai-human-control-guide",
-        "open-questions"
+        "open-questions",
+        "ai-transition-policy-gap"
       ],
       "aliases": [
         "AI 경제 이행기",
@@ -1431,7 +1435,8 @@
         "ai-class-fiction",
         "gradual-disempowerment",
         "disempowerment-measurement",
-        "ai-human-control-guide"
+        "ai-human-control-guide",
+        "ai-transition-policy-gap"
       ],
       "aliases": [
         "AI와 자본 노동",
@@ -2419,9 +2424,323 @@
       "last_enriched_on": "2026-10-25"
     },
     {
-      "path": "wiki/bird-vocalization-sparrow.md",
+      "id": "orchestra-repertoire-data-access",
+      "path": "wiki/orchestra-repertoire-data-access.md",
       "publish": true,
       "order": 75,
+      "title": "오케스트라를 세는 법: 세계 레퍼토리 데이터와 지역의 클래식 접근성",
+      "category": "음악",
+      "status": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
+      "updated": "2026-10-25",
+      "summary": "Bachtrack·Operabase·뉴욕 필 공연 DB의 범위, 나라별 오케스트라 수의 함정, 공연장과 30~120분 생활권 접근성 지수 및 2014~2025년 등록 콘서트 추이를 비교한다.",
+      "tags": [
+        "오케스트라 통계",
+        "레퍼토리 데이터",
+        "Bachtrack",
+        "KOPIS",
+        "접근성 지수"
+      ],
+      "source": "내부 총합 · 접근 가능한 논의 및 기존 위키만 사용 · 이번 편집에서 외부 추가 조사 없음",
+      "related": [
+        "orchestra-living-composers-canon",
+        "world-orchestras-repertoire-2026",
+        "orchestra-halls-seasons"
+      ],
+      "aliases": [
+        "세계 오케스트라 통계",
+        "Classical Access Index"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "id": "orchestra-living-composers-canon",
+      "path": "wiki/orchestra-living-composers-canon.md",
+      "publish": true,
+      "order": 76,
+      "title": "클래식은 화석인가: 생존 작곡가의 연주와 정전이 자라는 속도",
+      "category": "음악",
+      "status": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
+      "updated": "2026-10-25",
+      "summary": "Bachtrack 2022~2025년 생존 작곡가·여성 작곡가 통계, 패르트·윌리엄스와 신작 재연의 차이, 음악기관의 현재성을 분석한다.",
+      "tags": [
+        "생존 작곡가",
+        "현대 클래식",
+        "정전",
+        "초연",
+        "재연"
+      ],
+      "source": "내부 총합 · 접근 가능한 논의 및 기존 위키만 사용 · 이번 편집에서 외부 추가 조사 없음",
+      "related": [
+        "classical-canon-mauceri",
+        "orchestra-repertoire-data-access",
+        "world-orchestras-repertoire-2026"
+      ],
+      "aliases": [
+        "살아 있는 작곡가",
+        "현대 클래식 정전"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "id": "world-orchestras-repertoire-2026",
+      "path": "wiki/world-orchestras-repertoire-2026.md",
+      "publish": true,
+      "order": 77,
+      "title": "세계 5대 오케스트라의 2026년 프로그램: 전통, 실험, 계승, 세대교체",
+      "category": "음악",
+      "status": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
+      "updated": "2026-10-25",
+      "summary": "빈·베를린·콘세르트헤바우·런던 심포니·시카고의 주요 작품·지휘자·시즌 전략을 대조하고 레퍼토리 기반 캐릭터 비평을 분리한다.",
+      "tags": [
+        "2026 오케스트라",
+        "빈 필",
+        "베를린 필",
+        "LSO",
+        "시카고 심포니",
+        "콘세르트헤바우"
+      ],
+      "source": "내부 총합 · 접근 가능한 논의 및 기존 위키만 사용 · 이번 편집에서 외부 추가 조사 없음",
+      "related": [
+        "orchestra-living-composers-canon",
+        "korean-orchestras-repertoire-2026",
+        "conductors-career-encores",
+        "orchestra-halls-seasons"
+      ],
+      "aliases": [
+        "세계 5대 교향악단",
+        "세계 명문 악단 2026"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "id": "korean-orchestras-repertoire-2026",
+      "path": "wiki/korean-orchestras-repertoire-2026.md",
+      "publish": true,
+      "order": 78,
+      "title": "한국 교향악단의 2026년 레퍼토리: 도시 이미지가 아니라 실제 선곡으로 구별하기",
+      "category": "음악",
+      "status": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
+      "updated": "2026-10-25",
+      "summary": "서울·KBS·국립·부산·인천·부천·대구·광주·대전·수원·경기필의 확인된 2026년 프로그램과 인상비평의 한계를 구별한다.",
+      "tags": [
+        "한국 교향악단",
+        "2026 시즌",
+        "서울시향",
+        "인천시향",
+        "부천필",
+        "큐레이션"
+      ],
+      "source": "내부 총합 · 접근 가능한 논의 및 기존 위키만 사용 · 이번 편집에서 외부 추가 조사 없음",
+      "related": [
+        "world-orchestras-repertoire-2026",
+        "orchestra-repertoire-data-access",
+        "orchestra-living-composers-canon"
+      ],
+      "aliases": [
+        "한국 오케스트라 캐릭터",
+        "한국 교향악단 선곡"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "id": "orchestration-instrument-history",
+      "path": "wiki/orchestration-instrument-history.md",
+      "publish": true,
+      "order": 79,
+      "title": "오케스트라라는 악기의 내부: 편성 비용, 협주곡, 새 음색의 역사",
+      "category": "음악",
+      "status": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
+      "updated": "2026-10-25",
+      "summary": "말러 대편성의 고용·리허설 비용, 라흐마니노프의 타악·하프, 바로크 협주곡, 음악 공간의 역사, 첼레스타와 새로운 어쿠스틱 악기 계보를 총합한다.",
+      "tags": [
+        "관현악법",
+        "말러",
+        "라흐마니노프",
+        "협주곡",
+        "첼레스타",
+        "악기 혁신"
+      ],
+      "source": "내부 총합 · 접근 가능한 논의 및 기존 위키만 사용 · 이번 편집에서 외부 추가 조사 없음",
+      "related": [
+        "woodwind-reeds-material-history",
+        "orchestra-instrument-stereotypes",
+        "orchestra-halls-seasons",
+        "orchestra-living-composers-canon"
+      ],
+      "aliases": [
+        "오케스트레이션 역사",
+        "새 어쿠스틱 악기"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "id": "conductors-career-encores",
+      "path": "wiki/conductors-career-encores.md",
+      "publish": true,
+      "order": 80,
+      "title": "지휘자 스타 시스템의 미래: 클라우스 메켈레, 젊은 지휘자 붐, 앵콜의 마지막 한마디",
+      "category": "음악",
+      "status": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
+      "updated": "2026-10-25",
+      "summary": "메켈레의 암스테르담·시카고 동시 취임과 젊은 지휘자 세대교체, 벤치·칸텔리·쉬퍼스 등의 역사적 사례, 앵콜 선곡을 구분한다.",
+      "tags": [
+        "지휘자",
+        "클라우스 메켈레",
+        "젊은 지휘자",
+        "앵콜",
+        "스타 시스템"
+      ],
+      "source": "내부 총합 · 접근 가능한 논의 및 기존 위키만 사용 · 이번 편집에서 외부 추가 조사 없음",
+      "related": [
+        "daisuke-soga-conductor-career",
+        "world-orchestras-repertoire-2026",
+        "orchestra-living-composers-canon"
+      ],
+      "aliases": [
+        "Klaus Mäkelä",
+        "메켈레 현상",
+        "지휘자 앵콜"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "id": "orchestra-halls-seasons",
+      "path": "wiki/orchestra-halls-seasons.md",
+      "publish": true,
+      "order": 81,
+      "title": "오케스트라는 어디에 사는가: 이름, 시즌, 콘서트홀과 신년음악회",
+      "category": "음악",
+      "status": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
+      "updated": "2026-10-25",
+      "summary": "Symphony·Philharmonic 명칭의 역사, 가을 개막 시즌과 한국의 달력연도 시즌, 다섯 명문 악단의 본거지 홀·좌석 수, 빈 필 신년음악회 중계와 추첨을 다룬다.",
+      "tags": [
+        "콘서트홀",
+        "무지크페라인",
+        "오케스트라 시즌",
+        "필하모닉",
+        "신년음악회",
+        "빈 필"
+      ],
+      "source": "내부 총합 · 접근 가능한 논의 및 기존 위키만 사용 · 이번 편집에서 외부 추가 조사 없음",
+      "related": [
+        "world-orchestras-repertoire-2026",
+        "orchestra-repertoire-data-access",
+        "orchestration-instrument-history"
+      ],
+      "aliases": [
+        "2027 빈 필 신년음악회",
+        "세계 콘서트홀"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "id": "ai-compute-scaling-inference",
+      "path": "wiki/ai-compute-scaling-inference.md",
+      "publish": true,
+      "order": 82,
+      "title": "AI는 계산이 많아지면 무엇이 달라지는가: 데이터센터와 추론 스케일링",
+      "category": "AI와 사회",
+      "status": "대화 내 확인 자료 총합 · 데이터센터 규모·기업 계획·추론 연구 세부 외부 재검증 필요",
+      "updated": "2026-10-25",
+      "summary": "AI 데이터센터 증설을 단순한 더 큰 사전학습이 아니라 test-time compute, 병렬 탐색·검증, 과학·코딩·피지컬 AI 계산의 확대로 읽고 계산량의 한계를 함께 정리한다.",
+      "tags": [
+        "AI 데이터센터",
+        "추론 스케일링",
+        "test-time compute",
+        "AI 인프라",
+        "병렬 탐색",
+        "verifier"
+      ],
+      "source": "내부 총합 · 현재 접근 가능한 논의와 이미 제시된 링크만 사용 · 이번 편집에서 외부 추가 조사 없음",
+      "related": [
+        "japan-physical-ai-skill-transfer"
+      ],
+      "aliases": [
+        "AI 데이터센터와 추론",
+        "test-time scaling",
+        "추론 컴퓨트",
+        "AI 계산 스케일링"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "id": "japan-physical-ai-skill-transfer",
+      "path": "wiki/japan-physical-ai-skill-transfer.md",
+      "publish": true,
+      "order": 83,
+      "title": "사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승",
+      "category": "AI와 사회",
+      "status": "대화 내 확인 자료 총합 · 기업 발표·정부 목표·국가 비교 해석 외부 재검증 필요",
+      "updated": "2026-10-25",
+      "summary": "가와사키 Successor와 Honda 다지 핸드부터 Toyota·Yaskawa·FANUC·AIST까지, 일본이 숙련자의 손동작·힘 조절을 로봇 학습 데이터로 옮기려는 흐름을 정리한다.",
+      "tags": [
+        "피지컬 AI",
+        "로봇",
+        "일본",
+        "숙련 전승",
+        "손지능",
+        "모방학습",
+        "촉각 센서"
+      ],
+      "source": "내부 총합 · 현재 접근 가능한 논의와 이미 제시된 기업·정부 링크만 사용 · 이번 편집에서 외부 추가 조사 없음",
+      "related": [
+        "ai-compute-scaling-inference",
+        "ai-economic-transition"
+      ],
+      "aliases": [
+        "일본 피지컬 AI",
+        "손지능",
+        "숙련 전승 로봇",
+        "Physical AI Japan"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "path": "wiki/ai-transition-policy-gap.md",
+      "publish": true,
+      "order": 84,
+      "id": "ai-transition-policy-gap",
+      "title": "AI 이행기의 정책 공백: 재교육이 해결하지 못하는 구조적 노동 대체",
+      "category": "AI와 사회",
+      "status": "조건부 정책 시뮬레이션·외부 미검증",
+      "updated": "2026-10-24",
+      "summary": "국제기구가 위험을 인식해도 대응하지 못하는 조건, 재교육의 거시적 한계, 자동화·재정·조세·정치의 시차를 분석한다.",
+      "tags": [
+        "AI",
+        "경제 이행기",
+        "재교육",
+        "국제기구",
+        "노동 수요",
+        "경제학",
+        "정책 실패"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "ai-economic-transition",
+        "ai-capital-labor-distribution",
+        "gradual-disempowerment"
+      ],
+      "aliases": [
+        "AI 재교육의 한계",
+        "AI 이행기 정책 실패",
+        "국제기구와 AI 경제"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-24"
+    },
+    {
+      "path": "wiki/bird-vocalization-sparrow.md",
+      "publish": true,
+      "order": 85,
       "id": "bird-vocalization-sparrow",
       "title": "새소리는 어디까지 번역되었는가: 행동 신호에서 참새의 짹짹까지",
       "category": "자연과 과학",

@@ -1,0 +1,81 @@
+{
+  "id": "ing-20261024-ai-policy-gap",
+  "processed_on": "2026-10-24",
+  "coverage": "visible-partial",
+  "limit_note": "현재 접근 가능한 발화와 요약 범위만 사용. 기존 경제학 원고에 반영된 주제는 중복 작성하지 않음. 새로운 외부 자료 조사 없음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "argument",
+      "title": "재교육의 거시적 고용 조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-transition-policy-gap",
+          "section": "재교육이 작동하는 조건과 작동하지 않는 조건"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "개인 전환과 총고용의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-transition-policy-gap",
+          "section": "개인에게 합리적인 처방이 전체에는 충분하지 않을 때"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "국제기구의 진단과 집행능력 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-transition-policy-gap",
+          "section": "국제기구가 위험을 인식해도 대응에 실패할 수 있는 이유"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "argument",
+      "title": "경제학 설명과 정책 유효조건의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-transition-policy-gap",
+          "section": "기존 경제학의 틀을 시험하는 질문"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "argument",
+      "title": "정책 시행착오의 조건부 연쇄",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-transition-policy-gap",
+          "section": "정책 시행착오의 연쇄: 조건부 시뮬레이션"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "argument",
+      "title": "자동화와 제도 적응의 시차",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-transition-policy-gap",
+          "section": "왜 이행기를 독립적인 연구 대상으로 보아야 하는가"
+        }
+      ]
+    }
+  ]
+}
