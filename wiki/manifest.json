@@ -762,11 +762,11 @@
         "들뢰즈 독서 경로"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-23",
+      "last_enriched_on": "2026-10-25",
       "title": "들뢰즈: 생성과 새로운 것의 철학",
       "category": "철학",
       "status": "개념 종합·현재 적용 해석 포함",
-      "updated": "2026-10-23",
+      "updated": "2026-10-25",
       "summary": "고정된 미래상보다 문제·생성·배치의 문법을 남긴 들뢰즈를 2026년의 렌즈로 읽고, 『디알로그』·『천 개의 고원』·통제사회로 이어지는 독서 경로를 정리한다.",
       "tags": [
         "들뢰즈",
@@ -779,7 +779,8 @@
       "related": [
         "deleuze-negation-history",
         "deleuze-control-marx-future",
-        "post-deleuze-novelty-thinkers"
+        "post-deleuze-novelty-thinkers",
+        "deleuze-number-intensity-spatium"
       ],
       "order": 32
     },
@@ -1134,7 +1135,7 @@
       "title": "차이, 문제, 역사: 『차이와 반복』의 부정 비판과 피비린내 나는 긍정",
       "category": "철학",
       "status": "원문 대조 기반 해설·외부 재검토 필요",
-      "updated": "2026-10-23",
+      "updated": "2026-10-25",
       "summary": "부정의 과대평가, 문제와 차이의 발생론, 역사의 비목적론, '피비린내와 잔혹함', 아름다운 영혼 비판을 통해 들뢰즈의 긍정이 평화주의가 아님을 정리한다.",
       "tags": [
         "차이와 반복",
@@ -1147,7 +1148,8 @@
       "source": "내부 총합 · 대화 중 이미 대조된 프랑스어 원문·영어 번역·해설 정보 포함 · 이번 편집에서 외부 재조사 없음",
       "related": [
         "deleuze-becoming-new",
-        "deleuze-control-marx-future"
+        "deleuze-control-marx-future",
+        "deleuze-number-intensity-spatium"
       ],
       "aliases": [
         "들뢰즈와 부정",
@@ -1155,7 +1157,7 @@
         "차이와 반복의 역사론"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-23",
+      "last_enriched_on": "2026-10-25",
       "order": 33
     },
     {
@@ -1917,7 +1919,7 @@
       "title": "수메르 재발견과 구약 원초사의 역사화: 홍수·에덴·바벨탑은 어떻게 재배치되었나",
       "category": "문화와 역사",
       "status": "대화 중 확인된 고대근동·성서학 자료 요약 기반 · 세부 연대와 학계 견해 외부 재검증 필요",
-      "updated": "2026-10-24",
+      "updated": "2026-10-25",
       "summary": "수메르·아카드·바빌로니아 문헌의 재발견이 창세기 1~11장을 문자 그대로의 역사로 확정한 것이 아니라, 홍수·에덴·바벨탑을 고대 서아시아 원초사 전통과 실제 역사적 배경 속에 재배치한 과정을 설명한다.",
       "tags": [
         "수메르",
@@ -1929,7 +1931,9 @@
         "고대근동"
       ],
       "source": "내부 총합 · 대화 중 확인된 공개 자료 요약 · 이번 편집에서 외부 추가 조사 없음",
-      "related": [],
+      "related": [
+        "ancient-philosophy-beyond-greece"
+      ],
       "aliases": [
         "수메르와 구약",
         "창세기 원초사",
@@ -1938,7 +1942,7 @@
         "에덴과 딜문"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-24"
+      "last_enriched_on": "2026-10-25"
     },
     {
       "path": "wiki/europe-russia-escalation-signals-2026.md",
@@ -2796,6 +2800,73 @@
         "문화 공급 과잉",
         "음악과 책의 생산 소비 격차"
       ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "path": "wiki/deleuze-number-intensity-spatium.md",
+      "publish": true,
+      "order": 87,
+      "id": "deleuze-number-intensity-spatium",
+      "title": "수에서 비동등한 것은 무엇을 하는가: 기수·서수, 강도와 들뢰즈의 spatium",
+      "category": "철학",
+      "status": "내부 총합 · 수식 및 원전 용례 재검증 필요",
+      "summary": "유리수·무리수와 기수·서수의 수학적 구별부터 강도적 spatium, 플라톤의 세계 영혼과 중항을 검토하고 불확실한 산식의 판독을 보류한다.",
+      "tags": [
+        "들뢰즈",
+        "기수",
+        "서수",
+        "무리수",
+        "비동등성",
+        "spatium",
+        "세계 영혼"
+      ],
+      "aliases": [
+        "수의 기수와 서수",
+        "강도적 공-간",
+        "spatium과 강도",
+        "비동등한 수"
+      ],
+      "related": [
+        "deleuze-becoming-new",
+        "deleuze-negation-history",
+        "ancient-philosophy-beyond-greece"
+      ],
+      "updated": "2026-10-25",
+      "source": "내부 총합·외부 미검증",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "path": "wiki/ancient-philosophy-beyond-greece.md",
+      "publish": true,
+      "order": 88,
+      "id": "ancient-philosophy-beyond-greece",
+      "title": "그리스만이 철학의 고향인가: 고대 지중해와 서아시아의 사상가·고서·전승",
+      "category": "문화와 역사",
+      "status": "내부 총합 · 저자 귀속과 편년 재검증 필요",
+      "summary": "그리스 중심 철학사의 제도적 배경과 이집트·메소포타미아·바빌로니아·레반트·페르시아·페니키아·카르타고의 문헌을 시기·장르·전승별로 비교한다.",
+      "tags": [
+        "고대 철학",
+        "그리스",
+        "이집트",
+        "메소포타미아",
+        "페르시아",
+        "지혜문학",
+        "철학 정전"
+      ],
+      "aliases": [
+        "그리스 중심 철학사",
+        "그리스 외부 고대 사상",
+        "고대 근동 지혜문학"
+      ],
+      "related": [
+        "sumer-bible-primeval-history",
+        "deleuze-number-intensity-spatium",
+        "deleuze-becoming-new"
+      ],
+      "updated": "2026-10-25",
+      "source": "내부 총합·외부 미검증",
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-25"
     }

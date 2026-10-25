@@ -1,0 +1,237 @@
+{
+  "id": "ing-20261025-deleuze-numbers-greek-neighbors",
+  "processed_on": "2026-10-25",
+  "coverage": "visible-complete",
+  "limit_note": "현재 실제로 표시된 발화를 집필. 들뢰즈 산식과 고대 문헌의 편년은 별도 조사 없이 검토 필요로 표시.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "유리수와 무리수의 정확한 표현",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-number-intensity-spatium",
+          "section": "유리수와 무리수: 분수라는 표현의 정확한 조건"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "기수와 서수 및 무한의 순서형",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-number-intensity-spatium",
+          "section": "기수와 서수: 세 개와 세 번째에서 무한의 순서형까지"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "외연적 측정과 강도적 발생의 대비",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-number-intensity-spatium",
+          "section": "외연으로 측정하는 공간과 강도로 발생하는 공간"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "들뢰즈 spatium의 발생적 공간",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-number-intensity-spatium",
+          "section": "spatium: 이미 놓인 공간이 아니라 차이가 펼쳐지는 장"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "counterargument",
+      "title": "미확인 A+B/2+C 판독 보류",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-number-intensity-spatium",
+          "section": "'수에서 비동등한 것이 떠맡는 역할'과 A+B/2+C의 판독 문제"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "example",
+      "title": "산술·조화평균과 중항의 계산",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-number-intensity-spatium",
+          "section": "'수에서 비동등한 것이 떠맡는 역할'과 A+B/2+C의 판독 문제"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "concept",
+      "title": "플라톤의 세계 영혼과 비례",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-number-intensity-spatium",
+          "section": "플라톤 『티마이오스』의 세계 영혼과 비례의 질서"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "concept",
+      "title": "라틴어 -um의 개념적 효과",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-number-intensity-spatium",
+          "section": "-um이라는 어미: 명사화보다 라틴어 개념어의 호출"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "argument",
+      "title": "그리스 중심 철학사의 전승과 제도",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ancient-philosophy-beyond-greece",
+          "section": "그리스에서 시작된 것은 모든 생각인가, 특정한 계보인가"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "counterargument",
+      "title": "고대 문헌의 동시대성과 선후 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ancient-philosophy-beyond-greece",
+          "section": "동시대와 이전 시대를 먼저 가르기"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "fact",
+      "title": "이집트 프타호테프와 아메네모페",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ancient-philosophy-beyond-greece",
+          "section": "이집트: 프타호테프와 아메네모페의 교훈"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "fact",
+      "title": "길가메시와 루들룰 벨 네메키",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ancient-philosophy-beyond-greece",
+          "section": "메소포타미아: 길가메시와 '바빌로니아의 욥'"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "fact",
+      "title": "나부-리만니와 키딘누의 천문학",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ancient-philosophy-beyond-greece",
+          "section": "바빌로니아 천문학: 나부-리만니와 키딘누"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "fact",
+      "title": "욥기와 전도서의 사유",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ancient-philosophy-beyond-greece",
+          "section": "히브리의 욥기와 전도서: 고통, 허무, 시간"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "fact",
+      "title": "자라투스트라와 편년의 불확실성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ancient-philosophy-beyond-greece",
+          "section": "페르시아의 자라투스트라: 철학자와 예언자 사이"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "fact",
+      "title": "산쿠니아톤과 마고의 전승",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ancient-philosophy-beyond-greece",
+          "section": "페니키아와 카르타고: 산쿠니아톤과 마고의 잃어버린 책"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "argument",
+      "title": "그리스와 주변 문헌의 보존 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ancient-philosophy-beyond-greece",
+          "section": "하나의 철학사와 여러 문헌의 보존 경로"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "question",
+      "title": "비그리스 사유를 읽는 네 가지 기준",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ancient-philosophy-beyond-greece",
+          "section": "그리스 바깥을 읽을 때의 네 가지 질문"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "argument",
+      "title": "구약 전승과 고대 사유의 분류",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "sumer-bible-primeval-history",
+          "section": "관련 읽기: 고대 문헌과 철학사의 분류"
+        }
+      ]
+    }
+  ]
+}
