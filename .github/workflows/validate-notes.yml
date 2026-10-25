@@ -10,6 +10,7 @@ on:
       - ".github/workflows/deploy-pages.yml"
       - "scripts/build-ai-index.mjs"
       - "scripts/build-wiki-map.mjs"
+      - "scripts/build-maintenance-queue.mjs"
       - "ai/**"
       - "AI_INDEX.md"
       - "llms.txt"
@@ -32,6 +33,7 @@ on:
       - ".github/workflows/deploy-pages.yml"
       - "scripts/build-ai-index.mjs"
       - "scripts/build-wiki-map.mjs"
+      - "scripts/build-maintenance-queue.mjs"
       - "ai/**"
       - "AI_INDEX.md"
       - "llms.txt"
@@ -59,6 +61,7 @@ jobs:
       - run: node scripts/build-notes.mjs
       - run: node scripts/build-ai-index.mjs
       - run: node scripts/build-wiki-map.mjs
+      - run: node scripts/build-maintenance-queue.mjs
       - run: node scripts/validate-editorial.mjs
       - run: node scripts/test-editorial.mjs
       - run: node scripts/validate-crosslinks.mjs
