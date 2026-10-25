@@ -841,7 +841,8 @@
       "related": [
         "deleuze-becoming-new",
         "deleuze-control-marx-future",
-        "contemporary-governing-philosophies"
+        "contemporary-governing-philosophies",
+        "philosophical-systems-after-2000"
       ],
       "order": 35
     },
@@ -3318,7 +3319,7 @@
       "title": "『안티 오이디푸스』 전에 읽는 프로이트: 한 권과 두 권의 선택",
       "category": "철학",
       "status": "내부 총합 · 원전 문구·비교 해석 재검토 필요",
-      "updated": "2026-10-25",
+      "updated": "2026-10-26",
       "summary": "한 권은 『정신분석 입문』, 두 권은 『꿈의 해석』과 『성욕에 관한 세 편의 에세이』로 읽는 목적과 선택 근거를 구분한다.",
       "tags": [
         "프로이트",
@@ -3330,7 +3331,9 @@
       "source": "내부 총합 · 접근 가능한 논의 및 예시만 사용 · 외부 재조사 없음",
       "related": [
         "deleuze-becoming-new",
-        "deleuze-negation-history"
+        "deleuze-negation-history",
+        "freud-dreams-modern-science",
+        "lacan-anti-oedipus-history"
       ],
       "aliases": [
         "안티 오이디푸스 사전 독서",
@@ -3338,7 +3341,7 @@
         "반오이디푸스 읽기"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-25"
+      "last_enriched_on": "2026-10-26"
     },
     {
       "path": "wiki/fruit-flesh-living-cells.md",
@@ -3509,6 +3512,130 @@
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-25"
+    },
+    {
+      "path": "wiki/freud-dreams-modern-science.md",
+      "publish": true,
+      "order": 108,
+      "id": "freud-dreams-modern-science",
+      "title": "『꿈의 해석』 이후의 꿈: 망각, 현실감, 금기와 무의식",
+      "category": "철학·심리",
+      "status": "내부 총합 · 개별 자료 재검증 필요",
+      "updated": "2026-10-26",
+      "summary": "꿈 망각·현실감·금기 경험의 수면 신경과학과 꿈 공학·악몽 치료, 현대의 무의식·자아·초자아 연구를 구분한다.",
+      "tags": [
+        "꿈의 해석",
+        "꿈 연구",
+        "REM",
+        "자각몽",
+        "프로이트"
+      ],
+      "source": "내부 총합 · 원대화에 제시된 자료 범위 · 외부 추가 조사 없음",
+      "related": [
+        "freud-before-anti-oedipus",
+        "lacan-anti-oedipus-history"
+      ],
+      "aliases": [
+        "꿈 망각",
+        "꿈의 현실감",
+        "현대 꿈 연구"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-26"
+    },
+    {
+      "path": "wiki/lacan-anti-oedipus-history.md",
+      "publish": true,
+      "order": 109,
+      "id": "lacan-anti-oedipus-history",
+      "title": "라캉이 사상권력이던 시절: 『안티 오이디푸스』 전후의 정신분석과 독서 지도",
+      "category": "철학·사상사",
+      "status": "내부 총합 · 개별 자료 재검증 필요",
+      "updated": "2026-10-26",
+      "summary": "라캉의 세미나·학파·출판 권력, 1972년 반정신분석의 맥락, 1980~2020년대 변천과 입문 독서 목록.",
+      "tags": [
+        "라캉",
+        "안티 오이디푸스",
+        "정신분석",
+        "프랑스 철학"
+      ],
+      "source": "내부 총합 · 원대화에 제시된 자료 범위 · 외부 추가 조사 없음",
+      "related": [
+        "freud-before-anti-oedipus",
+        "freud-dreams-modern-science",
+        "philosophical-systems-after-2000",
+        "contemporary-intellectual-power"
+      ],
+      "aliases": [
+        "라캉 독서",
+        "라캉주의의 역사",
+        "에크리"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-26"
+    },
+    {
+      "path": "wiki/philosophical-systems-after-2000.md",
+      "publish": true,
+      "order": 110,
+      "id": "philosophical-systems-after-2000",
+      "title": "거대한 철학적 성채는 사라졌는가: 21세기의 정전과 체계 구축",
+      "category": "철학·사상사",
+      "status": "내부 총합 · 개별 자료 재검증 필요",
+      "updated": "2026-10-26",
+      "summary": "바디우·슬로터다이크·지젝·브랜덤·라뤼엘·스티글레르·위크 후이·네가레스타니·네일 등 체계형 철학의 독서 지도.",
+      "tags": [
+        "철학 정전",
+        "거대서사",
+        "차이와 반복",
+        "현대철학",
+        "철학적 체계"
+      ],
+      "source": "내부 총합 · 원대화에 제시된 자료 범위 · 외부 추가 조사 없음",
+      "related": [
+        "post-deleuze-novelty-thinkers",
+        "deleuze-becoming-new",
+        "lacan-anti-oedipus-history",
+        "contemporary-intellectual-power"
+      ],
+      "aliases": [
+        "벽돌책 철학",
+        "철학의 거대서사",
+        "21세기 정전 후보"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-26"
+    },
+    {
+      "path": "wiki/contemporary-intellectual-power.md",
+      "publish": true,
+      "order": 111,
+      "id": "contemporary-intellectual-power",
+      "title": "사상권력은 누구에게 있는가: 학파·제도·정책과 반발의 지도",
+      "category": "철학·사상사",
+      "status": "내부 총합 · 개별 자료 재검증 필요",
+      "updated": "2026-10-26",
+      "summary": "개념·교육·임상·정책·반발의 힘을 구분하고 AI 안전·젠더·CRT·DEI·신유물론·탈성장 담론의 권력 양식을 검토한다.",
+      "tags": [
+        "사상권력",
+        "장기주의",
+        "AI 안전",
+        "젠더",
+        "DEI",
+        "탈성장"
+      ],
+      "source": "내부 총합 · 원대화에 제시된 자료 범위 · 외부 추가 조사 없음",
+      "related": [
+        "lacan-anti-oedipus-history",
+        "philosophical-systems-after-2000"
+      ],
+      "aliases": [
+        "현대 사상권력",
+        "사상과 정책",
+        "학파 권력"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-26"
     }
   ]
 }

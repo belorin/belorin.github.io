@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 108,
+  "document_count": 112,
   "documents": [
     {
       "id": "living-notes",
@@ -1185,7 +1185,8 @@
       "related_ids": [
         "deleuze-becoming-new",
         "deleuze-control-marx-future",
-        "contemporary-governing-philosophies"
+        "contemporary-governing-philosophies",
+        "philosophical-systems-after-2000"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/post-deleuze-novelty-thinkers.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/post-deleuze-novelty-thinkers.md",
@@ -3387,12 +3388,14 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "내부 총합 · 원전 문구·비교 해석 재검토 필요",
-      "last_updated_on": "2026-10-25",
-      "last_enriched_on": "2026-10-25",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "deleuze-becoming-new",
-        "deleuze-negation-history"
+        "deleuze-negation-history",
+        "freud-dreams-modern-science",
+        "lacan-anti-oedipus-history"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/freud-before-anti-oedipus.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/freud-before-anti-oedipus.md",
@@ -3572,6 +3575,134 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/dwar-netflix-revival.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/dwar-netflix-revival.md",
       "page_url": "https://belorin.github.io/#dwar-netflix-revival"
+    },
+    {
+      "id": "freud-dreams-modern-science",
+      "title": "『꿈의 해석』 이후의 꿈: 망각, 현실감, 금기와 무의식",
+      "aliases": [
+        "꿈 망각",
+        "꿈의 현실감",
+        "현대 꿈 연구"
+      ],
+      "category": "철학·심리",
+      "tags": [
+        "꿈의 해석",
+        "꿈 연구",
+        "REM",
+        "자각몽",
+        "프로이트"
+      ],
+      "summary": "꿈 망각·현실감·금기 경험의 수면 신경과학과 꿈 공학·악몽 치료, 현대의 무의식·자아·초자아 연구를 구분한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "내부 총합 · 개별 자료 재검증 필요",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "freud-before-anti-oedipus",
+        "lacan-anti-oedipus-history"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/freud-dreams-modern-science.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/freud-dreams-modern-science.md",
+      "page_url": "https://belorin.github.io/#freud-dreams-modern-science"
+    },
+    {
+      "id": "lacan-anti-oedipus-history",
+      "title": "라캉이 사상권력이던 시절: 『안티 오이디푸스』 전후의 정신분석과 독서 지도",
+      "aliases": [
+        "라캉 독서",
+        "라캉주의의 역사",
+        "에크리"
+      ],
+      "category": "철학·사상사",
+      "tags": [
+        "라캉",
+        "안티 오이디푸스",
+        "정신분석",
+        "프랑스 철학"
+      ],
+      "summary": "라캉의 세미나·학파·출판 권력, 1972년 반정신분석의 맥락, 1980~2020년대 변천과 입문 독서 목록.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "내부 총합 · 개별 자료 재검증 필요",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "freud-before-anti-oedipus",
+        "freud-dreams-modern-science",
+        "philosophical-systems-after-2000",
+        "contemporary-intellectual-power"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/lacan-anti-oedipus-history.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/lacan-anti-oedipus-history.md",
+      "page_url": "https://belorin.github.io/#lacan-anti-oedipus-history"
+    },
+    {
+      "id": "philosophical-systems-after-2000",
+      "title": "거대한 철학적 성채는 사라졌는가: 21세기의 정전과 체계 구축",
+      "aliases": [
+        "벽돌책 철학",
+        "철학의 거대서사",
+        "21세기 정전 후보"
+      ],
+      "category": "철학·사상사",
+      "tags": [
+        "철학 정전",
+        "거대서사",
+        "차이와 반복",
+        "현대철학",
+        "철학적 체계"
+      ],
+      "summary": "바디우·슬로터다이크·지젝·브랜덤·라뤼엘·스티글레르·위크 후이·네가레스타니·네일 등 체계형 철학의 독서 지도.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "내부 총합 · 개별 자료 재검증 필요",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "post-deleuze-novelty-thinkers",
+        "deleuze-becoming-new",
+        "lacan-anti-oedipus-history",
+        "contemporary-intellectual-power"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/philosophical-systems-after-2000.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/philosophical-systems-after-2000.md",
+      "page_url": "https://belorin.github.io/#philosophical-systems-after-2000"
+    },
+    {
+      "id": "contemporary-intellectual-power",
+      "title": "사상권력은 누구에게 있는가: 학파·제도·정책과 반발의 지도",
+      "aliases": [
+        "현대 사상권력",
+        "사상과 정책",
+        "학파 권력"
+      ],
+      "category": "철학·사상사",
+      "tags": [
+        "사상권력",
+        "장기주의",
+        "AI 안전",
+        "젠더",
+        "DEI",
+        "탈성장"
+      ],
+      "summary": "개념·교육·임상·정책·반발의 힘을 구분하고 AI 안전·젠더·CRT·DEI·신유물론·탈성장 담론의 권력 양식을 검토한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "내부 총합 · 개별 자료 재검증 필요",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "lacan-anti-oedipus-history",
+        "philosophical-systems-after-2000"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/contemporary-intellectual-power.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/contemporary-intellectual-power.md",
+      "page_url": "https://belorin.github.io/#contemporary-intellectual-power"
     }
   ]
 }

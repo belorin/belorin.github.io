@@ -170,3 +170,13 @@
 ### 창작
 
 - [위대한 내부의 공포: 장내 생태계를 코스믹 호러 세계로 바꾸는 법](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gut-cosmic-horror-worldbuilding.md): 세균의 이분법·세대시간·먹이 유입·점액층·파지·항생제를 이질적 문명의 법칙으로 번역하고, 룸·아라·무오의 미스터리와 두 차례의 서사 구상 차이를 분석한다.
+
+### 철학·심리
+
+- [『꿈의 해석』 이후의 꿈: 망각, 현실감, 금기와 무의식](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/freud-dreams-modern-science.md): 꿈 망각·현실감·금기 경험의 수면 신경과학과 꿈 공학·악몽 치료, 현대의 무의식·자아·초자아 연구를 구분한다.
+
+### 철학·사상사
+
+- [라캉이 사상권력이던 시절: 『안티 오이디푸스』 전후의 정신분석과 독서 지도](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/lacan-anti-oedipus-history.md): 라캉의 세미나·학파·출판 권력, 1972년 반정신분석의 맥락, 1980~2020년대 변천과 입문 독서 목록.
+- [거대한 철학적 성채는 사라졌는가: 21세기의 정전과 체계 구축](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/philosophical-systems-after-2000.md): 바디우·슬로터다이크·지젝·브랜덤·라뤼엘·스티글레르·위크 후이·네가레스타니·네일 등 체계형 철학의 독서 지도.
+- [사상권력은 누구에게 있는가: 학파·제도·정책과 반발의 지도](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/contemporary-intellectual-power.md): 개념·교육·임상·정책·반발의 힘을 구분하고 AI 안전·젠더·CRT·DEI·신유물론·탈성장 담론의 권력 양식을 검토한다.

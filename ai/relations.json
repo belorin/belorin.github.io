@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 389,
+  "edge_count": 404,
   "edges": [
     {
       "from": "living-notes",
@@ -1236,6 +1236,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "post-deleuze-novelty-thinkers",
+      "to": "philosophical-systems-after-2000",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "contemporary-governing-philosophies",
       "to": "deleuze-control-marx-future",
       "type": "related_to",
@@ -2082,6 +2088,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "freud-before-anti-oedipus",
+      "to": "freud-dreams-modern-science",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "freud-before-anti-oedipus",
+      "to": "lacan-anti-oedipus-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "fruit-flesh-living-cells",
       "to": "gut-fiber-fermentation",
       "type": "related_to",
@@ -2120,6 +2138,78 @@
     {
       "from": "gut-cosmic-horror-worldbuilding",
       "to": "gut-fiber-fermentation",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "freud-dreams-modern-science",
+      "to": "freud-before-anti-oedipus",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "freud-dreams-modern-science",
+      "to": "lacan-anti-oedipus-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "lacan-anti-oedipus-history",
+      "to": "freud-before-anti-oedipus",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "lacan-anti-oedipus-history",
+      "to": "freud-dreams-modern-science",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "lacan-anti-oedipus-history",
+      "to": "philosophical-systems-after-2000",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "lacan-anti-oedipus-history",
+      "to": "contemporary-intellectual-power",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "philosophical-systems-after-2000",
+      "to": "post-deleuze-novelty-thinkers",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "philosophical-systems-after-2000",
+      "to": "deleuze-becoming-new",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "philosophical-systems-after-2000",
+      "to": "lacan-anti-oedipus-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "philosophical-systems-after-2000",
+      "to": "contemporary-intellectual-power",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "contemporary-intellectual-power",
+      "to": "lacan-anti-oedipus-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "contemporary-intellectual-power",
+      "to": "philosophical-systems-after-2000",
       "type": "related_to",
       "basis": "manifest.related"
     },
