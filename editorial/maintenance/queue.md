@@ -4,9 +4,9 @@
 
 마지막 정비: 없음 · 다음 정비 버전: **M001** (첫 정비이므로 모든 문서가 변경 문서로 잡힌다)
 
-원고 128개 · 변경 문서 128 · 고립 14 · 한쪽 연결 78 · 보류 3 · 열린 교차 제안 7
+원고 129개 · 변경 문서 129 · 고립 14 · 한쪽 연결 78 · 보류 3 · 열린 교차 제안 7
 
-## 1. 지난 정비 이후 변경된 문서 (128)
+## 1. 지난 정비 이후 변경된 문서 (129)
 
 첫 정비이므로 전체 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
@@ -15,7 +15,7 @@
 - **문화와 역사** (17): `burning-man-community`, `global-festival-streaming`, `burning-man-institutions`, `burning-man-regional-network`, `sumer-bible-primeval-history`, `war-escalation-local-to-world`, `hate-escalation-brakes-history`, `gwangju-building-art-network`, `ancient-philosophy-beyond-greece`, `dreyfus-affair-intellectuals`, `world-crisis-historical-analogies`, `venice-biennale-history`, `venice-biennale-sites-pavilions`, `venice-biennale-2026-critical-reception`, `jewish-messianic-claimants-kabbalah`, `luddite-movement-history`, `luddite-executions-memory`
 - **사회와 제도** (12): `public-land-and-blm`, `stalking-harm-and-autonomy`, `excellent-victim-kwak-aram`, `europe-russia-escalation-signals-2026`, `drone-asymmetric-warfare`, `dousureba-yokatta-family-psychiatry`, `utsunomiya-psychiatric-hospital-reform`, `black-sea-ukraine-sea-denial`, `ukraine-ground-drone-defense`, `russia-ukraine-war-endurance`, `south-asia-border-rivalries-2026`, `global-flashpoints-likelihood-2026`
 - **철학** (11): `deleuze-becoming-new`, `deleuze-cartography-future`, `post-deleuze-novelty-thinkers`, `deleuze-negation-history`, `deleuze-control-marx-future`, `contemporary-governing-philosophies`, `chiikawa-philosophy`, `deleuze-number-intensity-spatium`, `hegel-fichte-schelling-difference`, `deleuze-unthinkable-fold-thought`, `freud-before-anti-oedipus`
-- **운영** (4): `living-notes`, `editing-principles`, `wiki-building-history`, `wiki-operations-pipeline`
+- **운영** (5): `living-notes`, `editing-principles`, `wiki-building-history`, `wiki-operations-pipeline`, `gpt-wiki-zero-prototype`
 - **독서 문화** (3): `world-reading-groups`, `global-reading-club-2026-books`, `world-book-club-korean-editions`
 - **생명과학** (3): `fruit-flesh-living-cells`, `gut-fiber-fermentation`, `gut-microbiome-colonization`
 - **영화** (3): `hope-global-box-office`, `endgame-natasha-tony-funeral`, `dwar-netflix-revival`
@@ -170,8 +170,8 @@
 - `war-escalation-local-to-world` ↔ `global-flashpoints-likelihood-2026` · 0.12 · 연결됨
 - `ai-human-control-guide` ↔ `gradual-disempowerment` · 0.12 · 연결됨
 - `global-reading-club-2026-books` ↔ `anne-carson-nobel-first-reactions` · 0.12
-- `wiki-building-history` ↔ `wiki-operations-pipeline` · 0.12 · 연결됨
 - `luddite-movement-history` ↔ `luddite-executions-memory` · 0.12 · 연결됨
+- `burning-man-institutions` ↔ `burning-man-regional-network` · 0.12 · 연결됨
 
 ## 6. 보류 항목 (3)
 
@@ -195,10 +195,10 @@
 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
-- 긴 문서 (9): `wiki-building-history` 14,233자, `ai-domination-gradient` 11,931자, `wiki-operations-pipeline` 11,848자, `gwangju-building-art-network` 11,751자, `ai-capital-labor-distribution` 11,322자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `korea-dance-musical-tours` 10,337자, `stalking-harm-and-autonomy` 10,033자
+- 긴 문서 (9): `wiki-building-history` 15,142자, `wiki-operations-pipeline` 12,147자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `ai-capital-labor-distribution` 11,322자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `korea-dance-musical-tours` 10,337자, `stalking-harm-and-autonomy` 10,033자
 - 짧은 문서 (7): `double-bass` 1,227자, `deleuze-cartography-future` 1,291자, `electric-bass` 1,325자, `rhythm-section` 1,383자, `big-band` 1,400자, `jazz-listening` 1,435자, `drum-kit` 1,481자
 
 ## 9. 분류 참고
 
-분류 23개: 음악 36, AI와 사회 18, 문화와 역사 17, 사회와 제도 12, 철학 11, 운영 4, 독서 문화 3, 영화 3, 정치경제 3, 생명과학 3, 철학·사상사 3, 미분류 2, 자연과 과학 2, 기술·지식 아카이브 2, 질문 1, 언어 1, 문학 1, 문화 1, 창작 1, 철학·심리 1, 종합 1, 정보와 미디어 1, 소설 1
+분류 23개: 음악 36, AI와 사회 18, 문화와 역사 17, 사회와 제도 12, 철학 11, 운영 5, 독서 문화 3, 영화 3, 정치경제 3, 생명과학 3, 철학·사상사 3, 미분류 2, 자연과 과학 2, 기술·지식 아카이브 2, 질문 1, 언어 1, 문학 1, 문화 1, 창작 1, 철학·심리 1, 종합 1, 정보와 미디어 1, 소설 1
 문서가 하나뿐인 분류 9개: 질문, 언어, 문학, 문화, 창작, 철학·심리, 종합, 정보와 미디어, 소설. 분류 체계 변경은 제안만 한다.

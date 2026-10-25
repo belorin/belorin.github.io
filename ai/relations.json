@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 448,
+  "edge_count": 454,
   "edges": [
     {
       "from": "living-notes",
@@ -74,6 +74,12 @@
     {
       "from": "editing-principles",
       "to": "wiki-operations-pipeline",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "editing-principles",
+      "to": "gpt-wiki-zero-prototype",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -896,6 +902,12 @@
     {
       "from": "wiki-building-history",
       "to": "wiki-operations-pipeline",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "wiki-building-history",
+      "to": "gpt-wiki-zero-prototype",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2292,6 +2304,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "wiki-operations-pipeline",
+      "to": "gpt-wiki-zero-prototype",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "replay-ladder-human-performance",
       "to": "silent-film-musician-labor",
       "type": "related_to",
@@ -2456,6 +2474,24 @@
     {
       "from": "climate-breath-fiction",
       "to": "climate-population-villain-logic",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gpt-wiki-zero-prototype",
+      "to": "wiki-building-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gpt-wiki-zero-prototype",
+      "to": "wiki-operations-pipeline",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gpt-wiki-zero-prototype",
+      "to": "editing-principles",
       "type": "related_to",
       "basis": "manifest.related"
     },

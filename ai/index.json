@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 125,
+  "document_count": 126,
   "documents": [
     {
       "id": "living-notes",
@@ -66,7 +66,8 @@
         "living-notes",
         "open-questions",
         "wiki-building-history",
-        "wiki-operations-pipeline"
+        "wiki-operations-pipeline",
+        "gpt-wiki-zero-prototype"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/editing-principles.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/editing-principles.md",
@@ -780,7 +781,7 @@
         "GitHub Pages",
         "변경 이력"
       ],
-      "summary": "Markdown 정본화·AI 탐색·교차 편집의 구축 이력과, 누적 증보의 과부하를 줄이는 절 단위 탐색·조건부 범위 확장·두 속도 편집의 후속 설계.",
+      "summary": "GPT 위키의 외부 기억 선행 구상에서 출발하여 Markdown 정본화·AI 탐색·교차 편집의 구축 이력과, 누적 증보의 과부하를 줄이는 절 단위 탐색·조건부 범위 확장·두 속도 편집의 후속 설계.",
       "published": true,
       "review_state": "needs_review",
       "review_label": "구축 이력·계층 편집 후속 설계 포함",
@@ -791,7 +792,8 @@
         "living-notes",
         "editing-principles",
         "open-questions",
-        "wiki-operations-pipeline"
+        "wiki-operations-pipeline",
+        "gpt-wiki-zero-prototype"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wiki-building-history.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/wiki-building-history.md",
@@ -3734,7 +3736,7 @@
         "LLM",
         "색인"
       ],
-      "summary": "생성물 자동 배포, 전체 지도·문서 카드·지식 표제 역색인을 통한 계층적 읽기, 프로토콜 v2.0 경량화, 일상 증보와 정비의 분리, 편집 해석으로서의 종합, LLM이 링크로 읽을 수 있는 입구 정비.",
+      "summary": "GPT 위키 초기 구상의 접근성 문제를 이어받아 생성물 자동 배포, 전체 지도·문서 카드·지식 표제 역색인을 통한 계층적 읽기, 프로토콜 v2.0 경량화, 일상 증보와 정비의 분리, 편집 해석으로서의 종합, LLM이 링크로 읽을 수 있는 입구 정비.",
       "published": true,
       "review_state": "needs_review",
       "review_label": "운영 개편 기록",
@@ -3744,7 +3746,8 @@
       "related_ids": [
         "wiki-building-history",
         "editing-principles",
-        "living-notes"
+        "living-notes",
+        "gpt-wiki-zero-prototype"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wiki-operations-pipeline.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/wiki-operations-pipeline.md",
@@ -4149,6 +4152,42 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/climate-breath-fiction.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/climate-breath-fiction.md",
       "page_url": "https://belorin.github.io/#climate-breath-fiction"
+    },
+    {
+      "id": "gpt-wiki-zero-prototype",
+      "title": "GPT 위키 제0호기: 대화 내보내기에서 지속 집필의 기억 장치로",
+      "aliases": [
+        "GPT 위키 제로호기",
+        "GPT 위키 0호기",
+        "GPT 위키 초기 구상",
+        "ChatGPT 내보내기 위키",
+        "GPT 기억 위키"
+      ],
+      "category": "운영",
+      "tags": [
+        "GPT 위키",
+        "대화 내보내기",
+        "Codex",
+        "canon",
+        "외부 기억",
+        "집필 일관성",
+        "운영사"
+      ],
+      "summary": "ChatGPT 내보내기와 Codex를 출발점으로, 원본·대화별 변환본·지식 정본의 분리, canon·결정 장부·문맥 묶음·미정 설정 관리, GPT 접근 경로와 집필-승인-증보 순환을 설계한 선행 구상.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "초기 구상·구현 기록 아님",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "wiki-building-history",
+        "wiki-operations-pipeline",
+        "editing-principles"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gpt-wiki-zero-prototype.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/gpt-wiki-zero-prototype.md",
+      "page_url": "https://belorin.github.io/#gpt-wiki-zero-prototype"
     }
   ]
 }

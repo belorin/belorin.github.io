@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `editing-principles` · 분류: 운영 · 공개 · 원고: [wiki/editing-principles.md](../../../wiki/editing-principles.md) · 3,548자 · 절 11개
+- id: `editing-principles` · 분류: 운영 · 공개 · 원고: [wiki/editing-principles.md](../../../wiki/editing-principles.md) · 3,717자 · 절 11개
 - 별칭: 편집 원칙
 - 요약: 색인 우선 탐색, 논증·사례 보존, 출처와 해석의 구분, 간접 연결 검토 및 누적 규모에 따른 읽기 비용의 후속 설계.
 - 태그: 편집 원칙, 정보 보존, 근거, AI 협업, 검증
 - 수정일: 2026-10-26 · 실제 증보일: 2026-10-26 · 검토: needs_review
-- 관련 문서: `living-notes`, `open-questions`, `wiki-building-history`, `wiki-operations-pipeline`
+- 관련 문서: `living-notes`, `open-questions`, `wiki-building-history`, `wiki-operations-pipeline`, `gpt-wiki-zero-prototype`
 
 ## 절 목차
 
@@ -23,7 +23,7 @@
 - 수정은 이전 사유의 흔적을 남긴다 · L39–42 · 222자 · `160987f4` — 오류는 근거에 따라 수정해야 한다.
 - 공개할 수 있는 것만 남긴다 · L44–47 · 227자 · `6db8598c` — 공개 GitHub에는 사적인 대화 전문과 발췌, 개인 대화 링크, 비공개 인적 정보를 보관하지 않는다.
 - 하나의 정본과 검증의 한계 · L49–52 · 276자 · `ce6d8a98` — 본문은 Markdown, 메타데이터와 의미 관계는 해당 정본 파일에 기록한다.
-- 인간의 판단과 AI의 역할 · L54–57 · 375자 · `9de0c47f` — AI는 탐색·비교·초안 작성·형식 검사를 빠르게 수행한다.
+- 인간의 판단과 AI의 역할 · L54–59 · 544자 · `adb11d8b` — 장기 창작의 정본을 관리하는 경우에는 'AI가 제안한 설정'과 '창작자가 승인한 설정'의 차이도 중요하다.
 
 ## 장부에 기록된 반영 지식
 

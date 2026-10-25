@@ -17,11 +17,14 @@
   - 색인 우선 탐색, 논증·사례 보존, 출처와 해석의 구분, 간접 연결 검토 및 누적 규모에 따른 읽기 비용의 후속 설계.
   - [웹페이지](https://belorin.github.io/#editing-principles) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/editing-principles.md)
 - **[누적형 지식백과 구축사: 총합·증보를 위한 설계와 구현](wiki/wiki-building-history.md)** · 별칭: 위키 구축 이력, 위키 아키텍처, 위키 구성사, 총합형 지식백과, 위키 증보 과부하, 계층 편집 설계 · 수정: 2026-10-26 · 검토: 구축 이력·계층 편집 후속 설계 포함
-  - Markdown 정본화·AI 탐색·교차 편집의 구축 이력과, 누적 증보의 과부하를 줄이는 절 단위 탐색·조건부 범위 확장·두 속도 편집의 후속 설계.
+  - GPT 위키의 외부 기억 선행 구상에서 출발하여 Markdown 정본화·AI 탐색·교차 편집의 구축 이력과, 누적 증보의 과부하를 줄이는 절 단위 탐색·조건부 범위 확장·두 속도 편집의 후속 설계.
   - [웹페이지](https://belorin.github.io/#wiki-building-history) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wiki-building-history.md)
 - **[원고만 쓰고 나머지는 기계에게: 편집 지도·자동 배포·정비로 바꾼 위키 운영](wiki/wiki-operations-pipeline.md)** · 별칭: 위키 운영 개편, 편집 지도, 정비 절차, LLM 원문 링크, 자동 배포, 프로토콜 경량화 · 수정: 2026-10-26 · 검토: 운영 개편 기록
-  - 생성물 자동 배포, 전체 지도·문서 카드·지식 표제 역색인을 통한 계층적 읽기, 프로토콜 v2.0 경량화, 일상 증보와 정비의 분리, 편집 해석으로서의 종합, LLM이 링크로 읽을 수 있는 입구 정비.
+  - GPT 위키 초기 구상의 접근성 문제를 이어받아 생성물 자동 배포, 전체 지도·문서 카드·지식 표제 역색인을 통한 계층적 읽기, 프로토콜 v2.0 경량화, 일상 증보와 정비의 분리, 편집 해석으로서의 종합, LLM이 링크로 읽을 수 있는 입구 정비.
   - [웹페이지](https://belorin.github.io/#wiki-operations-pipeline) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wiki-operations-pipeline.md)
+- **[GPT 위키 제0호기: 대화 내보내기에서 지속 집필의 기억 장치로](wiki/gpt-wiki-zero-prototype.md)** · 별칭: GPT 위키 제로호기, GPT 위키 0호기, GPT 위키 초기 구상, ChatGPT 내보내기 위키, GPT 기억 위키 · 수정: 2026-10-26 · 검토: 초기 구상·구현 기록 아님
+  - ChatGPT 내보내기와 Codex를 출발점으로, 원본·대화별 변환본·지식 정본의 분리, canon·결정 장부·문맥 묶음·미정 설정 관리, GPT 접근 경로와 집필-승인-증보 순환을 설계한 선행 구상.
+  - [웹페이지](https://belorin.github.io/#gpt-wiki-zero-prototype) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gpt-wiki-zero-prototype.md)
 
 ## 질문
 
