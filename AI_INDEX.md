@@ -223,7 +223,7 @@
 - **[사유의 중심에 접혀 있는 불가능자: 생각할 수 없음이 생각을 움직일 때](wiki/deleuze-unthinkable-fold-thought.md)** · 별칭: 사유의 불가능자, 안주름, 사유의 내부의 접힘 · 수정: 2026-10-25 · 검토: 내부 총합 · 원전 문구·비교 해석 재검토 필요
   - 사유의 내부에 안-주름잡힌 불가능성을 죽음·자기인식·사랑의 비유와 사유에 대한 강제라는 문제로 구별해 설명한다.
   - [웹페이지](https://belorin.github.io/#deleuze-unthinkable-fold-thought) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-unthinkable-fold-thought.md)
-- **[『안티 오이디푸스』 전에 읽는 프로이트: 한 권과 두 권의 선택](wiki/freud-before-anti-oedipus.md)** · 별칭: 안티 오이디푸스 사전 독서, 프로이트 입문서 추천, 반오이디푸스 읽기 · 수정: 2026-10-25 · 검토: 내부 총합 · 원전 문구·비교 해석 재검토 필요
+- **[『안티 오이디푸스』 전에 읽는 프로이트: 한 권과 두 권의 선택](wiki/freud-before-anti-oedipus.md)** · 별칭: 안티 오이디푸스 사전 독서, 프로이트 입문서 추천, 반오이디푸스 읽기 · 수정: 2026-10-26 · 검토: 내부 총합 · 원전 문구·비교 해석 재검토 필요
   - 한 권은 『정신분석 입문』, 두 권은 『꿈의 해석』과 『성욕에 관한 세 편의 에세이』로 읽는 목적과 선택 근거를 구분한다.
   - [웹페이지](https://belorin.github.io/#freud-before-anti-oedipus) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/freud-before-anti-oedipus.md)
 
@@ -382,3 +382,21 @@
 - **[위대한 내부의 공포: 장내 생태계를 코스믹 호러 세계로 바꾸는 법](wiki/gut-cosmic-horror-worldbuilding.md)** · 별칭: 안쪽의 별 설정, 젖은 별의 도시 구상, 장내 세균 공포소설, 룸 세계관 · 수정: 2026-10-25 · 검토: 내부 총합 · 생물학적 일반화 및 창작 유비의 한계 검토 필요
   - 세균의 이분법·세대시간·먹이 유입·점액층·파지·항생제를 이질적 문명의 법칙으로 번역하고, 룸·아라·무오의 미스터리와 두 차례의 서사 구상 차이를 분석한다.
   - [웹페이지](https://belorin.github.io/#gut-cosmic-horror-worldbuilding) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gut-cosmic-horror-worldbuilding.md)
+
+## 철학·심리
+
+- **[『꿈의 해석』 이후의 꿈: 망각, 현실감, 금기와 무의식](wiki/freud-dreams-modern-science.md)** · 별칭: 꿈 망각, 꿈의 현실감, 현대 꿈 연구 · 수정: 2026-10-26 · 검토: 내부 총합 · 개별 자료 재검증 필요
+  - 꿈 망각·현실감·금기 경험의 수면 신경과학과 꿈 공학·악몽 치료, 현대의 무의식·자아·초자아 연구를 구분한다.
+  - [웹페이지](https://belorin.github.io/#freud-dreams-modern-science) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/freud-dreams-modern-science.md)
+
+## 철학·사상사
+
+- **[라캉이 사상권력이던 시절: 『안티 오이디푸스』 전후의 정신분석과 독서 지도](wiki/lacan-anti-oedipus-history.md)** · 별칭: 라캉 독서, 라캉주의의 역사, 에크리 · 수정: 2026-10-26 · 검토: 내부 총합 · 개별 자료 재검증 필요
+  - 라캉의 세미나·학파·출판 권력, 1972년 반정신분석의 맥락, 1980~2020년대 변천과 입문 독서 목록.
+  - [웹페이지](https://belorin.github.io/#lacan-anti-oedipus-history) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/lacan-anti-oedipus-history.md)
+- **[거대한 철학적 성채는 사라졌는가: 21세기의 정전과 체계 구축](wiki/philosophical-systems-after-2000.md)** · 별칭: 벽돌책 철학, 철학의 거대서사, 21세기 정전 후보 · 수정: 2026-10-26 · 검토: 내부 총합 · 개별 자료 재검증 필요
+  - 바디우·슬로터다이크·지젝·브랜덤·라뤼엘·스티글레르·위크 후이·네가레스타니·네일 등 체계형 철학의 독서 지도.
+  - [웹페이지](https://belorin.github.io/#philosophical-systems-after-2000) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/philosophical-systems-after-2000.md)
+- **[사상권력은 누구에게 있는가: 학파·제도·정책과 반발의 지도](wiki/contemporary-intellectual-power.md)** · 별칭: 현대 사상권력, 사상과 정책, 학파 권력 · 수정: 2026-10-26 · 검토: 내부 총합 · 개별 자료 재검증 필요
+  - 개념·교육·임상·정책·반발의 힘을 구분하고 AI 안전·젠더·CRT·DEI·신유물론·탈성장 담론의 권력 양식을 검토한다.
+  - [웹페이지](https://belorin.github.io/#contemporary-intellectual-power) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/contemporary-intellectual-power.md)
