@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 360,
+  "edge_count": 363,
   "edges": [
     {
       "from": "living-notes",
@@ -1842,6 +1842,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "music-books-supply-attention",
+      "to": "mood-led-music-listening",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "deleuze-number-intensity-spatium",
       "to": "deleuze-becoming-new",
       "type": "related_to",
@@ -1952,6 +1958,12 @@
     {
       "from": "state-hollowing-country-pilot",
       "to": "critical-optimism-fragile-order",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mood-led-music-listening",
+      "to": "music-books-supply-attention",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2250,6 +2262,14 @@
       "basis": "curated",
       "evidence_section": "완충장치가 먼저 사망한 곳에서의 낙관",
       "reason": "비판적 낙관론의 제도적 완충을 국가별·계층별 기능 공동화 문제로 확장한다."
+    },
+    {
+      "from": "mood-led-music-listening",
+      "to": "music-books-supply-attention",
+      "type": "illustrates",
+      "basis": "curated",
+      "evidence_section": "취향의 다음 분기와 판단 유보",
+      "reason": "선곡의 우선순위와 취향 검증의 한계를 구체적인 음악 목록으로 보여준다."
     }
   ]
 }

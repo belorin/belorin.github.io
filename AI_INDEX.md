@@ -133,6 +133,9 @@
 - **[오케스트라는 어디에 사는가: 이름, 시즌, 콘서트홀과 신년음악회](wiki/orchestra-halls-seasons.md)** · 별칭: 2027 빈 필 신년음악회, 세계 콘서트홀 · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
   - Symphony·Philharmonic 명칭의 역사, 가을 개막 시즌과 한국의 달력연도 시즌, 다섯 명문 악단의 본거지 홀·좌석 수, 빈 필 신년음악회 중계와 추첨을 다룬다.
   - [웹페이지](https://belorin.github.io/#orchestra-halls-seasons) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-halls-seasons.md)
+- **[기분에서 곡으로: 열다섯 곡의 탐색형 청취 지도](wiki/mood-led-music-listening.md)** · 별칭: 분위기별 음악 추천, 15곡 청취 지도 · 수정: 2026-10-25 · 검토: 추천 가설·청취 반응 미확인
+  - 서늘한 밤, 낯설어진 세계, SF적 확장감, 절제된 우울함과 한국 음악으로 나눈 15곡의 추천 및 우선 청취 4곡을 취향 가설로 정리한다.
+  - [웹페이지](https://belorin.github.io/#mood-led-music-listening) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/mood-led-music-listening.md)
 
 ## AI와 사회
 

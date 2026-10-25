@@ -59,6 +59,7 @@
 - [오케스트라라는 악기의 내부: 편성 비용, 협주곡, 새 음색의 역사](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestration-instrument-history.md): 말러 대편성의 고용·리허설 비용, 라흐마니노프의 타악·하프, 바로크 협주곡, 음악 공간의 역사, 첼레스타와 새로운 어쿠스틱 악기 계보를 총합한다.
 - [지휘자 스타 시스템의 미래: 클라우스 메켈레, 젊은 지휘자 붐, 앵콜의 마지막 한마디](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/conductors-career-encores.md): 메켈레의 암스테르담·시카고 동시 취임과 젊은 지휘자 세대교체, 벤치·칸텔리·쉬퍼스 등의 역사적 사례, 앵콜 선곡을 구분한다.
 - [오케스트라는 어디에 사는가: 이름, 시즌, 콘서트홀과 신년음악회](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-halls-seasons.md): Symphony·Philharmonic 명칭의 역사, 가을 개막 시즌과 한국의 달력연도 시즌, 다섯 명문 악단의 본거지 홀·좌석 수, 빈 필 신년음악회 중계와 추첨을 다룬다.
+- [기분에서 곡으로: 열다섯 곡의 탐색형 청취 지도](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/mood-led-music-listening.md): 서늘한 밤, 낯설어진 세계, SF적 확장감, 절제된 우울함과 한국 음악으로 나눈 15곡의 추천 및 우선 청취 4곡을 취향 가설로 정리한다.
 
 ### AI와 사회
 

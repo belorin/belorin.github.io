@@ -1,0 +1,85 @@
+{
+  "id": "ing-20261025-mood-led-music-listening",
+  "processed_on": "2026-10-25",
+  "coverage": "visible-complete",
+  "limit_note": "실제로 접근 가능한 짧은 추천 대화의 정보만 반영. 청취 반응과 외부 음원 사실은 확인되지 않음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "argument",
+      "title": "선호 가설과 실제 감상 반응의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mood-led-music-listening",
+          "section": "첫 추천은 취향의 결론이 아니라 가설이다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "curation",
+      "title": "네 가지 분위기에 따른 해외 음악 열두 곡",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mood-led-music-listening",
+          "section": "서늘하고 큰 밤의 감각"
+        },
+        {
+          "doc_id": "mood-led-music-listening",
+          "section": "세상이 이상하게 돌아가는 날"
+        },
+        {
+          "doc_id": "mood-led-music-listening",
+          "section": "SF의 거리감과 멀리 이동하는 감각"
+        },
+        {
+          "doc_id": "mood-led-music-listening",
+          "section": "우울하지만 지나치게 질척이지 않는 정서"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "curation",
+      "title": "한국 음악 세 곡과 우선 청취 네 곡",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mood-led-music-listening",
+          "section": "한국 음악으로 넓히는 별도의 갈래"
+        },
+        {
+          "doc_id": "mood-led-music-listening",
+          "section": "먼저 들어 볼 네 곡"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "question",
+      "title": "추가 탐색 방향과 청취 반응의 미확인",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mood-led-music-listening",
+          "section": "취향의 다음 분기와 판단 유보"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "argument",
+      "title": "취향 가설에 따른 큐레이션과 문화적 선택의 병목",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "music-books-supply-attention",
+          "section": "서로 다른 두 과잉의 역사"
+        }
+      ]
+    }
+  ]
+}
