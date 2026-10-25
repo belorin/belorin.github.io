@@ -1,0 +1,489 @@
+{
+  "id": "ing-20261026-qing-tributaries-telegraph",
+  "processed_on": "2026-10-26",
+  "coverage": "visible-complete",
+  "limit_note": "현재 화면에 실제 표시된 청말 영 편제와 주둔군 가상 일과, 조선의 마지막 속방 논의, 류큐 처분과 해군력 비교, 조선·일본의 전보 연결 및 대북부전신회사의 사업사까지 접근 가능한 발화를 앞에서부터 검토. 중복되는 응답은 논점별로 통합하고 설명용 가상 장면과 검증된 사료를 구별했다. 새로운 외부조사는 없음. 이 창 밖의 발화가 더 있는지는 보장하지 않음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k1",
+      "kind": "concept",
+      "title": "청말 팔기·녹영과 상군식 용영의 영 규모 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "late-qing-yongying-daily-life",
+          "section": "‘영’은 한 가지 크기의 부대가 아니었다"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "kind": "fact",
+      "title": "상군식 영 505명과 네 초·여덟 대·친병 조직",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "late-qing-yongying-daily-life",
+          "section": "지휘 체계: 영관 한 사람과 네 개의 초"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "kind": "fact",
+      "title": "도모·소창·태창 혼합 편제와 무기별 협동",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "late-qing-yongying-daily-life",
+          "section": "창과 총이 한 영에 공존했다"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "kind": "concept",
+      "title": "장부 180명 및 전투원·수송 인원의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "late-qing-yongying-daily-life",
+          "section": "전투원 505명 뒤의 보이지 않는 병력"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "kind": "argument",
+      "title": "주둔군 일과의 영·초·대별 설명적 복원",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "late-qing-yongying-daily-life",
+          "section": "한 영의 평범한 하루를 복원하다"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "kind": "argument",
+      "title": "원세개 금주 72영 전보 위협과 실재 동원의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "late-qing-yongying-daily-life",
+          "section": "‘금주 72영’이라는 말은 3만 6천 명을 뜻하는가"
+        }
+      ]
+    },
+    {
+      "id": "k7",
+      "kind": "concept",
+      "title": "군영 정원과 실제 상륙·전달 능력의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "late-qing-yongying-daily-life",
+          "section": "규모와 기동의 역설"
+        }
+      ]
+    },
+    {
+      "id": "k8",
+      "kind": "concept",
+      "title": "조공·의례·종주권·군사개입·영토주권의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "qing-tributaries-dissolution",
+          "section": "‘청의 마지막 속방’이라는 말의 두 얼굴"
+        }
+      ]
+    },
+    {
+      "id": "k9",
+      "kind": "fact",
+      "title": "류큐의 양속과 1872~1879년 일본 병합 수단",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "qing-tributaries-dissolution",
+          "section": "류큐: 양쪽에 걸쳐 있던 왕국의 한쪽 문을 잠그다"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "fact",
+      "title": "1883~1885년 청불전쟁과 베트남 보호국화",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "qing-tributaries-dissolution",
+          "section": "베트남: 종주권을 지키기 위한 전쟁이 오히려 상실을 확정하다"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "fact",
+      "title": "1885~1886년 버마 병합과 의례적 조공 잔재",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "qing-tributaries-dissolution",
+          "section": "버마: 왕국 병합 뒤에도 남긴 ‘조공’의 문구"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "fact",
+      "title": "조선 1876~1895년 일본·청 경쟁과 조공 관계의 법적 종료",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "qing-tributaries-dissolution",
+          "section": "조선: 청이 마지막으로 실제 병력을 걸었던 문턱"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "concept",
+      "title": "조선의 최후 정치 속방과 네팔의 의례적 사절 잔존 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "qing-tributaries-dissolution",
+          "section": "네팔: 마지막 남은 조공을 어떻게 셀 것인가"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "argument",
+      "title": "속방별 행정·보호국·병합·전쟁의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "qing-tributaries-dissolution",
+          "section": "하나씩 빼앗긴 것이 아니라, 각각 다른 권리를 빼앗겼다"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "concept",
+      "title": "류큐 처분 시점과 후대 북양함대 우세 이미지의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ryukyu-disposition-qing-japan",
+          "section": "‘청 해군이 일본보다 강했다’는 역설부터"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "fact",
+      "title": "류큐 양속과 1872년 번 설치 및 1874년 대만 출병",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ryukyu-disposition-qing-japan",
+          "section": "1874년 대만 출병: 누구의 신민을 보호하는가"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "fact",
+      "title": "1875년 청과의 외교 단절 명령 및 1879년 현 설치",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ryukyu-disposition-qing-japan",
+          "section": "1879년: 수백 명의 병사와 경찰이 왕국을 접수하다"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "argument",
+      "title": "군함 전력과 실제 류큐 상륙·복권 작전의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ryukyu-disposition-qing-japan",
+          "section": "청의 고민: 어째서 군함 몇 척을 보내지 않았는가"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "fact",
+      "title": "1880년 류큐 남부 분할안과 통상 협상 불성립",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ryukyu-disposition-qing-japan",
+          "section": "1880년: 아예 왕국을 나누자는 외교"
+        }
+      ]
+    },
+    {
+      "id": "k20",
+      "kind": "concept",
+      "title": "류큐의 실제 점유와 청의 영토주권 승인 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ryukyu-disposition-qing-japan",
+          "section": "‘점령’과 ‘승인’ 사이의 간격"
+        }
+      ]
+    },
+    {
+      "id": "k21",
+      "kind": "fact",
+      "title": "1871~1872년 나가사키 국제 전신망과 초기 국내망 병목",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "east-asia-telegraph-network-1880s",
+          "section": "1871~1872년: 나가사키가 먼저 세계에 닿았다"
+        }
+      ]
+    },
+    {
+      "id": "k22",
+      "kind": "argument",
+      "title": "1883년 이전 한성발 문서의 인편·선편·전기전신 결합",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "east-asia-telegraph-network-1880s",
+          "section": "1880년 무렵: 한성에서 도쿄로 가는 문서의 여정"
+        }
+      ]
+    },
+    {
+      "id": "k23",
+      "kind": "fact",
+      "title": "1883년 요부코·이키·쓰시마·부산 해저선",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "east-asia-telegraph-network-1880s",
+          "section": "1883년 11월: 부산이 바닷속 전선에 연결되다"
+        }
+      ]
+    },
+    {
+      "id": "k24",
+      "kind": "fact",
+      "title": "1885년 서로전선과 1888년 한성·부산 남로전선",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "east-asia-telegraph-network-1880s",
+          "section": "1888년 이후: 한성에서 부산까지 전기가 이어진다"
+        }
+      ]
+    },
+    {
+      "id": "k25",
+      "kind": "concept",
+      "title": "영문자 모스부호·한자 네 자리 전보코드 및 혼합문서 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "east-asia-telegraph-network-1880s",
+          "section": "영어와 한자가 섞인 전보는 어떤 모습이었을까"
+        }
+      ]
+    },
+    {
+      "id": "k26",
+      "kind": "argument",
+      "title": "일본·청 전신로 경쟁과 통신 주권",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "east-asia-telegraph-network-1880s",
+          "section": "전보 속도는 곧 외교적 선점의 속도였다"
+        }
+      ]
+    },
+    {
+      "id": "k27",
+      "kind": "fact",
+      "title": "티에트겐 회사 설립과 러시아 시베리아망 동아시아 연결",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-northern-telegraph-east-asia",
+          "section": "1막, 코펜하겐: 전신회사로 세계의 시간을 판다는 사업 구상"
+        }
+      ]
+    },
+    {
+      "id": "k28",
+      "kind": "argument",
+      "title": "러시아 양허와 왕실 인맥의 사실·가설 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-northern-telegraph-east-asia",
+          "section": "러시아 황실로 통하는 인맥"
+        }
+      ]
+    },
+    {
+      "id": "k29",
+      "kind": "fact",
+      "title": "1870년 영국 전신회사 수익 분배 합의",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-northern-telegraph-east-asia",
+          "section": "영국 경쟁사: 다투다가 합의한 국제 인프라의 규칙"
+        }
+      ]
+    },
+    {
+      "id": "k30",
+      "kind": "fact",
+      "title": "일본 육양 허가와 덴마크 교섭",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-northern-telegraph-east-asia",
+          "section": "3막, 도쿄와 청의 항구: 전선의 마지막 100m가 가장 정치적이다"
+        }
+      ]
+    },
+    {
+      "id": "k31",
+      "kind": "fact",
+      "title": "해저선 케이블선과 토르덴스키올 원정 역할",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-northern-telegraph-east-asia",
+          "section": "어떤 배가 전선을 놓았나"
+        }
+      ]
+    },
+    {
+      "id": "k32",
+      "kind": "concept",
+      "title": "구리·구타페르카·철선 외장·장력 제어",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-northern-telegraph-east-asia",
+          "section": "케이블의 내부: 얇은 신호와 두꺼운 보호"
+        }
+      ]
+    },
+    {
+      "id": "k33",
+      "kind": "fact",
+      "title": "나가사키·상하이·블라디보스토크·홍콩 거리 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-northern-telegraph-east-asia",
+          "section": "길이는 얼마나 되었나"
+        }
+      ]
+    },
+    {
+      "id": "k34",
+      "kind": "fact",
+      "title": "나가사키 고가쿠라 육양고·전신주·벨뷰 호텔",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-northern-telegraph-east-asia",
+          "section": "5막, 나가사키: 호텔방 하나가 세계와 이어지다"
+        }
+      ]
+    },
+    {
+      "id": "k35",
+      "kind": "fact",
+      "title": "양쯔강 항구 닻과 케이블 절연 문제",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-northern-telegraph-east-asia",
+          "section": "6막, 상하이와 양쯔강: 닻 하나가 수백 해리의 수고를 끊는다"
+        }
+      ]
+    },
+    {
+      "id": "k36",
+      "kind": "fact",
+      "title": "1871년 상하이선 및 1872년 블라디보스토크선 개통 연표",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-northern-telegraph-east-asia",
+          "section": "7막, 개통: 1871년 여름의 첫 서비스와 1872년의 두 번째 문"
+        }
+      ]
+    },
+    {
+      "id": "k37",
+      "kind": "argument",
+      "title": "1883년 부산선 조약과 통신 독점 성격",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-northern-telegraph-east-asia",
+          "section": "8막, 1883년: 회사는 왜 조선까지 왔나"
+        }
+      ]
+    },
+    {
+      "id": "k38",
+      "kind": "argument",
+      "title": "해저케이블 비용 비교와 실제 사업비 추산의 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-northern-telegraph-east-asia",
+          "section": "에필로그: 회사의 프로젝트를 어떻게 평가할 것인가"
+        }
+      ]
+    },
+    {
+      "id": "k38",
+      "kind": "fact",
+      "title": "금주 72영 전보 위조 일화의 원전 대조",
+      "status": "pending",
+      "reason": "2차 전기 서술만 접근 가능하여 해당 전보 실물·부대 명부의 진위를 확인하지 못함",
+      "targets": []
+    },
+    {
+      "id": "k39",
+      "kind": "fact",
+      "title": "1868년 러시아 부설권 입찰과 동아시아 케이블사업의 실제 정산액",
+      "status": "pending",
+      "reason": "원본 공고·계약서·재무자료가 제공 범위에 없음",
+      "targets": []
+    },
+    {
+      "id": "k40",
+      "kind": "fact",
+      "title": "류큐 처분 시점의 청·일 함정 전력과 원정 가능성 실측",
+      "status": "pending",
+      "reason": "선박·정비·항만·병력 이동 자료를 대조하지 못해 시기 혼합 위험을 표시함",
+      "targets": []
+    }
+  ]
+}
