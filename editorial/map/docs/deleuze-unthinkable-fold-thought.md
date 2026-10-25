@@ -8,6 +8,7 @@
 - 태그: 들뢰즈, 사유, 불가능자, 안-주름, 강제된 사유
 - 수정일: 2026-10-25 · 실제 증보일: 2026-10-25 · 검토: needs_review
 - 관련 문서: `deleuze-negation-history`
+- 이 문서를 근거로 쓴 종합: `where-novelty-comes-from`
 
 ## 절 목차
 

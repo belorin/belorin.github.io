@@ -8,6 +8,7 @@
 - 태그: 라이브, 재즈 4중주, 인터플레이, 공연 음향, 선곡
 - 수정일: 2026-10-22 · 실제 증보일: 미확인 · 검토: needs_review
 - 관련 문서: `jazz-to-ai`, `jazz-dialogue`, `jazz-listening`, `rhythm-section`, `double-bass`, `jazz-chronological-listening`
+- 이 문서를 근거로 쓴 종합: `where-novelty-comes-from`
 
 ## 절 목차
 

@@ -41,7 +41,7 @@ function readBody(entry) {
   return normalizeBody(markdown.slice(heading[0].length).trimEnd(), manifest.linkAliases ?? {});
 }
 if (!Array.isArray(entries)) fail("manifest.documents must be an array");
-const seenIds = new Set(), seenPaths = new Set(), orderSet = new Set();
+const seenIds = new Set(), seenPaths = new Set();
 for (const entry of entries) {
   requireString(entry, "id", entry.id || "unknown");
   requireString(entry, "path", entry.id);
@@ -114,7 +114,9 @@ function checkOriginalBlocks(id, text) {
   }
   if (open) fail(id + ": unclosed :::원본 block");
 }
-const published = entries.filter(e => e.publish === true).sort((a,b)=>a.order-b.order);
+// order only sorts the site data; parallel editors may pick the same number,
+// so ties keep manifest order instead of failing the build.
+const published = entries.filter(e => e.publish === true).sort((a,b)=>(a.order ?? 1e9)-(b.order ?? 1e9));
 const publishedIds = new Set(published.map(e=>e.id));
 const required = ["id","title","category","status","updated","summary","source"];
 const notes = published.map(entry => {
@@ -122,8 +124,7 @@ const notes = published.map(entry => {
   if (!/^\d{4}-\d{2}-\d{2}$/.test(entry.updated)) fail(entry.id + ": bad updated date");
   if (!Array.isArray(entry.tags) || !entry.tags.every(x=>typeof x==="string")) fail(entry.id + ": invalid tags");
   if (!Array.isArray(entry.related) || !entry.related.every(x=>typeof x==="string" && publishedIds.has(x))) fail(entry.id + ": missing related id");
-  if (!Number.isInteger(entry.order) || orderSet.has(entry.order)) fail(entry.id + ": invalid order");
-  orderSet.add(entry.order);
+  if (entry.order !== undefined && !Number.isInteger(entry.order)) fail(entry.id + ": order must be an integer");
   return {
     id:entry.id, title:entry.title, category:entry.category, status:entry.status,
     updated:entry.updated, summary:entry.summary, tags:entry.tags,

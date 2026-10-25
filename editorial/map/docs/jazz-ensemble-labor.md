@@ -8,7 +8,7 @@
 - 태그: 악기 편성, 드럼키트, 노동시장, 브라스 밴드, 밴드
 - 수정일: 2026-10-22 · 실제 증보일: 미확인 · 검토: needs_review
 - 관련 문서: `jazz-to-ai`, `jazz-history-plural`, `drum-kit`, `rhythm-section`, `big-band`, `brass-band`, `double-bass`, `electric-bass`, `silent-film-musician-labor`, `circus-music-questions`
-- 이 문서를 근거로 쓴 종합: `replay-ladder-human-performance`
+- 이 문서를 근거로 쓴 종합: `replay-ladder-human-performance`, `where-novelty-comes-from`
 
 ## 절 목차
 

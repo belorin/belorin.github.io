@@ -8,7 +8,7 @@
 - 태그: 질문, 철학, AI, 개별성, 미래, 역사, 지식 생산
 - 수정일: 2026-10-26 · 실제 증보일: 2026-10-26 · 검토: needs_review
 - 관련 문서: `living-notes`, `editing-principles`, `wiki-building-history`, `jazz-dialogue`, `gradual-disempowerment`, `disempowerment-measurement`, `silent-film-musician-labor`, `circus-music-questions`, `ai-economic-transition`, `ai-capital-labor-distribution`, `information-hype-wow-index`
-- 이 문서를 근거로 쓴 종합: `replay-ladder-human-performance`
+- 이 문서를 근거로 쓴 종합: `replay-ladder-human-performance`, `where-novelty-comes-from`
 
 ## 절 목차
 

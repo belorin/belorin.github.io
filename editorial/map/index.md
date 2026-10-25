@@ -4,7 +4,7 @@
 > 사용 순서: ① 채팅에서 추출한 지식 항목마다 제목·별칭으로 후보를 찾는다 → ② 후보의 문서 카드 `editorial/map/docs/<id>.md`에서 절 목차와 장부 기록을 본다 → ③ 해당 절 본문을 읽고 대조한다. 전문으로 넓히는 조건은 WIKI_PROTOCOL §4를 따른다.
 > 지도와 카드는 후보를 찾는 도구일 뿐이다. 중복·반영 여부는 원고 본문을 읽고 판정한다.
 
-원고 129개 (미게시 3, 소설 1편 포함) · 종합 1편 · 절 1,387개 · 장부 지식 항목 713개
+원고 134개 (미게시 3, 소설 1편 포함) · 종합 2편 · 절 1,455개 · 장부 지식 항목 754개
 
 특정 논점이 이미 처리되었는지는 [지식 표제 역색인](knowledge.md)에서 낱말로 **검색**한다(통째로 읽지 않는다). 장부가 없는 원고는 문서 카드의 절 목차로 찾는다.
 
@@ -49,6 +49,29 @@
 - `orchestra-halls-seasons` 오케스트라는 어디에 사는가: 이름, 시즌, 콘서트홀과 신년음악회 — 2027 빈 필 신년음악회, 세계 콘서트홀 · 6절 · 5.3천 자 · 장부 6건
 - `mood-led-music-listening` 기분에서 곡으로: 열다섯 곡의 탐색형 청취 지도 — 분위기별 음악 추천, 15곡 청취 지도 · 8절 · 2.8천 자 · 장부 8건
 
+## 문화와 역사 (20)
+
+- `burning-man-community` 버닝맨의 기원과 불의 공동체: 해변의 놀이에서 임시도시까지 — 버닝맨, Burning Man, Man Burn, Temple Burn · 8절 · 4.9천 자 · 장부 11건
+- `global-festival-streaming` 집에서 남의 축제를 엿보기: 세계 연례행사의 방송·스트리밍 지도 — 세계 축제 스트리밍, 집에서 보는 축제, 연례행사 스트리밍 · 9절 · 2.9천 자 · 장부 3건
+- `burning-man-institutions` 버닝맨의 10원칙과 제도화의 역설: 반상업·참여·안전·통치 — 버닝맨 10원칙, Burning Man Ten Principles, 버닝맨 제도화, No Spectators · 9절 · 5.2천 자 · 장부 6건
+- `burning-man-regional-network` 버닝맨은 무엇을 수출했나: 지역 번즈와 임시도시의 문화 프로토콜 — Regional Burn, Burning Man Regional Network, AfrikaBurn, Midburn, Kiwiburn, Burning Japan · 10절 · 4.1천 자 · 장부 7건
+- `sumer-bible-primeval-history` 수메르 재발견과 구약 원초사의 역사화: 홍수·에덴·바벨탑은 어떻게 재배치되었나 — 수메르와 구약, 창세기 원초사, 메소포타미아와 성경, 노아의 홍수와 수메르, 에덴과 딜문 · 14절 · 6.9천 자 · 장부 10건
+- `war-escalation-local-to-world` 국지전은 어떻게 세계전쟁이 되는가: 1754·1618·1914·1939·1950과 2026년 다중 전선 — 국지전에서 세계대전, 전쟁의 연결, 1914 확전 모형 · 15절 · 6.8천 자 · 장부 10건
+- `hate-escalation-brakes-history` 혐오의 가속은 파국 없이 멈출 수 있는가: 집단공황과 정치적 선동의 역사적 브레이크 — 혐오 가속의 브레이크, 집단공황의 중단, 파국 전 혐오정치 중단, 혐오사회 되돌리기 · 13절 · 8.0천 자 · 장부 12건
+- `gwangju-building-art-network` 광주의 보이지 않는 길거리 미술관: 아파트·사옥 조형물과 작가·건설 네트워크 — 광주 공공미술, 광주 건축물 미술, 광주 아파트 조각, 광주 길거리 미술관, 광주 조각 네트워크 · 20절 · 11.8천 자 · 장부 11건
+- `ancient-philosophy-beyond-greece` 그리스만이 철학의 고향인가: 고대 지중해와 서아시아의 사상가·고서·전승 — 그리스 중심 철학사, 그리스 외부 고대 사상, 고대 근동 지혜문학 · 11절 · 4.9천 자 · 장부 10건
+- `dreyfus-affair-intellectuals` 드레퓌스 사건과 지식인들의 분열: 작가·학자·화가들은 어느 편에 섰는가 — 드레퓌스파, 반드레퓌스파, Dreyfus Affair, 드레퓌스 사건의 지식인, 지식인 선언 · 11절 · 8.7천 자 · 장부 9건
+- `world-crisis-historical-analogies` 세계는 다시 1914·1929·1939년으로 향하는가: 벨 에포크와 세 번의 파국을 비교하는 법 — 현대와 대공황 직전 비교, 벨 에포크의 종언, 세계대전 전야의 현재, 현대 위기의 역사적 유비 · 7절 · 4.3천 자 · 장부 5건
+- `venice-biennale-history` 베니스 비엔날레: 정원 박람회에서 세계 미술의 판단 장치까지 — 베니스 비엔날레 역사, Biennale di Venezia, Venice Biennale, 베니스 효과 · 11절 · 5.4천 자 · 장부 9건
+- `venice-biennale-sites-pavilions` 자르디니와 아르세날레: 베니스 비엔날레의 두 공간과 국가관 지도 — 자르디니, Giardini della Biennale, 아르세날레, Arsenale, 베니스 국가관 목록 · 8절 · 3.5천 자 · 장부 5건
+- `venice-biennale-2026-critical-reception` 2026 베니스 비엔날레: 'In Minor Keys'의 비평, 정치적 파열과 느린 평가 — 2026 베니스 비엔날레, In Minor Keys, 2026 Venice Biennale, 코요 쿠오 비엔날레 · 8절 · 5.3천 자 · 장부 7건
+- `jewish-messianic-claimants-kabbalah` 유대교의 수많은 메시아들: 중세의 구원 운동에서 카발라와 샤브타이 츠비까지 — 중세 유대교 메시아, 유대 메시아 참칭자, 유대교의 메시아들, 카발라와 메시아주의, Pseudo-Messiahs · 12절 · 8.1천 자 · 장부 12건
+- `luddite-movement-history` 러다이트 운동: 기계 파괴에서 교수대까지 — 러다이트 운동, Luddite movement, 네드 러드 · 7절 · 2.4천 자 · 장부 2건
+- `luddite-executions-memory` 러다이트 처형자와 기억: 이름, 재판, 그리고 남겨진 기록 — 러다이트 처형자, 러다이트 사형자 명단, Luddite executions · 7절 · 2.1천 자 · 장부 5건
+- `late-qing-yongying-daily-life` 청말 500명의 군영은 어떻게 움직였는가: 영·초·대의 조직과 하루 — 청말 영 편제, 505명 영, 영 초 대, 金州 72營 · 8절 · 4.9천 자 · 장부 7건
+- `qing-tributaries-dissolution` 마지막 속방의 소멸: 류큐·베트남·버마·조선에서 청의 종주권은 어떻게 무너졌는가 — 청의 마지막 속방, 조선 청 속방, 청나라 속방 상실 · 8절 · 4.9천 자 · 장부 7건
+- `ryukyu-disposition-qing-japan` 전쟁 없이 사라진 왕국: 1872~1880년 류큐 처분과 청의 딜레마 — 류큐 처분, 류큐 병합 1879, 오키나와 현 설치, 琉球處分 · 11절 · 4.9천 자 · 장부 6건
+
 ## AI와 사회 (19)
 
 - `ai-human-control-guide` AI와 인간의 통제력: 장악·무력화·설득·접근권을 잇는 길잡이 — AI 통제력 길잡이, AI와 사회 길잡이 · 5절 · 3.3천 자 · 장부 4건
@@ -70,26 +93,6 @@
 - `japan-physical-ai-skill-transfer` 사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승 — 일본 피지컬 AI, 손지능, 숙련 전승 로봇, Physical AI Japan · 12절 · 7.8천 자 · 장부 11건
 - `ai-transition-policy-gap` AI 이행기의 정책 공백: 재교육이 해결하지 못하는 구조적 노동 대체 — AI 재교육의 한계, AI 이행기 정책 실패, 국제기구와 AI 경제 · 7절 · 4.9천 자 · 장부 6건
 - `starcraft-pluto-ai` Pluto AI와 인간의 스타크래프트: 자가대전이 만든 다른 메타 — Pluto AI, 플루토 AI, 스타크래프트 플루토, tscmoo Pluto · 21절 · 10.3천 자 · 장부 17건
-
-## 문화와 역사 (17)
-
-- `burning-man-community` 버닝맨의 기원과 불의 공동체: 해변의 놀이에서 임시도시까지 — 버닝맨, Burning Man, Man Burn, Temple Burn · 8절 · 4.9천 자 · 장부 11건
-- `global-festival-streaming` 집에서 남의 축제를 엿보기: 세계 연례행사의 방송·스트리밍 지도 — 세계 축제 스트리밍, 집에서 보는 축제, 연례행사 스트리밍 · 9절 · 2.9천 자 · 장부 3건
-- `burning-man-institutions` 버닝맨의 10원칙과 제도화의 역설: 반상업·참여·안전·통치 — 버닝맨 10원칙, Burning Man Ten Principles, 버닝맨 제도화, No Spectators · 9절 · 5.2천 자 · 장부 6건
-- `burning-man-regional-network` 버닝맨은 무엇을 수출했나: 지역 번즈와 임시도시의 문화 프로토콜 — Regional Burn, Burning Man Regional Network, AfrikaBurn, Midburn, Kiwiburn, Burning Japan · 10절 · 4.1천 자 · 장부 7건
-- `sumer-bible-primeval-history` 수메르 재발견과 구약 원초사의 역사화: 홍수·에덴·바벨탑은 어떻게 재배치되었나 — 수메르와 구약, 창세기 원초사, 메소포타미아와 성경, 노아의 홍수와 수메르, 에덴과 딜문 · 14절 · 6.9천 자 · 장부 10건
-- `war-escalation-local-to-world` 국지전은 어떻게 세계전쟁이 되는가: 1754·1618·1914·1939·1950과 2026년 다중 전선 — 국지전에서 세계대전, 전쟁의 연결, 1914 확전 모형 · 15절 · 6.8천 자 · 장부 10건
-- `hate-escalation-brakes-history` 혐오의 가속은 파국 없이 멈출 수 있는가: 집단공황과 정치적 선동의 역사적 브레이크 — 혐오 가속의 브레이크, 집단공황의 중단, 파국 전 혐오정치 중단, 혐오사회 되돌리기 · 13절 · 8.0천 자 · 장부 12건
-- `gwangju-building-art-network` 광주의 보이지 않는 길거리 미술관: 아파트·사옥 조형물과 작가·건설 네트워크 — 광주 공공미술, 광주 건축물 미술, 광주 아파트 조각, 광주 길거리 미술관, 광주 조각 네트워크 · 20절 · 11.8천 자 · 장부 11건
-- `ancient-philosophy-beyond-greece` 그리스만이 철학의 고향인가: 고대 지중해와 서아시아의 사상가·고서·전승 — 그리스 중심 철학사, 그리스 외부 고대 사상, 고대 근동 지혜문학 · 11절 · 4.9천 자 · 장부 10건
-- `dreyfus-affair-intellectuals` 드레퓌스 사건과 지식인들의 분열: 작가·학자·화가들은 어느 편에 섰는가 — 드레퓌스파, 반드레퓌스파, Dreyfus Affair, 드레퓌스 사건의 지식인, 지식인 선언 · 11절 · 8.7천 자 · 장부 9건
-- `world-crisis-historical-analogies` 세계는 다시 1914·1929·1939년으로 향하는가: 벨 에포크와 세 번의 파국을 비교하는 법 — 현대와 대공황 직전 비교, 벨 에포크의 종언, 세계대전 전야의 현재, 현대 위기의 역사적 유비 · 7절 · 4.3천 자 · 장부 5건
-- `venice-biennale-history` 베니스 비엔날레: 정원 박람회에서 세계 미술의 판단 장치까지 — 베니스 비엔날레 역사, Biennale di Venezia, Venice Biennale, 베니스 효과 · 11절 · 5.4천 자 · 장부 9건
-- `venice-biennale-sites-pavilions` 자르디니와 아르세날레: 베니스 비엔날레의 두 공간과 국가관 지도 — 자르디니, Giardini della Biennale, 아르세날레, Arsenale, 베니스 국가관 목록 · 8절 · 3.5천 자 · 장부 5건
-- `venice-biennale-2026-critical-reception` 2026 베니스 비엔날레: 'In Minor Keys'의 비평, 정치적 파열과 느린 평가 — 2026 베니스 비엔날레, In Minor Keys, 2026 Venice Biennale, 코요 쿠오 비엔날레 · 8절 · 5.3천 자 · 장부 7건
-- `jewish-messianic-claimants-kabbalah` 유대교의 수많은 메시아들: 중세의 구원 운동에서 카발라와 샤브타이 츠비까지 — 중세 유대교 메시아, 유대 메시아 참칭자, 유대교의 메시아들, 카발라와 메시아주의, Pseudo-Messiahs · 12절 · 8.1천 자 · 장부 12건
-- `luddite-movement-history` 러다이트 운동: 기계 파괴에서 교수대까지 — 러다이트 운동, Luddite movement, 네드 러드 · 7절 · 2.4천 자 · 장부 2건
-- `luddite-executions-memory` 러다이트 처형자와 기억: 이름, 재판, 그리고 남겨진 기록 — 러다이트 처형자, 러다이트 사형자 명단, Luddite executions · 7절 · 2.1천 자 · 장부 5건
 
 ## 사회와 제도 (12)
 
@@ -128,6 +131,13 @@
 - `wiki-operations-pipeline` 원고만 쓰고 나머지는 기계에게: 편집 지도·자동 배포·정비로 바꾼 위키 운영 — 위키 운영 개편, 편집 지도, 정비 절차, LLM 원문 링크, 자동 배포, 프로토콜 경량화 · 15절 · 12.1천 자 · 장부 14건
 - `gpt-wiki-zero-prototype` GPT 위키 제0호기: 대화 내보내기에서 지속 집필의 기억 장치로 — GPT 위키 제로호기, GPT 위키 0호기, GPT 위키 초기 구상, ChatGPT 내보내기 위키, GPT 기억 위키 · 14절 · 8.5천 자 · 장부 15건
 
+## 기술·지식 아카이브 (4)
+
+- `credit-observation-archive` 이름의 출현을 기록하는 크레딧 아카이브: 판권면·스탭롤·인사발령 — 크레딧 지도, 이름 관찰 DB, 출현 기록 DB, 크레딧 아카이브 · 9절 · 5.1천 자 · 장부 7건
+- `book-preview-credit-sourcing` 온라인 서점 미리보기와 판권면 수집: 기술적 가능성과 허용 범위 — 미리보기 크롤링, 판권면 OCR, 서점 도서정보 API · 8절 · 4.2천 자 · 장부 7건
+- `east-asia-telegraph-network-1880s` 조선의 전보는 어떻게 도쿄에 도착했는가: 1871~1888년 동아시아 전신망의 세 단계 — 조선 일본 전보 경로, 부산 나가사키 해저전신선, 서로전선 남로전선, 한자 전보 부호 · 9절 · 5.2천 자 · 장부 6건
+- `great-northern-telegraph-east-asia` 코펜하겐에서 나가사키까지: 대북부전신회사는 동아시아의 바다에 어떻게 전선을 놓았는가 — 덴마크 대북부전신회사, Great Northern Telegraph Company, 1871 나가사키 해저케이블, 티에트겐 전신회사 · 19절 · 10.1천 자 · 장부 12건
+
 ## 독서 문화 (3)
 
 - `world-reading-groups` 세계 독서모임: 온라인으로 관찰하는 독서문화의 여러 형태 — 세계 북클럽, 해외 독서모임, 독서모임 조사 · 12절 · 6.8천 자 · 장부 10건
@@ -157,11 +167,6 @@
 - `lacan-anti-oedipus-history` 라캉이 사상권력이던 시절: 『안티 오이디푸스』 전후의 정신분석과 독서 지도 — 라캉 독서, 라캉주의의 역사, 에크리 · 11절 · 4.5천 자 · 장부 9건
 - `philosophical-systems-after-2000` 거대한 철학적 성채는 사라졌는가: 21세기의 정전과 체계 구축 — 벽돌책 철학, 철학의 거대서사, 21세기 정전 후보 · 14절 · 6.5천 자 · 장부 11건
 - `contemporary-intellectual-power` 사상권력은 누구에게 있는가: 학파·제도·정책과 반발의 지도 — 현대 사상권력, 사상과 정책, 학파 권력 · 9절 · 3.3천 자 · 장부 7건
-
-## 기술·지식 아카이브 (2)
-
-- `credit-observation-archive` 이름의 출현을 기록하는 크레딧 아카이브: 판권면·스탭롤·인사발령 — 크레딧 지도, 이름 관찰 DB, 출현 기록 DB, 크레딧 아카이브 · 9절 · 5.1천 자 · 장부 7건
-- `book-preview-credit-sourcing` 온라인 서점 미리보기와 판권면 수집: 기술적 가능성과 허용 범위 — 미리보기 크롤링, 판권면 OCR, 서점 도서정보 API · 8절 · 4.2천 자 · 장부 7건
 
 ## 미분류 (2)
 
@@ -207,8 +212,9 @@
 
 - `climate-breath-fiction` 숨결: 기후 구원의 이름으로 · 단편 · 9.6천 자
 
-## 종합 (1)
+## 종합 (2)
 
 편집 해석(SYNTHESIS.md). 지식 원고가 아니며 사실 근거로 인용하지 않는다. 대화 지식을 증보할 후보로 삼지 않는다.
 
 - `replay-ladder-human-performance` 재생 사다리: 기술 전환은 인간 수행의 가치를 어디로 옮기는가 — 재생 사다리, 기술 전환과 인간 수행, 전수의 창 · 14절 · 11.3천 자 · 교차 종합 · 근거 8편
+- `where-novelty-comes-from` 새로움은 어디서 오는가: 다시 도는 형식, 다시 세운 문제, 식지 않은 차이 — 새로움은 어디서 오는가, 코러스로서의 문서, 열기관으로서의 위키, 접힌 질문 · 13절 · 10.1천 자 · 교차 종합 · 근거 11편 · 미게시

@@ -8,6 +8,7 @@
 - 태그: 개인 위키, 새로움, 생성, AI 협업, 지식 축적
 - 수정일: 2026-10-23 · 실제 증보일: 2026-10-23 · 검토: needs_review
 - 관련 문서: `editing-principles`, `open-questions`, `wiki-building-history`, `jazz-dialogue`, `ai-human-control-guide`, `music-books-supply-attention`
+- 이 문서를 근거로 쓴 종합: `where-novelty-comes-from`
 
 ## 절 목차
 

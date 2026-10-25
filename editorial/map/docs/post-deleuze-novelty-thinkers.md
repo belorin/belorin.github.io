@@ -8,6 +8,7 @@
 - 태그: 들뢰즈 이후, 라자라토, 네그리, 데란다, 육후이, AI 철학
 - 수정일: 2026-10-23 · 실제 증보일: 2026-10-23 · 검토: needs_review
 - 관련 문서: `deleuze-becoming-new`, `deleuze-control-marx-future`, `contemporary-governing-philosophies`, `philosophical-systems-after-2000`
+- 이 문서를 근거로 쓴 종합: `where-novelty-comes-from`
 
 ## 절 목차
 

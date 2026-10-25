@@ -4143,7 +4143,7 @@
     {
       "path": "wiki/late-qing-yongying-daily-life.md",
       "publish": true,
-      "order": 125,
+      "order": 131,
       "id": "late-qing-yongying-daily-life",
       "title": "청말 500명의 군영은 어떻게 움직였는가: 영·초·대의 조직과 하루",
       "category": "문화와 역사",
@@ -4177,7 +4177,7 @@
     {
       "path": "wiki/qing-tributaries-dissolution.md",
       "publish": true,
-      "order": 126,
+      "order": 132,
       "id": "qing-tributaries-dissolution",
       "title": "마지막 속방의 소멸: 류큐·베트남·버마·조선에서 청의 종주권은 어떻게 무너졌는가",
       "category": "문화와 역사",
@@ -4306,6 +4306,62 @@
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-26"
+    },
+    {
+      "path": "wiki/where-novelty-comes-from.md",
+      "publish": false,
+      "order": 130,
+      "id": "where-novelty-comes-from",
+      "title": "새로움은 어디서 오는가: 다시 도는 형식, 다시 세운 문제, 식지 않은 차이",
+      "category": "종합",
+      "status": "편집 해석 · 게시 검토 전",
+      "updated": "2026-10-26",
+      "summary": "들뢰즈의 차이와 문제, 재즈의 코러스와 인터플레이, 이 위키의 편집 원칙을 엮어 코러스로서의 문서, 문제 교체, 열기관으로서의 위키, 접힌 질문, 듣기의 선택이라는 다섯 개념을 제안하는 교차 종합.",
+      "tags": [
+        "종합",
+        "새로움",
+        "반복",
+        "차이",
+        "즉흥",
+        "위키"
+      ],
+      "source": "위키 내부 종합 · 외부 조사 없음",
+      "related": [
+        "living-notes",
+        "open-questions",
+        "editing-principles",
+        "deleuze-negation-history",
+        "deleuze-becoming-new",
+        "deleuze-number-intensity-spatium",
+        "deleuze-unthinkable-fold-thought",
+        "post-deleuze-novelty-thinkers",
+        "jazz-dialogue",
+        "jazz-live-quartet-case",
+        "jazz-ensemble-labor"
+      ],
+      "aliases": [
+        "새로움은 어디서 오는가",
+        "코러스로서의 문서",
+        "열기관으로서의 위키",
+        "접힌 질문"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null,
+      "kind": "synthesis",
+      "synthesis_type": "cross",
+      "based_on": [
+        "living-notes",
+        "open-questions",
+        "editing-principles",
+        "deleuze-negation-history",
+        "deleuze-becoming-new",
+        "deleuze-number-intensity-spatium",
+        "deleuze-unthinkable-fold-thought",
+        "post-deleuze-novelty-thinkers",
+        "jazz-dialogue",
+        "jazz-live-quartet-case",
+        "jazz-ensemble-labor"
+      ]
     }
   ]
 }

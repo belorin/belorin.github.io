@@ -8,6 +8,7 @@
 - 태그: 들뢰즈, 기수, 서수, 무리수, 비동등성, spatium, 세계 영혼, 카르노, 퀴리, 감성, 소여, 질화
 - 수정일: 2026-10-25 · 실제 증보일: 2026-10-25 · 검토: needs_review
 - 관련 문서: `deleuze-becoming-new`, `deleuze-negation-history`, `ancient-philosophy-beyond-greece`
+- 이 문서를 근거로 쓴 종합: `where-novelty-comes-from`
 
 ## 절 목차
 

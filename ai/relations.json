@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 454,
+  "edge_count": 467,
   "edges": [
     {
       "from": "living-notes",
@@ -2492,6 +2492,84 @@
     {
       "from": "gpt-wiki-zero-prototype",
       "to": "editing-principles",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ryukyu-disposition-qing-japan",
+      "to": "qing-tributaries-dissolution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ryukyu-disposition-qing-japan",
+      "to": "late-qing-yongying-daily-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "east-asia-telegraph-network-1880s",
+      "to": "great-northern-telegraph-east-asia",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "east-asia-telegraph-network-1880s",
+      "to": "qing-tributaries-dissolution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "east-asia-telegraph-network-1880s",
+      "to": "late-qing-yongying-daily-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "great-northern-telegraph-east-asia",
+      "to": "east-asia-telegraph-network-1880s",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "great-northern-telegraph-east-asia",
+      "to": "qing-tributaries-dissolution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "late-qing-yongying-daily-life",
+      "to": "qing-tributaries-dissolution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "late-qing-yongying-daily-life",
+      "to": "ryukyu-disposition-qing-japan",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "late-qing-yongying-daily-life",
+      "to": "east-asia-telegraph-network-1880s",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "qing-tributaries-dissolution",
+      "to": "late-qing-yongying-daily-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "qing-tributaries-dissolution",
+      "to": "ryukyu-disposition-qing-japan",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "qing-tributaries-dissolution",
+      "to": "east-asia-telegraph-network-1880s",
       "type": "related_to",
       "basis": "manifest.related"
     },
