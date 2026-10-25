@@ -51,6 +51,33 @@ function inline(text) {
   }
   return result + plainInline(text.slice(cursor));
 }
+function tableRow(line) {
+  const value = line.trim();
+  const cells = [];
+  let cell = '', code = 0, lastSeparator = -1;
+  for (let i = 0; i < value.length; i++) {
+    const char = value[i];
+    if (char === '\\' && (value[i + 1] === '|' || value[i + 1] === '\\')) {
+      cell += value[i + 1] === '|' ? '|' : '\\\\';
+      i++;
+    } else if (char === '`') {
+      let end = i + 1;
+      while (value[end] === '`') end++;
+      const length = end - i;
+      if (!code) code = length;
+      else if (code === length) code = 0;
+      cell += value.slice(i, end);
+      i = end - 1;
+    } else if (char === '|' && !code) {
+      cells.push(cell.trim()); cell = ''; lastSeparator = i;
+    } else cell += char;
+  }
+  if (lastSeparator < 0) return null;
+  cells.push(cell.trim());
+  if (value.startsWith('|')) cells.shift();
+  if (lastSeparator === value.length - 1) cells.pop();
+  return cells.length ? cells : null;
+}
 function renderMarkdown(markdown, docId) {
   const lines = markdown.replace(/\r\n/g, '\n').split('\n');
   const toc = [];
@@ -59,13 +86,37 @@ function renderMarkdown(markdown, docId) {
   const flushList = () => { if (list) { html += '</' + list + '>'; list = null; } };
   const flushQuote = () => { if (quote.length) { html += '<blockquote>' + quote.map(inline).join(' ') + '</blockquote>'; quote = []; } };
   const flushAll = () => { flushPara(); flushList(); flushQuote(); };
-  for (const line of lines) {
+  for (let index = 0; index < lines.length; index++) {
+    const line = lines[index];
     const value = line.trim();
     const heading = /^(#{2,4})\s+(.+)$/.exec(value);
     const bullet = /^[-*+]\s+(.+)$/.exec(value);
     const numbered = /^\d+\.\s+(.+)$/.exec(value);
+    const headers = tableRow(value);
+    const divider = headers && tableRow(lines[index + 1] || '');
     if (!value) { flushAll(); continue; }
-    if (heading) {
+    if (headers && divider && headers.length === divider.length &&
+        divider.every(cell => /^:?-{3,}:?$/.test(cell))) {
+      flushAll();
+      const alignments = divider.map(cell => cell.startsWith(':') && cell.endsWith(':')
+        ? 'center' : cell.endsWith(':') ? 'right' : 'left');
+      const row = (cells, tag) => '<tr>' + headers.map((_, column) =>
+        '<' + tag + (tag === 'th' ? ' scope="col"' : '') +
+        ' class="align-' + alignments[column] + '">' + inline(cells[column] || '') +
+        '</' + tag + '>').join('') + '</tr>';
+      html += '<div class="table-scroll" role="region" aria-label="표 (가로 스크롤 가능)" tabindex="0">' +
+        '<table><thead>' + row(headers, 'th') + '</thead><tbody>';
+      index++;
+      while (index + 1 < lines.length) {
+        const next = lines[index + 1].trim();
+        if (/^(?:#{2,4}\s|[-*+]\s|\d+\.\s|>\s)/.test(next)) break;
+        const cells = tableRow(next);
+        if (!cells) break;
+        html += row(cells, 'td');
+        index++;
+      }
+      html += '</tbody></table></div>';
+    } else if (heading) {
       flushAll();
       const level = heading[1].length;
       const id = docId + '-section-' + (toc.length + 1);

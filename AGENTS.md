@@ -18,7 +18,7 @@
 - `editorial/ingestions/<batch-id>.json`: 공개 가능한 지식의 짧은 표제, Markdown 문서·절에 반영된 위치, 보류 항목만 기록. **대화 원문/발췌/대화 URL을 저장하지 않는다.**
 - `scripts/validate-editorial.mjs`: 배치 ID, 항목, 실제 문서와 절의 존재를 검증한다.
 - `scripts/build-notes.mjs`: Markdown과 메타데이터로 사이트용 JSON을 만들고 검증한다. 별도 패키지 설치 불필요.
-- `index.html`, `style.css`, `app.js`: 정적 사이트 뷰어. 첫 화면은 무작위 글·주제·최근 갱신 인덱스, `/#all`은 검색 목록, `/#<문서-id>`는 목차·관련 글·개정 이력 화면이다. 본문 렌더러는 단락, `##`~`####` 소제목, 목록, 강조, 인라인 코드, 링크를 지원한다. 데이터의 정본은 바꾸지 않는다.
+- `index.html`, `style.css`, `app.js`: 정적 사이트 뷰어. 첫 화면은 무작위 글·주제·최근 갱신 인덱스, `/#all`은 검색 목록, `/#<문서-id>`는 목차·관련 글·개정 이력 화면이다. 본문 렌더러는 단락, `##`~`####` 소제목, 목록, 강조, 인라인 코드, 링크, Markdown 표(열 정렬·가로 스크롤)를 지원한다. 데이터의 정본은 바꾸지 않는다.
 
 ## 편집 절차
 1. `AGENTS.md`, `WIKI_PROTOCOL.md`, **`AI_INDEX.md`/`ai/index.json`을 먼저 읽어 후보를 좁힌 뒤**, `wiki/manifest.json`에서 미게시 원고를 확인하고 실제 `wiki/*.md` 전문을 읽는다.
