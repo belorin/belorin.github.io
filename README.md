@@ -21,7 +21,7 @@ https://belorin.github.io
 2. 별칭·검토 상태·증보일은 `wiki/manifest.json`, 의미 관계는 `wiki/relations.json`에 기록한다.
 3. 대화에서 신규 지식을 반영했다면 `editorial/ingestions/index.json`과 해당 배치 JSON에 **짧은 지식 표제, 반영 문서의 정확한 절, 미완 항목**을 기록한다. 원문은 저장하지 않는다.
 4. Markdown·manifest·관계 정본·편집 장부를 `main`에 직접 커밋한다. 브랜치·PR은 필요 없다.
-5. GitHub Actions(`.github/workflows/deploy-pages.yml`)가 `notes.json`·AI 색인·`llms.txt`를 생성·검증하고, 생성물을 `main`에 자동 커밋한 뒤 사이트를 배포한다. 검증에 실패하면 배포하지 않고 직전 사이트를 유지한다.
+5. GitHub Actions(`.github/workflows/deploy-pages.yml`)가 `notes.json`·AI 색인·`llms.txt`·편집 지도를 생성·검증하고, 생성물을 `main`에 자동 커밋한 뒤 사이트를 배포한다. 검증에 실패하면 배포하지 않고 직전 사이트를 유지한다.
 
 별도 npm 설치는 필요하지 않다. 로컬에서는 `node scripts/build-notes.mjs`, `node scripts/build-ai-index.mjs`와 검증 스크립트로 미리 확인할 수 있다. `notes.json`을 편집하는 대신 반드시 Markdown을 수정한다.
 
@@ -40,7 +40,12 @@ Pages는 브랜치 배포가 아니라 GitHub Actions 배포를 사용한다(Set
 - [`ai/relations.json`](ai/relations.json): 단순 관련성과 근거 기반 의미 관계
 - [`llms.txt`](llms.txt): 외부 AI가 사용할 수 있는 선택적 진입점
 
-색인에서 후보를 좁힌 뒤 **Markdown 정본 전체를 읽어야** 본문의 세부 설명과 반론을 보존할 수 있다. 미게시 `publish:false` 원고는 외부 탐색 색인에 노출하지 않지만 공개 GitHub 저장소 자체가 비공개인 것은 아니다.
+편집 작업에서는 위 공개 색인 대신 자동 생성 **편집 지도**를 쓴다.
+
+- [`editorial/map/index.md`](editorial/map/index.md): 미게시 포함 모든 원고의 제목·별칭·절 수·분량 한 줄 지도
+- `editorial/map/docs/<id>.md`: 문서별 카드. 요약, 절 목차(절별 분량과 첫 문장), 장부에 기록된 반영 지식, 관계와 교차 제안
+
+지도 → 후보 카드 → 해당 절 본문 순으로 읽고, 정의 변경·구조 재편·충돌·위치 불명확 시 문서 전문으로 넓힌다(WIKI_PROTOCOL §8A). 지도와 카드는 후보 탐색용이며, 중복 판정은 반드시 본문을 읽고 한다. 미게시 `publish:false` 원고는 외부 탐색 색인에 노출하지 않지만 공개 GitHub 저장소 자체가 비공개인 것은 아니다.
 
 ## 교차 검색과 편집 제안 (04단계)
 

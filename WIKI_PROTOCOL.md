@@ -1,6 +1,6 @@
 # 누적형 지식백과 편집 프로토콜
 
-> 버전: 1.4 · 제정: 2026-10-22 · 개정: 2026-10-26 · 대상: `belorin/belorin.github.io` (`main`)
+> 버전: 1.5 · 제정: 2026-10-22 · 개정: 2026-10-26 · 대상: `belorin/belorin.github.io` (`main`)
 >
 > 이 문서는 특정 ChatGPT 대화를 이 저장소의 지식백과에 **총합·증보**하기 위한 실행 규칙이다. 기존 `AGENTS.md`의 저장소 형식·보안·게시 규칙을 함께 따른다. 충돌하는 경우 저장소의 실제 작동 방식과 안전 제한을 우선 확인하고, 임의로 데이터를 훼손하지 않는다.
 
@@ -152,11 +152,11 @@
 
 문서를 갱신할 때:
 
-1. 기존 `wiki/*.md`와 `wiki/manifest.json`에서 관련 원고를 확인한다.
+1. `editorial/map/index.md`와 문서 카드로 관련 원고와 절을 찾고 해당 `wiki/*.md`를 확인한다(§8A).
 2. 논증의 깊이와 정보를 보존하며 **Markdown에만** 실제 내용을 증보한다. 신규 문서는 manifest에 등록한다.
 3. 정적 사이트의 기존 `app.js`가 지원하는 제한된 Markdown과 해시 링크 형식에 맞춰 생성한다.
 4. **브랜치나 PR을 만들지 않고 `main`에 직접 커밋한다.** 여러 파일을 한 커밋에 쓸 수 없으면 Markdown → manifest·관계 정본 → 편집 장부 순으로 나누어 커밋한다.
-5. **생성물(`notes.json`, `AI_INDEX.md`, `ai/*`, `llms.txt`)은 직접 작성하지 않는다.** `main`에 커밋되면 GitHub Actions(`.github/workflows/deploy-pages.yml`)가 생성·검증한 뒤 생성물을 자동 커밋하고 사이트를 배포한다. 검증에 실패하면 배포되지 않으므로 Actions 탭의 결과를 확인한다.
+5. **생성물(`notes.json`, `AI_INDEX.md`, `ai/*`, `llms.txt`, `editorial/map/*`)은 직접 작성하지 않는다.** `main`에 커밋되면 GitHub Actions(`.github/workflows/deploy-pages.yml`)가 생성·검증한 뒤 생성물을 자동 커밋하고 사이트를 배포한다. 검증에 실패하면 배포되지 않으므로 Actions 탭의 결과를 확인한다.
 
 **게시와 보안:** 현재 `https://belorin.github.io/#문서-id` 체계, GitHub Actions 기반 Pages 배포, `.nojekyll`을 유지한다. `publish:false` 원고는 사이트에 자동 등장하지 않는다. 대화 전체를 공개 저장소에 무단 업로드하지 않으며 개인정보·민감 정보가 포함된 미공개 출처는 게재를 보류한다.
 
@@ -166,12 +166,17 @@
 
 **정본은 여전히 `wiki/*.md`, `wiki/manifest.json`, `wiki/relations.json`이다.** AI 탐색 파일은 전부 자동 생성된 파생 뷰이며 본문을 복제하거나 대화 원문을 저장하지 않는다.
 
-1. 새 작업에서는 `AI_INDEX.md` 또는 `ai/index.json`을 **먼저 확인**해 공개 문서의 제목·별칭·검토 상태·수정일·관계를 훑는다.
-2. `wiki/manifest.json`도 읽어 **미게시 원고**를 탐색한다. 후보를 좁힌 뒤에는 관련된 Markdown **전체 원고**를 읽고 증보한다. 요약과 색인만으로 본문을 재집필하지 않는다.
+1. 새 작업에서는 **`editorial/map/index.md`(전체 지도)** 를 먼저 읽는다. 미게시 원고를 포함한 모든 원고의 ID·제목·별칭·절 수·분량이 한 줄씩 있다. 채팅에서 추출한 지식 항목마다 제목과 별칭, 다른 표현으로 후보를 찾는다. 첫 검색에서 일치하지 않았다고 곧바로 새 문서를 만들지 않는다.
+2. 후보마다 **문서 카드 `editorial/map/docs/<id>.md`** 를 읽어 요약, 절 목차(절별 분량과 첫 문장), 장부에 기록된 반영 지식, 관계와 제안을 확인한다. 이어 대조할 **절 본문**과 그 절이 기대는 정의·전제·반례가 있는 절을 `wiki/*.md`에서 읽는다. 다음 경우에는 **문서 전문**을 읽는다.
+   - 기존 정의나 전제를 바꾸거나, 그 정의를 참조하는 다른 절에 영향이 있을 때
+   - 절을 신설·분할·재배열하는 등 문서 구조를 바꿀 때
+   - 새 내용이 기존 서술과 충돌하거나 국소적으로 해결되지 않을 때
+   - 카드의 목차와 첫 문장만으로 대조할 위치를 정할 수 없을 때
+   지도와 카드는 후보를 찾는 장치일 뿐이다. **중복이라고 판정해 반영을 생략하려면 해당 절 본문을 반드시 읽는다.** 읽지 못한 항목은 반영된 것으로 간주하지 않고 보류로 기록한다. 장부 기록이 없는 원고는 장부 도입 이전 원고일 수 있으므로 기록이 없다는 사실을 내용이 없다는 근거로 쓰지 않는다. `AI_INDEX.md`·`ai/index.json`은 외부 AI용 공개 색인이며, `wiki/manifest.json`은 메타데이터를 수정할 때 해당 항목을 확인한다.
 3. 문서 별칭(`aliases`)과 검토 상태(`review_state`)는 `wiki/manifest.json`에 둔다. `review_state`는 `unassessed`, `needs_review`, `reviewed` 중 하나이다. `reviewed`는 실제 검토가 이루어진 경우에만 사용한다. 원래 `status` 문장은 유지한다.
 4. 기존 `updated`는 기존 기록의 수정일이다. `last_enriched_on`은 **실제로 지식을 증보한 날짜만** 기록하며, 이전 증보일을 알 수 없으면 `null`로 둔다. 두 날짜를 동일하다고 추정하지 않는다.
 5. `manifest.related`는 **의미를 특정하지 않은 단순 연관**이다. `wiki/relations.json`에는 근거를 가진 의미 관계만 `from`, `to`, `type`, `evidence_section`, `reason`으로 별도 기록한다. 실제 본문에 존재하지 않는 근거 절을 기입하지 않는다.
-6. `AI_INDEX.md`, `ai/index.json`, `ai/relations.json`, `llms.txt`는 `scripts/build-ai-index.mjs`가 생성한다. 생성물을 직접 편집하지 않는다.
+6. `AI_INDEX.md`, `ai/index.json`, `ai/relations.json`, `llms.txt`는 `scripts/build-ai-index.mjs`가, 편집 지도 `editorial/map/*`은 `scripts/build-wiki-map.mjs`가 생성한다. 생성물을 직접 편집하지 않는다. 편집 지도는 미게시 원고를 포함하는 내부 편집용 자료이며 `llms.txt`나 공개 AI 색인에 연결하지 않는다.
 7. 생성은 `main` 커밋 뒤 GitHub Actions가 자동으로 수행한다. 편집자는 Markdown·manifest·관계 정본·편집 장부만 커밋한다.
 8. `/llms.txt`와 공개 AI 색인은 `publish:true` 문서만 나열한다. `publish:false` 원고는 자동 색인에 넣지 않는다. 그러나 GitHub 저장소가 공개이므로 파일 자체를 비공개로 보호하는 조치는 아니다.
 9. `/llms.txt`는 외부 AI를 위한 **선택적인 탐색 안내**이지 모든 AI가 자동으로 읽는다는 보장은 아니다. 내용 확인은 각 항목의 **직접 Markdown 주소**로 한다.
@@ -181,7 +186,7 @@
 
 **후보 검색, 논증 확인, 집필 허가를 별도의 판단으로 취급한다.** 자동 후보 추천은 문서의 정확성이나 새로운 철학적 해석의 승인과 다르다.
 
-1. **후보 생성:** 우선 `AI_INDEX.md`·`ai/index.json`에서 제목과 별칭을 확인하고 `wiki/manifest.json`으로 미게시 원고도 탐색한다. 로컬 저장소에서는 `node scripts/search-wiki.mjs --query "개념"`, `--related <문서-id> --all --novel`을 사용할 수 있다.
+1. **후보 생성:** 우선 `editorial/map/index.md`에서 제목과 별칭을 확인하고(미게시 원고 포함), 후보의 문서 카드에서 절 목차와 관계를 본다. 로컬 저장소에서는 `node scripts/search-wiki.mjs --query "개념"`, `--related <문서-id> --all --novel`을 사용할 수 있다.
 2. **검색 방법의 한계:** 로컬 검색은 한국어 문자 n-gram·메타데이터·기존 관계의 근접성을 결합한 **휴리스틱 검색**이며 벡터 임베딩 기반 의미 검색이 아니다. 일반 ChatGPT에서 명령을 실행할 수 없다면 GitHub 색인과 실제 Markdown을 읽고 **AI의 의미적 재평가**를 수행한다. 점수는 근거나 합의가 아니다.
 3. **직접 증보:** 현재 접근 가능한 대화에서 직접 뒷받침되는 사실·정의·사례를 기존 문서에서 확인된 절로 증보하는 것은 기존 편집 프로토콜에 따라 진행할 수 있다. 단, 정보 손실·오류·출처 경계 검수는 그대로 적용한다.
 4. **간접 연결:** 두 글의 관계가 개념적 유비, 철학적 확장, 방법론적 비교 같은 **새로운 편집자 해석**이라면 완성된 사실처럼 원고에 덧붙이지 않는다. 두 원고의 실제 절을 확인하고 `editorial/crosslinks/index.json`에 `status: proposed`, `basis: editorial_hypothesis`, 유비의 근거와 한계를 함께 기록한다.
@@ -197,10 +202,10 @@
 
 각 대화창에서 이 프로토콜 URL을 주고 '이 대화를 위키에 증보해 줘'라고 요청하면 아래 순서로 실행한다.
 
-1. **확인:** 이 파일과 `AGENTS.md`, `AI_INDEX.md`/`ai/index.json`을 **먼저 읽고** 후보 문서를 찾는다. 다음으로 `wiki/manifest.json`의 미게시 원고, `editorial/ingestions/index.json`의 처리 이력을 확인하고 관련 Markdown 전문을 읽는다.
+1. **확인:** 이 파일과 `AGENTS.md`를 **전부 읽고**, `editorial/map/index.md`(전체 지도)와 `editorial/ingestions/index.json`의 처리 이력을 확인한다.
 2. **범위 판정:** 실제 접근 가능한 대화 부분과 이미 처리한 범위를 확인한다.
 3. **전수 추출:** 실제 접근 가능한 대화를 순서대로 살피며 주제 후보와 논증·사례·반론의 지식 대장을 작업 중에만 만든다. 대화 원문·발췌문은 GitHub에 보관하지 않는다.
-4. **중복·연결 조사:** 색인과 관계망을 통해 직접 관련 문서뿐 아니라 간접적인 후보도 탐색한다. 로컬 명령이 가능하면 `scripts/search-wiki.mjs`를 사용하고, 그렇지 않으면 색인과 원고를 AI가 의미적으로 비교한다. **간접적 가설은 `editorial/crosslinks/index.json`에 제안으로 기록하고 자동 본문 편입하지 않는다.** 외부 인터넷 조사는 하지 않는다.
+4. **중복·연결 조사:** 추출한 지식 항목마다 전체 지도에서 후보를 찾고, 후보의 문서 카드와 해당 절 본문을 읽어 대조한다. 전문으로 넓히는 조건은 §8A를 따른다. 직접 관련 문서뿐 아니라 간접적인 후보도 탐색한다. 로컬 명령이 가능하면 `scripts/search-wiki.mjs`를 사용하고, 그렇지 않으면 색인과 원고를 AI가 의미적으로 비교한다. **간접적 가설은 `editorial/crosslinks/index.json`에 제안으로 기록하고 자동 본문 편입하지 않는다.** 외부 인터넷 조사는 하지 않는다.
 5. **상세 집필:** 서적 수준으로 통합·증보하고, 새 독립 주제가 필요하면 별도의 Markdown 원고를 만든다.
 6. **게시 반영:** 공개할 원고는 `wiki/*.md`와 `wiki/manifest.json`, 필요하면 `wiki/relations.json`을 편집한다. `main`에 직접 커밋하며 `notes.json`과 AI 탐색 파일·`llms.txt`는 GitHub Actions가 재생성한다.
 7. **검수:** 원문 대조, 기존 원고 전후 비교를 수행한다. 형식·ID·링크·장부 검증은 커밋 뒤 GitHub Actions가 수행하며, 로컬 실행이 가능하면 `node scripts/build-notes.mjs`, `node scripts/build-ai-index.mjs`, `node scripts/validate-editorial.mjs`로 미리 확인할 수 있다.

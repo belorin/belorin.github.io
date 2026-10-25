@@ -1,6 +1,6 @@
 name: Build and deploy site
 # main에 원고(wiki/*.md, manifest, 장부)가 올라오면 생성물을 만들고 검증한 뒤
-# 1) 생성물(notes.json, AI 색인, llms.txt)을 main에 자동 커밋하고
+# 1) 생성물(notes.json, AI 색인, llms.txt, 편집 지도)을 main에 자동 커밋하고
 # 2) 같은 결과물로 GitHub Pages를 배포한다.
 # GITHUB_TOKEN으로 만든 자동 커밋은 워크플로를 다시 촉발하지 않으므로 반복되지 않는다.
 on:
@@ -22,14 +22,16 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
-      - name: Generate site data and AI indexes
+      - name: Generate site data, AI indexes and wiki map
         run: |
           node scripts/build-notes.mjs
           node scripts/build-ai-index.mjs
+          node scripts/build-wiki-map.mjs
       - name: Validate
         run: |
           node scripts/build-notes.mjs --check
           node scripts/build-ai-index.mjs --check
+          node scripts/build-wiki-map.mjs --check
           node scripts/validate-editorial.mjs
           node scripts/test-editorial.mjs
           node scripts/validate-crosslinks.mjs
@@ -38,7 +40,7 @@ jobs:
           node scripts/test-viewer.mjs
       - name: Commit regenerated files to main
         run: |
-          git add notes.json AI_INDEX.md ai llms.txt
+          git add -A notes.json AI_INDEX.md ai llms.txt editorial/map
           if git diff --cached --quiet; then
             echo "Generated files already up to date."
             exit 0
@@ -50,7 +52,7 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: regenerate site data and AI indexes"
+          git commit -m "chore: regenerate site data, AI indexes and wiki map"
           git push origin HEAD:main
       - name: Assemble site
         run: |
