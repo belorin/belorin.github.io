@@ -322,6 +322,9 @@
 - **[《어벤져스: 엔드게임》의 두 죽음: 나타샤의 희생과 토니 스타크의 장례식](wiki/endgame-natasha-tony-funeral.md)** · 별칭: 어벤져스 엔드게임 나타샤, 블랙 위도우 장례식, 나타샤 보르미르, 토니 스타크 장례식, 엔드게임 두 죽음 · 수정: 2026-10-25 · 검토: 제작진 인터뷰·영화 장면의 대화 내 확인 자료 총합 · 세부 인용과 제작 경위 재검증 필요
   - 보르미르에서 나타샤가 죽게 된 각본·재촬영 과정과 가족·자기결정의 서사 논리, 토니에게만 거대한 장례식이 집중된 이유와 2019~2021년 제작진의 서로 다른 해명을 함께 분석한다.
   - [웹페이지](https://belorin.github.io/#endgame-natasha-tony-funeral) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/endgame-natasha-tony-funeral.md)
+- **[《디워》의 2026년 넷플릭스 역주행: 플랫폼 내부 확산과 외부 바이럴](wiki/dwar-netflix-revival.md)** · 별칭: D-War 역주행, Dragon Wars Netflix · 수정: 2026-10-25 · 검토: 대화 내부 자료 기반·외부 재검증 필요
+  - 유럽 넷플릭스 신규 편입, 해외 최신 보도, 동시기 구작 비교와 플랫폼 내부 확산 가설의 증거 및 한계.
+  - [웹페이지](https://belorin.github.io/#dwar-netflix-revival) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/dwar-netflix-revival.md)
 
 ## 문학
 

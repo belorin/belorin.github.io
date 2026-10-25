@@ -3480,6 +3480,33 @@
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-25"
+    },
+    {
+      "path": "wiki/dwar-netflix-revival.md",
+      "publish": true,
+      "order": 107,
+      "id": "dwar-netflix-revival",
+      "title": "《디워》의 2026년 넷플릭스 역주행: 플랫폼 내부 확산과 외부 바이럴",
+      "category": "영화",
+      "status": "대화 내부 자료 기반·외부 재검증 필요",
+      "updated": "2026-10-25",
+      "summary": "유럽 넷플릭스 신규 편입, 해외 최신 보도, 동시기 구작 비교와 플랫폼 내부 확산 가설의 증거 및 한계.",
+      "tags": [
+        "디워",
+        "Dragon Wars",
+        "넷플릭스",
+        "스트리밍",
+        "바이럴",
+        "괴수영화"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [],
+      "aliases": [
+        "D-War 역주행",
+        "Dragon Wars Netflix"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
     }
   ]
 }
