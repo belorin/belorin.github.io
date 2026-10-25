@@ -89,6 +89,7 @@
 - [들뢰즈 이후, 생성·자본·기술을 이어 간 사상가들](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/post-deleuze-novelty-thinkers.md): 라자라토, 하트·네그리, 데란다, 마수미, 브라이도티, 스텡게르스, 육후이, 파스퀴넬리로 분산된 들뢰즈 이후의 계보를 질문별로 정리한다.
 - [현대 세계를 지배하는 철학과 합리성: 자유주의에서 계산주의까지](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/contemporary-governing-philosophies.md): 단일 패권철학 대신 자유주의, 신자유주의, 통계적 실증주의, 경제학적 합리성, 계산·최적화가 서로 다른 제도에서 운영체제처럼 작동하는 구조를 정리한다.
 - [치이카와를 철학적으로 읽기: 욕망·노동·고귀한 거짓말과 일본의 비평 흐름](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/chiikawa-philosophy.md): 플라톤의 욕망론과 고귀한 거짓말로 치이카와 세계의 노동·규칙·행복을 읽고, 알튀세르·캐릭터론·만화표현론·노동비평·졸업논문까지 일본의 분석 흐름을 정리한다.
+- [수에서 비동등한 것은 무엇을 하는가: 기수·서수, 강도와 들뢰즈의 spatium](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-number-intensity-spatium.md): 유리수·무리수와 기수·서수의 수학적 구별부터 강도적 spatium, 플라톤의 세계 영혼과 중항을 검토하고 불확실한 산식의 판독을 보류한다.
 
 ### 독서 문화
 
@@ -106,6 +107,7 @@
 - [국지전은 어떻게 세계전쟁이 되는가: 1754·1618·1914·1939·1950과 2026년 다중 전선](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/war-escalation-local-to-world.md): 세계대전의 핵심을 국지전의 수가 아니라 전쟁들의 전략적 연결에서 찾고, 1754·1618·1914·1939·1950의 확전과 억제 사례를 러시아-유럽·대만·한반도의 동시 위기와 비교한다.
 - [혐오의 가속은 파국 없이 멈출 수 있는가: 집단공황과 정치적 선동의 역사적 브레이크](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hate-escalation-brakes-history.md): 전후의 반성이나 체제 붕괴가 아니라, 집단공황과 혐오 정치가 가속 중에 멈춘 청나라 영혼 도둑 공황·바스크 마녀사냥·적색공포·매카시즘·Popish Plot·드레퓌스기의 메커니즘을 비교한다.
 - [광주의 보이지 않는 길거리 미술관: 아파트·사옥 조형물과 작가·건설 네트워크](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gwangju-building-art-network.md): 광주의 아파트·사옥·오피스텔 앞 건축물 미술을 시대별 미감과 생활환경으로 읽고, 최규철·정춘표·조의현·전용환 등의 작가 계보와 시행사·시공사·대행업체·제작소·심의 구조를 분리해 추적한다.
+- [그리스만이 철학의 고향인가: 고대 지중해와 서아시아의 사상가·고서·전승](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ancient-philosophy-beyond-greece.md): 그리스 중심 철학사의 제도적 배경과 이집트·메소포타미아·바빌로니아·레반트·페르시아·페니키아·카르타고의 문헌을 시기·장르·전승별로 비교한다.
 
 ### 언어
 

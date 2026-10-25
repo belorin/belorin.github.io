@@ -193,10 +193,10 @@
 
 ## 철학
 
-- **[들뢰즈: 생성과 새로운 것의 철학](wiki/deleuze-becoming-new.md)** · 별칭: 들뢰즈와 생성, 들뢰즈와 미래, 들뢰즈 독서 경로 · 수정: 2026-10-23 · 검토: 개념 종합·현재 적용 해석 포함
+- **[들뢰즈: 생성과 새로운 것의 철학](wiki/deleuze-becoming-new.md)** · 별칭: 들뢰즈와 생성, 들뢰즈와 미래, 들뢰즈 독서 경로 · 수정: 2026-10-25 · 검토: 개념 종합·현재 적용 해석 포함
   - 고정된 미래상보다 문제·생성·배치의 문법을 남긴 들뢰즈를 2026년의 렌즈로 읽고, 『디알로그』·『천 개의 고원』·통제사회로 이어지는 독서 경로를 정리한다.
   - [웹페이지](https://belorin.github.io/#deleuze-becoming-new) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-becoming-new.md)
-- **[차이, 문제, 역사: 『차이와 반복』의 부정 비판과 피비린내 나는 긍정](wiki/deleuze-negation-history.md)** · 별칭: 들뢰즈와 부정, 피비린내와 잔혹함, 차이와 반복의 역사론 · 수정: 2026-10-23 · 검토: 원문 대조 기반 해설·외부 재검토 필요
+- **[차이, 문제, 역사: 『차이와 반복』의 부정 비판과 피비린내 나는 긍정](wiki/deleuze-negation-history.md)** · 별칭: 들뢰즈와 부정, 피비린내와 잔혹함, 차이와 반복의 역사론 · 수정: 2026-10-25 · 검토: 원문 대조 기반 해설·외부 재검토 필요
   - 부정의 과대평가, 문제와 차이의 발생론, 역사의 비목적론, '피비린내와 잔혹함', 아름다운 영혼 비판을 통해 들뢰즈의 긍정이 평화주의가 아님을 정리한다.
   - [웹페이지](https://belorin.github.io/#deleuze-negation-history) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-negation-history.md)
 - **[통제사회, 마르크스, 말년의 들뢰즈가 남긴 미래 문제](wiki/deleuze-control-marx-future.md)** · 별칭: 통제사회에 관한 후기, 말년의 들뢰즈, Grandeur de Marx · 수정: 2026-10-23 · 검토: 저작 해설·말년 미래관 해석
@@ -211,6 +211,9 @@
 - **[치이카와를 철학적으로 읽기: 욕망·노동·고귀한 거짓말과 일본의 비평 흐름](wiki/chiikawa-philosophy.md)** · 별칭: 치이카와 철학, ちいかわ 철학, 치이카와 비평, 고귀한 거짓말로서의 치이카와 · 수정: 2026-10-24 · 검토: 대화 중 확인된 일본 철학·비평 자료 총합 · 최종 논문 전문 미대조 · 외부 재검증 필요
   - 플라톤의 욕망론과 고귀한 거짓말로 치이카와 세계의 노동·규칙·행복을 읽고, 알튀세르·캐릭터론·만화표현론·노동비평·졸업논문까지 일본의 분석 흐름을 정리한다.
   - [웹페이지](https://belorin.github.io/#chiikawa-philosophy) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/chiikawa-philosophy.md)
+- **[수에서 비동등한 것은 무엇을 하는가: 기수·서수, 강도와 들뢰즈의 spatium](wiki/deleuze-number-intensity-spatium.md)** · 별칭: 수의 기수와 서수, 강도적 공-간, spatium과 강도, 비동등한 수 · 수정: 2026-10-25 · 검토: 내부 총합 · 수식 및 원전 용례 재검증 필요
+  - 유리수·무리수와 기수·서수의 수학적 구별부터 강도적 spatium, 플라톤의 세계 영혼과 중항을 검토하고 불확실한 산식의 판독을 보류한다.
+  - [웹페이지](https://belorin.github.io/#deleuze-number-intensity-spatium) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-number-intensity-spatium.md)
 
 ## 독서 문화
 
@@ -238,7 +241,7 @@
 - **[버닝맨은 무엇을 수출했나: 지역 번즈와 임시도시의 문화 프로토콜](wiki/burning-man-regional-network.md)** · 별칭: Regional Burn, Burning Man Regional Network, AfrikaBurn, Midburn, Kiwiburn, Burning Japan · 수정: 2026-10-23 · 검토: 지역 네트워크 수치·행사별 연혁 재검증 필요
   - AfrikaBurn·Midburn·Kiwiburn·Burning Japan을 통해 사막의 외형보다 참여·선물·자율운영·흔적 지우기라는 문화 프로토콜이 어떻게 현지화되는지 살핀다.
   - [웹페이지](https://belorin.github.io/#burning-man-regional-network) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/burning-man-regional-network.md)
-- **[수메르 재발견과 구약 원초사의 역사화: 홍수·에덴·바벨탑은 어떻게 재배치되었나](wiki/sumer-bible-primeval-history.md)** · 별칭: 수메르와 구약, 창세기 원초사, 메소포타미아와 성경, 노아의 홍수와 수메르, 에덴과 딜문 · 수정: 2026-10-24 · 검토: 대화 중 확인된 고대근동·성서학 자료 요약 기반 · 세부 연대와 학계 견해 외부 재검증 필요
+- **[수메르 재발견과 구약 원초사의 역사화: 홍수·에덴·바벨탑은 어떻게 재배치되었나](wiki/sumer-bible-primeval-history.md)** · 별칭: 수메르와 구약, 창세기 원초사, 메소포타미아와 성경, 노아의 홍수와 수메르, 에덴과 딜문 · 수정: 2026-10-25 · 검토: 대화 중 확인된 고대근동·성서학 자료 요약 기반 · 세부 연대와 학계 견해 외부 재검증 필요
   - 수메르·아카드·바빌로니아 문헌의 재발견이 창세기 1~11장을 문자 그대로의 역사로 확정한 것이 아니라, 홍수·에덴·바벨탑을 고대 서아시아 원초사 전통과 실제 역사적 배경 속에 재배치한 과정을 설명한다.
   - [웹페이지](https://belorin.github.io/#sumer-bible-primeval-history) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/sumer-bible-primeval-history.md)
 - **[국지전은 어떻게 세계전쟁이 되는가: 1754·1618·1914·1939·1950과 2026년 다중 전선](wiki/war-escalation-local-to-world.md)** · 별칭: 국지전에서 세계대전, 전쟁의 연결, 1914 확전 모형 · 수정: 2026-10-24 · 검토: 역사 사례와 2026년 정세 비교·대화 내 자료 기반·세부 재검증 필요
@@ -250,6 +253,9 @@
 - **[광주의 보이지 않는 길거리 미술관: 아파트·사옥 조형물과 작가·건설 네트워크](wiki/gwangju-building-art-network.md)** · 별칭: 광주 공공미술, 광주 건축물 미술, 광주 아파트 조각, 광주 길거리 미술관, 광주 조각 네트워크 · 수정: 2026-10-24 · 검토: 대화 중 확인된 작품·작가·제도 자료 총합 · 발주 관계와 세부 사실 재검증 필요
   - 광주의 아파트·사옥·오피스텔 앞 건축물 미술을 시대별 미감과 생활환경으로 읽고, 최규철·정춘표·조의현·전용환 등의 작가 계보와 시행사·시공사·대행업체·제작소·심의 구조를 분리해 추적한다.
   - [웹페이지](https://belorin.github.io/#gwangju-building-art-network) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gwangju-building-art-network.md)
+- **[그리스만이 철학의 고향인가: 고대 지중해와 서아시아의 사상가·고서·전승](wiki/ancient-philosophy-beyond-greece.md)** · 별칭: 그리스 중심 철학사, 그리스 외부 고대 사상, 고대 근동 지혜문학 · 수정: 2026-10-25 · 검토: 내부 총합 · 저자 귀속과 편년 재검증 필요
+  - 그리스 중심 철학사의 제도적 배경과 이집트·메소포타미아·바빌로니아·레반트·페르시아·페니키아·카르타고의 문헌을 시기·장르·전승별로 비교한다.
+  - [웹페이지](https://belorin.github.io/#ancient-philosophy-beyond-greece) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ancient-philosophy-beyond-greece.md)
 
 ## 언어
 

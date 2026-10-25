@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 87,
+  "document_count": 89,
   "documents": [
     {
       "id": "living-notes",
@@ -1071,13 +1071,14 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "개념 종합·현재 적용 해석 포함",
-      "last_updated_on": "2026-10-23",
-      "last_enriched_on": "2026-10-23",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "deleuze-negation-history",
         "deleuze-control-marx-future",
-        "post-deleuze-novelty-thinkers"
+        "post-deleuze-novelty-thinkers",
+        "deleuze-number-intensity-spatium"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-becoming-new.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/deleuze-becoming-new.md",
@@ -1104,12 +1105,13 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "원문 대조 기반 해설·외부 재검토 필요",
-      "last_updated_on": "2026-10-23",
-      "last_enriched_on": "2026-10-23",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "deleuze-becoming-new",
-        "deleuze-control-marx-future"
+        "deleuze-control-marx-future",
+        "deleuze-number-intensity-spatium"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-negation-history.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/deleuze-negation-history.md",
@@ -1947,10 +1949,12 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "대화 중 확인된 고대근동·성서학 자료 요약 기반 · 세부 연대와 학계 견해 외부 재검증 필요",
-      "last_updated_on": "2026-10-24",
-      "last_enriched_on": "2026-10-24",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
       "last_enriched_note": "explicitly_recorded",
-      "related_ids": [],
+      "related_ids": [
+        "ancient-philosophy-beyond-greece"
+      ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/sumer-bible-primeval-history.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/sumer-bible-primeval-history.md",
       "page_url": "https://belorin.github.io/#sumer-bible-primeval-history"
@@ -2840,6 +2844,75 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/music-books-supply-attention.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/music-books-supply-attention.md",
       "page_url": "https://belorin.github.io/#music-books-supply-attention"
+    },
+    {
+      "id": "deleuze-number-intensity-spatium",
+      "title": "수에서 비동등한 것은 무엇을 하는가: 기수·서수, 강도와 들뢰즈의 spatium",
+      "aliases": [
+        "수의 기수와 서수",
+        "강도적 공-간",
+        "spatium과 강도",
+        "비동등한 수"
+      ],
+      "category": "철학",
+      "tags": [
+        "들뢰즈",
+        "기수",
+        "서수",
+        "무리수",
+        "비동등성",
+        "spatium",
+        "세계 영혼"
+      ],
+      "summary": "유리수·무리수와 기수·서수의 수학적 구별부터 강도적 spatium, 플라톤의 세계 영혼과 중항을 검토하고 불확실한 산식의 판독을 보류한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "내부 총합 · 수식 및 원전 용례 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "deleuze-becoming-new",
+        "deleuze-negation-history",
+        "ancient-philosophy-beyond-greece"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-number-intensity-spatium.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/deleuze-number-intensity-spatium.md",
+      "page_url": "https://belorin.github.io/#deleuze-number-intensity-spatium"
+    },
+    {
+      "id": "ancient-philosophy-beyond-greece",
+      "title": "그리스만이 철학의 고향인가: 고대 지중해와 서아시아의 사상가·고서·전승",
+      "aliases": [
+        "그리스 중심 철학사",
+        "그리스 외부 고대 사상",
+        "고대 근동 지혜문학"
+      ],
+      "category": "문화와 역사",
+      "tags": [
+        "고대 철학",
+        "그리스",
+        "이집트",
+        "메소포타미아",
+        "페르시아",
+        "지혜문학",
+        "철학 정전"
+      ],
+      "summary": "그리스 중심 철학사의 제도적 배경과 이집트·메소포타미아·바빌로니아·레반트·페르시아·페니키아·카르타고의 문헌을 시기·장르·전승별로 비교한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "내부 총합 · 저자 귀속과 편년 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "sumer-bible-primeval-history",
+        "deleuze-number-intensity-spatium",
+        "deleuze-becoming-new"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ancient-philosophy-beyond-greece.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ancient-philosophy-beyond-greece.md",
+      "page_url": "https://belorin.github.io/#ancient-philosophy-beyond-greece"
     }
   ]
 }

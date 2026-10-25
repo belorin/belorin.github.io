@@ -56,6 +56,7 @@
 
 ## 관련 문서
 
+- [수의 기수·서수와 강도적 공-간](./deleuze-number-intensity-spatium.md)
 - [차이, 문제, 역사](./deleuze-negation-history.md)
 - [통제사회, 마르크스, 말년의 미래관](./deleuze-control-marx-future.md)
 - [들뢰즈 이후의 사상가들](./post-deleuze-novelty-thinkers.md)

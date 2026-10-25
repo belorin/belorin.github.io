@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 331,
+  "edge_count": 340,
   "edges": [
     {
       "from": "living-notes",
@@ -1140,6 +1140,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "deleuze-becoming-new",
+      "to": "deleuze-number-intensity-spatium",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "deleuze-negation-history",
       "to": "deleuze-becoming-new",
       "type": "related_to",
@@ -1148,6 +1154,12 @@
     {
       "from": "deleuze-negation-history",
       "to": "deleuze-control-marx-future",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-negation-history",
+      "to": "deleuze-number-intensity-spatium",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1530,6 +1542,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "sumer-bible-primeval-history",
+      "to": "ancient-philosophy-beyond-greece",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "europe-russia-escalation-signals-2026",
       "to": "war-escalation-local-to-world",
       "type": "related_to",
@@ -1802,6 +1820,42 @@
     {
       "from": "music-books-supply-attention",
       "to": "living-notes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-number-intensity-spatium",
+      "to": "deleuze-becoming-new",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-number-intensity-spatium",
+      "to": "deleuze-negation-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-number-intensity-spatium",
+      "to": "ancient-philosophy-beyond-greece",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ancient-philosophy-beyond-greece",
+      "to": "sumer-bible-primeval-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ancient-philosophy-beyond-greece",
+      "to": "deleuze-number-intensity-spatium",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ancient-philosophy-beyond-greece",
+      "to": "deleuze-becoming-new",
       "type": "related_to",
       "basis": "manifest.related"
     },
