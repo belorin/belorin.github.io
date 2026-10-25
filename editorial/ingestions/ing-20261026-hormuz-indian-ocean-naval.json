@@ -1,51 +1,93 @@
 {
-  "version": 1,
-  "batch_id": "ing-20261026-hormuz-indian-ocean-naval",
+  "id": "ing-20261026-hormuz-indian-ocean-naval",
+  "processed_on": "2026-10-26",
   "coverage": "visible-complete",
-  "scope_note": "현재 접근 가능한 대화 발화만 처리. 외부 보도 재검증 없이 대화에 제시된 주장과 불확실성 구분.",
+  "limit_note": "현재 접근 가능한 대화 발화만 처리. 외부 보도 재검증 없이 대화에 제시된 주장과 불확실성 구분.",
+  "withheld_count": 0,
   "items": [
     {
+      "id": "k01",
+      "kind": "argument",
       "title": "차바하르에서 호르무즈까지: 하나의 항구가 드러낸 전략의 역설",
       "status": "integrated",
-      "document": "hormuz-iran-war-naval-power-2026",
-      "section": "차바하르에서 호르무즈까지: 하나의 항구가 드러낸 전략의 역설"
+      "targets": [
+        {
+          "doc_id": "hormuz-iran-war-naval-power-2026",
+          "section": "차바하르에서 호르무즈까지: 하나의 항구가 드러낸 전략의 역설"
+        }
+      ]
     },
     {
+      "id": "k02",
+      "kind": "argument",
       "title": "인도양의 해군들: 숫자와 임무가 어긋나는 곳",
       "status": "integrated",
-      "document": "hormuz-iran-war-naval-power-2026",
-      "section": "인도양의 해군들: 숫자와 임무가 어긋나는 곳"
+      "targets": [
+        {
+          "doc_id": "hormuz-iran-war-naval-power-2026",
+          "section": "인도양의 해군들: 숫자와 임무가 어긋나는 곳"
+        }
+      ]
     },
     {
+      "id": "k03",
+      "kind": "argument",
       "title": "함대를 이기는 것과 해협을 여는 것은 다르다",
       "status": "integrated",
-      "document": "hormuz-iran-war-naval-power-2026",
-      "section": "함대를 이기는 것과 해협을 여는 것은 다르다"
+      "targets": [
+        {
+          "doc_id": "hormuz-iran-war-naval-power-2026",
+          "section": "함대를 이기는 것과 해협을 여는 것은 다르다"
+        }
+      ]
     },
     {
+      "id": "k04",
+      "kind": "argument",
       "title": "어디까지 억제해야 하는가: 섬, 해안, 내륙",
       "status": "integrated",
-      "document": "hormuz-iran-war-naval-power-2026",
-      "section": "어디까지 억제해야 하는가: 섬, 해안, 내륙"
+      "targets": [
+        {
+          "doc_id": "hormuz-iran-war-naval-power-2026",
+          "section": "어디까지 억제해야 하는가: 섬, 해안, 내륙"
+        }
+      ]
     },
     {
+      "id": "k05",
+      "kind": "argument",
       "title": "전쟁을 닫는 작전과 전쟁을 키우는 작전",
       "status": "integrated",
-      "document": "hormuz-iran-war-naval-power-2026",
-      "section": "전쟁을 닫는 작전과 전쟁을 키우는 작전"
+      "targets": [
+        {
+          "doc_id": "hormuz-iran-war-naval-power-2026",
+          "section": "전쟁을 닫는 작전과 전쟁을 키우는 작전"
+        }
+      ]
     },
     {
+      "id": "k06",
+      "kind": "argument",
       "title": "걸프의 분산 기지와 이란의 비대칭 보복",
       "status": "integrated",
-      "document": "hormuz-iran-war-naval-power-2026",
-      "section": "걸프의 분산 기지와 이란의 비대칭 보복"
+      "targets": [
+        {
+          "doc_id": "hormuz-iran-war-naval-power-2026",
+          "section": "걸프의 분산 기지와 이란의 비대칭 보복"
+        }
+      ]
     },
     {
+      "id": "k07",
+      "kind": "argument",
       "title": "전쟁의 종결은 무엇을 뜻하는가",
       "status": "integrated",
-      "document": "hormuz-iran-war-naval-power-2026",
-      "section": "전쟁의 종결은 무엇을 뜻하는가"
+      "targets": [
+        {
+          "doc_id": "hormuz-iran-war-naval-power-2026",
+          "section": "전쟁의 종결은 무엇을 뜻하는가"
+        }
+      ]
     }
-  ],
-  "withheld_count": 0
+  ]
 }
