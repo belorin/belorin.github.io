@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 100,
+  "document_count": 103,
   "documents": [
     {
       "id": "living-notes",
@@ -1078,7 +1078,8 @@
         "deleuze-negation-history",
         "deleuze-control-marx-future",
         "post-deleuze-novelty-thinkers",
-        "deleuze-number-intensity-spatium"
+        "deleuze-number-intensity-spatium",
+        "freud-before-anti-oedipus"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-becoming-new.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/deleuze-becoming-new.md",
@@ -1111,7 +1112,10 @@
       "related_ids": [
         "deleuze-becoming-new",
         "deleuze-control-marx-future",
-        "deleuze-number-intensity-spatium"
+        "deleuze-number-intensity-spatium",
+        "hegel-fichte-schelling-difference",
+        "deleuze-unthinkable-fold-thought",
+        "freud-before-anti-oedipus"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-negation-history.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/deleuze-negation-history.md",
@@ -2868,9 +2872,14 @@
         "무리수",
         "비동등성",
         "spatium",
-        "세계 영혼"
+        "세계 영혼",
+        "카르노",
+        "퀴리",
+        "감성",
+        "소여",
+        "질화"
       ],
-      "summary": "유리수·무리수와 기수·서수의 수학적 구별부터 강도적 spatium, 플라톤의 세계 영혼과 중항을 검토하고 불확실한 산식의 판독을 보류한다.",
+      "summary": "기수·서수와 강도적 spatium에 더해 소여와 가치, 감각적 잡다, 카르노·퀴리의 원리, 강도의 질화·연장·자기소멸을 구분한다.",
       "published": true,
       "review_state": "needs_review",
       "review_label": "내부 총합 · 수식 및 원전 용례 재검증 필요",
@@ -3294,6 +3303,98 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/book-preview-credit-sourcing.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/book-preview-credit-sourcing.md",
       "page_url": "https://belorin.github.io/#book-preview-credit-sourcing"
+    },
+    {
+      "id": "hegel-fichte-schelling-difference",
+      "title": "헤겔의 『피히테와 셸링 철학 체계의 차이』: 주관의 동일성과 절대적 동일성",
+      "aliases": [
+        "피히테와 셸링의 철학 체계의 차이",
+        "헤겔 초기 동일성",
+        "형식과 본질"
+      ],
+      "category": "철학",
+      "tags": [
+        "헤겔",
+        "피히테",
+        "셸링",
+        "동일성",
+        "비동일성",
+        "독일 관념론"
+      ],
+      "summary": "피히테의 자아·비자아가 남기는 대립, 셸링의 자연과 정신, 헤겔의 동일성과 비동일성 및 초기·후기 평가의 차이를 읽는다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "내부 총합 · 원전 문구·비교 해석 재검토 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "deleuze-negation-history"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hegel-fichte-schelling-difference.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/hegel-fichte-schelling-difference.md",
+      "page_url": "https://belorin.github.io/#hegel-fichte-schelling-difference"
+    },
+    {
+      "id": "deleuze-unthinkable-fold-thought",
+      "title": "사유의 중심에 접혀 있는 불가능자: 생각할 수 없음이 생각을 움직일 때",
+      "aliases": [
+        "사유의 불가능자",
+        "안주름",
+        "사유의 내부의 접힘"
+      ],
+      "category": "철학",
+      "tags": [
+        "들뢰즈",
+        "사유",
+        "불가능자",
+        "안-주름",
+        "강제된 사유"
+      ],
+      "summary": "사유의 내부에 안-주름잡힌 불가능성을 죽음·자기인식·사랑의 비유와 사유에 대한 강제라는 문제로 구별해 설명한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "내부 총합 · 원전 문구·비교 해석 재검토 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "deleuze-negation-history"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-unthinkable-fold-thought.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/deleuze-unthinkable-fold-thought.md",
+      "page_url": "https://belorin.github.io/#deleuze-unthinkable-fold-thought"
+    },
+    {
+      "id": "freud-before-anti-oedipus",
+      "title": "『안티 오이디푸스』 전에 읽는 프로이트: 한 권과 두 권의 선택",
+      "aliases": [
+        "안티 오이디푸스 사전 독서",
+        "프로이트 입문서 추천",
+        "반오이디푸스 읽기"
+      ],
+      "category": "철학",
+      "tags": [
+        "프로이트",
+        "안티 오이디푸스",
+        "꿈의 해석",
+        "정신분석 입문",
+        "성욕에 관한 세 편의 에세이"
+      ],
+      "summary": "한 권은 『정신분석 입문』, 두 권은 『꿈의 해석』과 『성욕에 관한 세 편의 에세이』로 읽는 목적과 선택 근거를 구분한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "내부 총합 · 원전 문구·비교 해석 재검토 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "deleuze-becoming-new",
+        "deleuze-negation-history"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/freud-before-anti-oedipus.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/freud-before-anti-oedipus.md",
+      "page_url": "https://belorin.github.io/#freud-before-anti-oedipus"
     }
   ]
 }

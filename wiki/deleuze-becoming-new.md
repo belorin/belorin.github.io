@@ -56,6 +56,7 @@
 
 ## 관련 문서
 
+- [『안티 오이디푸스』 전에 읽는 프로이트](./freud-before-anti-oedipus.md)
 - [수의 기수·서수와 강도적 공-간](./deleuze-number-intensity-spatium.md)
 - [차이, 문제, 역사](./deleuze-negation-history.md)
 - [통제사회, 마르크스, 말년의 미래관](./deleuze-control-marx-future.md)

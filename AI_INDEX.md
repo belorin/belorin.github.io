@@ -215,8 +215,17 @@
   - 플라톤의 욕망론과 고귀한 거짓말로 치이카와 세계의 노동·규칙·행복을 읽고, 알튀세르·캐릭터론·만화표현론·노동비평·졸업논문까지 일본의 분석 흐름을 정리한다.
   - [웹페이지](https://belorin.github.io/#chiikawa-philosophy) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/chiikawa-philosophy.md)
 - **[수에서 비동등한 것은 무엇을 하는가: 기수·서수, 강도와 들뢰즈의 spatium](wiki/deleuze-number-intensity-spatium.md)** · 별칭: 수의 기수와 서수, 강도적 공-간, spatium과 강도, 비동등한 수 · 수정: 2026-10-25 · 검토: 내부 총합 · 수식 및 원전 용례 재검증 필요
-  - 유리수·무리수와 기수·서수의 수학적 구별부터 강도적 spatium, 플라톤의 세계 영혼과 중항을 검토하고 불확실한 산식의 판독을 보류한다.
+  - 기수·서수와 강도적 spatium에 더해 소여와 가치, 감각적 잡다, 카르노·퀴리의 원리, 강도의 질화·연장·자기소멸을 구분한다.
   - [웹페이지](https://belorin.github.io/#deleuze-number-intensity-spatium) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-number-intensity-spatium.md)
+- **[헤겔의 『피히테와 셸링 철학 체계의 차이』: 주관의 동일성과 절대적 동일성](wiki/hegel-fichte-schelling-difference.md)** · 별칭: 피히테와 셸링의 철학 체계의 차이, 헤겔 초기 동일성, 형식과 본질 · 수정: 2026-10-25 · 검토: 내부 총합 · 원전 문구·비교 해석 재검토 필요
+  - 피히테의 자아·비자아가 남기는 대립, 셸링의 자연과 정신, 헤겔의 동일성과 비동일성 및 초기·후기 평가의 차이를 읽는다.
+  - [웹페이지](https://belorin.github.io/#hegel-fichte-schelling-difference) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hegel-fichte-schelling-difference.md)
+- **[사유의 중심에 접혀 있는 불가능자: 생각할 수 없음이 생각을 움직일 때](wiki/deleuze-unthinkable-fold-thought.md)** · 별칭: 사유의 불가능자, 안주름, 사유의 내부의 접힘 · 수정: 2026-10-25 · 검토: 내부 총합 · 원전 문구·비교 해석 재검토 필요
+  - 사유의 내부에 안-주름잡힌 불가능성을 죽음·자기인식·사랑의 비유와 사유에 대한 강제라는 문제로 구별해 설명한다.
+  - [웹페이지](https://belorin.github.io/#deleuze-unthinkable-fold-thought) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-unthinkable-fold-thought.md)
+- **[『안티 오이디푸스』 전에 읽는 프로이트: 한 권과 두 권의 선택](wiki/freud-before-anti-oedipus.md)** · 별칭: 안티 오이디푸스 사전 독서, 프로이트 입문서 추천, 반오이디푸스 읽기 · 수정: 2026-10-25 · 검토: 내부 총합 · 원전 문구·비교 해석 재검토 필요
+  - 한 권은 『정신분석 입문』, 두 권은 『꿈의 해석』과 『성욕에 관한 세 편의 에세이』로 읽는 목적과 선택 근거를 구분한다.
+  - [웹페이지](https://belorin.github.io/#freud-before-anti-oedipus) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/freud-before-anti-oedipus.md)
 
 ## 독서 문화
 

@@ -1,0 +1,189 @@
+{
+  "id": "ing-20261025-deleuze-intensity-hegel-freud",
+  "processed_on": "2026-10-25",
+  "coverage": "visible-complete",
+  "limit_note": "현재 채팅에 표시된 전 발화만 사용. 일부 철학적 인용·용어는 원문 미대조 상태로 구분.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "잡다와 차이의 발생적 조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-number-intensity-spatium",
+          "section": "차이와 잡다: 소여에 머물러 있는 발생의 조건"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "example",
+      "title": "카르노의 온도 차와 열기관",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-number-intensity-spatium",
+          "section": "카르노의 열기관: 차이가 일을 만든 뒤 소모되는가"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "퀴리의 대칭성과 결과의 비대칭",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-number-intensity-spatium",
+          "section": "퀴리의 대칭성: 결과의 비대칭과 원인의 조건"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "argument",
+      "title": "강도 차이의 질화·연장과 자기소멸 비유",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-number-intensity-spatium",
+          "section": "질과 연장 속의 강도: 자기소멸이라는 비유"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "concept",
+      "title": "감성적인 것과 발생의 이유",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-number-intensity-spatium",
+          "section": "감성적인 것의 이유: 감정이 아니라 감각 가능한 것"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "argument",
+      "title": "차이를 소여와 가치로 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-number-intensity-spatium",
+          "section": "차이는 소여였으나 가치가 아니었다"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "argument",
+      "title": "피히테의 자아와 비자아의 대립",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hegel-fichte-schelling-difference",
+          "section": "피히테: 자아가 세계의 한계를 넘어서려 할 때"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "argument",
+      "title": "셸링의 자연과 정신의 동일성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hegel-fichte-schelling-difference",
+          "section": "셸링: 자연은 자아의 장애물이 아니라 절대자의 다른 표현이다"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "counterargument",
+      "title": "헤겔 초기 호의와 후기 셸링 비판",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hegel-fichte-schelling-difference",
+          "section": "초기의 호의와 이후의 비판을 구분하기"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "concept",
+      "title": "사유의 불가능자와 내부의 접힘",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-unthinkable-fold-thought",
+          "section": "외부의 한계가 아니라 안쪽의 접힘"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "example",
+      "title": "죽음·자기인식·사랑의 사유 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-unthinkable-fold-thought",
+          "section": "죽음, 자기 자신, 사랑: 포착할 수 없지만 생각을 멈출 수 없는 것"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "argument",
+      "title": "충격과 감각이 강제하는 사유",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-unthinkable-fold-thought",
+          "section": "사유는 스스로 시작되는가, 무언가에 강요되는가"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "curation",
+      "title": "프로이트 단권 입문서 선택",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "freud-before-anti-oedipus",
+          "section": "한 권이라면 『정신분석 입문』"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "curation",
+      "title": "꿈의 해석과 성욕 이론의 두 권 선택",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "freud-before-anti-oedipus",
+          "section": "두 권이라면 『꿈의 해석』과 『성욕에 관한 세 편의 에세이』"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "counterargument",
+      "title": "프로이트 비판 대상의 단순화 방지",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "freud-before-anti-oedipus",
+          "section": "『안티 오이디푸스』의 비판 대상을 지나치게 단순화하지 않기"
+        }
+      ]
+    }
+  ]
+}

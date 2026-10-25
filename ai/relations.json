@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 374,
+  "edge_count": 382,
   "edges": [
     {
       "from": "living-notes",
@@ -1146,6 +1146,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "deleuze-becoming-new",
+      "to": "freud-before-anti-oedipus",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "deleuze-negation-history",
       "to": "deleuze-becoming-new",
       "type": "related_to",
@@ -1160,6 +1166,24 @@
     {
       "from": "deleuze-negation-history",
       "to": "deleuze-number-intensity-spatium",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-negation-history",
+      "to": "hegel-fichte-schelling-difference",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-negation-history",
+      "to": "deleuze-unthinkable-fold-thought",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-negation-history",
+      "to": "freud-before-anti-oedipus",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2030,6 +2054,30 @@
     {
       "from": "book-preview-credit-sourcing",
       "to": "korea-personal-data-lifecycle",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hegel-fichte-schelling-difference",
+      "to": "deleuze-negation-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-unthinkable-fold-thought",
+      "to": "deleuze-negation-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "freud-before-anti-oedipus",
+      "to": "deleuze-becoming-new",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "freud-before-anti-oedipus",
+      "to": "deleuze-negation-history",
       "type": "related_to",
       "basis": "manifest.related"
     },
