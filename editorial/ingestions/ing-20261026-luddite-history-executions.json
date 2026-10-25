@@ -1,0 +1,93 @@
+{
+  "id": "ing-20261026-luddite-history-executions",
+  "processed_on": "2026-10-26",
+  "coverage": "visible-complete",
+  "limit_note": "현재 표시된 르포 요청, 사형자 목록, 옛 공개본, 한국어 번역·판매 관련 대화 범위를 반영. 이전 답변의 실명·연령·인용 및 집행 숫자 일부는 근거가 불명확하거나 상충하여 확정하지 않음. 외부 신규 조사 없음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k1",
+      "kind": "fact",
+      "title": "러다이트의 지역별 노동조건과 1811~1813년 진행",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "luddite-movement-history",
+          "section": "1812년: 지역 운동이 무장 충돌로 바뀌다"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "kind": "concept",
+      "title": "기술 반대 통념과 집단교섭 해석의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "luddite-movement-history",
+          "section": "기술 반대라는 이름의 함정"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "kind": "fact",
+      "title": "요크 랭커스터 체스터 후기 사건의 사형 집행과 선고 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "luddite-executions-memory",
+          "section": "사망자 명단을 만들 때의 첫 구분"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "kind": "fact",
+      "title": "요크 사형자 명단과 개인별 신상의 미검증 문제",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "luddite-executions-memory",
+          "section": "요크셔: 이름이 남은 사람들"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "kind": "fact",
+      "title": "러프버러 펜트리치와 후속 운동의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "luddite-executions-memory",
+          "section": "1816~1817년: 후기 사건"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "kind": "argument",
+      "title": "처형자의 개인사 복원과 순교자 기억의 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "luddite-executions-memory",
+          "section": "사람의 삶을 복원하는 방법"
+        }
+      ]
+    },
+    {
+      "id": "k7",
+      "kind": "fact",
+      "title": "프랭크 필과 사이크스의 오래된 공개 도서 및 번역 이용조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "luddite-executions-memory",
+          "section": "오래된 무료 공개 도서와 번역의 문제"
+        }
+      ]
+    }
+  ]
+}
