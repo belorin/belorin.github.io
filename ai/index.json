@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 103,
+  "document_count": 107,
   "documents": [
     {
       "id": "living-notes",
@@ -3395,6 +3395,153 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/freud-before-anti-oedipus.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/freud-before-anti-oedipus.md",
       "page_url": "https://belorin.github.io/#freud-before-anti-oedipus"
+    },
+    {
+      "id": "fruit-flesh-living-cells",
+      "title": "사과는 딴 뒤에도 살아 있는가: 과육 세포·호흡·숙성·노화",
+      "aliases": [
+        "사과 세포",
+        "과육은 살아 있는가",
+        "사과 숙성과 호흡",
+        "과육 현미경"
+      ],
+      "category": "생명과학",
+      "tags": [
+        "사과",
+        "과육",
+        "식물세포",
+        "세포호흡",
+        "ATP",
+        "숙성",
+        "후숙",
+        "펙틴",
+        "팽압",
+        "현미경"
+      ],
+      "summary": "쪼글쪼글한 사과의 속살이 버티는 이유를 살아 있는 유조직 세포, 팽압·세포벽·펙틴, ATP 호흡, 후숙·저장과 현미경 관찰로 설명한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "내부 총합 · 생물학적 일반화 및 창작 유비의 한계 검토 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "gut-fiber-fermentation"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/fruit-flesh-living-cells.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/fruit-flesh-living-cells.md",
+      "page_url": "https://belorin.github.io/#fruit-flesh-living-cells"
+    },
+    {
+      "id": "gut-fiber-fermentation",
+      "title": "소화하지 못하는 것을 먹는 이유: 식이섬유·발효·방귀의 시간표",
+      "aliases": [
+        "섬유질과 종이",
+        "방귀가 나오는 이유",
+        "치즈 밀가루 가스",
+        "장내 발효 시간표"
+      ],
+      "category": "생명과학",
+      "tags": [
+        "식이섬유",
+        "셀룰로오스",
+        "장내 발효",
+        "FODMAP",
+        "유당",
+        "프룩탄",
+        "방귀",
+        "대장",
+        "소화 시간",
+        "짧은사슬지방산"
+      ],
+      "summary": "셀룰로오스와 종이의 역설에서 출발해 불용성·발효성 섬유질, 장내 미생물의 교차급식, 유당과 밀 프룩탄, 가스 및 배변 시간을 구별한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "내부 총합 · 생물학적 일반화 및 창작 유비의 한계 검토 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "fruit-flesh-living-cells",
+        "gut-microbiome-colonization"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gut-fiber-fermentation.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/gut-fiber-fermentation.md",
+      "page_url": "https://belorin.github.io/#gut-fiber-fermentation"
+    },
+    {
+      "id": "gut-microbiome-colonization",
+      "title": "내 몸속의 인구와 이민: 장내미생물·항생제·정착 저항·미생물 이식",
+      "aliases": [
+        "장내미생물 생태계",
+        "유산균 정착",
+        "FMT 정착",
+        "인간 39조 미생물"
+      ],
+      "category": "생명과학",
+      "tags": [
+        "장내미생물",
+        "항생제",
+        "프로바이오틱스",
+        "정착 저항",
+        "FMT",
+        "분변미생물 이식",
+        "박테리오파지",
+        "홀로바이온트",
+        "미생물 생태계",
+        "미생물 수"
+      ],
+      "summary": "수십조 미생물의 개인별 군집과 짧은 세대시간을 출발점으로 항생제 교란, 프로바이오틱스의 일시적 통과, 분변미생물 이식의 정착과 위험을 생태학적으로 비교한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "내부 총합 · 생물학적 일반화 및 창작 유비의 한계 검토 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "gut-fiber-fermentation",
+        "gut-cosmic-horror-worldbuilding"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gut-microbiome-colonization.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/gut-microbiome-colonization.md",
+      "page_url": "https://belorin.github.io/#gut-microbiome-colonization"
+    },
+    {
+      "id": "gut-cosmic-horror-worldbuilding",
+      "title": "위대한 내부의 공포: 장내 생태계를 코스믹 호러 세계로 바꾸는 법",
+      "aliases": [
+        "안쪽의 별 설정",
+        "젖은 별의 도시 구상",
+        "장내 세균 공포소설",
+        "룸 세계관"
+      ],
+      "category": "창작",
+      "tags": [
+        "코스믹 호러",
+        "러브크래프트",
+        "장내 세계",
+        "이분법",
+        "세계관",
+        "단편소설",
+        "미생물 문명",
+        "반전",
+        "서사 구조",
+        "안쪽의 별"
+      ],
+      "summary": "세균의 이분법·세대시간·먹이 유입·점액층·파지·항생제를 이질적 문명의 법칙으로 번역하고, 룸·아라·무오의 미스터리와 두 차례의 서사 구상 차이를 분석한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "내부 총합 · 생물학적 일반화 및 창작 유비의 한계 검토 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "gut-microbiome-colonization",
+        "gut-fiber-fermentation"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gut-cosmic-horror-worldbuilding.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/gut-cosmic-horror-worldbuilding.md",
+      "page_url": "https://belorin.github.io/#gut-cosmic-horror-worldbuilding"
     }
   ]
 }

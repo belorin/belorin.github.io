@@ -1,0 +1,249 @@
+{
+  "id": "ing-20261025-fruit-gut-horror",
+  "processed_on": "2026-10-25",
+  "coverage": "visible-complete",
+  "limit_note": "현재 표시된 사과 생리·식이섬유·장내미생물·두 단계의 공포서사 구상을 처리함. 생물학 수치와 의료 효과의 외부 재검증 및 소설 본문 보관은 제외",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k1",
+      "kind": "concept",
+      "title": "사과 과육 유조직 세포와 액포·팽압·세포벽의 구조",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "fruit-flesh-living-cells",
+          "section": "과육은 무엇으로 만들어졌는가"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "kind": "argument",
+      "title": "수확 후 세포호흡과 과육의 물리적 저장성을 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "fruit-flesh-living-cells",
+          "section": "나무에서 떨어져도 세포는 호흡한다"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "kind": "fact",
+      "title": "숙성과 성숙·후숙과 비후숙 과실을 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "fruit-flesh-living-cells",
+          "section": "숙성은 따서 생긴 일이 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "kind": "concept",
+      "title": "현미경 관찰과 ATP·호흡·단백질 합성 측정의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "fruit-flesh-living-cells",
+          "section": "현미경으로는 무엇을 볼 수 있는가"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "kind": "example",
+      "title": "사과·배·복숭아의 서로 다른 과육 질감과 석세포",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "fruit-flesh-living-cells",
+          "section": "사과·배·복숭아의 서로 다른 살"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "kind": "argument",
+      "title": "셀룰로오스의 비소화성과 샐러드·종이 비유의 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gut-fiber-fermentation",
+          "section": "셀룰로오스와 종이의 아이러니"
+        }
+      ]
+    },
+    {
+      "id": "k7",
+      "kind": "concept",
+      "title": "섬유질을 숙주가 직접 소화하지 못해도 미생물이 발효하는 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gut-fiber-fermentation",
+          "section": "직접 소화와 위탁 발효"
+        }
+      ]
+    },
+    {
+      "id": "k8",
+      "kind": "argument",
+      "title": "김치 숙성기간과 빠른 장내 미생물 대사를 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gut-fiber-fermentation",
+          "section": "발효는 왜 이렇게 빠른가"
+        }
+      ]
+    },
+    {
+      "id": "k9",
+      "kind": "example",
+      "title": "치즈 유당과 밀 프룩탄의 가스 생성 경로 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gut-fiber-fermentation",
+          "section": "치즈인가 밀가루인가: 다른 먹이, 비슷한 증상"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "fact",
+      "title": "장 통과 시간과 식후 위대장반사에 따른 방귀 시간 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gut-fiber-fermentation",
+          "section": "오늘 점심은 언제 나오는가"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "concept",
+      "title": "수십조 미생물 규모와 개체 분열·짧은 세대시간의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gut-microbiome-colonization",
+          "section": "개체의 수명과 집단의 지속은 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "argument",
+      "title": "항생제의 선택적 교란과 회복·C difficile 위험의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gut-microbiome-colonization",
+          "section": "항생제는 전체 생물의 완전 멸종이 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "argument",
+      "title": "프로바이오틱스 생존·일시적 체류·영구 정착의 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gut-microbiome-colonization",
+          "section": "가루 속 수십억 개체는 왜 영구 주민이 아닌가"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "fact",
+      "title": "분변미생물 이식과 Vowst의 치료 맥락·정착 위험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gut-microbiome-colonization",
+          "section": "분변미생물 이식: 단일 방문객이 아니라 생태계의 일부를 옮기기"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "concept",
+      "title": "인간을 각기 다른 내부 생물권을 품은 행성으로 보는 유비",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gut-microbiome-colonization",
+          "section": "사람이 하나의 행성이라는 비유의 유효 범위"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "argument",
+      "title": "세계 해설 선행의 몰입 한계와 사건 중심 서사 개편",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gut-cosmic-horror-worldbuilding",
+          "section": "최초 구상의 성과와 한계: 젖은 별의 도시"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "curation",
+      "title": "룸·아라·무오·렌·세르와 탐험 동료의 서사적 역할",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gut-cosmic-horror-worldbuilding",
+          "section": "인물의 동기와 곁가지의 배치"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "argument",
+      "title": "고장·단서·위험·상류 탐험·귀환으로 이어지는 공포서사",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gut-cosmic-horror-worldbuilding",
+          "section": "사건으로 전진하는 다섯 단계"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "concept",
+      "title": "항생제·파지·미생물 분열을 판타지의 세계 법칙으로 번안",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gut-cosmic-horror-worldbuilding",
+          "section": "생물학에서 가져오되 문학적으로 비틀 부분"
+        }
+      ]
+    },
+    {
+      "id": "k20",
+      "kind": "argument",
+      "title": "세계가 더 큰 숙주의 내부라는 무관심의 공포와 암시적 결말",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gut-cosmic-horror-worldbuilding",
+          "section": "러브크래프트식 공포가 요구하는 주인공의 위치"
+        }
+      ]
+    }
+  ]
+}

@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 382,
+  "edge_count": 389,
   "edges": [
     {
       "from": "living-notes",
@@ -2078,6 +2078,48 @@
     {
       "from": "freud-before-anti-oedipus",
       "to": "deleuze-negation-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fruit-flesh-living-cells",
+      "to": "gut-fiber-fermentation",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gut-fiber-fermentation",
+      "to": "fruit-flesh-living-cells",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gut-fiber-fermentation",
+      "to": "gut-microbiome-colonization",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gut-microbiome-colonization",
+      "to": "gut-fiber-fermentation",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gut-microbiome-colonization",
+      "to": "gut-cosmic-horror-worldbuilding",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gut-cosmic-horror-worldbuilding",
+      "to": "gut-microbiome-colonization",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gut-cosmic-horror-worldbuilding",
+      "to": "gut-fiber-fermentation",
       "type": "related_to",
       "basis": "manifest.related"
     },
