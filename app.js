@@ -6,6 +6,7 @@ const filters = document.querySelector('#filters');
 const randomButton = document.querySelector('#sidebar-random');
 const exploreToggle = document.querySelector('#explore-toggle');
 const repo = 'https://github.com/belorin/belorin.github.io';
+const rawBase = 'https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/';
 let notes = [];
 let category = '전체';
 let randomPick = null;
@@ -236,6 +237,7 @@ function article(note) {
     '<h1>' + esc(note.title) + '</h1>' +
     '<p class="reader-lead">' + esc(note.summary) + '</p>' +
     '<div class="reader-tools"><a href="' + github + '" target="_blank" rel="noopener noreferrer">Markdown 원고 ↗</a>' +
+    '<button type="button" data-copy="' + esc(rawBase + encodeURIComponent(note.id) + '.md') + '">LLM용 원문 링크 복사</button>' +
     '<a href="' + commits + '" target="_blank" rel="noopener noreferrer">개정 이력 ↗</a>' +
     '<button type="button" data-random>무작위 글 ↝</button></div></header>' +
     toc + '<div class="prose">' + rendered.html + '</div>' +
@@ -278,10 +280,23 @@ view.addEventListener('click', event => {
     category = target.getAttribute('data-category');
     showFilters();
     location.hash = '#all';
+  } else if (target.hasAttribute('data-copy')) {
+    copyLink(target);
   } else if (target.hasAttribute('data-jump')) {
     document.getElementById(target.getAttribute('data-jump'))?.scrollIntoView({behavior:'smooth',block:'start'});
   }
 });
+// LLM chats read the raw Markdown, not the JavaScript-rendered page.
+function copyLink(button) {
+  const url = button.getAttribute('data-copy');
+  const done = () => {
+    button.textContent = '복사됨 ✓';
+    setTimeout(() => { button.textContent = 'LLM용 원문 링크 복사'; }, 2000);
+  };
+  const manual = () => window.prompt('이 링크를 복사해 LLM 채팅에 붙여 넣으세요', url);
+  if (navigator.clipboard?.writeText) navigator.clipboard.writeText(url).then(done, manual);
+  else manual();
+}
 randomButton.addEventListener('click', goRandom);
 search.addEventListener('input', () => {
   if (location.hash !== '#all') location.hash = '#all';

@@ -19,6 +19,9 @@
 - **[누적형 지식백과 구축사: 총합·증보를 위한 설계와 구현](wiki/wiki-building-history.md)** · 별칭: 위키 구축 이력, 위키 아키텍처, 위키 구성사, 총합형 지식백과, 위키 증보 과부하, 계층 편집 설계 · 수정: 2026-10-26 · 검토: 구축 이력·계층 편집 후속 설계 포함
   - Markdown 정본화·AI 탐색·교차 편집의 구축 이력과, 누적 증보의 과부하를 줄이는 절 단위 탐색·조건부 범위 확장·두 속도 편집의 후속 설계.
   - [웹페이지](https://belorin.github.io/#wiki-building-history) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wiki-building-history.md)
+- **[원고만 쓰고 나머지는 기계에게: 편집 지도·자동 배포·정비로 바꾼 위키 운영](wiki/wiki-operations-pipeline.md)** · 별칭: 위키 운영 개편, 편집 지도, 정비 절차, LLM 원문 링크, 자동 배포 · 수정: 2026-10-26 · 검토: 운영 개편 기록
+  - 생성물 자동 배포, 전체 지도·문서 카드·지식 표제 역색인을 통한 계층적 읽기, 일상 증보와 정비의 분리, LLM이 링크로 읽을 수 있는 입구 정비.
+  - [웹페이지](https://belorin.github.io/#wiki-operations-pipeline) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wiki-operations-pipeline.md)
 
 ## 질문
 

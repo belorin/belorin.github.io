@@ -188,6 +188,7 @@ llms.txt는 외부 AI가 접근할 수 있는 선택적 진입점이며, ai/rela
 
 - [열린 노트의 운영 방향](./living-notes.md)
 - [사람과 AI가 함께 편집하는 규칙](./editing-principles.md)
+- [원고만 쓰고 나머지는 기계에게: 편집 지도·자동 배포·정비로 바꾼 위키 운영](./wiki-operations-pipeline.md)
 - [지식백과가 계속 검토할 질문](./open-questions.md)
 - [편집 프로토콜](https://github.com/belorin/belorin.github.io/blob/main/WIKI_PROTOCOL.md)
 - [문서·별칭·검토 상태를 담은 AI 색인](https://github.com/belorin/belorin.github.io/blob/main/AI_INDEX.md)
@@ -196,4 +197,4 @@ llms.txt는 외부 AI가 접근할 수 있는 선택적 진입점이며, ai/rela
 - [교차 편집 제안 규칙](https://github.com/belorin/belorin.github.io/blob/main/editorial/crosslinks/README.md)
 - [GitHub의 실제 변경 기록](https://github.com/belorin/belorin.github.io/commits/main/)
 
-이 구축사의 01~04단계는 2026년 10월 23일 시점의 구현과 설계 판단을, 05절은 2026년 10월 26일에 기록한 누적 증보의 후속 설계를 구분해 기록한다. 이후 구성 요소가 변경되면 과거의 결정 이유를 지우지 않고 현재 상태를 별도로 증보한다.
+이 구축사의 01~04단계는 2026년 10월 23일 시점의 구현과 설계 판단을, 05절은 2026년 10월 26일에 기록한 누적 증보의 후속 설계를 구분해 기록한다. 이후 구성 요소가 변경되면 과거의 결정 이유를 지우지 않고 현재 상태를 별도로 증보한다. 05절 설계 가운데 같은 날 구현된 절 단위 탐색 자료(전체 지도·문서 카드·지식 표제 역색인), 실행 규칙의 개정, 일상 증보와 정비의 분리, 생성물의 자동 배포는 [위키 운영 개편](./wiki-operations-pipeline.md)에 따로 기록한다.

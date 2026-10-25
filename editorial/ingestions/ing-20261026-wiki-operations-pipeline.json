@@ -1,0 +1,117 @@
+{
+  "id": "ing-20261026-wiki-operations-pipeline",
+  "processed_on": "2026-10-26",
+  "coverage": "visible-complete",
+  "limit_note": "위키 운영 개편의 진단·구현·규칙 개정과 미뤄 둔 구상을 운영 원고로 정리. 저장소의 실제 구현과 측정값만 사용했고 외부 조사는 하지 않음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "선독 자료 중복과 생성물 동시 커밋이 만든 읽기·쓰기 과부하",
+      "status": "integrated",
+      "targets": [
+        { "doc_id": "wiki-operations-pipeline", "section": "문제: 지식보다 부속물이 무거워졌다" }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "GitHub Actions 배포와 원고만 커밋하는 편집 규칙",
+      "status": "integrated",
+      "targets": [
+        { "doc_id": "wiki-operations-pipeline", "section": "조판은 기계에게: 원고만 커밋한다" }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "전체 지도의 구성과 장부 없는 원고의 구별",
+      "status": "integrated",
+      "targets": [
+        { "doc_id": "wiki-operations-pipeline", "section": "전체 지도" }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "문서 카드의 소제목 경로·줄 범위·해시·첫 문장",
+      "status": "integrated",
+      "targets": [
+        { "doc_id": "wiki-operations-pipeline", "section": "문서 카드" }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "concept",
+      "title": "편집 장부를 뒤집은 지식 표제 역색인과 검색 전용 원칙",
+      "status": "integrated",
+      "targets": [
+        { "doc_id": "wiki-operations-pipeline", "section": "지식 표제 역색인" }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "argument",
+      "title": "프로토콜 전부 읽기 유지, 전문 확대 조건, 색인만으로 중복 판정 금지",
+      "status": "integrated",
+      "targets": [
+        { "doc_id": "wiki-operations-pipeline", "section": "바뀐 읽기 순서와 그 경계" }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "concept",
+      "title": "일상 증보와 정비의 두 속도, 기계 검사와 AI 판단의 비용 구분",
+      "status": "integrated",
+      "targets": [
+        { "doc_id": "wiki-operations-pipeline", "section": "두 속도: 일상 증보와 정비" }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "fact",
+      "title": "정비 대기열의 신호 종류와 첫 생성 시점의 수치",
+      "status": "integrated",
+      "targets": [
+        { "doc_id": "wiki-operations-pipeline", "section": "정비 대기열" }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "concept",
+      "title": "정비 권한 세 단계, 분량만으로 분할하지 않는 원칙, 보고서와 버전 로그",
+      "status": "integrated",
+      "targets": [
+        { "doc_id": "wiki-operations-pipeline", "section": "정비의 권한과 기록" }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "fact",
+      "title": "해시 주소가 자바스크립트 없는 LLM 열람에서 본문을 주지 못하는 문제와 입구 정비",
+      "status": "integrated",
+      "targets": [
+        { "doc_id": "wiki-operations-pipeline", "section": "링크를 건네받은 LLM이 읽는 것" }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "question",
+      "title": "종합·해석 장르의 표시·집계 분리와 근거 재인용 금지, notes.json 분할, 분류 정비",
+      "status": "integrated",
+      "targets": [
+        { "doc_id": "wiki-operations-pipeline", "section": "미뤄 둔 것" }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "other",
+      "title": "구축사 05절 설계의 구현 기록 위치 안내",
+      "status": "integrated",
+      "targets": [
+        { "doc_id": "wiki-building-history", "section": "관련 문서와 검증 가능한 이력" }
+      ]
+    }
+  ]
+}

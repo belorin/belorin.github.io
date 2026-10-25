@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `wiki-building-history` · 분류: 운영 · 공개 · 원고: [wiki/wiki-building-history.md](../../../wiki/wiki-building-history.md) · 14,010자 · 절 20개
+- id: `wiki-building-history` · 분류: 운영 · 공개 · 원고: [wiki/wiki-building-history.md](../../../wiki/wiki-building-history.md) · 14,233자 · 절 20개
 - 별칭: 위키 구축 이력, 위키 아키텍처, 위키 구성사, 총합형 지식백과, 위키 증보 과부하, 계층 편집 설계
 - 요약: Markdown 정본화·AI 탐색·교차 편집의 구축 이력과, 누적 증보의 과부하를 줄이는 절 단위 탐색·조건부 범위 확장·두 속도 편집의 후속 설계.
 - 태그: 위키 구축, 아키텍처, Markdown, AI 편집, GitHub Pages, 변경 이력
 - 수정일: 2026-10-26 · 실제 증보일: 2026-10-26 · 검토: needs_review
-- 관련 문서: `living-notes`, `editing-principles`, `open-questions`
+- 관련 문서: `living-notes`, `editing-principles`, `open-questions`, `wiki-operations-pipeline`
 
 ## 절 목차
 
@@ -33,7 +33,7 @@
   - 일상 증보와 정기 정비의 두 속도 · L161–167 · 486자 · `970a4a0c` — 일상 증보는 새 자료와 직접 영향을 받는 범위에 집중하고, 넓은 관계 재검토는 별도 정비 회차에서 수행하는 방식으로 설계한다.
   - 처리 경계와 승인된 지식의 환류 · L169–175 · 593자 · `8ccc1c47` — 편집 결과에는 실제로 확인한 범위와 확인하지 못한 범위가 구분되어야 한다.
   - 구현의 순서와 현재의 경계 · L177–185 · 687자 · `74ec20d0` — 우선 구현할 것은 절 개요 생성기와 지식 표제 역색인이다.
-- 관련 문서와 검증 가능한 이력 · L187–199 · 832자 · `062e96b7` — 열린 노트의 운영 방향
+- 관련 문서와 검증 가능한 이력 · L187–200 · 1,055자 · `cd9e83ff` — 열린 노트의 운영 방향
 
 ## 장부에 기록된 반영 지식
 
@@ -75,3 +75,5 @@
   - 처리 경계·대화 내 체크포인트·승인된 지식 환류 · `ing-20261026-wiki-incremental-editing`
 - **구현의 순서와 현재의 경계**
   - 프로토콜 모듈화·구현 순서·배포 자동화와 MCP의 경계 · `ing-20261026-wiki-incremental-editing`
+- **관련 문서와 검증 가능한 이력**
+  - 구축사 05절 설계의 구현 기록 위치 안내 · `ing-20261026-wiki-operations-pipeline`

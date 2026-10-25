@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 404,
+  "edge_count": 409,
   "edges": [
     {
       "from": "living-notes",
@@ -68,6 +68,12 @@
     {
       "from": "editing-principles",
       "to": "wiki-building-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "editing-principles",
+      "to": "wiki-operations-pipeline",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -878,6 +884,12 @@
     {
       "from": "wiki-building-history",
       "to": "open-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "wiki-building-history",
+      "to": "wiki-operations-pipeline",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2210,6 +2222,24 @@
     {
       "from": "contemporary-intellectual-power",
       "to": "philosophical-systems-after-2000",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "wiki-operations-pipeline",
+      "to": "wiki-building-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "wiki-operations-pipeline",
+      "to": "editing-principles",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "wiki-operations-pipeline",
+      "to": "living-notes",
       "type": "related_to",
       "basis": "manifest.related"
     },

@@ -7,7 +7,7 @@
 - 요약: 색인 우선 탐색, 논증·사례 보존, 출처와 해석의 구분, 간접 연결 검토 및 누적 규모에 따른 읽기 비용의 후속 설계.
 - 태그: 편집 원칙, 정보 보존, 근거, AI 협업, 검증
 - 수정일: 2026-10-26 · 실제 증보일: 2026-10-26 · 검토: needs_review
-- 관련 문서: `living-notes`, `open-questions`, `wiki-building-history`
+- 관련 문서: `living-notes`, `open-questions`, `wiki-building-history`, `wiki-operations-pipeline`
 
 ## 절 목차
 
