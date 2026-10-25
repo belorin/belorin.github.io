@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 645개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 657개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (3)
 
@@ -142,7 +142,7 @@
 - 자동화와 제도 적응의 시차 → `ai-transition-policy-gap` § 왜 이행기를 독립적인 연구 대상으로 보아야 하는가 · `ing-20261024-ai-policy-gap`
 - 공개 크레딧의 검색 가능한 이력화와 동명이인 위험 → `korea-personal-data-lifecycle` § 공개된 크레딧이 검색 가능한 개인 이력이 될 때 · `ing-20261025-credit-observation`
 
-## 문화와 역사 (105)
+## 문화와 역사 (117)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -251,6 +251,18 @@
 - 중앙전 주요 작품과 오스트리아 등 국가관의 입소문 사례 → `venice-biennale-2026-critical-reception` § 강하게 회자된 작품과 국가관 · `ing-20261025-venice-biennale`
 - 개막기 여론과 장기적인 미술사적 평가를 구별하는 문제 → `venice-biennale-2026-critical-reception` § 평가는 언제 굳어지는가: 개막 주간과 이후의 여섯 달 · `ing-20261025-venice-biennale`
 - 세계대전 확전 질문과 개별 국경의 첫 충돌 가능성의 구별 → `war-escalation-local-to-world` § 어느 분쟁이 먼저 터질까: 확전 위험과 발발 가능성의 분리 · `ing-20261026-war-resilience-border-faultlines`
+- 메시아 참칭자·선구자·예언자·카발라 신비가의 구별 → `jewish-messianic-claimants-kabbalah` § 메시아·선구자·예언자·카발라 신비가는 같은 사람인가 · `ing-20261026-jewish-messianism-kabbalah`
+- 고대 후기 크레타의 모세와 출애굽 재연의 전승 → `jewish-messianic-claimants-kabbalah` § 중세 이전의 선행 사례: 크레타의 모세 · `ing-20261026-jewish-messianism-kabbalah`
+- 아부 이사·유드간·세레네의 해방·율법 개혁·예언 운동 → `jewish-messianic-claimants-kabbalah` § 7~8세기 페르시아와 시리아: 무장 해방자와 율법 개혁자 · `ing-20261026-jewish-messianism-kabbalah`
+- 11세기 말~12세기 익명 사례·다비드 알로이·예멘 메시아와 「예멘 서간」 → `jewish-messianic-claimants-kabbalah` § 11~12세기: 십자군기의 불안, 알로이의 반란, 예멘의 경고 · `ing-20261026-jewish-messianism-kabbalah`
+- 아불라피아·니심 벤 아브라함과 예언적 카발라·도래 연도 예고 → `jewish-messianic-claimants-kabbalah` § 13세기 말: 아브라함 아불라피아와 예언적 카발라 · `ing-20261026-jewish-messianism-kabbalah`
+- 모세 보타렐·아셰르 렘라인·다비드 르우베니·솔로몬 몰코의 유형과 시대 구분 → `jewish-messianic-claimants-kabbalah` § 15~16세기: 중세 말의 신비가와 근세 초의 구원 열망 · `ing-20261026-jewish-messianism-kabbalah`
+- 루리아·비탈의 카발라 구원론과 직접 메시아 자칭 주장의 구별 → `jewish-messianic-claimants-kabbalah` § 사페드의 카발라: 이삭 루리아와 하임 비탈을 어디에 넣을까 · `ing-20261026-jewish-messianism-kabbalah`
+- 1666년 샤브타이 츠비의 메시아 운동과 이슬람 개종 → `jewish-messianic-claimants-kabbalah` § 17세기 샤브타이 츠비: 중세의 반복이 대규모 운동으로 변할 때 · `ing-20261026-jewish-messianism-kabbalah`
+- 야코프 프랑크와 샤브타이 이후 메시아주의의 변형 → `jewish-messianic-claimants-kabbalah` § 18세기 야코프 프랑크: 메시아 운동의 후속 변형 · `ing-20261026-jewish-messianism-kabbalah`
+- 시대·인물·구원 운동 성격을 대조하는 간략 연표 → `jewish-messianic-claimants-kabbalah` § 대표 인물의 간략 연표와 분류 · `ing-20261026-jewish-messianism-kabbalah`
+- 모든 세기라는 수사·연대별 증거 불균등·공동체의 권위 부여 기준 → `jewish-messianic-claimants-kabbalah` § '모든 세기의 메시아'라는 표현을 읽는 세 가지 기준 · `ing-20261026-jewish-messianism-kabbalah`
+- 서지·개별 전승·메시아 자칭 여부의 재검증 필요성 → `jewish-messianic-claimants-kabbalah` § 자료 범위와 검토할 문제 · `ing-20261026-jewish-messianism-kabbalah`
 
 ## 음악 (105)
 
