@@ -64,7 +64,7 @@ https://github.com/belorin/belorin.github.io/blob/main/SYNTHESIS.md
 
 ## 3. 읽는 순서
 
-1. `AGENTS.md`, `WIKI_PROTOCOL.md`, 이 문서를 전부 읽는다.
+1. `WIKI_PROTOCOL.md`와 이 문서를 전부 읽는다.
 2. `editorial/map/index.md`(전체 지도)의 맨 아래 **종합** 묶음에서 같은 주제의 종합이 이미 있는지 확인한다. 있으면 새로 쓰지 않고 그 글을 보강할지 묻는다.
 3. 전체 지도와 문서 카드로 근거 후보를 찾는다.
 4. **근거로 쓸 문서는 전문을 읽는다.** 종합은 문서 전체의 맥락 위에서만 정확하므로, 증보와 달리 절 단위 읽기로 줄이지 않는다. 읽지 않은 문서는 근거로 쓰지 않는다.

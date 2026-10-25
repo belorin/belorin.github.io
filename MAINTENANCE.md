@@ -22,7 +22,7 @@ https://github.com/belorin/belorin.github.io/blob/main/MAINTENANCE.md
 
 ## 2. 읽는 순서
 
-1. `AGENTS.md`, `WIKI_PROTOCOL.md`, 이 문서를 전부 읽는다.
+1. `WIKI_PROTOCOL.md`와 이 문서를 전부 읽는다.
 2. `editorial/maintenance/log.json`에서 마지막 정비 버전과 날짜를 확인한다.
 3. `editorial/maintenance/queue.md`(정비 대기열)를 읽는다. 다음 정비 버전 번호도 여기 있다.
 4. 신호에 걸린 문서의 카드 `editorial/map/docs/<id>.md`를 보고, 판단에 필요한 절 본문을 `wiki/*.md`에서 읽는다. 두 문서를 대조할 때는 양쪽 해당 절을 모두 읽는다. 중복·충돌을 판정하거나 병합·분할을 제안할 때는 해당 문서 전문을 읽는다.
@@ -49,7 +49,7 @@ https://github.com/belorin/belorin.github.io/blob/main/MAINTENANCE.md
 | 8. 분량 | 내용상 나누거나 합칠 이유가 있는지 | 분량만으로는 조치하지 않음. 이유가 있을 때만 제안 |
 | 9. 분류 | 분류 체계의 일관성 | 제안만 |
 
-직접 관련 여부는 양쪽 본문을 읽고 판단한다. 개념적 유비나 해석적 연결은 `related`에 넣지 않고 `editorial/crosslinks/index.json`에 `proposed`로 남긴다(WIKI_PROTOCOL §8B).
+직접 관련 여부는 양쪽 본문을 읽고 판단한다. 개념적 유비나 해석적 연결은 `related`에 넣지 않고 `editorial/crosslinks/index.json`에 `proposed`로 남긴다(WIKI_PROTOCOL §7).
 
 ## 5. 권한 구분
 
