@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 363,
+  "edge_count": 369,
   "edges": [
     {
       "from": "living-notes",
@@ -1964,6 +1964,42 @@
     {
       "from": "mood-led-music-listening",
       "to": "music-books-supply-attention",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "venice-biennale-history",
+      "to": "venice-biennale-sites-pavilions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "venice-biennale-history",
+      "to": "venice-biennale-2026-critical-reception",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "venice-biennale-sites-pavilions",
+      "to": "venice-biennale-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "venice-biennale-sites-pavilions",
+      "to": "venice-biennale-2026-critical-reception",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "venice-biennale-2026-critical-reception",
+      "to": "venice-biennale-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "venice-biennale-2026-critical-reception",
+      "to": "venice-biennale-sites-pavilions",
       "type": "related_to",
       "basis": "manifest.related"
     },

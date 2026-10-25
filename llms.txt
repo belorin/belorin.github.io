@@ -111,6 +111,9 @@
 - [그리스만이 철학의 고향인가: 고대 지중해와 서아시아의 사상가·고서·전승](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ancient-philosophy-beyond-greece.md): 그리스 중심 철학사의 제도적 배경과 이집트·메소포타미아·바빌로니아·레반트·페르시아·페니키아·카르타고의 문헌을 시기·장르·전승별로 비교한다.
 - [드레퓌스 사건과 지식인들의 분열: 작가·학자·화가들은 어느 편에 섰는가](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/dreyfus-affair-intellectuals.md): 졸라·클레망소·프루스트·뒤르켐과 드뤼몽·바레스·드가 등 드레퓌스 사건을 둘러싼 지식인·예술가의 진영과 행동을 구분하고, 반유대주의·군 권위·지식인의 공적 책임을 분석한다.
 - [세계는 다시 1914·1929·1939년으로 향하는가: 벨 에포크와 세 번의 파국을 비교하는 법](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-crisis-historical-analogies.md): 벨 에포크, 1929년 대공황, 1930년대 후반의 서로 다른 위기 메커니즘과 현대의 완충·연쇄 위험을 비교한다.
+- [베니스 비엔날레: 정원 박람회에서 세계 미술의 판단 장치까지](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/venice-biennale-history.md): 1895년의 도시 박람회에서 국가관·냉전·1968년의 제도 비판·큐레이터 시대를 거쳐 반년간 스타와 학술적 평판을 만드는 구조를 분석한다.
+- [자르디니와 아르세날레: 베니스 비엔날레의 두 공간과 국가관 지도](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/venice-biennale-sites-pavilions.md): 정원형 국가관 마을 자르디니와 옛 해군 공창 아르세날레의 체험 차이, 30개 국가명과 공동관·건물 수의 함정, 2026년 배치를 구분한다.
+- [2026 베니스 비엔날레: 'In Minor Keys'의 비평, 정치적 파열과 느린 평가](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/venice-biennale-2026-critical-reception.md): 코요 쿠오의 사후 구현과 중앙전의 과밀·정치적 회피 논란, 대립하는 평론 및 주목받은 국가관·작품을 장기 평가의 문제와 연결한다.
 
 ### 언어
 
