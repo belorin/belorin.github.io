@@ -55,12 +55,12 @@
         "AI 협업",
         "검증"
       ],
-      "summary": "색인 우선 탐색, 논증·사례 보존, 사실과 해석의 구분, 원문 비보관, 간접 연결의 제안과 검증을 다루는 편집 규칙.",
+      "summary": "색인 우선 탐색, 논증·사례 보존, 출처와 해석의 구분, 간접 연결 검토 및 누적 규모에 따른 읽기 비용의 후속 설계.",
       "published": true,
       "review_state": "needs_review",
       "review_label": "편집 원칙",
-      "last_updated_on": "2026-10-23",
-      "last_enriched_on": "2026-10-23",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "living-notes",
@@ -765,7 +765,9 @@
         "위키 구축 이력",
         "위키 아키텍처",
         "위키 구성사",
-        "총합형 지식백과"
+        "총합형 지식백과",
+        "위키 증보 과부하",
+        "계층 편집 설계"
       ],
       "category": "운영",
       "tags": [
@@ -776,13 +778,13 @@
         "GitHub Pages",
         "변경 이력"
       ],
-      "summary": "요약을 넘어 서적 수준의 지식 총합을 지향한 이유, Markdown 정본화부터 AI 탐색·교차 편집까지 네 단계의 구현과 GitHub 유지 방침.",
+      "summary": "Markdown 정본화·AI 탐색·교차 편집의 구축 이력과, 누적 증보의 과부하를 줄이는 절 단위 탐색·조건부 범위 확장·두 속도 편집의 후속 설계.",
       "published": true,
-      "review_state": "unassessed",
-      "review_label": "구축 이력·구현 확인",
-      "last_updated_on": "2026-10-23",
-      "last_enriched_on": null,
-      "last_enriched_note": "not_recorded_for_legacy_content",
+      "review_state": "needs_review",
+      "review_label": "구축 이력·계층 편집 후속 설계 포함",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
+      "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "living-notes",
         "editing-principles",

@@ -1,0 +1,117 @@
+{
+  "id": "ing-20261026-wiki-incremental-editing",
+  "processed_on": "2026-10-26",
+  "coverage": "visible-complete",
+  "limit_note": "현재 접근 가능한 편집 과부하 논의의 설계를 운영 원고에 반영. 계층 색인·절 ID·MCP 구현 및 실행 프로토콜 변경은 수행 범위에 포함하지 않음. 화면 개선안과 외부 사례의 사실 검증은 제외.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "누적 증보의 과부하와 현행 규칙의 구현 경계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wiki-building-history",
+          "section": "05. 누적 증보의 과부하와 계층 편집 설계"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "상세 보존량과 매회 읽기량의 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wiki-building-history",
+          "section": "보존량과 매회 읽기량을 분리한다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "계층 순회와 파생 개요의 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wiki-building-history",
+          "section": "위층에서 찾고 아래층에서 판정한다"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "본문 대조·읽기 범위 확장·불확실 항목의 보류",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wiki-building-history",
+          "section": "중복 판정과 읽기 범위 확장의 조건"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "concept",
+      "title": "절 고정 주소·해시·지식 표제 역색인",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wiki-building-history",
+          "section": "절의 고정 주소와 지식 표제 역색인"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "concept",
+      "title": "일상 증보·정기 정비·전역 기계 검사의 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wiki-building-history",
+          "section": "일상 증보와 정기 정비의 두 속도"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "concept",
+      "title": "처리 경계·대화 내 체크포인트·승인된 지식 환류",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wiki-building-history",
+          "section": "처리 경계와 승인된 지식의 환류"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "concept",
+      "title": "프로토콜 모듈화·구현 순서·배포 자동화와 MCP의 경계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wiki-building-history",
+          "section": "구현의 순서와 현재의 경계"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "concept",
+      "title": "편집 원칙의 누적 비용 설계 안내",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "editing-principles",
+          "section": "누적 규모와 읽기 비용: 후속 설계"
+        }
+      ]
+    }
+  ]
+}
