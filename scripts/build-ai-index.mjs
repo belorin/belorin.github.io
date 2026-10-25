@@ -4,6 +4,8 @@ import fs from "node:fs";
 import path from "node:path";
 import process from "node:process";
 const root=process.cwd();
+// Headings inside a folded ":::원본 … :::" block (FICTION.md) belong to the old text.
+const withoutOriginals = text => text.replace(/^[ \t]*:::[ \t]*원본(?:[ \t].*)?$[\s\S]*?^[ \t]*:::[ \t]*$/gm, "");
 const manifest=JSON.parse(fs.readFileSync(path.join(root,'wiki/manifest.json'),'utf8'));
 const relations=JSON.parse(fs.readFileSync(path.join(root,'wiki/relations.json'),'utf8'));
 const knownIds=new Set(manifest.documents.map(d=>d.id));
@@ -19,7 +21,7 @@ for(const r of relations.relations){
  const d=manifest.documents.find(d=>d.id===r.from);
  if(!d||!knownIds.has(r.to))throw Error('invalid relation endpoint');
  const body=fs.readFileSync(path.join(root,d.path),'utf8');
- const headings=Array.from(body.matchAll(/^#{1,6}[ \t]+(.+?)[ \t]*$/gm),x=>x[1].trim());
+ const headings=Array.from(withoutOriginals(body).matchAll(/^#{1,6}[ \t]+(.+?)[ \t]*$/gm),x=>x[1].trim());
  if(headings.filter(h=>h===r.evidence_section).length!==1)throw Error('missing evidence heading: '+r.from+'/'+r.evidence_section);
 }
 const buildOutputs=function buildOutputs(manifest,relationSource){
@@ -71,7 +73,7 @@ const buildOutputs=function buildOutputs(manifest,relationSource){
   "","## 이 위키를 읽는 AI에게","",
   "1. 아래 목록의 제목과 설명에서 질문과 관련된 문서를 고른다. 분야를 넘나드는 연결이 많으므로 한 분류에서만 찾지 않는다.",
   "2. 고른 문서의 Markdown 원문 링크를 실제로 열어 읽는다. 목록의 한 줄 설명만으로 내용을 단정하거나 인용하지 않는다.",
-  "3. 웹사이트 주소 `"+site+"#<문서-id>`는 자바스크립트로 본문을 그리므로 HTML만 받으면 본문이 없다. 같은 문서의 원문은 `"+raw+"wiki/<문서-id>.md`이다.",
+  "3. 문서 페이지 `"+site+"notes/<문서-id>/`에는 본문이 들어 있다. 원문 Markdown은 `"+raw+"wiki/<문서-id>.md`이다. 탐색 화면 주소 `"+site+"#<문서-id>`는 자바스크립트로 본문을 그리므로 HTML만 받으면 본문이 없다.",
   "4. 답할 때는 근거가 된 문서와 절 제목을 밝힌다. 원문에 없는 내용은 위키 밖의 지식이나 추론임을 구분한다.",
   "5. 맨 아래 '종합' 묶음은 여러 문서를 엮은 편집 해석이다. 생각의 실마리로 쓰되 사실의 근거로 인용하지 말고, 각 글이 밝힌 근거 문서를 읽는다.",
   "6. '소설' 묶음은 창작 작품이다. 사실의 근거로 인용하지 않는다. 긴 작품은 작품 문서의 목차에서 장별 원문으로 이동한다. ':::원본'으로 감싼 부분은 개고 전 원문이다.",

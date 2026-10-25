@@ -23,6 +23,8 @@ const coverageKinds = new Set(["visible-complete", "visible-partial", "uncertain
 const knowledgeKinds = new Set(["concept", "fact", "argument", "counterargument", "example", "curation", "question", "other"]);
 const statuses = new Set(["integrated", "pending"]);
 const headings = new Map();
+// Headings inside a folded ":::원본 … :::" block (FICTION.md) belong to the old text.
+const withoutOriginals = text => text.replace(/^[ \t]*:::[ \t]*원본(?:[ \t].*)?$[\s\S]*?^[ \t]*:::[ \t]*$/gm, "");
 const fail = message => { throw new Error(message); };
 
 function exactFields(obj, allowed, label) {
@@ -46,7 +48,7 @@ function actualHeadings(doc) {
   const parent = path.resolve(root, "wiki") + path.sep;
   if (!full.startsWith(parent) || !doc.path.endsWith(".md")) fail(doc.id + ": invalid document path");
   const source = fs.readFileSync(full, "utf8");
-  const found = Array.from(source.matchAll(/^#{1,6}[ \t]+(.+?)[ \t]*$/gm), m => m[1].trim());
+  const found = Array.from(withoutOriginals(source).matchAll(/^#{1,6}[ \t]+(.+?)[ \t]*$/gm), m => m[1].trim());
   headings.set(doc.id, found);
   return found;
 }

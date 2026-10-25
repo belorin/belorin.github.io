@@ -41,8 +41,10 @@ log.entries.forEach((entry, i) => {
 });
 const last = log.entries.at(-1) ?? null;
 
+// Headings inside a folded ":::원본 … :::" block (FICTION.md) belong to the old text.
+const withoutOriginals = text => text.replace(/^[ \t]*:::[ \t]*원본(?:[ \t].*)?$[\s\S]*?^[ \t]*:::[ \t]*$/gm, "");
 const texts = new Map(docs.map(d => [d.id, fs.readFileSync(path.join(root, d.path), "utf8")]));
-const headings = id => Array.from(texts.get(id).matchAll(/^#{2,4}[ \t]+(.+?)[ \t]*$/gm), m => m[1].trim());
+const headings = id => Array.from(withoutOriginals(texts.get(id)).matchAll(/^#{2,4}[ \t]+(.+?)[ \t]*$/gm), m => m[1].trim());
 
 // Inbound links from other documents: manifest.related, Markdown links, confirmed relations.
 const inbound = new Map(docs.map(d => [d.id, new Set()]));

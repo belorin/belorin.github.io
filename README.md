@@ -33,6 +33,9 @@ https://belorin.github.io
 - `editorial/map/index.md`, `editorial/map/docs/<id>.md`, `editorial/map/knowledge.md`: 편집 지도(`scripts/build-wiki-map.mjs`). 미게시 포함 모든 원고의 지도, 문서별 카드(소제목 경로·줄 범위·분량·해시·첫 문장·장부 기록·관계), 장부를 뒤집은 지식 표제 역색인. 지도가 25,000자를 넘으면 자동으로 분류별 파일(`editorial/map/categories/`)로 나뉜다. 미게시 원고를 포함하는 편집용 자료이므로 공개 AI 색인과 `llms.txt`에는 연결하지 않는다.
 - `editorial/maintenance/queue.md`: 정비 대기열(`scripts/build-maintenance-queue.mjs`). 정비 로그도 이 스크립트가 검증한다.
 
+**배포 때만 만드는 파일(저장소에 커밋하지 않음)**
+- `notes/<id>/index.html`, `notes/index.html`, `sitemap.xml`: 문서마다 본문이 들어 있는 정적 페이지와 전체 목록, 사이트맵(`scripts/build-static.mjs`). 사이트의 `app.js` 렌더러로 만들므로 탐색 화면과 내용이 같다. 검색엔진과 자바스크립트를 실행하지 않는 LLM이 읽는 입구다. `robots.txt`는 검색엔진에게 편집용 파일과 원본 데이터를 색인하지 말라고 알릴 뿐 접근은 막지 않는다.
+
 **검증·검색 스크립트**
 - `scripts/validate-editorial.mjs`, `scripts/test-editorial.mjs`: 증보 장부의 배치·항목·반영 문서와 절의 존재를 검증한다.
 - `scripts/validate-crosslinks.mjs`, `scripts/test-crosslinks.mjs`: 교차 제안의 근거 절·상태와 오프라인 검색을 검증한다.

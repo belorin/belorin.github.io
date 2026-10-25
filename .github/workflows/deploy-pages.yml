@@ -60,6 +60,8 @@ jobs:
         run: |
           mkdir _site
           tar --exclude=./.git --exclude=./.github --exclude=./_site -cf - . | tar -xf - -C _site
+      - name: Build static pages and sitemap (deployed only, not committed)
+        run: node scripts/build-static.mjs _site
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

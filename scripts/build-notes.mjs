@@ -98,8 +98,8 @@ for (const entry of entries) {
 }
 // A revised passage keeps its original in a folded block (FICTION.md):
 //   :::원본  ...original text...  :::
-// Blocks must close and contain no headings, so tables of contents, cards
-// and ledger section checks only ever see the current text.
+// Blocks must open and close cleanly. Headings inside are allowed; the site's
+// table of contents, the map cards and the ledger checks skip them.
 function checkOriginalBlocks(id, text) {
   let open = false;
   for (const line of text.replace(/\r\n/g, "\n").split("\n")) {
@@ -110,8 +110,6 @@ function checkOriginalBlocks(id, text) {
     } else if (value === ":::") {
       if (!open) fail(id + ": ::: without an opening :::원본");
       open = false;
-    } else if (open && /^#{1,6}\s/.test(value)) {
-      fail(id + ": no headings inside a :::원본 block (use bold text)");
     }
   }
   if (open) fail(id + ": unclosed :::원본 block");
