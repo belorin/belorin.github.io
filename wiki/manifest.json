@@ -3483,7 +3483,7 @@
     },
     {
       "path": "wiki/dwar-netflix-revival.md",
-      "publish": false,
+      "publish": true,
       "order": 107,
       "id": "dwar-netflix-revival",
       "title": "《디워》의 2026년 넷플릭스 역주행: 플랫폼 내부 확산과 외부 바이럴",
