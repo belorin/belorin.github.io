@@ -260,6 +260,13 @@
       "type": "elaborates",
       "evidence_section": "완충장치가 먼저 사망한 곳에서의 낙관",
       "reason": "비판적 낙관론의 제도적 완충을 국가별·계층별 기능 공동화 문제로 확장한다."
+    },
+    {
+      "from": "mood-led-music-listening",
+      "to": "music-books-supply-attention",
+      "type": "illustrates",
+      "evidence_section": "취향의 다음 분기와 판단 유보",
+      "reason": "선곡의 우선순위와 취향 검증의 한계를 구체적인 음악 목록으로 보여준다."
     }
   ]
 }

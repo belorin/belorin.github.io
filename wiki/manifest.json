@@ -2798,7 +2798,8 @@
       ],
       "source": "내부 총합·외부 미검증",
       "related": [
-        "living-notes"
+        "living-notes",
+        "mood-led-music-listening"
       ],
       "aliases": [
         "문화 공급 과잉",
@@ -3041,6 +3042,34 @@
       "status": "현재 접근 가능한 논의와 코어 시범자료 기반 · 외부 재검증 필요",
       "updated": "2026-10-25",
       "source": "내부 총합·외부 미검증",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "path": "wiki/mood-led-music-listening.md",
+      "publish": true,
+      "order": 94,
+      "id": "mood-led-music-listening",
+      "title": "기분에서 곡으로: 열다섯 곡의 탐색형 청취 지도",
+      "category": "음악",
+      "status": "추천 가설·청취 반응 미확인",
+      "updated": "2026-10-25",
+      "summary": "서늘한 밤, 낯설어진 세계, SF적 확장감, 절제된 우울함과 한국 음악으로 나눈 15곡의 추천 및 우선 청취 4곡을 취향 가설로 정리한다.",
+      "tags": [
+        "음악 추천",
+        "청취 가이드",
+        "큐레이션",
+        "취향 탐색",
+        "한국 인디"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "music-books-supply-attention"
+      ],
+      "aliases": [
+        "분위기별 음악 추천",
+        "15곡 청취 지도"
+      ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-25"
     }
