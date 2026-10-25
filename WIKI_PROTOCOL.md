@@ -1,6 +1,6 @@
 # 누적형 지식백과 편집 프로토콜
 
-> 버전: 2.01 · 제정: 2026-10-22 · 개정: 2026-10-26 · 대상: `belorin/belorin.github.io` (`main`)
+> 버전: 2.02 · 제정: 2026-10-22 · 개정: 2026-10-26 · 대상: `belorin/belorin.github.io` (`main`)
 >
 > 대화의 지식을 이 저장소의 지식백과에 **총합·증보**하는 규칙이다. 증보에 필요한 규칙은 이 문서에 모두 있다. 위키 전체 정비는 [MAINTENANCE.md](./MAINTENANCE.md), 기존 문서들을 엮는 종합은 [SYNTHESIS.md](./SYNTHESIS.md)를 따른다. 대화에 소설 본문이 있으면 그 부분은 [FICTION.md](./FICTION.md)를 따른다. 규칙과 저장소의 실제 작동이 어긋나 보이면 실제 작동과 안전 제한을 먼저 확인하고, 임의로 데이터를 훼손하지 않는다.
 
@@ -145,8 +145,10 @@
 
 **증보 장부.** 직접 증보는 `editorial/ingestions/`에 기록한다.
 - `index.json`은 처리 배치 ID 목록, `<batch-id>.json`은 한 번의 처리에서 찾은 **공개해도 안전한 지식 표제**, 상태, 반영된 문서와 정확한 절 제목이다.
+- 배치 파일은 아래 형식을 그대로 쓴다. 필드 이름을 바꾸거나 더하지 않으며, 새 배치 ID는 `index.json`의 `batches` 끝에 추가한다. `kind`는 `concept`·`fact`·`argument`·`counterargument`·`example`·`curation`·`question`·`other` 중 하나다.
+  `{"id":"ing-YYYYMMDD-주제","processed_on":"YYYY-MM-DD","coverage":"visible-complete","limit_note":"짧은 한계 설명(선택)","withheld_count":0,"items":[{"id":"k01","kind":"concept","title":"지식 표제","status":"integrated","targets":[{"doc_id":"문서-id","section":"정확한 절 제목"}]}]}`
 - `batch-id`는 위키 내부 식별자이며 대화 ID가 아니다. 대화 ID를 꾸며내지 않는다. 같은 대화를 다시 처리하면 기존 배치의 항목을 갱신하거나 새 배치와의 중복을 점검하고, 같은 지식을 중복 생성하지 않는다.
-- 상태는 `integrated`(반영) 또는 `pending`(보류)이다. 보류는 사유를 적고 완료로 보고하지 않는다.
+- 상태는 `integrated`(반영) 또는 `pending`(보류)이다. 보류는 `"targets":[]`와 사유 `"reason"`을 적고 완료로 보고하지 않는다.
 - `coverage`는 `visible-complete`, `visible-partial`, `uncertain` 중 하나다. `visible-complete`도 실제로 접근한 범위를 다 훑었다는 뜻일 뿐 채팅 전체의 완전성을 보장하지 않는다. 접근하지 못한 부분은 `coverage`와 짧은 비식별 한계 설명에 표시한다.
 - 장부가 없던 옛 글의 출처를 추측해 채우지 않는다.
 - 작업 중에는 원문과 대조하는 자세한 추출표를 만들 수 있지만, 저장소에는 **저술 결과와 비식별 대응표만** 남긴다. 표제는 짧고 사실 중심으로 쓰며 설명·근거·사례는 원고에만 둔다. 장부가 두 번째 요약문 저장소가 되어서는 안 된다.
