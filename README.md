@@ -43,7 +43,8 @@ Pages는 브랜치 배포가 아니라 GitHub Actions 배포를 사용한다(Set
 편집 작업에서는 위 공개 색인 대신 자동 생성 **편집 지도**를 쓴다.
 
 - [`editorial/map/index.md`](editorial/map/index.md): 미게시 포함 모든 원고의 제목·별칭·절 수·분량 한 줄 지도
-- `editorial/map/docs/<id>.md`: 문서별 카드. 요약, 절 목차(절별 분량과 첫 문장), 장부에 기록된 반영 지식, 관계와 교차 제안
+- `editorial/map/docs/<id>.md`: 문서별 카드. 요약, 절 목차(소제목 경로·줄 범위·분량·해시·첫 문장), 장부에 기록된 반영 지식, 관계와 교차 제안
+- [`editorial/map/knowledge.md`](editorial/map/knowledge.md): 편집 장부를 뒤집은 지식 표제 역색인(표제 → 문서·절 → 처리 배치, 보류 항목). 낱말로 검색하는 용도
 
 지도 → 후보 카드 → 해당 절 본문 순으로 읽고, 정의 변경·구조 재편·충돌·위치 불명확 시 문서 전문으로 넓힌다(WIKI_PROTOCOL §8A). 지도와 카드는 후보 탐색용이며, 중복 판정은 반드시 본문을 읽고 한다. 미게시 `publish:false` 원고는 외부 탐색 색인에 노출하지 않지만 공개 GitHub 저장소 자체가 비공개인 것은 아니다.
 

@@ -1,14 +1,17 @@
 #!/usr/bin/env node
 /**
- * Generate the editorial wiki map: a compact entry map of every manuscript and
- * one card per document (section outline, ledger entries, relations, proposals).
- * Editors read the map first, then only candidate cards, then target sections.
+ * Generate the editorial wiki map: a compact entry map of every manuscript,
+ * one card per document (section outline with line ranges and hashes, ledger
+ * entries, relations, proposals) and a knowledge-title reverse index of the
+ * ingestion ledgers. Editors read the map first, then only candidate cards,
+ * then target sections; the reverse index is searched, not read whole.
  * Derived from wiki/*.md, manifest, relations and ledgers. Do not edit outputs.
  *
  * Usage:
  *   node scripts/build-wiki-map.mjs         # write editorial/map/
  *   node scripts/build-wiki-map.mjs --check # verify editorial/map/ is up to date
  */
+import crypto from "node:crypto";
 import fs from "node:fs";
 import path from "node:path";
 import process from "node:process";
@@ -25,6 +28,7 @@ const byId = new Map(docs.map(d => [d.id, d]));
 
 function fail(message) { throw Error(message); }
 const count = n => n.toLocaleString("en-US");
+const hash = text => crypto.createHash("sha256").update(text).digest("hex").slice(0, 8);
 const plain = text => text
   .replace(/!?\[([^\]]*)\]\([^)]*\)/g, "$1")
   .replace(/\*\*|__|`/g, "")
@@ -42,26 +46,32 @@ function firstSentence(lines) {
 }
 
 // Split a manuscript into sections: intro (before the first ##) and ##~#### headings.
+// Each section covers its own lines only (up to the next heading of any level);
+// line numbers are 1-based in the Markdown file, and the hash covers those lines.
 function outline(markdown) {
   const lines = markdown.replace(/\r\n/g, "\n").split("\n");
   if (!/^# /.test(lines[0] ?? "")) fail("expected a first-level heading");
-  const sections = [{ level: 1, title: "(도입부)", lines: [] }];
+  const sections = [{ level: 1, title: "(도입부)", start: 2, lines: [] }];
   let fenced = false;
-  for (const line of lines.slice(1)) {
+  lines.slice(1).forEach((line, i) => {
     if (line.trim().startsWith("```")) fenced = !fenced;
     const heading = !fenced && line.match(/^(#{2,4})[ \t]+(.+?)[ \t]*$/);
-    if (heading) sections.push({ level: heading[1].length, title: heading[2].trim(), lines: [] });
+    if (heading) sections.push({ level: heading[1].length, title: heading[2].trim(), start: i + 2, lines: [line] });
     else sections.at(-1).lines.push(line);
-  }
-  return sections
-    .map(s => ({ ...s, chars: s.lines.join("\n").trim().length, lead: firstSentence(s.lines) }))
-    .filter(s => s.level > 1 || s.chars > 0);
+  });
+  return sections.map(s => {
+    const own = s.lines.slice(0, s.lines.findLastIndex(l => l.trim()) + 1);
+    const body = s.level > 1 ? own.slice(1) : own;
+    return { ...s, end: s.start + Math.max(own.length, 1) - 1, hash: hash(own.join("\n")),
+      chars: body.join("\n").trim().length, lead: firstSentence(body) };
+  }).filter(s => s.level > 1 || s.chars > 0);
 }
 
 // Ledger entries grouped by target document.
 const ledger = new Map();
 const batchIds = readJson("editorial/ingestions/index.json").batches;
 let ledgerItems = 0;
+const allItems = [];
 for (const batchId of batchIds) {
   const batch = readJson(path.join("editorial", "ingestions", batchId + ".json"));
   for (const item of batch.items ?? []) {
@@ -70,6 +80,7 @@ for (const batchId of batchIds) {
       if (!ledger.has(target.doc_id)) ledger.set(target.doc_id, []);
       ledger.get(target.doc_id).push({ batch: batchId, title: item.title, status: item.status, section: target.section });
     }
+    allItems.push({ batch: batchId, ...item });
   }
 }
 
@@ -86,7 +97,7 @@ for (const doc of docs) {
   const chars = markdown.trim().length;
   const category = doc.category || "미분류";
   if (!categories.has(category)) categories.set(category, []);
-  categories.get(category).push({ doc, chars, sectionCount: headed.length });
+  categories.get(category).push({ doc, chars, sectionCount: headed.length, ledgerCount: (ledger.get(doc.id) ?? []).length });
 
   const card = [];
   card.push("# " + doc.title, "");
@@ -98,10 +109,11 @@ for (const doc of docs) {
   card.push(`- 수정일: ${doc.updated ?? "없음"} · 실제 증보일: ${doc.last_enriched_on ?? "미확인"} · 검토: ${doc.review_state ?? "없음"}`);
   if (doc.related?.length) card.push("- 관련 문서: " + doc.related.map(id => `\`${id}\``).join(", "));
 
-  card.push("", "## 절 목차", "", "글자 수는 하위 절을 제외한 그 절 고유 본문의 분량이다. 첫 문장은 위치 확인용이며 절의 내용을 대표하지 않는다.", "");
+  card.push("", "## 절 목차", "");
+  card.push("들여쓰기가 소제목 경로(상위 절 아래의 하위 절)다. `L시작–끝`은 원고 파일에서 그 절 고유 부분(하위 절 제외)의 줄 범위, 글자 수는 그 본문 분량, 8자리 해시는 그 줄들의 내용 지문으로 원고가 바뀌면 달라진다. 첫 문장은 위치 확인용이며 절의 내용을 대표하지 않는다.", "");
   for (const s of sections) {
     const indent = "  ".repeat(Math.max(0, s.level - 2));
-    card.push(`${indent}- ${s.title} (${count(s.chars)}자)${s.lead ? " — " + s.lead : ""}`);
+    card.push(`${indent}- ${s.title} · L${s.start}–${s.end} · ${count(s.chars)}자 · \`${s.hash}\`${s.lead ? " — " + s.lead : ""}`);
   }
 
   const entries = ledger.get(doc.id) ?? [];
@@ -139,16 +151,43 @@ map.push("> 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않
 map.push("> 사용 순서: ① 채팅에서 추출한 지식 항목마다 아래 제목·별칭으로 후보를 찾는다 → ② 후보의 문서 카드 `editorial/map/docs/<id>.md`에서 절 목차와 장부 기록을 본다 → ③ 해당 절 본문을 읽고 대조한다. 전문으로 넓히는 조건은 WIKI_PROTOCOL §8A를 따른다.");
 map.push("> 지도와 카드는 후보를 찾는 도구일 뿐이다. 중복·반영 여부는 원고 본문을 읽고 판정한다.", "");
 map.push(`원고 ${docs.length}개 (미게시 ${docs.filter(d => !d.publish).length}) · 절 ${count(sectionTotal)}개 · 장부 지식 항목 ${ledgerItems}개`, "");
-map.push("형식: `id` 제목 — 별칭 · 절 수 · 분량", "");
+map.push("형식: `id` 제목 — 별칭 · 절 수 · 분량 · 장부 기록 수. 장부 없음은 장부 도입 이전 원고이거나 기록이 없는 원고이며, 내용이 없다는 뜻이 아니다.", "");
+map.push("특정 논점이 이미 처리되었는지는 [지식 표제 역색인](knowledge.md)에서 낱말로 **검색**한다(통째로 읽지 않는다). 장부가 없는 원고는 문서 카드의 절 목차로 찾는다.", "");
 for (const [category, list] of [...categories].sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0], "ko"))) {
   map.push(`## ${category} (${list.length})`, "");
-  for (const { doc, chars, sectionCount } of list) {
+  for (const { doc, chars, sectionCount, ledgerCount } of list) {
     const alias = doc.aliases?.length ? " — " + doc.aliases.join(", ") : "";
-    map.push(`- \`${doc.id}\` ${doc.title}${alias} · ${sectionCount}절 · ${(chars / 1000).toFixed(1)}천 자${doc.publish ? "" : " · 미게시"}`);
+    const ledgerNote = ledgerCount ? `장부 ${ledgerCount}건` : "장부 없음";
+    map.push(`- \`${doc.id}\` ${doc.title}${alias} · ${sectionCount}절 · ${(chars / 1000).toFixed(1)}천 자 · ${ledgerNote}${doc.publish ? "" : " · 미게시"}`);
   }
   map.push("");
 }
 outputs.set(path.join(outDir, "index.md"), map.join("\n").trimEnd() + "\n");
+
+// Reverse index of the ingestion ledgers: knowledge title -> document/section -> batch/status.
+const categoryOf = id => byId.get(id)?.category || "미분류";
+const where = item => item.targets.map(t => `\`${t.doc_id}\` § ${t.section}`).join("; ");
+const knowledge = [];
+knowledge.push("# 지식 표제 역색인", "");
+knowledge.push("> 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.");
+knowledge.push("> **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.", "");
+knowledge.push(`장부 지식 항목 ${ledgerItems}개 · 형식: 표제 → \`문서\` § 절 · \`처리 배치\``, "");
+const pending = allItems.filter(i => i.status !== "integrated");
+knowledge.push(`## 보류 항목 (${pending.length})`, "");
+for (const item of pending) {
+  knowledge.push(`- ${item.title} → ${item.targets.length ? where(item) : "반영 위치 없음"} · \`${item.batch}\` · ${item.status}${item.reason ? " — " + item.reason : ""}`);
+}
+const integratedByCategory = new Map();
+for (const item of allItems.filter(i => i.status === "integrated")) {
+  const category = item.targets.length ? categoryOf(item.targets[0].doc_id) : "미분류";
+  if (!integratedByCategory.has(category)) integratedByCategory.set(category, []);
+  integratedByCategory.get(category).push(item);
+}
+for (const [category, list] of [...integratedByCategory].sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0], "ko"))) {
+  knowledge.push("", `## ${category} (${list.length})`, "", "분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.", "");
+  for (const item of list) knowledge.push(`- ${item.title} → ${where(item)} · \`${item.batch}\``);
+}
+outputs.set(path.join(outDir, "knowledge.md"), knowledge.join("\n").trimEnd() + "\n");
 
 // Write or verify, and remove cards whose documents no longer exist.
 const stale = [];
