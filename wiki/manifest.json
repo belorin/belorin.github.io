@@ -3891,6 +3891,38 @@
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-26"
+    },
+    {
+      "path": "wiki/jewish-messianic-claimants-kabbalah.md",
+      "publish": true,
+      "order": 119,
+      "id": "jewish-messianic-claimants-kabbalah",
+      "title": "유대교의 수많은 메시아들: 중세의 구원 운동에서 카발라와 샤브타이 츠비까지",
+      "category": "문화와 역사",
+      "status": "접근 가능한 개략 서술 기반 · 일부 전승·연대·메시아 자칭 여부 검토 필요",
+      "updated": "2026-10-26",
+      "summary": "크레타의 모세에서 샤브타이 츠비와 프랑크까지 메시아 참칭자, 선구자, 예언자와 카발라 신비가의 차이를 시대별로 구분한다.",
+      "tags": [
+        "유대교",
+        "메시아주의",
+        "카발라",
+        "아불라피아",
+        "샤브타이 츠비",
+        "다비드 알로이",
+        "마이모니데스",
+        "종교사"
+      ],
+      "source": "내부 총합 · 접근 가능한 역사 개설과 기존에 언급된 참고 경로만 반영 · 외부 추가 조사 없음",
+      "related": [],
+      "aliases": [
+        "중세 유대교 메시아",
+        "유대 메시아 참칭자",
+        "유대교의 메시아들",
+        "카발라와 메시아주의",
+        "Pseudo-Messiahs"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-26"
     }
   ]
 }
