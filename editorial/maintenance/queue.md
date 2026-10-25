@@ -168,8 +168,8 @@
 - `war-escalation-local-to-world` ↔ `global-flashpoints-likelihood-2026` · 0.12 · 연결됨
 - `ai-human-control-guide` ↔ `gradual-disempowerment` · 0.12 · 연결됨
 - `global-reading-club-2026-books` ↔ `anne-carson-nobel-first-reactions` · 0.12
+- `wiki-building-history` ↔ `wiki-operations-pipeline` · 0.12 · 연결됨
 - `burning-man-institutions` ↔ `burning-man-regional-network` · 0.12 · 연결됨
-- `double-bass` ↔ `electric-bass` · 0.11 · 연결됨
 
 ## 6. 보류 항목 (3)
 
@@ -193,7 +193,7 @@
 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
-- 긴 문서 (9): `wiki-building-history` 14,233자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `ai-capital-labor-distribution` 11,322자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `korea-dance-musical-tours` 10,337자, `wiki-operations-pipeline` 10,290자, `stalking-harm-and-autonomy` 10,033자
+- 긴 문서 (9): `wiki-building-history` 14,233자, `ai-domination-gradient` 11,931자, `wiki-operations-pipeline` 11,848자, `gwangju-building-art-network` 11,751자, `ai-capital-labor-distribution` 11,322자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `korea-dance-musical-tours` 10,337자, `stalking-harm-and-autonomy` 10,033자
 - 짧은 문서 (7): `double-bass` 1,227자, `deleuze-cartography-future` 1,291자, `electric-bass` 1,325자, `rhythm-section` 1,383자, `big-band` 1,400자, `jazz-listening` 1,435자, `drum-kit` 1,481자
 
 ## 9. 분류 참고

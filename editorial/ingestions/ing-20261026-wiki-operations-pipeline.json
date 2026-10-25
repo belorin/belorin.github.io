@@ -160,6 +160,30 @@
           "section": "셋째 작업: 종합"
         }
       ]
+    },
+    {
+      "id": "k14",
+      "kind": "concept",
+      "title": "규칙 문서의 중복·경위 제거와 규칙 대응표를 붙인 프로토콜 v2.0 경량화",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wiki-operations-pipeline",
+          "section": "규칙 문서의 경량화: 프로토콜 v2.0"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "fact",
+      "title": "전체 지도의 자동 분할 기준(2만 5천 자)과 분할 후의 전체 ID 목록",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wiki-operations-pipeline",
+          "section": "전체 지도"
+        }
+      ]
     }
   ]
 }
