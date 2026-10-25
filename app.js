@@ -205,9 +205,6 @@ function showFilters() {
 function home() {
   if (!randomPick || !byId(randomPick.id)) randomPick = pickRandom();
   const dateSorted = sorted(notes.filter(listed));
-  const categoryCounts = [...new Set(notes.filter(listed).map(n => n.category))]
-    .map(name => ({name, count:notes.filter(n => listed(n) && n.category === name).length}))
-    .sort((a,b) => categoryRank(a.name) - categoryRank(b.name) || b.count - a.count || a.name.localeCompare(b.name,'ko'));
   const feature = randomPick
     ? '<div class="random-card"><div><div class="eyebrow">오늘의 무작위 문서</div>' +
       '<h2>' + esc(randomPick.title) + '</h2><p>' + esc(randomPick.summary) + '</p>' +
@@ -215,14 +212,9 @@ function home() {
       '<button type="button" class="outline-button" data-shuffle>다른 글 ↻</button></div>'
     : '';
   view.innerHTML =
-    '<div class="page-heading"><h1>문서 탐색</h1><p>현재 ' + articles().length + '개의 문서' +
-    (notes.some(isSynthesis) ? ' · 종합 ' + notes.filter(isSynthesis).length + '편' : '') +
-    '. 주제를 고르거나 검색해서 바로 읽을 수 있습니다.</p></div>' +
+    '<div class="page-heading"><h1>문서 탐색</h1><p>' + articles().length + '개 문서' +
+    (notes.some(isSynthesis) ? ' · 종합 ' + notes.filter(isSynthesis).length + '편' : '') + '</p></div>' +
     feature +
-    '<section><div class="section-heading"><h2>주제별 보기</h2><a href="#all">전체 목록 →</a></div>' +
-    '<div class="topic-grid">' + categoryCounts.map(c =>
-      '<button class="topic' + (c.name === '종합' ? ' synthesis' : c.name === '소설' ? ' fiction' : '') + '" type="button" data-category="' + esc(c.name) + '">' +
-      esc(c.name) + '<span>' + c.count + '개 →</span></button>').join('') + '</div></section>' +
     '<section><div class="section-heading"><h2>최근 갱신</h2><a href="#all">모든 문서 →</a></div>' +
     '<ul class="compact-list">' + dateSorted.slice(0,8).map(n =>
       '<li><a href="' + permalink(n.id) + '"><span class="item-title">' + kindBadge(n) + esc(n.title) +
@@ -328,11 +320,7 @@ view.addEventListener('click', event => {
   if (!target) return;
   if (target.hasAttribute('data-shuffle')) { randomPick = pickRandom(randomPick?.id); home(); }
   else if (target.hasAttribute('data-random')) goRandom();
-  else if (target.hasAttribute('data-category')) {
-    category = target.getAttribute('data-category');
-    showFilters();
-    location.hash = '#all';
-  } else if (target.hasAttribute('data-copy')) {
+  else if (target.hasAttribute('data-copy')) {
     copyLink(target);
   } else if (target.hasAttribute('data-jump')) {
     document.getElementById(target.getAttribute('data-jump'))?.scrollIntoView({behavior:'smooth',block:'start'});
