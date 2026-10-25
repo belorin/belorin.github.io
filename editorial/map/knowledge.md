@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 677개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 681개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (3)
 
@@ -685,6 +685,22 @@
 - 이란·레바논·베네수엘라와 선진국의 서로 다른 압력 → `state-hollowing-country-pilot` § 유형은 점수보다 중요한 정보를 제공한다 · `ing-20261025-state-hollowing-critical-optimism`
 - 레바논·베네수엘라의 과거 부채값 대체와 민감도 한계 → `state-hollowing-country-pilot` § 민감도와 자료 문제 · `ing-20261025-state-hollowing-critical-optimism`
 
+## 자연과 과학 (11)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 종 식별·발성 분류·기능 해석·언어 번역의 네 단계 구분 → `bird-vocalization-sparrow` § 식별과 번역 사이에는 몇 단계가 있는가 · `ing-20261025-bird-vocalization-sparrow`
+- 경고음의 기능적 지시성과 집단 대응의 관찰 한계 → `bird-vocalization-sparrow` § 경고음은 단순한 감정 표현을 넘어서는가 · `ing-20261025-bird-vocalization-sparrow`
+- 일본박새의 제한적인 조합적 의미 → `bird-vocalization-sparrow` § 일본박새의 조합적 신호가 갖는 의미 · `ing-20261025-bird-vocalization-sparrow`
+- 금화조 호출 유형과 사회적 맥락의 분석 → `bird-vocalization-sparrow` § 금화조의 호출 유형과 사회적 맥락 · `ing-20261025-bird-vocalization-sparrow`
+- 한국 참새와 집참새의 구별 및 현장 발성의 종류 → `bird-vocalization-sparrow` § 한국의 참새: 무엇을 듣고 있는가 · `ing-20261025-bird-vocalization-sparrow`
+- 참새 아홉 발성 유형 소개 및 A1~A9 매핑의 검증 유보 → `bird-vocalization-sparrow` § 아홉 가지 울음이라는 분류는 무엇을 뜻하는가 · `ing-20261025-bird-vocalization-sparrow`
+- 광주·나주·담양 도시 소음과 참새 발성 변화의 연구 소개 → `bird-vocalization-sparrow` § 도시의 소음은 참새의 발성을 바꾸는가 · `ing-20261025-bird-vocalization-sparrow`
+- 새소리 AI 분석을 행동 맥락 및 재생 실험으로 검증해야 할 이유 → `bird-vocalization-sparrow` § 현장에서 해석하려면 무엇을 함께 기록해야 하는가 · `ing-20261025-bird-vocalization-sparrow`
+- 전쟁 사망자와 탄소배출 감소의 비례 계산 한계 → `climate-population-villain-logic` § 출발점: 전쟁 사망자와 배출량의 잘못된 등식 · `ing-20261026-climate-dystopia`
+- 1.5도 탄소예산과 인구 감소 시나리오의 전제 → `climate-population-villain-logic` § 1.5°C와 탄소예산 · `ing-20261026-climate-dystopia`
+- 기후위기 악역의 계산주의와 도덕적 비약 → `climate-population-villain-logic` § 계산에서 명령으로 건너뛰는 순간 · `ing-20261026-climate-dystopia`
+
 ## 정보와 미디어 (9)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -739,19 +755,6 @@
 - rump의 별개 의미와 어원 → `romp-etymology` § rump와의 구분 · `ing-20261023-burning-man-romp`
 - 기원 사료·사전 원문·용례 연대의 검토 상태 → `romp-etymology` § 검토 상태; `burning-man-community` § 검토 상태 · `ing-20261023-burning-man-romp`
 
-## 자연과 과학 (8)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 종 식별·발성 분류·기능 해석·언어 번역의 네 단계 구분 → `bird-vocalization-sparrow` § 식별과 번역 사이에는 몇 단계가 있는가 · `ing-20261025-bird-vocalization-sparrow`
-- 경고음의 기능적 지시성과 집단 대응의 관찰 한계 → `bird-vocalization-sparrow` § 경고음은 단순한 감정 표현을 넘어서는가 · `ing-20261025-bird-vocalization-sparrow`
-- 일본박새의 제한적인 조합적 의미 → `bird-vocalization-sparrow` § 일본박새의 조합적 신호가 갖는 의미 · `ing-20261025-bird-vocalization-sparrow`
-- 금화조 호출 유형과 사회적 맥락의 분석 → `bird-vocalization-sparrow` § 금화조의 호출 유형과 사회적 맥락 · `ing-20261025-bird-vocalization-sparrow`
-- 한국 참새와 집참새의 구별 및 현장 발성의 종류 → `bird-vocalization-sparrow` § 한국의 참새: 무엇을 듣고 있는가 · `ing-20261025-bird-vocalization-sparrow`
-- 참새 아홉 발성 유형 소개 및 A1~A9 매핑의 검증 유보 → `bird-vocalization-sparrow` § 아홉 가지 울음이라는 분류는 무엇을 뜻하는가 · `ing-20261025-bird-vocalization-sparrow`
-- 광주·나주·담양 도시 소음과 참새 발성 변화의 연구 소개 → `bird-vocalization-sparrow` § 도시의 소음은 참새의 발성을 바꾸는가 · `ing-20261025-bird-vocalization-sparrow`
-- 새소리 AI 분석을 행동 맥락 및 재생 실험으로 검증해야 할 이유 → `bird-vocalization-sparrow` § 현장에서 해석하려면 무엇을 함께 기록해야 하는가 · `ing-20261025-bird-vocalization-sparrow`
-
 ## 철학·심리 (7)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -789,3 +792,9 @@
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
 - 판단·관계·능력 변화 가설에 대한 실측·측정 연구의 연결 → `ai-mediated-human-change` § 판단; `ai-mediated-human-change` § 관계; `ai-mediated-human-change` § 능력 · `ing-20261023-ai-control-disempowerment`
+
+## 소설 (1)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 기후 디스토피아 숨결 장면집 → `climate-breath-fiction` § 작품 노트 · `ing-20261026-climate-dystopia`

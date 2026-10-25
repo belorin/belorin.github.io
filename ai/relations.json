@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 446,
+  "edge_count": 448,
   "edges": [
     {
       "from": "living-notes",
@@ -2444,6 +2444,18 @@
     {
       "from": "information-hype-wow-index",
       "to": "open-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "climate-population-villain-logic",
+      "to": "climate-breath-fiction",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "climate-breath-fiction",
+      "to": "climate-population-villain-logic",
       "type": "related_to",
       "basis": "manifest.related"
     },

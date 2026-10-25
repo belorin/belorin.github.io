@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 123,
+  "document_count": 125,
   "documents": [
     {
       "id": "living-notes",
@@ -4097,6 +4097,58 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/information-hype-wow-index.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/information-hype-wow-index.md",
       "page_url": "https://belorin.github.io/#information-hype-wow-index"
+    },
+    {
+      "id": "climate-population-villain-logic",
+      "title": "탄소예산과 인구 감축의 오류: 기후 디스토피아의 과학과 윤리",
+      "aliases": [],
+      "category": "자연과 과학",
+      "tags": [
+        "기후위기",
+        "탄소예산",
+        "인구",
+        "디스토피아"
+      ],
+      "summary": "인구 감소와 탄소배출의 단순 비례 계산, 1.5도 예산의 불확실성, 학살 정당화의 논리적 비약",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 집필",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "climate-breath-fiction"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/climate-population-villain-logic.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/climate-population-villain-logic.md",
+      "page_url": "https://belorin.github.io/#climate-population-villain-logic"
+    },
+    {
+      "id": "climate-breath-fiction",
+      "title": "숨결: 기후 구원의 이름으로",
+      "aliases": [],
+      "category": "소설",
+      "tags": [
+        "디스토피아",
+        "기후소설",
+        "아르카디아"
+      ],
+      "summary": "아르카디아와 에바, 아이린의 기후 디스토피아 장면집",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 집필",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "climate-population-villain-logic"
+      ],
+      "kind": "fiction",
+      "fiction_part": "work",
+      "note": "소설. 사실 근거로 인용하지 않는다.",
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/climate-breath-fiction.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/climate-breath-fiction.md",
+      "page_url": "https://belorin.github.io/#climate-breath-fiction"
     }
   ]
 }

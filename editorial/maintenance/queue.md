@@ -4,9 +4,9 @@
 
 마지막 정비: 없음 · 다음 정비 버전: **M001** (첫 정비이므로 모든 문서가 변경 문서로 잡힌다)
 
-원고 126개 · 변경 문서 126 · 고립 14 · 한쪽 연결 78 · 보류 3 · 열린 교차 제안 7
+원고 128개 · 변경 문서 128 · 고립 14 · 한쪽 연결 78 · 보류 3 · 열린 교차 제안 7
 
-## 1. 지난 정비 이후 변경된 문서 (126)
+## 1. 지난 정비 이후 변경된 문서 (128)
 
 첫 정비이므로 전체 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
@@ -23,10 +23,11 @@
 - **철학·사상사** (3): `lacan-anti-oedipus-history`, `philosophical-systems-after-2000`, `contemporary-intellectual-power`
 - **기술·지식 아카이브** (2): `credit-observation-archive`, `book-preview-credit-sourcing`
 - **미분류** (2): `ai-mediated-human-change`, `circus-music-history`
+- **자연과 과학** (2): `bird-vocalization-sparrow`, `climate-population-villain-logic`
 - **문학** (1): `anne-carson-nobel-first-reactions`
 - **문화** (1): `music-books-supply-attention`
+- **소설** (1): `climate-breath-fiction`
 - **언어** (1): `romp-etymology`
-- **자연과 과학** (1): `bird-vocalization-sparrow`
 - **정보와 미디어** (1): `information-hype-wow-index`
 - **종합** (1): `replay-ladder-human-performance`
 - **질문** (1): `open-questions`
@@ -199,5 +200,5 @@
 
 ## 9. 분류 참고
 
-분류 22개: 음악 36, AI와 사회 18, 문화와 역사 17, 사회와 제도 12, 철학 11, 운영 4, 독서 문화 3, 영화 3, 정치경제 3, 생명과학 3, 철학·사상사 3, 미분류 2, 기술·지식 아카이브 2, 질문 1, 언어 1, 문학 1, 자연과 과학 1, 문화 1, 창작 1, 철학·심리 1, 종합 1, 정보와 미디어 1
-문서가 하나뿐인 분류 9개: 질문, 언어, 문학, 자연과 과학, 문화, 창작, 철학·심리, 종합, 정보와 미디어. 분류 체계 변경은 제안만 한다.
+분류 23개: 음악 36, AI와 사회 18, 문화와 역사 17, 사회와 제도 12, 철학 11, 운영 4, 독서 문화 3, 영화 3, 정치경제 3, 생명과학 3, 철학·사상사 3, 미분류 2, 자연과 과학 2, 기술·지식 아카이브 2, 질문 1, 언어 1, 문학 1, 문화 1, 창작 1, 철학·심리 1, 종합 1, 정보와 미디어 1, 소설 1
+문서가 하나뿐인 분류 9개: 질문, 언어, 문학, 문화, 창작, 철학·심리, 종합, 정보와 미디어, 소설. 분류 체계 변경은 제안만 한다.

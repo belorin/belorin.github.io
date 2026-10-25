@@ -364,6 +364,9 @@
 - **[새소리는 어디까지 번역되었는가: 행동 신호에서 참새의 짹짹까지](wiki/bird-vocalization-sparrow.md)** · 별칭: 새소리 번역, 새의 언어, 참새 울음소리, 참새어, 조류 의사소통 · 수정: 2026-10-25 · 검토: 대화 내부의 연구 소개 총합 · 논문별 세부 분류·수치 재검증 필요
   - 종 인식·발성 유형·행동 신호·인간 언어 번역의 차이를 일본박새·금화조·한국 참새 연구로 검토하고, 참새 아홉 유형과 도시 소음 연구의 검증 경계를 정리한다.
   - [웹페이지](https://belorin.github.io/#bird-vocalization-sparrow) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/bird-vocalization-sparrow.md)
+- **[탄소예산과 인구 감축의 오류: 기후 디스토피아의 과학과 윤리](wiki/climate-population-villain-logic.md)** · 별칭:  · 수정: 2026-10-26 · 검토: 대화 기반 집필
+  - 인구 감소와 탄소배출의 단순 비례 계산, 1.5도 예산의 불확실성, 학살 정당화의 논리적 비약
+  - [웹페이지](https://belorin.github.io/#climate-population-villain-logic) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/climate-population-villain-logic.md)
 
 ## 문화
 
@@ -433,6 +436,14 @@
 - **[호들갑 감정기: 정보의 와우·확성·과열 차수를 구별하는 법](wiki/information-hype-wow-index.md)** · 별칭: 호들갑 지수, 호들갑 감정기, 과열 차수, 와우 지표, 와우 지수, 확성 지수, 정보 과열 감정 · 수정: 2026-10-26 · 검토: 예비 평가 모형·외부 실측 검증 필요
   - 정보 피로를 실제 중요도·본래의 놀라움·유통 강도로 분해하는 호들갑 감정기 설계. 과열 차수의 산식, 수치 혼선의 교정, 가상 사례, 링크·캡처 입력과 커스텀 GPT 평가 지침을 설명한다.
   - [웹페이지](https://belorin.github.io/#information-hype-wow-index) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/information-hype-wow-index.md)
+
+## 소설 (창작 작품 · 사실 근거 아님)
+
+> 장별 문서는 각 작품의 목차에서 이어진다.
+
+- **[숨결: 기후 구원의 이름으로](wiki/climate-breath-fiction.md)** · 단편 · 수정: 2026-10-26
+  - 아르카디아와 에바, 아이린의 기후 디스토피아 장면집
+  - [웹페이지](https://belorin.github.io/#climate-breath-fiction) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/climate-breath-fiction.md)
 
 ## 종합 (편집 해석 · 사실 근거 아님)
 
