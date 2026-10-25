@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 323,
+  "edge_count": 329,
   "edges": [
     {
       "from": "living-notes",
@@ -1020,6 +1020,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "gradual-disempowerment",
+      "to": "ai-transition-policy-gap",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "disempowerment-measurement",
       "to": "ai-human-control-guide",
       "type": "related_to",
@@ -1320,6 +1326,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "ai-economic-transition",
+      "to": "ai-transition-policy-gap",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "ai-capital-labor-distribution",
       "to": "ai-economic-transition",
       "type": "related_to",
@@ -1346,6 +1358,12 @@
     {
       "from": "ai-capital-labor-distribution",
       "to": "ai-human-control-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-capital-labor-distribution",
+      "to": "ai-transition-policy-gap",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1754,6 +1772,24 @@
     {
       "from": "japan-physical-ai-skill-transfer",
       "to": "ai-economic-transition",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-transition-policy-gap",
+      "to": "ai-economic-transition",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-transition-policy-gap",
+      "to": "ai-capital-labor-distribution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-transition-policy-gap",
+      "to": "gradual-disempowerment",
       "type": "related_to",
       "basis": "manifest.related"
     },

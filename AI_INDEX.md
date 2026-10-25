@@ -187,6 +187,9 @@
 - **[사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승](wiki/japan-physical-ai-skill-transfer.md)** · 별칭: 일본 피지컬 AI, 손지능, 숙련 전승 로봇, Physical AI Japan · 수정: 2026-10-25 · 검토: 대화 내 확인 자료 총합 · 기업 발표·정부 목표·국가 비교 해석 외부 재검증 필요
   - 가와사키 Successor와 Honda 다지 핸드부터 Toyota·Yaskawa·FANUC·AIST까지, 일본이 숙련자의 손동작·힘 조절을 로봇 학습 데이터로 옮기려는 흐름을 정리한다.
   - [웹페이지](https://belorin.github.io/#japan-physical-ai-skill-transfer) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japan-physical-ai-skill-transfer.md)
+- **[AI 이행기의 정책 공백: 재교육이 해결하지 못하는 구조적 노동 대체](wiki/ai-transition-policy-gap.md)** · 별칭: AI 재교육의 한계, AI 이행기 정책 실패, 국제기구와 AI 경제 · 수정: 2026-10-24 · 검토: 조건부 정책 시뮬레이션·외부 미검증
+  - 국제기구가 위험을 인식해도 대응하지 못하는 조건, 재교육의 거시적 한계, 자동화·재정·조세·정치의 시차를 분석한다.
+  - [웹페이지](https://belorin.github.io/#ai-transition-policy-gap) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-transition-policy-gap.md)
 
 ## 철학
 
