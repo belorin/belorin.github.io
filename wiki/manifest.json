@@ -3681,12 +3681,12 @@
     },
     {
       "path": "wiki/replay-ladder-human-performance.md",
-      "publish": false,
+      "publish": true,
       "order": 113,
       "id": "replay-ladder-human-performance",
       "title": "재생 사다리: 기술 전환은 인간 수행의 가치를 어디로 옮기는가",
       "category": "종합",
-      "status": "편집 해석 · 게시 검토 전",
+      "status": "편집 해석",
       "updated": "2026-10-26",
       "summary": "극장 음악가·드럼키트·숙련 전승을 엮어 재생 사다리, 잔여와 대기실, 압축, 전수의 창, 자리의 고착과 숙련의 고착이라는 다섯 개념을 제안하는 교차 종합.",
       "tags": [

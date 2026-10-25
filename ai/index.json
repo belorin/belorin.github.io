@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 118,
+  "document_count": 119,
   "documents": [
     {
       "id": "living-notes",
@@ -3746,6 +3746,57 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wiki-operations-pipeline.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/wiki-operations-pipeline.md",
       "page_url": "https://belorin.github.io/#wiki-operations-pipeline"
+    },
+    {
+      "id": "replay-ladder-human-performance",
+      "title": "재생 사다리: 기술 전환은 인간 수행의 가치를 어디로 옮기는가",
+      "aliases": [
+        "재생 사다리",
+        "기술 전환과 인간 수행",
+        "전수의 창"
+      ],
+      "category": "종합",
+      "tags": [
+        "종합",
+        "기술 전환",
+        "노동",
+        "숙련",
+        "재생",
+        "협상력"
+      ],
+      "summary": "극장 음악가·드럼키트·숙련 전승을 엮어 재생 사다리, 잔여와 대기실, 압축, 전수의 창, 자리의 고착과 숙련의 고착이라는 다섯 개념을 제안하는 교차 종합.",
+      "published": true,
+      "review_state": "unassessed",
+      "review_label": "편집 해석",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": null,
+      "last_enriched_note": "not_recorded_for_legacy_content",
+      "related_ids": [
+        "silent-film-musician-labor",
+        "jazz-ensemble-labor",
+        "japan-physical-ai-skill-transfer",
+        "gradual-disempowerment",
+        "disempowerment-measurement",
+        "ai-capital-labor-distribution",
+        "ai-transition-policy-gap",
+        "open-questions"
+      ],
+      "kind": "synthesis",
+      "synthesis_type": "cross",
+      "based_on": [
+        "silent-film-musician-labor",
+        "jazz-ensemble-labor",
+        "japan-physical-ai-skill-transfer",
+        "gradual-disempowerment",
+        "disempowerment-measurement",
+        "ai-capital-labor-distribution",
+        "ai-transition-policy-gap",
+        "open-questions"
+      ],
+      "note": "편집 해석. 사실 근거로 인용하지 않는다.",
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/replay-ladder-human-performance.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/replay-ladder-human-performance.md",
+      "page_url": "https://belorin.github.io/#replay-ladder-human-performance"
     },
     {
       "id": "black-sea-ukraine-sea-denial",

@@ -418,3 +418,11 @@
 - **[사상권력은 누구에게 있는가: 학파·제도·정책과 반발의 지도](wiki/contemporary-intellectual-power.md)** · 별칭: 현대 사상권력, 사상과 정책, 학파 권력 · 수정: 2026-10-26 · 검토: 내부 총합 · 개별 자료 재검증 필요
   - 개념·교육·임상·정책·반발의 힘을 구분하고 AI 안전·젠더·CRT·DEI·신유물론·탈성장 담론의 권력 양식을 검토한다.
   - [웹페이지](https://belorin.github.io/#contemporary-intellectual-power) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/contemporary-intellectual-power.md)
+
+## 종합 (편집 해석 · 사실 근거 아님)
+
+> 여러 문서를 엮은 편집 해석이다. 사실 근거로 인용하지 않고, 각 글의 근거 문서를 읽는다.
+
+- **[재생 사다리: 기술 전환은 인간 수행의 가치를 어디로 옮기는가](wiki/replay-ladder-human-performance.md)** · 교차 종합 · 근거: silent-film-musician-labor, jazz-ensemble-labor, japan-physical-ai-skill-transfer, gradual-disempowerment, disempowerment-measurement, ai-capital-labor-distribution, ai-transition-policy-gap, open-questions · 수정: 2026-10-26
+  - 극장 음악가·드럼키트·숙련 전승을 엮어 재생 사다리, 잔여와 대기실, 압축, 전수의 창, 자리의 고착과 숙련의 고착이라는 다섯 개념을 제안하는 교차 종합.
+  - [웹페이지](https://belorin.github.io/#replay-ladder-human-performance) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/replay-ladder-human-performance.md)
