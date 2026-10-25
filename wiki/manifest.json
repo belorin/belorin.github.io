@@ -3180,7 +3180,7 @@
     {
       "path": "wiki/credit-observation-archive.md",
       "publish": true,
-      "order": null,
+      "order": 98,
       "id": "credit-observation-archive",
       "title": "이름의 출현을 기록하는 크레딧 아카이브: 판권면·스탭롤·인사발령",
       "category": "기술·지식 아카이브",
@@ -3212,7 +3212,7 @@
     {
       "path": "wiki/book-preview-credit-sourcing.md",
       "publish": true,
-      "order": null,
+      "order": 99,
       "id": "book-preview-credit-sourcing",
       "title": "온라인 서점 미리보기와 판권면 수집: 기술적 가능성과 허용 범위",
       "category": "기술·지식 아카이브",
