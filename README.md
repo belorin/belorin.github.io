@@ -19,16 +19,15 @@ https://belorin.github.io
 
 1. 해당 `wiki/<문서-id>.md`를 편집한다. 새 글이면 `wiki/manifest.json`에 등록한다.
 2. 별칭·검토 상태·증보일은 `wiki/manifest.json`, 의미 관계는 `wiki/relations.json`에 기록한다.
-3. `node scripts/build-notes.mjs`와 `node scripts/build-ai-index.mjs`를 실행한다.
-4. 대화에서 신규 지식을 반영했다면 `editorial/ingestions/index.json`과 해당 배치 JSON에 **짧은 지식 표제, 반영 문서의 정확한 절, 미완 항목**을 기록한다. 원문은 저장하지 않는다.
-5. 두 생성기의 `--check`, `node scripts/validate-editorial.mjs`, `node scripts/validate-crosslinks.mjs`, `node scripts/test-crosslinks.mjs`로 확인한다.
-6. 수정한 Markdown·manifest·관계 정본·생성된 JSON과 색인·편집 장부를 **같은 커밋**으로 `main`에 올린다.
+3. 대화에서 신규 지식을 반영했다면 `editorial/ingestions/index.json`과 해당 배치 JSON에 **짧은 지식 표제, 반영 문서의 정확한 절, 미완 항목**을 기록한다. 원문은 저장하지 않는다.
+4. Markdown·manifest·관계 정본·편집 장부를 `main`에 직접 커밋한다. 브랜치·PR은 필요 없다.
+5. GitHub Actions(`.github/workflows/deploy-pages.yml`)가 `notes.json`·AI 색인·`llms.txt`를 생성·검증하고, 생성물을 `main`에 자동 커밋한 뒤 사이트를 배포한다. 검증에 실패하면 배포하지 않고 직전 사이트를 유지한다.
 
-별도 npm 설치는 필요하지 않다. GitHub Actions가 누락된 빌드를 검증한다. `notes.json`을 편집하는 대신 반드시 Markdown을 수정한다.
+별도 npm 설치는 필요하지 않다. 로컬에서는 `node scripts/build-notes.mjs`, `node scripts/build-ai-index.mjs`와 검증 스크립트로 미리 확인할 수 있다. `notes.json`을 편집하는 대신 반드시 Markdown을 수정한다.
 
 현재 공개 페이지 주소는 기존과 같이 `/#문서-id`이다. `publish:false` 원고는 GitHub에서 Markdown으로는 확인 가능하지만 사이트 목록에는 나오지 않는다.
 
-기존 GitHub Pages 배포 방식을 바꾸지 않았으므로 자동 커밋 봇을 두지 않는다. GitHub Actions의 `GITHUB_TOKEN`으로 생성한 후속 커밋이 기존 Pages 빌드를 항상 촉발하는 것은 아니므로, 생성된 JSON을 **동일한 원고 수정 커밋에 포함하는 것**이 현재의 안전한 게시 방식이다.
+Pages는 브랜치 배포가 아니라 GitHub Actions 배포를 사용한다(Settings → Pages → Source: GitHub Actions). 사이트는 워크플로가 직접 생성한 결과물로 배포하므로, 생성물의 자동 커밋이 별도의 Pages 빌드를 촉발하지 않아도 게시가 누락되지 않는다. 자동 커밋은 GitHub에서 생성물(AI 색인 등)을 읽는 편집자를 위해 저장소를 최신으로 유지하는 용도다.
 
 ## 향후 원고의 문체
 

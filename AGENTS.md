@@ -1,6 +1,6 @@
 # AI 편집 지침
 
-> **대화 지식의 총합·증보 작업:** 먼저 [WIKI_PROTOCOL.md](./WIKI_PROTOCOL.md)를 읽는다. **글을 수정할 때는 `wiki/*.md`를 고치고, `notes.json`은 직접 작성하지 않는다.** 마지막에 `node scripts/build-notes.mjs`를 실행해 함께 커밋한다.
+> **대화 지식의 총합·증보 작업:** 먼저 [WIKI_PROTOCOL.md](./WIKI_PROTOCOL.md)를 읽는다. **글을 수정할 때는 `wiki/*.md`를 고치고, `notes.json`은 직접 작성하지 않는다.** 생성물(`notes.json`, AI 색인, `llms.txt`)은 `main`에 커밋되면 GitHub Actions가 자동으로 재생성·커밋·배포하므로 직접 만들지 않는다. **브랜치·PR을 만들지 말고 `main`에 직접 커밋한다.**
 
 이 저장소는 https://belorin.github.io 에 게시되는 공개 개인 위키다. 사용자의 대화를 주제별로 연결하고 갱신한다.
 
@@ -28,8 +28,8 @@
 5. 신규 문서가 공개 사이트에 나타나야 하면 `publish:true` 및 고유한 `order`를 지정한다. 비공개 검토 원고는 `publish:false`로 둔다.
 6. **새로 쓰는 문서**에서 '대화에서는', '사용자가 물었다', 'AI가 답했다' 등 원본을 소개하는 서술을 쓰지 않고, 개념·논증·사례를 독립된 저술처럼 작성한다. 출처의 처리 정보는 본문 밖 편집 장부에 기록한다. 이전 원고는 이번 변경에서 건드리지 않는다.
 7. 집필 후 해당 배치의 **공개 가능한 지식 표제와 반영 문서·절, 보류 항목**을 `editorial/ingestions/`에 기록한다. 기존의 같은 배치·지식이 있으면 중복 생성하지 않는다. 실제 대화 ID를 꾸며내지 않는다.
-8. `node scripts/build-notes.mjs` → `node scripts/build-ai-index.mjs` → 두 생성기의 `--check` → `node scripts/validate-editorial.mjs` → `node scripts/validate-crosslinks.mjs` → `node scripts/test-crosslinks.mjs` 순으로 검증한다. 원고·manifest·관계 정본·생성 JSON·AI 색인·편집 장부를 **같은 커밋**으로 반영한다. CI는 동기화 오류만 검증하며 자동으로 게시물을 수정하지 않는다.
-9. 사용자가 명시적으로 요청하지 않는 한 사이트의 기존 해시 URL(`/#문서-id`), GitHub Pages 브랜치 배포, `.nojekyll`을 유지한다.
+8. 원고·manifest·관계 정본·편집 장부를 **`main`에 직접 커밋**한다. 여러 파일을 한 커밋에 쓸 수 없으면 `wiki/*.md` → `wiki/manifest.json`·`wiki/relations.json` → 편집 장부 순으로 나눠 커밋해도 된다. 생성물(`notes.json`, `AI_INDEX.md`, `ai/*`, `llms.txt`)은 쓰지 않는다. `.github/workflows/deploy-pages.yml`이 매 커밋마다 생성·검증한 뒤 생성물을 `main`에 자동 커밋하고 사이트를 배포한다. 검증이 실패하면 배포되지 않고 직전 사이트가 유지되므로, 결과는 저장소의 Actions 탭에서 확인한다. 로컬에서 Node를 실행할 수 있다면 커밋 전에 `node scripts/build-notes.mjs` → `node scripts/build-ai-index.mjs` → `node scripts/validate-editorial.mjs` → `node scripts/validate-crosslinks.mjs` → `node scripts/test-crosslinks.mjs`로 미리 확인할 수 있다.
+9. 사용자가 명시적으로 요청하지 않는 한 사이트의 기존 해시 URL(`/#문서-id`)와 `.nojekyll`을 유지한다. 게시는 GitHub Actions 배포(Pages Source: GitHub Actions)로 한다.
 10. API 키, 토큰, 민감 정보, 원문 대화 전문·발화 인용·공유 URL·대화 ID를 공개 저장소에 넣지 않는다. 비공개 내용은 제목조차 기록하지 않고 필요하면 비공개 처리 개수만 남긴다.
 
 ## 서술 목적

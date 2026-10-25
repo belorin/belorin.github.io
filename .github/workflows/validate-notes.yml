@@ -1,11 +1,13 @@
 name: Validate generated website notes
 on:
   push:
+    branches-ignore: [main]
     paths:
       - "wiki/**"
       - "notes.json"
       - "editorial/**"
       - "scripts/build-notes.mjs"
+      - ".github/workflows/deploy-pages.yml"
       - "scripts/build-ai-index.mjs"
       - "ai/**"
       - "AI_INDEX.md"
@@ -26,6 +28,7 @@ on:
       - "notes.json"
       - "editorial/**"
       - "scripts/build-notes.mjs"
+      - ".github/workflows/deploy-pages.yml"
       - "scripts/build-ai-index.mjs"
       - "ai/**"
       - "AI_INDEX.md"
@@ -50,8 +53,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
-      - run: node scripts/build-notes.mjs --check
-      - run: node scripts/build-ai-index.mjs --check
+      # 생성물은 커밋하지 않아도 된다: CI에서 생성한 뒤 검증한다 (main 배포는 deploy-pages.yml).
+      - run: node scripts/build-notes.mjs
+      - run: node scripts/build-ai-index.mjs
       - run: node scripts/validate-editorial.mjs
       - run: node scripts/test-editorial.mjs
       - run: node scripts/validate-crosslinks.mjs
