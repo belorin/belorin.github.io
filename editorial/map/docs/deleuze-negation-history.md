@@ -8,6 +8,7 @@
 - 태그: 차이와 반복, 부정, 문제, 역사, 헤겔, 긍정
 - 수정일: 2026-10-25 · 실제 증보일: 2026-10-25 · 검토: needs_review
 - 관련 문서: `deleuze-becoming-new`, `deleuze-control-marx-future`, `deleuze-number-intensity-spatium`, `hegel-fichte-schelling-difference`, `deleuze-unthinkable-fold-thought`, `freud-before-anti-oedipus`
+- 이 문서를 근거로 쓴 종합: `where-novelty-comes-from`
 
 ## 절 목차
 

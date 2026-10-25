@@ -8,6 +8,7 @@
 - 태그: 편집 원칙, 정보 보존, 근거, AI 협업, 검증
 - 수정일: 2026-10-26 · 실제 증보일: 2026-10-26 · 검토: needs_review
 - 관련 문서: `living-notes`, `open-questions`, `wiki-building-history`, `wiki-operations-pipeline`, `gpt-wiki-zero-prototype`
+- 이 문서를 근거로 쓴 종합: `where-novelty-comes-from`
 
 ## 절 목차
 

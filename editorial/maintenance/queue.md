@@ -4,9 +4,9 @@
 
 마지막 정비: 없음 · 다음 정비 버전: **M001** (첫 정비이므로 모든 문서가 변경 문서로 잡힌다)
 
-원고 129개 · 변경 문서 129 · 고립 14 · 한쪽 연결 78 · 보류 3 · 열린 교차 제안 7
+원고 130개 · 변경 문서 130 · 고립 15 · 한쪽 연결 89 · 보류 3 · 열린 교차 제안 7
 
-## 1. 지난 정비 이후 변경된 문서 (129)
+## 1. 지난 정비 이후 변경된 문서 (130)
 
 첫 정비이므로 전체 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
@@ -24,17 +24,17 @@
 - **기술·지식 아카이브** (2): `credit-observation-archive`, `book-preview-credit-sourcing`
 - **미분류** (2): `ai-mediated-human-change`, `circus-music-history`
 - **자연과 과학** (2): `bird-vocalization-sparrow`, `climate-population-villain-logic`
+- **종합** (2): `replay-ladder-human-performance`, `where-novelty-comes-from`
 - **문학** (1): `anne-carson-nobel-first-reactions`
 - **문화** (1): `music-books-supply-attention`
 - **소설** (1): `climate-breath-fiction`
 - **언어** (1): `romp-etymology`
 - **정보와 미디어** (1): `information-hype-wow-index`
-- **종합** (1): `replay-ladder-human-performance`
 - **질문** (1): `open-questions`
 - **창작** (1): `gut-cosmic-horror-worldbuilding`
 - **철학·심리** (1): `freud-dreams-modern-science`
 
-## 2. 들어오는 연결이 없는 문서 (14)
+## 2. 들어오는 연결이 없는 문서 (15)
 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
@@ -52,8 +52,9 @@
 - `dwar-netflix-revival` 《디워》의 2026년 넷플릭스 역주행: 플랫폼 내부 확산과 외부 바이럴
 - `replay-ladder-human-performance` 재생 사다리: 기술 전환은 인간 수행의 가치를 어디로 옮기는가
 - `jewish-messianic-claimants-kabbalah` 유대교의 수많은 메시아들: 중세의 구원 운동에서 카발라와 샤브타이 츠비까지
+- `where-novelty-comes-from` 새로움은 어디서 오는가: 다시 도는 형식, 다시 세운 문제, 식지 않은 차이 · 미게시
 
-## 3. 한쪽에서만 건 관련 문서 (78)
+## 3. 한쪽에서만 건 관련 문서 (89)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -135,6 +136,17 @@
 - `replay-ladder-human-performance` → `ai-capital-labor-distribution`
 - `replay-ladder-human-performance` → `ai-transition-policy-gap`
 - `replay-ladder-human-performance` → `open-questions`
+- `where-novelty-comes-from` → `living-notes`
+- `where-novelty-comes-from` → `open-questions`
+- `where-novelty-comes-from` → `editing-principles`
+- `where-novelty-comes-from` → `deleuze-negation-history`
+- `where-novelty-comes-from` → `deleuze-becoming-new`
+- `where-novelty-comes-from` → `deleuze-number-intensity-spatium`
+- `where-novelty-comes-from` → `deleuze-unthinkable-fold-thought`
+- `where-novelty-comes-from` → `post-deleuze-novelty-thinkers`
+- `where-novelty-comes-from` → `jazz-dialogue`
+- `where-novelty-comes-from` → `jazz-live-quartet-case`
+- `where-novelty-comes-from` → `jazz-ensemble-labor`
 
 ## 4. 관련 문서가 없는 문서 (14)
 
@@ -195,10 +207,10 @@
 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
-- 긴 문서 (9): `wiki-building-history` 15,142자, `wiki-operations-pipeline` 12,147자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `ai-capital-labor-distribution` 11,322자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `korea-dance-musical-tours` 10,337자, `stalking-harm-and-autonomy` 10,033자
+- 긴 문서 (10): `wiki-building-history` 15,142자, `wiki-operations-pipeline` 12,147자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `ai-capital-labor-distribution` 11,322자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `korea-dance-musical-tours` 10,337자, `where-novelty-comes-from` 10,125자, `stalking-harm-and-autonomy` 10,033자
 - 짧은 문서 (7): `double-bass` 1,227자, `deleuze-cartography-future` 1,291자, `electric-bass` 1,325자, `rhythm-section` 1,383자, `big-band` 1,400자, `jazz-listening` 1,435자, `drum-kit` 1,481자
 
 ## 9. 분류 참고
 
-분류 23개: 음악 36, AI와 사회 18, 문화와 역사 17, 사회와 제도 12, 철학 11, 운영 5, 독서 문화 3, 영화 3, 정치경제 3, 생명과학 3, 철학·사상사 3, 미분류 2, 자연과 과학 2, 기술·지식 아카이브 2, 질문 1, 언어 1, 문학 1, 문화 1, 창작 1, 철학·심리 1, 종합 1, 정보와 미디어 1, 소설 1
-문서가 하나뿐인 분류 9개: 질문, 언어, 문학, 문화, 창작, 철학·심리, 종합, 정보와 미디어, 소설. 분류 체계 변경은 제안만 한다.
+분류 23개: 음악 36, AI와 사회 18, 문화와 역사 17, 사회와 제도 12, 철학 11, 운영 5, 독서 문화 3, 영화 3, 정치경제 3, 생명과학 3, 철학·사상사 3, 미분류 2, 자연과 과학 2, 기술·지식 아카이브 2, 종합 2, 질문 1, 언어 1, 문학 1, 문화 1, 창작 1, 철학·심리 1, 정보와 미디어 1, 소설 1
+문서가 하나뿐인 분류 8개: 질문, 언어, 문학, 문화, 창작, 철학·심리, 정보와 미디어, 소설. 분류 체계 변경은 제안만 한다.
