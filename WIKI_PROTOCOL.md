@@ -156,7 +156,7 @@
 
 - **정본:** 본문은 `wiki/<id>.md`가 유일한 정본이다. 메타데이터는 `wiki/manifest.json`이 유일한 정본이며 본문을 복제하지 않는다. 의미 관계는 `wiki/relations.json`이다.
 - **원고 형식:** 첫 줄은 `# 제목`이다. 사이트 렌더러가 지원하는 단락, `##`~`####` 소제목, 목록, 강조, 인라인 코드, 링크, 표만 쓴다. 다른 원고는 `./<id>.md`로 링크한다.
-- **manifest:** 새 문서는 등록하고, 증보로 연결이 생기면 관련 문서들의 `related`도 함께 갱신한다. `id`는 소문자 영문·숫자·하이픈으로 고유하게 짓는다. `related`와 내부 링크는 실제 게시 문서를 가리켜야 한다. 사이트에 보이려면 `publish: true`와 고유한 `order`를, 비공개 검토 원고는 `publish: false`를 지정한다. 게시 여부 변경은 별도의 편집 결정이다.
+- **manifest:** 새 문서는 등록하고, 증보로 연결이 생기면 관련 문서들의 `related`도 함께 갱신한다. `id`는 소문자 영문·숫자·하이픈으로 고유하게 짓는다. `related`와 내부 링크는 실제 게시 문서를 가리켜야 한다. 사이트에 보이려면 `publish: true`를, 비공개 검토 원고는 `publish: false`를 지정한다. `order`는 정렬용이며 가장 큰 번호 다음 수를 쓰면 된다(겹쳐도 빌드는 실패하지 않는다). 게시 여부 변경은 별도의 편집 결정이다.
 - **색인 필드:** `aliases`는 검토된 검색용 별칭이며 중복될 수 없다. `updated`는 수정일, `last_enriched_on`은 **실제로 지식을 증보한 날짜**만 적고 모르면 `null`로 둔다. 두 날짜를 같다고 추정하지 않는다. `review_state`는 `unassessed`, `needs_review`, `reviewed` 중 하나이며 `reviewed`는 실제 검토 뒤에만 쓴다. 기존 `status` 문장은 유지한다.
 - **커밋:** **브랜치나 PR을 만들지 않고 `main`에 직접 커밋한다.** 여러 파일을 한 커밋에 쓸 수 없으면 원고 → manifest·관계 정본 → 장부 순으로 나눈다. **생성물은 쓰지 않는다:** `notes.json`, `AI_INDEX.md`, `ai/*`, `llms.txt`, `editorial/map/*`, `editorial/maintenance/queue.md`. GitHub Actions가 커밋마다 생성·검증한 뒤 생성물을 자동 커밋하고 사이트를 배포한다. 검증이 실패하면 배포되지 않고 직전 사이트가 유지되므로 Actions 탭에서 결과를 확인한다. 원고와 생성물을 따로 고쳐 어긋나게 만들지 않는다.
 - **로컬 확인:** Node를 실행할 수 있으면 커밋 전에 `node scripts/build-notes.mjs`, `build-ai-index.mjs`, `build-wiki-map.mjs`, `validate-editorial.mjs`, `validate-crosslinks.mjs`, `test-crosslinks.mjs`로 미리 확인할 수 있다. 기계 검증은 형식을 보증할 뿐 의미상 정보 손실이 없음을 입증하지 않는다.

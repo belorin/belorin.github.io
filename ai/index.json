@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 127,
+  "document_count": 132,
   "documents": [
     {
       "id": "living-notes",
@@ -4222,6 +4222,178 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/starcraft-pluto-ai.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/starcraft-pluto-ai.md",
       "page_url": "https://belorin.github.io/#starcraft-pluto-ai"
+    },
+    {
+      "id": "ryukyu-disposition-qing-japan",
+      "title": "전쟁 없이 사라진 왕국: 1872~1880년 류큐 처분과 청의 딜레마",
+      "aliases": [
+        "류큐 처분",
+        "류큐 병합 1879",
+        "오키나와 현 설치",
+        "琉球處分"
+      ],
+      "category": "문화와 역사",
+      "tags": [
+        "류큐 처분",
+        "오키나와현",
+        "청일관계",
+        "1879년",
+        "메이지",
+        "종주권"
+      ],
+      "summary": "류큐의 이중 종속, 1872년 번 편입부터 1879년 현 설치까지의 일본 행정 강제, 청의 군사적 선택과 1880년 분할안을 살핀다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 범위에서 총합·증보 · 상세 사료 대조 필요",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "qing-tributaries-dissolution",
+        "late-qing-yongying-daily-life"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ryukyu-disposition-qing-japan.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ryukyu-disposition-qing-japan.md",
+      "page_url": "https://belorin.github.io/#ryukyu-disposition-qing-japan"
+    },
+    {
+      "id": "east-asia-telegraph-network-1880s",
+      "title": "조선의 전보는 어떻게 도쿄에 도착했는가: 1871~1888년 동아시아 전신망의 세 단계",
+      "aliases": [
+        "조선 일본 전보 경로",
+        "부산 나가사키 해저전신선",
+        "서로전선 남로전선",
+        "한자 전보 부호"
+      ],
+      "category": "기술·지식 아카이브",
+      "tags": [
+        "조선 전신",
+        "해저전신",
+        "나가사키",
+        "부산",
+        "대북부전신회사",
+        "한자 전보",
+        "19세기 통신"
+      ],
+      "summary": "조선발 인편·선편과 일본 전신망의 연결, 1883년 부산 해저선, 1885년 서로전선, 1888년 남로전선 및 한자전보 부호를 추적한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 범위에서 총합·증보 · 상세 사료 대조 필요",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "great-northern-telegraph-east-asia",
+        "qing-tributaries-dissolution",
+        "late-qing-yongying-daily-life"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/east-asia-telegraph-network-1880s.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/east-asia-telegraph-network-1880s.md",
+      "page_url": "https://belorin.github.io/#east-asia-telegraph-network-1880s"
+    },
+    {
+      "id": "great-northern-telegraph-east-asia",
+      "title": "코펜하겐에서 나가사키까지: 대북부전신회사는 동아시아의 바다에 어떻게 전선을 놓았는가",
+      "aliases": [
+        "덴마크 대북부전신회사",
+        "Great Northern Telegraph Company",
+        "1871 나가사키 해저케이블",
+        "티에트겐 전신회사"
+      ],
+      "category": "기술·지식 아카이브",
+      "tags": [
+        "대북부전신회사",
+        "Great Northern Telegraph",
+        "해저케이블",
+        "티에트겐",
+        "나가사키",
+        "상하이",
+        "블라디보스토크"
+      ],
+      "summary": "덴마크 대북부전신회사의 러시아 양허·영국 협상·일본 육양 허가·부설선·케이블 기술과 1871~1872년 개통, 1883년 부산선의 사업사를 다룬다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 범위에서 총합·증보 · 상세 사료 대조 필요",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "east-asia-telegraph-network-1880s",
+        "qing-tributaries-dissolution"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/great-northern-telegraph-east-asia.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/great-northern-telegraph-east-asia.md",
+      "page_url": "https://belorin.github.io/#great-northern-telegraph-east-asia"
+    },
+    {
+      "id": "late-qing-yongying-daily-life",
+      "title": "청말 500명의 군영은 어떻게 움직였는가: 영·초·대의 조직과 하루",
+      "aliases": [
+        "청말 영 편제",
+        "505명 영",
+        "영 초 대",
+        "金州 72營"
+      ],
+      "category": "문화와 역사",
+      "tags": [
+        "청말",
+        "용영",
+        "상군",
+        "회군",
+        "영초대",
+        "군제",
+        "원세개"
+      ],
+      "summary": "1880년대 상군·회군식 505명 영의 편제와 무기·물류·지휘의 층위, 설명용 하루 일과, 원세개 '금주 72영' 동원 위협의 검증 경계를 구별한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 범위에서 총합·증보 · 상세 사료 대조 필요",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "qing-tributaries-dissolution",
+        "ryukyu-disposition-qing-japan",
+        "east-asia-telegraph-network-1880s"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/late-qing-yongying-daily-life.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/late-qing-yongying-daily-life.md",
+      "page_url": "https://belorin.github.io/#late-qing-yongying-daily-life"
+    },
+    {
+      "id": "qing-tributaries-dissolution",
+      "title": "마지막 속방의 소멸: 류큐·베트남·버마·조선에서 청의 종주권은 어떻게 무너졌는가",
+      "aliases": [
+        "청의 마지막 속방",
+        "조선 청 속방",
+        "청나라 속방 상실"
+      ],
+      "category": "문화와 역사",
+      "tags": [
+        "청말",
+        "속방",
+        "조공질서",
+        "류큐",
+        "베트남",
+        "버마",
+        "조선",
+        "종주권"
+      ],
+      "summary": "류큐의 행정 편입, 베트남의 프랑스 보호국화, 버마 병합, 조선의 청일전쟁과 네팔의 의례적 조공을 비교해 청의 속방 해체를 설명한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 범위에서 총합·증보 · 상세 사료 대조 필요",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "late-qing-yongying-daily-life",
+        "ryukyu-disposition-qing-japan",
+        "east-asia-telegraph-network-1880s"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/qing-tributaries-dissolution.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/qing-tributaries-dissolution.md",
+      "page_url": "https://belorin.github.io/#qing-tributaries-dissolution"
     }
   ]
 }

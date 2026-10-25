@@ -28,7 +28,7 @@ const buildOutputs=function buildOutputs(manifest,relationSource){
  const raw="https://raw.githubusercontent.com/belorin/belorin.github.io/main/";
  const gh="https://github.com/belorin/belorin.github.io/blob/main/";
  const site="https://belorin.github.io/";
- const docs=manifest.documents.filter(d=>d.publish===true).sort((a,b)=>a.order-b.order);
+ const docs=manifest.documents.filter(d=>d.publish===true).sort((a,b)=>(a.order??1e9)-(b.order??1e9));
  const ids=new Set(docs.map(d=>d.id));
  const allowed=new Set(["introduces","elaborates","illustrates","curates","contrasts","challenges","supports"]);
  const edgeKeys=new Set(),edges=[];

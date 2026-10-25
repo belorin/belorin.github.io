@@ -301,6 +301,15 @@
 - **[러다이트 처형자와 기억: 이름, 재판, 그리고 남겨진 기록](wiki/luddite-executions-memory.md)** · 별칭: 러다이트 처형자, 러다이트 사형자 명단, Luddite executions · 수정: 2026-10-26 · 검토: 대화 기반 집필 · 개인별 처형 명단과 인용 원문 검증 필요
   - 러다이트 관련 사형 선고와 집행의 차이, 인물별 명단 검증, 후기 봉기, 역사서 공개본과 번역 저작권의 쟁점.
   - [웹페이지](https://belorin.github.io/#luddite-executions-memory) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/luddite-executions-memory.md)
+- **[전쟁 없이 사라진 왕국: 1872~1880년 류큐 처분과 청의 딜레마](wiki/ryukyu-disposition-qing-japan.md)** · 별칭: 류큐 처분, 류큐 병합 1879, 오키나와 현 설치, 琉球處分 · 수정: 2026-10-26 · 검토: 대화 범위에서 총합·증보 · 상세 사료 대조 필요
+  - 류큐의 이중 종속, 1872년 번 편입부터 1879년 현 설치까지의 일본 행정 강제, 청의 군사적 선택과 1880년 분할안을 살핀다.
+  - [웹페이지](https://belorin.github.io/#ryukyu-disposition-qing-japan) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ryukyu-disposition-qing-japan.md)
+- **[청말 500명의 군영은 어떻게 움직였는가: 영·초·대의 조직과 하루](wiki/late-qing-yongying-daily-life.md)** · 별칭: 청말 영 편제, 505명 영, 영 초 대, 金州 72營 · 수정: 2026-10-26 · 검토: 대화 범위에서 총합·증보 · 상세 사료 대조 필요
+  - 1880년대 상군·회군식 505명 영의 편제와 무기·물류·지휘의 층위, 설명용 하루 일과, 원세개 '금주 72영' 동원 위협의 검증 경계를 구별한다.
+  - [웹페이지](https://belorin.github.io/#late-qing-yongying-daily-life) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/late-qing-yongying-daily-life.md)
+- **[마지막 속방의 소멸: 류큐·베트남·버마·조선에서 청의 종주권은 어떻게 무너졌는가](wiki/qing-tributaries-dissolution.md)** · 별칭: 청의 마지막 속방, 조선 청 속방, 청나라 속방 상실 · 수정: 2026-10-26 · 검토: 대화 범위에서 총합·증보 · 상세 사료 대조 필요
+  - 류큐의 행정 편입, 베트남의 프랑스 보호국화, 버마 병합, 조선의 청일전쟁과 네팔의 의례적 조공을 비교해 청의 속방 해체를 설명한다.
+  - [웹페이지](https://belorin.github.io/#qing-tributaries-dissolution) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/qing-tributaries-dissolution.md)
 
 ## 언어
 
@@ -400,6 +409,12 @@
 - **[온라인 서점 미리보기와 판권면 수집: 기술적 가능성과 허용 범위](wiki/book-preview-credit-sourcing.md)** · 별칭: 미리보기 크롤링, 판권면 OCR, 서점 도서정보 API · 수정: 2026-10-25 · 검토: 자료 수집 설계·서비스별 조건 미검증
   - 서점 상품정보·본문 발췌·미리보기 이미지를 구별하고 공식 메타데이터·출판사 샘플·수동 검수·제휴를 비교하는 판권면 수집 전략.
   - [웹페이지](https://belorin.github.io/#book-preview-credit-sourcing) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/book-preview-credit-sourcing.md)
+- **[조선의 전보는 어떻게 도쿄에 도착했는가: 1871~1888년 동아시아 전신망의 세 단계](wiki/east-asia-telegraph-network-1880s.md)** · 별칭: 조선 일본 전보 경로, 부산 나가사키 해저전신선, 서로전선 남로전선, 한자 전보 부호 · 수정: 2026-10-26 · 검토: 대화 범위에서 총합·증보 · 상세 사료 대조 필요
+  - 조선발 인편·선편과 일본 전신망의 연결, 1883년 부산 해저선, 1885년 서로전선, 1888년 남로전선 및 한자전보 부호를 추적한다.
+  - [웹페이지](https://belorin.github.io/#east-asia-telegraph-network-1880s) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/east-asia-telegraph-network-1880s.md)
+- **[코펜하겐에서 나가사키까지: 대북부전신회사는 동아시아의 바다에 어떻게 전선을 놓았는가](wiki/great-northern-telegraph-east-asia.md)** · 별칭: 덴마크 대북부전신회사, Great Northern Telegraph Company, 1871 나가사키 해저케이블, 티에트겐 전신회사 · 수정: 2026-10-26 · 검토: 대화 범위에서 총합·증보 · 상세 사료 대조 필요
+  - 덴마크 대북부전신회사의 러시아 양허·영국 협상·일본 육양 허가·부설선·케이블 기술과 1871~1872년 개통, 1883년 부산선의 사업사를 다룬다.
+  - [웹페이지](https://belorin.github.io/#great-northern-telegraph-east-asia) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/great-northern-telegraph-east-asia.md)
 
 ## 생명과학
 
