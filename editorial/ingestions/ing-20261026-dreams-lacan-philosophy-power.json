@@ -1,0 +1,429 @@
+{
+  "id": "ing-20261026-dreams-lacan-philosophy-power",
+  "processed_on": "2026-10-26",
+  "coverage": "visible-complete",
+  "limit_note": "현재 표시된 발화만 사용. 외부 문헌은 추가 조회하지 않았고 이전 답변의 연구·서지 주장들은 검토 필요.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "꿈 이론의 세 영역과 과학적 지위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "freud-dreams-modern-science",
+          "section": "꿈 해석이라는 이론과 꿈 연구라는 실험의 차이"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "꿈 망각과 기억 부호화 및 미세각성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "freud-dreams-modern-science",
+          "section": "꿈을 빨리 잊는 이유: 강한 체험과 약한 기억"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "REM·NREM과 현실감 및 자각몽",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "freud-dreams-modern-science",
+          "section": "꿈은 왜 현실인가: 내부 지각과 불안정한 현실검증"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "argument",
+      "title": "금기 경험과 꿈속 행위자성의 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "freud-dreams-modern-science",
+          "section": "금기를 어기는 꿈은 억압된 진짜 욕망인가"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "fact",
+      "title": "수면 기억·정서·TMR·AI 꿈 보고 분석",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "freud-dreams-modern-science",
+          "section": "기억, 정서, 창의성과 꿈 공학"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "fact",
+      "title": "악몽 치료와 정신역동적 꿈 작업",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "freud-dreams-modern-science",
+          "section": "치료실의 꿈과 악몽"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "concept",
+      "title": "무의식·자아·초자아·원초아의 현대적 해석",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "freud-dreams-modern-science",
+          "section": "이드·자아·초자아와 무의식은 지금 어디에 있는가"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "fact",
+      "title": "1960년대 라캉의 지성계·제도 영향력",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "lacan-anti-oedipus-history",
+          "section": "프랑스의 프로이트가 차지했던 실제 자리"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "argument",
+      "title": "1968년과 1972년 안티 오이디푸스의 비판 대상",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "lacan-anti-oedipus-history",
+          "section": "1968년에서 1972년으로: 무의식은 극장이 아니라 공장"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "concept",
+      "title": "라캉의 상징계·기표·거세·대타자와 대상 a",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "lacan-anti-oedipus-history",
+          "section": "라캉을 읽어야 할 최소 개념"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "curation",
+      "title": "핑크·에번스·라캉·도르·지젝·뷰캐넌 독서 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "lacan-anti-oedipus-history",
+          "section": "『안티 오이디푸스』 앞에 놓을 책들"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "curation",
+      "title": "프로이트 입문서와 라캉 입문서의 목적 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "freud-before-anti-oedipus",
+          "section": "1972년을 위한 라캉 독서: 프로이트 원전을 대신하는 것이 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "fact",
+      "title": "1980년대 학파 해산과 상속",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "lacan-anti-oedipus-history",
+          "section": "1980년대: 사후 상속과 제도적 분열"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "fact",
+      "title": "1990년대 지젝·세계적 라캉 수용",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "lacan-anti-oedipus-history",
+          "section": "1990년대: 국제적 라캉과 지젝"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "fact",
+      "title": "2000년대 정신분석 근거중심 치료 논쟁",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "lacan-anti-oedipus-history",
+          "section": "2000년대: 정신분석의 과학적 권위가 공격받다"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "fact",
+      "title": "2010년대 뇌·DSM·RDoC·트라우마·정동",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "lacan-anti-oedipus-history",
+          "section": "2010년대: 진단, 뇌, 행동, 트라우마, 정동"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "fact",
+      "title": "2020년대 앱·AI·자기진단·새 치료 언어",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "lacan-anti-oedipus-history",
+          "section": "2020년대: 플랫폼화된 정신건강과 대중 심리 어휘"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "concept",
+      "title": "체계 구축의 범위·깊이·독창성·수용사 기준",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "philosophical-systems-after-2000",
+          "section": "정전이 되기 위한 조건: 책의 건축성과 수용의 권력"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "curation",
+      "title": "2010년대 정동·물질·인류세·플랫폼 주요 저서",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "philosophical-systems-after-2000",
+          "section": "2010년대의 강한 책들과 왜 여전히 헐겁게 느껴질 수 있는가"
+        }
+      ]
+    },
+    {
+      "id": "k20",
+      "kind": "curation",
+      "title": "바디우의 집합론적 존재론 3부작",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "philosophical-systems-after-2000",
+          "section": "바디우: 수학을 존재론으로 삼아 진리를 다시 세우기"
+        }
+      ]
+    },
+    {
+      "id": "k21",
+      "kind": "curation",
+      "title": "슬로터다이크의 공간·면역·구체 존재론",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "philosophical-systems-after-2000",
+          "section": "슬로터다이크: 존재를 시간 대신 공간·면역·거주로 읽기"
+        }
+      ]
+    },
+    {
+      "id": "k22",
+      "kind": "curation",
+      "title": "지젝·브랜덤의 헤겔 재구축",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "philosophical-systems-after-2000",
+          "section": "헤겔을 다시 발명하는 지젝과 브랜덤"
+        }
+      ]
+    },
+    {
+      "id": "k23",
+      "kind": "concept",
+      "title": "라뤼엘 비철학의 방법",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "philosophical-systems-after-2000",
+          "section": "라뤼엘: 철학 자체를 재료로 바꾸는 비철학"
+        }
+      ]
+    },
+    {
+      "id": "k24",
+      "kind": "curation",
+      "title": "스티글레르·위크 후이의 기술적 존재론",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "philosophical-systems-after-2000",
+          "section": "기술과 인간을 한꺼번에 재구성하기: 스티글레르와 위크 후이"
+        }
+      ]
+    },
+    {
+      "id": "k25",
+      "kind": "curation",
+      "title": "네가레스타니·카트렌의 지성·형이상학",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "philosophical-systems-after-2000",
+          "section": "네가레스타니와 카트렌: 기괴한 지성의 새 엔진"
+        }
+      ]
+    },
+    {
+      "id": "k26",
+      "kind": "curation",
+      "title": "네일의 운동 존재론과 브래튼의 스택",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "philosophical-systems-after-2000",
+          "section": "토머스 네일: 존재론의 처음에 운동을 놓다"
+        }
+      ]
+    },
+    {
+      "id": "k27",
+      "kind": "curation",
+      "title": "2020년대 정전 후보와 책의 체급 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "philosophical-systems-after-2000",
+          "section": "2020년대 신간의 경전 후보와 실제 차이"
+        }
+      ]
+    },
+    {
+      "id": "k28",
+      "kind": "argument",
+      "title": "거대서사 쇠퇴와 철학적 정전 생태계의 분산",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "philosophical-systems-after-2000",
+          "section": "거대서사가 사라졌는가, 그것을 만들어 내는 생태계가 분할되었는가"
+        }
+      ]
+    },
+    {
+      "id": "k29",
+      "kind": "concept",
+      "title": "사상권력의 다섯 측면과 서로 다른 기준",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "contemporary-intellectual-power",
+          "section": "사상권력의 다섯 측면"
+        }
+      ]
+    },
+    {
+      "id": "k30",
+      "kind": "fact",
+      "title": "AI 안전·효과적 이타주의·장기주의의 정책·재정 권력",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "contemporary-intellectual-power",
+          "section": "AI 안전·효과적 이타주의·장기주의"
+        }
+      ]
+    },
+    {
+      "id": "k31",
+      "kind": "fact",
+      "title": "젠더·퀴어 이론의 반발과 수용",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "contemporary-intellectual-power",
+          "section": "버틀러 이후 젠더·퀴어 이론"
+        }
+      ]
+    },
+    {
+      "id": "k32",
+      "kind": "fact",
+      "title": "CRT·DEI·탈식민화 제도적 논쟁",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "contemporary-intellectual-power",
+          "section": "CRT·DEI·탈식민화의 제도적 충돌"
+        }
+      ]
+    },
+    {
+      "id": "k33",
+      "kind": "fact",
+      "title": "정동·신유물론·포스트휴먼의 대학 내부 영향",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "contemporary-intellectual-power",
+          "section": "정동·신유물론·포스트휴먼의 대학원 권력"
+        }
+      ]
+    },
+    {
+      "id": "k34",
+      "kind": "fact",
+      "title": "탈성장·도넛 경제학과 도시정책",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "contemporary-intellectual-power",
+          "section": "탈성장·도넛 경제학과 정책적 권위"
+        }
+      ]
+    },
+    {
+      "id": "k35",
+      "kind": "argument",
+      "title": "단일 철학자와 여러 사회 권력의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "contemporary-intellectual-power",
+          "section": "한 명의 라캉을 선발하지 않는 이유"
+        }
+      ]
+    }
+  ]
+}
