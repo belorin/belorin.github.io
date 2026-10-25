@@ -295,3 +295,9 @@
 - **[앤 카슨의 2026년 노벨문학상 수상 반응: ‘미쳤다’와 독자가 작품을 만나는 경로](wiki/anne-carson-nobel-first-reactions.md)** · 별칭: 앤 카슨 노벨상 인터뷰, Anne Carson Nobel reaction, 앤 카슨 미쳤다, Anne Carson crazy, 문학 작품의 발견 · 수정: 2026-10-24 · 검토: 2026년 수상 직후 보도 재인용 · RÚV 영상·영어 축어록 원문 재대조 필요
   - 앤 카슨의 노벨문학상 수상 직후 'crazy' 반응과 독자들이 작품을 접하고 읽게 되는 경로에 관한 발언을 인터뷰별로 구분하고, 원문·의역·편집상 독해의 경계를 정리한다.
   - [웹페이지](https://belorin.github.io/#anne-carson-nobel-first-reactions) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/anne-carson-nobel-first-reactions.md)
+
+## 자연과 과학
+
+- **[새소리는 어디까지 번역되었는가: 행동 신호에서 참새의 짹짹까지](wiki/bird-vocalization-sparrow.md)** · 별칭: 새소리 번역, 새의 언어, 참새 울음소리, 참새어, 조류 의사소통 · 수정: 2026-10-25 · 검토: 대화 내부의 연구 소개 총합 · 논문별 세부 분류·수치 재검증 필요
+  - 종 인식·발성 유형·행동 신호·인간 언어 번역의 차이를 일본박새·금화조·한국 참새 연구로 검토하고, 참새 아홉 유형과 도시 소음 연구의 검증 경계를 정리한다.
+  - [웹페이지](https://belorin.github.io/#bird-vocalization-sparrow) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/bird-vocalization-sparrow.md)

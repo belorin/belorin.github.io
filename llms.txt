@@ -129,3 +129,7 @@
 ### 문학
 
 - [앤 카슨의 2026년 노벨문학상 수상 반응: ‘미쳤다’와 독자가 작품을 만나는 경로](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/anne-carson-nobel-first-reactions.md): 앤 카슨의 노벨문학상 수상 직후 'crazy' 반응과 독자들이 작품을 접하고 읽게 되는 경로에 관한 발언을 인터뷰별로 구분하고, 원문·의역·편집상 독해의 경계를 정리한다.
+
+### 자연과 과학
+
+- [새소리는 어디까지 번역되었는가: 행동 신호에서 참새의 짹짹까지](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/bird-vocalization-sparrow.md): 종 인식·발성 유형·행동 신호·인간 언어 번역의 차이를 일본박새·금화조·한국 참새 연구로 검토하고, 참새 아홉 유형과 도시 소음 연구의 검증 경계를 정리한다.

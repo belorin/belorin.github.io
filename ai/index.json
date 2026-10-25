@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 85,
+  "document_count": 86,
   "documents": [
     {
       "id": "living-notes",
@@ -2776,6 +2776,39 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-transition-policy-gap.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-transition-policy-gap.md",
       "page_url": "https://belorin.github.io/#ai-transition-policy-gap"
+    },
+    {
+      "id": "bird-vocalization-sparrow",
+      "title": "새소리는 어디까지 번역되었는가: 행동 신호에서 참새의 짹짹까지",
+      "aliases": [
+        "새소리 번역",
+        "새의 언어",
+        "참새 울음소리",
+        "참새어",
+        "조류 의사소통"
+      ],
+      "category": "자연과 과학",
+      "tags": [
+        "새소리",
+        "동물 의사소통",
+        "참새",
+        "Passer montanus",
+        "조류 발성",
+        "BirdNET",
+        "일본박새",
+        "금화조"
+      ],
+      "summary": "종 인식·발성 유형·행동 신호·인간 언어 번역의 차이를 일본박새·금화조·한국 참새 연구로 검토하고, 참새 아홉 유형과 도시 소음 연구의 검증 경계를 정리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 내부의 연구 소개 총합 · 논문별 세부 분류·수치 재검증 필요",
+      "last_updated_on": "2026-10-25",
+      "last_enriched_on": "2026-10-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/bird-vocalization-sparrow.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/bird-vocalization-sparrow.md",
+      "page_url": "https://belorin.github.io/#bird-vocalization-sparrow"
     }
   ]
 }

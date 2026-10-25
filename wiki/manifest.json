@@ -2736,6 +2736,38 @@
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-24"
+    },
+    {
+      "path": "wiki/bird-vocalization-sparrow.md",
+      "publish": true,
+      "order": 85,
+      "id": "bird-vocalization-sparrow",
+      "title": "새소리는 어디까지 번역되었는가: 행동 신호에서 참새의 짹짹까지",
+      "category": "자연과 과학",
+      "status": "대화 내부의 연구 소개 총합 · 논문별 세부 분류·수치 재검증 필요",
+      "updated": "2026-10-25",
+      "summary": "종 인식·발성 유형·행동 신호·인간 언어 번역의 차이를 일본박새·금화조·한국 참새 연구로 검토하고, 참새 아홉 유형과 도시 소음 연구의 검증 경계를 정리한다.",
+      "tags": [
+        "새소리",
+        "동물 의사소통",
+        "참새",
+        "Passer montanus",
+        "조류 발성",
+        "BirdNET",
+        "일본박새",
+        "금화조"
+      ],
+      "source": "내부 총합 · 현재 보이는 대화 범위 · 외부 추가 조사 없음 · 일부 논문 분류와 지역 연구 주장 재검증 필요",
+      "related": [],
+      "aliases": [
+        "새소리 번역",
+        "새의 언어",
+        "참새 울음소리",
+        "참새어",
+        "조류 의사소통"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
     }
   ]
 }
