@@ -1,0 +1,153 @@
+{
+  "id": "ing-20261026-jewish-messianism-kabbalah",
+  "processed_on": "2026-10-26",
+  "coverage": "visible-complete",
+  "limit_note": "현재 화면에서 접근 가능한 역사 질문과 답변 범위만 처리함 · 다른 채팅과 원서 본문·사료의 접근은 보장되지 않음 · 외부 추가 조사 없음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k1",
+      "kind": "concept",
+      "title": "메시아 참칭자·선구자·예언자·카발라 신비가의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "jewish-messianic-claimants-kabbalah",
+          "section": "메시아·선구자·예언자·카발라 신비가는 같은 사람인가"
+        }
+      ]
+    },
+    {
+      "id": "k2",
+      "kind": "example",
+      "title": "고대 후기 크레타의 모세와 출애굽 재연의 전승",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "jewish-messianic-claimants-kabbalah",
+          "section": "중세 이전의 선행 사례: 크레타의 모세"
+        }
+      ]
+    },
+    {
+      "id": "k3",
+      "kind": "curation",
+      "title": "아부 이사·유드간·세레네의 해방·율법 개혁·예언 운동",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "jewish-messianic-claimants-kabbalah",
+          "section": "7~8세기 페르시아와 시리아: 무장 해방자와 율법 개혁자"
+        }
+      ]
+    },
+    {
+      "id": "k4",
+      "kind": "curation",
+      "title": "11세기 말~12세기 익명 사례·다비드 알로이·예멘 메시아와 「예멘 서간」",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "jewish-messianic-claimants-kabbalah",
+          "section": "11~12세기: 십자군기의 불안, 알로이의 반란, 예멘의 경고"
+        }
+      ]
+    },
+    {
+      "id": "k5",
+      "kind": "concept",
+      "title": "아불라피아·니심 벤 아브라함과 예언적 카발라·도래 연도 예고",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "jewish-messianic-claimants-kabbalah",
+          "section": "13세기 말: 아브라함 아불라피아와 예언적 카발라"
+        }
+      ]
+    },
+    {
+      "id": "k6",
+      "kind": "curation",
+      "title": "모세 보타렐·아셰르 렘라인·다비드 르우베니·솔로몬 몰코의 유형과 시대 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "jewish-messianic-claimants-kabbalah",
+          "section": "15~16세기: 중세 말의 신비가와 근세 초의 구원 열망"
+        }
+      ]
+    },
+    {
+      "id": "k7",
+      "kind": "counterargument",
+      "title": "루리아·비탈의 카발라 구원론과 직접 메시아 자칭 주장의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "jewish-messianic-claimants-kabbalah",
+          "section": "사페드의 카발라: 이삭 루리아와 하임 비탈을 어디에 넣을까"
+        }
+      ]
+    },
+    {
+      "id": "k8",
+      "kind": "example",
+      "title": "1666년 샤브타이 츠비의 메시아 운동과 이슬람 개종",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "jewish-messianic-claimants-kabbalah",
+          "section": "17세기 샤브타이 츠비: 중세의 반복이 대규모 운동으로 변할 때"
+        }
+      ]
+    },
+    {
+      "id": "k9",
+      "kind": "example",
+      "title": "야코프 프랑크와 샤브타이 이후 메시아주의의 변형",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "jewish-messianic-claimants-kabbalah",
+          "section": "18세기 야코프 프랑크: 메시아 운동의 후속 변형"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "curation",
+      "title": "시대·인물·구원 운동 성격을 대조하는 간략 연표",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "jewish-messianic-claimants-kabbalah",
+          "section": "대표 인물의 간략 연표와 분류"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "argument",
+      "title": "모든 세기라는 수사·연대별 증거 불균등·공동체의 권위 부여 기준",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "jewish-messianic-claimants-kabbalah",
+          "section": "'모든 세기의 메시아'라는 표현을 읽는 세 가지 기준"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "question",
+      "title": "서지·개별 전승·메시아 자칭 여부의 재검증 필요성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "jewish-messianic-claimants-kabbalah",
+          "section": "자료 범위와 검토할 문제"
+        }
+      ]
+    }
+  ]
+}
