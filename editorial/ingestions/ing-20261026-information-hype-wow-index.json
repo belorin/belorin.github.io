@@ -1,0 +1,141 @@
+{
+  "id": "ing-20261026-information-hype-wow-index",
+  "processed_on": "2026-10-26",
+  "coverage": "visible-complete",
+  "limit_note": "이 창에 실제로 접근 가능한 정보 과잉의 문제제기, 점수 체계와 프롬프트 설계, 링크·캡처 평가 및 전용 GPT 구상까지만 처리. 실제 기사 자료나 제품 동작은 외부 재검증하지 않음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "정보 피로에서 정보의 무게와 반응의 간격을 분리하는 문제 설정",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "information-hype-wow-index",
+          "section": "정보의 속도보다 괴로운 것은 중요도의 혼란이다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "실질 중요도·와우·확성의 정의와 최초 세부 배점",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "information-hype-wow-index",
+          "section": "놀라움·중요도·유통 강도는 같지 않다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "과열 차수와 호들갑 순도 및 은밀한 중요도의 서로 다른 산식",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "information-hype-wow-index",
+          "section": "과열 차수의 산식과 이름"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "임의 점수 구간과 중요도·확성 기준의 네 유형",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "information-hype-wow-index",
+          "section": "과열 구간과 네 가지 정보 유형"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "example",
+      "title": "유명인 금리 전쟁 징후 AI 기사 가상 점수와 산식 수정",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "information-hype-wow-index",
+          "section": "시험 점수가 보여 주는 것과 초안의 계산 혼선"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "concept",
+      "title": "링크 캡처 썸네일 PDF 입력과 정보 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "information-hype-wow-index",
+          "section": "기사 링크만이 아니라 캡처 한 장도 입력이 된다"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "concept",
+      "title": "전용 커스텀 GPT와 프로젝트 사용 구조",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "information-hype-wow-index",
+          "section": "프롬프트를 전용 도구로 고정하기"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "other",
+      "title": "입력 자동 분석을 위한 고정 평가 지침과 출력 형식",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "information-hype-wow-index",
+          "section": "설정란에 넣을 평가 지침 초안"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "question",
+      "title": "주의력 재배치를 위한 다섯 질문과 검증 과제",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "information-hype-wow-index",
+          "section": "결국 정보 다이어트는 주의력의 재배치다"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "argument",
+      "title": "문화 공급 과잉에서 뉴스 중요도 판단으로의 확장",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "music-books-supply-attention",
+          "section": "서로 다른 두 과잉의 역사"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "question",
+      "title": "뉴스의 본래 충격과 유통 과장의 측정 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "open-questions",
+          "section": "무엇이 중요한 질문인가"
+        }
+      ]
+    }
+  ]
+}

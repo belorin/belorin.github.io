@@ -75,7 +75,7 @@
       "title": "이 위키가 앞으로 답해야 할 질문",
       "category": "질문",
       "status": "열린 연구 질문",
-      "updated": "2026-10-23",
+      "updated": "2026-10-26",
       "summary": "중요한 문제의 선택, 반복과 개별성, AI의 통제력과 공감, 기술·노동·미래·역사와 지식 조직을 가로지르는 미해결 연구 문제.",
       "tags": [
         "질문",
@@ -97,13 +97,14 @@
         "silent-film-musician-labor",
         "circus-music-questions",
         "ai-economic-transition",
-        "ai-capital-labor-distribution"
+        "ai-capital-labor-distribution",
+        "information-hype-wow-index"
       ],
       "aliases": [
         "열린 질문"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-23"
+      "last_enriched_on": "2026-10-26"
     },
     {
       "path": "wiki/jazz-to-ai.md",
@@ -2802,7 +2803,7 @@
       "title": "음악과 책의 공급 폭발: 한 사람의 귀와 눈은 얼마나 따라갈 수 있는가",
       "category": "문화",
       "status": "대화 내부 추정·검토 필요",
-      "updated": "2026-10-25",
+      "updated": "2026-10-26",
       "summary": "음악과 종이책의 역사적 생산량, 개인 소비시간, AI 공급, 차트 집중과 큐레이션을 비교하며 관측과 추정의 경계를 검토한다.",
       "tags": [
         "음악 생산량",
@@ -2815,14 +2816,15 @@
       "source": "내부 총합·외부 미검증",
       "related": [
         "living-notes",
-        "mood-led-music-listening"
+        "mood-led-music-listening",
+        "information-hype-wow-index"
       ],
       "aliases": [
         "문화 공급 과잉",
         "음악과 책의 생산 소비 격차"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-25"
+      "last_enriched_on": "2026-10-26"
     },
     {
       "path": "wiki/deleuze-number-intensity-spatium.md",
@@ -3977,6 +3979,42 @@
         "러다이트 처형자",
         "러다이트 사형자 명단",
         "Luddite executions"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-26"
+    },
+    {
+      "path": "wiki/information-hype-wow-index.md",
+      "publish": true,
+      "order": 122,
+      "id": "information-hype-wow-index",
+      "title": "호들갑 감정기: 정보의 와우·확성·과열 차수를 구별하는 법",
+      "category": "정보와 미디어",
+      "status": "예비 평가 모형·외부 실측 검증 필요",
+      "updated": "2026-10-26",
+      "summary": "정보 피로를 실제 중요도·본래의 놀라움·유통 강도로 분해하는 호들갑 감정기 설계. 과열 차수의 산식, 수치 혼선의 교정, 가상 사례, 링크·캡처 입력과 커스텀 GPT 평가 지침을 설명한다.",
+      "tags": [
+        "정보 피로",
+        "주의력 배분",
+        "호들갑 지수",
+        "와우 지수",
+        "확성 지수",
+        "정보 과열",
+        "커스텀 GPT"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "music-books-supply-attention",
+        "open-questions"
+      ],
+      "aliases": [
+        "호들갑 지수",
+        "호들갑 감정기",
+        "과열 차수",
+        "와우 지표",
+        "와우 지수",
+        "확성 지수",
+        "정보 과열 감정"
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-26"
