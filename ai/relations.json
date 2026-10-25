@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 442,
+  "edge_count": 446,
   "edges": [
     {
       "from": "living-notes",
@@ -134,6 +134,12 @@
     {
       "from": "open-questions",
       "to": "ai-capital-labor-distribution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-questions",
+      "to": "information-hype-wow-index",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1932,6 +1938,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "music-books-supply-attention",
+      "to": "information-hype-wow-index",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "deleuze-number-intensity-spatium",
       "to": "deleuze-becoming-new",
       "type": "related_to",
@@ -2420,6 +2432,18 @@
     {
       "from": "luddite-executions-memory",
       "to": "luddite-movement-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "information-hype-wow-index",
+      "to": "music-books-supply-attention",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "information-hype-wow-index",
+      "to": "open-questions",
       "type": "related_to",
       "basis": "manifest.related"
     },

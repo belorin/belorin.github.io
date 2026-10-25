@@ -25,7 +25,7 @@
 
 ## 질문
 
-- **[이 위키가 앞으로 답해야 할 질문](wiki/open-questions.md)** · 별칭: 열린 질문 · 수정: 2026-10-23 · 검토: 열린 연구 질문
+- **[이 위키가 앞으로 답해야 할 질문](wiki/open-questions.md)** · 별칭: 열린 질문 · 수정: 2026-10-26 · 검토: 열린 연구 질문
   - 중요한 문제의 선택, 반복과 개별성, AI의 통제력과 공감, 기술·노동·미래·역사와 지식 조직을 가로지르는 미해결 연구 문제.
   - [웹페이지](https://belorin.github.io/#open-questions) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/open-questions.md)
 
@@ -367,7 +367,7 @@
 
 ## 문화
 
-- **[음악과 책의 공급 폭발: 한 사람의 귀와 눈은 얼마나 따라갈 수 있는가](wiki/music-books-supply-attention.md)** · 별칭: 문화 공급 과잉, 음악과 책의 생산 소비 격차 · 수정: 2026-10-25 · 검토: 대화 내부 추정·검토 필요
+- **[음악과 책의 공급 폭발: 한 사람의 귀와 눈은 얼마나 따라갈 수 있는가](wiki/music-books-supply-attention.md)** · 별칭: 문화 공급 과잉, 음악과 책의 생산 소비 격차 · 수정: 2026-10-26 · 검토: 대화 내부 추정·검토 필요
   - 음악과 종이책의 역사적 생산량, 개인 소비시간, AI 공급, 차트 집중과 큐레이션을 비교하며 관측과 추정의 경계를 검토한다.
   - [웹페이지](https://belorin.github.io/#music-books-supply-attention) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/music-books-supply-attention.md)
 
@@ -427,6 +427,12 @@
 - **[사상권력은 누구에게 있는가: 학파·제도·정책과 반발의 지도](wiki/contemporary-intellectual-power.md)** · 별칭: 현대 사상권력, 사상과 정책, 학파 권력 · 수정: 2026-10-26 · 검토: 내부 총합 · 개별 자료 재검증 필요
   - 개념·교육·임상·정책·반발의 힘을 구분하고 AI 안전·젠더·CRT·DEI·신유물론·탈성장 담론의 권력 양식을 검토한다.
   - [웹페이지](https://belorin.github.io/#contemporary-intellectual-power) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/contemporary-intellectual-power.md)
+
+## 정보와 미디어
+
+- **[호들갑 감정기: 정보의 와우·확성·과열 차수를 구별하는 법](wiki/information-hype-wow-index.md)** · 별칭: 호들갑 지수, 호들갑 감정기, 과열 차수, 와우 지표, 와우 지수, 확성 지수, 정보 과열 감정 · 수정: 2026-10-26 · 검토: 예비 평가 모형·외부 실측 검증 필요
+  - 정보 피로를 실제 중요도·본래의 놀라움·유통 강도로 분해하는 호들갑 감정기 설계. 과열 차수의 산식, 수치 혼선의 교정, 가상 사례, 링크·캡처 입력과 커스텀 GPT 평가 지침을 설명한다.
+  - [웹페이지](https://belorin.github.io/#information-hype-wow-index) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/information-hype-wow-index.md)
 
 ## 종합 (편집 해석 · 사실 근거 아님)
 

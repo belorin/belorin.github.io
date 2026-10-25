@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 122,
+  "document_count": 123,
   "documents": [
     {
       "id": "living-notes",
@@ -92,8 +92,8 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "열린 연구 질문",
-      "last_updated_on": "2026-10-23",
-      "last_enriched_on": "2026-10-23",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "living-notes",
@@ -105,7 +105,8 @@
         "silent-film-musician-labor",
         "circus-music-questions",
         "ai-economic-transition",
-        "ai-capital-labor-distribution"
+        "ai-capital-labor-distribution",
+        "information-hype-wow-index"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/open-questions.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/open-questions.md",
@@ -2855,12 +2856,13 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "대화 내부 추정·검토 필요",
-      "last_updated_on": "2026-10-25",
-      "last_enriched_on": "2026-10-25",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "living-notes",
-        "mood-led-music-listening"
+        "mood-led-music-listening",
+        "information-hype-wow-index"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/music-books-supply-attention.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/music-books-supply-attention.md",
@@ -4058,6 +4060,43 @@
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/luddite-executions-memory.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/luddite-executions-memory.md",
       "page_url": "https://belorin.github.io/#luddite-executions-memory"
+    },
+    {
+      "id": "information-hype-wow-index",
+      "title": "호들갑 감정기: 정보의 와우·확성·과열 차수를 구별하는 법",
+      "aliases": [
+        "호들갑 지수",
+        "호들갑 감정기",
+        "과열 차수",
+        "와우 지표",
+        "와우 지수",
+        "확성 지수",
+        "정보 과열 감정"
+      ],
+      "category": "정보와 미디어",
+      "tags": [
+        "정보 피로",
+        "주의력 배분",
+        "호들갑 지수",
+        "와우 지수",
+        "확성 지수",
+        "정보 과열",
+        "커스텀 GPT"
+      ],
+      "summary": "정보 피로를 실제 중요도·본래의 놀라움·유통 강도로 분해하는 호들갑 감정기 설계. 과열 차수의 산식, 수치 혼선의 교정, 가상 사례, 링크·캡처 입력과 커스텀 GPT 평가 지침을 설명한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "예비 평가 모형·외부 실측 검증 필요",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "music-books-supply-attention",
+        "open-questions"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/information-hype-wow-index.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/information-hype-wow-index.md",
+      "page_url": "https://belorin.github.io/#information-hype-wow-index"
     }
   ]
 }

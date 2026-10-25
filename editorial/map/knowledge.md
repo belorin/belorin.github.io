@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 666개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 677개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (3)
 
@@ -685,6 +685,34 @@
 - 이란·레바논·베네수엘라와 선진국의 서로 다른 압력 → `state-hollowing-country-pilot` § 유형은 점수보다 중요한 정보를 제공한다 · `ing-20261025-state-hollowing-critical-optimism`
 - 레바논·베네수엘라의 과거 부채값 대체와 민감도 한계 → `state-hollowing-country-pilot` § 민감도와 자료 문제 · `ing-20261025-state-hollowing-critical-optimism`
 
+## 정보와 미디어 (9)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 정보 피로에서 정보의 무게와 반응의 간격을 분리하는 문제 설정 → `information-hype-wow-index` § 정보의 속도보다 괴로운 것은 중요도의 혼란이다 · `ing-20261026-information-hype-wow-index`
+- 실질 중요도·와우·확성의 정의와 최초 세부 배점 → `information-hype-wow-index` § 놀라움·중요도·유통 강도는 같지 않다 · `ing-20261026-information-hype-wow-index`
+- 과열 차수와 호들갑 순도 및 은밀한 중요도의 서로 다른 산식 → `information-hype-wow-index` § 과열 차수의 산식과 이름 · `ing-20261026-information-hype-wow-index`
+- 임의 점수 구간과 중요도·확성 기준의 네 유형 → `information-hype-wow-index` § 과열 구간과 네 가지 정보 유형 · `ing-20261026-information-hype-wow-index`
+- 유명인 금리 전쟁 징후 AI 기사 가상 점수와 산식 수정 → `information-hype-wow-index` § 시험 점수가 보여 주는 것과 초안의 계산 혼선 · `ing-20261026-information-hype-wow-index`
+- 링크 캡처 썸네일 PDF 입력과 정보 한계 → `information-hype-wow-index` § 기사 링크만이 아니라 캡처 한 장도 입력이 된다 · `ing-20261026-information-hype-wow-index`
+- 전용 커스텀 GPT와 프로젝트 사용 구조 → `information-hype-wow-index` § 프롬프트를 전용 도구로 고정하기 · `ing-20261026-information-hype-wow-index`
+- 입력 자동 분석을 위한 고정 평가 지침과 출력 형식 → `information-hype-wow-index` § 설정란에 넣을 평가 지침 초안 · `ing-20261026-information-hype-wow-index`
+- 주의력 재배치를 위한 다섯 질문과 검증 과제 → `information-hype-wow-index` § 결국 정보 다이어트는 주의력의 재배치다 · `ing-20261026-information-hype-wow-index`
+
+## 질문 (9)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 중요한 질문을 고르는 능력 → `open-questions` § 무엇이 중요한 질문인가 · `ing-20261023-editorial-pages-redesign`
+- 철학적 반복과 생성의 구별 → `open-questions` § 새로운 것은 반복 속에서 어떻게 생겨나는가 · `ing-20261023-editorial-pages-redesign`
+- 즉흥성·AI 개별성의 성립 조건 → `open-questions` § 즉흥성과 개별성은 어디에서 발생하는가 · `ing-20261023-editorial-pages-redesign`
+- AI와 인간의 판단권·통제력 → `open-questions` § AI가 판단을 돕는 동안 통제력은 어떻게 변하는가 · `ing-20261023-editorial-pages-redesign`
+- AI와 타자의 내면 검증 가능성 → `open-questions` § AI와 인간의 내면을 어떻게 확인할 수 있는가 · `ing-20261023-editorial-pages-redesign`
+- 기술 노동 변화와 미래 일상의 낯섦 → `open-questions` § 미래의 일상은 왜 예측보다 낯설어지는가 · `ing-20261023-editorial-pages-redesign`
+- 역사적 가능성의 복원과 지식의 서적화 → `open-questions` § 연결된 위키는 언제 한 권의 책이 되는가 · `ing-20261023-editorial-pages-redesign`
+- 생산성·전환 속도·소득 지원과 참여의 연구 질문 → `open-questions` § 기술은 인간의 일과 숙련을 어떻게 바꾸는가; `ai-human-control-guide` § 이 주제를 읽는 순서 · `ing-20261023-ai-economic-transition`
+- 뉴스의 본래 충격과 유통 과장의 측정 구분 → `open-questions` § 무엇이 중요한 질문인가 · `ing-20261026-information-hype-wow-index`
+
 ## 문학 (8)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -724,19 +752,6 @@
 - 광주·나주·담양 도시 소음과 참새 발성 변화의 연구 소개 → `bird-vocalization-sparrow` § 도시의 소음은 참새의 발성을 바꾸는가 · `ing-20261025-bird-vocalization-sparrow`
 - 새소리 AI 분석을 행동 맥락 및 재생 실험으로 검증해야 할 이유 → `bird-vocalization-sparrow` § 현장에서 해석하려면 무엇을 함께 기록해야 하는가 · `ing-20261025-bird-vocalization-sparrow`
 
-## 질문 (8)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 중요한 질문을 고르는 능력 → `open-questions` § 무엇이 중요한 질문인가 · `ing-20261023-editorial-pages-redesign`
-- 철학적 반복과 생성의 구별 → `open-questions` § 새로운 것은 반복 속에서 어떻게 생겨나는가 · `ing-20261023-editorial-pages-redesign`
-- 즉흥성·AI 개별성의 성립 조건 → `open-questions` § 즉흥성과 개별성은 어디에서 발생하는가 · `ing-20261023-editorial-pages-redesign`
-- AI와 인간의 판단권·통제력 → `open-questions` § AI가 판단을 돕는 동안 통제력은 어떻게 변하는가 · `ing-20261023-editorial-pages-redesign`
-- AI와 타자의 내면 검증 가능성 → `open-questions` § AI와 인간의 내면을 어떻게 확인할 수 있는가 · `ing-20261023-editorial-pages-redesign`
-- 기술 노동 변화와 미래 일상의 낯섦 → `open-questions` § 미래의 일상은 왜 예측보다 낯설어지는가 · `ing-20261023-editorial-pages-redesign`
-- 역사적 가능성의 복원과 지식의 서적화 → `open-questions` § 연결된 위키는 언제 한 권의 책이 되는가 · `ing-20261023-editorial-pages-redesign`
-- 생산성·전환 속도·소득 지원과 참여의 연구 질문 → `open-questions` § 기술은 인간의 일과 숙련을 어떻게 바꾸는가; `ai-human-control-guide` § 이 주제를 읽는 순서 · `ing-20261023-ai-economic-transition`
-
 ## 철학·심리 (7)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -749,6 +764,16 @@
 - 악몽 치료와 정신역동적 꿈 작업 → `freud-dreams-modern-science` § 치료실의 꿈과 악몽 · `ing-20261026-dreams-lacan-philosophy-power`
 - 무의식·자아·초자아·원초아의 현대적 해석 → `freud-dreams-modern-science` § 이드·자아·초자아와 무의식은 지금 어디에 있는가 · `ing-20261026-dreams-lacan-philosophy-power`
 
+## 문화 (5)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 음악과 책의 공급량과 개인 소비능력 → `music-books-supply-attention` § 생산량과 소비능력은 서로 다른 지표다 · `ing-20261025-music-books-attention`
+- 음악 생산량과 청취시간의 시나리오 → `music-books-supply-attention` § 인간의 귀: 음악 청취시간의 유한성 · `ing-20261025-music-books-attention`
+- 종이책 신간과 평생 독서량 → `music-books-supply-attention` § 책: 공급 과잉의 역사는 음악보다 오래되었다 · `ing-20261025-music-books-attention`
+- 취향 가설에 따른 큐레이션과 문화적 선택의 병목 → `music-books-supply-attention` § 서로 다른 두 과잉의 역사 · `ing-20261025-mood-led-music-listening`
+- 문화 공급 과잉에서 뉴스 중요도 판단으로의 확장 → `music-books-supply-attention` § 서로 다른 두 과잉의 역사 · `ing-20261026-information-hype-wow-index`
+
 ## 창작 (5)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -758,15 +783,6 @@
 - 고장·단서·위험·상류 탐험·귀환으로 이어지는 공포서사 → `gut-cosmic-horror-worldbuilding` § 사건으로 전진하는 다섯 단계 · `ing-20261025-fruit-gut-horror`
 - 항생제·파지·미생물 분열을 판타지의 세계 법칙으로 번안 → `gut-cosmic-horror-worldbuilding` § 생물학에서 가져오되 문학적으로 비틀 부분 · `ing-20261025-fruit-gut-horror`
 - 세계가 더 큰 숙주의 내부라는 무관심의 공포와 암시적 결말 → `gut-cosmic-horror-worldbuilding` § 러브크래프트식 공포가 요구하는 주인공의 위치 · `ing-20261025-fruit-gut-horror`
-
-## 문화 (4)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 음악과 책의 공급량과 개인 소비능력 → `music-books-supply-attention` § 생산량과 소비능력은 서로 다른 지표다 · `ing-20261025-music-books-attention`
-- 음악 생산량과 청취시간의 시나리오 → `music-books-supply-attention` § 인간의 귀: 음악 청취시간의 유한성 · `ing-20261025-music-books-attention`
-- 종이책 신간과 평생 독서량 → `music-books-supply-attention` § 책: 공급 과잉의 역사는 음악보다 오래되었다 · `ing-20261025-music-books-attention`
-- 취향 가설에 따른 큐레이션과 문화적 선택의 병목 → `music-books-supply-attention` § 서로 다른 두 과잉의 역사 · `ing-20261025-mood-led-music-listening`
 
 ## 미분류 (1)
 
