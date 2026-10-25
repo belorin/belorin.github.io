@@ -6,8 +6,8 @@
 - 별칭: 유럽 3차대전 루머, NATO 확전 신호, 러시아-NATO 회색지대
 - 요약: 리투아니아 드론 격추·발트해 군사접촉·폴란드 경계·룩셈부르크 드론·FSB 국경 루머를 분해하고, NATO Article 4/5와 DEFCON을 구별해 실제 확전 신호를 판별한다.
 - 태그: 유럽 안보, NATO, 러시아, 하이브리드전, Article 4, Article 5, 에스토니아
-- 수정일: 2026-10-24 · 실제 증보일: 2026-10-24 · 검토: needs_review
-- 관련 문서: `war-escalation-local-to-world`, `drone-asymmetric-warfare`
+- 수정일: 2026-10-26 · 실제 증보일: 2026-10-26 · 검토: needs_review
+- 관련 문서: `war-escalation-local-to-world`, `drone-asymmetric-warfare`, `global-flashpoints-likelihood-2026`
 
 ## 절 목차
 

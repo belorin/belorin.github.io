@@ -259,7 +259,7 @@
 - **[수메르 재발견과 구약 원초사의 역사화: 홍수·에덴·바벨탑은 어떻게 재배치되었나](wiki/sumer-bible-primeval-history.md)** · 별칭: 수메르와 구약, 창세기 원초사, 메소포타미아와 성경, 노아의 홍수와 수메르, 에덴과 딜문 · 수정: 2026-10-25 · 검토: 대화 중 확인된 고대근동·성서학 자료 요약 기반 · 세부 연대와 학계 견해 외부 재검증 필요
   - 수메르·아카드·바빌로니아 문헌의 재발견이 창세기 1~11장을 문자 그대로의 역사로 확정한 것이 아니라, 홍수·에덴·바벨탑을 고대 서아시아 원초사 전통과 실제 역사적 배경 속에 재배치한 과정을 설명한다.
   - [웹페이지](https://belorin.github.io/#sumer-bible-primeval-history) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/sumer-bible-primeval-history.md)
-- **[국지전은 어떻게 세계전쟁이 되는가: 1754·1618·1914·1939·1950과 2026년 다중 전선](wiki/war-escalation-local-to-world.md)** · 별칭: 국지전에서 세계대전, 전쟁의 연결, 1914 확전 모형 · 수정: 2026-10-25 · 검토: 역사 사례와 2026년 정세 비교·대화 내 자료 기반·세부 재검증 필요
+- **[국지전은 어떻게 세계전쟁이 되는가: 1754·1618·1914·1939·1950과 2026년 다중 전선](wiki/war-escalation-local-to-world.md)** · 별칭: 국지전에서 세계대전, 전쟁의 연결, 1914 확전 모형 · 수정: 2026-10-26 · 검토: 역사 사례와 2026년 정세 비교·대화 내 자료 기반·세부 재검증 필요
   - 세계대전의 핵심을 국지전의 수가 아니라 전쟁들의 전략적 연결에서 찾고, 1754·1618·1914·1939·1950의 확전과 억제 사례를 러시아-유럽·대만·한반도의 동시 위기와 비교한다.
   - [웹페이지](https://belorin.github.io/#war-escalation-local-to-world) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/war-escalation-local-to-world.md)
 - **[혐오의 가속은 파국 없이 멈출 수 있는가: 집단공황과 정치적 선동의 역사적 브레이크](wiki/hate-escalation-brakes-history.md)** · 별칭: 혐오 가속의 브레이크, 집단공황의 중단, 파국 전 혐오정치 중단, 혐오사회 되돌리기 · 수정: 2026-10-25 · 검토: 대화 내 역사 사례 요약 · 사건별 세부 사실과 수치 외부 재검증 필요
@@ -304,10 +304,10 @@
 - **[『탁월한 피해자』와 곽아람: 비면식 스토킹 기록이 묻는 피해자의 자리](wiki/excellent-victim-kwak-aram.md)** · 별칭: 탁월한 피해자, 곽아람, 비면식 스토킹 기록 · 수정: 2026-10-24 · 검토: 2026년 공개보도·인터뷰 요약 기반 · 사건 진행 및 직함 재검증 필요
   - 『탁월한 피해자』의 비면식 스토킹 기록과 형사사법 비판, 피해 감정의 규격화 문제, 2026년 공개 활동과 당시 사건 진행 상태를 함께 정리한다.
   - [웹페이지](https://belorin.github.io/#excellent-victim-kwak-aram) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/excellent-victim-kwak-aram.md)
-- **[2026년 9월 유럽의 ‘3차대전’ 루머를 읽는 법: 영공·드론·하이브리드전과 실제 확전 신호](wiki/europe-russia-escalation-signals-2026.md)** · 별칭: 유럽 3차대전 루머, NATO 확전 신호, 러시아-NATO 회색지대 · 수정: 2026-10-24 · 검토: 2026년 9월 보도 스냅샷·귀속 및 후속 조사 재검증 필요
+- **[2026년 9월 유럽의 ‘3차대전’ 루머를 읽는 법: 영공·드론·하이브리드전과 실제 확전 신호](wiki/europe-russia-escalation-signals-2026.md)** · 별칭: 유럽 3차대전 루머, NATO 확전 신호, 러시아-NATO 회색지대 · 수정: 2026-10-26 · 검토: 2026년 9월 보도 스냅샷·귀속 및 후속 조사 재검증 필요
   - 리투아니아 드론 격추·발트해 군사접촉·폴란드 경계·룩셈부르크 드론·FSB 국경 루머를 분해하고, NATO Article 4/5와 DEFCON을 구별해 실제 확전 신호를 판별한다.
   - [웹페이지](https://belorin.github.io/#europe-russia-escalation-signals-2026) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/europe-russia-escalation-signals-2026.md)
-- **[드론이 바꾼 비대칭전: 비용교환·후방 소멸·한반도와 아프리카·중앙아시아 사례](wiki/drone-asymmetric-warfare.md)** · 별칭: 드론 비대칭전, 드론 소모전, 무인기 비대칭전 · 수정: 2026-10-24 · 검토: 전쟁 사례·피해수치·인과관계 외부 재검증 필요
+- **[드론이 바꾼 비대칭전: 비용교환·후방 소멸·한반도와 아프리카·중앙아시아 사례](wiki/drone-asymmetric-warfare.md)** · 별칭: 드론 비대칭전, 드론 소모전, 무인기 비대칭전 · 수정: 2026-10-26 · 검토: 전쟁 사례·피해수치·인과관계 외부 재검증 필요
   - 드론이 만드는 가격·생산시간·목표가치·귀속의 비대칭을 설명하고, 한반도와 에티오피아·리비아·키르기스스탄-타지키스탄·사헬·수단 사례에서 전황 변화와 한계를 비교한다.
   - [웹페이지](https://belorin.github.io/#drone-asymmetric-warfare) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/drone-asymmetric-warfare.md)
 - **[《어떻게 해야 했을까》와 일본 가족의 치료 결정: 1983년부터 2008년까지](wiki/dousureba-yokatta-family-psychiatry.md)** · 별칭: 어떻게 해야 했을까, どうすればよかったか？, 후지노 도모아키 가족, 일본 조현병 가족, 일본 가족 개입과 정신의료 · 수정: 2026-10-25 · 검토: 영화 반응·가족사·일본 정신의료 제도·한일 가족문화 비교의 대화 내 확인 자료 총합 · 세부 사실 재검증 필요
@@ -316,6 +316,21 @@
 - **[우쓰노미야 병원 사건과 일본 정신의료의 40년: 폐쇄병동·감독 실패·개혁의 반복](wiki/utsunomiya-psychiatric-hospital-reform.md)** · 별칭: 우쓰노미야 병원 사건, 宇都宮病院事件, 일본 정신병원 인권, 일본 정신의료 개혁 · 수정: 2026-10-25 · 검토: 우쓰노미야 사건·국회 및 국제조사·후속 정신병원 사건의 대화 내 확인 자료 총합 · 사건별 세부 재검증 필요
   - 1984년 우쓰노미야 병원 사건의 폭행·인력부족·환자 노동·사회적 입원에서 1987년 법 개정, 대화천·아사쿠라·간데·다키야마 사건과 2024년 학대 신고제까지 이어지는 구조를 추적한다.
   - [웹페이지](https://belorin.github.io/#utsunomiya-psychiatric-hospital-reform) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/utsunomiya-psychiatric-hospital-reform.md)
+- **[흑해에서 함대 없는 나라가 함대를 밀어낸 방법: 우크라이나의 해상거부](wiki/black-sea-ukraine-sea-denial.md)** · 별칭: 흑해 해상거부, 흑해 무인정, 흑해함대 3분의 1 · 수정: 2026-10-26 · 검토: 2026년 봄까지 언급된 자료 기반 · 시점 한정 · 정량 추정 및 최신 정세 재검증 필요
+  - 군함 3분의 1 무력화 발언의 분모, 흑해의 기능별 제해권·해상거부, 항로 회복과 남은 위협을 구분한다.
+  - [웹페이지](https://belorin.github.io/#black-sea-ukraine-sea-denial) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/black-sea-ukraine-sea-denial.md)
+- **[우크라이나 전선을 떠받치는 무인체계: 정찰·FPV·전자전·AI·지상로봇](wiki/ukraine-ground-drone-defense.md)** · 별칭: 우크라이나 드론 방어, AI 지상전, UGV 보급 · 수정: 2026-10-26 · 검토: 2026년 봄까지 언급된 자료 기반 · 시점 한정 · 정량 추정 및 최신 정세 재검증 필요
+  - 드론 킬존과 전선 유지의 병목, AI와 UGV의 별개 역할, 기여율 수치의 추정 한계를 분석한다.
+  - [웹페이지](https://belorin.github.io/#ukraine-ground-drone-defense) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ukraine-ground-drone-defense.md)
+- **[러시아와 우크라이나는 얼마나 더 버틸 수 있는가: 소모전·병력 재생산·국가 내구도](wiki/russia-ukraine-war-endurance.md)** · 별칭: 우크라이나 전쟁 내구도, 러시아 전사자 임계치, 120만 사상자 · 수정: 2026-10-26 · 검토: 2026년 봄까지 언급된 자료 기반 · 시점 한정 · 정량 추정 및 최신 정세 재검증 필요
+  - 러시아 120만 사상자와 전사자 추정의 차이, 손실의 사회적 배분, 우크라이나의 병력·방공·재정 병목 및 전쟁 경로를 구분한다.
+  - [웹페이지](https://belorin.github.io/#russia-ukraine-war-endurance) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/russia-ukraine-war-endurance.md)
+- **[남아시아의 세 국경: 인도·파키스탄·중국·아프가니스탄의 서로 다른 충돌 구조](wiki/south-asia-border-rivalries-2026.md)** · 별칭: 인도 파키스탄 분쟁, 인도 중국 국경, 파키스탄 탈레반, 아프가니스탄 파키스탄 분쟁 · 수정: 2026-10-26 · 검토: 2026년 봄까지 언급된 자료 기반 · 시점 한정 · 정량 추정 및 최신 정세 재검증 필요
+  - 카슈미르의 테러·보복, 인중 고산국경·댐 경쟁, 탈레반과 TTP를 둘러싼 아프간-파키스탄 충돌을 분리해 분석한다.
+  - [웹페이지](https://belorin.github.io/#south-asia-border-rivalries-2026) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/south-asia-border-rivalries-2026.md)
+- **[전쟁은 아직 시작되지 않았지만 어디서 먼저 충돌할까: 2026년 분쟁 단층선 확률 순위](wiki/global-flashpoints-likelihood-2026.md)** · 별칭: 세계 분쟁 고위험 단층선, 발발 가능성 순위, 분쟁 확률 순위 · 수정: 2026-10-26 · 검토: 2026년 봄까지 언급된 자료 기반 · 시점 한정 · 정량 추정 및 최신 정세 재검증 필요
+  - 파급력과 분리한 소규모 충돌 발발가능성 중심 순위와 교전 중 지역 제외 기준을 제시한다.
+  - [웹페이지](https://belorin.github.io/#global-flashpoints-likelihood-2026) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/global-flashpoints-likelihood-2026.md)
 
 ## 영화
 

@@ -140,6 +140,11 @@
 - [드론이 바꾼 비대칭전: 비용교환·후방 소멸·한반도와 아프리카·중앙아시아 사례](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/drone-asymmetric-warfare.md): 드론이 만드는 가격·생산시간·목표가치·귀속의 비대칭을 설명하고, 한반도와 에티오피아·리비아·키르기스스탄-타지키스탄·사헬·수단 사례에서 전황 변화와 한계를 비교한다.
 - [《어떻게 해야 했을까》와 일본 가족의 치료 결정: 1983년부터 2008년까지](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/dousureba-yokatta-family-psychiatry.md): 《どうすればよかったか？》의 가족사를 따라 의사 부모의 치료 거부, 1983~2008년 치료 선택지의 변화, 남동생의 법적·문화적 개입 한계와 한일 가족책임 차이를 함께 분석한다.
 - [우쓰노미야 병원 사건과 일본 정신의료의 40년: 폐쇄병동·감독 실패·개혁의 반복](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/utsunomiya-psychiatric-hospital-reform.md): 1984년 우쓰노미야 병원 사건의 폭행·인력부족·환자 노동·사회적 입원에서 1987년 법 개정, 대화천·아사쿠라·간데·다키야마 사건과 2024년 학대 신고제까지 이어지는 구조를 추적한다.
+- [흑해에서 함대 없는 나라가 함대를 밀어낸 방법: 우크라이나의 해상거부](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/black-sea-ukraine-sea-denial.md): 군함 3분의 1 무력화 발언의 분모, 흑해의 기능별 제해권·해상거부, 항로 회복과 남은 위협을 구분한다.
+- [우크라이나 전선을 떠받치는 무인체계: 정찰·FPV·전자전·AI·지상로봇](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ukraine-ground-drone-defense.md): 드론 킬존과 전선 유지의 병목, AI와 UGV의 별개 역할, 기여율 수치의 추정 한계를 분석한다.
+- [러시아와 우크라이나는 얼마나 더 버틸 수 있는가: 소모전·병력 재생산·국가 내구도](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/russia-ukraine-war-endurance.md): 러시아 120만 사상자와 전사자 추정의 차이, 손실의 사회적 배분, 우크라이나의 병력·방공·재정 병목 및 전쟁 경로를 구분한다.
+- [남아시아의 세 국경: 인도·파키스탄·중국·아프가니스탄의 서로 다른 충돌 구조](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/south-asia-border-rivalries-2026.md): 카슈미르의 테러·보복, 인중 고산국경·댐 경쟁, 탈레반과 TTP를 둘러싼 아프간-파키스탄 충돌을 분리해 분석한다.
+- [전쟁은 아직 시작되지 않았지만 어디서 먼저 충돌할까: 2026년 분쟁 단층선 확률 순위](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/global-flashpoints-likelihood-2026.md): 파급력과 분리한 소규모 충돌 발발가능성 중심 순위와 교전 중 지역 제외 기준을 제시한다.
 
 ### 영화
 
