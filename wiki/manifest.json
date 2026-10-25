@@ -28,7 +28,8 @@
         "open-questions",
         "wiki-building-history",
         "jazz-dialogue",
-        "ai-human-control-guide"
+        "ai-human-control-guide",
+        "music-books-supply-attention"
       ],
       "aliases": [
         "열린 노트"
@@ -994,7 +995,8 @@
         "llm-disempowerment-patterns",
         "ai-goals-hostage-and-bait",
         "ai-economic-transition",
-        "ai-capital-labor-distribution"
+        "ai-capital-labor-distribution",
+        "ai-transition-policy-gap"
       ],
       "aliases": [
         "점진적 무력화",
@@ -1401,7 +1403,8 @@
         "ai-class-fiction",
         "gradual-disempowerment",
         "ai-human-control-guide",
-        "open-questions"
+        "open-questions",
+        "ai-transition-policy-gap"
       ],
       "aliases": [
         "AI 경제 이행기",
@@ -1433,7 +1436,8 @@
         "ai-class-fiction",
         "gradual-disempowerment",
         "disempowerment-measurement",
-        "ai-human-control-guide"
+        "ai-human-control-guide",
+        "ai-transition-policy-gap"
       ],
       "aliases": [
         "AI와 자본 노동",
@@ -2702,9 +2706,74 @@
       "last_enriched_on": "2026-10-25"
     },
     {
-      "path": "wiki/music-books-supply-attention.md",
-      "publish": false,
+      "path": "wiki/ai-transition-policy-gap.md",
+      "publish": true,
       "order": 84,
+      "id": "ai-transition-policy-gap",
+      "title": "AI 이행기의 정책 공백: 재교육이 해결하지 못하는 구조적 노동 대체",
+      "category": "AI와 사회",
+      "status": "조건부 정책 시뮬레이션·외부 미검증",
+      "updated": "2026-10-24",
+      "summary": "국제기구가 위험을 인식해도 대응하지 못하는 조건, 재교육의 거시적 한계, 자동화·재정·조세·정치의 시차를 분석한다.",
+      "tags": [
+        "AI",
+        "경제 이행기",
+        "재교육",
+        "국제기구",
+        "노동 수요",
+        "경제학",
+        "정책 실패"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "ai-economic-transition",
+        "ai-capital-labor-distribution",
+        "gradual-disempowerment"
+      ],
+      "aliases": [
+        "AI 재교육의 한계",
+        "AI 이행기 정책 실패",
+        "국제기구와 AI 경제"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-24"
+    },
+    {
+      "path": "wiki/bird-vocalization-sparrow.md",
+      "publish": true,
+      "order": 85,
+      "id": "bird-vocalization-sparrow",
+      "title": "새소리는 어디까지 번역되었는가: 행동 신호에서 참새의 짹짹까지",
+      "category": "자연과 과학",
+      "status": "대화 내부의 연구 소개 총합 · 논문별 세부 분류·수치 재검증 필요",
+      "updated": "2026-10-25",
+      "summary": "종 인식·발성 유형·행동 신호·인간 언어 번역의 차이를 일본박새·금화조·한국 참새 연구로 검토하고, 참새 아홉 유형과 도시 소음 연구의 검증 경계를 정리한다.",
+      "tags": [
+        "새소리",
+        "동물 의사소통",
+        "참새",
+        "Passer montanus",
+        "조류 발성",
+        "BirdNET",
+        "일본박새",
+        "금화조"
+      ],
+      "source": "내부 총합 · 현재 보이는 대화 범위 · 외부 추가 조사 없음 · 일부 논문 분류와 지역 연구 주장 재검증 필요",
+      "related": [],
+      "aliases": [
+        "새소리 번역",
+        "새의 언어",
+        "참새 울음소리",
+        "참새어",
+        "조류 의사소통"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-25"
+    },
+    {
+      "path": "wiki/music-books-supply-attention.md",
+      "publish": true,
+      "order": 86,
       "id": "music-books-supply-attention",
       "title": "음악과 책의 공급 폭발: 한 사람의 귀와 눈은 얼마나 따라갈 수 있는가",
       "category": "문화",
