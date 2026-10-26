@@ -66,7 +66,7 @@ Leitmotif는 반복·변형되는 음악적 소재가 인물·관념·상황과 
 ## 관련 문서와 출처
 - [서커스 음악사](./circus-music-history.md)
 - [서커스 음악사 조사 대장](./circus-music-research-ledger.md)
-- [무성영화 반주와 유성영화 전환](https://belorin.github.io/#silent-film)
+- [무성영화 반주와 유성영화 전환](https://belorin.github.io/#silent-film-musician-labor)
 - [브라스 밴드와 뉴올리언스 재즈](https://belorin.github.io/#brass-band)
 
 출처 상태: 2026-10-22 접근 가능한 채팅의 조사 요청에 나온 용어와 저장소 기존 서커스·영화 문서를 분석적으로 재배열했다. 역사적 사용례와 직접 영향에 관한 추가 조사는 하지 않았으며, 용어 평가는 편집상의 가설이다.
