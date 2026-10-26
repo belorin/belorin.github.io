@@ -25,6 +25,9 @@ on:
       - "index.html"
       - "style.css"
       - "app.js"
+      - "calendar.js"
+      - "scripts/validate-calendar.mjs"
+      - "scripts/test-calendar.mjs"
       - ".github/workflows/validate-notes.yml"
   pull_request:
     paths:
@@ -50,6 +53,9 @@ on:
       - "index.html"
       - "style.css"
       - "app.js"
+      - "calendar.js"
+      - "scripts/validate-calendar.mjs"
+      - "scripts/test-calendar.mjs"
       - ".github/workflows/validate-notes.yml"
 permissions:
   contents: read
@@ -70,6 +76,9 @@ jobs:
       - run: node scripts/test-editorial.mjs
       - run: node scripts/validate-crosslinks.mjs
       - run: node scripts/test-crosslinks.mjs
+      - run: node scripts/validate-calendar.mjs
+      - run: node scripts/test-calendar.mjs
       - run: node --check app.js
+      - run: node --check calendar.js
       - run: node scripts/test-viewer.mjs
       - run: node scripts/build-static.mjs "$RUNNER_TEMP/site"

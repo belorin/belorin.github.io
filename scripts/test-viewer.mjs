@@ -68,6 +68,9 @@ const visit = fragment => {
 assert.ok(notes.length > 0, 'Expected published notes');
 assert.match(html(), /오늘의 무작위 문서/);
 assert.ok(!html().includes('topic-grid'), 'Home no longer repeats the topic list');
+visit('#calendar');
+assert.match(html(), /달력을 불러오지 못했습니다/, 'The calendar route degrades when calendar.js is absent');
+visit('');
 assert.match(html(), /최근 갱신/);
 assert.ok(nodes.get('#filters').children.length > 1, 'Missing category filters');
 

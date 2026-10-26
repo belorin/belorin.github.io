@@ -301,6 +301,11 @@ function about() {
       '<li><a href="' + permalink(id) + '"><span class="item-title">' +
       esc(label) + ' — ' + esc(byId(id).title) + '</span>→</a></li>').join('') + '</ul>';
 }
+// The calendar lives in calendar.js and is drawn only on desktop screens.
+function calendar() {
+  if (window.Calendar) window.Calendar.render(view, {byId, esc, permalink});
+  else view.innerHTML = '<div class="empty">달력을 불러오지 못했습니다. <a href="#all">전체 문서 보기 →</a></div>';
+}
 function render() {
   if (!notes.length) return;
   view.setAttribute('aria-busy','false');
@@ -309,6 +314,7 @@ function render() {
   if (!hash) home();
   else if (hash === 'all') listing();
   else if (hash === 'about') about();
+  else if (hash === 'calendar') calendar();
   else {
     const note = byId(hash);
     if (note) article(note);
