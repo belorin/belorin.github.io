@@ -4,7 +4,8 @@
 // depending on the scale, and long empty stretches fold into a single gap row.
 // 절기: one year of days, a week per row, months separated by stepped lines.
 // The list on the right follows the part of the strip in view; hovering an item
-// lights its cells, hovering a cell lights its items.
+// lights its cells, hovering a cell lights its items. Two looks: 덩어리 (cells
+// touch and each filled block gets rounded outer corners, the default) and 칸.
 (function () {
   const SCALES = {
     century: {label: '세기', cell: 120, per: 10},
@@ -13,7 +14,7 @@
   };
   const LINE = /^(-?\d{1,4})(?:-(\d{2}))?$/;
   const CYCLE = /^(\d{2})(?:-(\d{2}))?$/;
-  let data = null, loading = null, mode = 'line', scale = 'decade', pendingSection = null;
+  let data = null, loading = null, mode = 'line', scale = 'decade', look = 'blocks', pendingSection = null;
 
   const yearLabel = y => y < 0 ? '기원전 ' + (-y) : String(y);
   const level = n => n ? ' l' + Math.min(n, 4) : '';
@@ -121,9 +122,10 @@
       '<span class="cal-when">' + esc(mode === 'line' ? lineWhen(it.e) : cycleWhen(it.e)) + '</span>' +
       '<span class="cal-item">' + esc(it.e.label) + '</span>' +
       '<span class="cal-doc">' + esc(byId(it.e.doc).title) + '</span></a></li>').join('');
-    return '<div class="cal" data-mode="' + mode + '"><div class="page-heading"><h1>달력</h1></div>' +
+    return '<div class="cal' + (look === 'blocks' ? ' cal-blocks' : '') + '" data-mode="' + mode + '"><div class="page-heading"><h1>달력</h1></div>' +
       '<div class="cal-bar"><div class="cal-tabs">' + tab('line', '연대', mode, 'cal-mode') + tab('cycle', '절기', mode, 'cal-mode') + '</div>' +
       (mode === 'line' ? '<div class="cal-tabs">' + Object.entries(SCALES).map(([k, v]) => tab(k, v.label, scale, 'cal-scale')).join('') + '</div>' : '') +
+      '<div class="cal-tabs cal-look">' + tab('blocks', '덩어리', look, 'cal-look') + tab('cells', '칸', look, 'cal-look') + '</div>' +
       '</div><div class="cal-body"><div class="cal-strip">' + (mode === 'line' ? lineStrip(items, esc) : cycleStrip(items, esc)) + '</div>' +
       '<ol class="cal-list">' + list + '</ol><p class="cal-none" hidden>이 구간에 걸린 글이 없습니다.</p></div>' +
       '<div class="cal-tip" hidden></div></div>';
@@ -184,13 +186,30 @@
       if (!button) return;
       if (button.dataset.calMode) mode = button.dataset.calMode;
       else if (button.dataset.calScale) scale = button.dataset.calScale;
+      else if (button.dataset.calLook) look = button.dataset.calLook;
       else return;
       show(view, ctx);
     });
   }
 
+  // Mark the outer corners of each filled block; the 덩어리 look rounds them.
+  // Gap rows break a block, as do empty and out-of-year cells.
+  function corners(strip) {
+    const grid = [...strip.children].map(row => row.classList.contains('cal-row') ? [...row.querySelectorAll('.cal-cell')] : []);
+    const filled = (y, x) => Boolean(grid[y] && grid[y][x] && grid[y][x].dataset.ids);
+    grid.forEach((cells, y) => cells.forEach((cell, x) => {
+      if (!filled(y, x)) return;
+      const up = filled(y - 1, x), down = filled(y + 1, x), left = filled(y, x - 1), right = filled(y, x + 1);
+      if (!up && !left) cell.classList.add('ctl');
+      if (!up && !right) cell.classList.add('ctr');
+      if (!down && !right) cell.classList.add('cbr');
+      if (!down && !left) cell.classList.add('cbl');
+    }));
+  }
+
   function show(view, ctx) {
     view.innerHTML = page(ctx);
+    corners(view.querySelector('.cal-strip'));
     wire(view, ctx);
   }
 
@@ -219,6 +238,6 @@
     },
     // For tests: render with data already in hand.
     setData(json) { data = json; },
-    setView(nextMode, nextScale) { mode = nextMode; scale = nextScale; }
+    setView(nextMode, nextScale, nextLook) { mode = nextMode; scale = nextScale; if (nextLook) look = nextLook; }
   };
 })();
