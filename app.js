@@ -311,6 +311,8 @@ function render() {
   view.setAttribute('aria-busy','false');
   const hash = decodeURIComponent(location.hash.slice(1));
   setExploreOpen(!byId(hash));
+  // The calendar takes the whole width; the search and topic sidebar step aside.
+  document.body?.classList.toggle('wide', hash === 'calendar');
   if (!hash) home();
   else if (hash === 'all') listing();
   else if (hash === 'about') about();

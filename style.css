@@ -160,6 +160,21 @@ kbd{border:1px solid var(--line);border-radius:3px;padding:0 5px;background:var(
 .cal-item{font-size:14px;font-weight:600;line-height:1.5}
 .cal-doc{font-size:12px;color:var(--muted);line-height:1.5}
 .cal-none{font-size:13px;color:var(--muted);grid-column:2}
+.cal-look{margin-left:auto}
+.cal-blocks .cal-row{height:16px}
+.cal-blocks .cal-label{line-height:16px}
+.cal-blocks .cal-gap{margin:6px 0 6px 106px}
+.cal-blocks .cal-cell{border:0;background-color:#eef0ea}
+.cal-blocks .cal-cell.l1{background-color:#dcebdd}.cal-blocks .cal-cell.l2{background-color:#c3dec7}.cal-blocks .cal-cell.l3{background-color:#a3cbaa}.cal-blocks .cal-cell.l4{background-color:#7fb08a}
+.cal-blocks .cal-cell.on{background-color:#f3b48c}
+.cal-blocks .cal-cell.cal-void{background:none}
+.cal-blocks .cal-cell.mt{box-shadow:inset 0 2px 0 #b9a6d8}.cal-blocks .cal-cell.ml{box-shadow:inset 2px 0 0 #b9a6d8}.cal-blocks .cal-cell.mt.ml{box-shadow:inset 2px 2px 0 #b9a6d8}
+.cal-blocks .cal-cell.today{box-shadow:inset 0 0 0 2px #e48f6a}
+.cal-blocks .cal-century .cal-label{color:#8d7bb3}
+.cal-blocks .ctl{border-top-left-radius:6px}.cal-blocks .ctr{border-top-right-radius:6px}.cal-blocks .cbr{border-bottom-right-radius:6px}.cal-blocks .cbl{border-bottom-left-radius:6px}
+.wide .sidebar{display:none}
+.wide .layout{grid-template-columns:minmax(0,1fr)}
+.wide .main-view{max-width:none}
 .cal-tip{position:fixed;z-index:20;pointer-events:none;max-width:280px;background:var(--ink);color:var(--paper);font-size:12px;line-height:1.55;padding:7px 10px;border-radius:6px}
 @media(max-width:800px){
  .layout{grid-template-columns:minmax(0,1fr);gap:24px;padding:16px 20px 60px}

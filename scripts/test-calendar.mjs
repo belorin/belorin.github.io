@@ -55,6 +55,11 @@ assert.deepEqual(plain(cal.cycleRanges({every: {from: "01-01"}}, 2026, 365)), [[
 
 cal.setView("line", "decade");
 let html = cal.page(ctx);
+assert.match(html, /class="cal cal-blocks"/, "the 덩어리 look is the default");
+assert.match(html, /data-cal-look="cells"/, "the look can be switched to 칸");
+cal.setView("line", "decade", "cells");
+assert.ok(!cal.page(ctx).includes("cal-blocks"), "the 칸 look drops the block styling");
+cal.setView("line", "decade", "blocks");
 assert.match(html, /cal-gap">⋯ 기원전 2890 – 1869/, "empty centuries fold into one gap row");
 assert.match(html, /data-ids="c002"/, "a period lights its cells");
 assert.match(html, /data-section="절"/, "items carry their section");
