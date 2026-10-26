@@ -7,7 +7,7 @@
 - 요약: 유럽과 미국의 공연사, 직업음악가, 악보·큐, 기계음악, 영화, 현대 서커스에 관한 12개 조사축과 미검증 목록을 관리한다.
 - 태그: 서커스, 사료, 연대표, 아카이브, 청취 가이드
 - 수정일: 2026-10-22 · 실제 증보일: 미확인 · 검토: needs_review
-- 관련 문서: `circus-music-questions`, `circus-music-concepts`, `silent-film`, `brass-band`
+- 관련 문서: `circus-music-questions`, `circus-music-concepts`, `silent-film-musician-labor`, `brass-band`
 
 ## 절 목차
 

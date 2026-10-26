@@ -34,36 +34,33 @@
 
 ## 음악
 
-- **[재즈와 밴드 음악 길잡이](wiki/jazz-to-ai.md)** · 별칭: 재즈 길잡이, 재즈 입문 · 수정: 2026-10-22 · 검토: 자료 확인
-  - 재즈의 연주 방식부터 악기·편성·공연 노동·서커스 반주까지 살펴보는 음악 지식의 입구.
+- **[재즈와 밴드 음악 길잡이](wiki/jazz-to-ai.md)** · 별칭: 재즈 길잡이, 재즈 입문 · 수정: 2026-10-26 · 검토: 기존 원고 통합 증보·세부 검토 필요
+  - 재즈의 연주·편성·지역사·음향·음악가 노동을 잇는 종합 길잡이. 세 가지 질문과 두 독서 경로로 상세 문서를 안내한다.
   - [문서 페이지](https://belorin.github.io/notes/jazz-to-ai/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-to-ai.md)
-- **[콘트라베이스와 증폭](wiki/double-bass.md)** · 별칭: 콘트라베이스, 더블 베이스 · 수정: 2026-10-22 · 검토: 자료 확인
-  - 큰 공명통을 가진 저음 현악기. 마이크나 픽업을 이용해 증폭해도 전기 베이스와 같은 악기가 되지는 않는다.
+- **[콘트라베이스와 증폭](wiki/double-bass.md)** · 별칭: 콘트라베이스, 더블 베이스 · 수정: 2026-10-26 · 검토: 기존 원고 통합 증보·세부 검토 필요
+  - 콘트라베이스의 피치카토·아르코·픽업과 공연장의 저음 전달, 다른 저음 악기와의 역사적 역할 분담을 설명한다.
   - [문서 페이지](https://belorin.github.io/notes/double-bass/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/double-bass.md)
-- **[전기 베이스의 등장과 역할](wiki/electric-bass.md)** · 별칭: 전기 베이스, 일렉트릭 베이스 · 수정: 2026-10-22 · 검토: 자료 확인
-  - 1951년 Fender Precision Bass가 전기 베이스 보급의 중요한 전환점이 되었다.
+- **[전기 베이스의 등장과 역할](wiki/electric-bass.md)** · 별칭: 전기 베이스, 일렉트릭 베이스 · 수정: 2026-10-26 · 검토: 기존 원고 통합 증보·세부 검토 필요
+  - 1951년 Precision Bass의 보급과 증폭된 콘트라베이스와 다른 구조·연주·퓨전의 선택지를 구별한다.
   - [문서 페이지](https://belorin.github.io/notes/electric-bass/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/electric-bass.md)
-- **[리듬 섹션과 워킹 베이스](wiki/rhythm-section.md)** · 별칭: 리듬 섹션, 워킹 베이스 · 수정: 2026-10-22 · 검토: 자료 확인
-  - 리듬 섹션은 박자만 찍는 반주가 아니라 화성·저음·리듬과 솔로를 조직하는 앙상블의 중심이다.
+- **[리듬 섹션과 워킹 베이스](wiki/rhythm-section.md)** · 별칭: 리듬 섹션, 워킹 베이스 · 수정: 2026-10-26 · 검토: 기존 원고 통합 증보·세부 검토 필요
+  - 워킹 베이스·컴핑·드럼의 박과 악센트, 코러스 안에서 서로 영향을 주는 반주와 독주의 관계를 설명한다.
   - [문서 페이지](https://belorin.github.io/notes/rhythm-section/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/rhythm-section.md)
-- **[빅밴드의 편성과 편곡](wiki/big-band.md)** · 별칭: 빅밴드 · 수정: 2026-10-22 · 검토: 자료 확인
-  - 여러 관악기 섹션과 리듬 섹션을 조직하는 재즈 악단. 전형적인 현대 편성은 17인이다.
+- **[빅밴드의 편성과 편곡](wiki/big-band.md)** · 별칭: 빅밴드 · 수정: 2026-10-26 · 검토: 기존 원고 통합 증보·세부 검토 필요
+  - 17인 편성의 관습과 섹션 편곡, 춤 시장·즉흥 독주가 공존하는 대형 재즈 앙상블을 분석한다.
   - [문서 페이지](https://belorin.github.io/notes/big-band/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/big-band.md)
-- **[브라스 밴드와 뉴올리언스 재즈](wiki/brass-band.md)** · 별칭: 브라스 밴드, 뉴올리언스 재즈 · 수정: 2026-10-22 · 검토: 자료 확인
-  - 행진·장례·춤·지역 공동체의 행사에서 활동한 관악 악단은 초기 재즈의 중요한 환경이었다.
+- **[브라스 밴드와 뉴올리언스 재즈](wiki/brass-band.md)** · 별칭: 브라스 밴드, 뉴올리언스 재즈 · 수정: 2026-10-26 · 검토: 기존 원고 통합 증보·세부 검토 필요
+  - 뉴올리언스 관악대의 지역 행사와 초기 재즈의 접점, 실내·야외 편성의 차이와 다중 지역사의 한계를 검토한다.
   - [문서 페이지](https://belorin.github.io/notes/brass-band/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/brass-band.md)
-- **[드럼키트는 어떻게 한 사람의 악기가 되었나](wiki/drum-kit.md)** · 별칭: 드럼 키트 · 수정: 2026-10-22 · 검토: 자료 확인
-  - 여러 타악기의 역할을 손과 발로 통합한 드럼키트는 기술과 공연 편성의 변화가 함께 만든 악기다.
+- **[드럼키트는 어떻게 한 사람의 악기가 되었나](wiki/drum-kit.md)** · 별칭: 드럼 키트 · 수정: 2026-10-26 · 검토: 기존 원고 통합 증보·세부 검토 필요
+  - 큰북 페달과 손발의 역할 통합, 새로운 연주 숙련·노동 변화·복수 드러머 편성의 공존을 다룬다.
   - [문서 페이지](https://belorin.github.io/notes/drum-kit/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/drum-kit.md)
-- **[재즈의 즉흥연주·스윙·인터플레이](wiki/jazz-dialogue.md)** · 별칭: 재즈 즉흥연주, 스윙과 인터플레이 · 수정: 2026-10-22 · 검토: 자료 확인
-  - 곡의 형식, 즉흥적인 변화, 연주자 사이의 응답을 구별하면 재즈가 어떻게 움직이는지 들을 수 있다.
+- **[재즈의 즉흥연주·스윙·인터플레이](wiki/jazz-dialogue.md)** · 별칭: 재즈 즉흥연주, 스윙과 인터플레이 · 수정: 2026-10-26 · 검토: 기존 원고 통합 증보·세부 검토 필요
+  - 코러스·즉흥·스윙·인터플레이를 구별하고, 반복되는 형식과 매번 달라지는 선택, 대화와의 유비의 한계를 설명한다.
   - [문서 페이지](https://belorin.github.io/notes/jazz-dialogue/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-dialogue.md)
-- **[공연 음향: 악기 편성과 소리의 균형](wiki/jazz-listening.md)** · 별칭: 공연 음향 · 수정: 2026-10-22 · 검토: 자료 확인
-  - 어떤 악기를 쓰는지와 관객에게 어떤 크기로 들리는지는 서로 다른 문제다.
+- **[공연 음향: 악기 편성과 소리의 균형](wiki/jazz-listening.md)** · 별칭: 공연 음향 · 수정: 2026-10-26 · 검토: 기존 원고 통합 증보·세부 검토 필요
+  - 편성·편곡·증폭을 구별하고, 객석의 음량 균형과 어택·지속·감쇠, 라이브 4중주 청취법을 안내한다.
   - [문서 페이지](https://belorin.github.io/notes/jazz-listening/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-listening.md)
-- **[무성영화 반주와 유성영화 전환](wiki/silent-film.md)** · 별칭: 무성영화 반주 · 수정: 2026-10-22 · 검토: 자료 확인
-  - 무성영화의 음악은 극장 현장의 노동이었다. 녹음된 사운드의 보급은 그 일자리를 재편했다.
-  - [문서 페이지](https://belorin.github.io/notes/silent-film/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/silent-film.md)
 - **[서커스 음악사: 레퍼토리·공연기술·노동·매체의 교차](wiki/circus-music-questions.md)** · 별칭: 서커스 음악사 · 수정: 2026-10-22 · 검토: 부분 확인·검토 필요
   - 행진곡·갈롭을 넘어 공연 동작, 악단의 노동, 기계음악, 영화와 현대 서커스를 여섯 분석축으로 연결한다. 확인 사실과 연구 질문을 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/circus-music-questions/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/circus-music-questions.md)
@@ -91,8 +88,8 @@
 - **[17세에서 35세까지: 현대 재즈 음악가의 경력 형성 모형](wiki/jazz-career-path.md)** · 별칭: 재즈 음악가 경력 · 수정: 2026-10-22 · 검토: 대화 요약 기반·검토 필요
   - 가상의 베이시스트를 통해 청소년 앙상블, 음악학교, 사이드맨, 리더 음반, 투어, 비평, 교육의 경력 경로를 설명한다.
   - [문서 페이지](https://belorin.github.io/notes/jazz-career-path/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/jazz-career-path.md)
-- **[유성영화의 등장과 극장 음악가: 재생 가능한 연주가 노동을 바꾸다](wiki/silent-film-musician-labor.md)** · 별칭: 유성영화와 극장 음악가 · 수정: 2026-10-22 · 검토: 대화 내 주장·세부 검증 필요
-  - 무성영화의 현장 반주에서 녹음된 유성영화로의 전환, 실직·노조·공공사업과 재생 수익을 둘러싼 노동 문제를 분석한다.
+- **[유성영화의 등장과 극장 음악가: 재생 가능한 연주가 노동을 바꾸다](wiki/silent-film-musician-labor.md)** · 별칭: 유성영화와 극장 음악가, 무성영화 반주, 무성영화 반주와 유성영화 전환 · 수정: 2026-10-26 · 검토: 대화 내 주장·세부 검증 필요
+  - 무성영화 반주·큐시트·유성영화 전환·AFM 노동 갈등과 재생 경제를 통합하고 미검증 수치와 사례를 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/silent-film-musician-labor/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/silent-film-musician-labor.md)
 - **[20세기 클래식의 잃어버린 계보: 존 마우체리와 정전의 재편](wiki/classical-canon-mauceri.md)** · 별칭: 전쟁과 음악, 클래식의 정전화, 영화음악과 클래식 · 수정: 2026-10-25 · 검토: 대화 내 주장·공연 일정 및 학계 수용 재검증 필요
   - 나치의 퇴폐음악 정책과 망명, 영화·게임음악의 정전 진입, 전후 교향악의 반복 연주와 미래 음악사 재편을 구별한다.

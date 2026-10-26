@@ -2,37 +2,30 @@
 
 > 자동 생성(`scripts/build-maintenance-queue.mjs`). 직접 수정하지 않는다. 기계가 원고 전체에서 찾은 **신호**일 뿐이며, 무엇을 고칠지는 [정비 절차](../../MAINTENANCE.md)에 따라 원고를 읽고 판단한다.
 
-마지막 정비: 없음 · 다음 정비 버전: **M001** (첫 정비이므로 모든 문서가 변경 문서로 잡힌다)
+마지막 정비: **M001** (2026-10-26) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
 
-원고 141개 · 변경 문서 141 · 고립 20 · 한쪽 연결 98 · 보류 6 · 열린 교차 제안 7
+원고 140개 · 변경 문서 50 · 고립 20 · 한쪽 연결 94 · 보류 6 · 열린 교차 제안 7
 
-## 1. 지난 정비 이후 변경된 문서 (141)
+## 1. 지난 정비 이후 변경된 문서 (50)
 
-첫 정비이므로 전체 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
+manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
-- **음악** (36): `jazz-to-ai`, `double-bass`, `electric-bass`, `rhythm-section`, `big-band`, `brass-band`, `drum-kit`, `jazz-dialogue`, `jazz-listening`, `silent-film`, `circus-music-questions`, `circus-music-concepts`, `circus-music-research-ledger`, `jazz-history-plural`, `jazz-ensemble-labor`, `jazz-live-quartet-case`, `jazz-chronological-listening`, `jazz-current-ecosystem`, `jazz-career-path`, `silent-film-musician-labor`, `classical-canon-mauceri`, `daisuke-soga-conductor-career`, `long-running-music-broadcasts`, `japanese-classical-tv-conductor-image`, `woodwind-reeds-material-history`, `instrument-consumables-organic-materials`, `orchestra-instrument-stereotypes`, `korea-dance-musical-tours`, `orchestra-repertoire-data-access`, `orchestra-living-composers-canon`, `world-orchestras-repertoire-2026`, `korean-orchestras-repertoire-2026`, `orchestration-instrument-history`, `conductors-career-encores`, `orchestra-halls-seasons`, `mood-led-music-listening`
-- **문화와 역사** (20): `burning-man-community`, `global-festival-streaming`, `burning-man-institutions`, `burning-man-regional-network`, `sumer-bible-primeval-history`, `war-escalation-local-to-world`, `hate-escalation-brakes-history`, `gwangju-building-art-network`, `ancient-philosophy-beyond-greece`, `dreyfus-affair-intellectuals`, `world-crisis-historical-analogies`, `venice-biennale-history`, `venice-biennale-sites-pavilions`, `venice-biennale-2026-critical-reception`, `jewish-messianic-claimants-kabbalah`, `luddite-movement-history`, `luddite-executions-memory`, `late-qing-yongying-daily-life`, `qing-tributaries-dissolution`, `ryukyu-disposition-qing-japan`
-- **AI와 사회** (19): `ai-human-control-guide`, `ai-takeover-human-recourse`, `ai-goals-hostage-and-bait`, `gradual-disempowerment`, `disempowerment-measurement`, `llm-disempowerment-patterns`, `conversational-ai-persuasion`, `ai-conversation-data-access`, `ai-democracy-narrow-corridor`, `ai-economic-transition`, `ai-capital-labor-distribution`, `ai-class-fiction`, `ai-domination-gradient`, `hank-asher-data-fusion-ai`, `korea-personal-data-lifecycle`, `ai-compute-scaling-inference`, `japan-physical-ai-skill-transfer`, `ai-transition-policy-gap`, `starcraft-pluto-ai`
-- **사회와 제도** (17): `public-land-and-blm`, `stalking-harm-and-autonomy`, `excellent-victim-kwak-aram`, `europe-russia-escalation-signals-2026`, `drone-asymmetric-warfare`, `dousureba-yokatta-family-psychiatry`, `utsunomiya-psychiatric-hospital-reform`, `black-sea-ukraine-sea-denial`, `ukraine-ground-drone-defense`, `russia-ukraine-war-endurance`, `south-asia-border-rivalries-2026`, `global-flashpoints-likelihood-2026`, `hormuz-iran-war-naval-power-2026`, `chabahar-india-strategic-autonomy-2026`, `indian-ocean-navies-comparison`, `hormuz-sea-denial-reopening`, `iran-war-us-force-losses-2026`
-- **철학** (11): `deleuze-becoming-new`, `deleuze-cartography-future`, `post-deleuze-novelty-thinkers`, `deleuze-negation-history`, `deleuze-control-marx-future`, `contemporary-governing-philosophies`, `chiikawa-philosophy`, `deleuze-number-intensity-spatium`, `hegel-fichte-schelling-difference`, `deleuze-unthinkable-fold-thought`, `freud-before-anti-oedipus`
-- **운영** (5): `living-notes`, `editing-principles`, `wiki-building-history`, `wiki-operations-pipeline`, `gpt-wiki-zero-prototype`
-- **기술·지식 아카이브** (4): `credit-observation-archive`, `book-preview-credit-sourcing`, `east-asia-telegraph-network-1880s`, `great-northern-telegraph-east-asia`
-- **독서 문화** (3): `world-reading-groups`, `global-reading-club-2026-books`, `world-book-club-korean-editions`
-- **생명과학** (3): `fruit-flesh-living-cells`, `gut-fiber-fermentation`, `gut-microbiome-colonization`
-- **영화** (3): `hope-global-box-office`, `endgame-natasha-tony-funeral`, `dwar-netflix-revival`
-- **정치경제** (3): `critical-optimism-fragile-order`, `state-hollowing-index`, `state-hollowing-country-pilot`
+- **사회와 제도** (12): `europe-russia-escalation-signals-2026`, `drone-asymmetric-warfare`, `black-sea-ukraine-sea-denial`, `ukraine-ground-drone-defense`, `russia-ukraine-war-endurance`, `south-asia-border-rivalries-2026`, `global-flashpoints-likelihood-2026`, `hormuz-iran-war-naval-power-2026`, `chabahar-india-strategic-autonomy-2026`, `indian-ocean-navies-comparison`, `hormuz-sea-denial-reopening`, `iran-war-us-force-losses-2026`
+- **음악** (10): `jazz-to-ai`, `double-bass`, `electric-bass`, `rhythm-section`, `big-band`, `brass-band`, `drum-kit`, `jazz-dialogue`, `jazz-listening`, `silent-film-musician-labor`
+- **문화와 역사** (7): `war-escalation-local-to-world`, `jewish-messianic-claimants-kabbalah`, `luddite-movement-history`, `luddite-executions-memory`, `late-qing-yongying-daily-life`, `qing-tributaries-dissolution`, `ryukyu-disposition-qing-japan`
+- **운영** (4): `editing-principles`, `wiki-building-history`, `wiki-operations-pipeline`, `gpt-wiki-zero-prototype`
 - **철학·사상사** (3): `lacan-anti-oedipus-history`, `philosophical-systems-after-2000`, `contemporary-intellectual-power`
+- **기술·지식 아카이브** (2): `east-asia-telegraph-network-1880s`, `great-northern-telegraph-east-asia`
 - **미분류** (2): `ai-mediated-human-change`, `circus-music-history`
-- **자연과 과학** (2): `bird-vocalization-sparrow`, `climate-population-villain-logic`
 - **종합** (2): `replay-ladder-human-performance`, `where-novelty-comes-from`
-- **문학** (1): `anne-carson-nobel-first-reactions`
 - **문화** (1): `music-books-supply-attention`
 - **소설** (1): `climate-breath-fiction`
-- **언어** (1): `romp-etymology`
+- **자연과 과학** (1): `climate-population-villain-logic`
 - **정보와 미디어** (1): `information-hype-wow-index`
 - **질문** (1): `open-questions`
-- **창작** (1): `gut-cosmic-horror-worldbuilding`
+- **철학** (1): `freud-before-anti-oedipus`
 - **철학·심리** (1): `freud-dreams-modern-science`
+- **AI와 사회** (1): `starcraft-pluto-ai`
 
 ## 2. 들어오는 연결이 없는 문서 (20)
 
@@ -59,7 +52,7 @@
 - `hormuz-sea-denial-reopening` 호르무즈의 군사적 개방: 기뢰와 미사일을 넘어 상선을 다시 움직이려면
 - `iran-war-us-force-losses-2026` 2026년 이란전의 미군 증원과 항공기 손실: 무엇이 확인되고 무엇이 남았는가
 
-## 3. 한쪽에서만 건 관련 문서 (98)
+## 3. 한쪽에서만 건 관련 문서 (94)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -77,26 +70,22 @@
 - `jazz-to-ai` → `big-band`
 - `jazz-to-ai` → `brass-band`
 - `jazz-to-ai` → `drum-kit`
-- `jazz-to-ai` → `silent-film`
+- `jazz-to-ai` → `silent-film-musician-labor`
 - `jazz-to-ai` → `jazz-chronological-listening`
 - `jazz-to-ai` → `jazz-career-path`
-- `jazz-to-ai` → `silent-film-musician-labor`
 - `big-band` → `jazz-chronological-listening`
 - `brass-band` → `jazz-dialogue`
 - `drum-kit` → `jazz-live-quartet-case`
 - `jazz-dialogue` → `jazz-history-plural`
 - `jazz-listening` → `rhythm-section`
 - `jazz-listening` → `jazz-chronological-listening`
-- `silent-film` → `drum-kit`
-- `silent-film` → `jazz-ensemble-labor`
 - `circus-music-concepts` → `brass-band`
 - `jazz-ensemble-labor` → `big-band`
 - `jazz-ensemble-labor` → `circus-music-questions`
 - `jazz-chronological-listening` → `jazz-ensemble-labor`
 - `jazz-career-path` → `jazz-live-quartet-case`
 - `jazz-career-path` → `jazz-chronological-listening`
-- `silent-film-musician-labor` → `circus-music-questions`
-- `silent-film-musician-labor` → `circus-music-concepts`
+- `silent-film-musician-labor` → `drum-kit`
 - `deleuze-cartography-future` → `deleuze-becoming-new`
 - `deleuze-cartography-future` → `deleuze-negation-history`
 - `deleuze-cartography-future` → `deleuze-control-marx-future`
@@ -187,18 +176,18 @@
 - `circus-music-questions` ↔ `circus-music-history` · 0.91
 - `world-reading-groups` ↔ `global-reading-club-2026-books` · 0.35 · 연결됨
 - `global-reading-club-2026-books` ↔ `world-book-club-korean-editions` · 0.24 · 연결됨
-- `silent-film` ↔ `silent-film-musician-labor` · 0.21 · 연결됨
 - `venice-biennale-history` ↔ `venice-biennale-2026-critical-reception` · 0.14 · 연결됨
 - `war-escalation-local-to-world` ↔ `world-crisis-historical-analogies` · 0.14 · 연결됨
 - `world-orchestras-repertoire-2026` ↔ `korean-orchestras-repertoire-2026` · 0.14 · 연결됨
 - `venice-biennale-history` ↔ `venice-biennale-sites-pavilions` · 0.14 · 연결됨
 - `venice-biennale-sites-pavilions` ↔ `venice-biennale-2026-critical-reception` · 0.13 · 연결됨
 - `circus-music-questions` ↔ `circus-music-research-ledger` · 0.13 · 연결됨
+- `double-bass` ↔ `electric-bass` · 0.13 · 연결됨
 - `war-escalation-local-to-world` ↔ `global-flashpoints-likelihood-2026` · 0.12 · 연결됨
+- `brass-band` ↔ `jazz-history-plural` · 0.12 · 연결됨
 - `ai-human-control-guide` ↔ `gradual-disempowerment` · 0.12 · 연결됨
 - `hormuz-iran-war-naval-power-2026` ↔ `iran-war-us-force-losses-2026` · 0.12 · 연결됨
 - `global-reading-club-2026-books` ↔ `anne-carson-nobel-first-reactions` · 0.12
-- `luddite-movement-history` ↔ `luddite-executions-memory` · 0.12 · 연결됨
 
 ## 6. 보류 항목 (6)
 
@@ -226,9 +215,9 @@
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
 - 긴 문서 (12): `wiki-building-history` 15,142자, `wiki-operations-pipeline` 12,147자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `ai-capital-labor-distribution` 11,322자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `korea-dance-musical-tours` 10,337자, `starcraft-pluto-ai` 10,311자, `great-northern-telegraph-east-asia` 10,147자, `where-novelty-comes-from` 10,125자, `stalking-harm-and-autonomy` 10,033자
-- 짧은 문서 (7): `double-bass` 1,227자, `deleuze-cartography-future` 1,291자, `electric-bass` 1,325자, `rhythm-section` 1,383자, `big-band` 1,400자, `jazz-listening` 1,435자, `drum-kit` 1,481자
+- 짧은 문서 (1): `deleuze-cartography-future` 1,291자
 
 ## 9. 분류 참고
 
-분류 23개: 음악 36, 문화와 역사 20, AI와 사회 19, 사회와 제도 17, 철학 11, 운영 5, 기술·지식 아카이브 4, 독서 문화 3, 영화 3, 정치경제 3, 생명과학 3, 철학·사상사 3, 미분류 2, 자연과 과학 2, 종합 2, 질문 1, 언어 1, 문학 1, 문화 1, 창작 1, 철학·심리 1, 정보와 미디어 1, 소설 1
+분류 23개: 음악 35, 문화와 역사 20, AI와 사회 19, 사회와 제도 17, 철학 11, 운영 5, 기술·지식 아카이브 4, 독서 문화 3, 영화 3, 정치경제 3, 생명과학 3, 철학·사상사 3, 미분류 2, 자연과 과학 2, 종합 2, 질문 1, 언어 1, 문학 1, 문화 1, 창작 1, 철학·심리 1, 정보와 미디어 1, 소설 1
 문서가 하나뿐인 분류 8개: 질문, 언어, 문학, 문화, 창작, 철학·심리, 정보와 미디어, 소설. 분류 체계 변경은 제안만 한다.

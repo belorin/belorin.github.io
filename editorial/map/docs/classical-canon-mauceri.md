@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `classical-canon-mauceri` · 분류: 음악 · 공개 · 원고: [wiki/classical-canon-mauceri.md](../../../wiki/classical-canon-mauceri.md) · 5,372자 · 절 12개
+- id: `classical-canon-mauceri` · 분류: 음악 · 공개 · 원고: [wiki/classical-canon-mauceri.md](../../../wiki/classical-canon-mauceri.md) · 5,387자 · 절 12개
 - 별칭: 전쟁과 음악, 클래식의 정전화, 영화음악과 클래식
 - 요약: 나치의 퇴폐음악 정책과 망명, 영화·게임음악의 정전 진입, 전후 교향악의 반복 연주와 미래 음악사 재편을 구별한다.
 - 태그: 존 마우체리, 코른골트, 클래식 정전, 영화음악, 게임음악, 교향악
 - 수정일: 2026-10-25 · 실제 증보일: 2026-10-25 · 검토: needs_review
-- 관련 문서: `silent-film`, `jazz-history-plural`, `orchestra-living-composers-canon`, `orchestra-repertoire-data-access`
+- 관련 문서: `silent-film-musician-labor`, `jazz-history-plural`, `orchestra-living-composers-canon`, `orchestra-repertoire-data-access`
 
 ## 절 목차
 
@@ -24,7 +24,7 @@
 - 단일 계보에서 다중 계보로 · L41–44 · 387자 · `217f8d21` — '말러→쇤베르크→베베른→불레즈'라는 교육용 선형 계보는 중요한 역사를 설명하지만 전부를 설명하지는 못한다.
 - 생존 작곡가의 비율과 다음 연주의 경제학 · L46–49 · 568자 · `484a95ed` — 2025년 Bachtrack 자료에서는 생존 작곡가의 작품이 관현악 레퍼토리의 거의 14%라는 비율로 소개되었다.
 - 결론: 쇠퇴인가, 아직 끝나지 않은 선별인가 · L51–52 · 274자 · `4316ffe1` — 1945년 이후를 '클래식의 암흑기'라고 부르는 것은 작품이 적어서라기보다 특정 작품들이 오랫동안 정규 레퍼토리로 누적되지 못했다는 인상에서 비롯될 수 있다.
-- 참고 자료와 검토 범위 · L54–64 · 625자 · `24f02916` — John Mauceri, *The War on Music: Reclaiming the Twentieth Century* (2022).
+- 참고 자료와 검토 범위 · L54–64 · 640자 · `8f992d16` — John Mauceri, *The War on Music: Reclaiming the Twentieth Century* (2022).
 
 ## 장부에 기록된 반영 지식
 

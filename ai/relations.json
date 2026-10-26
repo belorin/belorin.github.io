@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 486,
+  "edge_count": 480,
   "edges": [
     {
       "from": "living-notes",
@@ -187,7 +187,7 @@
     },
     {
       "from": "jazz-to-ai",
-      "to": "silent-film",
+      "to": "silent-film-musician-labor",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -230,12 +230,6 @@
     {
       "from": "jazz-to-ai",
       "to": "jazz-career-path",
-      "type": "related_to",
-      "basis": "manifest.related"
-    },
-    {
-      "from": "jazz-to-ai",
-      "to": "silent-film-musician-labor",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -516,48 +510,6 @@
       "basis": "manifest.related"
     },
     {
-      "from": "silent-film",
-      "to": "circus-music-questions",
-      "type": "related_to",
-      "basis": "manifest.related"
-    },
-    {
-      "from": "silent-film",
-      "to": "drum-kit",
-      "type": "related_to",
-      "basis": "manifest.related"
-    },
-    {
-      "from": "silent-film",
-      "to": "circus-music-concepts",
-      "type": "related_to",
-      "basis": "manifest.related"
-    },
-    {
-      "from": "silent-film",
-      "to": "circus-music-research-ledger",
-      "type": "related_to",
-      "basis": "manifest.related"
-    },
-    {
-      "from": "silent-film",
-      "to": "silent-film-musician-labor",
-      "type": "related_to",
-      "basis": "manifest.related"
-    },
-    {
-      "from": "silent-film",
-      "to": "jazz-ensemble-labor",
-      "type": "related_to",
-      "basis": "manifest.related"
-    },
-    {
-      "from": "silent-film",
-      "to": "classical-canon-mauceri",
-      "type": "related_to",
-      "basis": "manifest.related"
-    },
-    {
       "from": "circus-music-questions",
       "to": "circus-music-concepts",
       "type": "related_to",
@@ -577,7 +529,7 @@
     },
     {
       "from": "circus-music-questions",
-      "to": "silent-film",
+      "to": "silent-film-musician-labor",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -601,7 +553,7 @@
     },
     {
       "from": "circus-music-concepts",
-      "to": "silent-film",
+      "to": "silent-film-musician-labor",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -625,7 +577,7 @@
     },
     {
       "from": "circus-music-research-ledger",
-      "to": "silent-film",
+      "to": "silent-film-musician-labor",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -859,12 +811,6 @@
     },
     {
       "from": "silent-film-musician-labor",
-      "to": "silent-film",
-      "type": "related_to",
-      "basis": "manifest.related"
-    },
-    {
-      "from": "silent-film-musician-labor",
       "to": "jazz-ensemble-labor",
       "type": "related_to",
       "basis": "manifest.related"
@@ -878,6 +824,24 @@
     {
       "from": "silent-film-musician-labor",
       "to": "circus-music-concepts",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "silent-film-musician-labor",
+      "to": "drum-kit",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "silent-film-musician-labor",
+      "to": "circus-music-research-ledger",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "silent-film-musician-labor",
+      "to": "classical-canon-mauceri",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1351,7 +1315,7 @@
     },
     {
       "from": "classical-canon-mauceri",
-      "to": "silent-film",
+      "to": "silent-film-musician-labor",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2692,7 +2656,7 @@
       "to": "jazz-dialogue",
       "type": "introduces",
       "basis": "curated",
-      "evidence_section": "재즈를 듣기 위한 기본 개념",
+      "evidence_section": "연주를 이해하는 세 층위",
       "reason": "기본 개념의 길잡이에서 즉흥연주와 인터플레이의 상세 설명으로 연결한다."
     },
     {

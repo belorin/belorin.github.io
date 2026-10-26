@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `circus-music-concepts` · 분류: 음악 · 공개 · 원고: [wiki/circus-music-concepts.md](../../../wiki/circus-music-concepts.md) · 4,911자 · 절 13개
+- id: `circus-music-concepts` · 분류: 음악 · 공개 · 원고: [wiki/circus-music-concepts.md](../../../wiki/circus-music-concepts.md) · 4,926자 · 절 13개
 - 별칭: 서커스 음악 분석 개념
 - 요약: 행위결박 음악, 소집음악, 링 레퍼토리, 과잉행진, 실시간 악보 엔진, 서커스성, 표지음악, 기계환락음악의 유용성과 시대착오 위험을 검토한다.
 - 태그: 서커스, 개념사, 큐, 미키마우싱, 가설
 - 수정일: 2026-10-22 · 실제 증보일: 미확인 · 검토: needs_review
-- 관련 문서: `circus-music-questions`, `circus-music-research-ledger`, `silent-film`, `brass-band`
+- 관련 문서: `circus-music-questions`, `circus-music-research-ledger`, `silent-film-musician-labor`, `brass-band`
 
 ## 절 목차
 
@@ -25,7 +25,7 @@
 - Leitmotif, cue, Mickey Mousing은 같은 말이 아니다 · L48–53 · 532자 · `9474a2fe` — Leitmotif는 반복·변형되는 음악적 소재가 인물·관념·상황과 관계를 맺는 방식을 분석할 때 사용하는 용어다.
 - 역사 용어와 분석 용어를 분리하는 규칙 · L55–61 · 418자 · `2bd3131a` — 'circus music': 특정 시대의 문헌에서 실제 어떤 범위로 쓰였는지 아직 검증되지 않은 포괄 표현.
 - 판단 · L63–64 · 279자 · `58767de7` — 여덟 표현 가운데 '행위결박 음악', '서커스 표지음악'은 서로 다른 시간적·기호적 기능을 구별할 수 있다는 점에서 잠정적 설명력이 있다.
-- 관련 문서와 출처 · L66–72 · 340자 · `6fee182d` — 서커스 음악사
+- 관련 문서와 출처 · L66–72 · 355자 · `935f1baa` — 서커스 음악사
 
 ## 장부에 기록된 반영 지식
 
