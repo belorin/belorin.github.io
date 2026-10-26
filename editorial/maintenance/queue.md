@@ -4,16 +4,16 @@
 
 마지막 정비: 없음 · 다음 정비 버전: **M001** (첫 정비이므로 모든 문서가 변경 문서로 잡힌다)
 
-원고 137개 · 변경 문서 137 · 고립 17 · 한쪽 연결 94 · 보류 6 · 열린 교차 제안 7
+원고 141개 · 변경 문서 141 · 고립 20 · 한쪽 연결 98 · 보류 6 · 열린 교차 제안 7
 
-## 1. 지난 정비 이후 변경된 문서 (137)
+## 1. 지난 정비 이후 변경된 문서 (141)
 
 첫 정비이므로 전체 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
 - **음악** (36): `jazz-to-ai`, `double-bass`, `electric-bass`, `rhythm-section`, `big-band`, `brass-band`, `drum-kit`, `jazz-dialogue`, `jazz-listening`, `silent-film`, `circus-music-questions`, `circus-music-concepts`, `circus-music-research-ledger`, `jazz-history-plural`, `jazz-ensemble-labor`, `jazz-live-quartet-case`, `jazz-chronological-listening`, `jazz-current-ecosystem`, `jazz-career-path`, `silent-film-musician-labor`, `classical-canon-mauceri`, `daisuke-soga-conductor-career`, `long-running-music-broadcasts`, `japanese-classical-tv-conductor-image`, `woodwind-reeds-material-history`, `instrument-consumables-organic-materials`, `orchestra-instrument-stereotypes`, `korea-dance-musical-tours`, `orchestra-repertoire-data-access`, `orchestra-living-composers-canon`, `world-orchestras-repertoire-2026`, `korean-orchestras-repertoire-2026`, `orchestration-instrument-history`, `conductors-career-encores`, `orchestra-halls-seasons`, `mood-led-music-listening`
 - **문화와 역사** (20): `burning-man-community`, `global-festival-streaming`, `burning-man-institutions`, `burning-man-regional-network`, `sumer-bible-primeval-history`, `war-escalation-local-to-world`, `hate-escalation-brakes-history`, `gwangju-building-art-network`, `ancient-philosophy-beyond-greece`, `dreyfus-affair-intellectuals`, `world-crisis-historical-analogies`, `venice-biennale-history`, `venice-biennale-sites-pavilions`, `venice-biennale-2026-critical-reception`, `jewish-messianic-claimants-kabbalah`, `luddite-movement-history`, `luddite-executions-memory`, `late-qing-yongying-daily-life`, `qing-tributaries-dissolution`, `ryukyu-disposition-qing-japan`
 - **AI와 사회** (19): `ai-human-control-guide`, `ai-takeover-human-recourse`, `ai-goals-hostage-and-bait`, `gradual-disempowerment`, `disempowerment-measurement`, `llm-disempowerment-patterns`, `conversational-ai-persuasion`, `ai-conversation-data-access`, `ai-democracy-narrow-corridor`, `ai-economic-transition`, `ai-capital-labor-distribution`, `ai-class-fiction`, `ai-domination-gradient`, `hank-asher-data-fusion-ai`, `korea-personal-data-lifecycle`, `ai-compute-scaling-inference`, `japan-physical-ai-skill-transfer`, `ai-transition-policy-gap`, `starcraft-pluto-ai`
-- **사회와 제도** (13): `public-land-and-blm`, `stalking-harm-and-autonomy`, `excellent-victim-kwak-aram`, `europe-russia-escalation-signals-2026`, `drone-asymmetric-warfare`, `dousureba-yokatta-family-psychiatry`, `utsunomiya-psychiatric-hospital-reform`, `black-sea-ukraine-sea-denial`, `ukraine-ground-drone-defense`, `russia-ukraine-war-endurance`, `south-asia-border-rivalries-2026`, `global-flashpoints-likelihood-2026`, `hormuz-iran-war-naval-power-2026`
+- **사회와 제도** (17): `public-land-and-blm`, `stalking-harm-and-autonomy`, `excellent-victim-kwak-aram`, `europe-russia-escalation-signals-2026`, `drone-asymmetric-warfare`, `dousureba-yokatta-family-psychiatry`, `utsunomiya-psychiatric-hospital-reform`, `black-sea-ukraine-sea-denial`, `ukraine-ground-drone-defense`, `russia-ukraine-war-endurance`, `south-asia-border-rivalries-2026`, `global-flashpoints-likelihood-2026`, `hormuz-iran-war-naval-power-2026`, `chabahar-india-strategic-autonomy-2026`, `indian-ocean-navies-comparison`, `hormuz-sea-denial-reopening`, `iran-war-us-force-losses-2026`
 - **철학** (11): `deleuze-becoming-new`, `deleuze-cartography-future`, `post-deleuze-novelty-thinkers`, `deleuze-negation-history`, `deleuze-control-marx-future`, `contemporary-governing-philosophies`, `chiikawa-philosophy`, `deleuze-number-intensity-spatium`, `hegel-fichte-schelling-difference`, `deleuze-unthinkable-fold-thought`, `freud-before-anti-oedipus`
 - **운영** (5): `living-notes`, `editing-principles`, `wiki-building-history`, `wiki-operations-pipeline`, `gpt-wiki-zero-prototype`
 - **기술·지식 아카이브** (4): `credit-observation-archive`, `book-preview-credit-sourcing`, `east-asia-telegraph-network-1880s`, `great-northern-telegraph-east-asia`
@@ -34,7 +34,7 @@
 - **창작** (1): `gut-cosmic-horror-worldbuilding`
 - **철학·심리** (1): `freud-dreams-modern-science`
 
-## 2. 들어오는 연결이 없는 문서 (17)
+## 2. 들어오는 연결이 없는 문서 (20)
 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
@@ -54,9 +54,12 @@
 - `jewish-messianic-claimants-kabbalah` 유대교의 수많은 메시아들: 중세의 구원 운동에서 카발라와 샤브타이 츠비까지
 - `starcraft-pluto-ai` Pluto AI와 인간의 스타크래프트: 자가대전이 만든 다른 메타
 - `where-novelty-comes-from` 새로움은 어디서 오는가: 다시 도는 형식, 다시 세운 문제, 식지 않은 차이
-- `hormuz-iran-war-naval-power-2026` 호르무즈 해협은 왜 함대로 열 수 없는가: 2026년 이란전과 인도양 해군력
+- `chabahar-india-strategic-autonomy-2026` 차바하르의 딜레마: 인도는 왜 이란 항구를 포기하기 어려운가
+- `indian-ocean-navies-comparison` 인도양의 함대들: 인도·호주와 해군력을 비교하는 네 가지 척도
+- `hormuz-sea-denial-reopening` 호르무즈의 군사적 개방: 기뢰와 미사일을 넘어 상선을 다시 움직이려면
+- `iran-war-us-force-losses-2026` 2026년 이란전의 미군 증원과 항공기 손실: 무엇이 확인되고 무엇이 남았는가
 
-## 3. 한쪽에서만 건 관련 문서 (94)
+## 3. 한쪽에서만 건 관련 문서 (98)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -154,6 +157,10 @@
 - `hormuz-iran-war-naval-power-2026` → `south-asia-border-rivalries-2026`
 - `hormuz-iran-war-naval-power-2026` → `black-sea-ukraine-sea-denial`
 - `hormuz-iran-war-naval-power-2026` → `war-escalation-local-to-world`
+- `chabahar-india-strategic-autonomy-2026` → `hormuz-iran-war-naval-power-2026`
+- `indian-ocean-navies-comparison` → `hormuz-iran-war-naval-power-2026`
+- `hormuz-sea-denial-reopening` → `hormuz-iran-war-naval-power-2026`
+- `iran-war-us-force-losses-2026` → `hormuz-iran-war-naval-power-2026`
 
 ## 4. 관련 문서가 없는 문서 (15)
 
@@ -189,9 +196,9 @@
 - `circus-music-questions` ↔ `circus-music-research-ledger` · 0.13 · 연결됨
 - `war-escalation-local-to-world` ↔ `global-flashpoints-likelihood-2026` · 0.12 · 연결됨
 - `ai-human-control-guide` ↔ `gradual-disempowerment` · 0.12 · 연결됨
+- `hormuz-iran-war-naval-power-2026` ↔ `iran-war-us-force-losses-2026` · 0.12 · 연결됨
 - `global-reading-club-2026-books` ↔ `anne-carson-nobel-first-reactions` · 0.12
 - `luddite-movement-history` ↔ `luddite-executions-memory` · 0.12 · 연결됨
-- `burning-man-institutions` ↔ `burning-man-regional-network` · 0.12 · 연결됨
 
 ## 6. 보류 항목 (6)
 
@@ -223,5 +230,5 @@
 
 ## 9. 분류 참고
 
-분류 23개: 음악 36, 문화와 역사 20, AI와 사회 19, 사회와 제도 13, 철학 11, 운영 5, 기술·지식 아카이브 4, 독서 문화 3, 영화 3, 정치경제 3, 생명과학 3, 철학·사상사 3, 미분류 2, 자연과 과학 2, 종합 2, 질문 1, 언어 1, 문학 1, 문화 1, 창작 1, 철학·심리 1, 정보와 미디어 1, 소설 1
+분류 23개: 음악 36, 문화와 역사 20, AI와 사회 19, 사회와 제도 17, 철학 11, 운영 5, 기술·지식 아카이브 4, 독서 문화 3, 영화 3, 정치경제 3, 생명과학 3, 철학·사상사 3, 미분류 2, 자연과 과학 2, 종합 2, 질문 1, 언어 1, 문학 1, 문화 1, 창작 1, 철학·심리 1, 정보와 미디어 1, 소설 1
 문서가 하나뿐인 분류 8개: 질문, 언어, 문학, 문화, 창작, 철학·심리, 정보와 미디어, 소설. 분류 체계 변경은 제안만 한다.

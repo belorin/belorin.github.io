@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 482,
+  "edge_count": 486,
   "edges": [
     {
       "from": "living-notes",
@@ -2660,6 +2660,30 @@
     {
       "from": "hormuz-iran-war-naval-power-2026",
       "to": "war-escalation-local-to-world",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "chabahar-india-strategic-autonomy-2026",
+      "to": "hormuz-iran-war-naval-power-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "indian-ocean-navies-comparison",
+      "to": "hormuz-iran-war-naval-power-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hormuz-sea-denial-reopening",
+      "to": "hormuz-iran-war-naval-power-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "iran-war-us-force-losses-2026",
+      "to": "hormuz-iran-war-naval-power-2026",
       "type": "related_to",
       "basis": "manifest.related"
     },

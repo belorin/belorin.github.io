@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 761개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 765개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (6)
 
@@ -421,7 +421,7 @@
 - 한국 음악 세 곡과 우선 청취 네 곡 → `mood-led-music-listening` § 한국 음악으로 넓히는 별도의 갈래; `mood-led-music-listening` § 먼저 들어 볼 네 곡 · `ing-20261025-mood-led-music-listening`
 - 추가 탐색 방향과 청취 반응의 미확인 → `mood-led-music-listening` § 취향의 다음 분기와 판단 유보 · `ing-20261025-mood-led-music-listening`
 
-## 사회와 제도 (64)
+## 사회와 제도 (68)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -489,6 +489,10 @@
 - 전쟁을 닫는 작전과 전쟁을 키우는 작전 → `hormuz-iran-war-naval-power-2026` § 전쟁을 닫는 작전과 전쟁을 키우는 작전 · `ing-20261026-hormuz-indian-ocean-naval`
 - 걸프의 분산 기지와 이란의 비대칭 보복 → `hormuz-iran-war-naval-power-2026` § 걸프의 분산 기지와 이란의 비대칭 보복 · `ing-20261026-hormuz-indian-ocean-naval`
 - 전쟁의 종결은 무엇을 뜻하는가 → `hormuz-iran-war-naval-power-2026` § 전쟁의 종결은 무엇을 뜻하는가 · `ing-20261026-hormuz-indian-ocean-naval`
+- 차바하르 항만과 인도의 전략적 자율성 → `chabahar-india-strategic-autonomy-2026` § 미국과 협력하면서 이란에도 투자하는 이유 · `ing-20261026-hormuz-indian-ocean-naval`
+- 인도와 호주 해군의 전력 및 훈련 → `indian-ocean-navies-comparison` § 훈련의 이름에서 실제 과목을 읽기 · `ing-20261026-hormuz-indian-ocean-naval`
+- 호르무즈 기뢰 소해와 상업항행 재개 → `hormuz-sea-denial-reopening` § 해협을 연다는 말의 세 단계 · `ing-20261026-hormuz-indian-ocean-naval`
+- 미군 전개와 F-15E 승무원 구조 → `iran-war-us-force-losses-2026` § F-15E 승무원 구조 사건이 드러낸 증거의 층위 · `ing-20261026-hormuz-indian-ocean-naval`
 
 ## 운영 (58)
 

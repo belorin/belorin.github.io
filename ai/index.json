@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 134,
+  "document_count": 138,
   "documents": [
     {
       "id": "living-notes",
@@ -4621,6 +4621,106 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/hormuz-iran-war-naval-power-2026.md",
       "page_url": "https://belorin.github.io/notes/hormuz-iran-war-naval-power-2026/",
       "app_url": "https://belorin.github.io/#hormuz-iran-war-naval-power-2026"
+    },
+    {
+      "id": "chabahar-india-strategic-autonomy-2026",
+      "title": "차바하르의 딜레마: 인도는 왜 이란 항구를 포기하기 어려운가",
+      "aliases": [],
+      "category": "사회와 제도",
+      "tags": [
+        "2026 이란전",
+        "인도양",
+        "호르무즈"
+      ],
+      "summary": "차바하르 항만과 인도의 전략적 자율성, 미국 제재, 운영과 신규투자, 인도 언론의 관점 차이",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 분석 · 외부 재검증 필요",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "hormuz-iran-war-naval-power-2026"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/chabahar-india-strategic-autonomy-2026.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/chabahar-india-strategic-autonomy-2026.md",
+      "page_url": "https://belorin.github.io/notes/chabahar-india-strategic-autonomy-2026/",
+      "app_url": "https://belorin.github.io/#chabahar-india-strategic-autonomy-2026"
+    },
+    {
+      "id": "indian-ocean-navies-comparison",
+      "title": "인도양의 함대들: 인도·호주와 해군력을 비교하는 네 가지 척도",
+      "aliases": [],
+      "category": "사회와 제도",
+      "tags": [
+        "2026 이란전",
+        "인도양",
+        "호르무즈"
+      ],
+      "summary": "인도·호주 해군 전력과 훈련, 중국·파키스탄 위협, 주요 해군의 임무별 비교",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 분석 · 외부 재검증 필요",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "hormuz-iran-war-naval-power-2026"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/indian-ocean-navies-comparison.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/indian-ocean-navies-comparison.md",
+      "page_url": "https://belorin.github.io/notes/indian-ocean-navies-comparison/",
+      "app_url": "https://belorin.github.io/#indian-ocean-navies-comparison"
+    },
+    {
+      "id": "hormuz-sea-denial-reopening",
+      "title": "호르무즈의 군사적 개방: 기뢰와 미사일을 넘어 상선을 다시 움직이려면",
+      "aliases": [],
+      "category": "사회와 제도",
+      "tags": [
+        "2026 이란전",
+        "인도양",
+        "호르무즈"
+      ],
+      "summary": "호르무즈 해상거부와 제해권, 기뢰 제거, 도서·해안, 상선 호위와 상업항행 복구",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 분석 · 외부 재검증 필요",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "hormuz-iran-war-naval-power-2026"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hormuz-sea-denial-reopening.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/hormuz-sea-denial-reopening.md",
+      "page_url": "https://belorin.github.io/notes/hormuz-sea-denial-reopening/",
+      "app_url": "https://belorin.github.io/#hormuz-sea-denial-reopening"
+    },
+    {
+      "id": "iran-war-us-force-losses-2026",
+      "title": "2026년 이란전의 미군 증원과 항공기 손실: 무엇이 확인되고 무엇이 남았는가",
+      "aliases": [],
+      "category": "사회와 제도",
+      "tags": [
+        "2026 이란전",
+        "인도양",
+        "호르무즈"
+      ],
+      "summary": "중동 미군 증원과 기지 공격, F-15E·A-10 손실 보도, 승무원 구조, 휴전과 재개전",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 분석 · 외부 재검증 필요",
+      "last_updated_on": "2026-10-26",
+      "last_enriched_on": "2026-10-26",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "hormuz-iran-war-naval-power-2026"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/iran-war-us-force-losses-2026.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/iran-war-us-force-losses-2026.md",
+      "page_url": "https://belorin.github.io/notes/iran-war-us-force-losses-2026/",
+      "app_url": "https://belorin.github.io/#iran-war-us-force-losses-2026"
     }
   ]
 }

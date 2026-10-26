@@ -358,6 +358,18 @@
 - **[호르무즈 해협은 왜 함대로 열 수 없는가: 2026년 이란전과 인도양 해군력](wiki/hormuz-iran-war-naval-power-2026.md)** · 별칭: 호르무즈 해협 봉쇄, 2026 이란전 해군력, 차바하르와 인도양 해군 · 수정: 2026-10-26 · 검토: 2026년 봄 전황 분석 · 사실관계 검토 필요
   - 차바하르와 인도 해군의 전략, 주요 해군의 전력 비교, 호르무즈 해상거부·소해·항행 복구, 미군 증원과 휴전 시나리오, 이란의 기지 공격 및 F-15E 손실 보도의 증거 수준을 구별한다.
   - [문서 페이지](https://belorin.github.io/notes/hormuz-iran-war-naval-power-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hormuz-iran-war-naval-power-2026.md)
+- **[차바하르의 딜레마: 인도는 왜 이란 항구를 포기하기 어려운가](wiki/chabahar-india-strategic-autonomy-2026.md)** · 별칭:  · 수정: 2026-10-26 · 검토: 대화 기반 분석 · 외부 재검증 필요
+  - 차바하르 항만과 인도의 전략적 자율성, 미국 제재, 운영과 신규투자, 인도 언론의 관점 차이
+  - [문서 페이지](https://belorin.github.io/notes/chabahar-india-strategic-autonomy-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/chabahar-india-strategic-autonomy-2026.md)
+- **[인도양의 함대들: 인도·호주와 해군력을 비교하는 네 가지 척도](wiki/indian-ocean-navies-comparison.md)** · 별칭:  · 수정: 2026-10-26 · 검토: 대화 기반 분석 · 외부 재검증 필요
+  - 인도·호주 해군 전력과 훈련, 중국·파키스탄 위협, 주요 해군의 임무별 비교
+  - [문서 페이지](https://belorin.github.io/notes/indian-ocean-navies-comparison/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/indian-ocean-navies-comparison.md)
+- **[호르무즈의 군사적 개방: 기뢰와 미사일을 넘어 상선을 다시 움직이려면](wiki/hormuz-sea-denial-reopening.md)** · 별칭:  · 수정: 2026-10-26 · 검토: 대화 기반 분석 · 외부 재검증 필요
+  - 호르무즈 해상거부와 제해권, 기뢰 제거, 도서·해안, 상선 호위와 상업항행 복구
+  - [문서 페이지](https://belorin.github.io/notes/hormuz-sea-denial-reopening/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hormuz-sea-denial-reopening.md)
+- **[2026년 이란전의 미군 증원과 항공기 손실: 무엇이 확인되고 무엇이 남았는가](wiki/iran-war-us-force-losses-2026.md)** · 별칭:  · 수정: 2026-10-26 · 검토: 대화 기반 분석 · 외부 재검증 필요
+  - 중동 미군 증원과 기지 공격, F-15E·A-10 손실 보도, 승무원 구조, 휴전과 재개전
+  - [문서 페이지](https://belorin.github.io/notes/iran-war-us-force-losses-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/iran-war-us-force-losses-2026.md)
 
 ## 영화
 
