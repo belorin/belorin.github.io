@@ -40,7 +40,7 @@ Calliope, band organ, carousel/fairground mechanical music은 서커스 음악�
 현재 확인 가능한 자료에는 이 전환의 최초 시점과 직접 전파 경로를 입증하는 악보·녹음·광고가 제시되지 않았다. 그러므로 이 곡을 상징 변화의 검증 과제로 남기며, 익숙한 현대적 인상을 19세기 청중에게 소급하지 않는다.
 
 ## 무성영화, 유성영화, 애니메이션
-[무성영화 반주 문서](./silent-film.md)에 따르면 무성영화 상영은 반드시 무음이 아니었다. 피아노·오르간·악단이 장면의 분위기와 동작을 지원했고, 영화 전용 악보·큐시트·범용 분위기 음악은 구별되는 자료 유형이었다. 1920년대 말 동기화된 녹음 음향이 확산되면서 극장 현장 연주자의 고용 수요가 재편되었다. 감소한 극장 일자리가 모두 녹음실 일자리로 옮겨갔다고 볼 수는 없다.
+[무성영화 반주 문서](./silent-film-musician-labor.md)에 따르면 무성영화 상영은 반드시 무음이 아니었다. 피아노·오르간·악단이 장면의 분위기와 동작을 지원했고, 영화 전용 악보·큐시트·범용 분위기 음악은 구별되는 자료 유형이었다. 1920년대 말 동기화된 녹음 음향이 확산되면서 극장 현장 연주자의 고용 수요가 재편되었다. 감소한 극장 일자리가 모두 녹음실 일자리로 옮겨갔다고 볼 수는 없다.
 
 서커스 음악과 무성영화 음악은 공연에 시간적으로 반응한다는 공통의 질문을 공유한다. 그렇다고 두 업계가 동일한 음악가 집단이었거나, 서커스의 지휘 방식이 영화의 큐시트로 직접 이식되었다고 말할 수는 없다. 실제 이동을 입증하려면 인명·극장·서커스 회사·음악 출판사 사이의 연결을 추적해야 한다.
 
@@ -74,6 +74,6 @@ Calliope, band organ, carousel/fairground mechanical music은 서커스 음악�
 - [Library of Congress: A Warming Flame](https://www.loc.gov/collections/silent-film-scores-and-arrangements/articles-and-essays/a-warming-flame/)
 - [D23: Silly Symphony 관련 기존 위키 출처](https://d23.com/announcing-disney-in-concert-a-silly-symphony-celebration-at-d23-expo-2015/)
 - [브라스 밴드와 뉴올리언스 재즈](./brass-band.md)
-- [무성영화 반주와 유성영화 전환](./silent-film.md)
+- [무성영화 반주와 유성영화 전환](./silent-film-musician-labor.md)
 
 출처 상태: 2026-10-22 접근 가능한 채팅의 심층 리서치 요청문과 저장소의 기존 문서만 사용했다. 심층 리서치의 실제 결과 본문, 이 채팅의 생략된 이전 발화, 이 채팅의 공유 URL은 확인되지 않았다. 새 외부 조사는 수행하지 않았다.

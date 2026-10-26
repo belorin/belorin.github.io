@@ -2,7 +2,8 @@
   "version": 1,
   "description": "문서별 메타데이터. 편집 원고의 본문 정본은 wiki/*.md, notes.json은 자동 생성된 웹사이트 캐시.",
   "linkAliases": {
-    "circus-music-history": "circus-music-questions"
+    "circus-music-history": "circus-music-questions",
+    "silent-film": "silent-film-musician-labor"
   },
   "documents": [
     {
@@ -114,9 +115,9 @@
       "id": "jazz-to-ai",
       "title": "재즈와 밴드 음악 길잡이",
       "category": "음악",
-      "status": "자료 확인",
-      "updated": "2026-10-22",
-      "summary": "재즈의 연주 방식부터 악기·편성·공연 노동·서커스 반주까지 살펴보는 음악 지식의 입구.",
+      "status": "기존 원고 통합 증보·세부 검토 필요",
+      "updated": "2026-10-26",
+      "summary": "재즈의 연주·편성·지역사·음향·음악가 노동을 잇는 종합 길잡이. 세 가지 질문과 두 독서 경로로 상세 문서를 안내한다.",
       "tags": [
         "재즈",
         "음악사"
@@ -129,22 +130,21 @@
         "big-band",
         "brass-band",
         "drum-kit",
-        "silent-film",
+        "silent-film-musician-labor",
         "circus-music-questions",
         "jazz-history-plural",
         "jazz-ensemble-labor",
         "jazz-live-quartet-case",
         "jazz-chronological-listening",
         "jazz-current-ecosystem",
-        "jazz-career-path",
-        "silent-film-musician-labor"
+        "jazz-career-path"
       ],
       "aliases": [
         "재즈 길잡이",
         "재즈 입문"
       ],
-      "review_state": "unassessed",
-      "last_enriched_on": null
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-26"
     },
     {
       "path": "wiki/double-bass.md",
@@ -153,9 +153,9 @@
       "id": "double-bass",
       "title": "콘트라베이스와 증폭",
       "category": "음악",
-      "status": "자료 확인",
-      "updated": "2026-10-22",
-      "summary": "큰 공명통을 가진 저음 현악기. 마이크나 픽업을 이용해 증폭해도 전기 베이스와 같은 악기가 되지는 않는다.",
+      "status": "기존 원고 통합 증보·세부 검토 필요",
+      "updated": "2026-10-26",
+      "summary": "콘트라베이스의 피치카토·아르코·픽업과 공연장의 저음 전달, 다른 저음 악기와의 역사적 역할 분담을 설명한다.",
       "tags": [
         "악기",
         "콘트라베이스",
@@ -173,8 +173,8 @@
         "콘트라베이스",
         "더블 베이스"
       ],
-      "review_state": "unassessed",
-      "last_enriched_on": null
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-26"
     },
     {
       "path": "wiki/electric-bass.md",
@@ -183,9 +183,9 @@
       "id": "electric-bass",
       "title": "전기 베이스의 등장과 역할",
       "category": "음악",
-      "status": "자료 확인",
-      "updated": "2026-10-22",
-      "summary": "1951년 Fender Precision Bass가 전기 베이스 보급의 중요한 전환점이 되었다.",
+      "status": "기존 원고 통합 증보·세부 검토 필요",
+      "updated": "2026-10-26",
+      "summary": "1951년 Precision Bass의 보급과 증폭된 콘트라베이스와 다른 구조·연주·퓨전의 선택지를 구별한다.",
       "tags": [
         "악기",
         "전기 베이스",
@@ -203,8 +203,8 @@
         "전기 베이스",
         "일렉트릭 베이스"
       ],
-      "review_state": "unassessed",
-      "last_enriched_on": null
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-26"
     },
     {
       "path": "wiki/rhythm-section.md",
@@ -213,9 +213,9 @@
       "id": "rhythm-section",
       "title": "리듬 섹션과 워킹 베이스",
       "category": "음악",
-      "status": "자료 확인",
-      "updated": "2026-10-22",
-      "summary": "리듬 섹션은 박자만 찍는 반주가 아니라 화성·저음·리듬과 솔로를 조직하는 앙상블의 중심이다.",
+      "status": "기존 원고 통합 증보·세부 검토 필요",
+      "updated": "2026-10-26",
+      "summary": "워킹 베이스·컴핑·드럼의 박과 악센트, 코러스 안에서 서로 영향을 주는 반주와 독주의 관계를 설명한다.",
       "tags": [
         "리듬 섹션",
         "워킹 베이스",
@@ -235,8 +235,8 @@
         "리듬 섹션",
         "워킹 베이스"
       ],
-      "review_state": "unassessed",
-      "last_enriched_on": null
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-26"
     },
     {
       "path": "wiki/big-band.md",
@@ -245,9 +245,9 @@
       "id": "big-band",
       "title": "빅밴드의 편성과 편곡",
       "category": "음악",
-      "status": "자료 확인",
-      "updated": "2026-10-22",
-      "summary": "여러 관악기 섹션과 리듬 섹션을 조직하는 재즈 악단. 전형적인 현대 편성은 17인이다.",
+      "status": "기존 원고 통합 증보·세부 검토 필요",
+      "updated": "2026-10-26",
+      "summary": "17인 편성의 관습과 섹션 편곡, 춤 시장·즉흥 독주가 공존하는 대형 재즈 앙상블을 분석한다.",
       "tags": [
         "빅밴드",
         "스윙",
@@ -264,8 +264,8 @@
       "aliases": [
         "빅밴드"
       ],
-      "review_state": "unassessed",
-      "last_enriched_on": null
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-26"
     },
     {
       "path": "wiki/brass-band.md",
@@ -274,9 +274,9 @@
       "id": "brass-band",
       "title": "브라스 밴드와 뉴올리언스 재즈",
       "category": "음악",
-      "status": "자료 확인",
-      "updated": "2026-10-22",
-      "summary": "행진·장례·춤·지역 공동체의 행사에서 활동한 관악 악단은 초기 재즈의 중요한 환경이었다.",
+      "status": "기존 원고 통합 증보·세부 검토 필요",
+      "updated": "2026-10-26",
+      "summary": "뉴올리언스 관악대의 지역 행사와 초기 재즈의 접점, 실내·야외 편성의 차이와 다중 지역사의 한계를 검토한다.",
       "tags": [
         "브라스 밴드",
         "뉴올리언스",
@@ -296,8 +296,8 @@
         "브라스 밴드",
         "뉴올리언스 재즈"
       ],
-      "review_state": "unassessed",
-      "last_enriched_on": null
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-26"
     },
     {
       "path": "wiki/drum-kit.md",
@@ -306,9 +306,9 @@
       "id": "drum-kit",
       "title": "드럼키트는 어떻게 한 사람의 악기가 되었나",
       "category": "음악",
-      "status": "자료 확인",
-      "updated": "2026-10-22",
-      "summary": "여러 타악기의 역할을 손과 발로 통합한 드럼키트는 기술과 공연 편성의 변화가 함께 만든 악기다.",
+      "status": "기존 원고 통합 증보·세부 검토 필요",
+      "updated": "2026-10-26",
+      "summary": "큰북 페달과 손발의 역할 통합, 새로운 연주 숙련·노동 변화·복수 드러머 편성의 공존을 다룬다.",
       "tags": [
         "드럼",
         "페달",
@@ -325,8 +325,8 @@
       "aliases": [
         "드럼 키트"
       ],
-      "review_state": "unassessed",
-      "last_enriched_on": null
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-26"
     },
     {
       "path": "wiki/jazz-dialogue.md",
@@ -335,9 +335,9 @@
       "id": "jazz-dialogue",
       "title": "재즈의 즉흥연주·스윙·인터플레이",
       "category": "음악",
-      "status": "자료 확인",
-      "updated": "2026-10-22",
-      "summary": "곡의 형식, 즉흥적인 변화, 연주자 사이의 응답을 구별하면 재즈가 어떻게 움직이는지 들을 수 있다.",
+      "status": "기존 원고 통합 증보·세부 검토 필요",
+      "updated": "2026-10-26",
+      "summary": "코러스·즉흥·스윙·인터플레이를 구별하고, 반복되는 형식과 매번 달라지는 선택, 대화와의 유비의 한계를 설명한다.",
       "tags": [
         "재즈",
         "즉흥연주",
@@ -357,8 +357,8 @@
         "재즈 즉흥연주",
         "스윙과 인터플레이"
       ],
-      "review_state": "unassessed",
-      "last_enriched_on": null
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-26"
     },
     {
       "path": "wiki/jazz-listening.md",
@@ -367,9 +367,9 @@
       "id": "jazz-listening",
       "title": "공연 음향: 악기 편성과 소리의 균형",
       "category": "음악",
-      "status": "자료 확인",
-      "updated": "2026-10-22",
-      "summary": "어떤 악기를 쓰는지와 관객에게 어떤 크기로 들리는지는 서로 다른 문제다.",
+      "status": "기존 원고 통합 증보·세부 검토 필요",
+      "updated": "2026-10-26",
+      "summary": "편성·편곡·증폭을 구별하고, 객석의 음량 균형과 어택·지속·감쇠, 라이브 4중주 청취법을 안내한다.",
       "tags": [
         "공연 음향",
         "편성",
@@ -386,39 +386,8 @@
       "aliases": [
         "공연 음향"
       ],
-      "review_state": "unassessed",
-      "last_enriched_on": null
-    },
-    {
-      "path": "wiki/silent-film.md",
-      "publish": true,
-      "order": 12,
-      "id": "silent-film",
-      "title": "무성영화 반주와 유성영화 전환",
-      "category": "음악",
-      "status": "자료 확인",
-      "updated": "2026-10-22",
-      "summary": "무성영화의 음악은 극장 현장의 노동이었다. 녹음된 사운드의 보급은 그 일자리를 재편했다.",
-      "tags": [
-        "무성영화",
-        "유성영화",
-        "연주 노동"
-      ],
-      "source": "공유 대화의 음악 관련 질문을 주제 추출에 사용하고 외부 자료로 보완·검증한 지식 문서. 원대화의 미열람 답변을 복원한 것이 아님. 확인일 2026-10-22. 2026-10-22 증보: 이 대화의 앞선 내용 요약과 기존 저장소 문서로 추가 설명·교차 링크를 작성했으며, 외부 링크를 새로 조사하지 않음. 원대화 전체 발화의 직접 열람은 아님.",
-      "related": [
-        "circus-music-questions",
-        "drum-kit",
-        "circus-music-concepts",
-        "circus-music-research-ledger",
-        "silent-film-musician-labor",
-        "jazz-ensemble-labor",
-        "classical-canon-mauceri"
-      ],
-      "aliases": [
-        "무성영화 반주"
-      ],
-      "review_state": "unassessed",
-      "last_enriched_on": null
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-26"
     },
     {
       "path": "wiki/circus-music-questions.md",
@@ -442,7 +411,7 @@
         "circus-music-concepts",
         "circus-music-research-ledger",
         "brass-band",
-        "silent-film",
+        "silent-film-musician-labor",
         "jazz-to-ai"
       ],
       "aliases": [
@@ -472,7 +441,7 @@
       "related": [
         "circus-music-questions",
         "circus-music-research-ledger",
-        "silent-film",
+        "silent-film-musician-labor",
         "brass-band"
       ],
       "aliases": [
@@ -502,7 +471,7 @@
       "related": [
         "circus-music-questions",
         "circus-music-concepts",
-        "silent-film",
+        "silent-film-musician-labor",
         "brass-band"
       ],
       "aliases": [
@@ -713,8 +682,8 @@
       "title": "유성영화의 등장과 극장 음악가: 재생 가능한 연주가 노동을 바꾸다",
       "category": "음악",
       "status": "대화 내 주장·세부 검증 필요",
-      "updated": "2026-10-22",
-      "summary": "무성영화의 현장 반주에서 녹음된 유성영화로의 전환, 실직·노조·공공사업과 재생 수익을 둘러싼 노동 문제를 분석한다.",
+      "updated": "2026-10-26",
+      "summary": "무성영화 반주·큐시트·유성영화 전환·AFM 노동 갈등과 재생 경제를 통합하고 미검증 수치와 사례를 구분한다.",
       "tags": [
         "무성영화",
         "유성영화",
@@ -724,16 +693,20 @@
       ],
       "source": "2026-10-22 현재 문맥에서 접근 가능한 앞선 대화 요약과 저장소 기존 음악 문서를 바탕으로 편집. 원문 전수 열람 아님; 대화 공유 URL의 해당 구간 확인 불가; 외부 검색 없음. 개별 연도·수상·일화는 대화 내 주장으로서 재검증 필요.",
       "related": [
-        "silent-film",
         "jazz-ensemble-labor",
         "circus-music-questions",
-        "circus-music-concepts"
+        "circus-music-concepts",
+        "drum-kit",
+        "circus-music-research-ledger",
+        "classical-canon-mauceri"
       ],
       "aliases": [
-        "유성영화와 극장 음악가"
+        "유성영화와 극장 음악가",
+        "무성영화 반주",
+        "무성영화 반주와 유성영화 전환"
       ],
-      "review_state": "unassessed",
-      "last_enriched_on": null
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-26"
     },
     {
       "id": "ai-mediated-human-change",
@@ -743,7 +716,8 @@
         "AI와 정신 습관"
       ],
       "review_state": "unassessed",
-      "last_enriched_on": "2026-10-23"
+      "last_enriched_on": "2026-10-23",
+      "related": []
     },
     {
       "id": "circus-music-history",
@@ -753,7 +727,8 @@
         "서커스 음악의 역사"
       ],
       "review_state": "unassessed",
-      "last_enriched_on": null
+      "last_enriched_on": null,
+      "related": []
     },
     {
       "id": "deleuze-becoming-new",
@@ -1381,7 +1356,7 @@
       ],
       "source": "내부 총합 · 접근 가능한 논의 기반 · 외부 재조사 없음",
       "related": [
-        "silent-film",
+        "silent-film-musician-labor",
         "jazz-history-plural",
         "orchestra-living-composers-canon",
         "orchestra-repertoire-data-access"

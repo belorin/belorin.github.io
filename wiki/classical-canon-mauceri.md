@@ -59,6 +59,6 @@ Decca의 Entartete Musik 복원 사업과 마우체리, 프로듀서 마이클 �
 - London Symphony Orchestra / Barbican: 코른골트 바이올린 협주곡, LSO on Film.
 - Royal Albert Hall: 게임음악 콘서트 프로그램.
 - Philharmonie de Paris: Video Games & Music 관련 프로그램.
-- [무성영화 반주와 유성영화 전환](./silent-film.md), [재즈의 역사](./jazz-history-plural.md)는 매체와 정전의 관계를 비교할 수 있는 기존 문서다. 직접적 역사 인과관계가 입증되었다는 뜻은 아니다.
+- [무성영화 반주와 유성영화 전환](./silent-film-musician-labor.md), [재즈의 역사](./jazz-history-plural.md)는 매체와 정전의 관계를 비교할 수 있는 기존 문서다. 직접적 역사 인과관계가 입증되었다는 뜻은 아니다.
 
 검토 상태: 접근 가능한 논의에 등장한 사실과 해석을 재구성했다. 새로운 외부 사실 확인은 수행하지 않았으며 공연 일정, 학계 수용 일반화, 정량 수치는 재검토가 필요하다.

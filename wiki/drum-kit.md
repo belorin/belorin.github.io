@@ -14,6 +14,12 @@
 ## 두 드러머와 여러 타악기라는 대안
 키트가 한 사람의 표준 장비가 되었다고 타악기가 영원히 한 명으로 고정된 것은 아니다. Sons of Kemet의 두 드러머는 여러 타악기 역할이 다시 분화되는 현대의 한 사례다. 이 편성은 역사적 행진악단의 복원이라기보다 오늘날의 새로운 리듬적 조직으로 볼 수 있다. [악단 편성의 역사](./jazz-ensemble-labor.md)에서 노동과 편성의 문제를 함께 다룬다.
 
+## 한 사람의 손발이 만들어 낸 새로운 합주
+큰북·작은북·심벌즈를 여러 사람이 나누어 연주할 때와 한 사람이 페달과 두 손으로 조합할 때는 인원수뿐 아니라 리듬의 조직 방식도 달라진다. 한 몸이 여러 타악기의 시작과 멈춤을 조절하면서 박의 무게와 악센트의 관계를 다르게 만들 수 있기 때문이다. 손과 발의 독립성은 새로운 숙련을 요구했다. 드럼키트는 노동을 줄이는 장치이면서 동시에 연주자의 음악적 가능성을 바꾸는 장치였다.
+
+## 기술이 모든 고용 변화를 설명하지는 않는다
+드럼키트의 형성만으로 지역별 타악기 연주자의 해고나 전직을 추정할 수 없다. 공연장의 크기, 음악의 종류, 고용 관행과 장치의 보급 속도를 별도로 확인해야 한다. 오늘날의 전기 기타·전기 베이스·건반·드럼 조합이 한 번에 탄생한 것도 아니다. Sons of Kemet의 두 드러머는 표준화된 키트가 인원수의 영구적 제한이 아님을 보여 준다. [악단 편성과 노동](./jazz-ensemble-labor.md)은 이런 표준화와 재조합을 함께 다룬다.
+
 ## 참고 자료
 [Smithsonian: The Birth of the Drum Set](https://music.si.edu/story/birth-drum-set)
 [Smithsonian Folkways: 초기 드럼키트 교육 자료](https://folkways.si.edu/the-birth-of-an-icon-learning-and-performing-the-origins-of-the-drum-set-and-early-jazz-drumming-in-new-orleans-louisiana/music/tools-for-teaching/smithsonian)

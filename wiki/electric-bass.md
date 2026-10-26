@@ -12,6 +12,12 @@ Leo Fender는 1951년 Precision Bass를 출시했다. 프렛을 이용한 음정
 1970년대의 Pat Metheny·Jaco Pastorius, Weather Report, Herbie Hancock의 전기악기 사용은 [시대순 청취 지도](./jazz-chronological-listening.md)의 주요 지점이다. 전기 베이스는 단지 콘트라베이스의 음량을 높인 장치가 아니라 선율적 움직임과 음색의 선택지를 바꾸었다.
 그럼에도 오늘날 재즈에서는 콘트라베이스·전기 베이스·튜바 같은 저음 악기가 다양한 편성에 등장한다. Sons of Kemet의 튜바와 두 드러머라는 조합은 저음 역할을 하나의 악기 이름으로 고정할 수 없음을 보여 준다. [악단 편성의 역사](./jazz-ensemble-labor.md)를 함께 볼 수 있다.
 
+## 증폭된 콘트라베이스와 다른 악기
+콘트라베이스에 마이크나 피에조 픽업을 붙인다고 전기 베이스가 되는 것은 아니다. 대표적인 솔리드바디 전기 베이스는 현의 진동을 픽업으로 받아 앰프를 통해 출력하며, 프렛·몸통·연주 자세도 다르다. 두 악기가 E–A–D–G 조율을 공유해도 음정의 제어, 어택과 지속, 손에 돌아오는 감각이 같지 않다. 1951년 Precision Bass는 중요한 보급의 계기이지 모든 전기 저음 악기의 단독 발명 사건은 아니다.
+
+## 표준 밴드의 역사에서
+드럼키트는 여러 타악기 역할을 한 연주자의 손발에 모으는 기술이었고, 전기 베이스는 작은 증폭 밴드의 저음 선택지를 바꾸었다. 두 변화는 서로 다른 시점에 진행되었다. 1970년대 전기 퓨전에서 Jaco Pastorius나 Weather Report의 음악을 듣는 일과 어쿠스틱 재즈에서 워킹 베이스를 듣는 일은 어느 한 악기의 승리를 확인하는 과정이 아니다. 같은 저음 기능이 다른 음악적 목표와 공연 환경에 맞춰 재배치되는 것을 비교하는 일이다. [시대순 청취 지도](./jazz-chronological-listening.md)를 참고할 수 있다.
+
 ## 참고 자료
 [Fender: Precision Bass의 역사](https://www.fender.com/articles/behind-the-scenes/legendary-lows-the-precision-bass-story)
 [Museum of Pop Culture: 1951년 Precision Bass](https://mopop.emuseum.com/objects/6823/fender-precision-bass-guitar)

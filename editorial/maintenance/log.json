@@ -1,5 +1,18 @@
 {
   "version": 1,
   "description": "정비 버전 로그. 정비 한 번마다 항목 하나를 추가한다. 상세 내용은 report의 보고서에 둔다. 대화 원문을 기록하지 않는다.",
-  "entries": []
+  "entries": [
+    {
+      "version": "M001",
+      "date": "2026-10-26",
+      "scope": "음악 초기 10편과 직접 관련 문서의 통합·증보",
+      "report": "editorial/maintenance/reports/M001.md",
+      "counts": {
+        "fixed": 14,
+        "reported": 2,
+        "proposed": 0,
+        "deferred": 2
+      }
+    }
+  ]
 }
