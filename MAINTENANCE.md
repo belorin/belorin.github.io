@@ -48,6 +48,7 @@ https://github.com/belorin/belorin.github.io/blob/main/MAINTENANCE.md
 | 7. 교차 제안 | 양쪽 절을 읽고 의견 | **승인하지 않는다.** 의견을 붙여 결정 요청 |
 | 8. 분량 | 내용상 나누거나 합칠 이유가 있는지 | 분량만으로는 조치하지 않음. 이유가 있을 때만 제안 |
 | 9. 분류 | 분류 체계의 일관성 | 제안만 |
+| 달력 | 이번 범위의 문서·절 가운데 시기가 특정되는 것 | `wiki/calendar.json`에 항목 추가(아래) |
 
 직접 관련 여부는 양쪽 본문을 읽고 판단한다. 개념적 유비나 해석적 연결은 `related`에 넣지 않고 `editorial/crosslinks/index.json`에 `proposed`로 남긴다(WIKI_PROTOCOL §7).
 
@@ -67,6 +68,12 @@ https://github.com/belorin/belorin.github.io/blob/main/MAINTENANCE.md
 - 교차 제안의 승인·반려
 - 문서 간 서술 충돌을 실제로 해소하는 본문 수정
 - 보류 항목의 완료 처리
+
+**달력 항목.** 정비 범위에서 본문이 다루는 시기가 분명한 문서나 절이 있으면 `wiki/calendar.json`에 한 항목씩 더한다. 모든 문서를 달력에 걸 필요는 없다. 언급된 연도가 아니라 **그 글·절이 실제로 다루는 시기**만 건다.
+- 연대형: `{"id":"c040","label":"짧은 이름","from":"1871","to":"1888","doc":"문서-id","section":"정확한 절 제목"}`. `from`/`to`는 `YYYY` 또는 `YYYY-MM`, 기원전은 `-2900`, `to`와 `section`은 생략할 수 있다.
+- 절기형: `{"id":"c041","label":"짧은 이름","every":{"from":"09","to":"06"},"doc":"문서-id"}`. `MM` 또는 `MM-DD`, `to`가 `from`보다 앞이면 해를 넘긴다.
+- `label`은 60자 이하의 짧은 이름이다. 설명은 원고에만 둔다. 본문에 없는 날짜를 만들지 않는다. `id`는 마지막 번호 다음을 쓴다.
+- 달력 항목 추가는 직접 하고 보고서의 '직접 고친 것'에 개수를 적는다.
 
 정비에서는 `review_state`를 바꾸지 않고, 증보 장부(`editorial/ingestions/`)에 기록하지 않는다. 정비의 기록은 보고서와 로그에 남긴다. 메타데이터를 고친 문서는 manifest의 `updated`를 정비일로 바꾼다(`last_enriched_on`은 바꾸지 않는다).
 

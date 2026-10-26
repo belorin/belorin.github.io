@@ -21,6 +21,7 @@ https://belorin.github.io
 - `wiki/*.md`: 지식 본문의 유일한 편집 정본. 긴 논증, 출처, 사례를 요약 없이 보존한다.
 - `wiki/manifest.json`: 문서 ID·제목·분류·상태·출처·관련 문서·게시 여부(`publish`)·순서·별칭·검토 상태·증보일 등 메타데이터의 정본. 종합 글은 `kind`·`synthesis_type`·`based_on`을 더 가진다.
 - `wiki/relations.json`: 근거 절과 설명이 명시된 확인된 의미 관계의 정본. `manifest.related`는 일반 연관.
+- `wiki/calendar.json`: 데스크톱 달력(`/#calendar`)의 정본. 시기가 특정되는 문서·절만 정비 때 골라 누적한다(MAINTENANCE.md §4). `scripts/validate-calendar.mjs`가 문서·절의 존재와 날짜 형식을 검증한다.
 
 **편집 기록(정본, 공개 파일)**
 - `editorial/ingestions/index.json`, `editorial/ingestions/<batch-id>.json`: 증보 배치 색인과 배치별 지식 표제·반영 문서·절·보류 항목. 대화 원문·발췌·URL은 저장하지 않는다.
@@ -43,7 +44,7 @@ https://belorin.github.io
 - `scripts/test-viewer.mjs`: 사이트 뷰어 동작 시험.
 
 **사이트**
-- `index.html`, `style.css`, `app.js`: 정적 사이트 뷰어. 첫 화면은 무작위 글·주제·최근 갱신, `/#all`은 검색 목록, `/#<문서-id>`는 목차·관련 글·개정 이력 화면이다. 렌더러는 단락, `##`~`####` 소제목, 목록, 강조, 인라인 코드, 링크, Markdown 표를 지원한다.
+- `index.html`, `style.css`, `app.js`: 정적 사이트 뷰어. `calendar.js`는 데스크톱 전용 달력(`/#calendar`)으로, 연대형(세기·10년·1년 스케일)과 절기형(한 해의 날) 세로 띠와 보이는 구간을 따라가는 오른쪽 목록을 그린다. 첫 화면은 무작위 글·최근 갱신, `/#all`은 검색 목록, `/#<문서-id>`는 목차·관련 글·개정 이력 화면이다. 렌더러는 단락, `##`~`####` 소제목, 목록, 강조, 인라인 코드, 링크, Markdown 표를 지원한다.
 
 ## 편집·게시
 

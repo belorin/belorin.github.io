@@ -38,7 +38,10 @@ jobs:
           node scripts/test-editorial.mjs
           node scripts/validate-crosslinks.mjs
           node scripts/test-crosslinks.mjs
+          node scripts/validate-calendar.mjs
+          node scripts/test-calendar.mjs
           node --check app.js
+          node --check calendar.js
           node scripts/test-viewer.mjs
       - name: Commit regenerated files to main
         run: |

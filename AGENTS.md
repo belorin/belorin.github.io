@@ -14,7 +14,7 @@
 
 ## 어떤 작업에서도 지키는 것
 
-- 본문의 정본은 `wiki/*.md`, 메타데이터의 정본은 `wiki/manifest.json`, 의미 관계의 정본은 `wiki/relations.json`이다.
+- 본문의 정본은 `wiki/*.md`, 메타데이터의 정본은 `wiki/manifest.json`, 의미 관계의 정본은 `wiki/relations.json`, 달력의 정본은 `wiki/calendar.json`이다(정비 때만 추가).
 - 생성물은 직접 쓰지 않는다: `notes.json`, `AI_INDEX.md`, `ai/*`, `llms.txt`, `editorial/map/*`, `editorial/maintenance/queue.md`. `main`에 커밋되면 GitHub Actions가 생성·검증·자동 커밋·배포한다.
 - 위키 내용의 편집은 브랜치·PR 없이 `main`에 직접 커밋한다.
 - 대화 원문·발췌·공유 URL·대화 ID, API 키·토큰·민감 정보를 저장소에 넣지 않는다(대화에서 나온 소설 본문을 작품으로 보존하는 것은 FICTION.md의 예외). 공개할 수 없는 내용은 제목도 기록하지 않는다.
