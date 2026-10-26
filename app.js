@@ -309,7 +309,9 @@ function calendar() {
 function render() {
   if (!notes.length) return;
   view.setAttribute('aria-busy','false');
-  const hash = decodeURIComponent(location.hash.slice(1));
+  const rawHash = decodeURIComponent(location.hash.slice(1));
+  // Preserve the original public permalink after the two silent-film articles were consolidated.
+  const hash = rawHash === 'silent-film' ? 'silent-film-musician-labor' : rawHash;
   setExploreOpen(!byId(hash));
   // The calendar takes the whole width; the search and topic sidebar step aside.
   document.body?.classList.toggle('wide', hash === 'calendar');
