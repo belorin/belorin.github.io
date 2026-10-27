@@ -79,6 +79,8 @@ assert.match(html(), /이 글의 목차/);
 assert.match(html(), /Markdown 원고/);
 assert.match(html(), /개정 이력/);
 assert.match(html(), /data-copy="https:\/\/belorin\.github\.io\/notes\/ai-human-control-guide\/">LLM용 링크 복사/);
+assert.match(html(), /<div class="giscus" data-term="ai-human-control-guide"><\/div>/, 'Each article has its own comment thread');
+assert.match(html(), /href="https:\/\/github\.com\/belorin\/belorin\.github\.io\/edit\/main\/wiki\/ai-human-control-guide\.md"[^>]*>고치기/);
 assert.match(html(), /연결된 글/);
 assert.equal(nodes.get('#explore-toggle').attributes['aria-expanded'], 'false');
 assert.match(html(), /<details class="toc"><summary>/);
