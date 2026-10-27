@@ -42,10 +42,17 @@ const context = {
 vm.runInNewContext(fs.readFileSync(path.join(root, "app.js"), "utf8"), context, { filename: "app.js", timeout: 5000 });
 await new Promise(resolve => setImmediate(resolve));
 
+// Comments: the same giscus thread as the interactive page, keyed by document id.
+const giscusAttributes = vm.runInContext("typeof giscusAttributes === 'function' ? giscusAttributes : null", context);
+const giscusScript = id => '<script ' + Object.entries(giscusAttributes(id))
+  .map(([name, value]) => name + '="' + esc(value) + '"').join(' ') + ' async></script>';
+
 // Interactive controls become plain links; site hash links become page links.
 function staticArticle(note) {
   context.article(note);
   return view.innerHTML
+    .replace(/<div class="giscus" data-term="([a-z0-9-]+)"><\/div>/, (match, id) =>
+      giscusAttributes ? '<div class="giscus">' + giscusScript(id) + '</div>' : '')
     .replace(/<button type="button" data-jump="([^"]+)">([\s\S]*?)<\/button>/g, '<a href="#$1">$2</a>')
     .replace(/<button type="button" data-random>[\s\S]*?<\/button>/g, "")
     .replace(/<button type="button" data-copy="[^"]+">[\s\S]*?<\/button>/g,
