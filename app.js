@@ -10,12 +10,12 @@ const repo = 'https://github.com/belorin/belorin.github.io';
 const pageBase = 'https://belorin.github.io/notes/';
 // Comments are GitHub Discussions threads shown through giscus, one thread per
 // document id, so /#id and /notes/id/ share it. An empty categoryId keeps them off.
-const comments = {repo: 'belorin/belorin.github.io', repoId: 'R_kgDOGw_oUg', category: 'Announcements', categoryId: ''};
+const comments = {repo: 'belorin/belorin.github.io', repoId: 'R_kgDOGw_oUg', category: 'Announcements', categoryId: 'DIC_kwDOGw_oUs4DJuTH'};
 function giscusAttributes(term) {
   return {src: 'https://giscus.app/client.js', 'data-repo': comments.repo, 'data-repo-id': comments.repoId,
     'data-category': comments.category, 'data-category-id': comments.categoryId, 'data-mapping': 'specific',
     'data-term': term, 'data-strict': '1', 'data-reactions-enabled': '1', 'data-emit-metadata': '0',
-    'data-input-position': 'top', 'data-theme': 'light', 'data-lang': 'ko', 'data-loading': 'lazy', crossorigin: 'anonymous'};
+    'data-input-position': 'bottom', 'data-theme': 'light', 'data-lang': 'ko', 'data-loading': 'lazy', crossorigin: 'anonymous'};
 }
 function loadComments() {
   const box = view.querySelector?.('.giscus');
