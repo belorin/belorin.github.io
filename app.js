@@ -14,8 +14,8 @@ const comments = {repo: 'belorin/belorin.github.io', repoId: 'R_kgDOGw_oUg', cat
 function giscusAttributes(term) {
   return {src: 'https://giscus.app/client.js', 'data-repo': comments.repo, 'data-repo-id': comments.repoId,
     'data-category': comments.category, 'data-category-id': comments.categoryId, 'data-mapping': 'specific',
-    'data-term': term, 'data-strict': '1', 'data-reactions-enabled': '1', 'data-emit-metadata': '0',
-    'data-input-position': 'bottom', 'data-theme': 'light', 'data-lang': 'ko', 'data-loading': 'lazy', crossorigin: 'anonymous'};
+    'data-term': term, 'data-strict': '1', 'data-reactions-enabled': '0', 'data-emit-metadata': '0',
+    'data-input-position': 'bottom', 'data-theme': 'https://belorin.github.io/giscus-theme.css?v=1', 'data-lang': 'ko', 'data-loading': 'lazy', crossorigin: 'anonymous'};
 }
 function loadComments() {
   const box = view.querySelector?.('.giscus');
