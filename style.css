@@ -124,6 +124,7 @@ kbd{border:1px solid var(--line);border-radius:3px;padding:0 5px;background:var(
 .prose .align-right{text-align:right}
 .reader-bottom{margin-top:42px;padding-top:20px;border-top:1px solid var(--line)}
 .reader-bottom h2{font-size:15px;margin:0 0 13px}
+.comments .giscus{min-height:120px}
 .related-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}
 .related-grid a{border:1px solid var(--line);padding:11px 13px;background:var(--paper);border-radius:7px;font-size:13px;line-height:1.55}
 .related-grid a:hover{background:var(--light);text-decoration:none}

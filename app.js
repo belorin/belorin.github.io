@@ -8,6 +8,22 @@ const exploreToggle = document.querySelector('#explore-toggle');
 const repo = 'https://github.com/belorin/belorin.github.io';
 // LLM chats read the static article page (rendered HTML, no JavaScript needed).
 const pageBase = 'https://belorin.github.io/notes/';
+// Comments are GitHub Discussions threads shown through giscus, one thread per
+// document id, so /#id and /notes/id/ share it. An empty categoryId keeps them off.
+const comments = {repo: 'belorin/belorin.github.io', repoId: 'R_kgDOGw_oUg', category: 'Announcements', categoryId: ''};
+function giscusAttributes(term) {
+  return {src: 'https://giscus.app/client.js', 'data-repo': comments.repo, 'data-repo-id': comments.repoId,
+    'data-category': comments.category, 'data-category-id': comments.categoryId, 'data-mapping': 'specific',
+    'data-term': term, 'data-strict': '1', 'data-reactions-enabled': '1', 'data-emit-metadata': '0',
+    'data-input-position': 'top', 'data-theme': 'light', 'data-lang': 'ko', 'data-loading': 'lazy', crossorigin: 'anonymous'};
+}
+function loadComments() {
+  const box = view.querySelector?.('.giscus');
+  if (!box) return;
+  const script = document.createElement('script');
+  for (const [name, value] of Object.entries(giscusAttributes(box.getAttribute('data-term')))) script.setAttribute(name, value);
+  box.append(script);
+}
 let notes = [];
 let category = '전체';
 let randomPick = null;
@@ -255,6 +271,13 @@ function article(note) {
     encodeURIComponent(note.id) + '.md';
   const commits = 'https://github.com/belorin/belorin.github.io/commits/main/wiki/' +
     encodeURIComponent(note.id) + '.md';
+  // GitHub's editor: the owner commits straight to main (the deploy checks it);
+  // anyone else is offered a fork and a pull request.
+  const edit = 'https://github.com/belorin/belorin.github.io/edit/main/wiki/' +
+    encodeURIComponent(note.id) + '.md';
+  const discussion = comments.categoryId
+    ? '<section class="reader-bottom comments"><h2>댓글</h2><div class="giscus" data-term="' + esc(note.id) + '"></div></section>'
+    : '';
   const basis = (note.based_on || []).filter(byId);
   const synthesisNote = isSynthesis(note)
     ? '<aside class="synthesis-note"><strong>종합 노트</strong> 이 글은 위키의 여러 문서를 엮은 편집 해석입니다. ' +
@@ -283,11 +306,13 @@ function article(note) {
     '<div class="reader-tools"><a href="' + github + '" target="_blank" rel="noopener noreferrer">Markdown 원고 ↗</a>' +
     '<button type="button" data-copy="' + esc(pageBase + encodeURIComponent(note.id) + '/') + '">LLM용 링크 복사</button>' +
     '<a href="' + commits + '" target="_blank" rel="noopener noreferrer">개정 이력 ↗</a>' +
+    '<a href="' + edit + '" target="_blank" rel="noopener noreferrer">고치기 ✎</a>' +
     '<button type="button" data-random>무작위 글 ↝</button></div></header>' +
     synthesisNote + fictionNote + chapterNav + toc + '<div class="prose">' + rendered.html + '</div>' + chapterNav +
     related +
     (note.source ? '<p class="reader-source">자료·검토 표기: ' + esc(note.source) + '</p>' : '') +
-    '</article>';
+    discussion + '</article>';
+  loadComments();
 }
 function about() {
   const items = [
