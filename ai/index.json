@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 161,
+  "document_count": 163,
   "documents": [
     {
       "id": "living-notes",
@@ -2843,12 +2843,14 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "대화 내 확인 자료 총합 · 기업 발표·정부 목표·국가 비교 해석 외부 재검증 필요",
-      "last_updated_on": "2026-10-25",
+      "last_updated_on": "2026-10-30",
       "last_enriched_on": "2026-10-25",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "ai-compute-scaling-inference",
-        "ai-economic-transition"
+        "ai-economic-transition",
+        "physical-ai-world-model-quantum-optimization",
+        "manufacturing-optimization-solo-business"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japan-physical-ai-skill-transfer.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/japan-physical-ai-skill-transfer.md",
@@ -5563,6 +5565,66 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/space-assets-law-debris-kessler.md",
       "page_url": "https://belorin.github.io/notes/space-assets-law-debris-kessler/",
       "app_url": "https://belorin.github.io/#space-assets-law-debris-kessler"
+    },
+    {
+      "id": "physical-ai-world-model-quantum-optimization",
+      "title": "피지컬 AI의 월드 모델과 양자 최적화: 상상한 미래에서 실행할 행동까지",
+      "aliases": [
+        "WFM 양자컴퓨팅",
+        "월드모델 양자 최적화"
+      ],
+      "category": "과학과 기술",
+      "tags": [
+        "피지컬 AI",
+        "월드 파운데이션 모델",
+        "양자 최적화",
+        "QUBO"
+      ],
+      "summary": "한국형 피지컬 AI 컨소시엄의 기술 분업, 가상 제조 셀의 갈등, WFM과 QUBO·QAOA·양자 어닐링의 접점 및 신경망 압축 한계.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "내부 논의 기반·기술 실증 검토 필요",
+      "last_updated_on": "2026-10-30",
+      "last_enriched_on": "2026-10-30",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "manufacturing-optimization-solo-business",
+        "japan-physical-ai-skill-transfer"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/physical-ai-world-model-quantum-optimization.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/physical-ai-world-model-quantum-optimization.md",
+      "page_url": "https://belorin.github.io/notes/physical-ai-world-model-quantum-optimization/",
+      "app_url": "https://belorin.github.io/#physical-ai-world-model-quantum-optimization"
+    },
+    {
+      "id": "manufacturing-optimization-solo-business",
+      "title": "개인 개발자의 제조 최적화 엔진: 선계산 자산, 실험, 첫 고객",
+      "aliases": [
+        "제조 최적화 1인 사업",
+        "양자 최적화 MVP"
+      ],
+      "category": "과학과 기술",
+      "tags": [
+        "제조 최적화",
+        "개인 개발",
+        "Qiskit",
+        "에이전트"
+      ],
+      "summary": "개인 개발자용 제조 의사결정 솔버, 야간 에이전트 자산 생성, IBM·D-Wave 등 실험 플랫폼과 고객 검증 전략.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "사업 구상·검증 필요",
+      "last_updated_on": "2026-10-30",
+      "last_enriched_on": "2026-10-30",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "physical-ai-world-model-quantum-optimization",
+        "japan-physical-ai-skill-transfer"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/manufacturing-optimization-solo-business.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/manufacturing-optimization-solo-business.md",
+      "page_url": "https://belorin.github.io/notes/manufacturing-optimization-solo-business/",
+      "app_url": "https://belorin.github.io/#manufacturing-optimization-solo-business"
     }
   ]
 }

@@ -196,7 +196,7 @@
 - **[AI는 계산이 많아지면 무엇이 달라지는가: 데이터센터와 추론 스케일링](wiki/ai-compute-scaling-inference.md)** · 별칭: AI 데이터센터와 추론, test-time scaling, 추론 컴퓨트, AI 계산 스케일링 · 수정: 2026-10-30 · 검토: 대화 내 확인 자료 총합 · 데이터센터 규모·기업 계획·추론 연구 세부 외부 재검증 필요
   - AI 데이터센터 증설을 단순한 더 큰 사전학습이 아니라 test-time compute, 병렬 탐색·검증, 과학·코딩·피지컬 AI 계산의 확대로 읽고 계산량의 한계를 함께 정리한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-compute-scaling-inference/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-compute-scaling-inference.md)
-- **[사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승](wiki/japan-physical-ai-skill-transfer.md)** · 별칭: 일본 피지컬 AI, 손지능, 숙련 전승 로봇, Physical AI Japan · 수정: 2026-10-25 · 검토: 대화 내 확인 자료 총합 · 기업 발표·정부 목표·국가 비교 해석 외부 재검증 필요
+- **[사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승](wiki/japan-physical-ai-skill-transfer.md)** · 별칭: 일본 피지컬 AI, 손지능, 숙련 전승 로봇, Physical AI Japan · 수정: 2026-10-30 · 검토: 대화 내 확인 자료 총합 · 기업 발표·정부 목표·국가 비교 해석 외부 재검증 필요
   - 가와사키 Successor와 Honda 다지 핸드부터 Toyota·Yaskawa·FANUC·AIST까지, 일본이 숙련자의 손동작·힘 조절을 로봇 학습 데이터로 옮기려는 흐름을 정리한다.
   - [문서 페이지](https://belorin.github.io/notes/japan-physical-ai-skill-transfer/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japan-physical-ai-skill-transfer.md)
 - **[AI 이행기의 정책 공백: 재교육이 해결하지 못하는 구조적 노동 대체](wiki/ai-transition-policy-gap.md)** · 별칭: AI 재교육의 한계, AI 이행기 정책 실패, 국제기구와 AI 경제 · 수정: 2026-10-30 · 검토: 조건부 정책 시뮬레이션·외부 미검증
@@ -547,6 +547,12 @@
 - **[궤도의 공유지와 기업의 소유권: 우주 분쟁, 책임, 케슬러 위험](wiki/space-assets-law-debris-kessler.md)** · 별칭: 케슬러 증후군과 우주법, 우주자산 국제분쟁 · 수정: 2026-10-30 · 검토: 검토 필요
   - 우주조약과 기업 소유, 충돌·회피·전파간섭·재진입 사례, ASAT, 케슬러 증후군과 위성 대량 발사 규제를 다룬다.
   - [문서 페이지](https://belorin.github.io/notes/space-assets-law-debris-kessler/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/space-assets-law-debris-kessler.md)
+- **[피지컬 AI의 월드 모델과 양자 최적화: 상상한 미래에서 실행할 행동까지](wiki/physical-ai-world-model-quantum-optimization.md)** · 별칭: WFM 양자컴퓨팅, 월드모델 양자 최적화 · 수정: 2026-10-30 · 검토: 내부 논의 기반·기술 실증 검토 필요
+  - 한국형 피지컬 AI 컨소시엄의 기술 분업, 가상 제조 셀의 갈등, WFM과 QUBO·QAOA·양자 어닐링의 접점 및 신경망 압축 한계.
+  - [문서 페이지](https://belorin.github.io/notes/physical-ai-world-model-quantum-optimization/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/physical-ai-world-model-quantum-optimization.md)
+- **[개인 개발자의 제조 최적화 엔진: 선계산 자산, 실험, 첫 고객](wiki/manufacturing-optimization-solo-business.md)** · 별칭: 제조 최적화 1인 사업, 양자 최적화 MVP · 수정: 2026-10-30 · 검토: 사업 구상·검증 필요
+  - 개인 개발자용 제조 의사결정 솔버, 야간 에이전트 자산 생성, IBM·D-Wave 등 실험 플랫폼과 고객 검증 전략.
+  - [문서 페이지](https://belorin.github.io/notes/manufacturing-optimization-solo-business/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/manufacturing-optimization-solo-business.md)
 
 ## 소설 (창작 작품 · 사실 근거 아님)
 

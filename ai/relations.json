@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 597,
+  "edge_count": 603,
   "edges": [
     {
       "from": "living-notes",
@@ -2064,6 +2064,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "japan-physical-ai-skill-transfer",
+      "to": "physical-ai-world-model-quantum-optimization",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "japan-physical-ai-skill-transfer",
+      "to": "manufacturing-optimization-solo-business",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "ai-transition-policy-gap",
       "to": "ai-economic-transition",
       "type": "related_to",
@@ -3350,6 +3362,30 @@
     {
       "from": "space-assets-law-debris-kessler",
       "to": "space-data-center-thermal-economics",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "physical-ai-world-model-quantum-optimization",
+      "to": "manufacturing-optimization-solo-business",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "physical-ai-world-model-quantum-optimization",
+      "to": "japan-physical-ai-skill-transfer",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "manufacturing-optimization-solo-business",
+      "to": "physical-ai-world-model-quantum-optimization",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "manufacturing-optimization-solo-business",
+      "to": "japan-physical-ai-skill-transfer",
       "type": "related_to",
       "basis": "manifest.related"
     },

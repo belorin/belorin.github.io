@@ -6,8 +6,8 @@
 - 별칭: 일본 피지컬 AI, 손지능, 숙련 전승 로봇, Physical AI Japan
 - 요약: 가와사키 Successor와 Honda 다지 핸드부터 Toyota·Yaskawa·FANUC·AIST까지, 일본이 숙련자의 손동작·힘 조절을 로봇 학습 데이터로 옮기려는 흐름을 정리한다.
 - 태그: 피지컬 AI, 로봇, 일본, 숙련 전승, 손지능, 모방학습, 촉각 센서
-- 수정일: 2026-10-25 · 실제 증보일: 2026-10-25 · 검토: needs_review
-- 관련 문서: `ai-compute-scaling-inference`, `ai-economic-transition`
+- 수정일: 2026-10-30 · 실제 증보일: 2026-10-25 · 검토: needs_review
+- 관련 문서: `ai-compute-scaling-inference`, `ai-economic-transition`, `physical-ai-world-model-quantum-optimization`, `manufacturing-optimization-solo-business`
 - 이 문서를 근거로 쓴 종합: `replay-ladder-human-performance`
 
 ## 절 목차

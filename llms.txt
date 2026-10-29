@@ -244,6 +244,8 @@
 
 - [우주는 냉장고가 아니다: 태양광 데이터센터의 열역학과 경제성](https://belorin.github.io/notes/space-data-center-thermal-economics/): 태양광 입사량, 복사 냉각, ISS 열제어, Suncatcher, 5GW 방열 면적과 우주 연산 경제성의 조건을 분석한다.
 - [궤도의 공유지와 기업의 소유권: 우주 분쟁, 책임, 케슬러 위험](https://belorin.github.io/notes/space-assets-law-debris-kessler/): 우주조약과 기업 소유, 충돌·회피·전파간섭·재진입 사례, ASAT, 케슬러 증후군과 위성 대량 발사 규제를 다룬다.
+- [피지컬 AI의 월드 모델과 양자 최적화: 상상한 미래에서 실행할 행동까지](https://belorin.github.io/notes/physical-ai-world-model-quantum-optimization/): 한국형 피지컬 AI 컨소시엄의 기술 분업, 가상 제조 셀의 갈등, WFM과 QUBO·QAOA·양자 어닐링의 접점 및 신경망 압축 한계.
+- [개인 개발자의 제조 최적화 엔진: 선계산 자산, 실험, 첫 고객](https://belorin.github.io/notes/manufacturing-optimization-solo-business/): 개인 개발자용 제조 의사결정 솔버, 야간 에이전트 자산 생성, IBM·D-Wave 등 실험 플랫폼과 고객 검증 전략.
 
 ### 소설 (창작 작품 · 사실 근거 아님)
 
