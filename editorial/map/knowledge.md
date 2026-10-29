@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 893개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 924개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (9)
 
@@ -763,6 +763,42 @@
 - 꿈의 해석과 성욕 이론의 두 권 선택 → `freud-before-anti-oedipus` § 두 권이라면 『꿈의 해석』과 『성욕에 관한 세 편의 에세이』 · `ing-20261025-deleuze-intensity-hegel-freud`
 - 프로이트 비판 대상의 단순화 방지 → `freud-before-anti-oedipus` § 『안티 오이디푸스』의 비판 대상을 지나치게 단순화하지 않기 · `ing-20261025-deleuze-intensity-hegel-freud`
 - 프로이트 입문서와 라캉 입문서의 목적 차이 → `freud-before-anti-oedipus` § 1972년을 위한 라캉 독서: 프로이트 원전을 대신하는 것이 아니다 · `ing-20261026-dreams-lacan-philosophy-power`
+
+## 게임 (31)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 중국 애니풍 캐릭터 게임의 미학과 생산구조 구분 → `china-anime-game-industry` § 하나의 그림체, 다섯 가지 제작 규모 · `ing-20261030-china-anime-games-live-service-ps5`
+- 스테이지·허브·지역형·필드·도시 오픈월드의 제작 부담 → `china-anime-game-industry` § 하나의 그림체, 다섯 가지 제작 규모 · `ing-20261030-china-anime-games-live-service-ps5`
+- 도시 오픈월드의 생활감과 밀도 부담 → `china-anime-game-industry` § 하나의 그림체, 다섯 가지 제작 규모 · `ing-20261030-china-anime-games-live-service-ps5`
+- 주요 애니풍 게임과 회사·장르 구조 비교 → `china-anime-game-industry` § 중국 개발사들의 출신은 서로 다르다 · `ing-20261030-china-anime-games-live-service-ps5`
+- miHoYo·Kuro·Perfect World·NetEase의 개발 계보 → `china-anime-game-industry` § 중국 개발사들의 출신은 서로 다르다 · `ing-20261030-china-anime-games-live-service-ps5`
+- Hypergryph·Manjuu·MICA·Seasun·Papergames·Yostar 계보 → `china-anime-game-industry` § 중국 개발사들의 출신은 서로 다르다 · `ing-20261030-china-anime-games-live-service-ps5`
+- Pan Studio·Elementa·Silver Studio와 신작의 위치 → `china-anime-game-industry` § 중국 개발사들의 출신은 서로 다르다 · `ing-20261030-china-anime-games-live-service-ps5`
+- 오픈월드 면적과 실제 제작비를 동일시할 수 없는 이유 → `china-anime-game-industry` § 제작비는 얼마인가: 공개 수치와 위험한 추산 · `ing-20261030-china-anime-games-live-service-ps5`
+- 원신 개발비·연간 운영비 보도와 아난타 비용 추정의 구분 → `china-anime-game-industry` § 제작비는 얼마인가: 공개 수치와 위험한 추산 · `ing-20261030-china-anime-games-live-service-ps5`
+- 가챠·코스튬·로맨스·탈가챠 수익모델 → `china-anime-game-industry` § 가챠 외에도 수익 설계는 갈라진다 · `ing-20261030-china-anime-games-live-service-ps5`
+- 모바일 추정매출·프로젝트 이익·회사 순손익 구분 → `china-anime-game-industry` § 투자금 회수의 판단법: 매출과 이익은 다르다 · `ing-20261030-china-anime-games-live-service-ps5`
+- 주요 중국 애니풍 게임의 매출 단서와 투자 회수 판정 → `china-anime-game-industry` § 투자금 회수의 판단법: 매출과 이익은 다르다 · `ing-20261030-china-anime-games-live-service-ps5`
+- Perfect World의 손익을 타워 오브 판타지 단독 손익으로 환원하는 오류 → `china-anime-game-industry` § 투자금 회수의 판단법: 매출과 이익은 다르다 · `ing-20261030-china-anime-games-live-service-ps5`
+- 도시형 오픈월드와 감정·캐릭터 집중형 서비스의 장기 경쟁 → `china-anime-game-industry` § 아직 정해지지 않은 승부 · `ing-20261030-china-anime-games-live-service-ps5`
+- Hotta Studio의 타워 오브 판타지·이환 연속성 → `anime-urban-live-service-nte-tof` § 타워 오브 판타지가 시도한 여러 게임의 동거 · `ing-20261030-china-anime-games-live-service-ps5`
+- 타워 오브 판타지의 MMO·가챠 혼합과 성능 인플레이션 우려 → `anime-urban-live-service-nte-tof` § 타워 오브 판타지가 시도한 여러 게임의 동거 · `ing-20261030-china-anime-games-live-service-ps5`
+- 타워 오브 판타지 Warp 서버의 탈가챠 전환 실험 → `anime-urban-live-service-nte-tof` § Warp 서버: 뒤늦게 등장한 다른 과금·성장 실험 · `ing-20261030-china-anime-games-live-service-ps5`
+- 이환 도시 공간의 자유와 생활 밀도 평가 → `anime-urban-live-service-nte-tof` § 이환의 승부수는 '원신보다 큰 지도'가 아니다 · `ing-20261030-china-anime-games-live-service-ps5`
+- 이환 출시 초기 매출·보상·에셋 제작 논란의 검토 필요성 → `anime-urban-live-service-nte-tof` § 초기 흥행과 서비스 품질 사이 · `ing-20261030-china-anime-games-live-service-ps5`
+- 이환 장기 운영을 평가하는 서사·생활·육성·마감·신캐 기준 → `anime-urban-live-service-nte-tof` § Hotta의 다음 1년을 판단하는 다섯 질문 · `ing-20261030-china-anime-games-live-service-ps5`
+- 무과금 스토리 감상과 육성·숙제·저장공간의 세 벽 → `anime-urban-live-service-nte-tof` § 패키지 게임을 좋아하는 사람에게 나타나는 세 가지 벽 · `ing-20261030-china-anime-games-live-service-ps5`
+- 가챠를 피해도 시간을 월정액처럼 지불할 수 있다는 유비 → `anime-urban-live-service-nte-tof` § 패키지 게임을 좋아하는 사람에게 나타나는 세 가지 벽 · `ing-20261030-china-anime-games-live-service-ps5`
+- 운영사 흥행과 무료 서사 경험을 별개로 평가하는 기준 → `anime-urban-live-service-nte-tof` § 운영의 미래를 단정하지 않는 법 · `ing-20261030-china-anime-games-live-service-ps5`
+- 애니풍 라이브서비스 게임 PC·모바일 용량 비교 → `ps5-storage-anime-live-games` § 수십 기가바이트를 먹는 애니풍 게임들 · `ing-20261030-china-anime-games-live-service-ps5`
+- 요구 공간과 실제 설치 용량·업데이트 임시 공간 구분 → `ps5-storage-anime-live-games` § 수십 기가바이트를 먹는 애니풍 게임들 · `ing-20261030-china-anime-games-live-service-ps5`
+- PS5 USB 외장과 내부 M.2 NVMe의 실행 가능 범위 → `ps5-storage-anime-live-games` § PS5 저장장치는 '보관'과 '즉시 실행'이 다르다 · `ing-20261030-china-anime-games-live-service-ps5`
+- 고가 5TB USB와 2TB NVMe의 목적별 구매 비교 → `ps5-storage-anime-live-games` § 5TB 외장에 60만 원, 2TB 내장에 19만 원 · `ing-20261030-china-anime-games-live-service-ps5`
+- HIKSEMI FUTURE 2TB의 방열판·성능·브랜드 위험 → `ps5-storage-anime-live-games` § HIKSEMI FUTURE 2TB: 스펙 적합성과 신뢰성을 분리하기 · `ing-20261030-china-anime-games-live-service-ps5`
+- 외장이어서 비싸다는 단순화와 스펙만으로 신뢰성을 확정하는 오류 → `ps5-storage-anime-live-games` § 5TB 외장에 60만 원, 2TB 내장에 19만 원 · `ing-20261030-china-anime-games-live-service-ps5`
+- AI NAND 시장 전망과 SSD 가격 기다리기의 불확실성 → `ps5-storage-anime-live-games` § AI 시대의 NAND 가격과 '기다리기'의 비용 · `ing-20261030-china-anime-games-live-service-ps5`
+- 무료 게임의 저장공간 기회비용과 구매 판단 → `ps5-storage-anime-live-games` § 저장장치 구매의 진짜 판단 기준 · `ing-20261030-china-anime-games-live-service-ps5`
 
 ## 철학·사상사 (27)
 

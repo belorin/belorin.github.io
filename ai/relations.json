@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 540,
+  "edge_count": 546,
   "edges": [
     {
       "from": "living-notes",
@@ -3008,6 +3008,42 @@
     {
       "from": "great-depression-lived-experience-literature",
       "to": "ai-capital-labor-distribution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "china-anime-game-industry",
+      "to": "anime-urban-live-service-nte-tof",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "china-anime-game-industry",
+      "to": "ps5-storage-anime-live-games",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "anime-urban-live-service-nte-tof",
+      "to": "china-anime-game-industry",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "anime-urban-live-service-nte-tof",
+      "to": "ps5-storage-anime-live-games",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ps5-storage-anime-live-games",
+      "to": "china-anime-game-industry",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ps5-storage-anime-live-games",
+      "to": "anime-urban-live-service-nte-tof",
       "type": "related_to",
       "basis": "manifest.related"
     },

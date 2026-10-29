@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 150,
+  "document_count": 153,
   "documents": [
     {
       "id": "living-notes",
@@ -5156,6 +5156,117 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/great-depression-lived-experience-literature.md",
       "page_url": "https://belorin.github.io/notes/great-depression-lived-experience-literature/",
       "app_url": "https://belorin.github.io/#great-depression-lived-experience-literature"
+    },
+    {
+      "id": "china-anime-game-industry",
+      "title": "중국 애니풍 캐릭터 게임 산업 지도: 원신 이후의 회사·규모·투자 회수",
+      "aliases": [
+        "중국 미소녀 게임 산업",
+        "중국 서브컬처 게임 개발사",
+        "중국 가챠 게임 제작비",
+        "애니풍 게임사 비교"
+      ],
+      "category": "게임",
+      "tags": [
+        "중국 게임산업",
+        "서브컬처 게임",
+        "미소녀 게임",
+        "호요버스",
+        "쿠로게임즈",
+        "명조",
+        "원신",
+        "가챠",
+        "제작비",
+        "게임 매출"
+      ],
+      "summary": "원신·명조·젠레스 존 제로·이환 등 중국 애니풍 캐릭터 게임을 월드 구조와 제작비로 구분하고, 개발사 계보·과금 방식·매출 추정과 투자회수의 경계를 정리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 총합 · 회사별 순손익·매출 추정·개발비 외부 재검증 필요",
+      "last_updated_on": "2026-10-30",
+      "last_enriched_on": "2026-10-30",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "anime-urban-live-service-nte-tof",
+        "ps5-storage-anime-live-games"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/china-anime-game-industry.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/china-anime-game-industry.md",
+      "page_url": "https://belorin.github.io/notes/china-anime-game-industry/",
+      "app_url": "https://belorin.github.io/#china-anime-game-industry"
+    },
+    {
+      "id": "anime-urban-live-service-nte-tof",
+      "title": "이환은 타워 오브 판타지의 다음 실패를 반복할까: 도시 오픈월드와 라이브서비스의 시간",
+      "aliases": [
+        "이환 전망",
+        "이환 무과금 스토리",
+        "타워 오브 판타지 운영과 이환",
+        "NTE 장기 운영"
+      ],
+      "category": "게임",
+      "tags": [
+        "이환",
+        "Neverness to Everness",
+        "타워 오브 판타지",
+        "Hotta Studio",
+        "도시 오픈월드",
+        "라이브서비스",
+        "파워크립",
+        "무과금",
+        "게임 서사"
+      ],
+      "summary": "Hotta Studio의 타워 오브 판타지 운영과 Warp 서버 실험을 바탕으로 이환의 도시 콘텐츠·서사 연출·성능 인플레이션·무과금 이용 경험과 장기 운영의 조건을 분석한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 운영 분석 · 미래 전망과 출시 초기 경영 수치 외부 검증 필요",
+      "last_updated_on": "2026-10-30",
+      "last_enriched_on": "2026-10-30",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "china-anime-game-industry",
+        "ps5-storage-anime-live-games"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/anime-urban-live-service-nte-tof.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/anime-urban-live-service-nte-tof.md",
+      "page_url": "https://belorin.github.io/notes/anime-urban-live-service-nte-tof/",
+      "app_url": "https://belorin.github.io/#anime-urban-live-service-nte-tof"
+    },
+    {
+      "id": "ps5-storage-anime-live-games",
+      "title": "게임 한 편에 50GB: 중국 애니풍 라이브서비스와 PS5 저장공간의 경제학",
+      "aliases": [
+        "PS5 2TB SSD 확장",
+        "PS5 게임 외장 저장장치",
+        "이환 설치 용량",
+        "HIKSEMI FUTURE 2TB"
+      ],
+      "category": "게임",
+      "tags": [
+        "PS5",
+        "M.2 SSD",
+        "게임 용량",
+        "USB 외장 저장장치",
+        "HIKSEMI",
+        "저장공간",
+        "낸드 가격",
+        "무료 게임"
+      ],
+      "summary": "원신·명조·젠레스 존 제로·이환 등의 요구 용량을 비교하고, PS5 외장 USB와 내부 M.2 SSD의 기능 차이, HIKSEMI FUTURE 2TB와 고용량 SSD의 구매 판단을 설명한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 기기·용량 비교 · 모델별 스펙 및 실시간 판매가 외부 재검증 필요",
+      "last_updated_on": "2026-10-30",
+      "last_enriched_on": "2026-10-30",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "china-anime-game-industry",
+        "anime-urban-live-service-nte-tof"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ps5-storage-anime-live-games.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ps5-storage-anime-live-games.md",
+      "page_url": "https://belorin.github.io/notes/ps5-storage-anime-live-games/",
+      "app_url": "https://belorin.github.io/#ps5-storage-anime-live-games"
     }
   ]
 }

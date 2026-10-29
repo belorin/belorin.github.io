@@ -509,6 +509,18 @@
   - 정보 피로를 실제 중요도·본래의 놀라움·유통 강도로 분해하는 호들갑 감정기 설계. 과열 차수의 산식, 수치 혼선의 교정, 가상 사례, 링크·캡처 입력과 커스텀 GPT 평가 지침을 설명한다.
   - [문서 페이지](https://belorin.github.io/notes/information-hype-wow-index/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/information-hype-wow-index.md)
 
+## 게임
+
+- **[중국 애니풍 캐릭터 게임 산업 지도: 원신 이후의 회사·규모·투자 회수](wiki/china-anime-game-industry.md)** · 별칭: 중국 미소녀 게임 산업, 중국 서브컬처 게임 개발사, 중국 가챠 게임 제작비, 애니풍 게임사 비교 · 수정: 2026-10-30 · 검토: 대화 기반 총합 · 회사별 순손익·매출 추정·개발비 외부 재검증 필요
+  - 원신·명조·젠레스 존 제로·이환 등 중국 애니풍 캐릭터 게임을 월드 구조와 제작비로 구분하고, 개발사 계보·과금 방식·매출 추정과 투자회수의 경계를 정리한다.
+  - [문서 페이지](https://belorin.github.io/notes/china-anime-game-industry/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/china-anime-game-industry.md)
+- **[이환은 타워 오브 판타지의 다음 실패를 반복할까: 도시 오픈월드와 라이브서비스의 시간](wiki/anime-urban-live-service-nte-tof.md)** · 별칭: 이환 전망, 이환 무과금 스토리, 타워 오브 판타지 운영과 이환, NTE 장기 운영 · 수정: 2026-10-30 · 검토: 대화 기반 운영 분석 · 미래 전망과 출시 초기 경영 수치 외부 검증 필요
+  - Hotta Studio의 타워 오브 판타지 운영과 Warp 서버 실험을 바탕으로 이환의 도시 콘텐츠·서사 연출·성능 인플레이션·무과금 이용 경험과 장기 운영의 조건을 분석한다.
+  - [문서 페이지](https://belorin.github.io/notes/anime-urban-live-service-nte-tof/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/anime-urban-live-service-nte-tof.md)
+- **[게임 한 편에 50GB: 중국 애니풍 라이브서비스와 PS5 저장공간의 경제학](wiki/ps5-storage-anime-live-games.md)** · 별칭: PS5 2TB SSD 확장, PS5 게임 외장 저장장치, 이환 설치 용량, HIKSEMI FUTURE 2TB · 수정: 2026-10-30 · 검토: 대화 기반 기기·용량 비교 · 모델별 스펙 및 실시간 판매가 외부 재검증 필요
+  - 원신·명조·젠레스 존 제로·이환 등의 요구 용량을 비교하고, PS5 외장 USB와 내부 M.2 SSD의 기능 차이, HIKSEMI FUTURE 2TB와 고용량 SSD의 구매 판단을 설명한다.
+  - [문서 페이지](https://belorin.github.io/notes/ps5-storage-anime-live-games/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ps5-storage-anime-live-games.md)
+
 ## 소설 (창작 작품 · 사실 근거 아님)
 
 > 장별 문서는 각 작품의 목차에서 이어진다.
