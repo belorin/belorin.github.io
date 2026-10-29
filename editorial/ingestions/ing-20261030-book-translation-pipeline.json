@@ -1,0 +1,213 @@
+{
+  "id": "ing-20261030-book-translation-pipeline",
+  "processed_on": "2026-10-30",
+  "coverage": "visible-complete",
+  "limit_note": "현재 이 채팅에 실제 표시된 발화 및 코드 내용과 저장소의 기존 문서만 반영. 로컬 스크립트의 실행 성능 및 Google API 통합 완료 여부는 직접 재검증하지 못함. 외부 신규 조사 없음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "텍스트 레이어·스캔 PDF·이미 OCR된 TXT의 분기",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "book-translation-pipeline-local-llm",
+          "section": "OCR보다 먼저 확인할 것: 이미 읽을 수 있는 텍스트가 있는가"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "입력 확보에서 검수까지의 여섯 공정과 실패 경계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "book-translation-pipeline-local-llm",
+          "section": "여섯 공정은 각각 독립해야 한다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "example",
+      "title": "Internet Archive 러다이트 고서 TXT 전처리와 목차 오류",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "book-translation-pipeline-local-llm",
+          "section": "프랭크 필의 러다이트 역사서를 입력으로 삼는 방법"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "llama.cpp 실행기와 Llama 모델 계열의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "book-translation-pipeline-local-llm",
+          "section": "번역 엔진을 바꾸는 것과 실행 환경을 바꾸는 것은 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "example",
+      "title": "Ollama 404와 모델 목록 조회·Qwen3 기본 선택",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "book-translation-pipeline-local-llm",
+          "section": "번역 엔진을 바꾸는 것과 실행 환경을 바꾸는 것은 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "argument",
+      "title": "M1 16GB에서 사고 모드·청크 길이·출력 토큰의 속도 문제",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "book-translation-pipeline-local-llm",
+          "section": "M1·통합 메모리 16GB에서 무엇을 아껴야 하는가"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "concept",
+      "title": "progress.json 체크포인트와 Ctrl+C 재개 단위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "book-translation-pipeline-local-llm",
+          "section": "진행률은 '시도 중'이 아니라 '디스크에 저장됨'을 기준으로 한다"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "counterargument",
+      "title": "분할 기준 변경과 진행 파일 재개의 불일치 위험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "book-translation-pipeline-local-llm",
+          "section": "진행률은 '시도 중'이 아니라 '디스크에 저장됨'을 기준으로 한다"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "example",
+      "title": "Mac 잠자기 방지와 실행 중 Python 파일 변경",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "book-translation-pipeline-local-llm",
+          "section": "노트북이 잠들 때와 번역이 멈출 때"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "argument",
+      "title": "빈 줄 기준 문단 복원이 만든 병기 HTML의 전체 밀림",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "book-translation-pipeline-local-llm",
+          "section": "HTML이 어긋난 진짜 이유: 빈 줄은 문단 ID가 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "concept",
+      "title": "SEG 태그 기준 문단 정렬과 누락 표지의 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "book-translation-pipeline-local-llm",
+          "section": "HTML이 어긋난 진짜 이유: 빈 줄은 문단 ID가 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "argument",
+      "title": "구글 번역 공식 API와 로컬 엔진 스위치 구조의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "book-translation-pipeline-local-llm",
+          "section": "로컬 번역과 구글 번역 사이의 스위치"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "argument",
+      "title": "완역의 조건인 입력·문단·텍스트·판본 검수",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "book-translation-pipeline-local-llm",
+          "section": "무엇을 보면 완역본으로 믿을 수 있는가"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "other",
+      "title": "부분 HTML 뷰어와 TXT·Markdown 출력의 구현 범위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "book-translation-pipeline-local-llm",
+          "section": "실행 예와 남겨진 개발 과제"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "fact",
+      "title": "러다이트 공개 고서 TXT와 번역 공정의 직접 연결",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "luddite-executions-memory",
+          "section": "오래된 무료 공개 도서와 번역의 문제"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "question",
+      "title": "Google Cloud Translation 백엔드의 실제 통합과 실행 검증",
+      "status": "pending",
+      "targets": [],
+      "reason": "스위치 코드가 제안됐으나 로컬 파일 반영 실패가 보고돼 기능의 실동작을 확인하지 못함"
+    },
+    {
+      "id": "k17",
+      "kind": "question",
+      "title": "SEG 출력 검증·오류 청크 재요청과 전체 품질 시험",
+      "status": "pending",
+      "targets": [],
+      "reason": "태그 기준 복원은 표시된 파일에 반영됐으나 새 방식 전체 번역의 정렬 검수 및 자동 재시도는 확인되지 않음"
+    },
+    {
+      "id": "k18",
+      "kind": "question",
+      "title": "생성 번역본의 판형·PDF 출력과 배포 권리 검토",
+      "status": "pending",
+      "targets": [],
+      "reason": "PDF 조판과 판본별 권리의 구체적 결론은 이 작업 범위에서 확인되지 않음"
+    }
+  ]
+}
