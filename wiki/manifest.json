@@ -2651,7 +2651,7 @@
       "title": "AI는 계산이 많아지면 무엇이 달라지는가: 데이터센터와 추론 스케일링",
       "category": "AI와 사회",
       "status": "대화 내 확인 자료 총합 · 데이터센터 규모·기업 계획·추론 연구 세부 외부 재검증 필요",
-      "updated": "2026-10-25",
+      "updated": "2026-10-30",
       "summary": "AI 데이터센터 증설을 단순한 더 큰 사전학습이 아니라 test-time compute, 병렬 탐색·검증, 과학·코딩·피지컬 AI 계산의 확대로 읽고 계산량의 한계를 함께 정리한다.",
       "tags": [
         "AI 데이터센터",
@@ -2663,7 +2663,8 @@
       ],
       "source": "내부 총합 · 현재 접근 가능한 논의와 이미 제시된 링크만 사용 · 이번 편집에서 외부 추가 조사 없음",
       "related": [
-        "japan-physical-ai-skill-transfer"
+        "japan-physical-ai-skill-transfer",
+        "wto-digital-transmission-moratorium"
       ],
       "aliases": [
         "AI 데이터센터와 추론",
@@ -2672,7 +2673,7 @@
         "AI 계산 스케일링"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-25"
+      "last_enriched_on": "2026-10-30"
     },
     {
       "id": "japan-physical-ai-skill-transfer",
@@ -4486,6 +4487,40 @@
       "aliases": [
         "출생순위 이론",
         "맏이 성격 연구"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-30"
+    },
+    {
+      "path": "wiki/wto-digital-transmission-moratorium.md",
+      "publish": true,
+      "order": 139,
+      "id": "wto-digital-transmission-moratorium",
+      "title": "디지털 국경에도 관세가 생기는가: WTO 전자적 전송 모라토리엄과 AI 인터넷",
+      "category": "사회와 제도",
+      "status": "2026년 제도 변화·대화 기반 정리 · 외부 원문 재검증 필요",
+      "updated": "2026-10-30",
+      "summary": "1998년 WTO 전자적 전송 관세 유예의 반복 갱신과 2026년 MC14 연장 실패 보도, 브라질·인도의 입장, 망 이용대가와의 구별, AI 모델·클라우드·데이터센터의 국경 간 영향과 불확실성을 분리한다.",
+      "tags": [
+        "WTO",
+        "전자상거래 모라토리엄",
+        "전자적 전송",
+        "디지털 관세",
+        "브라질",
+        "인도",
+        "망 이용대가",
+        "AI 데이터센터"
+      ],
+      "source": "내부 총합·대화에 제시된 원출처 링크 보존·외부 재검증 없음",
+      "related": [
+        "ai-compute-scaling-inference"
+      ],
+      "aliases": [
+        "WTO 전자상거래 모라토리엄",
+        "전자적 전송 관세 유예",
+        "디지털 관세와 AI",
+        "디지털 무역 모라토리엄",
+        "WTO e-commerce moratorium"
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-30"
