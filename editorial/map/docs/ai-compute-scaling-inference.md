@@ -47,6 +47,8 @@
   - 추론 스케일링의 계산량과 관세 적용 가능 트래픽의 비동일성 · `ing-20261030-wto-digital-transmissions`
 - **컴퓨트를 소유하는 자와 빌리는 자: GPU 증설의 경제적 층위**
   - 추론 컴퓨트의 기술 효용과 경제적 소유의 차이 · `ing-20261030-ai-labor-cloud-us-regions`
+- **계산이 실제로 놓이는 시설의 제약**
+  - 컴퓨트 증설과 실가동 AI 성능의 구별 · `ing-20261030-ai-ceiling-automation-datacenters`
 
 ## 확인된 의미 관계
 

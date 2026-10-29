@@ -42,3 +42,5 @@
   - 모델 기업의 취약성과 수직통합의 위험 · `ing-20261030-ai-labor-cloud-us-regions`
 - **지분과 사용료를 나란히 받는 기업**
   - 지분 투자와 컴퓨트 사용료의 중첩 · `ing-20261030-ai-labor-cloud-us-regions`
+- **클라우드 지대의 물리적 분모: 세계 GW와 도시의 일자리**
+  - 물리 클라우드 지대의 지역적 분모 · `ing-20261030-ai-ceiling-automation-datacenters`

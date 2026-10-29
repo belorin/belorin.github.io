@@ -26,4 +26,19 @@
 
 ## 장부에 기록된 반영 지식
 
-- 없음 (장부 도입 이전 원고이거나 아직 기록이 없다. 기록이 없다는 것은 내용이 없다는 뜻이 아니다.)
+- **‘AI 독재’가 아니라 무엇을 뜻하는가**
+  - 소유자 중심 자동권력의 정의와 가설성 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **첫째 조건: 강제력의 탈인간화**
+  - 사적 자율무력과 강제력 탈인간화의 구별 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **둘째 조건: 핵심 생존노동의 탈인간화**
+  - 핵심 생존노동의 탈인간화 조건 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **셋째 조건: 자기복제보다 중요한 자율 유지·보수·교체 루프**
+  - 기계의 강한 자기복제와 약한 유지보수 회로 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **넷째 조건: 연산·전력·부품·소재 주권**
+  - 연산 전력 부품 소재 주권의 물리적 병목 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **이행기 도구와 완성형의 조건을 혼동하지 않는다**
+  - 디지털 감시 신분제와 생활 마찰 사고실험 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **소유자 내부의 모순**
+  - 소유자 내부 자산 이해관계의 충돌 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **국가별 위험 순위는 무엇을 측정했는가**
+  - AI 극단 독재 국가 위험 유형과 순위의 한계 · `ing-20261030-ai-ceiling-automation-datacenters`

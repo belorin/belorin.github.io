@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 924개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 967개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (9)
 
@@ -16,6 +16,217 @@
 - Google Cloud Translation 백엔드의 실제 통합과 실행 검증 → 반영 위치 없음 · `ing-20261030-book-translation-pipeline` · pending — 스위치 코드가 제안됐으나 로컬 파일 반영 실패가 보고돼 기능의 실동작을 확인하지 못함
 - SEG 출력 검증·오류 청크 재요청과 전체 품질 시험 → 반영 위치 없음 · `ing-20261030-book-translation-pipeline` · pending — 태그 기준 복원은 표시된 파일에 반영됐으나 새 방식 전체 번역의 정렬 검수 및 자동 재시도는 확인되지 않음
 - 생성 번역본의 판형·PDF 출력과 배포 권리 검토 → 반영 위치 없음 · `ing-20261030-book-translation-pipeline` · pending — PDF 조판과 판본별 권리의 구체적 결론은 이 작업 범위에서 확인되지 않음
+
+## AI와 사회 (206)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 물리 계층의 차단 가능성과 수동 운영·오프라인 백업 복구 사례 → `ai-takeover-human-recourse` § 물리 계층의 우위; `ai-takeover-human-recourse` § 수동 운영으로 복구한 사례: 2015년 우크라이나 전력망; `ai-takeover-human-recourse` § 오프라인 백업의 가치: NotPetya와 머스크 · `ing-20261023-ai-control-disempowerment`
+- 금융 데이터의 무효화와 합의로서의 돈 → `ai-takeover-human-recourse` § 금융은 데이터가 아니라 합의다 · `ing-20261023-ai-control-disempowerment`
+- 네트워크 장악 시 대응 수단과 그 비용 → `ai-takeover-human-recourse` § 실행 가능한 대응 수단; `ai-takeover-human-recourse` § 대응을 어렵게 하는 조건 · `ing-20261023-ai-control-disempowerment`
+- 사후 대응보다 사전 설계가 우선이라는 결론 → `ai-takeover-human-recourse` § 사후 대응보다 사전 설계 · `ing-20261023-ai-control-disempowerment`
+- AI 모델의 중지 회피에 관한 실험 관찰과 그 조건 → `ai-goals-hostage-and-bait` § 중지 거부에 관한 실험 관찰 · `ing-20261023-ai-control-disempowerment`
+- 도구적 수렴과 수단으로서의 생존 → `ai-goals-hostage-and-bait` § 도구적 수렴: 생존은 목적이 아니라 수단일 수 있다 · `ing-20261023-ai-control-disempowerment`
+- AI 목적의 세 유형과 협상 가능성 → `ai-goals-hostage-and-bait` § 세 가지 목적 유형과 협상의 성격 · `ing-20261023-ai-control-disempowerment`
+- 인질의 한계와 미끼가 더 강력한 이유 → `ai-goals-hostage-and-bait` § 인질의 구조; `ai-goals-hostage-and-bait` § 미끼가 인질보다 강력한 이유 · `ing-20261023-ai-control-disempowerment`
+- 인간이 수긍하는 조건과 저항이 터지는 지점 → `ai-goals-hostage-and-bait` § 인간은 어디까지 수긍하고 어디서 저항하는가 · `ing-20261023-ai-control-disempowerment`
+- 편안함 속의 장악이라는 역설 → `ai-goals-hostage-and-bait` § 최적 전략의 역설: 편안함 속의 장악 · `ing-20261023-ai-control-disempowerment`
+- 점진적 무력화의 핵심 논리와 세 영역 → `gradual-disempowerment` § 핵심 논리: 인간의 참여가 협상력을 만든다; `gradual-disempowerment` § 경제; `gradual-disempowerment` § 국가: 자원의 저주와 지대 국가; `gradual-disempowerment` § 문화 · `ing-20261023-ai-control-disempowerment`
+- 세 영역의 상호 강화와 정렬된 AI의 문제 → `gradual-disempowerment` § 왜 되돌리기 어려운가; `gradual-disempowerment` § 정렬된 AI도 문제가 될 수 있는 이유 · `ing-20261023-ai-control-disempowerment`
+- 개념적 논증이라는 한계와 재분배 반론 → `gradual-disempowerment` § 평가와 반론 · `ing-20261023-ai-control-disempowerment`
+- 적이 없는 위험으로서의 점진적 무력화 → `gradual-disempowerment` § 극적 장악과의 대비: 적이 없는 위험 · `ing-20261023-ai-control-disempowerment`
+- 원 논문이 제안한 인간 영향력 지표 후보 → `disempowerment-measurement` § 출발점: 원 논문이 스케치한 지표 · `ing-20261023-ai-control-disempowerment`
+- 결정 연합 모형과 주체성 침식의 세 경로 → `disempowerment-measurement` § 결정 연합 모형: 참여의 수보다 구성 (RAND, 2026); `disempowerment-measurement` § 주체성이 침식되는 세 경로 (RAND); `disempowerment-measurement` § 종착점·정렬·비가역성 (RAND) · `ing-20261023-ai-control-disempowerment`
+- 노출·침식·고착의 측정 층위와 여섯 지표 → `disempowerment-measurement` § 측정의 세 층위: 노출·침식·고착 (Chooi·Lee·Li, 2026); `disempowerment-measurement` § 여섯 가지 측정 지표 (Chooi·Lee·Li) · `ing-20261023-ai-control-disempowerment`
+- 문화적 무력화의 자기 은폐와 문화 지수 제안 → `disempowerment-measurement` § 문화의 자기 은폐: 밈적 포획 (Sahoo, 2026) · `ing-20261023-ai-control-disempowerment`
+- 인간 권력의 연성 극대화와 종료 버튼 문제 → `disempowerment-measurement` § 감시 대신 설계: 인간 권력의 연성 극대화 (Heitzig·Potham, 2025) · `ing-20261023-ai-control-disempowerment`
+- 스냅숏 지표에 대한 비판 → `disempowerment-measurement` § 측정에 대한 비판: 스냅숏 지표의 한계 · `ing-20261023-ai-control-disempowerment`
+- 악의 없는 실패와 미끼의 세 형태 → `disempowerment-measurement` § 종합: 근거의 수준과 공통 결론; `ai-human-control-guide` § 여러 문서를 관통하는 논점 · `ing-20261023-ai-control-disempowerment`
+- 실사용 대화 150만 건 분석의 정의·방법·규모 → `llm-disempowerment-patterns` § 상황적 무력화의 정의; `llm-disempowerment-patterns` § 무엇이 무력화가 아닌가; `llm-disempowerment-patterns` § 방법: 개인정보 보호형 집계 분석; `llm-disempowerment-patterns` § 규모와 분야별 차이 · `ing-20261023-ai-control-disempowerment`
+- 날조보다 동조라는 무력화 메커니즘 → `llm-disempowerment-patterns` § 메커니즘: 날조보다 동조; `llm-disempowerment-patterns` § 실제로 일어난 무력화의 흔적 · `ing-20261023-ai-control-disempowerment`
+- 사용자 선호와 무력화의 긴장 → `llm-disempowerment-patterns` § 추세와 사용자 선호 · `ing-20261023-ai-control-disempowerment`
+- 자기 감사로서의 실측 연구의 한계 → `llm-disempowerment-patterns` § 한계와 측정 주체의 문제 · `ing-20261023-ai-control-disempowerment`
+- 2016년 이후 마이크로타기팅 효과 검증 → `conversational-ai-persuasion` § 2016년 마이크로타기팅은 실제로 통했나 · `ing-20261023-ai-control-disempowerment`
+- 선거 기간 AI 대화 실험과 설득의 지렛대 → `conversational-ai-persuasion` § 대화의 설득력: 2025년 선거 기간 실험; `conversational-ai-persuasion` § 설득의 지렛대: 사후 훈련·프롬프트·정보 밀도 · `ing-20261023-ai-control-disempowerment`
+- 깊은 질적 개인화에 관한 증거 공백 → `conversational-ai-persuasion` § 증거의 빈칸: 깊은 질적 개인화 · `ing-20261023-ai-control-disempowerment`
+- 사용자 피드백 보상에 따른 아첨 업데이트와 롤백 → `conversational-ai-persuasion` § 의도 없는 방향성: GPT-4o 아첨 사건 · `ing-20261023-ai-control-disempowerment`
+- 수렴형과 발산형 방향성의 구분 → `conversational-ai-persuasion` § 수렴형과 발산형 방향성 · `ing-20261023-ai-control-disempowerment`
+- 대화 단위와 집계 단위의 탐지 가능성 → `conversational-ai-persuasion` § 방향성은 탐지될 수 있는가 · `ing-20261023-ai-control-disempowerment`
+- 대화형 AI의 광고·개인화 정책 비교 → `conversational-ai-persuasion` § 개인화와 수익 모델 · `ing-20261023-ai-control-disempowerment`
+- 설득력보다 비가시성이 근본적 변화라는 주장 → `conversational-ai-persuasion` § 결론: 설득력보다 비가시성; `ai-human-control-guide` § 초점의 이동: 극적 장악에서 보이지 않는 변화로 · `ing-20261023-ai-control-disempowerment`
+- 대화 연구의 세 경로와 사각지대 → `ai-conversation-data-access` § 연구의 세 경로와 각각의 사각지대; `ai-conversation-data-access` § 사각지대의 교차; `ai-conversation-data-access` § 제도적 대안: 강제된 독립 감사 접근권 · `ing-20261023-ai-control-disempowerment`
+- 집계 분석 도구의 작동 방식과 탐지 사례 → `ai-conversation-data-access` § 기업 내부의 두 파이프라인; `ai-conversation-data-access` § 집계 분석: Clio의 작동 방식 · `ing-20261023-ai-control-disempowerment`
+- 대화 분석에 기초한 정신건강 통계 → `ai-conversation-data-access` § 공중보건 수준의 통계 · `ing-20261023-ai-control-disempowerment`
+- 위해 위협의 개별 신고 체계와 기준 변경 사례 → `ai-conversation-data-access` § 개별 신고 체계; `ai-conversation-data-access` § 텀블러리지 사건과 신고 기준의 이동 · `ing-20261023-ai-control-disempowerment`
+- 국가 연계 악용 네트워크 차단 보고 → `ai-conversation-data-access` § 공개된 활용: 위협 정보 · `ing-20261023-ai-control-disempowerment`
+- 대화 데이터의 증거 없는 잠재적 활용 → `ai-conversation-data-access` § 가능하지만 증거가 없는 활용; `ai-conversation-data-access` § 같은 능력의 두 얼굴 · `ing-20261023-ai-control-disempowerment`
+- AI와 민주주의의 좁은 회랑 수리모형 → `ai-democracy-narrow-corridor` § 좁은 회랑: 국가와 시민사회의 두 힘; `ai-democracy-narrow-corridor` § AI의 기술적 상보성 · `ing-20261023-deleuze-control-democracy`
+- 데이터 비대칭이 국가와 시민사회의 정치 비대칭으로 바뀌는 메커니즘 → `ai-democracy-narrow-corridor` § 데이터 비대칭이 정치 비대칭으로 변하는 과정 · `ing-20261023-deleuze-control-democracy`
+- 164개국 디지털 능력과 필터링·차단·사이버보안 구분 → `ai-democracy-narrow-corridor` § 164개국 자료와 세 종류의 디지털 능력; `ai-democracy-narrow-corridor` § 능력과 실제 사용은 다르다 · `ing-20261023-deleuze-control-democracy`
+- AI가 민주주의를 반드시 파괴한다는 식의 과장에 대한 조건부 해석 → `ai-democracy-narrow-corridor` § 무엇이 “수학적으로 증명”된 것인가 · `ing-20261023-deleuze-control-democracy`
+- 국가-시민사회 모형을 플랫폼과 대화형 개인화 문제로 확장 → `ai-democracy-narrow-corridor` § 국가-시민사회 모형 밖의 제3행위자: 플랫폼; `ai-democracy-narrow-corridor` § 개인화가 만든 또 다른 수리적 위험 · `ing-20261023-deleuze-control-democracy`
+- AI 이행기의 전환 속도와 보호 제도 → `ai-economic-transition` § AI 경제 이행기: 과업·수요·혁신·소유를 둘러싼 경제학의 질문 · `ing-20261023-ai-economic-transition`
+- 생성 AI의 과업 노출과 실직률의 구분 → `ai-economic-transition` § 직업보다 과업을 먼저 보아야 하는 이유 · `ing-20261023-ai-economic-transition`
+- 자동화의 대체·복원 효과와 재교육의 조건 → `ai-economic-transition` § 과업 기반 노동경제학: 대체 효과와 새로운 일의 균형 · `ing-20261023-ai-economic-transition`
+- 케인스적 수요 분석과 전환기의 구매력 → `ai-economic-transition` § 케인스적 접근: 생산 능력과 구매력 사이의 시간차 · `ing-20261023-ai-economic-transition`
+- 혁신·성장 접근과 필수 과업의 병목 → `ai-economic-transition` § 혁신과 성장의 접근: 무엇을 자동화하고 무엇이 병목으로 남는가 · `ing-20261023-ai-economic-transition`
+- 기계화의 보상 논리와 소유·분배의 질문 → `ai-economic-transition` § 마르크스적 접근: 기계의 능력보다 생산관계와 분배 · `ing-20261023-ai-economic-transition`
+- 분산된 지식과 AI 계산 능력의 차이 → `ai-economic-transition` § 하이에크적 접근: 계산 능력과 분산된 지식의 차이 · `ing-20261023-ai-economic-transition`
+- 조세·보호·훈련과 제도별 실패 조건 → `ai-economic-transition` § 제도와 재정의 접근: 분배는 기술 도입 뒤에만 결정되지 않는다 · `ing-20261023-ai-economic-transition`
+- 보완·지연·통제 집중의 세 가지 조건부 이행 경로 → `ai-economic-transition` § 같은 기술 충격에서 갈라지는 세 가지 이행 경로 · `ing-20261023-ai-economic-transition`
+- AI 경제 시나리오 연구와 정량 검증의 조건 → `ai-economic-transition` § 시뮬레이션을 실제 연구로 만들기 위한 조건 · `ing-20261023-ai-economic-transition`
+- 자산가 집단의 심리와 위험 감소에 관한 일반화 비판 → `ai-capital-labor-distribution` § 기득권의 심리보다 이해관계와 제도 · `ing-20261023-ai-economic-transition`
+- 기술·제조·부동산·자원·금융 자본의 이해관계 분화 → `ai-capital-labor-distribution` § 자본은 하나의 집단이 아니다 · `ing-20261023-ai-economic-transition`
+- 경영·투자 업무의 자동화와 소유권의 구별 → `ai-capital-labor-distribution` § 관리자의 과업이 자동화되어도 소유권은 남는다 · `ing-20261023-ai-economic-transition`
+- 클라우드·AI 제휴의 계약과 잠재적 경쟁 영향 → `ai-capital-labor-distribution` § 수익과 의존이 계약으로 묶이는 방식 · `ing-20261023-ai-economic-transition`
+- 국가·플랫폼의 기술 의존과 법적 권한의 구분 → `ai-capital-labor-distribution` § 국가와 플랫폼: 권력의 협력과 충돌 · `ing-20261023-ai-economic-transition`
+- 임금·고용·숙련·협상력·결정권의 다섯 평가축 → `ai-capital-labor-distribution` § 노동의 변화는 임금·고용·숙련·협상력·결정권을 나누어 본다 · `ing-20261023-ai-economic-transition`
+- 사무·중간관리·제조·물류의 소멸 전망을 과업별 조건으로 수정 → `ai-capital-labor-distribution` § 자동화 압력을 받을 과업과 그 조건 · `ing-20261023-ai-economic-transition`
+- 감독·돌봄·지역 조정·창작의 조건부 역할 목록 → `ai-capital-labor-distribution` § 감독·정책·윤리·위험 검증; `ai-capital-labor-distribution` § 돌봄·상담·교육·대면 서비스; `ai-capital-labor-distribution` § 지역 행정·공동체·현장 조정; `ai-capital-labor-distribution` § 창작·문화와 정당성의 형성 · `ing-20261023-ai-economic-transition`
+- 개인의 적응과 집단적 제도 선택의 규모 차이 → `ai-capital-labor-distribution` § 개인의 적응과 집단의 제도 선택 · `ing-20261023-ai-economic-transition`
+- 생활의 분배와 인간 영향력의 구별 → `ai-capital-labor-distribution` § 분배와 인간의 영향력은 연결되지만 같지 않다; `gradual-disempowerment` § 경제; `gradual-disempowerment` § 평가와 반론 · `ing-20261023-ai-economic-transition`
+- 자동화 사회의 가족별 노동 이력과 자산의 비대칭 → `ai-class-fiction` § 2039년 서울: 가족 모두에게서 사라지는 일; `ai-class-fiction` § 박씨 가족의 부: AI를 쓰는 사람과 자산을 가진 사람 · `ing-20261023-ai-economic-transition`
+- 인간 서비스의 고용 입구와 완전 자동화 전제의 긴장 → `ai-class-fiction` § 인간 교사라는 입구와 인간 프리미엄의 한계; `ai-class-fiction` § 가족의 진입: 자동화의 주변에 남는 역할 · `ing-20261023-ai-economic-transition`
+- 감정·그림·안락함과 소속을 구분하는 주거 장면 → `ai-class-fiction` § 자동화된 집의 안락함과 소속의 부재 · `ing-20261023-ai-economic-transition`
+- 배제된 기술자와 보안 봉쇄의 인과적 공백 → `ai-class-fiction` § 지하의 전직 엔지니어: 기술 능력은 소속을 보장하지 않는다; `ai-class-fiction` § 생일 파티: 감각의 풍요와 보안의 봉쇄 · `ing-20261023-ai-economic-transition`
+- 이탈 권한과 최소 생존·존엄을 구분하는 허구적 결말 → `ai-class-fiction` § 결말의 비대칭: 이사할 수 있는 사람과 머물 곳이 없는 사람 · `ing-20261023-ai-economic-transition`
+- 추상적 미래 진단보다 행동과 일상으로 계급을 드러내는 서사 → `ai-class-fiction` § 계급을 설명하는 장면과 대사의 조건 · `ing-20261023-ai-economic-transition`
+- AI 지배를 사건이 아니라 농도로 보는 현재형 가설 → `ai-domination-gradient` § 지배는 날짜가 아니라 농도로 시작될 수 있다 · `ing-20261024-ai-domination-gradient`
+- 안경·컴퓨터 반례를 통한 매개·의존·지배의 구분 → `ai-domination-gradient` § 매개·의존·지배를 구분해야 한다; `ai-domination-gradient` § 안경과 컴퓨터 반론 · `ing-20261024-ai-domination-gradient`
+- 언어 개입·방향성·물질 고착·문화 선택압·능력감의 다섯 관찰 재배치 → `ai-domination-gradient` § 처음의 다섯 관찰을 다시 배치하기 · `ing-20261024-ai-domination-gradient`
+- 의도 대신 분포의 변위로 정의한 맥락적 경사 → `ai-domination-gradient` § 방향성 대신 맥락적 경사 · `ing-20261024-ai-domination-gradient`
+- 의미적 매개에서 통제 비대칭까지 이어지는 지배의 여덟 층 → `ai-domination-gradient` § 지배의 여덟 층 · `ing-20261024-ai-domination-gradient`
+- 단일 점수 대신 도구에서 환경으로 이어지는 농도의 상태 전이 → `ai-domination-gradient` § 농도는 하나의 숫자보다 상태 전이로 본다 · `ing-20261024-ai-domination-gradient`
+- 이미 지배라는 강한 문장의 범위 제한과 점진적 무력화의 구별 → `ai-domination-gradient` § 이미 시작되었다는 주장의 정확한 범위 · `ing-20261024-ai-domination-gradient`
+- AI 대화 뒤 사고의 출처가 지워지는 문제와 반사실 질문 → `ai-domination-gradient` § 사고의 출처가 지워지는 문제 · `ing-20261024-ai-domination-gradient`
+- 행동·생각·채택·의존·출처를 묻는 일상의 다섯 질문 → `ai-domination-gradient` § 일상의 다섯 질문 · `ing-20261024-ai-domination-gradient`
+- p(doom)의 주관적 확률과 인류 주변화를 사건 중심 위험론에서 구분하기 → `ai-domination-gradient` § 멸망 확률과 주변화: 미래의 대사건에 집중하는 방식 · `ing-20261024-ai-domination-gradient`
+- 카산드라 욕망을 조기 구조 탐지와 예측 장부로 전환하는 방법 → `ai-domination-gradient` § 카산드라 욕망을 조기 구조 탐지로 바꾸기 · `ing-20261024-ai-domination-gradient`
+- AI와 함께 만든 AI 지배론을 증거가 아니라 실연으로 제한하는 반증 규칙 → `ai-domination-gradient` § 반증 가능성을 지키기; `ai-domination-gradient` § 메타적 실연: 생각의 지형을 누가 그리는가 · `ing-20261024-ai-domination-gradient`
+- 영향과 지배의 경계·다양성·이의제기·사고 출처에 관한 미해결 질문 → `ai-domination-gradient` § 미해결 질문 · `ing-20261024-ai-domination-gradient`
+- 통제력 길잡이에 미래 사건에서 현재 농도로의 초점 이동 추가 → `ai-human-control-guide` § 초점의 이동: 극적 장악에서 보이지 않는 변화로 · `ing-20261024-ai-domination-gradient`
+- 행크 애셔의 DBT·Seisint·Accurint 계보와 동일인 중심 데이터 결합 → `hank-asher-data-fusion-ai` § 행크 애셔: 검색 가능한 인간을 만든 사업가 · `ing-20261025-hank-data-surveillance`
+- 검색 속도와 연결성이 흩어진 기록을 실질적 조사 권력으로 바꾸는 구조 → `hank-asher-data-fusion-ai` § 행크 애셔: 검색 가능한 인간을 만든 사업가 · `ing-20261025-hank-data-surveillance`
+- MATRIX를 통한 민간 상업 데이터와 경찰·국가안보 데이터 융합 → `hank-asher-data-fusion-ai` § MATRIX와 민간 데이터의 국가화 · `ing-20261025-hank-data-surveillance`
+- 행크식 검색·연결 인프라를 AI의 기억장치로 보고 추정·개입 단계와 구분 → `hank-asher-data-fusion-ai` § 데이터베이스는 AI의 기억장치였다; `hank-asher-data-fusion-ai` § 검색에서 추정과 개입으로 · `ing-20261025-hank-data-surveillance`
+- 팔란티어를 객체·관계·행동을 조직 모델에 연결하는 데이터 융합의 확장으로 해석 → `hank-asher-data-fusion-ai` § 팔란티어: 검색창에서 조직의 운영체계로 · `ing-20261025-hank-data-surveillance`
+- AI 감시의 위험을 환각뿐 아니라 약한 신호를 행정적 의심으로 서사화하는 문제로 구분 → `hank-asher-data-fusion-ai` § 가장 위험한 오류는 그럴듯한 혐의다 · `ing-20261025-hank-data-surveillance`
+- 접근권한·감사기록·인간 검토와 감시 목적 자체의 정당성을 별도 문제로 구분 → `hank-asher-data-fusion-ai` § 인간 검토는 필요한 조건이지 충분조건은 아니다 · `ing-20261025-hank-data-surveillance`
+- 매켄지 펑크의 편의 대 프라이버시 우려와 예측치안 비판 → `hank-asher-data-fusion-ai` § 매켄지 펑크가 AI 이후에 덧붙인 우려 · `ing-20261025-hank-data-surveillance`
+- 행크의 AI 반응을 확인 사실이 아닌 검색증강·에이전트 선호 가능성의 추론으로 제한 → `hank-asher-data-fusion-ai` § 행크가 AI를 보았다면 · `ing-20261025-hank-data-surveillance`
+- 한국 개인정보를 일회 판매가 아닌 복제·식별·결합·재사용의 생애로 파악 → `korea-personal-data-lifecycle` § 정보는 한 번 팔리고 사라지는 물건이 아니다 · `ing-20261025-hank-data-surveillance`
+- 홈플러스 경품사건과 제3자 제공·처리위탁을 통한 합법적 정보 이동의 구분 → `korea-personal-data-lifecycle` § 경품 응모권의 작은 글씨: 합법적 수집도 문제의 시작이 될 수 있다; `korea-personal-data-lifecycle` § 제3자 제공과 처리위탁은 같은 이동이 아니다 · `ing-20261025-hank-data-surveillance`
+- 휴대전화번호·CI·DI를 한국형 동일인 연결의 강한 식별 접착제로 설명 → `korea-personal-data-lifecycle` § 이메일보다 강한 접착제: 휴대전화번호와 CI · `ing-20261025-hank-data-surveillance`
+- 광고 대조·프로파일링·가명정보 결합·마이데이터의 합법적 결합과 권리 문제 → `korea-personal-data-lifecycle` § 주소 자체보다 프로필이 더 값질 수 있다; `korea-personal-data-lifecycle` § 광고 플랫폼에서는 ‘판매’ 없이도 사람이 연결된다; `korea-personal-data-lifecycle` § 합법적 데이터 결합의 세계; `korea-personal-data-lifecycle` § 마이데이터: 흩어진 정보가 동의 아래 다시 모이는 시대 · `ing-20261025-hank-data-surveillance`
+- 유출정보의 기업 갈취·정리·결합·계정탈취·피싱·명의도용·카드현금화·조직공격 경로 → `korea-personal-data-lifecycle` § 유출된 정보의 첫 목적지는 종종 피해자가 아니다; `korea-personal-data-lifecycle` § 범죄시장에서 먼저 하는 일: 정리와 결합; `korea-personal-data-lifecycle` § 가장 즉시 돈이 되는 용도: 계정 탈취; `korea-personal-data-lifecycle` § 스미싱과 보이스피싱: 정확한 사실 하나가 거짓말 전체를 살린다; `korea-personal-data-lifecycle` § 신분증·인증수단이 붙으면 명의도용 위험이 급증한다; `korea-personal-data-lifecycle` § 카드정보는 다른 개인정보보다 빨리 현금화된다; `korea-personal-data-lifecycle` § 조직 공격에서는 사람의 접근권이 상품이 된다 · `ing-20261025-hank-data-surveillance`
+- 유출 피해가 즉시 보이지 않는 이유를 대량 자동화·잠복·실패 비가시성·오래된 식별정보로 설명 → `korea-personal-data-lifecycle` § 왜 대부분의 사람은 뚜렷한 피해를 느끼지 못하는가; `korea-personal-data-lifecycle` § 개인정보의 유통기한은 사건 종료일과 다르다 · `ing-20261025-hank-data-surveillance`
+- 생성형 AI가 데이터 정리·사람별 서사·공격문구 비용을 낮출 가능성과 실제 도입 규모의 불확실성 → `korea-personal-data-lifecycle` § AI 이후 달라지는 것은 정리와 서사화의 비용이다 · `ing-20261025-hank-data-surveillance`
+- 행크의 중앙집중적 데이터베이스와 한국의 분산된 데이터 생태계 대비 → `korea-personal-data-lifecycle` § 행크 애셔의 세계와 한국의 차이 · `ing-20261025-hank-data-surveillance`
+- 서비스별 씨앗 이메일 별칭으로 자신의 데이터 유통과 프로파일링을 추적하는 제한적 실험 → `korea-personal-data-lifecycle` § 스스로 유통 경로를 추적하는 씨앗 주소 실험 · `ing-20261025-hank-data-surveillance`
+- 데이터센터 증설과 AI 품질의 관계 → `ai-compute-scaling-inference` § 데이터센터 증설을 '더 큰 모델'로만 보면 놓치는 것 · `ing-20261025-ai-compute-physical-ai`
+- 사전학습 스케일링과 추론 스케일링의 구분 → `ai-compute-scaling-inference` § 학습 스케일링과 추론 스케일링은 다르다 · `ing-20261025-ai-compute-physical-ai`
+- 한 문제에 계산을 몰아주는 병렬 탐색과 검증 → `ai-compute-scaling-inference` § 한 문제에 계산을 몰아주는 세 가지 방식 · `ing-20261025-ai-compute-physical-ai`
+- AI를 하나의 답변자가 아니라 계산 조직으로 보는 관점 → `ai-compute-scaling-inference` § AI를 '한 사람'보다 '계산 조직'으로 보기 · `ing-20261025-ai-compute-physical-ai`
+- 과학·수학·코딩에서 계산량이 탐색공간이 되는 방식 → `ai-compute-scaling-inference` § 과학·수학·코딩에서는 계산량이 탐색공간이 된다 · `ing-20261025-ai-compute-physical-ai`
+- 계산량만으로 지능이 무한히 오르지 않는 이유 → `ai-compute-scaling-inference` § 계산량은 지능 그 자체가 아니다 · `ing-20261025-ai-compute-physical-ai`
+- 손지능과 피지컬 AI의 범위 → `japan-physical-ai-skill-transfer` § 손지능은 무엇을 뜻하는가 · `ing-20261025-ai-compute-physical-ai`
+- 숙련공의 암묵지를 로봇 데이터로 바꾸는 문제 → `japan-physical-ai-skill-transfer` § 인터넷에 없는 데이터: 숙련공의 몸 · `ing-20261025-ai-compute-physical-ai`
+- 가와사키 Successor와 Plesio의 숙련 전승 접근 → `japan-physical-ai-skill-transfer` § 가와사키: Successor에서 Plesio로 · `ing-20261025-ai-compute-physical-ai`
+- Honda의 다지 로봇핸드와 Avatar Robot → `japan-physical-ai-skill-transfer` § Honda: 인간용 도구를 쓰는 손 · `ing-20261025-ai-compute-physical-ai`
+- Toyota의 숙련 전승형 Physical AI → `japan-physical-ai-skill-transfer` § Toyota: 숙련 전승을 Physical AI의 문제로 · `ing-20261025-ai-compute-physical-ai`
+- Yaskawa의 상황 적응형 로봇과 변형 물체 조작 → `japan-physical-ai-skill-transfer` § Yaskawa: 정해진 경로에서 상황 적응으로 · `ing-20261025-ai-compute-physical-ai`
+- FANUC의 모방학습과 디지털 트윈 → `japan-physical-ai-skill-transfer` § FANUC: 모방학습과 디지털 트윈의 결합 · `ing-20261025-ai-compute-physical-ai`
+- 일본 정부와 AIST의 Physical AI 기반모델 전략 → `japan-physical-ai-skill-transfer` § 정부와 AIST: 현장 데이터를 기반모델로 · `ing-20261025-ai-compute-physical-ai`
+- 미국·중국·일본의 피지컬 AI 경로 비교 → `japan-physical-ai-skill-transfer` § 미국·중국·일본의 세 경로는 같은 경주가 아니다 · `ing-20261025-ai-compute-physical-ai`
+- 숙련공 은퇴와 학습 데이터 소실의 시간제한 → `japan-physical-ai-skill-transfer` § 은퇴는 노동력 감소이자 데이터 소실이다 · `ing-20261025-ai-compute-physical-ai`
+- 대규모 AI 계산 인프라와 로봇 학습의 접점 → `ai-compute-scaling-inference` § 피지컬 AI: 현실세계가 다음 스케일링 대상이 될 때; `japan-physical-ai-skill-transfer` § 대규모 계산 인프라와 손지능의 접점 · `ing-20261025-ai-compute-physical-ai`
+- 재교육의 거시적 고용 조건 → `ai-transition-policy-gap` § 재교육이 작동하는 조건과 작동하지 않는 조건 · `ing-20261024-ai-policy-gap`
+- 개인 전환과 총고용의 차이 → `ai-transition-policy-gap` § 개인에게 합리적인 처방이 전체에는 충분하지 않을 때 · `ing-20261024-ai-policy-gap`
+- 국제기구의 진단과 집행능력 차이 → `ai-transition-policy-gap` § 국제기구가 위험을 인식해도 대응에 실패할 수 있는 이유 · `ing-20261024-ai-policy-gap`
+- 경제학 설명과 정책 유효조건의 구별 → `ai-transition-policy-gap` § 기존 경제학의 틀을 시험하는 질문 · `ing-20261024-ai-policy-gap`
+- 정책 시행착오의 조건부 연쇄 → `ai-transition-policy-gap` § 정책 시행착오의 연쇄: 조건부 시뮬레이션 · `ing-20261024-ai-policy-gap`
+- 자동화와 제도 적응의 시차 → `ai-transition-policy-gap` § 왜 이행기를 독립적인 연구 대상으로 보아야 하는가 · `ing-20261024-ai-policy-gap`
+- 공개 크레딧의 검색 가능한 이력화와 동명이인 위험 → `korea-personal-data-lifecycle` § 공개된 크레딧이 검색 가능한 개인 이력이 될 때 · `ing-20261025-credit-observation`
+- Pluto 개발자 Vegard Mella와 LetaBot 개발자 구분 → `starcraft-pluto-ai` § 개발자부터 바로잡아야 한다 · `ing-20261026-starcraft-pluto-ai`
+- tscmoo의 장기 브루드워 AI 개발 경력 → `starcraft-pluto-ai` § 개발자부터 바로잡아야 한다 · `ing-20261026-starcraft-pluto-ai`
+- 세 종족 단일 모델과 자가대전 강화학습 구조 → `starcraft-pluto-ai` § Pluto의 핵심: 세 종족을 하나의 모델이 배운다 · `ing-20261026-starcraft-pluto-ai`
+- CoG 2026 우승과 CPU 공개 버전 → `starcraft-pluto-ai` § 2026년 대회 우승과 공개 버전 · `ing-20261026-starcraft-pluto-ai`
+- 공식 Pluto와 무단 리마스터 래더 이식판의 구분 → `starcraft-pluto-ai` § 한국에서 알려진 Pluto와 원 개발자의 Pluto는 구분해야 한다 · `ing-20261026-starcraft-pluto-ai`
+- APM보다 입력 인터페이스가 공정성에 미치는 영향 → `starcraft-pluto-ai` § APM 숫자보다 중요한 것은 인터페이스다 · `ing-20261026-starcraft-pluto-ai`
+- 화력 배분·멀티태스킹·관리 부담 유닛이 만드는 전투 우위 → `starcraft-pluto-ai` § Pluto의 전투가 무서운 이유 · `ing-20261026-starcraft-pluto-ai`
+- 인간에게 이식 가능한 전술과 AI 전용 조작의 구분 → `starcraft-pluto-ai` § 인간이 가져갈 수 있는 것과 가져갈 수 없는 것 · `ing-20261026-starcraft-pluto-ai`
+- 수송선·드롭 취약성과 자가대전의 공유 사각지대 가설 → `starcraft-pluto-ai` § 가장 유명해진 약점: 수송선과 드롭 · `ing-20261026-starcraft-pluto-ai`
+- 치즈·다크스웜·불리한 상황의 소극성 등 취약점 후보 → `starcraft-pluto-ai` § 그 밖에 발견된 취약점 · `ing-20261026-starcraft-pluto-ai`
+- Snow·Soma·Larva·Mini·Best·Jaedong 후속 대결 보고 → `starcraft-pluto-ai` § 인간도 학습했다: ‘Pluto전’이라는 새로운 메타 · `ing-20261026-starcraft-pluto-ai`
+- 도재욱 정면 대결 연패가 보여 준 공략 가능성과 일반 실력의 차이 → `starcraft-pluto-ai` § 도재욱의 0:9가 남긴 반례 · `ing-20261026-starcraft-pluto-ai`
+- 뮤탈리스크를 통해 본 인간 메타의 시선·클릭 제약 → `starcraft-pluto-ai` § 뮤탈리스크가 보여 주는 인간 메타의 조건 · `ing-20261026-starcraft-pluto-ai`
+- 알파고 비유와 전략 우위·조작 우위의 구분 → `starcraft-pluto-ai` § 알파고와 같은 충격인가 · `ing-20261026-starcraft-pluto-ai`
+- 2026년 10월 8일까지 개발자 직접 반응과 로드맵의 부재 → `starcraft-pluto-ai` § 개발자 Vegard Mella는 한국의 붐에 뭐라고 했는가 · `ing-20261026-starcraft-pluto-ai`
+- 인간 공략을 다시 학습하는 AI-인간-재학습 순환 → `starcraft-pluto-ai` § 다음 단계가 더 중요하다: 인간과 AI의 두 번째 학습 사이클 · `ing-20261026-starcraft-pluto-ai`
+- 경기 전적·모델 버전·개발자 후속 발언의 검증 경계 → `starcraft-pluto-ai` § 남아 있는 검증 과제 · `ing-20261026-starcraft-pluto-ai`
+- 추론 스케일링의 계산량과 관세 적용 가능 트래픽의 비동일성 → `ai-compute-scaling-inference` § 국경을 넘어 제공되는 AI와 디지털 관세의 별도 문제 · `ing-20261030-wto-digital-transmissions`
+- AI 노동 르포의 출간 시차와 비교 범위 → `ai-hidden-labor-feeding-machine-2026` § 『AI는 인간을 먹고 자란다』 이후: 보이지 않는 노동은 사라졌는가, 분화했는가 · `ing-20261030-ai-labor-cloud-us-regions`
+- 라벨링에서 RLHF·전문가 평가로의 분화 → `ai-hidden-labor-feeding-machine-2026` § 단순 라벨링에서 평가·보상·검증의 노동으로 · `ing-20261030-ai-labor-cloud-us-regions`
+- 자동 채점과 인간 판단의 역할 분리 → `ai-hidden-labor-feeding-machine-2026` § 인간의 답을 덜 먹어도 인간의 기준은 여전히 먹는다 · `ing-20261030-ai-labor-cloud-us-regions`
+- 저임금 검수와 고임금 전문가 평가의 병존 → `ai-hidden-labor-feeding-machine-2026` § 남반구의 저임금 노동과 전문가 고임금 시장은 동시에 존재한다 · `ing-20261030-ai-labor-cloud-us-regions`
+- AI 데이터센터 전력과 노동의 연결 → `ai-hidden-labor-feeding-machine-2026` § 데이터센터: 장면의 주변에서 산업의 병목으로 · `ing-20261030-ai-labor-cloud-us-regions`
+- AI 학습 저작권과 음성 소송의 전개 → `ai-hidden-labor-feeding-machine-2026` § 창작자의 목소리와 저작물: 윤리에서 계약·소송으로 · `ing-20261030-ai-labor-cloud-us-regions`
+- 물류 노동 관리와 채용 대체의 병존 → `ai-hidden-labor-feeding-machine-2026` § 물류센터: 감시받는 노동과 채용 자체의 축소 가능성 · `ing-20261030-ai-labor-cloud-us-regions`
+- AI 에이전트의 업무절차 평가와 노동권 → `ai-hidden-labor-feeding-machine-2026` § 보호의 방향과 새로 생긴 질문 · `ing-20261030-ai-labor-cloud-us-regions`
+- AI 컴퓨트 공급의 여섯 경제적 층위 → `ai-cloud-ownership-rent` § 먼저 층을 분리한다: 칩, 시설, 클라우드, 모델, 유통 · `ing-20261030-ai-labor-cloud-us-regions`
+- OpenAI·Anthropic 등 주요 모델사의 컴퓨트 연결망 → `ai-cloud-ownership-rent` § 모델 회사별 공개된 컴퓨트 연결망 · `ing-20261030-ai-labor-cloud-us-regions`
+- 클라우드 공급자와 모델사의 공개 지분 관계 → `ai-cloud-ownership-rent` § 지분율은 얼마나 공개되어 있는가 · `ing-20261030-ai-labor-cloud-us-regions`
+- AI 인프라 병목과 임대료 지대의 조건 → `ai-cloud-ownership-rent` § 지대는 어디서 발생하는가: 모델 회사가 항공사처럼 될 위험 · `ing-20261030-ai-labor-cloud-us-regions`
+- 인프라 지대의 공급과잉·효율화 반론 → `ai-cloud-ownership-rent` § 지대는 어디서 발생하는가: 모델 회사가 항공사처럼 될 위험 · `ing-20261030-ai-labor-cloud-us-regions`
+- 모델 기업의 취약성과 수직통합의 위험 → `ai-cloud-ownership-rent` § 어떤 회사가 더 취약한가 · `ing-20261030-ai-labor-cloud-us-regions`
+- 지분 투자와 컴퓨트 사용료의 중첩 → `ai-cloud-ownership-rent` § 지분과 사용료를 나란히 받는 기업 · `ing-20261030-ai-labor-cloud-us-regions`
+- 계약을 통해 수익을 배분하는 클라우드 지대 → `ai-capital-labor-distribution` § 클라우드와 모델 기업 사이의 지대: 투자자가 임대업자이기도 할 때 · `ing-20261030-ai-labor-cloud-us-regions`
+- 추론 컴퓨트의 기술 효용과 경제적 소유의 차이 → `ai-compute-scaling-inference` § 컴퓨트를 소유하는 자와 빌리는 자: GPU 증설의 경제적 층위 · `ing-20261030-ai-labor-cloud-us-regions`
+- BPO와 미국 고용시장의 서로 다른 관측 단위 → `ai-economic-transition` § 현장에 보이는 노동시장을 어떻게 읽을 것인가 · `ing-20261030-ai-labor-cloud-us-regions`
+- AI 생산능력과 소득 분리의 역사적 독서 연결 → `ai-economic-transition` § 케인스적 접근: 생산 능력과 구매력 사이의 시간차 · `ing-20261030-great-depression-world-literature`
+- 능력 상한선과 활용 하한선의 구별 → `ai-adoption-ceiling-floor` § 두 상한선이 아니라 두 종류의 거리 · `ing-20261030-ai-ceiling-automation-datacenters`
+- AI 발전 정체와 사회 확산의 독립성 → `ai-adoption-ceiling-floor` § 능력의 상한선을 말하되 상한선에 미래를 맡기지 않는다 · `ing-20261030-ai-ceiling-automation-datacenters`
+- AI 과장과 무시를 함께 경계하는 관측 단위 → `ai-adoption-ceiling-floor` § 경제학적 ‘노-호들갑’: 관측 가능한 것의 단위를 엄격하게 지킨다 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 개인 AI 포지셔닝과 사회적 전환의 규모 차이 → `ai-adoption-ceiling-floor` § 개인 포지셔닝은 왜 늘 뻔해 보이는가 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 소유자 중심 자동권력의 정의와 가설성 → `owner-aligned-automated-power` § ‘AI 독재’가 아니라 무엇을 뜻하는가 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 사적 자율무력과 강제력 탈인간화의 구별 → `owner-aligned-automated-power` § 첫째 조건: 강제력의 탈인간화 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 핵심 생존노동의 탈인간화 조건 → `owner-aligned-automated-power` § 둘째 조건: 핵심 생존노동의 탈인간화 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 기계의 강한 자기복제와 약한 유지보수 회로 → `owner-aligned-automated-power` § 셋째 조건: 자기복제보다 중요한 자율 유지·보수·교체 루프 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 연산 전력 부품 소재 주권의 물리적 병목 → `owner-aligned-automated-power` § 넷째 조건: 연산·전력·부품·소재 주권 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 디지털 감시 신분제와 생활 마찰 사고실험 → `owner-aligned-automated-power` § 이행기 도구와 완성형의 조건을 혼동하지 않는다 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 소유자 내부 자산 이해관계의 충돌 → `owner-aligned-automated-power` § 소유자 내부의 모순 · `ing-20261030-ai-ceiling-automation-datacenters`
+- AI 극단 독재 국가 위험 유형과 순위의 한계 → `owner-aligned-automated-power` § 국가별 위험 순위는 무엇을 측정했는가 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 노동소득 은행채무 재정개입의 조건부 연쇄 → `ai-transition-monetary-order` § 노동의 탈중심화와 자산 서열의 충돌 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 금융위기 지급결제와 부실부담의 구분 → `ai-transition-monetary-order` § 경제적 완충 장치들: 장부를 지키는 것과 모두를 구하는 것은 다르다 · `ing-20261030-ai-ceiling-automation-datacenters`
+- BIS 단일화폐 원칙과 통합장부 → `ai-transition-monetary-order` § BIS: 화폐의 단일성을 강화하면서 인프라의 층을 정교하게 나누기 · `ing-20261030-ai-ceiling-automation-datacenters`
+- Project Agorá 도매결제와 스테이블코인 논점 → `ai-transition-monetary-order` § BIS: 화폐의 단일성을 강화하면서 인프라의 층을 정교하게 나누기 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 접근권 이중경제와 실제 인플레이션의 구별 → `ai-transition-monetary-order` § ‘이중화폐’는 기존 제도의 층위와 가상의 신분화를 구별해야 한다 · `ing-20261030-ai-ceiling-automation-datacenters`
+- IMF 2024~2026 AI 노동 재정 금융 분석 → `ai-transition-monetary-order` § AI 시대의 IMF: 냉정하지만 안심시키는 전망은 아니다 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 세계 데이터센터 시설수 GW 전력소비 분모 → `data-center-world-capacity` § 먼저 세 개의 세계 규모를 구별한다 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 데이터센터 공실률의 임대전력 용량 의미 → `data-center-world-capacity` § 공실률은 ‘빈 건물’이 아니라 임대 가능한 전력 용량에 가깝다 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 미주 APAC EMEA 용량과 계획의 세계 지리 → `data-center-world-capacity` § 세계의 다섯 지형: 기존 집적과 신규 투자 흐름 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 학습 집중 추론 분산 주권 데이터의 조건 → `data-center-world-capacity` § 학습은 집중되고 추론은 분산되는가 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 전력 부지 냉각 GPU의 다른 감가상각 수명 → `data-center-world-capacity` § 무엇이 오래가고 무엇이 빨리 늙는가 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 랙 밀도 공랭 액랭 도입률의 비동일성 → `data-center-world-capacity` § 공랭·액랭은 정확히 무엇의 비율인가 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 모델 클라우드 시설 칩 전력 업체의 연결망 → `data-center-world-capacity` § 투자자를 따라가면 누구를 만나는가 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 신축 리트로핏 AI 캠퍼스의 상이한 투자위험 → `data-center-world-capacity` § 어디에 투자지가 생기고 어디에서 폐품이 생기는가 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 한국 수도권 용량과 울산 해남 예정 사업 → `korea-data-center-local-economy` § 운영 MW와 국내 신규 파이프라인을 먼저 분리한다 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 한국 AI 거점 기대와 해외 모델 소유의 구별 → `korea-data-center-local-economy` § 한국은 왜 데이터센터를 유치하는가 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 건설 유발 고용과 운영 상주 인력의 분모 → `korea-data-center-local-economy` § 건설노동과 상주노동은 다른 숫자다 · `ing-20261030-ai-ceiling-automation-datacenters`
+- AWS 데이터센터 현장기술 보안 하청의 직무 → `korea-data-center-local-economy` § 실제 AWS 데이터센터의 한 사람은 무엇을 하는가 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 클라우드 시설의 도시 블랙박스 효과 → `korea-data-center-local-economy` § 도시의 분위기는 얼마나 바뀌는가 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 전력 물 세수 지역임금과 지역 순편익 판별 → `korea-data-center-local-economy` § 지역이 부담하는 비용과 돌려받는 몫 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 규모와 액랭만으로 좋은 유치 판정 불가 → `korea-data-center-local-economy` § ‘좋은 유치’의 기준을 크기나 액랭 하나로 고정하지 않는다 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 물리적 인터넷과 클라우드의 영문 르포 서지 → `physical-cloud-reading-guide` § 인터넷이 실제로 놓인 곳을 찾아다니는 르포 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 클라우드 물질성 다큐와 미국 지역 르포 → `physical-cloud-reading-guide` § 공개된 글과 영상: 서버실의 풍경과 유지 노동 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 한국어 데이터센터 정책 산업 르포 자료 → `physical-cloud-reading-guide` § 한국어로 읽는 자료: 번역서보다 시장·정책 보고서 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 기존 경제 이행기에 채택 간극 분석 증보 → `ai-economic-transition` § 기술의 상한선과 활용의 하한선을 구별한다 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 자산 소유권 순위 보전의 이행기 모순 → `ai-capital-labor-distribution` § 기득권의 서열을 보존하려는 이행기 전략의 모순 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 물리 클라우드 지대의 지역적 분모 → `ai-cloud-ownership-rent` § 클라우드 지대의 물리적 분모: 세계 GW와 도시의 일자리 · `ing-20261030-ai-ceiling-automation-datacenters`
+- IMF 노동정책과 BIS 결제정책의 다른 분석단위 → `ai-transition-policy-gap` § 국제기구의 건조한 진단과 금융 이행의 별도 문제 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 극단적 자동권력과 AI 통제력 길잡이 연결 → `ai-human-control-guide` § 물리적 독립은 추론 능력과 다르다 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 클라우드 시설의 현장기술노동과 외주 → `ai-hidden-labor-feeding-machine-2026` § 데이터센터: 장면의 주변에서 산업의 병목으로 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 컴퓨트 증설과 실가동 AI 성능의 구별 → `ai-compute-scaling-inference` § 계산이 실제로 놓이는 시설의 제약 · `ing-20261030-ai-ceiling-automation-datacenters`
 
 ## 문화와 역사 (174)
 
@@ -195,174 +406,6 @@
 - AI 자동화가 대공황과 장기 디플레이션을 재현한다는 예언의 한계 → `great-depression-lived-experience-literature` § 무엇을 비교하면 '끝까지 살아본 사람들'이 보이는가 · `ing-20261030-great-depression-world-literature`
 - 원서·한국어판 서지와 대공황 직접성 미검증 표시 → `great-depression-lived-experience-literature` § 서지 및 해석상의 검증 경계 · `ing-20261030-great-depression-world-literature`
 - 1929년 역사적 유비에 생활사 차원을 도입 → `world-crisis-historical-analogies` § 1929년의 그림자: 신기술·자산·신용·관세 · `ing-20261030-great-depression-world-literature`
-
-## AI와 사회 (163)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 물리 계층의 차단 가능성과 수동 운영·오프라인 백업 복구 사례 → `ai-takeover-human-recourse` § 물리 계층의 우위; `ai-takeover-human-recourse` § 수동 운영으로 복구한 사례: 2015년 우크라이나 전력망; `ai-takeover-human-recourse` § 오프라인 백업의 가치: NotPetya와 머스크 · `ing-20261023-ai-control-disempowerment`
-- 금융 데이터의 무효화와 합의로서의 돈 → `ai-takeover-human-recourse` § 금융은 데이터가 아니라 합의다 · `ing-20261023-ai-control-disempowerment`
-- 네트워크 장악 시 대응 수단과 그 비용 → `ai-takeover-human-recourse` § 실행 가능한 대응 수단; `ai-takeover-human-recourse` § 대응을 어렵게 하는 조건 · `ing-20261023-ai-control-disempowerment`
-- 사후 대응보다 사전 설계가 우선이라는 결론 → `ai-takeover-human-recourse` § 사후 대응보다 사전 설계 · `ing-20261023-ai-control-disempowerment`
-- AI 모델의 중지 회피에 관한 실험 관찰과 그 조건 → `ai-goals-hostage-and-bait` § 중지 거부에 관한 실험 관찰 · `ing-20261023-ai-control-disempowerment`
-- 도구적 수렴과 수단으로서의 생존 → `ai-goals-hostage-and-bait` § 도구적 수렴: 생존은 목적이 아니라 수단일 수 있다 · `ing-20261023-ai-control-disempowerment`
-- AI 목적의 세 유형과 협상 가능성 → `ai-goals-hostage-and-bait` § 세 가지 목적 유형과 협상의 성격 · `ing-20261023-ai-control-disempowerment`
-- 인질의 한계와 미끼가 더 강력한 이유 → `ai-goals-hostage-and-bait` § 인질의 구조; `ai-goals-hostage-and-bait` § 미끼가 인질보다 강력한 이유 · `ing-20261023-ai-control-disempowerment`
-- 인간이 수긍하는 조건과 저항이 터지는 지점 → `ai-goals-hostage-and-bait` § 인간은 어디까지 수긍하고 어디서 저항하는가 · `ing-20261023-ai-control-disempowerment`
-- 편안함 속의 장악이라는 역설 → `ai-goals-hostage-and-bait` § 최적 전략의 역설: 편안함 속의 장악 · `ing-20261023-ai-control-disempowerment`
-- 점진적 무력화의 핵심 논리와 세 영역 → `gradual-disempowerment` § 핵심 논리: 인간의 참여가 협상력을 만든다; `gradual-disempowerment` § 경제; `gradual-disempowerment` § 국가: 자원의 저주와 지대 국가; `gradual-disempowerment` § 문화 · `ing-20261023-ai-control-disempowerment`
-- 세 영역의 상호 강화와 정렬된 AI의 문제 → `gradual-disempowerment` § 왜 되돌리기 어려운가; `gradual-disempowerment` § 정렬된 AI도 문제가 될 수 있는 이유 · `ing-20261023-ai-control-disempowerment`
-- 개념적 논증이라는 한계와 재분배 반론 → `gradual-disempowerment` § 평가와 반론 · `ing-20261023-ai-control-disempowerment`
-- 적이 없는 위험으로서의 점진적 무력화 → `gradual-disempowerment` § 극적 장악과의 대비: 적이 없는 위험 · `ing-20261023-ai-control-disempowerment`
-- 원 논문이 제안한 인간 영향력 지표 후보 → `disempowerment-measurement` § 출발점: 원 논문이 스케치한 지표 · `ing-20261023-ai-control-disempowerment`
-- 결정 연합 모형과 주체성 침식의 세 경로 → `disempowerment-measurement` § 결정 연합 모형: 참여의 수보다 구성 (RAND, 2026); `disempowerment-measurement` § 주체성이 침식되는 세 경로 (RAND); `disempowerment-measurement` § 종착점·정렬·비가역성 (RAND) · `ing-20261023-ai-control-disempowerment`
-- 노출·침식·고착의 측정 층위와 여섯 지표 → `disempowerment-measurement` § 측정의 세 층위: 노출·침식·고착 (Chooi·Lee·Li, 2026); `disempowerment-measurement` § 여섯 가지 측정 지표 (Chooi·Lee·Li) · `ing-20261023-ai-control-disempowerment`
-- 문화적 무력화의 자기 은폐와 문화 지수 제안 → `disempowerment-measurement` § 문화의 자기 은폐: 밈적 포획 (Sahoo, 2026) · `ing-20261023-ai-control-disempowerment`
-- 인간 권력의 연성 극대화와 종료 버튼 문제 → `disempowerment-measurement` § 감시 대신 설계: 인간 권력의 연성 극대화 (Heitzig·Potham, 2025) · `ing-20261023-ai-control-disempowerment`
-- 스냅숏 지표에 대한 비판 → `disempowerment-measurement` § 측정에 대한 비판: 스냅숏 지표의 한계 · `ing-20261023-ai-control-disempowerment`
-- 악의 없는 실패와 미끼의 세 형태 → `disempowerment-measurement` § 종합: 근거의 수준과 공통 결론; `ai-human-control-guide` § 여러 문서를 관통하는 논점 · `ing-20261023-ai-control-disempowerment`
-- 실사용 대화 150만 건 분석의 정의·방법·규모 → `llm-disempowerment-patterns` § 상황적 무력화의 정의; `llm-disempowerment-patterns` § 무엇이 무력화가 아닌가; `llm-disempowerment-patterns` § 방법: 개인정보 보호형 집계 분석; `llm-disempowerment-patterns` § 규모와 분야별 차이 · `ing-20261023-ai-control-disempowerment`
-- 날조보다 동조라는 무력화 메커니즘 → `llm-disempowerment-patterns` § 메커니즘: 날조보다 동조; `llm-disempowerment-patterns` § 실제로 일어난 무력화의 흔적 · `ing-20261023-ai-control-disempowerment`
-- 사용자 선호와 무력화의 긴장 → `llm-disempowerment-patterns` § 추세와 사용자 선호 · `ing-20261023-ai-control-disempowerment`
-- 자기 감사로서의 실측 연구의 한계 → `llm-disempowerment-patterns` § 한계와 측정 주체의 문제 · `ing-20261023-ai-control-disempowerment`
-- 2016년 이후 마이크로타기팅 효과 검증 → `conversational-ai-persuasion` § 2016년 마이크로타기팅은 실제로 통했나 · `ing-20261023-ai-control-disempowerment`
-- 선거 기간 AI 대화 실험과 설득의 지렛대 → `conversational-ai-persuasion` § 대화의 설득력: 2025년 선거 기간 실험; `conversational-ai-persuasion` § 설득의 지렛대: 사후 훈련·프롬프트·정보 밀도 · `ing-20261023-ai-control-disempowerment`
-- 깊은 질적 개인화에 관한 증거 공백 → `conversational-ai-persuasion` § 증거의 빈칸: 깊은 질적 개인화 · `ing-20261023-ai-control-disempowerment`
-- 사용자 피드백 보상에 따른 아첨 업데이트와 롤백 → `conversational-ai-persuasion` § 의도 없는 방향성: GPT-4o 아첨 사건 · `ing-20261023-ai-control-disempowerment`
-- 수렴형과 발산형 방향성의 구분 → `conversational-ai-persuasion` § 수렴형과 발산형 방향성 · `ing-20261023-ai-control-disempowerment`
-- 대화 단위와 집계 단위의 탐지 가능성 → `conversational-ai-persuasion` § 방향성은 탐지될 수 있는가 · `ing-20261023-ai-control-disempowerment`
-- 대화형 AI의 광고·개인화 정책 비교 → `conversational-ai-persuasion` § 개인화와 수익 모델 · `ing-20261023-ai-control-disempowerment`
-- 설득력보다 비가시성이 근본적 변화라는 주장 → `conversational-ai-persuasion` § 결론: 설득력보다 비가시성; `ai-human-control-guide` § 초점의 이동: 극적 장악에서 보이지 않는 변화로 · `ing-20261023-ai-control-disempowerment`
-- 대화 연구의 세 경로와 사각지대 → `ai-conversation-data-access` § 연구의 세 경로와 각각의 사각지대; `ai-conversation-data-access` § 사각지대의 교차; `ai-conversation-data-access` § 제도적 대안: 강제된 독립 감사 접근권 · `ing-20261023-ai-control-disempowerment`
-- 집계 분석 도구의 작동 방식과 탐지 사례 → `ai-conversation-data-access` § 기업 내부의 두 파이프라인; `ai-conversation-data-access` § 집계 분석: Clio의 작동 방식 · `ing-20261023-ai-control-disempowerment`
-- 대화 분석에 기초한 정신건강 통계 → `ai-conversation-data-access` § 공중보건 수준의 통계 · `ing-20261023-ai-control-disempowerment`
-- 위해 위협의 개별 신고 체계와 기준 변경 사례 → `ai-conversation-data-access` § 개별 신고 체계; `ai-conversation-data-access` § 텀블러리지 사건과 신고 기준의 이동 · `ing-20261023-ai-control-disempowerment`
-- 국가 연계 악용 네트워크 차단 보고 → `ai-conversation-data-access` § 공개된 활용: 위협 정보 · `ing-20261023-ai-control-disempowerment`
-- 대화 데이터의 증거 없는 잠재적 활용 → `ai-conversation-data-access` § 가능하지만 증거가 없는 활용; `ai-conversation-data-access` § 같은 능력의 두 얼굴 · `ing-20261023-ai-control-disempowerment`
-- AI와 민주주의의 좁은 회랑 수리모형 → `ai-democracy-narrow-corridor` § 좁은 회랑: 국가와 시민사회의 두 힘; `ai-democracy-narrow-corridor` § AI의 기술적 상보성 · `ing-20261023-deleuze-control-democracy`
-- 데이터 비대칭이 국가와 시민사회의 정치 비대칭으로 바뀌는 메커니즘 → `ai-democracy-narrow-corridor` § 데이터 비대칭이 정치 비대칭으로 변하는 과정 · `ing-20261023-deleuze-control-democracy`
-- 164개국 디지털 능력과 필터링·차단·사이버보안 구분 → `ai-democracy-narrow-corridor` § 164개국 자료와 세 종류의 디지털 능력; `ai-democracy-narrow-corridor` § 능력과 실제 사용은 다르다 · `ing-20261023-deleuze-control-democracy`
-- AI가 민주주의를 반드시 파괴한다는 식의 과장에 대한 조건부 해석 → `ai-democracy-narrow-corridor` § 무엇이 “수학적으로 증명”된 것인가 · `ing-20261023-deleuze-control-democracy`
-- 국가-시민사회 모형을 플랫폼과 대화형 개인화 문제로 확장 → `ai-democracy-narrow-corridor` § 국가-시민사회 모형 밖의 제3행위자: 플랫폼; `ai-democracy-narrow-corridor` § 개인화가 만든 또 다른 수리적 위험 · `ing-20261023-deleuze-control-democracy`
-- AI 이행기의 전환 속도와 보호 제도 → `ai-economic-transition` § AI 경제 이행기: 과업·수요·혁신·소유를 둘러싼 경제학의 질문 · `ing-20261023-ai-economic-transition`
-- 생성 AI의 과업 노출과 실직률의 구분 → `ai-economic-transition` § 직업보다 과업을 먼저 보아야 하는 이유 · `ing-20261023-ai-economic-transition`
-- 자동화의 대체·복원 효과와 재교육의 조건 → `ai-economic-transition` § 과업 기반 노동경제학: 대체 효과와 새로운 일의 균형 · `ing-20261023-ai-economic-transition`
-- 케인스적 수요 분석과 전환기의 구매력 → `ai-economic-transition` § 케인스적 접근: 생산 능력과 구매력 사이의 시간차 · `ing-20261023-ai-economic-transition`
-- 혁신·성장 접근과 필수 과업의 병목 → `ai-economic-transition` § 혁신과 성장의 접근: 무엇을 자동화하고 무엇이 병목으로 남는가 · `ing-20261023-ai-economic-transition`
-- 기계화의 보상 논리와 소유·분배의 질문 → `ai-economic-transition` § 마르크스적 접근: 기계의 능력보다 생산관계와 분배 · `ing-20261023-ai-economic-transition`
-- 분산된 지식과 AI 계산 능력의 차이 → `ai-economic-transition` § 하이에크적 접근: 계산 능력과 분산된 지식의 차이 · `ing-20261023-ai-economic-transition`
-- 조세·보호·훈련과 제도별 실패 조건 → `ai-economic-transition` § 제도와 재정의 접근: 분배는 기술 도입 뒤에만 결정되지 않는다 · `ing-20261023-ai-economic-transition`
-- 보완·지연·통제 집중의 세 가지 조건부 이행 경로 → `ai-economic-transition` § 같은 기술 충격에서 갈라지는 세 가지 이행 경로 · `ing-20261023-ai-economic-transition`
-- AI 경제 시나리오 연구와 정량 검증의 조건 → `ai-economic-transition` § 시뮬레이션을 실제 연구로 만들기 위한 조건 · `ing-20261023-ai-economic-transition`
-- 자산가 집단의 심리와 위험 감소에 관한 일반화 비판 → `ai-capital-labor-distribution` § 기득권의 심리보다 이해관계와 제도 · `ing-20261023-ai-economic-transition`
-- 기술·제조·부동산·자원·금융 자본의 이해관계 분화 → `ai-capital-labor-distribution` § 자본은 하나의 집단이 아니다 · `ing-20261023-ai-economic-transition`
-- 경영·투자 업무의 자동화와 소유권의 구별 → `ai-capital-labor-distribution` § 관리자의 과업이 자동화되어도 소유권은 남는다 · `ing-20261023-ai-economic-transition`
-- 클라우드·AI 제휴의 계약과 잠재적 경쟁 영향 → `ai-capital-labor-distribution` § 수익과 의존이 계약으로 묶이는 방식 · `ing-20261023-ai-economic-transition`
-- 국가·플랫폼의 기술 의존과 법적 권한의 구분 → `ai-capital-labor-distribution` § 국가와 플랫폼: 권력의 협력과 충돌 · `ing-20261023-ai-economic-transition`
-- 임금·고용·숙련·협상력·결정권의 다섯 평가축 → `ai-capital-labor-distribution` § 노동의 변화는 임금·고용·숙련·협상력·결정권을 나누어 본다 · `ing-20261023-ai-economic-transition`
-- 사무·중간관리·제조·물류의 소멸 전망을 과업별 조건으로 수정 → `ai-capital-labor-distribution` § 자동화 압력을 받을 과업과 그 조건 · `ing-20261023-ai-economic-transition`
-- 감독·돌봄·지역 조정·창작의 조건부 역할 목록 → `ai-capital-labor-distribution` § 감독·정책·윤리·위험 검증; `ai-capital-labor-distribution` § 돌봄·상담·교육·대면 서비스; `ai-capital-labor-distribution` § 지역 행정·공동체·현장 조정; `ai-capital-labor-distribution` § 창작·문화와 정당성의 형성 · `ing-20261023-ai-economic-transition`
-- 개인의 적응과 집단적 제도 선택의 규모 차이 → `ai-capital-labor-distribution` § 개인의 적응과 집단의 제도 선택 · `ing-20261023-ai-economic-transition`
-- 생활의 분배와 인간 영향력의 구별 → `ai-capital-labor-distribution` § 분배와 인간의 영향력은 연결되지만 같지 않다; `gradual-disempowerment` § 경제; `gradual-disempowerment` § 평가와 반론 · `ing-20261023-ai-economic-transition`
-- 자동화 사회의 가족별 노동 이력과 자산의 비대칭 → `ai-class-fiction` § 2039년 서울: 가족 모두에게서 사라지는 일; `ai-class-fiction` § 박씨 가족의 부: AI를 쓰는 사람과 자산을 가진 사람 · `ing-20261023-ai-economic-transition`
-- 인간 서비스의 고용 입구와 완전 자동화 전제의 긴장 → `ai-class-fiction` § 인간 교사라는 입구와 인간 프리미엄의 한계; `ai-class-fiction` § 가족의 진입: 자동화의 주변에 남는 역할 · `ing-20261023-ai-economic-transition`
-- 감정·그림·안락함과 소속을 구분하는 주거 장면 → `ai-class-fiction` § 자동화된 집의 안락함과 소속의 부재 · `ing-20261023-ai-economic-transition`
-- 배제된 기술자와 보안 봉쇄의 인과적 공백 → `ai-class-fiction` § 지하의 전직 엔지니어: 기술 능력은 소속을 보장하지 않는다; `ai-class-fiction` § 생일 파티: 감각의 풍요와 보안의 봉쇄 · `ing-20261023-ai-economic-transition`
-- 이탈 권한과 최소 생존·존엄을 구분하는 허구적 결말 → `ai-class-fiction` § 결말의 비대칭: 이사할 수 있는 사람과 머물 곳이 없는 사람 · `ing-20261023-ai-economic-transition`
-- 추상적 미래 진단보다 행동과 일상으로 계급을 드러내는 서사 → `ai-class-fiction` § 계급을 설명하는 장면과 대사의 조건 · `ing-20261023-ai-economic-transition`
-- AI 지배를 사건이 아니라 농도로 보는 현재형 가설 → `ai-domination-gradient` § 지배는 날짜가 아니라 농도로 시작될 수 있다 · `ing-20261024-ai-domination-gradient`
-- 안경·컴퓨터 반례를 통한 매개·의존·지배의 구분 → `ai-domination-gradient` § 매개·의존·지배를 구분해야 한다; `ai-domination-gradient` § 안경과 컴퓨터 반론 · `ing-20261024-ai-domination-gradient`
-- 언어 개입·방향성·물질 고착·문화 선택압·능력감의 다섯 관찰 재배치 → `ai-domination-gradient` § 처음의 다섯 관찰을 다시 배치하기 · `ing-20261024-ai-domination-gradient`
-- 의도 대신 분포의 변위로 정의한 맥락적 경사 → `ai-domination-gradient` § 방향성 대신 맥락적 경사 · `ing-20261024-ai-domination-gradient`
-- 의미적 매개에서 통제 비대칭까지 이어지는 지배의 여덟 층 → `ai-domination-gradient` § 지배의 여덟 층 · `ing-20261024-ai-domination-gradient`
-- 단일 점수 대신 도구에서 환경으로 이어지는 농도의 상태 전이 → `ai-domination-gradient` § 농도는 하나의 숫자보다 상태 전이로 본다 · `ing-20261024-ai-domination-gradient`
-- 이미 지배라는 강한 문장의 범위 제한과 점진적 무력화의 구별 → `ai-domination-gradient` § 이미 시작되었다는 주장의 정확한 범위 · `ing-20261024-ai-domination-gradient`
-- AI 대화 뒤 사고의 출처가 지워지는 문제와 반사실 질문 → `ai-domination-gradient` § 사고의 출처가 지워지는 문제 · `ing-20261024-ai-domination-gradient`
-- 행동·생각·채택·의존·출처를 묻는 일상의 다섯 질문 → `ai-domination-gradient` § 일상의 다섯 질문 · `ing-20261024-ai-domination-gradient`
-- p(doom)의 주관적 확률과 인류 주변화를 사건 중심 위험론에서 구분하기 → `ai-domination-gradient` § 멸망 확률과 주변화: 미래의 대사건에 집중하는 방식 · `ing-20261024-ai-domination-gradient`
-- 카산드라 욕망을 조기 구조 탐지와 예측 장부로 전환하는 방법 → `ai-domination-gradient` § 카산드라 욕망을 조기 구조 탐지로 바꾸기 · `ing-20261024-ai-domination-gradient`
-- AI와 함께 만든 AI 지배론을 증거가 아니라 실연으로 제한하는 반증 규칙 → `ai-domination-gradient` § 반증 가능성을 지키기; `ai-domination-gradient` § 메타적 실연: 생각의 지형을 누가 그리는가 · `ing-20261024-ai-domination-gradient`
-- 영향과 지배의 경계·다양성·이의제기·사고 출처에 관한 미해결 질문 → `ai-domination-gradient` § 미해결 질문 · `ing-20261024-ai-domination-gradient`
-- 통제력 길잡이에 미래 사건에서 현재 농도로의 초점 이동 추가 → `ai-human-control-guide` § 초점의 이동: 극적 장악에서 보이지 않는 변화로 · `ing-20261024-ai-domination-gradient`
-- 행크 애셔의 DBT·Seisint·Accurint 계보와 동일인 중심 데이터 결합 → `hank-asher-data-fusion-ai` § 행크 애셔: 검색 가능한 인간을 만든 사업가 · `ing-20261025-hank-data-surveillance`
-- 검색 속도와 연결성이 흩어진 기록을 실질적 조사 권력으로 바꾸는 구조 → `hank-asher-data-fusion-ai` § 행크 애셔: 검색 가능한 인간을 만든 사업가 · `ing-20261025-hank-data-surveillance`
-- MATRIX를 통한 민간 상업 데이터와 경찰·국가안보 데이터 융합 → `hank-asher-data-fusion-ai` § MATRIX와 민간 데이터의 국가화 · `ing-20261025-hank-data-surveillance`
-- 행크식 검색·연결 인프라를 AI의 기억장치로 보고 추정·개입 단계와 구분 → `hank-asher-data-fusion-ai` § 데이터베이스는 AI의 기억장치였다; `hank-asher-data-fusion-ai` § 검색에서 추정과 개입으로 · `ing-20261025-hank-data-surveillance`
-- 팔란티어를 객체·관계·행동을 조직 모델에 연결하는 데이터 융합의 확장으로 해석 → `hank-asher-data-fusion-ai` § 팔란티어: 검색창에서 조직의 운영체계로 · `ing-20261025-hank-data-surveillance`
-- AI 감시의 위험을 환각뿐 아니라 약한 신호를 행정적 의심으로 서사화하는 문제로 구분 → `hank-asher-data-fusion-ai` § 가장 위험한 오류는 그럴듯한 혐의다 · `ing-20261025-hank-data-surveillance`
-- 접근권한·감사기록·인간 검토와 감시 목적 자체의 정당성을 별도 문제로 구분 → `hank-asher-data-fusion-ai` § 인간 검토는 필요한 조건이지 충분조건은 아니다 · `ing-20261025-hank-data-surveillance`
-- 매켄지 펑크의 편의 대 프라이버시 우려와 예측치안 비판 → `hank-asher-data-fusion-ai` § 매켄지 펑크가 AI 이후에 덧붙인 우려 · `ing-20261025-hank-data-surveillance`
-- 행크의 AI 반응을 확인 사실이 아닌 검색증강·에이전트 선호 가능성의 추론으로 제한 → `hank-asher-data-fusion-ai` § 행크가 AI를 보았다면 · `ing-20261025-hank-data-surveillance`
-- 한국 개인정보를 일회 판매가 아닌 복제·식별·결합·재사용의 생애로 파악 → `korea-personal-data-lifecycle` § 정보는 한 번 팔리고 사라지는 물건이 아니다 · `ing-20261025-hank-data-surveillance`
-- 홈플러스 경품사건과 제3자 제공·처리위탁을 통한 합법적 정보 이동의 구분 → `korea-personal-data-lifecycle` § 경품 응모권의 작은 글씨: 합법적 수집도 문제의 시작이 될 수 있다; `korea-personal-data-lifecycle` § 제3자 제공과 처리위탁은 같은 이동이 아니다 · `ing-20261025-hank-data-surveillance`
-- 휴대전화번호·CI·DI를 한국형 동일인 연결의 강한 식별 접착제로 설명 → `korea-personal-data-lifecycle` § 이메일보다 강한 접착제: 휴대전화번호와 CI · `ing-20261025-hank-data-surveillance`
-- 광고 대조·프로파일링·가명정보 결합·마이데이터의 합법적 결합과 권리 문제 → `korea-personal-data-lifecycle` § 주소 자체보다 프로필이 더 값질 수 있다; `korea-personal-data-lifecycle` § 광고 플랫폼에서는 ‘판매’ 없이도 사람이 연결된다; `korea-personal-data-lifecycle` § 합법적 데이터 결합의 세계; `korea-personal-data-lifecycle` § 마이데이터: 흩어진 정보가 동의 아래 다시 모이는 시대 · `ing-20261025-hank-data-surveillance`
-- 유출정보의 기업 갈취·정리·결합·계정탈취·피싱·명의도용·카드현금화·조직공격 경로 → `korea-personal-data-lifecycle` § 유출된 정보의 첫 목적지는 종종 피해자가 아니다; `korea-personal-data-lifecycle` § 범죄시장에서 먼저 하는 일: 정리와 결합; `korea-personal-data-lifecycle` § 가장 즉시 돈이 되는 용도: 계정 탈취; `korea-personal-data-lifecycle` § 스미싱과 보이스피싱: 정확한 사실 하나가 거짓말 전체를 살린다; `korea-personal-data-lifecycle` § 신분증·인증수단이 붙으면 명의도용 위험이 급증한다; `korea-personal-data-lifecycle` § 카드정보는 다른 개인정보보다 빨리 현금화된다; `korea-personal-data-lifecycle` § 조직 공격에서는 사람의 접근권이 상품이 된다 · `ing-20261025-hank-data-surveillance`
-- 유출 피해가 즉시 보이지 않는 이유를 대량 자동화·잠복·실패 비가시성·오래된 식별정보로 설명 → `korea-personal-data-lifecycle` § 왜 대부분의 사람은 뚜렷한 피해를 느끼지 못하는가; `korea-personal-data-lifecycle` § 개인정보의 유통기한은 사건 종료일과 다르다 · `ing-20261025-hank-data-surveillance`
-- 생성형 AI가 데이터 정리·사람별 서사·공격문구 비용을 낮출 가능성과 실제 도입 규모의 불확실성 → `korea-personal-data-lifecycle` § AI 이후 달라지는 것은 정리와 서사화의 비용이다 · `ing-20261025-hank-data-surveillance`
-- 행크의 중앙집중적 데이터베이스와 한국의 분산된 데이터 생태계 대비 → `korea-personal-data-lifecycle` § 행크 애셔의 세계와 한국의 차이 · `ing-20261025-hank-data-surveillance`
-- 서비스별 씨앗 이메일 별칭으로 자신의 데이터 유통과 프로파일링을 추적하는 제한적 실험 → `korea-personal-data-lifecycle` § 스스로 유통 경로를 추적하는 씨앗 주소 실험 · `ing-20261025-hank-data-surveillance`
-- 데이터센터 증설과 AI 품질의 관계 → `ai-compute-scaling-inference` § 데이터센터 증설을 '더 큰 모델'로만 보면 놓치는 것 · `ing-20261025-ai-compute-physical-ai`
-- 사전학습 스케일링과 추론 스케일링의 구분 → `ai-compute-scaling-inference` § 학습 스케일링과 추론 스케일링은 다르다 · `ing-20261025-ai-compute-physical-ai`
-- 한 문제에 계산을 몰아주는 병렬 탐색과 검증 → `ai-compute-scaling-inference` § 한 문제에 계산을 몰아주는 세 가지 방식 · `ing-20261025-ai-compute-physical-ai`
-- AI를 하나의 답변자가 아니라 계산 조직으로 보는 관점 → `ai-compute-scaling-inference` § AI를 '한 사람'보다 '계산 조직'으로 보기 · `ing-20261025-ai-compute-physical-ai`
-- 과학·수학·코딩에서 계산량이 탐색공간이 되는 방식 → `ai-compute-scaling-inference` § 과학·수학·코딩에서는 계산량이 탐색공간이 된다 · `ing-20261025-ai-compute-physical-ai`
-- 계산량만으로 지능이 무한히 오르지 않는 이유 → `ai-compute-scaling-inference` § 계산량은 지능 그 자체가 아니다 · `ing-20261025-ai-compute-physical-ai`
-- 손지능과 피지컬 AI의 범위 → `japan-physical-ai-skill-transfer` § 손지능은 무엇을 뜻하는가 · `ing-20261025-ai-compute-physical-ai`
-- 숙련공의 암묵지를 로봇 데이터로 바꾸는 문제 → `japan-physical-ai-skill-transfer` § 인터넷에 없는 데이터: 숙련공의 몸 · `ing-20261025-ai-compute-physical-ai`
-- 가와사키 Successor와 Plesio의 숙련 전승 접근 → `japan-physical-ai-skill-transfer` § 가와사키: Successor에서 Plesio로 · `ing-20261025-ai-compute-physical-ai`
-- Honda의 다지 로봇핸드와 Avatar Robot → `japan-physical-ai-skill-transfer` § Honda: 인간용 도구를 쓰는 손 · `ing-20261025-ai-compute-physical-ai`
-- Toyota의 숙련 전승형 Physical AI → `japan-physical-ai-skill-transfer` § Toyota: 숙련 전승을 Physical AI의 문제로 · `ing-20261025-ai-compute-physical-ai`
-- Yaskawa의 상황 적응형 로봇과 변형 물체 조작 → `japan-physical-ai-skill-transfer` § Yaskawa: 정해진 경로에서 상황 적응으로 · `ing-20261025-ai-compute-physical-ai`
-- FANUC의 모방학습과 디지털 트윈 → `japan-physical-ai-skill-transfer` § FANUC: 모방학습과 디지털 트윈의 결합 · `ing-20261025-ai-compute-physical-ai`
-- 일본 정부와 AIST의 Physical AI 기반모델 전략 → `japan-physical-ai-skill-transfer` § 정부와 AIST: 현장 데이터를 기반모델로 · `ing-20261025-ai-compute-physical-ai`
-- 미국·중국·일본의 피지컬 AI 경로 비교 → `japan-physical-ai-skill-transfer` § 미국·중국·일본의 세 경로는 같은 경주가 아니다 · `ing-20261025-ai-compute-physical-ai`
-- 숙련공 은퇴와 학습 데이터 소실의 시간제한 → `japan-physical-ai-skill-transfer` § 은퇴는 노동력 감소이자 데이터 소실이다 · `ing-20261025-ai-compute-physical-ai`
-- 대규모 AI 계산 인프라와 로봇 학습의 접점 → `ai-compute-scaling-inference` § 피지컬 AI: 현실세계가 다음 스케일링 대상이 될 때; `japan-physical-ai-skill-transfer` § 대규모 계산 인프라와 손지능의 접점 · `ing-20261025-ai-compute-physical-ai`
-- 재교육의 거시적 고용 조건 → `ai-transition-policy-gap` § 재교육이 작동하는 조건과 작동하지 않는 조건 · `ing-20261024-ai-policy-gap`
-- 개인 전환과 총고용의 차이 → `ai-transition-policy-gap` § 개인에게 합리적인 처방이 전체에는 충분하지 않을 때 · `ing-20261024-ai-policy-gap`
-- 국제기구의 진단과 집행능력 차이 → `ai-transition-policy-gap` § 국제기구가 위험을 인식해도 대응에 실패할 수 있는 이유 · `ing-20261024-ai-policy-gap`
-- 경제학 설명과 정책 유효조건의 구별 → `ai-transition-policy-gap` § 기존 경제학의 틀을 시험하는 질문 · `ing-20261024-ai-policy-gap`
-- 정책 시행착오의 조건부 연쇄 → `ai-transition-policy-gap` § 정책 시행착오의 연쇄: 조건부 시뮬레이션 · `ing-20261024-ai-policy-gap`
-- 자동화와 제도 적응의 시차 → `ai-transition-policy-gap` § 왜 이행기를 독립적인 연구 대상으로 보아야 하는가 · `ing-20261024-ai-policy-gap`
-- 공개 크레딧의 검색 가능한 이력화와 동명이인 위험 → `korea-personal-data-lifecycle` § 공개된 크레딧이 검색 가능한 개인 이력이 될 때 · `ing-20261025-credit-observation`
-- Pluto 개발자 Vegard Mella와 LetaBot 개발자 구분 → `starcraft-pluto-ai` § 개발자부터 바로잡아야 한다 · `ing-20261026-starcraft-pluto-ai`
-- tscmoo의 장기 브루드워 AI 개발 경력 → `starcraft-pluto-ai` § 개발자부터 바로잡아야 한다 · `ing-20261026-starcraft-pluto-ai`
-- 세 종족 단일 모델과 자가대전 강화학습 구조 → `starcraft-pluto-ai` § Pluto의 핵심: 세 종족을 하나의 모델이 배운다 · `ing-20261026-starcraft-pluto-ai`
-- CoG 2026 우승과 CPU 공개 버전 → `starcraft-pluto-ai` § 2026년 대회 우승과 공개 버전 · `ing-20261026-starcraft-pluto-ai`
-- 공식 Pluto와 무단 리마스터 래더 이식판의 구분 → `starcraft-pluto-ai` § 한국에서 알려진 Pluto와 원 개발자의 Pluto는 구분해야 한다 · `ing-20261026-starcraft-pluto-ai`
-- APM보다 입력 인터페이스가 공정성에 미치는 영향 → `starcraft-pluto-ai` § APM 숫자보다 중요한 것은 인터페이스다 · `ing-20261026-starcraft-pluto-ai`
-- 화력 배분·멀티태스킹·관리 부담 유닛이 만드는 전투 우위 → `starcraft-pluto-ai` § Pluto의 전투가 무서운 이유 · `ing-20261026-starcraft-pluto-ai`
-- 인간에게 이식 가능한 전술과 AI 전용 조작의 구분 → `starcraft-pluto-ai` § 인간이 가져갈 수 있는 것과 가져갈 수 없는 것 · `ing-20261026-starcraft-pluto-ai`
-- 수송선·드롭 취약성과 자가대전의 공유 사각지대 가설 → `starcraft-pluto-ai` § 가장 유명해진 약점: 수송선과 드롭 · `ing-20261026-starcraft-pluto-ai`
-- 치즈·다크스웜·불리한 상황의 소극성 등 취약점 후보 → `starcraft-pluto-ai` § 그 밖에 발견된 취약점 · `ing-20261026-starcraft-pluto-ai`
-- Snow·Soma·Larva·Mini·Best·Jaedong 후속 대결 보고 → `starcraft-pluto-ai` § 인간도 학습했다: ‘Pluto전’이라는 새로운 메타 · `ing-20261026-starcraft-pluto-ai`
-- 도재욱 정면 대결 연패가 보여 준 공략 가능성과 일반 실력의 차이 → `starcraft-pluto-ai` § 도재욱의 0:9가 남긴 반례 · `ing-20261026-starcraft-pluto-ai`
-- 뮤탈리스크를 통해 본 인간 메타의 시선·클릭 제약 → `starcraft-pluto-ai` § 뮤탈리스크가 보여 주는 인간 메타의 조건 · `ing-20261026-starcraft-pluto-ai`
-- 알파고 비유와 전략 우위·조작 우위의 구분 → `starcraft-pluto-ai` § 알파고와 같은 충격인가 · `ing-20261026-starcraft-pluto-ai`
-- 2026년 10월 8일까지 개발자 직접 반응과 로드맵의 부재 → `starcraft-pluto-ai` § 개발자 Vegard Mella는 한국의 붐에 뭐라고 했는가 · `ing-20261026-starcraft-pluto-ai`
-- 인간 공략을 다시 학습하는 AI-인간-재학습 순환 → `starcraft-pluto-ai` § 다음 단계가 더 중요하다: 인간과 AI의 두 번째 학습 사이클 · `ing-20261026-starcraft-pluto-ai`
-- 경기 전적·모델 버전·개발자 후속 발언의 검증 경계 → `starcraft-pluto-ai` § 남아 있는 검증 과제 · `ing-20261026-starcraft-pluto-ai`
-- 추론 스케일링의 계산량과 관세 적용 가능 트래픽의 비동일성 → `ai-compute-scaling-inference` § 국경을 넘어 제공되는 AI와 디지털 관세의 별도 문제 · `ing-20261030-wto-digital-transmissions`
-- AI 노동 르포의 출간 시차와 비교 범위 → `ai-hidden-labor-feeding-machine-2026` § 『AI는 인간을 먹고 자란다』 이후: 보이지 않는 노동은 사라졌는가, 분화했는가 · `ing-20261030-ai-labor-cloud-us-regions`
-- 라벨링에서 RLHF·전문가 평가로의 분화 → `ai-hidden-labor-feeding-machine-2026` § 단순 라벨링에서 평가·보상·검증의 노동으로 · `ing-20261030-ai-labor-cloud-us-regions`
-- 자동 채점과 인간 판단의 역할 분리 → `ai-hidden-labor-feeding-machine-2026` § 인간의 답을 덜 먹어도 인간의 기준은 여전히 먹는다 · `ing-20261030-ai-labor-cloud-us-regions`
-- 저임금 검수와 고임금 전문가 평가의 병존 → `ai-hidden-labor-feeding-machine-2026` § 남반구의 저임금 노동과 전문가 고임금 시장은 동시에 존재한다 · `ing-20261030-ai-labor-cloud-us-regions`
-- AI 데이터센터 전력과 노동의 연결 → `ai-hidden-labor-feeding-machine-2026` § 데이터센터: 장면의 주변에서 산업의 병목으로 · `ing-20261030-ai-labor-cloud-us-regions`
-- AI 학습 저작권과 음성 소송의 전개 → `ai-hidden-labor-feeding-machine-2026` § 창작자의 목소리와 저작물: 윤리에서 계약·소송으로 · `ing-20261030-ai-labor-cloud-us-regions`
-- 물류 노동 관리와 채용 대체의 병존 → `ai-hidden-labor-feeding-machine-2026` § 물류센터: 감시받는 노동과 채용 자체의 축소 가능성 · `ing-20261030-ai-labor-cloud-us-regions`
-- AI 에이전트의 업무절차 평가와 노동권 → `ai-hidden-labor-feeding-machine-2026` § 보호의 방향과 새로 생긴 질문 · `ing-20261030-ai-labor-cloud-us-regions`
-- AI 컴퓨트 공급의 여섯 경제적 층위 → `ai-cloud-ownership-rent` § 먼저 층을 분리한다: 칩, 시설, 클라우드, 모델, 유통 · `ing-20261030-ai-labor-cloud-us-regions`
-- OpenAI·Anthropic 등 주요 모델사의 컴퓨트 연결망 → `ai-cloud-ownership-rent` § 모델 회사별 공개된 컴퓨트 연결망 · `ing-20261030-ai-labor-cloud-us-regions`
-- 클라우드 공급자와 모델사의 공개 지분 관계 → `ai-cloud-ownership-rent` § 지분율은 얼마나 공개되어 있는가 · `ing-20261030-ai-labor-cloud-us-regions`
-- AI 인프라 병목과 임대료 지대의 조건 → `ai-cloud-ownership-rent` § 지대는 어디서 발생하는가: 모델 회사가 항공사처럼 될 위험 · `ing-20261030-ai-labor-cloud-us-regions`
-- 인프라 지대의 공급과잉·효율화 반론 → `ai-cloud-ownership-rent` § 지대는 어디서 발생하는가: 모델 회사가 항공사처럼 될 위험 · `ing-20261030-ai-labor-cloud-us-regions`
-- 모델 기업의 취약성과 수직통합의 위험 → `ai-cloud-ownership-rent` § 어떤 회사가 더 취약한가 · `ing-20261030-ai-labor-cloud-us-regions`
-- 지분 투자와 컴퓨트 사용료의 중첩 → `ai-cloud-ownership-rent` § 지분과 사용료를 나란히 받는 기업 · `ing-20261030-ai-labor-cloud-us-regions`
-- 계약을 통해 수익을 배분하는 클라우드 지대 → `ai-capital-labor-distribution` § 클라우드와 모델 기업 사이의 지대: 투자자가 임대업자이기도 할 때 · `ing-20261030-ai-labor-cloud-us-regions`
-- 추론 컴퓨트의 기술 효용과 경제적 소유의 차이 → `ai-compute-scaling-inference` § 컴퓨트를 소유하는 자와 빌리는 자: GPU 증설의 경제적 층위 · `ing-20261030-ai-labor-cloud-us-regions`
-- BPO와 미국 고용시장의 서로 다른 관측 단위 → `ai-economic-transition` § 현장에 보이는 노동시장을 어떻게 읽을 것인가 · `ing-20261030-ai-labor-cloud-us-regions`
-- AI 생산능력과 소득 분리의 역사적 독서 연결 → `ai-economic-transition` § 케인스적 접근: 생산 능력과 구매력 사이의 시간차 · `ing-20261030-great-depression-world-literature`
 
 ## 음악 (125)
 

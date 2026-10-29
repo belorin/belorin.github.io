@@ -55,6 +55,8 @@
   - AI 경제 시나리오 연구와 정량 검증의 조건 · `ing-20261023-ai-economic-transition`
 - **현장에 보이는 노동시장을 어떻게 읽을 것인가**
   - BPO와 미국 고용시장의 서로 다른 관측 단위 · `ing-20261030-ai-labor-cloud-us-regions`
+- **기술의 상한선과 활용의 하한선을 구별한다**
+  - 기존 경제 이행기에 채택 간극 분석 증보 · `ing-20261030-ai-ceiling-automation-datacenters`
 
 ## 확인된 의미 관계
 

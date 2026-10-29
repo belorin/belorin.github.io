@@ -30,6 +30,8 @@
   - 통제력 길잡이에 미래 사건에서 현재 농도로의 초점 이동 추가 · `ing-20261024-ai-domination-gradient`
 - **이 주제를 읽는 순서**
   - 생산성·전환 속도·소득 지원과 참여의 연구 질문 · `ing-20261023-ai-economic-transition`
+- **물리적 독립은 추론 능력과 다르다**
+  - 극단적 자동권력과 AI 통제력 길잡이 연결 · `ing-20261030-ai-ceiling-automation-datacenters`
 
 ## 확인된 의미 관계
 

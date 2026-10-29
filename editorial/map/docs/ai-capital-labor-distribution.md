@@ -63,6 +63,8 @@
   - 생활의 분배와 인간 영향력의 구별 · `ing-20261023-ai-economic-transition`
 - **클라우드와 모델 기업 사이의 지대: 투자자가 임대업자이기도 할 때**
   - 계약을 통해 수익을 배분하는 클라우드 지대 · `ing-20261030-ai-labor-cloud-us-regions`
+- **기득권의 서열을 보존하려는 이행기 전략의 모순**
+  - 자산 소유권 순위 보전의 이행기 모순 · `ing-20261030-ai-ceiling-automation-datacenters`
 
 ## 확인된 의미 관계
 

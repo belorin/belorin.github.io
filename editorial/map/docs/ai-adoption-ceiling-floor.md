@@ -23,4 +23,11 @@
 
 ## 장부에 기록된 반영 지식
 
-- 없음 (장부 도입 이전 원고이거나 아직 기록이 없다. 기록이 없다는 것은 내용이 없다는 뜻이 아니다.)
+- **두 상한선이 아니라 두 종류의 거리**
+  - 능력 상한선과 활용 하한선의 구별 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **능력의 상한선을 말하되 상한선에 미래를 맡기지 않는다**
+  - AI 발전 정체와 사회 확산의 독립성 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **경제학적 ‘노-호들갑’: 관측 가능한 것의 단위를 엄격하게 지킨다**
+  - AI 과장과 무시를 함께 경계하는 관측 단위 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **개인 포지셔닝은 왜 늘 뻔해 보이는가**
+  - 개인 AI 포지셔닝과 사회적 전환의 규모 차이 · `ing-20261030-ai-ceiling-automation-datacenters`

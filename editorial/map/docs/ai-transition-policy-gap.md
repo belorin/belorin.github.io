@@ -38,3 +38,5 @@
   - 정책 시행착오의 조건부 연쇄 · `ing-20261024-ai-policy-gap`
 - **왜 이행기를 독립적인 연구 대상으로 보아야 하는가**
   - 자동화와 제도 적응의 시차 · `ing-20261024-ai-policy-gap`
+- **국제기구의 건조한 진단과 금융 이행의 별도 문제**
+  - IMF 노동정책과 BIS 결제정책의 다른 분석단위 · `ing-20261030-ai-ceiling-automation-datacenters`

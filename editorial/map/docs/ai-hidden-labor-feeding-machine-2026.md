@@ -37,6 +37,7 @@
   - 저임금 검수와 고임금 전문가 평가의 병존 · `ing-20261030-ai-labor-cloud-us-regions`
 - **데이터센터: 장면의 주변에서 산업의 병목으로**
   - AI 데이터센터 전력과 노동의 연결 · `ing-20261030-ai-labor-cloud-us-regions`
+  - 클라우드 시설의 현장기술노동과 외주 · `ing-20261030-ai-ceiling-automation-datacenters`
 - **창작자의 목소리와 저작물: 윤리에서 계약·소송으로**
   - AI 학습 저작권과 음성 소송의 전개 · `ing-20261030-ai-labor-cloud-us-regions`
 - **물류센터: 감시받는 노동과 채용 자체의 축소 가능성**

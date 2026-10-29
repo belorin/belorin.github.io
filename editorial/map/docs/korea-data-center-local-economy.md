@@ -25,4 +25,17 @@
 
 ## 장부에 기록된 반영 지식
 
-- 없음 (장부 도입 이전 원고이거나 아직 기록이 없다. 기록이 없다는 것은 내용이 없다는 뜻이 아니다.)
+- **운영 MW와 국내 신규 파이프라인을 먼저 분리한다**
+  - 한국 수도권 용량과 울산 해남 예정 사업 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **한국은 왜 데이터센터를 유치하는가**
+  - 한국 AI 거점 기대와 해외 모델 소유의 구별 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **건설노동과 상주노동은 다른 숫자다**
+  - 건설 유발 고용과 운영 상주 인력의 분모 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **실제 AWS 데이터센터의 한 사람은 무엇을 하는가**
+  - AWS 데이터센터 현장기술 보안 하청의 직무 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **도시의 분위기는 얼마나 바뀌는가**
+  - 클라우드 시설의 도시 블랙박스 효과 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **지역이 부담하는 비용과 돌려받는 몫**
+  - 전력 물 세수 지역임금과 지역 순편익 판별 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **‘좋은 유치’의 기준을 크기나 액랭 하나로 고정하지 않는다**
+  - 규모와 액랭만으로 좋은 유치 판정 불가 · `ing-20261030-ai-ceiling-automation-datacenters`

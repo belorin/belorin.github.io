@@ -24,4 +24,14 @@
 
 ## 장부에 기록된 반영 지식
 
-- 없음 (장부 도입 이전 원고이거나 아직 기록이 없다. 기록이 없다는 것은 내용이 없다는 뜻이 아니다.)
+- **노동의 탈중심화와 자산 서열의 충돌**
+  - 노동소득 은행채무 재정개입의 조건부 연쇄 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **경제적 완충 장치들: 장부를 지키는 것과 모두를 구하는 것은 다르다**
+  - 금융위기 지급결제와 부실부담의 구분 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **BIS: 화폐의 단일성을 강화하면서 인프라의 층을 정교하게 나누기**
+  - BIS 단일화폐 원칙과 통합장부 · `ing-20261030-ai-ceiling-automation-datacenters`
+  - Project Agorá 도매결제와 스테이블코인 논점 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **‘이중화폐’는 기존 제도의 층위와 가상의 신분화를 구별해야 한다**
+  - 접근권 이중경제와 실제 인플레이션의 구별 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **AI 시대의 IMF: 냉정하지만 안심시키는 전망은 아니다**
+  - IMF 2024~2026 AI 노동 재정 금융 분석 · `ing-20261030-ai-ceiling-automation-datacenters`

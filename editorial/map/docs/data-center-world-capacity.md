@@ -31,4 +31,19 @@
 
 ## 장부에 기록된 반영 지식
 
-- 없음 (장부 도입 이전 원고이거나 아직 기록이 없다. 기록이 없다는 것은 내용이 없다는 뜻이 아니다.)
+- **먼저 세 개의 세계 규모를 구별한다**
+  - 세계 데이터센터 시설수 GW 전력소비 분모 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **공실률은 ‘빈 건물’이 아니라 임대 가능한 전력 용량에 가깝다**
+  - 데이터센터 공실률의 임대전력 용량 의미 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **세계의 다섯 지형: 기존 집적과 신규 투자 흐름**
+  - 미주 APAC EMEA 용량과 계획의 세계 지리 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **학습은 집중되고 추론은 분산되는가**
+  - 학습 집중 추론 분산 주권 데이터의 조건 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **무엇이 오래가고 무엇이 빨리 늙는가**
+  - 전력 부지 냉각 GPU의 다른 감가상각 수명 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **공랭·액랭은 정확히 무엇의 비율인가**
+  - 랙 밀도 공랭 액랭 도입률의 비동일성 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **투자자를 따라가면 누구를 만나는가**
+  - 모델 클라우드 시설 칩 전력 업체의 연결망 · `ing-20261030-ai-ceiling-automation-datacenters`
+- **어디에 투자지가 생기고 어디에서 폐품이 생기는가**
+  - 신축 리트로핏 AI 캠퍼스의 상이한 투자위험 · `ing-20261030-ai-ceiling-automation-datacenters`
