@@ -289,7 +289,7 @@
 - **[드레퓌스 사건과 지식인들의 분열: 작가·학자·화가들은 어느 편에 섰는가](wiki/dreyfus-affair-intellectuals.md)** · 별칭: 드레퓌스파, 반드레퓌스파, Dreyfus Affair, 드레퓌스 사건의 지식인, 지식인 선언 · 수정: 2026-10-25 · 검토: 대화 내부 총합 · 인물별 서명·입장 및 역사 세부 사료 재검증 필요
   - 졸라·클레망소·프루스트·뒤르켐과 드뤼몽·바레스·드가 등 드레퓌스 사건을 둘러싼 지식인·예술가의 진영과 행동을 구분하고, 반유대주의·군 권위·지식인의 공적 책임을 분석한다.
   - [문서 페이지](https://belorin.github.io/notes/dreyfus-affair-intellectuals/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/dreyfus-affair-intellectuals.md)
-- **[세계는 다시 1914·1929·1939년으로 향하는가: 벨 에포크와 세 번의 파국을 비교하는 법](wiki/world-crisis-historical-analogies.md)** · 별칭: 현대와 대공황 직전 비교, 벨 에포크의 종언, 세계대전 전야의 현재, 현대 위기의 역사적 유비 · 수정: 2026-10-25 · 검토: 현재 접근 가능한 논의와 코어 시범자료 기반 · 외부 재검증 필요
+- **[세계는 다시 1914·1929·1939년으로 향하는가: 벨 에포크와 세 번의 파국을 비교하는 법](wiki/world-crisis-historical-analogies.md)** · 별칭: 현대와 대공황 직전 비교, 벨 에포크의 종언, 세계대전 전야의 현재, 현대 위기의 역사적 유비 · 수정: 2026-10-30 · 검토: 현재 접근 가능한 논의와 코어 시범자료 기반 · 외부 재검증 필요
   - 벨 에포크, 1929년 대공황, 1930년대 후반의 서로 다른 위기 메커니즘과 현대의 완충·연쇄 위험을 비교한다.
   - [문서 페이지](https://belorin.github.io/notes/world-crisis-historical-analogies/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-crisis-historical-analogies.md)
 - **[베니스 비엔날레: 정원 박람회에서 세계 미술의 판단 장치까지](wiki/venice-biennale-history.md)** · 별칭: 베니스 비엔날레 역사, Biennale di Venezia, Venice Biennale, 베니스 효과 · 수정: 2026-10-25 · 검토: 대화 내부 자료 총합 · 연대·관람 수치와 시장 효과 재검증 필요
@@ -322,6 +322,9 @@
 - **[빵과 서커스에서 금본위까지: 로마·산업혁명을 한 줄로 꿰는 역사관의 함정](wiki/roman-industry-gold-standard-history.md)** · 별칭: 빵과 서커스와 로마 몰락, 금본위 이탈의 역사, 1931년 영국 금본위, 1971년 닉슨 쇼크 · 수정: 2026-10-30 · 검토: 대화 기반 분석 · 외부 재검증 필요
   - 로마의 곡물 배급과 주화 절하, 동로마와 중세 상업혁명, 영국 산업화, 1931·1933·1934·1971년 금본위 이탈의 차이를 통해 직선적 경제사 서사를 비판
   - [문서 페이지](https://belorin.github.io/notes/roman-industry-gold-standard-history/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/roman-industry-gold-standard-history.md)
+- **[풍요 속에서 자리를 잃은 사람들: 세계 대공황의 생활 기록과 동시대 소설](wiki/great-depression-lived-experience-literature.md)** · 별칭: 대공황 당대 소설, 대공황 생활사 문학, 대공황 세계문학, 풍요 속 실업, 1930년대 실업 문학 · 수정: 2026-10-30 · 검토: 대화 기반 독서 지도 · 원서·한국어판 서지와 작품의 공황 직접성 검증 필요
+  - 물건이 풍부해도 소득과 사회적 자리를 잃는 역사적 경험을 독일·미국·영국·프랑스어권·스페인어권·브라질·일본의 1930~40년대 소설과 당대 르포, 후대 구술사를 통해 구분하고 번역 확인 수준 및 독서 경로를 정리한다.
+  - [문서 페이지](https://belorin.github.io/notes/great-depression-lived-experience-literature/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/great-depression-lived-experience-literature.md)
 
 ## 언어
 

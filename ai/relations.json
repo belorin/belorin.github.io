@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 534,
+  "edge_count": 540,
   "edges": [
     {
       "from": "living-notes",
@@ -1410,6 +1410,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "ai-economic-transition",
+      "to": "great-depression-lived-experience-literature",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "ai-capital-labor-distribution",
       "to": "ai-economic-transition",
       "type": "related_to",
@@ -1460,6 +1466,12 @@
     {
       "from": "ai-capital-labor-distribution",
       "to": "ai-hidden-labor-feeding-machine-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-capital-labor-distribution",
+      "to": "great-depression-lived-experience-literature",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2090,6 +2102,12 @@
     {
       "from": "world-crisis-historical-analogies",
       "to": "roman-industry-gold-standard-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-crisis-historical-analogies",
+      "to": "great-depression-lived-experience-literature",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2972,6 +2990,24 @@
     {
       "from": "living-orchestral-listening-journey",
       "to": "conductors-career-encores",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "great-depression-lived-experience-literature",
+      "to": "world-crisis-historical-analogies",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "great-depression-lived-experience-literature",
+      "to": "ai-economic-transition",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "great-depression-lived-experience-literature",
+      "to": "ai-capital-labor-distribution",
       "type": "related_to",
       "basis": "manifest.related"
     },

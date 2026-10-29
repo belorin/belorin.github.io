@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 149,
+  "document_count": 150,
   "documents": [
     {
       "id": "living-notes",
@@ -1437,7 +1437,8 @@
         "ai-transition-policy-gap",
         "global-bpo-labor-geography",
         "us-labor-market-geography-2026",
-        "ai-hidden-labor-feeding-machine-2026"
+        "ai-hidden-labor-feeding-machine-2026",
+        "great-depression-lived-experience-literature"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-economic-transition.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-economic-transition.md",
@@ -1475,7 +1476,8 @@
         "ai-transition-policy-gap",
         "ai-cloud-ownership-rent",
         "global-bpo-labor-geography",
-        "ai-hidden-labor-feeding-machine-2026"
+        "ai-hidden-labor-feeding-machine-2026",
+        "great-depression-lived-experience-literature"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-capital-labor-distribution.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-capital-labor-distribution.md",
@@ -3081,14 +3083,15 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "현재 접근 가능한 논의와 코어 시범자료 기반 · 외부 재검증 필요",
-      "last_updated_on": "2026-10-25",
-      "last_enriched_on": "2026-10-25",
+      "last_updated_on": "2026-10-30",
+      "last_enriched_on": "2026-10-30",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "war-escalation-local-to-world",
         "critical-optimism-fragile-order",
         "state-hollowing-index",
-        "roman-industry-gold-standard-history"
+        "roman-industry-gold-standard-history",
+        "great-depression-lived-experience-literature"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-crisis-historical-analogies.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/world-crisis-historical-analogies.md",
@@ -5114,6 +5117,45 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/living-orchestral-listening-journey.md",
       "page_url": "https://belorin.github.io/notes/living-orchestral-listening-journey/",
       "app_url": "https://belorin.github.io/#living-orchestral-listening-journey"
+    },
+    {
+      "id": "great-depression-lived-experience-literature",
+      "title": "풍요 속에서 자리를 잃은 사람들: 세계 대공황의 생활 기록과 동시대 소설",
+      "aliases": [
+        "대공황 당대 소설",
+        "대공황 생활사 문학",
+        "대공황 세계문학",
+        "풍요 속 실업",
+        "1930년대 실업 문학"
+      ],
+      "category": "문화와 역사",
+      "tags": [
+        "대공황",
+        "1930년대 문학",
+        "실업",
+        "생활사",
+        "세계문학",
+        "빈곤",
+        "르포",
+        "구술사",
+        "번역서"
+      ],
+      "summary": "물건이 풍부해도 소득과 사회적 자리를 잃는 역사적 경험을 독일·미국·영국·프랑스어권·스페인어권·브라질·일본의 1930~40년대 소설과 당대 르포, 후대 구술사를 통해 구분하고 번역 확인 수준 및 독서 경로를 정리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 독서 지도 · 원서·한국어판 서지와 작품의 공황 직접성 검증 필요",
+      "last_updated_on": "2026-10-30",
+      "last_enriched_on": "2026-10-30",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "world-crisis-historical-analogies",
+        "ai-economic-transition",
+        "ai-capital-labor-distribution"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/great-depression-lived-experience-literature.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/great-depression-lived-experience-literature.md",
+      "page_url": "https://belorin.github.io/notes/great-depression-lived-experience-literature/",
+      "app_url": "https://belorin.github.io/#great-depression-lived-experience-literature"
     }
   ]
 }

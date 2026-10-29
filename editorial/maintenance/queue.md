@@ -4,15 +4,15 @@
 
 마지막 정비: **M001** (2026-10-26) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
 
-원고 152개 · 변경 문서 68 · 고립 21 · 한쪽 연결 96 · 보류 9 · 열린 교차 제안 7
+원고 153개 · 변경 문서 70 · 고립 21 · 한쪽 연결 96 · 보류 9 · 열린 교차 제안 7
 
-## 1. 지난 정비 이후 변경된 문서 (68)
+## 1. 지난 정비 이후 변경된 문서 (70)
 
 manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
 - **사회와 제도** (17): `europe-russia-escalation-signals-2026`, `drone-asymmetric-warfare`, `black-sea-ukraine-sea-denial`, `ukraine-ground-drone-defense`, `russia-ukraine-war-endurance`, `south-asia-border-rivalries-2026`, `global-flashpoints-likelihood-2026`, `hormuz-iran-war-naval-power-2026`, `chabahar-india-strategic-autonomy-2026`, `indian-ocean-navies-comparison`, `hormuz-sea-denial-reopening`, `iran-war-us-force-losses-2026`, `birth-order-korean-evidence`, `wto-digital-transmission-moratorium`, `silicon-valley-firm-geography`, `global-bpo-labor-geography`, `us-labor-market-geography-2026`
 - **음악** (15): `jazz-to-ai`, `double-bass`, `electric-bass`, `rhythm-section`, `big-band`, `brass-band`, `drum-kit`, `jazz-dialogue`, `jazz-listening`, `silent-film-musician-labor`, `classical-canon-mauceri`, `orchestra-living-composers-canon`, `conductors-career-encores`, `orchestra-composer-conductor-myth`, `living-orchestral-listening-journey`
-- **문화와 역사** (8): `war-escalation-local-to-world`, `jewish-messianic-claimants-kabbalah`, `luddite-movement-history`, `luddite-executions-memory`, `late-qing-yongying-daily-life`, `qing-tributaries-dissolution`, `ryukyu-disposition-qing-japan`, `roman-industry-gold-standard-history`
+- **문화와 역사** (10): `war-escalation-local-to-world`, `world-crisis-historical-analogies`, `jewish-messianic-claimants-kabbalah`, `luddite-movement-history`, `luddite-executions-memory`, `late-qing-yongying-daily-life`, `qing-tributaries-dissolution`, `ryukyu-disposition-qing-japan`, `roman-industry-gold-standard-history`, `great-depression-lived-experience-literature`
 - **AI와 사회** (6): `ai-economic-transition`, `ai-capital-labor-distribution`, `ai-compute-scaling-inference`, `starcraft-pluto-ai`, `ai-hidden-labor-feeding-machine-2026`, `ai-cloud-ownership-rent`
 - **운영** (4): `editing-principles`, `wiki-building-history`, `wiki-operations-pipeline`, `gpt-wiki-zero-prototype`
 - **기술·지식 아카이브** (3): `east-asia-telegraph-network-1880s`, `great-northern-telegraph-east-asia`, `book-translation-pipeline-local-llm`
@@ -222,10 +222,10 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
-- 긴 문서 (15): `wiki-building-history` 15,142자, `ai-capital-labor-distribution` 12,399자, `wiki-operations-pipeline` 12,147자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `living-orchestral-listening-journey` 10,782자, `book-translation-pipeline-local-llm` 10,524자, `korea-dance-musical-tours` 10,337자, `starcraft-pluto-ai` 10,311자, `wto-digital-transmission-moratorium` 10,289자, `great-northern-telegraph-east-asia` 10,147자, `where-novelty-comes-from` 10,125자, `stalking-harm-and-autonomy` 10,033자
+- 긴 문서 (16): `wiki-building-history` 15,142자, `ai-capital-labor-distribution` 12,399자, `great-depression-lived-experience-literature` 12,392자, `wiki-operations-pipeline` 12,147자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `living-orchestral-listening-journey` 10,782자, `book-translation-pipeline-local-llm` 10,524자, `korea-dance-musical-tours` 10,337자, `starcraft-pluto-ai` 10,311자, `wto-digital-transmission-moratorium` 10,289자, `great-northern-telegraph-east-asia` 10,147자, `where-novelty-comes-from` 10,125자, `stalking-harm-and-autonomy` 10,033자
 - 짧은 문서 (1): `deleuze-cartography-future` 1,291자
 
 ## 9. 분류 참고
 
-분류 23개: 음악 37, 사회와 제도 22, AI와 사회 21, 문화와 역사 21, 철학 11, 운영 5, 기술·지식 아카이브 5, 정치경제 4, 독서 문화 3, 영화 3, 생명과학 3, 철학·사상사 3, 미분류 2, 자연과 과학 2, 종합 2, 질문 1, 언어 1, 문학 1, 문화 1, 창작 1, 철학·심리 1, 정보와 미디어 1, 소설 1
+분류 23개: 음악 37, 문화와 역사 22, 사회와 제도 22, AI와 사회 21, 철학 11, 운영 5, 기술·지식 아카이브 5, 정치경제 4, 독서 문화 3, 영화 3, 생명과학 3, 철학·사상사 3, 미분류 2, 자연과 과학 2, 종합 2, 질문 1, 언어 1, 문학 1, 문화 1, 창작 1, 철학·심리 1, 정보와 미디어 1, 소설 1
 문서가 하나뿐인 분류 8개: 질문, 언어, 문학, 문화, 창작, 철학·심리, 정보와 미디어, 소설. 분류 체계 변경은 제안만 한다.

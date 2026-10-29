@@ -4,7 +4,7 @@
 > 사용 순서: ① 채팅에서 추출한 지식 항목마다 제목·별칭으로 후보를 찾는다 → ② 후보의 문서 카드 `editorial/map/docs/<id>.md`에서 절 목차와 장부 기록을 본다 → ③ 해당 절 본문을 읽고 대조한다. 전문으로 넓히는 조건은 WIKI_PROTOCOL §4를 따른다.
 > 지도와 카드는 후보를 찾는 도구일 뿐이다. 중복·반영 여부는 원고 본문을 읽고 판정한다.
 
-원고 150개 (미게시 3, 소설 1편 포함) · 종합 2편 · 절 1,619개 · 장부 지식 항목 872개
+원고 151개 (미게시 3, 소설 1편 포함) · 종합 2편 · 절 1,648개 · 장부 지식 항목 872개
 
 특정 논점이 이미 처리되었는지는 [지식 표제 역색인](knowledge.md)에서 낱말로 **검색**한다(통째로 읽지 않는다). 장부가 없는 원고는 문서 카드의 절 목차로 찾는다.
 
@@ -50,6 +50,31 @@
 - `orchestra-composer-conductor-myth` 교향곡은 영화 이전의 블록버스터였는가: 작곡가·지휘자 팬덤과 인물 신화 — 클래식의 인물 신화, 작곡가 지휘자 팬덤, 교향곡 블록버스터 · 7절 · 5.7천 자 · 장부 7건
 - `living-orchestral-listening-journey` 살아 있는 작곡가들을 여행하는 현대 교향악: 1977~2025 작품 연표와 12주 청취 지도 — 현대 교향악 여행, 살아 있는 작곡가 청취 코스, 현대 관현악 작품 연표 · 12절 · 10.8천 자 · 장부 12건
 
+## 문화와 역사 (22)
+
+- `burning-man-community` 버닝맨의 기원과 불의 공동체: 해변의 놀이에서 임시도시까지 — 버닝맨, Burning Man, Man Burn, Temple Burn · 8절 · 4.9천 자 · 장부 11건
+- `global-festival-streaming` 집에서 남의 축제를 엿보기: 세계 연례행사의 방송·스트리밍 지도 — 세계 축제 스트리밍, 집에서 보는 축제, 연례행사 스트리밍 · 9절 · 2.9천 자 · 장부 3건
+- `burning-man-institutions` 버닝맨의 10원칙과 제도화의 역설: 반상업·참여·안전·통치 — 버닝맨 10원칙, Burning Man Ten Principles, 버닝맨 제도화, No Spectators · 9절 · 5.2천 자 · 장부 6건
+- `burning-man-regional-network` 버닝맨은 무엇을 수출했나: 지역 번즈와 임시도시의 문화 프로토콜 — Regional Burn, Burning Man Regional Network, AfrikaBurn, Midburn, Kiwiburn, Burning Japan · 10절 · 4.1천 자 · 장부 7건
+- `sumer-bible-primeval-history` 수메르 재발견과 구약 원초사의 역사화: 홍수·에덴·바벨탑은 어떻게 재배치되었나 — 수메르와 구약, 창세기 원초사, 메소포타미아와 성경, 노아의 홍수와 수메르, 에덴과 딜문 · 14절 · 6.9천 자 · 장부 10건
+- `war-escalation-local-to-world` 국지전은 어떻게 세계전쟁이 되는가: 1754·1618·1914·1939·1950과 2026년 다중 전선 — 국지전에서 세계대전, 전쟁의 연결, 1914 확전 모형 · 15절 · 6.8천 자 · 장부 10건
+- `hate-escalation-brakes-history` 혐오의 가속은 파국 없이 멈출 수 있는가: 집단공황과 정치적 선동의 역사적 브레이크 — 혐오 가속의 브레이크, 집단공황의 중단, 파국 전 혐오정치 중단, 혐오사회 되돌리기 · 13절 · 8.0천 자 · 장부 12건
+- `gwangju-building-art-network` 광주의 보이지 않는 길거리 미술관: 아파트·사옥 조형물과 작가·건설 네트워크 — 광주 공공미술, 광주 건축물 미술, 광주 아파트 조각, 광주 길거리 미술관, 광주 조각 네트워크 · 20절 · 11.8천 자 · 장부 11건
+- `ancient-philosophy-beyond-greece` 그리스만이 철학의 고향인가: 고대 지중해와 서아시아의 사상가·고서·전승 — 그리스 중심 철학사, 그리스 외부 고대 사상, 고대 근동 지혜문학 · 11절 · 4.9천 자 · 장부 10건
+- `dreyfus-affair-intellectuals` 드레퓌스 사건과 지식인들의 분열: 작가·학자·화가들은 어느 편에 섰는가 — 드레퓌스파, 반드레퓌스파, Dreyfus Affair, 드레퓌스 사건의 지식인, 지식인 선언 · 11절 · 8.7천 자 · 장부 9건
+- `world-crisis-historical-analogies` 세계는 다시 1914·1929·1939년으로 향하는가: 벨 에포크와 세 번의 파국을 비교하는 법 — 현대와 대공황 직전 비교, 벨 에포크의 종언, 세계대전 전야의 현재, 현대 위기의 역사적 유비 · 7절 · 5.0천 자 · 장부 6건
+- `venice-biennale-history` 베니스 비엔날레: 정원 박람회에서 세계 미술의 판단 장치까지 — 베니스 비엔날레 역사, Biennale di Venezia, Venice Biennale, 베니스 효과 · 11절 · 5.4천 자 · 장부 9건
+- `venice-biennale-sites-pavilions` 자르디니와 아르세날레: 베니스 비엔날레의 두 공간과 국가관 지도 — 자르디니, Giardini della Biennale, 아르세날레, Arsenale, 베니스 국가관 목록 · 8절 · 3.5천 자 · 장부 5건
+- `venice-biennale-2026-critical-reception` 2026 베니스 비엔날레: 'In Minor Keys'의 비평, 정치적 파열과 느린 평가 — 2026 베니스 비엔날레, In Minor Keys, 2026 Venice Biennale, 코요 쿠오 비엔날레 · 8절 · 5.3천 자 · 장부 7건
+- `jewish-messianic-claimants-kabbalah` 유대교의 수많은 메시아들: 중세의 구원 운동에서 카발라와 샤브타이 츠비까지 — 중세 유대교 메시아, 유대 메시아 참칭자, 유대교의 메시아들, 카발라와 메시아주의, Pseudo-Messiahs · 12절 · 8.1천 자 · 장부 12건
+- `luddite-movement-history` 러다이트 운동: 기계 파괴에서 교수대까지 — 러다이트 운동, Luddite movement, 네드 러드 · 7절 · 2.4천 자 · 장부 2건
+- `luddite-executions-memory` 러다이트 처형자와 기억: 이름, 재판, 그리고 남겨진 기록 — 러다이트 처형자, 러다이트 사형자 명단, Luddite executions · 7절 · 2.3천 자 · 장부 6건
+- `late-qing-yongying-daily-life` 청말 500명의 군영은 어떻게 움직였는가: 영·초·대의 조직과 하루 — 청말 영 편제, 505명 영, 영 초 대, 金州 72營 · 8절 · 4.9천 자 · 장부 7건
+- `qing-tributaries-dissolution` 마지막 속방의 소멸: 류큐·베트남·버마·조선에서 청의 종주권은 어떻게 무너졌는가 — 청의 마지막 속방, 조선 청 속방, 청나라 속방 상실 · 8절 · 4.9천 자 · 장부 7건
+- `ryukyu-disposition-qing-japan` 전쟁 없이 사라진 왕국: 1872~1880년 류큐 처분과 청의 딜레마 — 류큐 처분, 류큐 병합 1879, 오키나와 현 설치, 琉球處分 · 11절 · 4.9천 자 · 장부 6건
+- `roman-industry-gold-standard-history` 빵과 서커스에서 금본위까지: 로마·산업혁명을 한 줄로 꿰는 역사관의 함정 — 빵과 서커스와 로마 몰락, 금본위 이탈의 역사, 1931년 영국 금본위, 1971년 닉슨 쇼크 · 9절 · 7.5천 자 · 장부 8건
+- `great-depression-lived-experience-literature` 풍요 속에서 자리를 잃은 사람들: 세계 대공황의 생활 기록과 동시대 소설 — 대공황 당대 소설, 대공황 생활사 문학, 대공황 세계문학, 풍요 속 실업, 1930년대 실업 문학 · 29절 · 12.4천 자 · 장부 없음
+
 ## 사회와 제도 (22)
 
 - `public-land-and-blm` 주인 없는 땅은 거의 없다: 사막의 공공토지와 미국 BLM — BLM, Bureau of Land Management, 공공 토지, 블랙록 사막 · 7절 · 2.9천 자 · 장부 5건
@@ -75,30 +100,6 @@
 - `global-bpo-labor-geography` 세계 BPO 시장의 지리: 누가 사무 노동을 수출하고, 누가 값을 지불하는가 — 세계 BPO 시장, BPO 국가별 가격 노동복지 · 11절 · 7.0천 자 · 장부 5건
 - `us-labor-market-geography-2026` 미국 노동시장을 지역으로 읽기: 취업률·실업률·주별 격차와 2026년의 둔화 — 미국 2026 실업률 지역별, 미국 주별 고용률 · 8절 · 5.1천 자 · 장부 6건
 
-## 문화와 역사 (21)
-
-- `burning-man-community` 버닝맨의 기원과 불의 공동체: 해변의 놀이에서 임시도시까지 — 버닝맨, Burning Man, Man Burn, Temple Burn · 8절 · 4.9천 자 · 장부 11건
-- `global-festival-streaming` 집에서 남의 축제를 엿보기: 세계 연례행사의 방송·스트리밍 지도 — 세계 축제 스트리밍, 집에서 보는 축제, 연례행사 스트리밍 · 9절 · 2.9천 자 · 장부 3건
-- `burning-man-institutions` 버닝맨의 10원칙과 제도화의 역설: 반상업·참여·안전·통치 — 버닝맨 10원칙, Burning Man Ten Principles, 버닝맨 제도화, No Spectators · 9절 · 5.2천 자 · 장부 6건
-- `burning-man-regional-network` 버닝맨은 무엇을 수출했나: 지역 번즈와 임시도시의 문화 프로토콜 — Regional Burn, Burning Man Regional Network, AfrikaBurn, Midburn, Kiwiburn, Burning Japan · 10절 · 4.1천 자 · 장부 7건
-- `sumer-bible-primeval-history` 수메르 재발견과 구약 원초사의 역사화: 홍수·에덴·바벨탑은 어떻게 재배치되었나 — 수메르와 구약, 창세기 원초사, 메소포타미아와 성경, 노아의 홍수와 수메르, 에덴과 딜문 · 14절 · 6.9천 자 · 장부 10건
-- `war-escalation-local-to-world` 국지전은 어떻게 세계전쟁이 되는가: 1754·1618·1914·1939·1950과 2026년 다중 전선 — 국지전에서 세계대전, 전쟁의 연결, 1914 확전 모형 · 15절 · 6.8천 자 · 장부 10건
-- `hate-escalation-brakes-history` 혐오의 가속은 파국 없이 멈출 수 있는가: 집단공황과 정치적 선동의 역사적 브레이크 — 혐오 가속의 브레이크, 집단공황의 중단, 파국 전 혐오정치 중단, 혐오사회 되돌리기 · 13절 · 8.0천 자 · 장부 12건
-- `gwangju-building-art-network` 광주의 보이지 않는 길거리 미술관: 아파트·사옥 조형물과 작가·건설 네트워크 — 광주 공공미술, 광주 건축물 미술, 광주 아파트 조각, 광주 길거리 미술관, 광주 조각 네트워크 · 20절 · 11.8천 자 · 장부 11건
-- `ancient-philosophy-beyond-greece` 그리스만이 철학의 고향인가: 고대 지중해와 서아시아의 사상가·고서·전승 — 그리스 중심 철학사, 그리스 외부 고대 사상, 고대 근동 지혜문학 · 11절 · 4.9천 자 · 장부 10건
-- `dreyfus-affair-intellectuals` 드레퓌스 사건과 지식인들의 분열: 작가·학자·화가들은 어느 편에 섰는가 — 드레퓌스파, 반드레퓌스파, Dreyfus Affair, 드레퓌스 사건의 지식인, 지식인 선언 · 11절 · 8.7천 자 · 장부 9건
-- `world-crisis-historical-analogies` 세계는 다시 1914·1929·1939년으로 향하는가: 벨 에포크와 세 번의 파국을 비교하는 법 — 현대와 대공황 직전 비교, 벨 에포크의 종언, 세계대전 전야의 현재, 현대 위기의 역사적 유비 · 7절 · 4.7천 자 · 장부 6건
-- `venice-biennale-history` 베니스 비엔날레: 정원 박람회에서 세계 미술의 판단 장치까지 — 베니스 비엔날레 역사, Biennale di Venezia, Venice Biennale, 베니스 효과 · 11절 · 5.4천 자 · 장부 9건
-- `venice-biennale-sites-pavilions` 자르디니와 아르세날레: 베니스 비엔날레의 두 공간과 국가관 지도 — 자르디니, Giardini della Biennale, 아르세날레, Arsenale, 베니스 국가관 목록 · 8절 · 3.5천 자 · 장부 5건
-- `venice-biennale-2026-critical-reception` 2026 베니스 비엔날레: 'In Minor Keys'의 비평, 정치적 파열과 느린 평가 — 2026 베니스 비엔날레, In Minor Keys, 2026 Venice Biennale, 코요 쿠오 비엔날레 · 8절 · 5.3천 자 · 장부 7건
-- `jewish-messianic-claimants-kabbalah` 유대교의 수많은 메시아들: 중세의 구원 운동에서 카발라와 샤브타이 츠비까지 — 중세 유대교 메시아, 유대 메시아 참칭자, 유대교의 메시아들, 카발라와 메시아주의, Pseudo-Messiahs · 12절 · 8.1천 자 · 장부 12건
-- `luddite-movement-history` 러다이트 운동: 기계 파괴에서 교수대까지 — 러다이트 운동, Luddite movement, 네드 러드 · 7절 · 2.4천 자 · 장부 2건
-- `luddite-executions-memory` 러다이트 처형자와 기억: 이름, 재판, 그리고 남겨진 기록 — 러다이트 처형자, 러다이트 사형자 명단, Luddite executions · 7절 · 2.3천 자 · 장부 6건
-- `late-qing-yongying-daily-life` 청말 500명의 군영은 어떻게 움직였는가: 영·초·대의 조직과 하루 — 청말 영 편제, 505명 영, 영 초 대, 金州 72營 · 8절 · 4.9천 자 · 장부 7건
-- `qing-tributaries-dissolution` 마지막 속방의 소멸: 류큐·베트남·버마·조선에서 청의 종주권은 어떻게 무너졌는가 — 청의 마지막 속방, 조선 청 속방, 청나라 속방 상실 · 8절 · 4.9천 자 · 장부 7건
-- `ryukyu-disposition-qing-japan` 전쟁 없이 사라진 왕국: 1872~1880년 류큐 처분과 청의 딜레마 — 류큐 처분, 류큐 병합 1879, 오키나와 현 설치, 琉球處分 · 11절 · 4.9천 자 · 장부 6건
-- `roman-industry-gold-standard-history` 빵과 서커스에서 금본위까지: 로마·산업혁명을 한 줄로 꿰는 역사관의 함정 — 빵과 서커스와 로마 몰락, 금본위 이탈의 역사, 1931년 영국 금본위, 1971년 닉슨 쇼크 · 9절 · 7.5천 자 · 장부 8건
-
 ## AI와 사회 (21)
 
 - `ai-human-control-guide` AI와 인간의 통제력: 장악·무력화·설득·접근권을 잇는 길잡이 — AI 통제력 길잡이, AI와 사회 길잡이 · 5절 · 3.3천 자 · 장부 4건
@@ -110,7 +111,7 @@
 - `conversational-ai-persuasion` 대화형 AI의 설득력과 민주주의: 마이크로타기팅 이후의 증거와 비가시성 — AI 설득과 민주주의, 대화형 AI 설득 · 10절 · 6.2천 자 · 장부 9건
 - `ai-conversation-data-access` AI 대화 데이터와 접근권: 연구·감사·감시를 가르는 비대칭 — AI 대화 데이터 접근권, 대화 데이터 감시 · 12절 · 5.5천 자 · 장부 11건
 - `ai-democracy-narrow-corridor` AI와 민주주의의 좁은 회랑: 국가·시민사회·데이터 비대칭의 수리모형 — AI와 민주주의, Why does AI hinder democratization, 민주주의 좁은 회랑 · 13절 · 4.8천 자 · 장부 8건
-- `ai-economic-transition` AI 경제 이행기: 과업·수요·혁신·소유를 둘러싼 경제학의 질문 — AI 경제 이행기, AI 경제학파 비교 · 14절 · 9.4천 자 · 장부 11건
+- `ai-economic-transition` AI 경제 이행기: 과업·수요·혁신·소유를 둘러싼 경제학의 질문 — AI 경제 이행기, AI 경제학파 비교 · 14절 · 9.7천 자 · 장부 11건
 - `ai-capital-labor-distribution` AI 시대의 자본·노동·분배: 소유와 협상력은 어떻게 재편되는가 — AI와 자본 노동, AI 시대의 분배 · 16절 · 12.4천 자 · 장부 14건
 - `ai-class-fiction` AI 시대의 계급 서사: 자동화된 집과 들어갈 수 없는 삶 — AI 계층 시나리오, AI 시대 기생충 사고실험 · 9절 · 8.8천 자 · 장부 9건
 - `ai-domination-gradient` AI 지배는 이미 시작되었는가: 사건이 아니라 농도로 보는 통제 — AI 지배의 농도, 매끄러운 지배, AI 인지 인프라, AI 지배는 이미 시작되었다 · 22절 · 11.9천 자 · 장부 15건
