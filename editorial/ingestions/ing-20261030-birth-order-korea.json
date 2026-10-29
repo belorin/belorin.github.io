@@ -1,25 +1,45 @@
 {
-  "batch_id": "ing-20261030-birth-order-korea",
+  "id": "ing-20261030-birth-order-korea",
+  "processed_on": "2026-10-30",
   "coverage": "visible-complete",
+  "limit_note": "공개 지식 표제와 실제 원고 절의 대응을 유지하면서 편집 장부 규격에 맞게 필드 구조만 정규화함. 본문 지식에 대한 외부 재검증은 수행하지 않음.",
+  "withheld_count": 0,
   "items": [
     {
+      "id": "k01",
+      "kind": "other",
       "title": "출생순위 성격론과 인지·학업 효과",
       "status": "integrated",
-      "document": "wiki/birth-order-korean-evidence.md",
-      "section": "성격의 법칙과 평균적 차이의 거리"
+      "targets": [
+        {
+          "doc_id": "birth-order-korean-evidence",
+          "section": "성격의 법칙과 평균적 차이의 거리"
+        }
+      ]
     },
     {
+      "id": "k02",
+      "kind": "other",
       "title": "한국의 부모화·양육통제·형제관계 연구",
       "status": "integrated",
-      "document": "wiki/birth-order-korean-evidence.md",
-      "section": "부모화: 출생순위가 아니라 맡겨진 역할"
+      "targets": [
+        {
+          "doc_id": "birth-order-korean-evidence",
+          "section": "부모화: 출생순위가 아니라 맡겨진 역할"
+        }
+      ]
     },
     {
+      "id": "k03",
+      "kind": "other",
       "title": "국제 비교와 문화적 일반화의 한계",
       "status": "integrated",
-      "document": "wiki/birth-order-korean-evidence.md",
-      "section": "국제 비교: 나라가 바뀌면 효과도 바뀌는가"
+      "targets": [
+        {
+          "doc_id": "birth-order-korean-evidence",
+          "section": "국제 비교: 나라가 바뀌면 효과도 바뀌는가"
+        }
+      ]
     }
-  ],
-  "withheld_count": 0
+  ]
 }
