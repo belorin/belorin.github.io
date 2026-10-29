@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `ai-compute-scaling-inference` · 분류: AI와 사회 · 공개 · 원고: [wiki/ai-compute-scaling-inference.md](../../../wiki/ai-compute-scaling-inference.md) · 5,913자 · 절 9개
+- id: `ai-compute-scaling-inference` · 분류: AI와 사회 · 공개 · 원고: [wiki/ai-compute-scaling-inference.md](../../../wiki/ai-compute-scaling-inference.md) · 6,677자 · 절 10개
 - 별칭: AI 데이터센터와 추론, test-time scaling, 추론 컴퓨트, AI 계산 스케일링
 - 요약: AI 데이터센터 증설을 단순한 더 큰 사전학습이 아니라 test-time compute, 병렬 탐색·검증, 과학·코딩·피지컬 AI 계산의 확대로 읽고 계산량의 한계를 함께 정리한다.
 - 태그: AI 데이터센터, 추론 스케일링, test-time compute, AI 인프라, 병렬 탐색, verifier
-- 수정일: 2026-10-25 · 실제 증보일: 2026-10-25 · 검토: needs_review
-- 관련 문서: `japan-physical-ai-skill-transfer`
+- 수정일: 2026-10-30 · 실제 증보일: 2026-10-30 · 검토: needs_review
+- 관련 문서: `japan-physical-ai-skill-transfer`, `wto-digital-transmission-moratorium`
 
 ## 절 목차
 
@@ -22,7 +22,8 @@
 - 평범한 AI 서비스도 계산 배급이 달라진다 · L55–61 · 529자 · `0847cec2` — 새 모델을 만들지 않아도 계산 자원이 늘면 사용자 경험이 좋아질 수 있다.
 - 계산량은 지능 그 자체가 아니다 · L63–69 · 562자 · `ae88cda7` — 연산을 많이 쓰면 항상 더 좋은 답이 나온다는 결론은 성립하지 않는다.
 - 피지컬 AI: 현실세계가 다음 스케일링 대상이 될 때 · L71–77 · 487자 · `5cacfe4c` — 대규모 계산 인프라의 다음 사용처는 텍스트와 코드에만 한정되지 않는다.
-- 검토 상태 · L79–83 · 396자 · `4abf4a55` — 이 글은 현재 확인 가능한 논의에서 이미 제시된 수치·연구·기업 발표와 링크를 재구성했다.
+- 국경을 넘어 제공되는 AI와 디지털 관세의 별도 문제 · L79–85 · 728자 · `f5cfbd42` — 연산 인프라가 커진다고 그 계산의 모든 데이터가 국제무역의 과세 대상이 되는 것은 아니다.
+- 검토 상태 · L87–91 · 396자 · `4abf4a55` — 이 글은 현재 확인 가능한 논의에서 이미 제시된 수치·연구·기업 발표와 링크를 재구성했다.
 
 ## 장부에 기록된 반영 지식
 
@@ -40,6 +41,8 @@
   - 계산량만으로 지능이 무한히 오르지 않는 이유 · `ing-20261025-ai-compute-physical-ai`
 - **피지컬 AI: 현실세계가 다음 스케일링 대상이 될 때**
   - 대규모 AI 계산 인프라와 로봇 학습의 접점 · `ing-20261025-ai-compute-physical-ai`
+- **국경을 넘어 제공되는 AI와 디지털 관세의 별도 문제**
+  - 추론 스케일링의 계산량과 관세 적용 가능 트래픽의 비동일성 · `ing-20261030-wto-digital-transmissions`
 
 ## 확인된 의미 관계
 

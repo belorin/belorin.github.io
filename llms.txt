@@ -134,6 +134,7 @@
 - [전쟁 없이 사라진 왕국: 1872~1880년 류큐 처분과 청의 딜레마](https://belorin.github.io/notes/ryukyu-disposition-qing-japan/): 류큐의 이중 종속, 1872년 번 편입부터 1879년 현 설치까지의 일본 행정 강제, 청의 군사적 선택과 1880년 분할안을 살핀다.
 - [청말 500명의 군영은 어떻게 움직였는가: 영·초·대의 조직과 하루](https://belorin.github.io/notes/late-qing-yongying-daily-life/): 1880년대 상군·회군식 505명 영의 편제와 무기·물류·지휘의 층위, 설명용 하루 일과, 원세개 '금주 72영' 동원 위협의 검증 경계를 구별한다.
 - [마지막 속방의 소멸: 류큐·베트남·버마·조선에서 청의 종주권은 어떻게 무너졌는가](https://belorin.github.io/notes/qing-tributaries-dissolution/): 류큐의 행정 편입, 베트남의 프랑스 보호국화, 버마 병합, 조선의 청일전쟁과 네팔의 의례적 조공을 비교해 청의 속방 해체를 설명한다.
+- [빵과 서커스에서 금본위까지: 로마·산업혁명을 한 줄로 꿰는 역사관의 함정](https://belorin.github.io/notes/roman-industry-gold-standard-history/): 로마의 곡물 배급과 주화 절하, 동로마와 중세 상업혁명, 영국 산업화, 1931·1933·1934·1971년 금본위 이탈의 차이를 통해 직선적 경제사 서사를 비판
 
 ### 언어
 
@@ -158,6 +159,8 @@
 - [인도양의 함대들: 인도·호주와 해군력을 비교하는 네 가지 척도](https://belorin.github.io/notes/indian-ocean-navies-comparison/): 인도·호주 해군 전력과 훈련, 중국·파키스탄 위협, 주요 해군의 임무별 비교
 - [호르무즈의 군사적 개방: 기뢰와 미사일을 넘어 상선을 다시 움직이려면](https://belorin.github.io/notes/hormuz-sea-denial-reopening/): 호르무즈 해상거부와 제해권, 기뢰 제거, 도서·해안, 상선 호위와 상업항행 복구
 - [2026년 이란전의 미군 증원과 항공기 손실: 무엇이 확인되고 무엇이 남았는가](https://belorin.github.io/notes/iran-war-us-force-losses-2026/): 중동 미군 증원과 기지 공격, F-15E·A-10 손실 보도, 승무원 구조, 휴전과 재개전
+- [출생순서가 성격을 만드는가: 한국 연구와 국제 비교의 증거](https://belorin.github.io/notes/birth-order-korean-evidence/): 출생순서 성격론의 재현성, 인지·학업의 작은 평균 차이, 한국의 부모화·차별적 양육 연구, 국제 비교의 한계를 구분한다.
+- [디지털 국경에도 관세가 생기는가: WTO 전자적 전송 모라토리엄과 AI 인터넷](https://belorin.github.io/notes/wto-digital-transmission-moratorium/): 1998년 WTO 전자적 전송 관세 유예의 반복 갱신과 2026년 MC14 연장 실패 보도, 브라질·인도의 입장, 망 이용대가와의 구별, AI 모델·클라우드·데이터센터의 국경 간 영향과 불확실성을 분리한다.
 
 ### 영화
 
@@ -183,6 +186,7 @@
 - [파국의 비용은 브레이크가 될 수 있는가: 비극적 완충론과 비판적 낙관주의](https://belorin.github.io/notes/critical-optimism-fragile-order/): AI 구원론을 제외한 비용 피드백·핵 억지·금융 방화벽·에너지 전환과 제도 공동화의 반론으로 최소 낙관의 조건을 검토한다.
 - [국가는 언제 껍데기가 되는가: 형해화·좀비 국가·생활세계의 디스토피아](https://belorin.github.io/notes/state-hollowing-index/): 주권의 법적 외형과 기능적 연속성을 구분하고 폭력·행정·화폐·사회 재생산 등 아홉 층의 형해화 지수를 설계한다.
 - [20개국 국가 형해화 시범 측정: 네 지표로 본 껍데기와 기능의 불일치](https://belorin.github.io/notes/state-hollowing-country-pilot/): GPI·FSI·물가·정부부채의 코어 v0.1 산식과 20개국 입력·점수, 결측 대체와 민감도·과잉해석의 한계를 기록한다.
+- [돈은 부채이지만 왜 곧장 약탈이 되지 않는가: 『왜 그들만 부자가 되는가』의 화폐론 비평](https://belorin.github.io/notes/money-credit-seigniorage-critique/): 은행의 예금통화 창조, 세뇨리지, 칸티용 효과, 생산적·투기적 신용, 통화정책과 불평등을 구별하며 『왜 그들만 부자가 되는가』의 논리적 비약을 검토
 
 ### 기술·지식 아카이브
 

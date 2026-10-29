@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 765개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 801개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (6)
 
@@ -14,7 +14,7 @@
 - 1868년 러시아 부설권 입찰과 동아시아 케이블사업의 실제 정산액 → 반영 위치 없음 · `ing-20261026-qing-tributaries-telegraph` · pending — 원본 공고·계약서·재무자료가 제공 범위에 없음
 - 류큐 처분 시점의 청·일 함정 전력과 원정 가능성 실측 → 반영 위치 없음 · `ing-20261026-qing-tributaries-telegraph` · pending — 선박·정비·항만·병력 이동 자료를 대조하지 못해 시기 혼합 위험을 표시함
 
-## 문화와 역사 (144)
+## 문화와 역사 (153)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -162,8 +162,17 @@
 - 군함 전력과 실제 류큐 상륙·복권 작전의 구별 → `ryukyu-disposition-qing-japan` § 청의 고민: 어째서 군함 몇 척을 보내지 않았는가 · `ing-20261026-qing-tributaries-telegraph`
 - 1880년 류큐 남부 분할안과 통상 협상 불성립 → `ryukyu-disposition-qing-japan` § 1880년: 아예 왕국을 나누자는 외교 · `ing-20261026-qing-tributaries-telegraph`
 - 류큐의 실제 점유와 청의 영토주권 승인 분리 → `ryukyu-disposition-qing-japan` § ‘점령’과 ‘승인’ 사이의 간격 · `ing-20261026-qing-tributaries-telegraph`
+- 로마 곡물배급과 현대 복지국가의 범주 차이 → `roman-industry-gold-standard-history` § 빵과 서커스: 도시의 식량 공급을 복지 낭비라고 부를 수 있는가 · `ing-20261030-money-credit-economic-history`
+- 주화 절하와 현대 예금통화 창조의 역사적 구분 → `roman-industry-gold-standard-history` § 로마의 주화 절하와 현대 신용팽창은 다른 기제다 · `ing-20261030-money-credit-economic-history`
+- 서로마 476년과 동로마 1453년의 역사적 구별 → `roman-industry-gold-standard-history` § 476년에 끝난 로마, 1453년까지 계속된 로마 · `ing-20261030-money-credit-economic-history`
+- 중세 천년 정체론과 11~13세기 상업혁명 → `roman-industry-gold-standard-history` § 1700년까지 잠들어 있던 경제? 중세 상업혁명의 반례 · `ing-20261030-money-credit-economic-history`
+- 산업혁명의 높은 임금·석탄·항해법·특허제도 → `roman-industry-gold-standard-history` § 산업혁명의 영국이 ‘온전한 자유시장’이었다는 주장 · `ing-20261030-money-credit-economic-history`
+- 금본위와 대공황의 디플레이션·은행위기 → `roman-industry-gold-standard-history` § 단단한 화폐가 목을 조를 때: 금본위의 두 얼굴 · `ing-20261030-money-credit-economic-history`
+- 1931·1933·1934·1971년 금본위 제도 변동의 구분 → `roman-industry-gold-standard-history` § 누가 먼저 금본위를 떠났는가: 세 연도의 차이 · `ing-20261030-money-credit-economic-history`
+- 대공황 주요국 금본위 이탈과 위기 대응의 차이 → `world-crisis-historical-analogies` § 1929년의 그림자: 신기술·자산·신용·관세 · `ing-20261030-money-credit-economic-history`
+- 경제사의 단선적 인과 서사와 검증 질문 → `roman-industry-gold-standard-history` § 세 문장으로 끝나는 역사와 복수의 인과 · `ing-20261030-money-credit-economic-history`
 
-## AI와 사회 (143)
+## AI와 사회 (144)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -310,6 +319,7 @@
 - 2026년 10월 8일까지 개발자 직접 반응과 로드맵의 부재 → `starcraft-pluto-ai` § 개발자 Vegard Mella는 한국의 붐에 뭐라고 했는가 · `ing-20261026-starcraft-pluto-ai`
 - 인간 공략을 다시 학습하는 AI-인간-재학습 순환 → `starcraft-pluto-ai` § 다음 단계가 더 중요하다: 인간과 AI의 두 번째 학습 사이클 · `ing-20261026-starcraft-pluto-ai`
 - 경기 전적·모델 버전·개발자 후속 발언의 검증 경계 → `starcraft-pluto-ai` § 남아 있는 검증 과제 · `ing-20261026-starcraft-pluto-ai`
+- 추론 스케일링의 계산량과 관세 적용 가능 트래픽의 비동일성 → `ai-compute-scaling-inference` § 국경을 넘어 제공되는 AI와 디지털 관세의 별도 문제 · `ing-20261030-wto-digital-transmissions`
 
 ## 음악 (105)
 
@@ -421,7 +431,7 @@
 - 한국 음악 세 곡과 우선 청취 네 곡 → `mood-led-music-listening` § 한국 음악으로 넓히는 별도의 갈래; `mood-led-music-listening` § 먼저 들어 볼 네 곡 · `ing-20261025-mood-led-music-listening`
 - 추가 탐색 방향과 청취 반응의 미확인 → `mood-led-music-listening` § 취향의 다음 분기와 판단 유보 · `ing-20261025-mood-led-music-listening`
 
-## 사회와 제도 (68)
+## 사회와 제도 (86)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -493,6 +503,24 @@
 - 인도와 호주 해군의 전력 및 훈련 → `indian-ocean-navies-comparison` § 훈련의 이름에서 실제 과목을 읽기 · `ing-20261026-hormuz-indian-ocean-naval`
 - 호르무즈 기뢰 소해와 상업항행 재개 → `hormuz-sea-denial-reopening` § 해협을 연다는 말의 세 단계 · `ing-20261026-hormuz-indian-ocean-naval`
 - 미군 전개와 F-15E 승무원 구조 → `iran-war-us-force-losses-2026` § F-15E 승무원 구조 사건이 드러낸 증거의 층위 · `ing-20261026-hormuz-indian-ocean-naval`
+- 출생순위 성격론과 인지·학업 효과 → `birth-order-korean-evidence` § 성격의 법칙과 평균적 차이의 거리 · `ing-20261030-birth-order-korea`
+- 한국의 부모화·양육통제·형제관계 연구 → `birth-order-korean-evidence` § 부모화: 출생순위가 아니라 맡겨진 역할 · `ing-20261030-birth-order-korea`
+- 국제 비교와 문화적 일반화의 한계 → `birth-order-korean-evidence` § 국제 비교: 나라가 바뀌면 효과도 바뀌는가 · `ing-20261030-birth-order-korea`
+- 망 이용대가와 전자적 전송 관세의 법적 대상 구별 → `wto-digital-transmission-moratorium` § 세 가지 층위: 통신요금, 망 이용대가, 디지털 관세 · `ing-20261030-wto-digital-transmissions`
+- 1998년 WTO 전자상거래 관세 유예와 반복 연장 구조 → `wto-digital-transmission-moratorium` § 1998년의 유예는 영구 면제가 아니었다 · `ing-20261030-wto-digital-transmissions`
+- 2024년 MC13 기한과 2026년 MC14 연장 실패 보도 → `wto-digital-transmission-moratorium` § 1998년의 유예는 영구 면제가 아니었다 · `ing-20261030-wto-digital-transmissions`
+- 2026년 19개 WTO 회원의 별도 비부과 약속 보도 → `wto-digital-transmission-moratorium` § 1998년의 유예는 영구 면제가 아니었다 · `ing-20261030-wto-digital-transmissions`
+- 전자적 전송의 범위: 다운로드·클라우드·AI 모델·API → `wto-digital-transmission-moratorium` § 무엇을 '전자적 전송'이라 부를 것인가 · `ing-20261030-wto-digital-transmissions`
+- 브라질과 인도의 정책 공간·세수·연장 기한 논쟁 → `wto-digital-transmission-moratorium` § 왜 브라질과 인도가 이 유예에 의문을 제기하는가 · `ing-20261030-wto-digital-transmissions`
+- 잠재적 관세 수입과 중소 플랫폼의 거래비용·진입장벽 → `wto-digital-transmission-moratorium` § 왜 브라질과 인도가 이 유예에 의문을 제기하는가 · `ing-20261030-wto-digital-transmissions`
+- EU의 공정분담과 디지털네트워크법 조정 접근 → `wto-digital-transmission-moratorium` § 함께 떠오른 또 다른 논쟁: 통신사의 '공정분담' · `ing-20261030-wto-digital-transmissions`
+- ANATEL·TRAI의 망 이용대가 및 OTT 규제와 WTO 관세의 차이 → `wto-digital-transmission-moratorium` § 함께 떠오른 또 다른 논쟁: 통신사의 '공정분담' · `ing-20261030-wto-digital-transmissions`
+- 메타와 도이치텔레콤 네트워크 서비스 계약 분쟁 → `wto-digital-transmission-moratorium` § 함께 떠오른 또 다른 논쟁: 통신사의 '공정분담' · `ing-20261030-wto-digital-transmissions`
+- 데이터센터 내부 트래픽·국경 간 전송·사용자 서비스의 구분 → `wto-digital-transmission-moratorium` § 데이터센터와 AI: 어느 데이터가 국경을 넘는가 · `ing-20261030-wto-digital-transmissions`
+- AI 현지화·CDN·전력망 비용과 디지털 관세의 별도 영향 경로 → `wto-digital-transmission-moratorium` § 데이터센터와 AI: 어느 데이터가 국경을 넘는가 · `ing-20261030-wto-digital-transmissions`
+- 국가별 디지털 통상 규칙과 ISP 계약의 중첩에 따른 인터넷 파편화 위험 → `wto-digital-transmission-moratorium` § 세계 인터넷이 톨게이트로 분할되는가 · `ing-20261030-wto-digital-transmissions`
+- 보도된 합의의 법적 상태·국가별 과세와 AI 적용 범위의 검증 필요성 → `wto-digital-transmission-moratorium` § 무엇이 이미 벌어진 일이고, 무엇이 아직 가설인가 · `ing-20261030-wto-digital-transmissions`
+- 대화에서 제시된 WTO·Reuters·TRAI·ANATEL·USTR·IEA 참고 경로 → `wto-digital-transmission-moratorium` § 참고 경로와 자료의 한계 · `ing-20261030-wto-digital-transmissions`
 
 ## 운영 (58)
 
@@ -732,6 +760,31 @@
 - 해외 독서문화를 비교하는 일곱 가지 읽기 경로 → `world-book-club-korean-editions` § 문화적 비교를 위한 일곱 가지 읽기 경로 · `ing-20261023-world-reading-clubs`
 - 한국어 서명 주장과 실제 출판 서지 검증의 분리 → `world-book-club-korean-editions` § 서지 검증의 최소 요건 · `ing-20261023-world-reading-clubs`
 
+## 정치경제 (20)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- AI 구원론 없이 구성하는 비극적 완충론 → `critical-optimism-fragile-order` § 낙관이 훨씬 어려운 시대 · `ing-20261025-state-hollowing-critical-optimism`
+- 비용 피드백이 자동 감속을 보장하지 않는 조건 → `critical-optimism-fragile-order` § 비관식에 빠져 있는 반작용 · `ing-20261025-state-hollowing-critical-optimism`
+- 핵 억지·금융 안정화·에너지 전환의 조건부 완충 → `critical-optimism-fragile-order` § 전쟁의 브레이크: 비싼 전면전과 잔혹한 제한전 · `ing-20261025-state-hollowing-critical-optimism`
+- 제도적 완충장치의 불균등한 분포와 이미 도착한 디스토피아 → `critical-optimism-fragile-order` § 완충장치가 먼저 사망한 곳에서의 낙관 · `ing-20261025-state-hollowing-critical-optimism`
+- 법적 주권과 실제 국가기능을 분리하는 국가 형해화 개념 → `state-hollowing-index` § 국가는 있는데 국가는 작동하지 않는다 · `ing-20261025-state-hollowing-critical-optimism`
+- 폭력·행정·화폐·재생산·탈출·비공식망·법치·외부 의존·투자의 아홉 층 → `state-hollowing-index` § 100점 개념 설계와 중간 단계 · `ing-20261025-state-hollowing-critical-optimism`
+- 토드 영아사망률과 미확인 대리모 지표의 구분 → `state-hollowing-index` § 네 번째 층: 사회적 재생산의 붕괴 · `ing-20261025-state-hollowing-critical-optimism`
+- 빈곤 낙인·중복지표·평균값 편향을 피하는 보정 → `state-hollowing-index` § 비교의 함정과 보정 원칙 · `ing-20261025-state-hollowing-critical-optimism`
+- GPI·FSI·물가·정부부채 네 지표 코어 산식 → `state-hollowing-country-pilot` § 모형과 정규화 · `ing-20261025-state-hollowing-critical-optimism`
+- 20개국 코어 측정 입력값과 단계 분포 → `state-hollowing-country-pilot` § 20개국 입력값: 서로 다른 시대를 한 행에 놓은 한계 · `ing-20261025-state-hollowing-critical-optimism`
+- 이란·레바논·베네수엘라와 선진국의 서로 다른 압력 → `state-hollowing-country-pilot` § 유형은 점수보다 중요한 정보를 제공한다 · `ing-20261025-state-hollowing-critical-optimism`
+- 레바논·베네수엘라의 과거 부채값 대체와 민감도 한계 → `state-hollowing-country-pilot` § 민감도와 자료 문제 · `ing-20261025-state-hollowing-critical-optimism`
+- 화폐창출 사실과 약탈적 분배 판정의 구분 → `money-credit-seigniorage-critique` § 좋은 질문과 지나치게 쉬운 답 · `ing-20261030-money-credit-economic-history`
+- 중앙은행 세뇨리지와 상업은행 신용창조의 차이 → `money-credit-seigniorage-critique` § 세뇨리지와 은행 신용창조는 같은 수익이 아니다 · `ing-20261030-money-credit-economic-history`
+- 대출·예금 100의 대차대조표 및 원금 상환 → `money-credit-seigniorage-critique` § 신용은 부채다: 은행의 장부를 펴면 보이는 것 · `ing-20261030-money-credit-economic-history`
+- 칸티용 효과의 진입 경로와 통화완화의 고용 효과 → `money-credit-seigniorage-critique` § 칸티용 효과: 먼저 받은 사람의 이익은 어디까지인가 · `ing-20261030-money-credit-economic-history`
+- 생산·투기·연명 신용의 구분 → `money-credit-seigniorage-critique` § 생산적 신용, 자산투기 신용, 연명 신용을 분리한다 · `ing-20261030-money-credit-economic-history`
+- 화폐원인론과 불평등의 다른 제도적 원인 → `money-credit-seigniorage-critique` § 화폐원인론이 불평등의 다른 기제를 지울 때 · `ing-20261030-money-credit-economic-history`
+- 분데스방크와 스위스 주권화폐 국민투표 논쟁 → `money-credit-seigniorage-critique` § 경제학자들은 침묵했는가: 독일과 스위스의 공개 논쟁 · `ing-20261030-money-credit-economic-history`
+- 금본위의 규율과 금융위기 대응의 충돌 → `money-credit-seigniorage-critique` § 금본위로 모든 문제가 해결되는가 · `ing-20261030-money-credit-economic-history`
+
 ## 생명과학 (15)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -751,23 +804,6 @@
 - 프로바이오틱스 생존·일시적 체류·영구 정착의 분리 → `gut-microbiome-colonization` § 가루 속 수십억 개체는 왜 영구 주민이 아닌가 · `ing-20261025-fruit-gut-horror`
 - 분변미생물 이식과 Vowst의 치료 맥락·정착 위험 → `gut-microbiome-colonization` § 분변미생물 이식: 단일 방문객이 아니라 생태계의 일부를 옮기기 · `ing-20261025-fruit-gut-horror`
 - 인간을 각기 다른 내부 생물권을 품은 행성으로 보는 유비 → `gut-microbiome-colonization` § 사람이 하나의 행성이라는 비유의 유효 범위 · `ing-20261025-fruit-gut-horror`
-
-## 정치경제 (12)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- AI 구원론 없이 구성하는 비극적 완충론 → `critical-optimism-fragile-order` § 낙관이 훨씬 어려운 시대 · `ing-20261025-state-hollowing-critical-optimism`
-- 비용 피드백이 자동 감속을 보장하지 않는 조건 → `critical-optimism-fragile-order` § 비관식에 빠져 있는 반작용 · `ing-20261025-state-hollowing-critical-optimism`
-- 핵 억지·금융 안정화·에너지 전환의 조건부 완충 → `critical-optimism-fragile-order` § 전쟁의 브레이크: 비싼 전면전과 잔혹한 제한전 · `ing-20261025-state-hollowing-critical-optimism`
-- 제도적 완충장치의 불균등한 분포와 이미 도착한 디스토피아 → `critical-optimism-fragile-order` § 완충장치가 먼저 사망한 곳에서의 낙관 · `ing-20261025-state-hollowing-critical-optimism`
-- 법적 주권과 실제 국가기능을 분리하는 국가 형해화 개념 → `state-hollowing-index` § 국가는 있는데 국가는 작동하지 않는다 · `ing-20261025-state-hollowing-critical-optimism`
-- 폭력·행정·화폐·재생산·탈출·비공식망·법치·외부 의존·투자의 아홉 층 → `state-hollowing-index` § 100점 개념 설계와 중간 단계 · `ing-20261025-state-hollowing-critical-optimism`
-- 토드 영아사망률과 미확인 대리모 지표의 구분 → `state-hollowing-index` § 네 번째 층: 사회적 재생산의 붕괴 · `ing-20261025-state-hollowing-critical-optimism`
-- 빈곤 낙인·중복지표·평균값 편향을 피하는 보정 → `state-hollowing-index` § 비교의 함정과 보정 원칙 · `ing-20261025-state-hollowing-critical-optimism`
-- GPI·FSI·물가·정부부채 네 지표 코어 산식 → `state-hollowing-country-pilot` § 모형과 정규화 · `ing-20261025-state-hollowing-critical-optimism`
-- 20개국 코어 측정 입력값과 단계 분포 → `state-hollowing-country-pilot` § 20개국 입력값: 서로 다른 시대를 한 행에 놓은 한계 · `ing-20261025-state-hollowing-critical-optimism`
-- 이란·레바논·베네수엘라와 선진국의 서로 다른 압력 → `state-hollowing-country-pilot` § 유형은 점수보다 중요한 정보를 제공한다 · `ing-20261025-state-hollowing-critical-optimism`
-- 레바논·베네수엘라의 과거 부채값 대체와 민감도 한계 → `state-hollowing-country-pilot` § 민감도와 자료 문제 · `ing-20261025-state-hollowing-critical-optimism`
 
 ## 자연과 과학 (11)
 

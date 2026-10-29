@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 480,
+  "edge_count": 486,
   "edges": [
     {
       "from": "living-notes",
@@ -1872,6 +1872,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "ai-compute-scaling-inference",
+      "to": "wto-digital-transmission-moratorium",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "japan-physical-ai-skill-transfer",
       "to": "ai-compute-scaling-inference",
       "type": "related_to",
@@ -1976,6 +1982,12 @@
     {
       "from": "world-crisis-historical-analogies",
       "to": "state-hollowing-index",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-crisis-historical-analogies",
+      "to": "roman-industry-gold-standard-history",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2648,6 +2660,30 @@
     {
       "from": "iran-war-us-force-losses-2026",
       "to": "hormuz-iran-war-naval-power-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "wto-digital-transmission-moratorium",
+      "to": "ai-compute-scaling-inference",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "money-credit-seigniorage-critique",
+      "to": "roman-industry-gold-standard-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "roman-industry-gold-standard-history",
+      "to": "money-credit-seigniorage-critique",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "roman-industry-gold-standard-history",
+      "to": "world-crisis-historical-analogies",
       "type": "related_to",
       "basis": "manifest.related"
     },

@@ -187,7 +187,7 @@
 - **[한국 개인정보의 생애: 수집·결합·유출·재사용의 경로](wiki/korea-personal-data-lifecycle.md)** · 별칭: 한국 개인정보 유통, 개인정보의 생애, 개인정보 유출 이후, 한국 데이터 브로커 · 수정: 2026-10-25 · 검토: 대화 내 확인·법제와 최근 사례 세부 재검증 필요
   - 체크박스와 본인확인부터 광고·가명결합·마이데이터, 유출 뒤의 계정탈취·피싱·영업 DB까지 한국 개인정보가 복제·결합·재사용되는 경로를 추적한다.
   - [문서 페이지](https://belorin.github.io/notes/korea-personal-data-lifecycle/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-personal-data-lifecycle.md)
-- **[AI는 계산이 많아지면 무엇이 달라지는가: 데이터센터와 추론 스케일링](wiki/ai-compute-scaling-inference.md)** · 별칭: AI 데이터센터와 추론, test-time scaling, 추론 컴퓨트, AI 계산 스케일링 · 수정: 2026-10-25 · 검토: 대화 내 확인 자료 총합 · 데이터센터 규모·기업 계획·추론 연구 세부 외부 재검증 필요
+- **[AI는 계산이 많아지면 무엇이 달라지는가: 데이터센터와 추론 스케일링](wiki/ai-compute-scaling-inference.md)** · 별칭: AI 데이터센터와 추론, test-time scaling, 추론 컴퓨트, AI 계산 스케일링 · 수정: 2026-10-30 · 검토: 대화 내 확인 자료 총합 · 데이터센터 규모·기업 계획·추론 연구 세부 외부 재검증 필요
   - AI 데이터센터 증설을 단순한 더 큰 사전학습이 아니라 test-time compute, 병렬 탐색·검증, 과학·코딩·피지컬 AI 계산의 확대로 읽고 계산량의 한계를 함께 정리한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-compute-scaling-inference/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-compute-scaling-inference.md)
 - **[사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승](wiki/japan-physical-ai-skill-transfer.md)** · 별칭: 일본 피지컬 AI, 손지능, 숙련 전승 로봇, Physical AI Japan · 수정: 2026-10-25 · 검토: 대화 내 확인 자료 총합 · 기업 발표·정부 목표·국가 비교 해석 외부 재검증 필요
@@ -307,6 +307,9 @@
 - **[마지막 속방의 소멸: 류큐·베트남·버마·조선에서 청의 종주권은 어떻게 무너졌는가](wiki/qing-tributaries-dissolution.md)** · 별칭: 청의 마지막 속방, 조선 청 속방, 청나라 속방 상실 · 수정: 2026-10-26 · 검토: 대화 범위에서 총합·증보 · 상세 사료 대조 필요
   - 류큐의 행정 편입, 베트남의 프랑스 보호국화, 버마 병합, 조선의 청일전쟁과 네팔의 의례적 조공을 비교해 청의 속방 해체를 설명한다.
   - [문서 페이지](https://belorin.github.io/notes/qing-tributaries-dissolution/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/qing-tributaries-dissolution.md)
+- **[빵과 서커스에서 금본위까지: 로마·산업혁명을 한 줄로 꿰는 역사관의 함정](wiki/roman-industry-gold-standard-history.md)** · 별칭: 빵과 서커스와 로마 몰락, 금본위 이탈의 역사, 1931년 영국 금본위, 1971년 닉슨 쇼크 · 수정: 2026-10-30 · 검토: 대화 기반 분석 · 외부 재검증 필요
+  - 로마의 곡물 배급과 주화 절하, 동로마와 중세 상업혁명, 영국 산업화, 1931·1933·1934·1971년 금본위 이탈의 차이를 통해 직선적 경제사 서사를 비판
+  - [문서 페이지](https://belorin.github.io/notes/roman-industry-gold-standard-history/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/roman-industry-gold-standard-history.md)
 
 ## 언어
 
@@ -367,6 +370,12 @@
 - **[2026년 이란전의 미군 증원과 항공기 손실: 무엇이 확인되고 무엇이 남았는가](wiki/iran-war-us-force-losses-2026.md)** · 별칭:  · 수정: 2026-10-26 · 검토: 대화 기반 분석 · 외부 재검증 필요
   - 중동 미군 증원과 기지 공격, F-15E·A-10 손실 보도, 승무원 구조, 휴전과 재개전
   - [문서 페이지](https://belorin.github.io/notes/iran-war-us-force-losses-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/iran-war-us-force-losses-2026.md)
+- **[출생순서가 성격을 만드는가: 한국 연구와 국제 비교의 증거](wiki/birth-order-korean-evidence.md)** · 별칭: 출생순위 이론, 맏이 성격 연구 · 수정: 2026-10-30 · 검토: 대화 기반 연구 정리 · 원문 검증 필요
+  - 출생순서 성격론의 재현성, 인지·학업의 작은 평균 차이, 한국의 부모화·차별적 양육 연구, 국제 비교의 한계를 구분한다.
+  - [문서 페이지](https://belorin.github.io/notes/birth-order-korean-evidence/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/birth-order-korean-evidence.md)
+- **[디지털 국경에도 관세가 생기는가: WTO 전자적 전송 모라토리엄과 AI 인터넷](wiki/wto-digital-transmission-moratorium.md)** · 별칭: WTO 전자상거래 모라토리엄, 전자적 전송 관세 유예, 디지털 관세와 AI, 디지털 무역 모라토리엄, WTO e-commerce moratorium · 수정: 2026-10-30 · 검토: 2026년 제도 변화·대화 기반 정리 · 외부 원문 재검증 필요
+  - 1998년 WTO 전자적 전송 관세 유예의 반복 갱신과 2026년 MC14 연장 실패 보도, 브라질·인도의 입장, 망 이용대가와의 구별, AI 모델·클라우드·데이터센터의 국경 간 영향과 불확실성을 분리한다.
+  - [문서 페이지](https://belorin.github.io/notes/wto-digital-transmission-moratorium/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wto-digital-transmission-moratorium.md)
 
 ## 영화
 
@@ -412,6 +421,9 @@
 - **[20개국 국가 형해화 시범 측정: 네 지표로 본 껍데기와 기능의 불일치](wiki/state-hollowing-country-pilot.md)** · 별칭: 국가 형해화 20개국 표, 좀비 국가 코어 v0.1, 국가 공동화 국가별 비교 · 수정: 2026-10-25 · 검토: 현재 접근 가능한 논의와 코어 시범자료 기반 · 외부 재검증 필요
   - GPI·FSI·물가·정부부채의 코어 v0.1 산식과 20개국 입력·점수, 결측 대체와 민감도·과잉해석의 한계를 기록한다.
   - [문서 페이지](https://belorin.github.io/notes/state-hollowing-country-pilot/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/state-hollowing-country-pilot.md)
+- **[돈은 부채이지만 왜 곧장 약탈이 되지 않는가: 『왜 그들만 부자가 되는가』의 화폐론 비평](wiki/money-credit-seigniorage-critique.md)** · 별칭: 왜 그들만 부자가 되는가, 신용은 부채, 은행의 화폐창조 · 수정: 2026-10-30 · 검토: 대화 기반 분석 · 외부 재검증 필요
+  - 은행의 예금통화 창조, 세뇨리지, 칸티용 효과, 생산적·투기적 신용, 통화정책과 불평등을 구별하며 『왜 그들만 부자가 되는가』의 논리적 비약을 검토
+  - [문서 페이지](https://belorin.github.io/notes/money-credit-seigniorage-critique/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/money-credit-seigniorage-critique.md)
 
 ## 기술·지식 아카이브
 
