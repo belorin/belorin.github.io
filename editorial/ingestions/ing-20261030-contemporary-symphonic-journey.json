@@ -1,0 +1,261 @@
+{
+  "id": "ing-20261030-contemporary-symphonic-journey",
+  "processed_on": "2026-10-30",
+  "coverage": "visible-complete",
+  "limit_note": "현재 표시된 발화 범위를 순서대로 처리. 대화 원본 공유 URL·식별자 및 일부 수상·작곡연도·통계의 독립 확인 불가. 기존 원고 외 신규 조사 없음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "argument",
+      "title": "쇼스타코비치 이후 교향악 쇠퇴와 정전 가시성의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "classical-canon-mauceri",
+          "section": "작품이 없는 것이 아니라 작품을 공통의 사건으로 만드는 방식이 달라졌다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "녹음·레퍼토리 비용·전후 현대주의·매체 분화의 복합 원인",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-composer-conductor-myth",
+          "section": "왜 지금은 같은 유형의 네임드가 잘 보이지 않는가"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "거장 이름을 공통 교양으로 만드는 반복과 제도",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-composer-conductor-myth",
+          "section": "신화가 만들어지는 여섯 개의 장치"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "example",
+      "title": "말러 전기와 작곡가 인물 신화",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-composer-conductor-myth",
+          "section": "작품을 넘어 인간에게 향하는 팬덤"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "example",
+      "title": "쇼스타코비치 7번 레닌그라드와 포위전 서사",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-composer-conductor-myth",
+          "section": "레닌그라드 교향곡: 한 곡이 전쟁사 한 권이 되는 순간"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "argument",
+      "title": "지휘자의 몸과 해석자 팬덤",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-composer-conductor-myth",
+          "section": "지휘자라는 살아 있는 화면"
+        },
+        {
+          "doc_id": "conductors-career-encores",
+          "section": "지휘자 스타라는 발명: 악보에 얼굴이 생기는 순간"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "counterargument",
+      "title": "교향곡 블록버스터 및 위인 숭배 비유의 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-composer-conductor-myth",
+          "section": "교향곡은 영화 이전의 블록버스터였는가: 작곡가·지휘자 팬덤과 인물 신화"
+        },
+        {
+          "doc_id": "orchestra-composer-conductor-myth",
+          "section": "음악에서 사람으로, 다시 작품으로"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "concept",
+      "title": "교향곡과 현대 관현악 대서사의 다른 범위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-living-composers-canon",
+          "section": "무엇을 새로운 교향악으로 셀 것인가"
+        },
+        {
+          "doc_id": "living-orchestral-listening-journey",
+          "section": "왜 '새로운 말러' 대신 여러 갈래를 들어야 하는가"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "fact",
+      "title": "생존 작곡가 비중의 연도별 소개 수치와 해석 경계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-living-composers-canon",
+          "section": "비중은 커져도 이름을 외우기 어려운 이유"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "curation",
+      "title": "1977~2025 현대 교향악 작곡·초연 연표",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "living-orchestral-listening-journey",
+          "section": "작곡연도 지도로 먼저 보기"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "curation",
+      "title": "말러 이후 대형 감정과 영적 미니멀리즘 청취",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "living-orchestral-listening-journey",
+          "section": "첫 갈래: 현대에도 오케스트라는 거대한 감정을 만든다"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "curation",
+      "title": "진은숙 아데스 벤저민 린드베리 현대주의 관현악",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "living-orchestral-listening-journey",
+          "section": "두 번째 갈래: 색채와 지성의 구조물"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "curation",
+      "title": "기후 우주 지질학과 생태적 관현악",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "living-orchestral-listening-journey",
+          "section": "세 번째 갈래: 인간보다 오래된 시간"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "curation",
+      "title": "이민 노동 역사 의례와 현대 오케스트라",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "living-orchestral-listening-journey",
+          "section": "네 번째 갈래: 국가의 영웅 대신 보이지 않던 역사"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "curation",
+      "title": "독일 오스트리아 형식의 현대적 재구성과 후속 후보",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "living-orchestral-listening-journey",
+          "section": "다섯 번째 갈래: 전통의 유령과 형식의 귀환"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "curation",
+      "title": "살아 있는 작곡가 중심 열두 주 청취 코스",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "living-orchestral-listening-journey",
+          "section": "열두 주로 완주하는 실제 여행"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "curation",
+      "title": "2020~2025 최신 작품 다섯 곡의 별도 진입로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "living-orchestral-listening-journey",
+          "section": "2026년에 가장 가까운 다섯 작품"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "concept",
+      "title": "수상 위촉 상주작곡가 초연과 정전의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "living-orchestral-listening-journey",
+          "section": "현재성을 확인하는 두 번째 축: 작품이 아니라 기관이 움직인다"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "question",
+      "title": "초연 개정 시점과 2026년 수상 생존 여부의 재검증 경계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "living-orchestral-listening-journey",
+          "section": "자료 범위와 추가 확인 지점"
+        }
+      ]
+    },
+    {
+      "id": "k20",
+      "kind": "concept",
+      "title": "청취기록으로 작품 반복과 해석자 팬덤을 관찰하기",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "living-orchestral-listening-journey",
+          "section": "청취 기록: 사람의 이름이 되는 순간을 관찰하기"
+        }
+      ]
+    }
+  ]
+}
