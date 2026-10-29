@@ -7,7 +7,7 @@
 - 요약: 무성영화 반주·큐시트·유성영화 전환·AFM 노동 갈등과 재생 경제를 통합하고 미검증 수치와 사례를 구분한다.
 - 태그: 무성영화, 유성영화, 노동사, AFM, 녹음기술
 - 수정일: 2026-10-26 · 실제 증보일: 2026-10-26 · 검토: needs_review
-- 관련 문서: `jazz-ensemble-labor`, `circus-music-questions`, `circus-music-concepts`, `drum-kit`, `circus-music-research-ledger`, `classical-canon-mauceri`
+- 관련 문서: `jazz-ensemble-labor`, `circus-music-questions`, `circus-music-concepts`, `drum-kit`, `circus-music-research-ledger`, `classical-canon-mauceri`, `orchestra-composer-conductor-myth`
 - 이 문서를 근거로 쓴 종합: `replay-ladder-human-performance`
 
 ## 절 목차

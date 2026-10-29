@@ -91,7 +91,7 @@
 - **[유성영화의 등장과 극장 음악가: 재생 가능한 연주가 노동을 바꾸다](wiki/silent-film-musician-labor.md)** · 별칭: 유성영화와 극장 음악가, 무성영화 반주, 무성영화 반주와 유성영화 전환 · 수정: 2026-10-26 · 검토: 대화 내 주장·세부 검증 필요
   - 무성영화 반주·큐시트·유성영화 전환·AFM 노동 갈등과 재생 경제를 통합하고 미검증 수치와 사례를 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/silent-film-musician-labor/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/silent-film-musician-labor.md)
-- **[20세기 클래식의 잃어버린 계보: 존 마우체리와 정전의 재편](wiki/classical-canon-mauceri.md)** · 별칭: 전쟁과 음악, 클래식의 정전화, 영화음악과 클래식 · 수정: 2026-10-25 · 검토: 대화 내 주장·공연 일정 및 학계 수용 재검증 필요
+- **[20세기 클래식의 잃어버린 계보: 존 마우체리와 정전의 재편](wiki/classical-canon-mauceri.md)** · 별칭: 전쟁과 음악, 클래식의 정전화, 영화음악과 클래식 · 수정: 2026-10-30 · 검토: 대화 내 주장·공연 일정 및 학계 수용 재검증 필요
   - 나치의 퇴폐음악 정책과 망명, 영화·게임음악의 정전 진입, 전후 교향악의 반복 연주와 미래 음악사 재편을 구별한다.
   - [문서 페이지](https://belorin.github.io/notes/classical-canon-mauceri/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/classical-canon-mauceri.md)
 - **[소가 다이스케와 지휘자의 직업 세계: 광주 인연에서 국제 중견 경력까지](wiki/daisuke-soga-conductor-career.md)** · 별칭: 소가 다이스케, 曽我大介, Daisuke Soga, 지휘자 시장 · 수정: 2026-10-23 · 검토: 인물 경력·시장 추정치 외부 재검증 필요
@@ -118,7 +118,7 @@
 - **[오케스트라를 세는 법: 세계 레퍼토리 데이터와 지역의 클래식 접근성](wiki/orchestra-repertoire-data-access.md)** · 별칭: 세계 오케스트라 통계, Classical Access Index · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
   - Bachtrack·Operabase·뉴욕 필 공연 DB의 범위, 나라별 오케스트라 수의 함정, 공연장과 30~120분 생활권 접근성 지수 및 2014~2025년 등록 콘서트 추이를 비교한다.
   - [문서 페이지](https://belorin.github.io/notes/orchestra-repertoire-data-access/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-repertoire-data-access.md)
-- **[클래식은 화석인가: 생존 작곡가의 연주와 정전이 자라는 속도](wiki/orchestra-living-composers-canon.md)** · 별칭: 살아 있는 작곡가, 현대 클래식 정전 · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
+- **[클래식은 화석인가: 생존 작곡가의 연주와 정전이 자라는 속도](wiki/orchestra-living-composers-canon.md)** · 별칭: 살아 있는 작곡가, 현대 클래식 정전 · 수정: 2026-10-30 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
   - Bachtrack 2022~2025년 생존 작곡가·여성 작곡가 통계, 패르트·윌리엄스와 신작 재연의 차이, 음악기관의 현재성을 분석한다.
   - [문서 페이지](https://belorin.github.io/notes/orchestra-living-composers-canon/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-living-composers-canon.md)
 - **[세계 5대 오케스트라의 2026년 프로그램: 전통, 실험, 계승, 세대교체](wiki/world-orchestras-repertoire-2026.md)** · 별칭: 세계 5대 교향악단, 세계 명문 악단 2026 · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
@@ -130,7 +130,7 @@
 - **[오케스트라라는 악기의 내부: 편성 비용, 협주곡, 새 음색의 역사](wiki/orchestration-instrument-history.md)** · 별칭: 오케스트레이션 역사, 새 어쿠스틱 악기 · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
   - 말러 대편성의 고용·리허설 비용, 라흐마니노프의 타악·하프, 바로크 협주곡, 음악 공간의 역사, 첼레스타와 새로운 어쿠스틱 악기 계보를 총합한다.
   - [문서 페이지](https://belorin.github.io/notes/orchestration-instrument-history/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestration-instrument-history.md)
-- **[지휘자 스타 시스템의 미래: 클라우스 메켈레, 젊은 지휘자 붐, 앵콜의 마지막 한마디](wiki/conductors-career-encores.md)** · 별칭: Klaus Mäkelä, 메켈레 현상, 지휘자 앵콜 · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
+- **[지휘자 스타 시스템의 미래: 클라우스 메켈레, 젊은 지휘자 붐, 앵콜의 마지막 한마디](wiki/conductors-career-encores.md)** · 별칭: Klaus Mäkelä, 메켈레 현상, 지휘자 앵콜 · 수정: 2026-10-30 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
   - 메켈레의 암스테르담·시카고 동시 취임과 젊은 지휘자 세대교체, 벤치·칸텔리·쉬퍼스 등의 역사적 사례, 앵콜 선곡을 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/conductors-career-encores/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/conductors-career-encores.md)
 - **[오케스트라는 어디에 사는가: 이름, 시즌, 콘서트홀과 신년음악회](wiki/orchestra-halls-seasons.md)** · 별칭: 2027 빈 필 신년음악회, 세계 콘서트홀 · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
@@ -139,6 +139,12 @@
 - **[기분에서 곡으로: 열다섯 곡의 탐색형 청취 지도](wiki/mood-led-music-listening.md)** · 별칭: 분위기별 음악 추천, 15곡 청취 지도 · 수정: 2026-10-25 · 검토: 추천 가설·청취 반응 미확인
   - 서늘한 밤, 낯설어진 세계, SF적 확장감, 절제된 우울함과 한국 음악으로 나눈 15곡의 추천 및 우선 청취 4곡을 취향 가설로 정리한다.
   - [문서 페이지](https://belorin.github.io/notes/mood-led-music-listening/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/mood-led-music-listening.md)
+- **[교향곡은 영화 이전의 블록버스터였는가: 작곡가·지휘자 팬덤과 인물 신화](wiki/orchestra-composer-conductor-myth.md)** · 별칭: 클래식의 인물 신화, 작곡가 지휘자 팬덤, 교향곡 블록버스터 · 수정: 2026-10-30 · 검토: 대화 기반 총합 · 인물 서사·비유와 역사적 사실의 경계 추가 검토 필요
+  - 말러·쇼스타코비치 7번·토스카니니·카라얀·번스타인을 통해 교향악 작품과 인간을 함께 사랑하는 팬덤, 정전·전기·방송·지휘자의 몸을 분석한다.
+  - [문서 페이지](https://belorin.github.io/notes/orchestra-composer-conductor-myth/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-composer-conductor-myth.md)
+- **[살아 있는 작곡가들을 여행하는 현대 교향악: 1977~2025 작품 연표와 12주 청취 지도](wiki/living-orchestral-listening-journey.md)** · 별칭: 현대 교향악 여행, 살아 있는 작곡가 청취 코스, 현대 관현악 작품 연표 · 수정: 2026-10-30 · 검토: 대화 기반 총합 · 작곡·초연 연도와 2026년 수상·생존 여부 외부 검증 필요
+  - 패르트·애덤스·진은숙·아데스·토르발스도티르·오르티스 등의 작품을 연도순으로 정리하고 미학적 다섯 갈래와 12주 청취 코스를 제안한다.
+  - [문서 페이지](https://belorin.github.io/notes/living-orchestral-listening-journey/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/living-orchestral-listening-journey.md)
 
 ## AI와 사회
 

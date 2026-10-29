@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 147,
+  "document_count": 149,
   "documents": [
     {
       "id": "living-notes",
@@ -747,7 +747,8 @@
         "circus-music-concepts",
         "drum-kit",
         "circus-music-research-ledger",
-        "classical-canon-mauceri"
+        "classical-canon-mauceri",
+        "orchestra-composer-conductor-myth"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/silent-film-musician-labor.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/silent-film-musician-labor.md",
@@ -1389,14 +1390,16 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "대화 내 주장·공연 일정 및 학계 수용 재검증 필요",
-      "last_updated_on": "2026-10-25",
-      "last_enriched_on": "2026-10-25",
+      "last_updated_on": "2026-10-30",
+      "last_enriched_on": "2026-10-30",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "silent-film-musician-labor",
         "jazz-history-plural",
         "orchestra-living-composers-canon",
-        "orchestra-repertoire-data-access"
+        "orchestra-repertoire-data-access",
+        "orchestra-composer-conductor-myth",
+        "living-orchestral-listening-journey"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/classical-canon-mauceri.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/classical-canon-mauceri.md",
@@ -1799,7 +1802,8 @@
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "long-running-music-broadcasts",
-        "daisuke-soga-conductor-career"
+        "daisuke-soga-conductor-career",
+        "orchestra-composer-conductor-myth"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japanese-classical-tv-conductor-image.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/japanese-classical-tv-conductor-image.md",
@@ -2583,13 +2587,15 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
-      "last_updated_on": "2026-10-25",
-      "last_enriched_on": "2026-10-25",
+      "last_updated_on": "2026-10-30",
+      "last_enriched_on": "2026-10-30",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "classical-canon-mauceri",
         "orchestra-repertoire-data-access",
-        "world-orchestras-repertoire-2026"
+        "world-orchestras-repertoire-2026",
+        "orchestra-composer-conductor-myth",
+        "living-orchestral-listening-journey"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-living-composers-canon.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/orchestra-living-composers-canon.md",
@@ -2623,7 +2629,8 @@
         "orchestra-living-composers-canon",
         "korean-orchestras-repertoire-2026",
         "conductors-career-encores",
-        "orchestra-halls-seasons"
+        "orchestra-halls-seasons",
+        "living-orchestral-listening-journey"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-orchestras-repertoire-2026.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/world-orchestras-repertoire-2026.md",
@@ -2717,13 +2724,15 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
-      "last_updated_on": "2026-10-25",
-      "last_enriched_on": "2026-10-25",
+      "last_updated_on": "2026-10-30",
+      "last_enriched_on": "2026-10-30",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "daisuke-soga-conductor-career",
         "world-orchestras-repertoire-2026",
-        "orchestra-living-composers-canon"
+        "orchestra-living-composers-canon",
+        "orchestra-composer-conductor-myth",
+        "living-orchestral-listening-journey"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/conductors-career-encores.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/conductors-career-encores.md",
@@ -5030,6 +5039,81 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/book-translation-pipeline-local-llm.md",
       "page_url": "https://belorin.github.io/notes/book-translation-pipeline-local-llm/",
       "app_url": "https://belorin.github.io/#book-translation-pipeline-local-llm"
+    },
+    {
+      "id": "orchestra-composer-conductor-myth",
+      "title": "교향곡은 영화 이전의 블록버스터였는가: 작곡가·지휘자 팬덤과 인물 신화",
+      "aliases": [
+        "클래식의 인물 신화",
+        "작곡가 지휘자 팬덤",
+        "교향곡 블록버스터"
+      ],
+      "category": "음악",
+      "tags": [
+        "교향악",
+        "거장 팬덤",
+        "말러",
+        "쇼스타코비치",
+        "번스타인",
+        "지휘자",
+        "정전"
+      ],
+      "summary": "말러·쇼스타코비치 7번·토스카니니·카라얀·번스타인을 통해 교향악 작품과 인간을 함께 사랑하는 팬덤, 정전·전기·방송·지휘자의 몸을 분석한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 총합 · 인물 서사·비유와 역사적 사실의 경계 추가 검토 필요",
+      "last_updated_on": "2026-10-30",
+      "last_enriched_on": "2026-10-30",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "classical-canon-mauceri",
+        "orchestra-living-composers-canon",
+        "living-orchestral-listening-journey",
+        "conductors-career-encores",
+        "japanese-classical-tv-conductor-image",
+        "silent-film-musician-labor"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-composer-conductor-myth.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/orchestra-composer-conductor-myth.md",
+      "page_url": "https://belorin.github.io/notes/orchestra-composer-conductor-myth/",
+      "app_url": "https://belorin.github.io/#orchestra-composer-conductor-myth"
+    },
+    {
+      "id": "living-orchestral-listening-journey",
+      "title": "살아 있는 작곡가들을 여행하는 현대 교향악: 1977~2025 작품 연표와 12주 청취 지도",
+      "aliases": [
+        "현대 교향악 여행",
+        "살아 있는 작곡가 청취 코스",
+        "현대 관현악 작품 연표"
+      ],
+      "category": "음악",
+      "tags": [
+        "현대 교향악",
+        "살아 있는 작곡가",
+        "청취 지도",
+        "현대 클래식",
+        "진은숙",
+        "관현악",
+        "2020년대 신작"
+      ],
+      "summary": "패르트·애덤스·진은숙·아데스·토르발스도티르·오르티스 등의 작품을 연도순으로 정리하고 미학적 다섯 갈래와 12주 청취 코스를 제안한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 총합 · 작곡·초연 연도와 2026년 수상·생존 여부 외부 검증 필요",
+      "last_updated_on": "2026-10-30",
+      "last_enriched_on": "2026-10-30",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "orchestra-living-composers-canon",
+        "classical-canon-mauceri",
+        "orchestra-composer-conductor-myth",
+        "world-orchestras-repertoire-2026",
+        "conductors-career-encores"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/living-orchestral-listening-journey.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/living-orchestral-listening-journey.md",
+      "page_url": "https://belorin.github.io/notes/living-orchestral-listening-journey/",
+      "app_url": "https://belorin.github.io/#living-orchestral-listening-journey"
     }
   ]
 }

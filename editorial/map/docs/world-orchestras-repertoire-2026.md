@@ -7,7 +7,7 @@
 - 요약: 빈·베를린·콘세르트헤바우·런던 심포니·시카고의 주요 작품·지휘자·시즌 전략을 대조하고 레퍼토리 기반 캐릭터 비평을 분리한다.
 - 태그: 2026 오케스트라, 빈 필, 베를린 필, LSO, 시카고 심포니, 콘세르트헤바우
 - 수정일: 2026-10-25 · 실제 증보일: 2026-10-25 · 검토: needs_review
-- 관련 문서: `orchestra-living-composers-canon`, `korean-orchestras-repertoire-2026`, `conductors-career-encores`, `orchestra-halls-seasons`
+- 관련 문서: `orchestra-living-composers-canon`, `korean-orchestras-repertoire-2026`, `conductors-career-encores`, `orchestra-halls-seasons`, `living-orchestral-listening-journey`
 
 ## 절 목차
 

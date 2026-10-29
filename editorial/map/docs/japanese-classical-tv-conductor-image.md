@@ -7,7 +7,7 @@
 - 요약: 1964년 시작해 60년을 넘긴 《題名のない音楽会》의 해설·실험 형식, 경쟁작 《オーケストラがやって来た!》, 오자와 세이지부터 《노다메 칸타빌레》까지 세대별 지휘자 이미지를 함께 살핀다.
 - 태그: 題名のない音楽会, 클래식 음악방송, 오자와 세이지, 야마모토 나오즈미, 노다메 칸타빌레
 - 수정일: 2026-10-24 · 실제 증보일: 2026-10-24 · 검토: needs_review
-- 관련 문서: `long-running-music-broadcasts`, `daisuke-soga-conductor-career`
+- 관련 문서: `long-running-music-broadcasts`, `daisuke-soga-conductor-career`, `orchestra-composer-conductor-myth`
 
 ## 절 목차
 

@@ -70,6 +70,8 @@
 - [지휘자 스타 시스템의 미래: 클라우스 메켈레, 젊은 지휘자 붐, 앵콜의 마지막 한마디](https://belorin.github.io/notes/conductors-career-encores/): 메켈레의 암스테르담·시카고 동시 취임과 젊은 지휘자 세대교체, 벤치·칸텔리·쉬퍼스 등의 역사적 사례, 앵콜 선곡을 구분한다.
 - [오케스트라는 어디에 사는가: 이름, 시즌, 콘서트홀과 신년음악회](https://belorin.github.io/notes/orchestra-halls-seasons/): Symphony·Philharmonic 명칭의 역사, 가을 개막 시즌과 한국의 달력연도 시즌, 다섯 명문 악단의 본거지 홀·좌석 수, 빈 필 신년음악회 중계와 추첨을 다룬다.
 - [기분에서 곡으로: 열다섯 곡의 탐색형 청취 지도](https://belorin.github.io/notes/mood-led-music-listening/): 서늘한 밤, 낯설어진 세계, SF적 확장감, 절제된 우울함과 한국 음악으로 나눈 15곡의 추천 및 우선 청취 4곡을 취향 가설로 정리한다.
+- [교향곡은 영화 이전의 블록버스터였는가: 작곡가·지휘자 팬덤과 인물 신화](https://belorin.github.io/notes/orchestra-composer-conductor-myth/): 말러·쇼스타코비치 7번·토스카니니·카라얀·번스타인을 통해 교향악 작품과 인간을 함께 사랑하는 팬덤, 정전·전기·방송·지휘자의 몸을 분석한다.
+- [살아 있는 작곡가들을 여행하는 현대 교향악: 1977~2025 작품 연표와 12주 청취 지도](https://belorin.github.io/notes/living-orchestral-listening-journey/): 패르트·애덤스·진은숙·아데스·토르발스도티르·오르티스 등의 작품을 연도순으로 정리하고 미학적 다섯 갈래와 12주 청취 코스를 제안한다.
 
 ### AI와 사회
 

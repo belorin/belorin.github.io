@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 514,
+  "edge_count": 534,
   "edges": [
     {
       "from": "living-notes",
@@ -846,6 +846,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "silent-film-musician-labor",
+      "to": "orchestra-composer-conductor-myth",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "wiki-building-history",
       "to": "living-notes",
       "type": "related_to",
@@ -1338,6 +1344,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "classical-canon-mauceri",
+      "to": "orchestra-composer-conductor-myth",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "classical-canon-mauceri",
+      "to": "living-orchestral-listening-journey",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "ai-economic-transition",
       "to": "ai-capital-labor-distribution",
       "type": "related_to",
@@ -1556,6 +1574,12 @@
     {
       "from": "japanese-classical-tv-conductor-image",
       "to": "daisuke-soga-conductor-career",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "japanese-classical-tv-conductor-image",
+      "to": "orchestra-composer-conductor-myth",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1800,6 +1824,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "orchestra-living-composers-canon",
+      "to": "orchestra-composer-conductor-myth",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-living-composers-canon",
+      "to": "living-orchestral-listening-journey",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "world-orchestras-repertoire-2026",
       "to": "orchestra-living-composers-canon",
       "type": "related_to",
@@ -1820,6 +1856,12 @@
     {
       "from": "world-orchestras-repertoire-2026",
       "to": "orchestra-halls-seasons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-orchestras-repertoire-2026",
+      "to": "living-orchestral-listening-journey",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1880,6 +1922,18 @@
     {
       "from": "conductors-career-encores",
       "to": "orchestra-living-composers-canon",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "conductors-career-encores",
+      "to": "orchestra-composer-conductor-myth",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "conductors-career-encores",
+      "to": "living-orchestral-listening-journey",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2852,6 +2906,72 @@
     {
       "from": "book-translation-pipeline-local-llm",
       "to": "book-preview-credit-sourcing",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-composer-conductor-myth",
+      "to": "classical-canon-mauceri",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-composer-conductor-myth",
+      "to": "orchestra-living-composers-canon",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-composer-conductor-myth",
+      "to": "living-orchestral-listening-journey",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-composer-conductor-myth",
+      "to": "conductors-career-encores",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-composer-conductor-myth",
+      "to": "japanese-classical-tv-conductor-image",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-composer-conductor-myth",
+      "to": "silent-film-musician-labor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "living-orchestral-listening-journey",
+      "to": "orchestra-living-composers-canon",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "living-orchestral-listening-journey",
+      "to": "classical-canon-mauceri",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "living-orchestral-listening-journey",
+      "to": "orchestra-composer-conductor-myth",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "living-orchestral-listening-journey",
+      "to": "world-orchestras-repertoire-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "living-orchestral-listening-journey",
+      "to": "conductors-career-encores",
       "type": "related_to",
       "basis": "manifest.related"
     },
