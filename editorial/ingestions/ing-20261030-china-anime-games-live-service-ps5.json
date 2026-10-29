@@ -1,0 +1,381 @@
+{
+  "id": "ing-20261030-china-anime-games-live-service-ps5",
+  "processed_on": "2026-10-30",
+  "coverage": "visible-complete",
+  "limit_note": "현재 접근 가능한 게임 규모·개발사·제작비·회사별 성과·이환 운영·무과금 스토리 감상·게임 용량·PS5 확장 관련 발화를 처리함. 사업 실적·출시 초기 수치·SSD 시장 가격과 사양은 외부 신규 조사 없이 원래 제시된 출처만 보존하여 일부 검토 필요.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "중국 애니풍 캐릭터 게임의 미학과 생산구조 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "china-anime-game-industry",
+          "section": "하나의 그림체, 다섯 가지 제작 규모"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "스테이지·허브·지역형·필드·도시 오픈월드의 제작 부담",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "china-anime-game-industry",
+          "section": "하나의 그림체, 다섯 가지 제작 규모"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "도시 오픈월드의 생활감과 밀도 부담",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "china-anime-game-industry",
+          "section": "하나의 그림체, 다섯 가지 제작 규모"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "curation",
+      "title": "주요 애니풍 게임과 회사·장르 구조 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "china-anime-game-industry",
+          "section": "중국 개발사들의 출신은 서로 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "fact",
+      "title": "miHoYo·Kuro·Perfect World·NetEase의 개발 계보",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "china-anime-game-industry",
+          "section": "중국 개발사들의 출신은 서로 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "fact",
+      "title": "Hypergryph·Manjuu·MICA·Seasun·Papergames·Yostar 계보",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "china-anime-game-industry",
+          "section": "중국 개발사들의 출신은 서로 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "fact",
+      "title": "Pan Studio·Elementa·Silver Studio와 신작의 위치",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "china-anime-game-industry",
+          "section": "중국 개발사들의 출신은 서로 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "argument",
+      "title": "오픈월드 면적과 실제 제작비를 동일시할 수 없는 이유",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "china-anime-game-industry",
+          "section": "제작비는 얼마인가: 공개 수치와 위험한 추산"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "fact",
+      "title": "원신 개발비·연간 운영비 보도와 아난타 비용 추정의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "china-anime-game-industry",
+          "section": "제작비는 얼마인가: 공개 수치와 위험한 추산"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "concept",
+      "title": "가챠·코스튬·로맨스·탈가챠 수익모델",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "china-anime-game-industry",
+          "section": "가챠 외에도 수익 설계는 갈라진다"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "concept",
+      "title": "모바일 추정매출·프로젝트 이익·회사 순손익 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "china-anime-game-industry",
+          "section": "투자금 회수의 판단법: 매출과 이익은 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "curation",
+      "title": "주요 중국 애니풍 게임의 매출 단서와 투자 회수 판정",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "china-anime-game-industry",
+          "section": "투자금 회수의 판단법: 매출과 이익은 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "counterargument",
+      "title": "Perfect World의 손익을 타워 오브 판타지 단독 손익으로 환원하는 오류",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "china-anime-game-industry",
+          "section": "투자금 회수의 판단법: 매출과 이익은 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "question",
+      "title": "도시형 오픈월드와 감정·캐릭터 집중형 서비스의 장기 경쟁",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "china-anime-game-industry",
+          "section": "아직 정해지지 않은 승부"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "fact",
+      "title": "Hotta Studio의 타워 오브 판타지·이환 연속성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "anime-urban-live-service-nte-tof",
+          "section": "타워 오브 판타지가 시도한 여러 게임의 동거"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "argument",
+      "title": "타워 오브 판타지의 MMO·가챠 혼합과 성능 인플레이션 우려",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "anime-urban-live-service-nte-tof",
+          "section": "타워 오브 판타지가 시도한 여러 게임의 동거"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "fact",
+      "title": "타워 오브 판타지 Warp 서버의 탈가챠 전환 실험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "anime-urban-live-service-nte-tof",
+          "section": "Warp 서버: 뒤늦게 등장한 다른 과금·성장 실험"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "concept",
+      "title": "이환 도시 공간의 자유와 생활 밀도 평가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "anime-urban-live-service-nte-tof",
+          "section": "이환의 승부수는 '원신보다 큰 지도'가 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "fact",
+      "title": "이환 출시 초기 매출·보상·에셋 제작 논란의 검토 필요성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "anime-urban-live-service-nte-tof",
+          "section": "초기 흥행과 서비스 품질 사이"
+        }
+      ]
+    },
+    {
+      "id": "k20",
+      "kind": "argument",
+      "title": "이환 장기 운영을 평가하는 서사·생활·육성·마감·신캐 기준",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "anime-urban-live-service-nte-tof",
+          "section": "Hotta의 다음 1년을 판단하는 다섯 질문"
+        }
+      ]
+    },
+    {
+      "id": "k21",
+      "kind": "concept",
+      "title": "무과금 스토리 감상과 육성·숙제·저장공간의 세 벽",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "anime-urban-live-service-nte-tof",
+          "section": "패키지 게임을 좋아하는 사람에게 나타나는 세 가지 벽"
+        }
+      ]
+    },
+    {
+      "id": "k22",
+      "kind": "argument",
+      "title": "가챠를 피해도 시간을 월정액처럼 지불할 수 있다는 유비",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "anime-urban-live-service-nte-tof",
+          "section": "패키지 게임을 좋아하는 사람에게 나타나는 세 가지 벽"
+        }
+      ]
+    },
+    {
+      "id": "k23",
+      "kind": "argument",
+      "title": "운영사 흥행과 무료 서사 경험을 별개로 평가하는 기준",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "anime-urban-live-service-nte-tof",
+          "section": "운영의 미래를 단정하지 않는 법"
+        }
+      ]
+    },
+    {
+      "id": "k24",
+      "kind": "curation",
+      "title": "애니풍 라이브서비스 게임 PC·모바일 용량 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ps5-storage-anime-live-games",
+          "section": "수십 기가바이트를 먹는 애니풍 게임들"
+        }
+      ]
+    },
+    {
+      "id": "k25",
+      "kind": "concept",
+      "title": "요구 공간과 실제 설치 용량·업데이트 임시 공간 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ps5-storage-anime-live-games",
+          "section": "수십 기가바이트를 먹는 애니풍 게임들"
+        }
+      ]
+    },
+    {
+      "id": "k26",
+      "kind": "fact",
+      "title": "PS5 USB 외장과 내부 M.2 NVMe의 실행 가능 범위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ps5-storage-anime-live-games",
+          "section": "PS5 저장장치는 '보관'과 '즉시 실행'이 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k27",
+      "kind": "argument",
+      "title": "고가 5TB USB와 2TB NVMe의 목적별 구매 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ps5-storage-anime-live-games",
+          "section": "5TB 외장에 60만 원, 2TB 내장에 19만 원"
+        }
+      ]
+    },
+    {
+      "id": "k28",
+      "kind": "fact",
+      "title": "HIKSEMI FUTURE 2TB의 방열판·성능·브랜드 위험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ps5-storage-anime-live-games",
+          "section": "HIKSEMI FUTURE 2TB: 스펙 적합성과 신뢰성을 분리하기"
+        }
+      ]
+    },
+    {
+      "id": "k29",
+      "kind": "counterargument",
+      "title": "외장이어서 비싸다는 단순화와 스펙만으로 신뢰성을 확정하는 오류",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ps5-storage-anime-live-games",
+          "section": "5TB 외장에 60만 원, 2TB 내장에 19만 원"
+        }
+      ]
+    },
+    {
+      "id": "k30",
+      "kind": "argument",
+      "title": "AI NAND 시장 전망과 SSD 가격 기다리기의 불확실성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ps5-storage-anime-live-games",
+          "section": "AI 시대의 NAND 가격과 '기다리기'의 비용"
+        }
+      ]
+    },
+    {
+      "id": "k31",
+      "kind": "concept",
+      "title": "무료 게임의 저장공간 기회비용과 구매 판단",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ps5-storage-anime-live-games",
+          "section": "저장장치 구매의 진짜 판단 기준"
+        }
+      ]
+    }
+  ]
+}
