@@ -1,0 +1,129 @@
+{
+  "id": "ing-20261030-physical-ai-quantum-business",
+  "processed_on": "2026-10-30",
+  "coverage": "visible-complete",
+  "limit_note": "현재 표시된 대화 내용만 반영. 기술 성능과 사업성은 외부 검증하지 않음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "한국형 피지컬 AI 기술 분업",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "physical-ai-world-model-quantum-optimization",
+          "section": "제조 현장의 숙련은 어떻게 모델이 되는가"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "example",
+      "title": "제조 셀의 시뮬레이션 현실 간극",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "physical-ai-world-model-quantum-optimization",
+          "section": "공장이라는 반례: 같은 부품도 같지 않다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "양자 중첩과 조합최적화의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "physical-ai-world-model-quantum-optimization",
+          "section": "수만 가지 가능성을 한 번에 검사한다는 직관"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "WFM과 양자 솔버의 분업",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "physical-ai-world-model-quantum-optimization",
+          "section": "어디에 양자 계산을 넣을 것인가"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "counterargument",
+      "title": "양자 신경망 레이어 압축의 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "physical-ai-world-model-quantum-optimization",
+          "section": "인공신경망 레이어를 양자로 압축할 수 있는가"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "argument",
+      "title": "개인 개발자의 제조 의사결정 엔진",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "manufacturing-optimization-solo-business",
+          "section": "거대한 모델이 아니라 결정의 병목을 판다"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "concept",
+      "title": "제조 솔버의 재사용 가능한 구성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "manufacturing-optimization-solo-business",
+          "section": "재사용 가능한 핵심 설계"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "argument",
+      "title": "에이전트 선계산 자산 파이프라인",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "manufacturing-optimization-solo-business",
+          "section": "에이전트가 밤마다 축적할 수 있는 자산"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "curation",
+      "title": "양자 클라우드 접근 플랫폼",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "manufacturing-optimization-solo-business",
+          "section": "양자 클라우드의 선택"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "question",
+      "title": "고객 실증과 양자 우위 검증",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "manufacturing-optimization-solo-business",
+          "section": "첫 고객 이전에 필요한 증거"
+        }
+      ]
+    }
+  ]
+}
