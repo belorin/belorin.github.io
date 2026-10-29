@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 546,
+  "edge_count": 593,
   "edges": [
     {
       "from": "living-notes",
@@ -942,6 +942,24 @@
       "basis": "manifest.related"
     },
     {
+      "from": "ai-human-control-guide",
+      "to": "ai-adoption-ceiling-floor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-human-control-guide",
+      "to": "owner-aligned-automated-power",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-human-control-guide",
+      "to": "ai-transition-monetary-order",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "ai-takeover-human-recourse",
       "to": "ai-human-control-guide",
       "type": "related_to",
@@ -1416,6 +1434,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "ai-economic-transition",
+      "to": "ai-adoption-ceiling-floor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-economic-transition",
+      "to": "ai-transition-monetary-order",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "ai-capital-labor-distribution",
       "to": "ai-economic-transition",
       "type": "related_to",
@@ -1472,6 +1502,24 @@
     {
       "from": "ai-capital-labor-distribution",
       "to": "great-depression-lived-experience-literature",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-capital-labor-distribution",
+      "to": "ai-adoption-ceiling-floor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-capital-labor-distribution",
+      "to": "ai-transition-monetary-order",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-capital-labor-distribution",
+      "to": "korea-data-center-local-economy",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1992,6 +2040,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "ai-compute-scaling-inference",
+      "to": "data-center-world-capacity",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-compute-scaling-inference",
+      "to": "owner-aligned-automated-power",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "japan-physical-ai-skill-transfer",
       "to": "ai-compute-scaling-inference",
       "type": "related_to",
@@ -2018,6 +2078,18 @@
     {
       "from": "ai-transition-policy-gap",
       "to": "gradual-disempowerment",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-transition-policy-gap",
+      "to": "ai-adoption-ceiling-floor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-transition-policy-gap",
+      "to": "ai-transition-monetary-order",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2856,6 +2928,24 @@
       "basis": "manifest.related"
     },
     {
+      "from": "ai-hidden-labor-feeding-machine-2026",
+      "to": "data-center-world-capacity",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-hidden-labor-feeding-machine-2026",
+      "to": "korea-data-center-local-economy",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-hidden-labor-feeding-machine-2026",
+      "to": "physical-cloud-reading-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "global-bpo-labor-geography",
       "to": "ai-hidden-labor-feeding-machine-2026",
       "type": "related_to",
@@ -2894,6 +2984,24 @@
     {
       "from": "ai-cloud-ownership-rent",
       "to": "ai-hidden-labor-feeding-machine-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-cloud-ownership-rent",
+      "to": "data-center-world-capacity",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-cloud-ownership-rent",
+      "to": "korea-data-center-local-economy",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-cloud-ownership-rent",
+      "to": "ai-transition-monetary-order",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -3044,6 +3152,180 @@
     {
       "from": "ps5-storage-anime-live-games",
       "to": "anime-urban-live-service-nte-tof",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-adoption-ceiling-floor",
+      "to": "ai-economic-transition",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-adoption-ceiling-floor",
+      "to": "ai-transition-policy-gap",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-adoption-ceiling-floor",
+      "to": "ai-capital-labor-distribution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-adoption-ceiling-floor",
+      "to": "ai-compute-scaling-inference",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-adoption-ceiling-floor",
+      "to": "owner-aligned-automated-power",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "owner-aligned-automated-power",
+      "to": "ai-adoption-ceiling-floor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "owner-aligned-automated-power",
+      "to": "ai-transition-monetary-order",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "owner-aligned-automated-power",
+      "to": "gradual-disempowerment",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "owner-aligned-automated-power",
+      "to": "data-center-world-capacity",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "owner-aligned-automated-power",
+      "to": "ai-human-control-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "owner-aligned-automated-power",
+      "to": "ai-democracy-narrow-corridor",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-transition-monetary-order",
+      "to": "ai-economic-transition",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-transition-monetary-order",
+      "to": "ai-capital-labor-distribution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-transition-monetary-order",
+      "to": "ai-transition-policy-gap",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-transition-monetary-order",
+      "to": "owner-aligned-automated-power",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-transition-monetary-order",
+      "to": "ai-cloud-ownership-rent",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "data-center-world-capacity",
+      "to": "ai-compute-scaling-inference",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "data-center-world-capacity",
+      "to": "ai-cloud-ownership-rent",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "data-center-world-capacity",
+      "to": "korea-data-center-local-economy",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "data-center-world-capacity",
+      "to": "physical-cloud-reading-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "data-center-world-capacity",
+      "to": "owner-aligned-automated-power",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "korea-data-center-local-economy",
+      "to": "data-center-world-capacity",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "korea-data-center-local-economy",
+      "to": "ai-cloud-ownership-rent",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "korea-data-center-local-economy",
+      "to": "ai-hidden-labor-feeding-machine-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "korea-data-center-local-economy",
+      "to": "physical-cloud-reading-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "korea-data-center-local-economy",
+      "to": "ai-capital-labor-distribution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "physical-cloud-reading-guide",
+      "to": "data-center-world-capacity",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "physical-cloud-reading-guide",
+      "to": "korea-data-center-local-economy",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "physical-cloud-reading-guide",
+      "to": "ai-hidden-labor-feeding-machine-2026",
       "type": "related_to",
       "basis": "manifest.related"
     },

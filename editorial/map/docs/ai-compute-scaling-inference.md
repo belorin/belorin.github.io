@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `ai-compute-scaling-inference` · 분류: AI와 사회 · 공개 · 원고: [wiki/ai-compute-scaling-inference.md](../../../wiki/ai-compute-scaling-inference.md) · 7,513자 · 절 11개
+- id: `ai-compute-scaling-inference` · 분류: AI와 사회 · 공개 · 원고: [wiki/ai-compute-scaling-inference.md](../../../wiki/ai-compute-scaling-inference.md) · 7,881자 · 절 12개
 - 별칭: AI 데이터센터와 추론, test-time scaling, 추론 컴퓨트, AI 계산 스케일링
 - 요약: AI 데이터센터 증설을 단순한 더 큰 사전학습이 아니라 test-time compute, 병렬 탐색·검증, 과학·코딩·피지컬 AI 계산의 확대로 읽고 계산량의 한계를 함께 정리한다.
 - 태그: AI 데이터센터, 추론 스케일링, test-time compute, AI 인프라, 병렬 탐색, verifier
 - 수정일: 2026-10-30 · 실제 증보일: 2026-10-30 · 검토: needs_review
-- 관련 문서: `japan-physical-ai-skill-transfer`, `wto-digital-transmission-moratorium`, `ai-cloud-ownership-rent`, `ai-hidden-labor-feeding-machine-2026`
+- 관련 문서: `japan-physical-ai-skill-transfer`, `wto-digital-transmission-moratorium`, `ai-cloud-ownership-rent`, `ai-hidden-labor-feeding-machine-2026`, `data-center-world-capacity`, `owner-aligned-automated-power`
 
 ## 절 목차
 
@@ -24,7 +24,8 @@
 - 피지컬 AI: 현실세계가 다음 스케일링 대상이 될 때 · L71–77 · 487자 · `5cacfe4c` — 대규모 계산 인프라의 다음 사용처는 텍스트와 코드에만 한정되지 않는다.
 - 국경을 넘어 제공되는 AI와 디지털 관세의 별도 문제 · L79–85 · 728자 · `f5cfbd42` — 연산 인프라가 커진다고 그 계산의 모든 데이터가 국제무역의 과세 대상이 되는 것은 아니다.
 - 컴퓨트를 소유하는 자와 빌리는 자: GPU 증설의 경제적 층위 · L87–95 · 795자 · `51179c27` — 추론 스케일링에서 계산량의 증가가 기술적 가능성을 뜻한다면, 누가 그 계산을 구매하고 누가 설비를 소유하는가는 경제적 가능성을 뜻한다.
-- 검토 상태 · L97–101 · 396자 · `4abf4a55` — 이 글은 현재 확인 가능한 논의에서 이미 제시된 수치·연구·기업 발표와 링크를 재구성했다.
+- 계산이 실제로 놓이는 시설의 제약 · L97–99 · 343자 · `09e31e96` — 세계 데이터센터 용량이 커진다고 동일한 비율로 가용한 첨단 학습 GPU가 늘어나는 것은 아니다.
+- 검토 상태 · L101–105 · 396자 · `4abf4a55` — 이 글은 현재 확인 가능한 논의에서 이미 제시된 수치·연구·기업 발표와 링크를 재구성했다.
 
 ## 장부에 기록된 반영 지식
 

@@ -96,6 +96,12 @@
 - [Pluto AI와 인간의 스타크래프트: 자가대전이 만든 다른 메타](https://belorin.github.io/notes/starcraft-pluto-ai/): Pluto의 개발자와 구조, 자가대전 강화학습, 한국 프로 대인전, API 조작 우위와 인간 메타의 충돌, 드롭·치즈 등 취약점과 인간의 적응, 개발자의 공개 반응 경계를 총합한다.
 - [『AI는 인간을 먹고 자란다』 이후: 보이지 않는 노동은 사라졌는가, 분화했는가](https://belorin.github.io/notes/ai-hidden-labor-feeding-machine-2026/): 2024년 원서와 2025년 한국어판을 기준으로 LLM 데이터 평가·합성데이터·전문가·검수·물류·창작·데이터센터 노동 변화를 대조
 - [AI 모델 기업과 클라우드 기업: 지분, 컴퓨트 계약, 지대의 세 층](https://belorin.github.io/notes/ai-cloud-ownership-rent/): OpenAI·Anthropic 등 모델사와 Azure·AWS·Google·Oracle·AI 클라우드의 지분·GPU 계약·수익 배분 및 인프라 병목
+- [AI의 상한선과 사회적 활용 하한선: 호들갑 없이 이행기를 보는 법](https://belorin.github.io/notes/ai-adoption-ceiling-floor/): AI 능력의 미지의 천장과 낮은 사회적 채택을 분리해 기술·조직·노동·재정의 이행 속도를 분석하고 IMF의 노출도와 개인 대응의 한계를 구별한다.
+- [소유자 중심 자동권력: 인간 다수 없이 지속되는 기계 체제의 성립 조건](https://belorin.github.io/notes/owner-aligned-automated-power/): 강제력의 탈인간화, 핵심 생존노동 자동화, 자율 정비와 교체, 전력·연산·부품 주권을 구별하고 소수 생존형 시나리오와 국가 위험 분류의 논리적 한계를 살핀다.
+- [AI 이행기의 화폐와 소유권: BIS의 통합장부에서 두 층 경제까지](https://belorin.github.io/notes/ai-transition-monetary-order/): 실업·채무·금융안정의 이행기 연쇄, BIS unified ledger와 Project Agorá의 실제 목표, 조건부 이중경제 사고실험, IMF 노동·재정정책의 분모를 구별한다.
+- [세계 데이터센터의 연산 지리: GW·냉각·감가상각·투자 파이프라인](https://belorin.github.io/notes/data-center-world-capacity/): 2025~2030년 지역별 GW·건설 파이프라인, 공실률의 모수, 공랭·액랭의 시설별 보급, 물리적 수명과 미국·중국·걸프·APAC 기업 생태계를 구분한다.
+- [한국 데이터센터 유치의 실익: GW보다 적은 일자리, 전력보다 중요한 지역 몫](https://belorin.github.io/notes/korea-data-center-local-economy/): 울산 SK–AWS·해남 솔라시도 등 한국 데이터센터의 계획과 상주인력, 건설기 효과, AWS 현장 직군, 전력·물·세수의 지역 순편익을 비교한다.
+- [클라우드의 물질성: 데이터센터·해저케이블·현장노동을 읽는 책과 르포](https://belorin.github.io/notes/physical-cloud-reading-guide/): Tubes, Where Cloud Is Ground, The Undersea Network, The Cloud Is Material 등과 AWS 오리건 영상·지역 르포·한국어 보고서를 비교한 독서·시청 길잡이.
 
 ### 철학
 

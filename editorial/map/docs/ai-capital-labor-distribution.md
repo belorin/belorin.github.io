@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `ai-capital-labor-distribution` · 분류: AI와 사회 · 공개 · 원고: [wiki/ai-capital-labor-distribution.md](../../../wiki/ai-capital-labor-distribution.md) · 12,399자 · 절 16개
+- id: `ai-capital-labor-distribution` · 분류: AI와 사회 · 공개 · 원고: [wiki/ai-capital-labor-distribution.md](../../../wiki/ai-capital-labor-distribution.md) · 13,156자 · 절 17개
 - 별칭: AI와 자본 노동, AI 시대의 분배
 - 요약: 자본 유형별 이해관계와 경영 자동화·소유권의 차이를 설명하고, 직업의 노출·채용 수요·숙련·교섭력을 조건별로 검토한다.
 - 태그: AI와 사회, 자본, 노동, 소유권, 교섭력
 - 수정일: 2026-10-30 · 실제 증보일: 2026-10-30 · 검토: needs_review
-- 관련 문서: `ai-economic-transition`, `ai-class-fiction`, `gradual-disempowerment`, `disempowerment-measurement`, `ai-human-control-guide`, `ai-transition-policy-gap`, `ai-cloud-ownership-rent`, `global-bpo-labor-geography`, `ai-hidden-labor-feeding-machine-2026`, `great-depression-lived-experience-literature`
+- 관련 문서: `ai-economic-transition`, `ai-class-fiction`, `gradual-disempowerment`, `disempowerment-measurement`, `ai-human-control-guide`, `ai-transition-policy-gap`, `ai-cloud-ownership-rent`, `global-bpo-labor-geography`, `ai-hidden-labor-feeding-machine-2026`, `great-depression-lived-experience-literature`, `ai-adoption-ceiling-floor`, `ai-transition-monetary-order`, `korea-data-center-local-economy`
 - 이 문서를 근거로 쓴 종합: `replay-ladder-human-performance`
 
 ## 절 목차
@@ -30,7 +30,8 @@
 - 개인의 적응과 집단의 제도 선택 · L115–123 · 801자 · `2c7ec0ef` — 개인이 AI를 활용하는 능력을 익히고 전문지식·검증 능력·관계를 유지하는 일은 적응의 한 경로가 될 수 있다.
 - 분배와 인간의 영향력은 연결되지만 같지 않다 · L125–133 · 859자 · `e5af1f75` — 점진적 무력화는 사회 시스템이 인간의 참여를 덜 필요로 하게 될 때 협상력이 약해질 수 있다는 개념적 논증을 제시한다.
 - 클라우드와 모델 기업 사이의 지대: 투자자가 임대업자이기도 할 때 · L135–143 · 1,034자 · `3c2d4f6d` — AI의 모델 기업과 클라우드 기업 사이에서는 서로 다른 세 가지 계약을 분리해야 한다.
-- 근거와 검증 상태 · L145–151 · 483자 · `fe917e91` — FTC의 AI 제휴·투자 조사에 관한 절은 2025년 1월 공식 발표에서 확인한 계약 구조와 잠재적 경쟁 영향만 기술했다.
+- 기득권의 서열을 보존하려는 이행기 전략의 모순 · L145–151 · 725자 · `1c815bd7` — 높은 자동화의 장기적 이익을 기대하는 자산 소유자도 그 과정의 실업·채무불이행·은행위기가 기존 자산 가격과 권력 서열을 뒤흔드는 것은 원하지 않을 수 있다.
+- 근거와 검증 상태 · L153–159 · 483자 · `fe917e91` — FTC의 AI 제휴·투자 조사에 관한 절은 2025년 1월 공식 발표에서 확인한 계약 구조와 잠재적 경쟁 영향만 기술했다.
 
 ## 장부에 기록된 반영 지식
 

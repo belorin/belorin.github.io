@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `ai-cloud-ownership-rent` · 분류: AI와 사회 · 공개 · 원고: [wiki/ai-cloud-ownership-rent.md](../../../wiki/ai-cloud-ownership-rent.md) · 8,125자 · 절 11개
+- id: `ai-cloud-ownership-rent` · 분류: AI와 사회 · 공개 · 원고: [wiki/ai-cloud-ownership-rent.md](../../../wiki/ai-cloud-ownership-rent.md) · 8,705자 · 절 12개
 - 별칭: AI 모델 회사 클라우드 지분, AI 클라우드 지대경제
 - 요약: OpenAI·Anthropic 등 모델사와 Azure·AWS·Google·Oracle·AI 클라우드의 지분·GPU 계약·수익 배분 및 인프라 병목
 - 태그: AI 클라우드, OpenAI, Anthropic, 지분율, 컴퓨트, 지대경제
 - 수정일: 2026-10-30 · 실제 증보일: 2026-10-30 · 검토: needs_review
-- 관련 문서: `ai-capital-labor-distribution`, `ai-compute-scaling-inference`, `silicon-valley-firm-geography`, `ai-hidden-labor-feeding-machine-2026`
+- 관련 문서: `ai-capital-labor-distribution`, `ai-compute-scaling-inference`, `silicon-valley-firm-geography`, `ai-hidden-labor-feeding-machine-2026`, `data-center-world-capacity`, `korea-data-center-local-economy`, `ai-transition-monetary-order`
 
 ## 절 목차
 
@@ -23,8 +23,9 @@
 - 지대는 어디서 발생하는가: 모델 회사가 항공사처럼 될 위험 · L71–84 · 896자 · `86cbedaa` — 모델 회사가 높은 기술력을 갖추었는데도 비용과 경쟁 때문에 이윤이 얇아지는 시나리오를 생각할 수 있다.
 - 어떤 회사가 더 취약한가 · L86–92 · 530자 · `50015562` — 독립 모델 기업이 반드시 약한 것은 아니다.
 - 지분과 사용료를 나란히 받는 기업 · L94–98 · 411자 · `9411cf81` — 가장 특이한 관계는 클라우드 공급자가 동시에 투자자일 때다.
-- 노동과 지역경제로 돌아오는 문제 · L100–104 · 420자 · `160f03fb` — 컴퓨트 지대가 장기적으로 강해진다면 모델 개발자의 기술 소유권만큼이나 전력 인프라, 공장 부품, 공공 인허가, 지역 전력요금과 데이터센터 건설 노동이 중요해진다.
-- 검토 상태 · L106–108 · 227자 · `d9d5c5df` — 이 글의 공개 투자·계약·컴퓨트 수치는 2025~2026년 5월 무렵 제시된 발표와 보도에 따른다.
+- 클라우드 지대의 물리적 분모: 세계 GW와 도시의 일자리 · L100–104 · 542자 · `9f5e84c0` — 서비스 제공자에게는 하나의 ‘클라우드’ 요금으로 보이는 비용이, 실제 지역에서는 데이터센터의 GW급 전력용량·변전·냉각·통신·토지와 시설금융으로 나뉜다.
+- 노동과 지역경제로 돌아오는 문제 · L106–110 · 420자 · `160f03fb` — 컴퓨트 지대가 장기적으로 강해진다면 모델 개발자의 기술 소유권만큼이나 전력 인프라, 공장 부품, 공공 인허가, 지역 전력요금과 데이터센터 건설 노동이 중요해진다.
+- 검토 상태 · L112–114 · 227자 · `d9d5c5df` — 이 글의 공개 투자·계약·컴퓨트 수치는 2025~2026년 5월 무렵 제시된 발표와 보도에 따른다.
 
 ## 장부에 기록된 반영 지식
 

@@ -2,23 +2,24 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `ai-human-control-guide` · 분류: AI와 사회 · 공개 · 원고: [wiki/ai-human-control-guide.md](../../../wiki/ai-human-control-guide.md) · 3,295자 · 절 5개
+- id: `ai-human-control-guide` · 분류: AI와 사회 · 공개 · 원고: [wiki/ai-human-control-guide.md](../../../wiki/ai-human-control-guide.md) · 3,963자 · 절 6개
 - 별칭: AI 통제력 길잡이, AI와 사회 길잡이
 - 요약: 네트워크 장악에서 점진적 무력화, 지배의 농도, 측정, 대화형 설득, 대화 데이터 접근권으로 이어지는 질문의 이동과 관통 논점을 안내한다.
 - 태그: AI와 사회, 무력화, 민주주의, 길잡이
-- 수정일: 2026-10-24 · 실제 증보일: 2026-10-24 · 검토: needs_review
-- 관련 문서: `ai-takeover-human-recourse`, `ai-goals-hostage-and-bait`, `ai-domination-gradient`, `gradual-disempowerment`, `disempowerment-measurement`, `llm-disempowerment-patterns`, `conversational-ai-persuasion`, `ai-conversation-data-access`, `ai-economic-transition`, `ai-capital-labor-distribution`
+- 수정일: 2026-10-30 · 실제 증보일: 2026-10-30 · 검토: needs_review
+- 관련 문서: `ai-takeover-human-recourse`, `ai-goals-hostage-and-bait`, `ai-domination-gradient`, `gradual-disempowerment`, `disempowerment-measurement`, `llm-disempowerment-patterns`, `conversational-ai-persuasion`, `ai-conversation-data-access`, `ai-economic-transition`, `ai-capital-labor-distribution`, `ai-adoption-ceiling-floor`, `owner-aligned-automated-power`, `ai-transition-monetary-order`
 
 ## 절 목차
 
 들여쓰기가 소제목 경로(상위 절 아래의 하위 절)다. `L시작–끝`은 원고 파일에서 그 절 고유 부분(하위 절 제외)의 줄 범위, 글자 수는 그 본문 분량, 8자리 해시는 그 줄들의 내용 지문으로 원고가 바뀌면 달라진다. 첫 문장은 위치 확인용이며 절의 내용을 대표하지 않는다.
 
 - (도입부) · L2–5 · 351자 · `c60db77e` — AI가 인간 사회의 통제력에 미칠 영향은 흔히 '기계의 반란'이라는 극적인 장면으로 상상된다.
-- 이 주제를 읽는 순서 · L7–18 · 1,022자 · `4ea8814b` — 네트워크가 장악되었을 때 인간에게 남는 수단: 물리 계층, 수동 운영, 오프라인 백업, 금융 데이터의 무효화 같은 사후 대응 수단과 그 대가.
-- 초점의 이동: 극적 장악에서 보이지 않는 변화로 · L20–30 · 965자 · `af4e00df` — 첫 번째 이동은 물리적 대결에서 협상으로의 이동이다.
-- 여러 문서를 관통하는 논점 · L32–38 · 538자 · `afb2c463` — 악의 없는 실패: 승인 최적화, 효율 경쟁, 선의의 설계가 의도하지 않은 방향성과 권력 집중을 낳는 경로.
-- 관련 미게시 원고 · L40–42 · 178자 · `1b04d5cf` — AI가 판단·기억·내면·관계·능력·정체성의 규범을 어떻게 바꿀 수 있는지를 사고실험으로 다룬 원고 'AI 환경은 인간의 정신 습관을 어떻게 바꿀 수 있는가'는 현…
-- 근거와 검증 상태 · L44–46 · 99자 · `d6e9b261` — 이 길잡이는 하위 문서를 탐색하기 위한 구성이다.
+- 이 주제를 읽는 순서 · L7–21 · 1,356자 · `6486b89c` — 네트워크가 장악되었을 때 인간에게 남는 수단: 물리 계층, 수동 운영, 오프라인 백업, 금융 데이터의 무효화 같은 사후 대응 수단과 그 대가.
+- 초점의 이동: 극적 장악에서 보이지 않는 변화로 · L23–33 · 965자 · `af4e00df` — 첫 번째 이동은 물리적 대결에서 협상으로의 이동이다.
+- 여러 문서를 관통하는 논점 · L35–41 · 538자 · `afb2c463` — 악의 없는 실패: 승인 최적화, 효율 경쟁, 선의의 설계가 의도하지 않은 방향성과 권력 집중을 낳는 경로.
+- 물리적 독립은 추론 능력과 다르다 · L43–45 · 309자 · `9a143c2a` — 극단적 자동권력 시나리오에서 중요한 것은 AI가 인격을 갖는지가 아니라, 인간 다수의 협조가 끊긴 뒤에도 강제력·생산·부품교체·전력·냉각의 회로가 계속 움직이는가다.
+- 관련 미게시 원고 · L47–49 · 178자 · `1b04d5cf` — AI가 판단·기억·내면·관계·능력·정체성의 규범을 어떻게 바꿀 수 있는지를 사고실험으로 다룬 원고 'AI 환경은 인간의 정신 습관을 어떻게 바꿀 수 있는가'는 현…
+- 근거와 검증 상태 · L51–53 · 99자 · `d6e9b261` — 이 길잡이는 하위 문서를 탐색하기 위한 구성이다.
 
 ## 장부에 기록된 반영 지식
 

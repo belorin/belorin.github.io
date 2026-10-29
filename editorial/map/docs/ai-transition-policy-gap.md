@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `ai-transition-policy-gap` · 분류: AI와 사회 · 공개 · 원고: [wiki/ai-transition-policy-gap.md](../../../wiki/ai-transition-policy-gap.md) · 4,854자 · 절 7개
+- id: `ai-transition-policy-gap` · 분류: AI와 사회 · 공개 · 원고: [wiki/ai-transition-policy-gap.md](../../../wiki/ai-transition-policy-gap.md) · 5,425자 · 절 8개
 - 별칭: AI 재교육의 한계, AI 이행기 정책 실패, 국제기구와 AI 경제
 - 요약: 국제기구가 위험을 인식해도 대응하지 못하는 조건, 재교육의 거시적 한계, 자동화·재정·조세·정치의 시차를 분석한다.
 - 태그: AI, 경제 이행기, 재교육, 국제기구, 노동 수요, 경제학, 정책 실패
-- 수정일: 2026-10-24 · 실제 증보일: 2026-10-24 · 검토: needs_review
-- 관련 문서: `ai-economic-transition`, `ai-capital-labor-distribution`, `gradual-disempowerment`
+- 수정일: 2026-10-30 · 실제 증보일: 2026-10-30 · 검토: needs_review
+- 관련 문서: `ai-economic-transition`, `ai-capital-labor-distribution`, `gradual-disempowerment`, `ai-adoption-ceiling-floor`, `ai-transition-monetary-order`
 - 이 문서를 근거로 쓴 종합: `replay-ladder-human-performance`
 
 ## 절 목차
@@ -21,7 +21,8 @@
 - 기존 경제학의 틀을 시험하는 질문 · L31–39 · 796자 · `c6e02e4d` — 과업 기반 노동경제학은 대체되는 과업과 새로 생기는 과업의 균형을 설명한다.
 - 정책 시행착오의 연쇄: 조건부 시뮬레이션 · L41–51 · 956자 · `2f0318ef` — 가상의 정부가 AI 확산을 생산성 정책으로 적극 장려한다고 가정하자.
 - 왜 이행기를 독립적인 연구 대상으로 보아야 하는가 · L53–59 · 493자 · `b581f539` — 충분히 자동화된 경제의 장기 균형이 이론적으로 가능하다는 사실은 그 균형에 이르는 과정에서 가계와 기업이 생존한다는 보장이 아니다.
-- 검토 범위와 연결 · L61–63 · 279자 · `5a6469e7` — 이 글은 조건부 사고실험과 정책의 실패 경로를 다룬다.
+- 국제기구의 건조한 진단과 금융 이행의 별도 문제 · L61–65 · 538자 · `f9997754` — IMF의 AI 고용 노출도는 실직률을 뜻하지 않는다.
+- 검토 범위와 연결 · L67–69 · 279자 · `5a6469e7` — 이 글은 조건부 사고실험과 정책의 실패 경로를 다룬다.
 
 ## 장부에 기록된 반영 지식
 

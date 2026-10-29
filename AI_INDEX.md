@@ -148,7 +148,7 @@
 
 ## AI와 사회
 
-- **[AI와 인간의 통제력: 장악·무력화·설득·접근권을 잇는 길잡이](wiki/ai-human-control-guide.md)** · 별칭: AI 통제력 길잡이, AI와 사회 길잡이 · 수정: 2026-10-24 · 검토: 길잡이·해석 포함
+- **[AI와 인간의 통제력: 장악·무력화·설득·접근권을 잇는 길잡이](wiki/ai-human-control-guide.md)** · 별칭: AI 통제력 길잡이, AI와 사회 길잡이 · 수정: 2026-10-30 · 검토: 길잡이·해석 포함
   - 네트워크 장악에서 점진적 무력화, 지배의 농도, 측정, 대화형 설득, 대화 데이터 접근권으로 이어지는 질문의 이동과 관통 논점을 안내한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-human-control-guide/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-human-control-guide.md)
 - **[네트워크가 장악되었을 때 인간에게 남는 수단: 물리 계층·수동 운영·금융의 무효화](wiki/ai-takeover-human-recourse.md)** · 별칭: AI 장악 대응, 물리 계층과 수동 운영 · 수정: 2026-10-23 · 검토: 사례 미검증·추론 포함
@@ -199,7 +199,7 @@
 - **[사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승](wiki/japan-physical-ai-skill-transfer.md)** · 별칭: 일본 피지컬 AI, 손지능, 숙련 전승 로봇, Physical AI Japan · 수정: 2026-10-25 · 검토: 대화 내 확인 자료 총합 · 기업 발표·정부 목표·국가 비교 해석 외부 재검증 필요
   - 가와사키 Successor와 Honda 다지 핸드부터 Toyota·Yaskawa·FANUC·AIST까지, 일본이 숙련자의 손동작·힘 조절을 로봇 학습 데이터로 옮기려는 흐름을 정리한다.
   - [문서 페이지](https://belorin.github.io/notes/japan-physical-ai-skill-transfer/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japan-physical-ai-skill-transfer.md)
-- **[AI 이행기의 정책 공백: 재교육이 해결하지 못하는 구조적 노동 대체](wiki/ai-transition-policy-gap.md)** · 별칭: AI 재교육의 한계, AI 이행기 정책 실패, 국제기구와 AI 경제 · 수정: 2026-10-24 · 검토: 조건부 정책 시뮬레이션·외부 미검증
+- **[AI 이행기의 정책 공백: 재교육이 해결하지 못하는 구조적 노동 대체](wiki/ai-transition-policy-gap.md)** · 별칭: AI 재교육의 한계, AI 이행기 정책 실패, 국제기구와 AI 경제 · 수정: 2026-10-30 · 검토: 조건부 정책 시뮬레이션·외부 미검증
   - 국제기구가 위험을 인식해도 대응하지 못하는 조건, 재교육의 거시적 한계, 자동화·재정·조세·정치의 시차를 분석한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-transition-policy-gap/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-transition-policy-gap.md)
 - **[Pluto AI와 인간의 스타크래프트: 자가대전이 만든 다른 메타](wiki/starcraft-pluto-ai.md)** · 별칭: Pluto AI, 플루토 AI, 스타크래프트 플루토, tscmoo Pluto · 수정: 2026-10-26 · 검토: 대화 기반 집필 · 경기 전적·개발자 발언·세부 수치 외부 재검증 필요
@@ -211,6 +211,24 @@
 - **[AI 모델 기업과 클라우드 기업: 지분, 컴퓨트 계약, 지대의 세 층](wiki/ai-cloud-ownership-rent.md)** · 별칭: AI 모델 회사 클라우드 지분, AI 클라우드 지대경제 · 수정: 2026-10-30 · 검토: 대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요
   - OpenAI·Anthropic 등 모델사와 Azure·AWS·Google·Oracle·AI 클라우드의 지분·GPU 계약·수익 배분 및 인프라 병목
   - [문서 페이지](https://belorin.github.io/notes/ai-cloud-ownership-rent/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-cloud-ownership-rent.md)
+- **[AI의 상한선과 사회적 활용 하한선: 호들갑 없이 이행기를 보는 법](wiki/ai-adoption-ceiling-floor.md)** · 별칭: AI 상한선 하한선, AI 활용 하한선, AI 노호들갑 · 수정: 2026-10-30 · 검토: 대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요
+  - AI 능력의 미지의 천장과 낮은 사회적 채택을 분리해 기술·조직·노동·재정의 이행 속도를 분석하고 IMF의 노출도와 개인 대응의 한계를 구별한다.
+  - [문서 페이지](https://belorin.github.io/notes/ai-adoption-ceiling-floor/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-adoption-ceiling-floor.md)
+- **[소유자 중심 자동권력: 인간 다수 없이 지속되는 기계 체제의 성립 조건](wiki/owner-aligned-automated-power.md)** · 별칭: AI 독재의 최소조건, 소유자 정렬 기계문명, AI 민병단 · 수정: 2026-10-30 · 검토: 대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요
+  - 강제력의 탈인간화, 핵심 생존노동 자동화, 자율 정비와 교체, 전력·연산·부품 주권을 구별하고 소수 생존형 시나리오와 국가 위험 분류의 논리적 한계를 살핀다.
+  - [문서 페이지](https://belorin.github.io/notes/owner-aligned-automated-power/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/owner-aligned-automated-power.md)
+- **[AI 이행기의 화폐와 소유권: BIS의 통합장부에서 두 층 경제까지](wiki/ai-transition-monetary-order.md)** · 별칭: AI 이중화폐, BIS 통합장부와 AI, AI 이행기 금융질서 · 수정: 2026-10-30 · 검토: 대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요
+  - 실업·채무·금융안정의 이행기 연쇄, BIS unified ledger와 Project Agorá의 실제 목표, 조건부 이중경제 사고실험, IMF 노동·재정정책의 분모를 구별한다.
+  - [문서 페이지](https://belorin.github.io/notes/ai-transition-monetary-order/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-transition-monetary-order.md)
+- **[세계 데이터센터의 연산 지리: GW·냉각·감가상각·투자 파이프라인](wiki/data-center-world-capacity.md)** · 별칭: 세계 데이터센터 GW, 데이터센터 세계 비중, 데이터센터 액랭 공랭, 데이터센터 감가상각 · 수정: 2026-10-30 · 검토: 대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요
+  - 2025~2030년 지역별 GW·건설 파이프라인, 공실률의 모수, 공랭·액랭의 시설별 보급, 물리적 수명과 미국·중국·걸프·APAC 기업 생태계를 구분한다.
+  - [문서 페이지](https://belorin.github.io/notes/data-center-world-capacity/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/data-center-world-capacity.md)
+- **[한국 데이터센터 유치의 실익: GW보다 적은 일자리, 전력보다 중요한 지역 몫](wiki/korea-data-center-local-economy.md)** · 별칭: 해남 데이터센터 일자리, 울산 SK AWS 지역경제, 데이터센터 지역고용 · 수정: 2026-10-30 · 검토: 대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요
+  - 울산 SK–AWS·해남 솔라시도 등 한국 데이터센터의 계획과 상주인력, 건설기 효과, AWS 현장 직군, 전력·물·세수의 지역 순편익을 비교한다.
+  - [문서 페이지](https://belorin.github.io/notes/korea-data-center-local-economy/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-data-center-local-economy.md)
+- **[클라우드의 물질성: 데이터센터·해저케이블·현장노동을 읽는 책과 르포](wiki/physical-cloud-reading-guide.md)** · 별칭: 클라우드 물리 인프라 책, 데이터센터 르포 읽기, 클라우드 다큐 추천 · 수정: 2026-10-30 · 검토: 대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요
+  - Tubes, Where Cloud Is Ground, The Undersea Network, The Cloud Is Material 등과 AWS 오리건 영상·지역 르포·한국어 보고서를 비교한 독서·시청 길잡이.
+  - [문서 페이지](https://belorin.github.io/notes/physical-cloud-reading-guide/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/physical-cloud-reading-guide.md)
 
 ## 철학
 
