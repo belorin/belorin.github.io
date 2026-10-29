@@ -1,0 +1,165 @@
+{
+  "id": "ing-20261030-space-datacenters-orbital-commons",
+  "processed_on": "2026-10-30",
+  "coverage": "visible-complete",
+  "limit_note": "접근 가능한 대화만 재구성. 일부 사건·수치·동기 가설은 외부 미검증.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "복사냉각과 프라이팬 사고실험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "space-data-center-thermal-economics",
+          "section": "프라이팬 사고실험: 검은 표면과 광택 금속의 차이"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "ISS의 액체회로와 라디에이터",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "space-data-center-thermal-economics",
+          "section": "국제우주정거장의 실물 해법"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "구글 선캐처의 열관리 구상",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "space-data-center-thermal-economics",
+          "section": "구글 Project Suncatcher가 제시한 것과 아직 제시하지 않은 것"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "5GW 우주 데이터센터의 방열 규모",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "space-data-center-thermal-economics",
+          "section": "5GW 열부하의 규모를 계산하다"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "concept",
+      "title": "우주 연산의 경제성과 전략 가설",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "space-data-center-thermal-economics",
+          "section": "왜 지상이 아니라 우주인가: 비용과 전략의 서로 다른 주장"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "argument",
+      "title": "기업 우주자산의 소유와 국가책임",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "space-assets-law-debris-kessler",
+          "section": "소유국·등록국·발사국을 혼동하지 말 것"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "argument",
+      "title": "코스모스 954 국제배상",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "space-assets-law-debris-kessler",
+          "section": "실제 금전배상: 코스모스 954"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "argument",
+      "title": "위성 충돌과 회피 비용",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "space-assets-law-debris-kessler",
+          "section": "실제 충돌과 배상 없는 위험의 분배"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "argument",
+      "title": "전파간섭과 위성 재진입 분쟁",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "space-assets-law-debris-kessler",
+          "section": "전파와 항법: 위성을 부수지 않는 분쟁"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "argument",
+      "title": "위성 파괴 실험과 근접 기동",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "space-assets-law-debris-kessler",
+          "section": "고의적 위성 파괴와 근접 기동의 외교"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "argument",
+      "title": "케슬러 증후군의 고도별 위험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "space-assets-law-debris-kessler",
+          "section": "케슬러 증후군은 어느 날의 폭발이 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "argument",
+      "title": "스타링크 대량 발사와 규제",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "space-assets-law-debris-kessler",
+          "section": "스타링크의 대량 발사와 미국 규제의 문제"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "argument",
+      "title": "기업과 국가의 우주자산 통제 갈등",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "space-assets-law-debris-kessler",
+          "section": "기업과 국가가 충돌한다면"
+        }
+      ]
+    }
+  ]
+}
