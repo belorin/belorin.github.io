@@ -33,3 +33,4 @@
   - 처형자의 개인사 복원과 순교자 기억의 한계 · `ing-20261026-luddite-history-executions`
 - **오래된 무료 공개 도서와 번역의 문제**
   - 프랭크 필과 사이크스의 오래된 공개 도서 및 번역 이용조건 · `ing-20261026-luddite-history-executions`
+  - 러다이트 공개 고서 TXT와 번역 공정의 직접 연결 · `ing-20261030-book-translation-pipeline`

@@ -28,4 +28,28 @@
 
 ## 장부에 기록된 반영 지식
 
-- 없음 (장부 도입 이전 원고이거나 아직 기록이 없다. 기록이 없다는 것은 내용이 없다는 뜻이 아니다.)
+- **OCR보다 먼저 확인할 것: 이미 읽을 수 있는 텍스트가 있는가**
+  - 텍스트 레이어·스캔 PDF·이미 OCR된 TXT의 분기 · `ing-20261030-book-translation-pipeline`
+- **여섯 공정은 각각 독립해야 한다**
+  - 입력 확보에서 검수까지의 여섯 공정과 실패 경계 · `ing-20261030-book-translation-pipeline`
+- **프랭크 필의 러다이트 역사서를 입력으로 삼는 방법**
+  - Internet Archive 러다이트 고서 TXT 전처리와 목차 오류 · `ing-20261030-book-translation-pipeline`
+- **번역 엔진을 바꾸는 것과 실행 환경을 바꾸는 것은 다르다**
+  - llama.cpp 실행기와 Llama 모델 계열의 구분 · `ing-20261030-book-translation-pipeline`
+  - Ollama 404와 모델 목록 조회·Qwen3 기본 선택 · `ing-20261030-book-translation-pipeline`
+- **M1·통합 메모리 16GB에서 무엇을 아껴야 하는가**
+  - M1 16GB에서 사고 모드·청크 길이·출력 토큰의 속도 문제 · `ing-20261030-book-translation-pipeline`
+- **진행률은 '시도 중'이 아니라 '디스크에 저장됨'을 기준으로 한다**
+  - progress.json 체크포인트와 Ctrl+C 재개 단위 · `ing-20261030-book-translation-pipeline`
+  - 분할 기준 변경과 진행 파일 재개의 불일치 위험 · `ing-20261030-book-translation-pipeline`
+- **노트북이 잠들 때와 번역이 멈출 때**
+  - Mac 잠자기 방지와 실행 중 Python 파일 변경 · `ing-20261030-book-translation-pipeline`
+- **HTML이 어긋난 진짜 이유: 빈 줄은 문단 ID가 아니다**
+  - 빈 줄 기준 문단 복원이 만든 병기 HTML의 전체 밀림 · `ing-20261030-book-translation-pipeline`
+  - SEG 태그 기준 문단 정렬과 누락 표지의 한계 · `ing-20261030-book-translation-pipeline`
+- **로컬 번역과 구글 번역 사이의 스위치**
+  - 구글 번역 공식 API와 로컬 엔진 스위치 구조의 차이 · `ing-20261030-book-translation-pipeline`
+- **무엇을 보면 완역본으로 믿을 수 있는가**
+  - 완역의 조건인 입력·문단·텍스트·판본 검수 · `ing-20261030-book-translation-pipeline`
+- **실행 예와 남겨진 개발 과제**
+  - 부분 HTML 뷰어와 TXT·Markdown 출력의 구현 범위 · `ing-20261030-book-translation-pipeline`

@@ -3,9 +3,9 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 834개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 852개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
-## 보류 항목 (6)
+## 보류 항목 (9)
 
 - 경제 시뮬레이션의 기존 전제·수치·학파별 논증 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 해당 원자료를 확인하지 못해 기존 논증의 복원과 완전 보존 여부를 판정할 수 없음. 새 공개 자료의 보충 분석으로 대체 완료 처리하지 않음.
 - 기존 종합·수정 원고의 상세 내용 대조 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 본문이 아닌 참조 표시만 확인되어 기존 원고의 세부와 현재 증보 사이의 중복·차이를 검수할 수 없음.
@@ -13,6 +13,9 @@
 - 금주 72영 전보 위조 일화의 원전 대조 → 반영 위치 없음 · `ing-20261026-qing-tributaries-telegraph` · pending — 2차 전기 서술만 접근 가능하여 해당 전보 실물·부대 명부의 진위를 확인하지 못함
 - 1868년 러시아 부설권 입찰과 동아시아 케이블사업의 실제 정산액 → 반영 위치 없음 · `ing-20261026-qing-tributaries-telegraph` · pending — 원본 공고·계약서·재무자료가 제공 범위에 없음
 - 류큐 처분 시점의 청·일 함정 전력과 원정 가능성 실측 → 반영 위치 없음 · `ing-20261026-qing-tributaries-telegraph` · pending — 선박·정비·항만·병력 이동 자료를 대조하지 못해 시기 혼합 위험을 표시함
+- Google Cloud Translation 백엔드의 실제 통합과 실행 검증 → 반영 위치 없음 · `ing-20261030-book-translation-pipeline` · pending — 스위치 코드가 제안됐으나 로컬 파일 반영 실패가 보고돼 기능의 실동작을 확인하지 못함
+- SEG 출력 검증·오류 청크 재요청과 전체 품질 시험 → 반영 위치 없음 · `ing-20261030-book-translation-pipeline` · pending — 태그 기준 복원은 표시된 파일에 반영됐으나 새 방식 전체 번역의 정렬 검수 및 자동 재시도는 확인되지 않음
+- 생성 번역본의 판형·PDF 출력과 배포 권리 검토 → 반영 위치 없음 · `ing-20261030-book-translation-pipeline` · pending — PDF 조판과 판본별 권리의 구체적 결론은 이 작업 범위에서 확인되지 않음
 
 ## AI와 사회 (162)
 
@@ -181,7 +184,7 @@
 - 추론 컴퓨트의 기술 효용과 경제적 소유의 차이 → `ai-compute-scaling-inference` § 컴퓨트를 소유하는 자와 빌리는 자: GPU 증설의 경제적 층위 · `ing-20261030-ai-labor-cloud-us-regions`
 - BPO와 미국 고용시장의 서로 다른 관측 단위 → `ai-economic-transition` § 현장에 보이는 노동시장을 어떻게 읽을 것인가 · `ing-20261030-ai-labor-cloud-us-regions`
 
-## 문화와 역사 (153)
+## 문화와 역사 (154)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -338,6 +341,7 @@
 - 1931·1933·1934·1971년 금본위 제도 변동의 구분 → `roman-industry-gold-standard-history` § 누가 먼저 금본위를 떠났는가: 세 연도의 차이 · `ing-20261030-money-credit-economic-history`
 - 대공황 주요국 금본위 이탈과 위기 대응의 차이 → `world-crisis-historical-analogies` § 1929년의 그림자: 신기술·자산·신용·관세 · `ing-20261030-money-credit-economic-history`
 - 경제사의 단선적 인과 서사와 검증 질문 → `roman-industry-gold-standard-history` § 세 문장으로 끝나는 역사와 복수의 인과 · `ing-20261030-money-credit-economic-history`
+- 러다이트 공개 고서 TXT와 번역 공정의 직접 연결 → `luddite-executions-memory` § 오래된 무료 공개 도서와 번역의 문제 · `ing-20261030-book-translation-pipeline`
 
 ## 음악 (105)
 
@@ -618,6 +622,57 @@
 - 원본 시각 미확인과 구현 여부의 보류 경계 → `gpt-wiki-zero-prototype` § 제0호기와 후속 누적형 지식백과의 차이 · `ing-20261026-gpt-wiki-zero-prototype`
 - 장기 기억 위키의 탐색·동기화·승인·공개 과제 → `gpt-wiki-zero-prototype` § 남겨진 설계 문제 · `ing-20261026-gpt-wiki-zero-prototype`
 
+## 기술·지식 아카이브 (46)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 이름 문자열 출현 기록과 동일인 추론의 분리 → `credit-observation-archive` § 이름 DB가 아니라 출현 기록 DB · `ing-20261025-credit-observation`
+- 작품·출처·이름 묶음·인물 후보의 데이터 구조 → `credit-observation-archive` § 여섯 개 층의 자료 모델 · `ing-20261025-credit-observation`
+- 2025년 도서 판권면의 날짜·역할·이름·ISBN 표본 → `credit-observation-archive` § 첫 표본: 『AI는 인간을 먹고 자란다』 판권면 · `ing-20261025-credit-observation`
+- 원문 역할과 매체별 표준 역할 분류의 차이 → `credit-observation-archive` § 원문 역할명과 표준 역할 분류 · `ing-20261025-credit-observation`
+- 제작 노동의 협업과 반복 출현의 분석 가능성 → `credit-observation-archive` § 출현의 역사로 물어볼 수 있는 질문 · `ing-20261025-credit-observation`
+- 책에서 영화·TV·공공기관으로 단계별 범위 확장 → `credit-observation-archive` § 출판에서 영화·TV·공공기관으로 확장하는 순서 · `ing-20261025-credit-observation`
+- 라즈베리파이 서버 MVP의 점진적 역할 분담 → `credit-observation-archive` § 라즈베리파이 서버에서 단계적으로 구현하기 · `ing-20261025-credit-observation`
+- 서점의 상품정보와 미리보기 이미지 수집의 차이 → `book-preview-credit-sourcing` § 책 페이지에서 구별해야 할 세 종류의 데이터 · `ing-20261025-credit-observation`
+- 국내외 서점·출판사·서지 자료원별 잠정 평가 → `book-preview-credit-sourcing` § 서비스와 자료원별 검토표 · `ing-20261025-credit-observation`
+- 도서 후보 발견과 판권면 원본 획득의 분리 → `book-preview-credit-sourcing` § 발견용 목록과 입수한 원본을 분리한다 · `ing-20261025-credit-observation`
+- 내부 이미지 OCR과 공개 크레딧 필드의 분리 → `book-preview-credit-sourcing` § 판권면 이미지와 크레딧 데이터는 공개 수준이 다르다 · `ing-20261025-credit-observation`
+- 로봇 배제 신호와 저작권 및 접근 제한의 구분 → `book-preview-credit-sourcing` § robots.txt와 저작물 이용권의 차이 · `ing-20261025-credit-observation`
+- 출판사 제공·제휴 가능성과 성사 여부의 구분 → `book-preview-credit-sourcing` § 출판사 제공과 협력 모델 · `ing-20261025-credit-observation`
+- 소규모 수집 실험의 성과 지표와 권한 검토 → `book-preview-credit-sourcing` § 소규모 실험의 평가 기준 · `ing-20261025-credit-observation`
+- 1871~1872년 나가사키 국제 전신망과 초기 국내망 병목 → `east-asia-telegraph-network-1880s` § 1871~1872년: 나가사키가 먼저 세계에 닿았다 · `ing-20261026-qing-tributaries-telegraph`
+- 1883년 이전 한성발 문서의 인편·선편·전기전신 결합 → `east-asia-telegraph-network-1880s` § 1880년 무렵: 한성에서 도쿄로 가는 문서의 여정 · `ing-20261026-qing-tributaries-telegraph`
+- 1883년 요부코·이키·쓰시마·부산 해저선 → `east-asia-telegraph-network-1880s` § 1883년 11월: 부산이 바닷속 전선에 연결되다 · `ing-20261026-qing-tributaries-telegraph`
+- 1885년 서로전선과 1888년 한성·부산 남로전선 → `east-asia-telegraph-network-1880s` § 1888년 이후: 한성에서 부산까지 전기가 이어진다 · `ing-20261026-qing-tributaries-telegraph`
+- 영문자 모스부호·한자 네 자리 전보코드 및 혼합문서 구별 → `east-asia-telegraph-network-1880s` § 영어와 한자가 섞인 전보는 어떤 모습이었을까 · `ing-20261026-qing-tributaries-telegraph`
+- 일본·청 전신로 경쟁과 통신 주권 → `east-asia-telegraph-network-1880s` § 전보 속도는 곧 외교적 선점의 속도였다 · `ing-20261026-qing-tributaries-telegraph`
+- 티에트겐 회사 설립과 러시아 시베리아망 동아시아 연결 → `great-northern-telegraph-east-asia` § 1막, 코펜하겐: 전신회사로 세계의 시간을 판다는 사업 구상 · `ing-20261026-qing-tributaries-telegraph`
+- 러시아 양허와 왕실 인맥의 사실·가설 구별 → `great-northern-telegraph-east-asia` § 러시아 황실로 통하는 인맥 · `ing-20261026-qing-tributaries-telegraph`
+- 1870년 영국 전신회사 수익 분배 합의 → `great-northern-telegraph-east-asia` § 영국 경쟁사: 다투다가 합의한 국제 인프라의 규칙 · `ing-20261026-qing-tributaries-telegraph`
+- 일본 육양 허가와 덴마크 교섭 → `great-northern-telegraph-east-asia` § 3막, 도쿄와 청의 항구: 전선의 마지막 100m가 가장 정치적이다 · `ing-20261026-qing-tributaries-telegraph`
+- 해저선 케이블선과 토르덴스키올 원정 역할 → `great-northern-telegraph-east-asia` § 어떤 배가 전선을 놓았나 · `ing-20261026-qing-tributaries-telegraph`
+- 구리·구타페르카·철선 외장·장력 제어 → `great-northern-telegraph-east-asia` § 케이블의 내부: 얇은 신호와 두꺼운 보호 · `ing-20261026-qing-tributaries-telegraph`
+- 나가사키·상하이·블라디보스토크·홍콩 거리 비교 → `great-northern-telegraph-east-asia` § 길이는 얼마나 되었나 · `ing-20261026-qing-tributaries-telegraph`
+- 나가사키 고가쿠라 육양고·전신주·벨뷰 호텔 → `great-northern-telegraph-east-asia` § 5막, 나가사키: 호텔방 하나가 세계와 이어지다 · `ing-20261026-qing-tributaries-telegraph`
+- 양쯔강 항구 닻과 케이블 절연 문제 → `great-northern-telegraph-east-asia` § 6막, 상하이와 양쯔강: 닻 하나가 수백 해리의 수고를 끊는다 · `ing-20261026-qing-tributaries-telegraph`
+- 1871년 상하이선 및 1872년 블라디보스토크선 개통 연표 → `great-northern-telegraph-east-asia` § 7막, 개통: 1871년 여름의 첫 서비스와 1872년의 두 번째 문 · `ing-20261026-qing-tributaries-telegraph`
+- 1883년 부산선 조약과 통신 독점 성격 → `great-northern-telegraph-east-asia` § 8막, 1883년: 회사는 왜 조선까지 왔나 · `ing-20261026-qing-tributaries-telegraph`
+- 해저케이블 비용 비교와 실제 사업비 추산의 한계 → `great-northern-telegraph-east-asia` § 에필로그: 회사의 프로젝트를 어떻게 평가할 것인가 · `ing-20261026-qing-tributaries-telegraph`
+- 텍스트 레이어·스캔 PDF·이미 OCR된 TXT의 분기 → `book-translation-pipeline-local-llm` § OCR보다 먼저 확인할 것: 이미 읽을 수 있는 텍스트가 있는가 · `ing-20261030-book-translation-pipeline`
+- 입력 확보에서 검수까지의 여섯 공정과 실패 경계 → `book-translation-pipeline-local-llm` § 여섯 공정은 각각 독립해야 한다 · `ing-20261030-book-translation-pipeline`
+- Internet Archive 러다이트 고서 TXT 전처리와 목차 오류 → `book-translation-pipeline-local-llm` § 프랭크 필의 러다이트 역사서를 입력으로 삼는 방법 · `ing-20261030-book-translation-pipeline`
+- llama.cpp 실행기와 Llama 모델 계열의 구분 → `book-translation-pipeline-local-llm` § 번역 엔진을 바꾸는 것과 실행 환경을 바꾸는 것은 다르다 · `ing-20261030-book-translation-pipeline`
+- Ollama 404와 모델 목록 조회·Qwen3 기본 선택 → `book-translation-pipeline-local-llm` § 번역 엔진을 바꾸는 것과 실행 환경을 바꾸는 것은 다르다 · `ing-20261030-book-translation-pipeline`
+- M1 16GB에서 사고 모드·청크 길이·출력 토큰의 속도 문제 → `book-translation-pipeline-local-llm` § M1·통합 메모리 16GB에서 무엇을 아껴야 하는가 · `ing-20261030-book-translation-pipeline`
+- progress.json 체크포인트와 Ctrl+C 재개 단위 → `book-translation-pipeline-local-llm` § 진행률은 '시도 중'이 아니라 '디스크에 저장됨'을 기준으로 한다 · `ing-20261030-book-translation-pipeline`
+- 분할 기준 변경과 진행 파일 재개의 불일치 위험 → `book-translation-pipeline-local-llm` § 진행률은 '시도 중'이 아니라 '디스크에 저장됨'을 기준으로 한다 · `ing-20261030-book-translation-pipeline`
+- Mac 잠자기 방지와 실행 중 Python 파일 변경 → `book-translation-pipeline-local-llm` § 노트북이 잠들 때와 번역이 멈출 때 · `ing-20261030-book-translation-pipeline`
+- 빈 줄 기준 문단 복원이 만든 병기 HTML의 전체 밀림 → `book-translation-pipeline-local-llm` § HTML이 어긋난 진짜 이유: 빈 줄은 문단 ID가 아니다 · `ing-20261030-book-translation-pipeline`
+- SEG 태그 기준 문단 정렬과 누락 표지의 한계 → `book-translation-pipeline-local-llm` § HTML이 어긋난 진짜 이유: 빈 줄은 문단 ID가 아니다 · `ing-20261030-book-translation-pipeline`
+- 구글 번역 공식 API와 로컬 엔진 스위치 구조의 차이 → `book-translation-pipeline-local-llm` § 로컬 번역과 구글 번역 사이의 스위치 · `ing-20261030-book-translation-pipeline`
+- 완역의 조건인 입력·문단·텍스트·판본 검수 → `book-translation-pipeline-local-llm` § 무엇을 보면 완역본으로 믿을 수 있는가 · `ing-20261030-book-translation-pipeline`
+- 부분 HTML 뷰어와 TXT·Markdown 출력의 구현 범위 → `book-translation-pipeline-local-llm` § 실행 예와 남겨진 개발 과제 · `ing-20261030-book-translation-pipeline`
+
 ## 철학 (45)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -667,43 +722,6 @@
 - 꿈의 해석과 성욕 이론의 두 권 선택 → `freud-before-anti-oedipus` § 두 권이라면 『꿈의 해석』과 『성욕에 관한 세 편의 에세이』 · `ing-20261025-deleuze-intensity-hegel-freud`
 - 프로이트 비판 대상의 단순화 방지 → `freud-before-anti-oedipus` § 『안티 오이디푸스』의 비판 대상을 지나치게 단순화하지 않기 · `ing-20261025-deleuze-intensity-hegel-freud`
 - 프로이트 입문서와 라캉 입문서의 목적 차이 → `freud-before-anti-oedipus` § 1972년을 위한 라캉 독서: 프로이트 원전을 대신하는 것이 아니다 · `ing-20261026-dreams-lacan-philosophy-power`
-
-## 기술·지식 아카이브 (32)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 이름 문자열 출현 기록과 동일인 추론의 분리 → `credit-observation-archive` § 이름 DB가 아니라 출현 기록 DB · `ing-20261025-credit-observation`
-- 작품·출처·이름 묶음·인물 후보의 데이터 구조 → `credit-observation-archive` § 여섯 개 층의 자료 모델 · `ing-20261025-credit-observation`
-- 2025년 도서 판권면의 날짜·역할·이름·ISBN 표본 → `credit-observation-archive` § 첫 표본: 『AI는 인간을 먹고 자란다』 판권면 · `ing-20261025-credit-observation`
-- 원문 역할과 매체별 표준 역할 분류의 차이 → `credit-observation-archive` § 원문 역할명과 표준 역할 분류 · `ing-20261025-credit-observation`
-- 제작 노동의 협업과 반복 출현의 분석 가능성 → `credit-observation-archive` § 출현의 역사로 물어볼 수 있는 질문 · `ing-20261025-credit-observation`
-- 책에서 영화·TV·공공기관으로 단계별 범위 확장 → `credit-observation-archive` § 출판에서 영화·TV·공공기관으로 확장하는 순서 · `ing-20261025-credit-observation`
-- 라즈베리파이 서버 MVP의 점진적 역할 분담 → `credit-observation-archive` § 라즈베리파이 서버에서 단계적으로 구현하기 · `ing-20261025-credit-observation`
-- 서점의 상품정보와 미리보기 이미지 수집의 차이 → `book-preview-credit-sourcing` § 책 페이지에서 구별해야 할 세 종류의 데이터 · `ing-20261025-credit-observation`
-- 국내외 서점·출판사·서지 자료원별 잠정 평가 → `book-preview-credit-sourcing` § 서비스와 자료원별 검토표 · `ing-20261025-credit-observation`
-- 도서 후보 발견과 판권면 원본 획득의 분리 → `book-preview-credit-sourcing` § 발견용 목록과 입수한 원본을 분리한다 · `ing-20261025-credit-observation`
-- 내부 이미지 OCR과 공개 크레딧 필드의 분리 → `book-preview-credit-sourcing` § 판권면 이미지와 크레딧 데이터는 공개 수준이 다르다 · `ing-20261025-credit-observation`
-- 로봇 배제 신호와 저작권 및 접근 제한의 구분 → `book-preview-credit-sourcing` § robots.txt와 저작물 이용권의 차이 · `ing-20261025-credit-observation`
-- 출판사 제공·제휴 가능성과 성사 여부의 구분 → `book-preview-credit-sourcing` § 출판사 제공과 협력 모델 · `ing-20261025-credit-observation`
-- 소규모 수집 실험의 성과 지표와 권한 검토 → `book-preview-credit-sourcing` § 소규모 실험의 평가 기준 · `ing-20261025-credit-observation`
-- 1871~1872년 나가사키 국제 전신망과 초기 국내망 병목 → `east-asia-telegraph-network-1880s` § 1871~1872년: 나가사키가 먼저 세계에 닿았다 · `ing-20261026-qing-tributaries-telegraph`
-- 1883년 이전 한성발 문서의 인편·선편·전기전신 결합 → `east-asia-telegraph-network-1880s` § 1880년 무렵: 한성에서 도쿄로 가는 문서의 여정 · `ing-20261026-qing-tributaries-telegraph`
-- 1883년 요부코·이키·쓰시마·부산 해저선 → `east-asia-telegraph-network-1880s` § 1883년 11월: 부산이 바닷속 전선에 연결되다 · `ing-20261026-qing-tributaries-telegraph`
-- 1885년 서로전선과 1888년 한성·부산 남로전선 → `east-asia-telegraph-network-1880s` § 1888년 이후: 한성에서 부산까지 전기가 이어진다 · `ing-20261026-qing-tributaries-telegraph`
-- 영문자 모스부호·한자 네 자리 전보코드 및 혼합문서 구별 → `east-asia-telegraph-network-1880s` § 영어와 한자가 섞인 전보는 어떤 모습이었을까 · `ing-20261026-qing-tributaries-telegraph`
-- 일본·청 전신로 경쟁과 통신 주권 → `east-asia-telegraph-network-1880s` § 전보 속도는 곧 외교적 선점의 속도였다 · `ing-20261026-qing-tributaries-telegraph`
-- 티에트겐 회사 설립과 러시아 시베리아망 동아시아 연결 → `great-northern-telegraph-east-asia` § 1막, 코펜하겐: 전신회사로 세계의 시간을 판다는 사업 구상 · `ing-20261026-qing-tributaries-telegraph`
-- 러시아 양허와 왕실 인맥의 사실·가설 구별 → `great-northern-telegraph-east-asia` § 러시아 황실로 통하는 인맥 · `ing-20261026-qing-tributaries-telegraph`
-- 1870년 영국 전신회사 수익 분배 합의 → `great-northern-telegraph-east-asia` § 영국 경쟁사: 다투다가 합의한 국제 인프라의 규칙 · `ing-20261026-qing-tributaries-telegraph`
-- 일본 육양 허가와 덴마크 교섭 → `great-northern-telegraph-east-asia` § 3막, 도쿄와 청의 항구: 전선의 마지막 100m가 가장 정치적이다 · `ing-20261026-qing-tributaries-telegraph`
-- 해저선 케이블선과 토르덴스키올 원정 역할 → `great-northern-telegraph-east-asia` § 어떤 배가 전선을 놓았나 · `ing-20261026-qing-tributaries-telegraph`
-- 구리·구타페르카·철선 외장·장력 제어 → `great-northern-telegraph-east-asia` § 케이블의 내부: 얇은 신호와 두꺼운 보호 · `ing-20261026-qing-tributaries-telegraph`
-- 나가사키·상하이·블라디보스토크·홍콩 거리 비교 → `great-northern-telegraph-east-asia` § 길이는 얼마나 되었나 · `ing-20261026-qing-tributaries-telegraph`
-- 나가사키 고가쿠라 육양고·전신주·벨뷰 호텔 → `great-northern-telegraph-east-asia` § 5막, 나가사키: 호텔방 하나가 세계와 이어지다 · `ing-20261026-qing-tributaries-telegraph`
-- 양쯔강 항구 닻과 케이블 절연 문제 → `great-northern-telegraph-east-asia` § 6막, 상하이와 양쯔강: 닻 하나가 수백 해리의 수고를 끊는다 · `ing-20261026-qing-tributaries-telegraph`
-- 1871년 상하이선 및 1872년 블라디보스토크선 개통 연표 → `great-northern-telegraph-east-asia` § 7막, 개통: 1871년 여름의 첫 서비스와 1872년의 두 번째 문 · `ing-20261026-qing-tributaries-telegraph`
-- 1883년 부산선 조약과 통신 독점 성격 → `great-northern-telegraph-east-asia` § 8막, 1883년: 회사는 왜 조선까지 왔나 · `ing-20261026-qing-tributaries-telegraph`
-- 해저케이블 비용 비교와 실제 사업비 추산의 한계 → `great-northern-telegraph-east-asia` § 에필로그: 회사의 프로젝트를 어떻게 평가할 것인가 · `ing-20261026-qing-tributaries-telegraph`
 
 ## 철학·사상사 (27)
 
