@@ -3239,7 +3239,8 @@
       "source": "내부 총합·외부 미검증",
       "related": [
         "credit-observation-archive",
-        "korea-personal-data-lifecycle"
+        "korea-personal-data-lifecycle",
+        "book-translation-pipeline-local-llm"
       ],
       "aliases": [
         "미리보기 크롤링",
@@ -3961,7 +3962,8 @@
       ],
       "source": "내부 총합 · 대화에 제시된 자료만 반영 · 외부 추가 조사 없음",
       "related": [
-        "luddite-movement-history"
+        "luddite-movement-history",
+        "book-translation-pipeline-local-llm"
       ],
       "aliases": [
         "러다이트 처형자",
@@ -4743,6 +4745,40 @@
       "aliases": [
         "미국 2026 실업률 지역별",
         "미국 주별 고용률"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-30"
+    },
+    {
+      "path": "wiki/book-translation-pipeline-local-llm.md",
+      "publish": true,
+      "order": 147,
+      "id": "book-translation-pipeline-local-llm",
+      "title": "오래된 영어책 한 권을 끝까지 번역하려면: 텍스트 추출, 로컬 모델, 재개와 대조 뷰어",
+      "category": "기술·지식 아카이브",
+      "status": "로컬 번역 파이프라인의 구현·실패 분석과 미완 과제",
+      "updated": "2026-10-30",
+      "summary": "Internet Archive 고서 TXT를 OCR 없이 처리하고 Ollama·Qwen3로 문단별 번역·체크포인트·HTML 대조본을 만드는 과정, SEG 태그 정렬, M1 16GB 속도·잠자기 문제, Google Cloud 번역 전환의 미검증 경계를 기록한다.",
+      "tags": [
+        "고서 번역",
+        "Ollama",
+        "Qwen3",
+        "OCR",
+        "Google Cloud Translation",
+        "중단 재개",
+        "문단 정렬",
+        "HTML 뷰어"
+      ],
+      "source": "내부 총합 · 외부 신규 조사 없음 · 로컬 코드 관찰 및 미검증 항목 구분",
+      "related": [
+        "luddite-executions-memory",
+        "book-preview-credit-sourcing"
+      ],
+      "aliases": [
+        "로컬 책 번역",
+        "영어 고서 자동 번역",
+        "Ollama 번역 파이프라인",
+        "원문 번역 병기 뷰어"
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-30"
