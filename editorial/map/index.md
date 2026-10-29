@@ -4,7 +4,7 @@
 > 사용 순서: ① 채팅에서 추출한 지식 항목마다 제목·별칭으로 후보를 찾는다 → ② 후보의 문서 카드 `editorial/map/docs/<id>.md`에서 절 목차와 장부 기록을 본다 → ③ 해당 절 본문을 읽고 대조한다. 전문으로 넓히는 조건은 WIKI_PROTOCOL §4를 따른다.
 > 지도와 카드는 후보를 찾는 도구일 뿐이다. 중복·반영 여부는 원고 본문을 읽고 판정한다.
 
-원고 147개 (미게시 3, 소설 1편 포함) · 종합 2편 · 절 1,585개 · 장부 지식 항목 801개
+원고 147개 (미게시 3, 소설 1편 포함) · 종합 2편 · 절 1,585개 · 장부 지식 항목 834개
 
 특정 논점이 이미 처리되었는지는 [지식 표제 역색인](knowledge.md)에서 낱말로 **검색**한다(통째로 읽지 않는다). 장부가 없는 원고는 문서 카드의 절 목차로 찾는다.
 
@@ -69,9 +69,9 @@
 - `iran-war-us-force-losses-2026` 2026년 이란전의 미군 증원과 항공기 손실: 무엇이 확인되고 무엇이 남았는가 · 7절 · 3.6천 자 · 장부 1건
 - `birth-order-korean-evidence` 출생순서가 성격을 만드는가: 한국 연구와 국제 비교의 증거 — 출생순위 이론, 맏이 성격 연구 · 9절 · 4.5천 자 · 장부 3건
 - `wto-digital-transmission-moratorium` 디지털 국경에도 관세가 생기는가: WTO 전자적 전송 모라토리엄과 AI 인터넷 — WTO 전자상거래 모라토리엄, 전자적 전송 관세 유예, 디지털 관세와 AI, 디지털 무역 모라토리엄, WTO e-commerce moratorium · 9절 · 10.3천 자 · 장부 15건
-- `silicon-valley-firm-geography` 실리콘밸리는 한 동네가 아니다: 기업 본사와 교외형 기술 회랑의 지리 — 실리콘밸리 기업 지도, Silicon Valley 기업 위치 · 5절 · 3.5천 자 · 장부 없음
-- `global-bpo-labor-geography` 세계 BPO 시장의 지리: 누가 사무 노동을 수출하고, 누가 값을 지불하는가 — 세계 BPO 시장, BPO 국가별 가격 노동복지 · 11절 · 7.0천 자 · 장부 없음
-- `us-labor-market-geography-2026` 미국 노동시장을 지역으로 읽기: 취업률·실업률·주별 격차와 2026년의 둔화 — 미국 2026 실업률 지역별, 미국 주별 고용률 · 8절 · 5.1천 자 · 장부 없음
+- `silicon-valley-firm-geography` 실리콘밸리는 한 동네가 아니다: 기업 본사와 교외형 기술 회랑의 지리 — 실리콘밸리 기업 지도, Silicon Valley 기업 위치 · 5절 · 3.5천 자 · 장부 4건
+- `global-bpo-labor-geography` 세계 BPO 시장의 지리: 누가 사무 노동을 수출하고, 누가 값을 지불하는가 — 세계 BPO 시장, BPO 국가별 가격 노동복지 · 11절 · 7.0천 자 · 장부 5건
+- `us-labor-market-geography-2026` 미국 노동시장을 지역으로 읽기: 취업률·실업률·주별 격차와 2026년의 둔화 — 미국 2026 실업률 지역별, 미국 주별 고용률 · 8절 · 5.1천 자 · 장부 6건
 
 ## 문화와 역사 (21)
 
@@ -108,18 +108,18 @@
 - `conversational-ai-persuasion` 대화형 AI의 설득력과 민주주의: 마이크로타기팅 이후의 증거와 비가시성 — AI 설득과 민주주의, 대화형 AI 설득 · 10절 · 6.2천 자 · 장부 9건
 - `ai-conversation-data-access` AI 대화 데이터와 접근권: 연구·감사·감시를 가르는 비대칭 — AI 대화 데이터 접근권, 대화 데이터 감시 · 12절 · 5.5천 자 · 장부 11건
 - `ai-democracy-narrow-corridor` AI와 민주주의의 좁은 회랑: 국가·시민사회·데이터 비대칭의 수리모형 — AI와 민주주의, Why does AI hinder democratization, 민주주의 좁은 회랑 · 13절 · 4.8천 자 · 장부 8건
-- `ai-economic-transition` AI 경제 이행기: 과업·수요·혁신·소유를 둘러싼 경제학의 질문 — AI 경제 이행기, AI 경제학파 비교 · 14절 · 9.4천 자 · 장부 10건
-- `ai-capital-labor-distribution` AI 시대의 자본·노동·분배: 소유와 협상력은 어떻게 재편되는가 — AI와 자본 노동, AI 시대의 분배 · 16절 · 12.4천 자 · 장부 13건
+- `ai-economic-transition` AI 경제 이행기: 과업·수요·혁신·소유를 둘러싼 경제학의 질문 — AI 경제 이행기, AI 경제학파 비교 · 14절 · 9.4천 자 · 장부 11건
+- `ai-capital-labor-distribution` AI 시대의 자본·노동·분배: 소유와 협상력은 어떻게 재편되는가 — AI와 자본 노동, AI 시대의 분배 · 16절 · 12.4천 자 · 장부 14건
 - `ai-class-fiction` AI 시대의 계급 서사: 자동화된 집과 들어갈 수 없는 삶 — AI 계층 시나리오, AI 시대 기생충 사고실험 · 9절 · 8.8천 자 · 장부 9건
 - `ai-domination-gradient` AI 지배는 이미 시작되었는가: 사건이 아니라 농도로 보는 통제 — AI 지배의 농도, 매끄러운 지배, AI 인지 인프라, AI 지배는 이미 시작되었다 · 22절 · 11.9천 자 · 장부 15건
 - `hank-asher-data-fusion-ai` 행크 애셔에서 팔란티어까지: 데이터 융합이 AI의 판단 인프라가 되기까지 — 행크 쇼와 AI, Hank Asher, 행크 애셔, 팔란티어와 데이터 융합 · 12절 · 6.5천 자 · 장부 10건
 - `korea-personal-data-lifecycle` 한국 개인정보의 생애: 수집·결합·유출·재사용의 경로 — 한국 개인정보 유통, 개인정보의 생애, 개인정보 유출 이후, 한국 데이터 브로커 · 25절 · 11.0천 자 · 장부 21건
-- `ai-compute-scaling-inference` AI는 계산이 많아지면 무엇이 달라지는가: 데이터센터와 추론 스케일링 — AI 데이터센터와 추론, test-time scaling, 추론 컴퓨트, AI 계산 스케일링 · 11절 · 7.5천 자 · 장부 8건
+- `ai-compute-scaling-inference` AI는 계산이 많아지면 무엇이 달라지는가: 데이터센터와 추론 스케일링 — AI 데이터센터와 추론, test-time scaling, 추론 컴퓨트, AI 계산 스케일링 · 11절 · 7.5천 자 · 장부 9건
 - `japan-physical-ai-skill-transfer` 사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승 — 일본 피지컬 AI, 손지능, 숙련 전승 로봇, Physical AI Japan · 12절 · 7.8천 자 · 장부 11건
 - `ai-transition-policy-gap` AI 이행기의 정책 공백: 재교육이 해결하지 못하는 구조적 노동 대체 — AI 재교육의 한계, AI 이행기 정책 실패, 국제기구와 AI 경제 · 7절 · 4.9천 자 · 장부 6건
 - `starcraft-pluto-ai` Pluto AI와 인간의 스타크래프트: 자가대전이 만든 다른 메타 — Pluto AI, 플루토 AI, 스타크래프트 플루토, tscmoo Pluto · 21절 · 10.3천 자 · 장부 17건
-- `ai-hidden-labor-feeding-machine-2026` 『AI는 인간을 먹고 자란다』 이후: 보이지 않는 노동은 사라졌는가, 분화했는가 — AI는 인간을 먹고 자란다 이후, Feeding the Machine 2026 · 10절 · 6.7천 자 · 장부 없음
-- `ai-cloud-ownership-rent` AI 모델 기업과 클라우드 기업: 지분, 컴퓨트 계약, 지대의 세 층 — AI 모델 회사 클라우드 지분, AI 클라우드 지대경제 · 11절 · 8.1천 자 · 장부 없음
+- `ai-hidden-labor-feeding-machine-2026` 『AI는 인간을 먹고 자란다』 이후: 보이지 않는 노동은 사라졌는가, 분화했는가 — AI는 인간을 먹고 자란다 이후, Feeding the Machine 2026 · 10절 · 6.7천 자 · 장부 8건
+- `ai-cloud-ownership-rent` AI 모델 기업과 클라우드 기업: 지분, 컴퓨트 계약, 지대의 세 층 — AI 모델 회사 클라우드 지분, AI 클라우드 지대경제 · 11절 · 8.1천 자 · 장부 7건
 
 ## 철학 (11)
 
