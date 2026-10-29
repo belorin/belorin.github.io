@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 486,
+  "edge_count": 510,
   "edges": [
     {
       "from": "living-notes",
@@ -1374,6 +1374,24 @@
       "basis": "manifest.related"
     },
     {
+      "from": "ai-economic-transition",
+      "to": "global-bpo-labor-geography",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-economic-transition",
+      "to": "us-labor-market-geography-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-economic-transition",
+      "to": "ai-hidden-labor-feeding-machine-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "ai-capital-labor-distribution",
       "to": "ai-economic-transition",
       "type": "related_to",
@@ -1406,6 +1424,24 @@
     {
       "from": "ai-capital-labor-distribution",
       "to": "ai-transition-policy-gap",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-capital-labor-distribution",
+      "to": "ai-cloud-ownership-rent",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-capital-labor-distribution",
+      "to": "global-bpo-labor-geography",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-capital-labor-distribution",
+      "to": "ai-hidden-labor-feeding-machine-2026",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1874,6 +1910,18 @@
     {
       "from": "ai-compute-scaling-inference",
       "to": "wto-digital-transmission-moratorium",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-compute-scaling-inference",
+      "to": "ai-cloud-ownership-rent",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-compute-scaling-inference",
+      "to": "ai-hidden-labor-feeding-machine-2026",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2684,6 +2732,102 @@
     {
       "from": "roman-industry-gold-standard-history",
       "to": "world-crisis-historical-analogies",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "silicon-valley-firm-geography",
+      "to": "ai-cloud-ownership-rent",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "silicon-valley-firm-geography",
+      "to": "us-labor-market-geography-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-hidden-labor-feeding-machine-2026",
+      "to": "global-bpo-labor-geography",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-hidden-labor-feeding-machine-2026",
+      "to": "ai-cloud-ownership-rent",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-hidden-labor-feeding-machine-2026",
+      "to": "ai-compute-scaling-inference",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-hidden-labor-feeding-machine-2026",
+      "to": "ai-economic-transition",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "global-bpo-labor-geography",
+      "to": "ai-hidden-labor-feeding-machine-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "global-bpo-labor-geography",
+      "to": "ai-economic-transition",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "global-bpo-labor-geography",
+      "to": "us-labor-market-geography-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-cloud-ownership-rent",
+      "to": "ai-capital-labor-distribution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-cloud-ownership-rent",
+      "to": "ai-compute-scaling-inference",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-cloud-ownership-rent",
+      "to": "silicon-valley-firm-geography",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-cloud-ownership-rent",
+      "to": "ai-hidden-labor-feeding-machine-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "us-labor-market-geography-2026",
+      "to": "ai-economic-transition",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "us-labor-market-geography-2026",
+      "to": "global-bpo-labor-geography",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "us-labor-market-geography-2026",
+      "to": "silicon-valley-firm-geography",
       "type": "related_to",
       "basis": "manifest.related"
     },

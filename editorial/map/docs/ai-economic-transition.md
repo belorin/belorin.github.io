@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `ai-economic-transition` · 분류: AI와 사회 · 공개 · 원고: [wiki/ai-economic-transition.md](../../../wiki/ai-economic-transition.md) · 8,650자 · 절 13개
+- id: `ai-economic-transition` · 분류: AI와 사회 · 공개 · 원고: [wiki/ai-economic-transition.md](../../../wiki/ai-economic-transition.md) · 9,389자 · 절 14개
 - 별칭: AI 경제 이행기, AI 경제학파 비교
 - 요약: 과업의 대체·복원, 유효수요, 혁신의 병목, 소유와 분배를 여섯 분석 틀로 비교하고 이행 경로와 정량 모형의 조건을 구별한다.
 - 태그: AI와 사회, 경제학, 기술적 실업, 경제학파, 이행기
-- 수정일: 2026-10-23 · 실제 증보일: 2026-10-23 · 검토: needs_review
-- 관련 문서: `ai-capital-labor-distribution`, `ai-class-fiction`, `gradual-disempowerment`, `ai-human-control-guide`, `open-questions`, `ai-transition-policy-gap`
+- 수정일: 2026-10-30 · 실제 증보일: 2026-10-30 · 검토: needs_review
+- 관련 문서: `ai-capital-labor-distribution`, `ai-class-fiction`, `gradual-disempowerment`, `ai-human-control-guide`, `open-questions`, `ai-transition-policy-gap`, `global-bpo-labor-geography`, `us-labor-market-geography-2026`, `ai-hidden-labor-feeding-machine-2026`
 
 ## 절 목차
 
@@ -26,7 +26,8 @@
   - 대체가 이동과 분배를 앞지르는 경로 · L79–81 · 160자 · `1fd5bc18` — 기업이 기존 업무를 줄이는 속도가 신규 채용과 숙련 전환보다 빠르다.
   - 소득은 유지되지만 통제력이 집중되는 경로 · L83–85 · 182자 · `3d35de4d` — 이전소득이나 자산소득으로 생활수준은 유지되지만 핵심 생산 설비와 서비스 공급자, 조직의 의사결정이 소수에게 집중될 수 있다.
 - 시뮬레이션을 실제 연구로 만들기 위한 조건 · L87–93 · 728자 · `c77a3dc8` — 정량 모형은 자동화 가능한 과업의 비율, 실제 도입률, 비용 절감, 가격과 수요의 반응, 새로운 과업의 출현, 직업 이동 속도, 과세와 이전의 규칙을 명시해야 한다.
-- 근거와 검증 상태 · L95–99 · 452자 · `5c034c07` — 과업 노출은 ILO의 2025년 연구, 과업의 대체와 복원은 2019년 연구, 거시효과의 제한은 2024년 연구 초록을 근거로 삼았다.
+- 현장에 보이는 노동시장을 어떻게 읽을 것인가 · L95–101 · 708자 · `305bcdba` — AI의 고용 효과를 논할 때 전통 BPO 공급국과 미국의 주별 고용시장은 서로 다른 관측 규모를 제공한다.
+- 근거와 검증 상태 · L103–107 · 452자 · `5c034c07` — 과업 노출은 ILO의 2025년 연구, 과업의 대체와 복원은 2019년 연구, 거시효과의 제한은 2024년 연구 초록을 근거로 삼았다.
 
 ## 장부에 기록된 반영 지식
 

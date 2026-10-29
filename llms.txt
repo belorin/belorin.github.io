@@ -92,6 +92,8 @@
 - [사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승](https://belorin.github.io/notes/japan-physical-ai-skill-transfer/): 가와사키 Successor와 Honda 다지 핸드부터 Toyota·Yaskawa·FANUC·AIST까지, 일본이 숙련자의 손동작·힘 조절을 로봇 학습 데이터로 옮기려는 흐름을 정리한다.
 - [AI 이행기의 정책 공백: 재교육이 해결하지 못하는 구조적 노동 대체](https://belorin.github.io/notes/ai-transition-policy-gap/): 국제기구가 위험을 인식해도 대응하지 못하는 조건, 재교육의 거시적 한계, 자동화·재정·조세·정치의 시차를 분석한다.
 - [Pluto AI와 인간의 스타크래프트: 자가대전이 만든 다른 메타](https://belorin.github.io/notes/starcraft-pluto-ai/): Pluto의 개발자와 구조, 자가대전 강화학습, 한국 프로 대인전, API 조작 우위와 인간 메타의 충돌, 드롭·치즈 등 취약점과 인간의 적응, 개발자의 공개 반응 경계를 총합한다.
+- [『AI는 인간을 먹고 자란다』 이후: 보이지 않는 노동은 사라졌는가, 분화했는가](https://belorin.github.io/notes/ai-hidden-labor-feeding-machine-2026/): 2024년 원서와 2025년 한국어판을 기준으로 LLM 데이터 평가·합성데이터·전문가·검수·물류·창작·데이터센터 노동 변화를 대조
+- [AI 모델 기업과 클라우드 기업: 지분, 컴퓨트 계약, 지대의 세 층](https://belorin.github.io/notes/ai-cloud-ownership-rent/): OpenAI·Anthropic 등 모델사와 Azure·AWS·Google·Oracle·AI 클라우드의 지분·GPU 계약·수익 배분 및 인프라 병목
 
 ### 철학
 
@@ -161,6 +163,9 @@
 - [2026년 이란전의 미군 증원과 항공기 손실: 무엇이 확인되고 무엇이 남았는가](https://belorin.github.io/notes/iran-war-us-force-losses-2026/): 중동 미군 증원과 기지 공격, F-15E·A-10 손실 보도, 승무원 구조, 휴전과 재개전
 - [출생순서가 성격을 만드는가: 한국 연구와 국제 비교의 증거](https://belorin.github.io/notes/birth-order-korean-evidence/): 출생순서 성격론의 재현성, 인지·학업의 작은 평균 차이, 한국의 부모화·차별적 양육 연구, 국제 비교의 한계를 구분한다.
 - [디지털 국경에도 관세가 생기는가: WTO 전자적 전송 모라토리엄과 AI 인터넷](https://belorin.github.io/notes/wto-digital-transmission-moratorium/): 1998년 WTO 전자적 전송 관세 유예의 반복 갱신과 2026년 MC14 연장 실패 보도, 브라질·인도의 입장, 망 이용대가와의 구별, AI 모델·클라우드·데이터센터의 국경 간 영향과 불확실성을 분리한다.
+- [실리콘밸리는 한 동네가 아니다: 기업 본사와 교외형 기술 회랑의 지리](https://belorin.github.io/notes/silicon-valley-firm-geography/): 실리콘밸리 대표 기업이 Menlo Park에서 San Jose까지 분포하는 교외형 회랑과 지도·주소·산업 집적의 차이
+- [세계 BPO 시장의 지리: 누가 사무 노동을 수출하고, 누가 값을 지불하는가](https://belorin.github.io/notes/global-bpo-labor-geography/): 인도·필리핀·유럽·라틴아메리카·아프리카 BPO 공급국, 업종, 수출·고용·청구단가와 노동권 비교의 통계적 함정
+- [미국 노동시장을 지역으로 읽기: 취업률·실업률·주별 격차와 2026년의 둔화](https://belorin.github.io/notes/us-labor-market-geography-2026/): 2026년 봄 BLS 전국 고용률·실업률·U-6, 남부·중서부·동북부·서부 권역과 주요 주별 격차를 시점별로 구분
 
 ### 영화
 

@@ -169,10 +169,10 @@
 - **[AI와 민주주의의 좁은 회랑: 국가·시민사회·데이터 비대칭의 수리모형](wiki/ai-democracy-narrow-corridor.md)** · 별칭: AI와 민주주의, Why does AI hinder democratization, 민주주의 좁은 회랑 · 수정: 2026-10-23 · 검토: 논문 해설·수리모형 세부 재대조 필요
   - AI가 국가와 시민사회에 비대칭적으로 결합할 때 민주주의의 유지 영역이 좁아지는 조건부 수리모형, 164개국 디지털 능력 자료, 플랫폼·개인화로의 확장을 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-democracy-narrow-corridor/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-democracy-narrow-corridor.md)
-- **[AI 경제 이행기: 과업·수요·혁신·소유를 둘러싼 경제학의 질문](wiki/ai-economic-transition.md)** · 별칭: AI 경제 이행기, AI 경제학파 비교 · 수정: 2026-10-23 · 검토: 공개 연구 보완·조건부 분석
+- **[AI 경제 이행기: 과업·수요·혁신·소유를 둘러싼 경제학의 질문](wiki/ai-economic-transition.md)** · 별칭: AI 경제 이행기, AI 경제학파 비교 · 수정: 2026-10-30 · 검토: 공개 연구 보완·조건부 분석
   - 과업의 대체·복원, 유효수요, 혁신의 병목, 소유와 분배를 여섯 분석 틀로 비교하고 이행 경로와 정량 모형의 조건을 구별한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-economic-transition/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-economic-transition.md)
-- **[AI 시대의 자본·노동·분배: 소유와 협상력은 어떻게 재편되는가](wiki/ai-capital-labor-distribution.md)** · 별칭: AI와 자본 노동, AI 시대의 분배 · 수정: 2026-10-23 · 검토: 개념 분석·일부 자료 확인
+- **[AI 시대의 자본·노동·분배: 소유와 협상력은 어떻게 재편되는가](wiki/ai-capital-labor-distribution.md)** · 별칭: AI와 자본 노동, AI 시대의 분배 · 수정: 2026-10-30 · 검토: 개념 분석·일부 자료 확인
   - 자본 유형별 이해관계와 경영 자동화·소유권의 차이를 설명하고, 직업의 노출·채용 수요·숙련·교섭력을 조건별로 검토한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-capital-labor-distribution/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-capital-labor-distribution.md)
 - **[AI 시대의 계급 서사: 자동화된 집과 들어갈 수 없는 삶](wiki/ai-class-fiction.md)** · 별칭: AI 계층 시나리오, AI 시대 기생충 사고실험 · 수정: 2026-10-23 · 검토: 허구적 사고실험·인과 검토
@@ -199,6 +199,12 @@
 - **[Pluto AI와 인간의 스타크래프트: 자가대전이 만든 다른 메타](wiki/starcraft-pluto-ai.md)** · 별칭: Pluto AI, 플루토 AI, 스타크래프트 플루토, tscmoo Pluto · 수정: 2026-10-26 · 검토: 대화 기반 집필 · 경기 전적·개발자 발언·세부 수치 외부 재검증 필요
   - Pluto의 개발자와 구조, 자가대전 강화학습, 한국 프로 대인전, API 조작 우위와 인간 메타의 충돌, 드롭·치즈 등 취약점과 인간의 적응, 개발자의 공개 반응 경계를 총합한다.
   - [문서 페이지](https://belorin.github.io/notes/starcraft-pluto-ai/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/starcraft-pluto-ai.md)
+- **[『AI는 인간을 먹고 자란다』 이후: 보이지 않는 노동은 사라졌는가, 분화했는가](wiki/ai-hidden-labor-feeding-machine-2026.md)** · 별칭: AI는 인간을 먹고 자란다 이후, Feeding the Machine 2026 · 수정: 2026-10-30 · 검토: 대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요
+  - 2024년 원서와 2025년 한국어판을 기준으로 LLM 데이터 평가·합성데이터·전문가·검수·물류·창작·데이터센터 노동 변화를 대조
+  - [문서 페이지](https://belorin.github.io/notes/ai-hidden-labor-feeding-machine-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-hidden-labor-feeding-machine-2026.md)
+- **[AI 모델 기업과 클라우드 기업: 지분, 컴퓨트 계약, 지대의 세 층](wiki/ai-cloud-ownership-rent.md)** · 별칭: AI 모델 회사 클라우드 지분, AI 클라우드 지대경제 · 수정: 2026-10-30 · 검토: 대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요
+  - OpenAI·Anthropic 등 모델사와 Azure·AWS·Google·Oracle·AI 클라우드의 지분·GPU 계약·수익 배분 및 인프라 병목
+  - [문서 페이지](https://belorin.github.io/notes/ai-cloud-ownership-rent/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-cloud-ownership-rent.md)
 
 ## 철학
 
@@ -376,6 +382,15 @@
 - **[디지털 국경에도 관세가 생기는가: WTO 전자적 전송 모라토리엄과 AI 인터넷](wiki/wto-digital-transmission-moratorium.md)** · 별칭: WTO 전자상거래 모라토리엄, 전자적 전송 관세 유예, 디지털 관세와 AI, 디지털 무역 모라토리엄, WTO e-commerce moratorium · 수정: 2026-10-30 · 검토: 2026년 제도 변화·대화 기반 정리 · 외부 원문 재검증 필요
   - 1998년 WTO 전자적 전송 관세 유예의 반복 갱신과 2026년 MC14 연장 실패 보도, 브라질·인도의 입장, 망 이용대가와의 구별, AI 모델·클라우드·데이터센터의 국경 간 영향과 불확실성을 분리한다.
   - [문서 페이지](https://belorin.github.io/notes/wto-digital-transmission-moratorium/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wto-digital-transmission-moratorium.md)
+- **[실리콘밸리는 한 동네가 아니다: 기업 본사와 교외형 기술 회랑의 지리](wiki/silicon-valley-firm-geography.md)** · 별칭: 실리콘밸리 기업 지도, Silicon Valley 기업 위치 · 수정: 2026-10-30 · 검토: 대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요
+  - 실리콘밸리 대표 기업이 Menlo Park에서 San Jose까지 분포하는 교외형 회랑과 지도·주소·산업 집적의 차이
+  - [문서 페이지](https://belorin.github.io/notes/silicon-valley-firm-geography/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/silicon-valley-firm-geography.md)
+- **[세계 BPO 시장의 지리: 누가 사무 노동을 수출하고, 누가 값을 지불하는가](wiki/global-bpo-labor-geography.md)** · 별칭: 세계 BPO 시장, BPO 국가별 가격 노동복지 · 수정: 2026-10-30 · 검토: 대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요
+  - 인도·필리핀·유럽·라틴아메리카·아프리카 BPO 공급국, 업종, 수출·고용·청구단가와 노동권 비교의 통계적 함정
+  - [문서 페이지](https://belorin.github.io/notes/global-bpo-labor-geography/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/global-bpo-labor-geography.md)
+- **[미국 노동시장을 지역으로 읽기: 취업률·실업률·주별 격차와 2026년의 둔화](wiki/us-labor-market-geography-2026.md)** · 별칭: 미국 2026 실업률 지역별, 미국 주별 고용률 · 수정: 2026-10-30 · 검토: 대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요
+  - 2026년 봄 BLS 전국 고용률·실업률·U-6, 남부·중서부·동북부·서부 권역과 주요 주별 격차를 시점별로 구분
+  - [문서 페이지](https://belorin.github.io/notes/us-labor-market-geography-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/us-labor-market-geography-2026.md)
 
 ## 영화
 
