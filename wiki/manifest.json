@@ -698,7 +698,8 @@
         "circus-music-concepts",
         "drum-kit",
         "circus-music-research-ledger",
-        "classical-canon-mauceri"
+        "classical-canon-mauceri",
+        "orchestra-composer-conductor-myth"
       ],
       "aliases": [
         "유성영화와 극장 음악가",
@@ -1344,7 +1345,7 @@
       "title": "20세기 클래식의 잃어버린 계보: 존 마우체리와 정전의 재편",
       "category": "음악",
       "status": "대화 내 주장·공연 일정 및 학계 수용 재검증 필요",
-      "updated": "2026-10-25",
+      "updated": "2026-10-30",
       "summary": "나치의 퇴폐음악 정책과 망명, 영화·게임음악의 정전 진입, 전후 교향악의 반복 연주와 미래 음악사 재편을 구별한다.",
       "tags": [
         "존 마우체리",
@@ -1359,7 +1360,9 @@
         "silent-film-musician-labor",
         "jazz-history-plural",
         "orchestra-living-composers-canon",
-        "orchestra-repertoire-data-access"
+        "orchestra-repertoire-data-access",
+        "orchestra-composer-conductor-myth",
+        "living-orchestral-listening-journey"
       ],
       "aliases": [
         "전쟁과 음악",
@@ -1367,7 +1370,7 @@
         "영화음악과 클래식"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-25"
+      "last_enriched_on": "2026-10-30"
     },
     {
       "path": "wiki/ai-economic-transition.md",
@@ -1735,7 +1738,8 @@
       ],
       "related": [
         "long-running-music-broadcasts",
-        "daisuke-soga-conductor-career"
+        "daisuke-soga-conductor-career",
+        "orchestra-composer-conductor-myth"
       ],
       "aliases": [
         "題名のない音楽会",
@@ -2470,7 +2474,7 @@
       "title": "클래식은 화석인가: 생존 작곡가의 연주와 정전이 자라는 속도",
       "category": "음악",
       "status": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
-      "updated": "2026-10-25",
+      "updated": "2026-10-30",
       "summary": "Bachtrack 2022~2025년 생존 작곡가·여성 작곡가 통계, 패르트·윌리엄스와 신작 재연의 차이, 음악기관의 현재성을 분석한다.",
       "tags": [
         "생존 작곡가",
@@ -2483,14 +2487,16 @@
       "related": [
         "classical-canon-mauceri",
         "orchestra-repertoire-data-access",
-        "world-orchestras-repertoire-2026"
+        "world-orchestras-repertoire-2026",
+        "orchestra-composer-conductor-myth",
+        "living-orchestral-listening-journey"
       ],
       "aliases": [
         "살아 있는 작곡가",
         "현대 클래식 정전"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-25"
+      "last_enriched_on": "2026-10-30"
     },
     {
       "id": "world-orchestras-repertoire-2026",
@@ -2515,7 +2521,8 @@
         "orchestra-living-composers-canon",
         "korean-orchestras-repertoire-2026",
         "conductors-career-encores",
-        "orchestra-halls-seasons"
+        "orchestra-halls-seasons",
+        "living-orchestral-listening-journey"
       ],
       "aliases": [
         "세계 5대 교향악단",
@@ -2595,7 +2602,7 @@
       "title": "지휘자 스타 시스템의 미래: 클라우스 메켈레, 젊은 지휘자 붐, 앵콜의 마지막 한마디",
       "category": "음악",
       "status": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
-      "updated": "2026-10-25",
+      "updated": "2026-10-30",
       "summary": "메켈레의 암스테르담·시카고 동시 취임과 젊은 지휘자 세대교체, 벤치·칸텔리·쉬퍼스 등의 역사적 사례, 앵콜 선곡을 구분한다.",
       "tags": [
         "지휘자",
@@ -2608,7 +2615,9 @@
       "related": [
         "daisuke-soga-conductor-career",
         "world-orchestras-repertoire-2026",
-        "orchestra-living-composers-canon"
+        "orchestra-living-composers-canon",
+        "orchestra-composer-conductor-myth",
+        "living-orchestral-listening-journey"
       ],
       "aliases": [
         "Klaus Mäkelä",
@@ -2616,7 +2625,7 @@
         "지휘자 앵콜"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-25"
+      "last_enriched_on": "2026-10-30"
     },
     {
       "id": "orchestra-halls-seasons",
@@ -4779,6 +4788,77 @@
         "영어 고서 자동 번역",
         "Ollama 번역 파이프라인",
         "원문 번역 병기 뷰어"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-30"
+    },
+    {
+      "id": "orchestra-composer-conductor-myth",
+      "path": "wiki/orchestra-composer-conductor-myth.md",
+      "publish": true,
+      "order": 148,
+      "title": "교향곡은 영화 이전의 블록버스터였는가: 작곡가·지휘자 팬덤과 인물 신화",
+      "category": "음악",
+      "status": "대화 기반 총합 · 인물 서사·비유와 역사적 사실의 경계 추가 검토 필요",
+      "updated": "2026-10-30",
+      "summary": "말러·쇼스타코비치 7번·토스카니니·카라얀·번스타인을 통해 교향악 작품과 인간을 함께 사랑하는 팬덤, 정전·전기·방송·지휘자의 몸을 분석한다.",
+      "tags": [
+        "교향악",
+        "거장 팬덤",
+        "말러",
+        "쇼스타코비치",
+        "번스타인",
+        "지휘자",
+        "정전"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "classical-canon-mauceri",
+        "orchestra-living-composers-canon",
+        "living-orchestral-listening-journey",
+        "conductors-career-encores",
+        "japanese-classical-tv-conductor-image",
+        "silent-film-musician-labor"
+      ],
+      "aliases": [
+        "클래식의 인물 신화",
+        "작곡가 지휘자 팬덤",
+        "교향곡 블록버스터"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-30"
+    },
+    {
+      "id": "living-orchestral-listening-journey",
+      "path": "wiki/living-orchestral-listening-journey.md",
+      "publish": true,
+      "order": 149,
+      "title": "살아 있는 작곡가들을 여행하는 현대 교향악: 1977~2025 작품 연표와 12주 청취 지도",
+      "category": "음악",
+      "status": "대화 기반 총합 · 작곡·초연 연도와 2026년 수상·생존 여부 외부 검증 필요",
+      "updated": "2026-10-30",
+      "summary": "패르트·애덤스·진은숙·아데스·토르발스도티르·오르티스 등의 작품을 연도순으로 정리하고 미학적 다섯 갈래와 12주 청취 코스를 제안한다.",
+      "tags": [
+        "현대 교향악",
+        "살아 있는 작곡가",
+        "청취 지도",
+        "현대 클래식",
+        "진은숙",
+        "관현악",
+        "2020년대 신작"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "orchestra-living-composers-canon",
+        "classical-canon-mauceri",
+        "orchestra-composer-conductor-myth",
+        "world-orchestras-repertoire-2026",
+        "conductors-career-encores"
+      ],
+      "aliases": [
+        "현대 교향악 여행",
+        "살아 있는 작곡가 청취 코스",
+        "현대 관현악 작품 연표"
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-30"
