@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 510,
+  "edge_count": 514,
   "edges": [
     {
       "from": "living-notes",
@@ -2160,6 +2160,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "book-preview-credit-sourcing",
+      "to": "book-translation-pipeline-local-llm",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "hegel-fichte-schelling-difference",
       "to": "deleuze-negation-history",
       "type": "related_to",
@@ -2474,6 +2480,12 @@
     {
       "from": "luddite-executions-memory",
       "to": "luddite-movement-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "luddite-executions-memory",
+      "to": "book-translation-pipeline-local-llm",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2828,6 +2840,18 @@
     {
       "from": "us-labor-market-geography-2026",
       "to": "silicon-valley-firm-geography",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "book-translation-pipeline-local-llm",
+      "to": "luddite-executions-memory",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "book-translation-pipeline-local-llm",
+      "to": "book-preview-credit-sourcing",
       "type": "related_to",
       "basis": "manifest.related"
     },

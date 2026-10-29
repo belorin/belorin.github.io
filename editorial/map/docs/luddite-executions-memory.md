@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `luddite-executions-memory` · 분류: 문화와 역사 · 공개 · 원고: [wiki/luddite-executions-memory.md](../../../wiki/luddite-executions-memory.md) · 2,146자 · 절 7개
+- id: `luddite-executions-memory` · 분류: 문화와 역사 · 공개 · 원고: [wiki/luddite-executions-memory.md](../../../wiki/luddite-executions-memory.md) · 2,343자 · 절 7개
 - 별칭: 러다이트 처형자, 러다이트 사형자 명단, Luddite executions
 - 요약: 러다이트 관련 사형 선고와 집행의 차이, 인물별 명단 검증, 후기 봉기, 역사서 공개본과 번역 저작권의 쟁점.
 - 태그: 러다이트, 산업혁명, 노동사, 기계 파괴
 - 수정일: 2026-10-26 · 실제 증보일: 2026-10-26 · 검토: needs_review
-- 관련 문서: `luddite-movement-history`
+- 관련 문서: `luddite-movement-history`, `book-translation-pipeline-local-llm`
 
 ## 절 목차
 
@@ -19,7 +19,7 @@
 - 1816~1817년: 후기 사건 · L12–13 · 275자 · `fdae3b67` — 러프버러 기계 파괴 사건과 관련하여 제임스 톨(James Towle)이 1816년 11월 처형됐고, 이듬해 4월 여섯 명이 처형됐다는 연구상의 설명이 있다.
 - 사람의 삶을 복원하는 방법 · L15–16 · 245자 · `a0afa070` — 개별 미니 전기를 쓰려면 이름, 출생·사망, 나이, 직업, 거주지, 가족, 혐의, 재판 기록, 선고, 실제 집행, 매장과 사후 기억을 서로 다른 칸으로 관리해야 한다.
 - 순교자로 기억되지 못했다는 가설의 한계 · L18–19 · 192자 · `f114bc6b` — 러다이트는 오랫동안 ‘기술에 저항한 낙오자’라는 통속적 명칭으로 소비됐다.
-- 오래된 무료 공개 도서와 번역의 문제 · L21–24 · 520자 · `e90fbbc6` — 조사 경로로 프랭크 필(Frank Peel)의 *The Risings of the Luddites* (1880), *The Risings of the Luddit…
+- 오래된 무료 공개 도서와 번역의 문제 · L21–26 · 717자 · `b48e95b5` — 조사 경로로 프랭크 필(Frank Peel)의 *The Risings of the Luddites* (1880), *The Risings of the Luddit…
 
 ## 장부에 기록된 반영 지식
 

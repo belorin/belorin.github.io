@@ -199,6 +199,7 @@
 - [온라인 서점 미리보기와 판권면 수집: 기술적 가능성과 허용 범위](https://belorin.github.io/notes/book-preview-credit-sourcing/): 서점 상품정보·본문 발췌·미리보기 이미지를 구별하고 공식 메타데이터·출판사 샘플·수동 검수·제휴를 비교하는 판권면 수집 전략.
 - [조선의 전보는 어떻게 도쿄에 도착했는가: 1871~1888년 동아시아 전신망의 세 단계](https://belorin.github.io/notes/east-asia-telegraph-network-1880s/): 조선발 인편·선편과 일본 전신망의 연결, 1883년 부산 해저선, 1885년 서로전선, 1888년 남로전선 및 한자전보 부호를 추적한다.
 - [코펜하겐에서 나가사키까지: 대북부전신회사는 동아시아의 바다에 어떻게 전선을 놓았는가](https://belorin.github.io/notes/great-northern-telegraph-east-asia/): 덴마크 대북부전신회사의 러시아 양허·영국 협상·일본 육양 허가·부설선·케이블 기술과 1871~1872년 개통, 1883년 부산선의 사업사를 다룬다.
+- [오래된 영어책 한 권을 끝까지 번역하려면: 텍스트 추출, 로컬 모델, 재개와 대조 뷰어](https://belorin.github.io/notes/book-translation-pipeline-local-llm/): Internet Archive 고서 TXT를 OCR 없이 처리하고 Ollama·Qwen3로 문단별 번역·체크포인트·HTML 대조본을 만드는 과정, SEG 태그 정렬, M1 16GB 속도·잠자기 문제, Google Cloud 번역 전환의 미검증 경계를 기록한다.
 
 ### 생명과학
 

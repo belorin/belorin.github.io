@@ -7,7 +7,7 @@
 - 요약: 서점 상품정보·본문 발췌·미리보기 이미지를 구별하고 공식 메타데이터·출판사 샘플·수동 검수·제휴를 비교하는 판권면 수집 전략.
 - 태그: 온라인 서점, 책 미리보기, OCR, ISBN, 자료 수집, 출처 검증
 - 수정일: 2026-10-25 · 실제 증보일: 2026-10-25 · 검토: needs_review
-- 관련 문서: `credit-observation-archive`, `korea-personal-data-lifecycle`
+- 관련 문서: `credit-observation-archive`, `korea-personal-data-lifecycle`, `book-translation-pipeline-local-llm`
 
 ## 절 목차
 

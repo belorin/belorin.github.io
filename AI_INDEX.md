@@ -454,6 +454,9 @@
 - **[코펜하겐에서 나가사키까지: 대북부전신회사는 동아시아의 바다에 어떻게 전선을 놓았는가](wiki/great-northern-telegraph-east-asia.md)** · 별칭: 덴마크 대북부전신회사, Great Northern Telegraph Company, 1871 나가사키 해저케이블, 티에트겐 전신회사 · 수정: 2026-10-26 · 검토: 대화 범위에서 총합·증보 · 상세 사료 대조 필요
   - 덴마크 대북부전신회사의 러시아 양허·영국 협상·일본 육양 허가·부설선·케이블 기술과 1871~1872년 개통, 1883년 부산선의 사업사를 다룬다.
   - [문서 페이지](https://belorin.github.io/notes/great-northern-telegraph-east-asia/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/great-northern-telegraph-east-asia.md)
+- **[오래된 영어책 한 권을 끝까지 번역하려면: 텍스트 추출, 로컬 모델, 재개와 대조 뷰어](wiki/book-translation-pipeline-local-llm.md)** · 별칭: 로컬 책 번역, 영어 고서 자동 번역, Ollama 번역 파이프라인, 원문 번역 병기 뷰어 · 수정: 2026-10-30 · 검토: 로컬 번역 파이프라인의 구현·실패 분석과 미완 과제
+  - Internet Archive 고서 TXT를 OCR 없이 처리하고 Ollama·Qwen3로 문단별 번역·체크포인트·HTML 대조본을 만드는 과정, SEG 태그 정렬, M1 16GB 속도·잠자기 문제, Google Cloud 번역 전환의 미검증 경계를 기록한다.
+  - [문서 페이지](https://belorin.github.io/notes/book-translation-pipeline-local-llm/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/book-translation-pipeline-local-llm.md)
 
 ## 생명과학
 
