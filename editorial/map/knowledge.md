@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 967개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 980개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (9)
 
@@ -975,6 +975,24 @@
 - 프로바이오틱스 생존·일시적 체류·영구 정착의 분리 → `gut-microbiome-colonization` § 가루 속 수십억 개체는 왜 영구 주민이 아닌가 · `ing-20261025-fruit-gut-horror`
 - 분변미생물 이식과 Vowst의 치료 맥락·정착 위험 → `gut-microbiome-colonization` § 분변미생물 이식: 단일 방문객이 아니라 생태계의 일부를 옮기기 · `ing-20261025-fruit-gut-horror`
 - 인간을 각기 다른 내부 생물권을 품은 행성으로 보는 유비 → `gut-microbiome-colonization` § 사람이 하나의 행성이라는 비유의 유효 범위 · `ing-20261025-fruit-gut-horror`
+
+## 과학과 기술 (13)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 복사냉각과 프라이팬 사고실험 → `space-data-center-thermal-economics` § 프라이팬 사고실험: 검은 표면과 광택 금속의 차이 · `ing-20261030-space-datacenters-orbital-commons`
+- ISS의 액체회로와 라디에이터 → `space-data-center-thermal-economics` § 국제우주정거장의 실물 해법 · `ing-20261030-space-datacenters-orbital-commons`
+- 구글 선캐처의 열관리 구상 → `space-data-center-thermal-economics` § 구글 Project Suncatcher가 제시한 것과 아직 제시하지 않은 것 · `ing-20261030-space-datacenters-orbital-commons`
+- 5GW 우주 데이터센터의 방열 규모 → `space-data-center-thermal-economics` § 5GW 열부하의 규모를 계산하다 · `ing-20261030-space-datacenters-orbital-commons`
+- 우주 연산의 경제성과 전략 가설 → `space-data-center-thermal-economics` § 왜 지상이 아니라 우주인가: 비용과 전략의 서로 다른 주장 · `ing-20261030-space-datacenters-orbital-commons`
+- 기업 우주자산의 소유와 국가책임 → `space-assets-law-debris-kessler` § 소유국·등록국·발사국을 혼동하지 말 것 · `ing-20261030-space-datacenters-orbital-commons`
+- 코스모스 954 국제배상 → `space-assets-law-debris-kessler` § 실제 금전배상: 코스모스 954 · `ing-20261030-space-datacenters-orbital-commons`
+- 위성 충돌과 회피 비용 → `space-assets-law-debris-kessler` § 실제 충돌과 배상 없는 위험의 분배 · `ing-20261030-space-datacenters-orbital-commons`
+- 전파간섭과 위성 재진입 분쟁 → `space-assets-law-debris-kessler` § 전파와 항법: 위성을 부수지 않는 분쟁 · `ing-20261030-space-datacenters-orbital-commons`
+- 위성 파괴 실험과 근접 기동 → `space-assets-law-debris-kessler` § 고의적 위성 파괴와 근접 기동의 외교 · `ing-20261030-space-datacenters-orbital-commons`
+- 케슬러 증후군의 고도별 위험 → `space-assets-law-debris-kessler` § 케슬러 증후군은 어느 날의 폭발이 아니다 · `ing-20261030-space-datacenters-orbital-commons`
+- 스타링크 대량 발사와 규제 → `space-assets-law-debris-kessler` § 스타링크의 대량 발사와 미국 규제의 문제 · `ing-20261030-space-datacenters-orbital-commons`
+- 기업과 국가의 우주자산 통제 갈등 → `space-assets-law-debris-kessler` § 기업과 국가가 충돌한다면 · `ing-20261030-space-datacenters-orbital-commons`
 
 ## 자연과 과학 (11)
 

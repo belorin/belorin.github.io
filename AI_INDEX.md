@@ -539,6 +539,15 @@
   - 원신·명조·젠레스 존 제로·이환 등의 요구 용량을 비교하고, PS5 외장 USB와 내부 M.2 SSD의 기능 차이, HIKSEMI FUTURE 2TB와 고용량 SSD의 구매 판단을 설명한다.
   - [문서 페이지](https://belorin.github.io/notes/ps5-storage-anime-live-games/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ps5-storage-anime-live-games.md)
 
+## 과학과 기술
+
+- **[우주는 냉장고가 아니다: 태양광 데이터센터의 열역학과 경제성](wiki/space-data-center-thermal-economics.md)** · 별칭: 우주 데이터센터 냉각, Project Suncatcher 열관리 · 수정: 2026-10-30 · 검토: 검토 필요
+  - 태양광 입사량, 복사 냉각, ISS 열제어, Suncatcher, 5GW 방열 면적과 우주 연산 경제성의 조건을 분석한다.
+  - [문서 페이지](https://belorin.github.io/notes/space-data-center-thermal-economics/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/space-data-center-thermal-economics.md)
+- **[궤도의 공유지와 기업의 소유권: 우주 분쟁, 책임, 케슬러 위험](wiki/space-assets-law-debris-kessler.md)** · 별칭: 케슬러 증후군과 우주법, 우주자산 국제분쟁 · 수정: 2026-10-30 · 검토: 검토 필요
+  - 우주조약과 기업 소유, 충돌·회피·전파간섭·재진입 사례, ASAT, 케슬러 증후군과 위성 대량 발사 규제를 다룬다.
+  - [문서 페이지](https://belorin.github.io/notes/space-assets-law-debris-kessler/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/space-assets-law-debris-kessler.md)
+
 ## 소설 (창작 작품 · 사실 근거 아님)
 
 > 장별 문서는 각 작품의 목차에서 이어진다.

@@ -240,6 +240,11 @@
 - [이환은 타워 오브 판타지의 다음 실패를 반복할까: 도시 오픈월드와 라이브서비스의 시간](https://belorin.github.io/notes/anime-urban-live-service-nte-tof/): Hotta Studio의 타워 오브 판타지 운영과 Warp 서버 실험을 바탕으로 이환의 도시 콘텐츠·서사 연출·성능 인플레이션·무과금 이용 경험과 장기 운영의 조건을 분석한다.
 - [게임 한 편에 50GB: 중국 애니풍 라이브서비스와 PS5 저장공간의 경제학](https://belorin.github.io/notes/ps5-storage-anime-live-games/): 원신·명조·젠레스 존 제로·이환 등의 요구 용량을 비교하고, PS5 외장 USB와 내부 M.2 SSD의 기능 차이, HIKSEMI FUTURE 2TB와 고용량 SSD의 구매 판단을 설명한다.
 
+### 과학과 기술
+
+- [우주는 냉장고가 아니다: 태양광 데이터센터의 열역학과 경제성](https://belorin.github.io/notes/space-data-center-thermal-economics/): 태양광 입사량, 복사 냉각, ISS 열제어, Suncatcher, 5GW 방열 면적과 우주 연산 경제성의 조건을 분석한다.
+- [궤도의 공유지와 기업의 소유권: 우주 분쟁, 책임, 케슬러 위험](https://belorin.github.io/notes/space-assets-law-debris-kessler/): 우주조약과 기업 소유, 충돌·회피·전파간섭·재진입 사례, ASAT, 케슬러 증후군과 위성 대량 발사 규제를 다룬다.
+
 ### 소설 (창작 작품 · 사실 근거 아님)
 
 - [숨결: 기후 구원의 이름으로](https://belorin.github.io/notes/climate-breath-fiction/): [소설] 아르카디아와 에바, 아이린의 기후 디스토피아 장면집

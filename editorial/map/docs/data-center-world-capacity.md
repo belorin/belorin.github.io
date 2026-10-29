@@ -7,7 +7,7 @@
 - 요약: 2025~2030년 지역별 GW·건설 파이프라인, 공실률의 모수, 공랭·액랭의 시설별 보급, 물리적 수명과 미국·중국·걸프·APAC 기업 생태계를 구분한다.
 - 태그: 데이터센터, GW, 액체냉각, 전력, GPU 감가상각, 하이퍼스케일, 클라우드
 - 수정일: 2026-10-30 · 실제 증보일: 2026-10-30 · 검토: needs_review
-- 관련 문서: `ai-compute-scaling-inference`, `ai-cloud-ownership-rent`, `korea-data-center-local-economy`, `physical-cloud-reading-guide`, `owner-aligned-automated-power`
+- 관련 문서: `ai-compute-scaling-inference`, `ai-cloud-ownership-rent`, `korea-data-center-local-economy`, `physical-cloud-reading-guide`, `owner-aligned-automated-power`, `space-data-center-thermal-economics`
 
 ## 절 목차
 

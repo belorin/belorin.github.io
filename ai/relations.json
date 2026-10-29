@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 593,
+  "edge_count": 597,
   "edges": [
     {
       "from": "living-notes",
@@ -3282,6 +3282,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "data-center-world-capacity",
+      "to": "space-data-center-thermal-economics",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "korea-data-center-local-economy",
       "to": "data-center-world-capacity",
       "type": "related_to",
@@ -3326,6 +3332,24 @@
     {
       "from": "physical-cloud-reading-guide",
       "to": "ai-hidden-labor-feeding-machine-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "space-data-center-thermal-economics",
+      "to": "space-assets-law-debris-kessler",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "space-data-center-thermal-economics",
+      "to": "data-center-world-capacity",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "space-assets-law-debris-kessler",
+      "to": "space-data-center-thermal-economics",
       "type": "related_to",
       "basis": "manifest.related"
     },

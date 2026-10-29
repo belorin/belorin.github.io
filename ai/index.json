@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 159,
+  "document_count": 161,
   "documents": [
     {
       "id": "living-notes",
@@ -5427,7 +5427,8 @@
         "ai-cloud-ownership-rent",
         "korea-data-center-local-economy",
         "physical-cloud-reading-guide",
-        "owner-aligned-automated-power"
+        "owner-aligned-automated-power",
+        "space-data-center-thermal-economics"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/data-center-world-capacity.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/data-center-world-capacity.md",
@@ -5503,6 +5504,65 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/physical-cloud-reading-guide.md",
       "page_url": "https://belorin.github.io/notes/physical-cloud-reading-guide/",
       "app_url": "https://belorin.github.io/#physical-cloud-reading-guide"
+    },
+    {
+      "id": "space-data-center-thermal-economics",
+      "title": "우주는 냉장고가 아니다: 태양광 데이터센터의 열역학과 경제성",
+      "aliases": [
+        "우주 데이터센터 냉각",
+        "Project Suncatcher 열관리"
+      ],
+      "category": "과학과 기술",
+      "tags": [
+        "우주 데이터센터",
+        "열역학",
+        "복사냉각",
+        "Suncatcher"
+      ],
+      "summary": "태양광 입사량, 복사 냉각, ISS 열제어, Suncatcher, 5GW 방열 면적과 우주 연산 경제성의 조건을 분석한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "검토 필요",
+      "last_updated_on": "2026-10-30",
+      "last_enriched_on": "2026-10-30",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "space-assets-law-debris-kessler",
+        "data-center-world-capacity"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/space-data-center-thermal-economics.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/space-data-center-thermal-economics.md",
+      "page_url": "https://belorin.github.io/notes/space-data-center-thermal-economics/",
+      "app_url": "https://belorin.github.io/#space-data-center-thermal-economics"
+    },
+    {
+      "id": "space-assets-law-debris-kessler",
+      "title": "궤도의 공유지와 기업의 소유권: 우주 분쟁, 책임, 케슬러 위험",
+      "aliases": [
+        "케슬러 증후군과 우주법",
+        "우주자산 국제분쟁"
+      ],
+      "category": "과학과 기술",
+      "tags": [
+        "우주법",
+        "우주파편",
+        "케슬러 증후군",
+        "스타링크"
+      ],
+      "summary": "우주조약과 기업 소유, 충돌·회피·전파간섭·재진입 사례, ASAT, 케슬러 증후군과 위성 대량 발사 규제를 다룬다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "검토 필요",
+      "last_updated_on": "2026-10-30",
+      "last_enriched_on": "2026-10-30",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "space-data-center-thermal-economics"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/space-assets-law-debris-kessler.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/space-assets-law-debris-kessler.md",
+      "page_url": "https://belorin.github.io/notes/space-assets-law-debris-kessler/",
+      "app_url": "https://belorin.github.io/#space-assets-law-debris-kessler"
     }
   ]
 }
