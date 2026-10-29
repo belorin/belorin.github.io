@@ -870,7 +870,7 @@
       "title": "AI와 인간의 통제력: 장악·무력화·설득·접근권을 잇는 길잡이",
       "category": "AI와 사회",
       "status": "길잡이·해석 포함",
-      "updated": "2026-10-24",
+      "updated": "2026-10-30",
       "summary": "네트워크 장악에서 점진적 무력화, 지배의 농도, 측정, 대화형 설득, 대화 데이터 접근권으로 이어지는 질문의 이동과 관통 논점을 안내한다.",
       "tags": [
         "AI와 사회",
@@ -889,14 +889,17 @@
         "conversational-ai-persuasion",
         "ai-conversation-data-access",
         "ai-economic-transition",
-        "ai-capital-labor-distribution"
+        "ai-capital-labor-distribution",
+        "ai-adoption-ceiling-floor",
+        "owner-aligned-automated-power",
+        "ai-transition-monetary-order"
       ],
       "aliases": [
         "AI 통제력 길잡이",
         "AI와 사회 길잡이"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-24"
+      "last_enriched_on": "2026-10-30"
     },
     {
       "path": "wiki/ai-takeover-human-recourse.md",
@@ -1400,7 +1403,9 @@
         "global-bpo-labor-geography",
         "us-labor-market-geography-2026",
         "ai-hidden-labor-feeding-machine-2026",
-        "great-depression-lived-experience-literature"
+        "great-depression-lived-experience-literature",
+        "ai-adoption-ceiling-floor",
+        "ai-transition-monetary-order"
       ],
       "aliases": [
         "AI 경제 이행기",
@@ -1437,7 +1442,10 @@
         "ai-cloud-ownership-rent",
         "global-bpo-labor-geography",
         "ai-hidden-labor-feeding-machine-2026",
-        "great-depression-lived-experience-literature"
+        "great-depression-lived-experience-literature",
+        "ai-adoption-ceiling-floor",
+        "ai-transition-monetary-order",
+        "korea-data-center-local-economy"
       ],
       "aliases": [
         "AI와 자본 노동",
@@ -2683,7 +2691,9 @@
         "japan-physical-ai-skill-transfer",
         "wto-digital-transmission-moratorium",
         "ai-cloud-ownership-rent",
-        "ai-hidden-labor-feeding-machine-2026"
+        "ai-hidden-labor-feeding-machine-2026",
+        "data-center-world-capacity",
+        "owner-aligned-automated-power"
       ],
       "aliases": [
         "AI 데이터센터와 추론",
@@ -2735,7 +2745,7 @@
       "title": "AI 이행기의 정책 공백: 재교육이 해결하지 못하는 구조적 노동 대체",
       "category": "AI와 사회",
       "status": "조건부 정책 시뮬레이션·외부 미검증",
-      "updated": "2026-10-24",
+      "updated": "2026-10-30",
       "summary": "국제기구가 위험을 인식해도 대응하지 못하는 조건, 재교육의 거시적 한계, 자동화·재정·조세·정치의 시차를 분석한다.",
       "tags": [
         "AI",
@@ -2750,7 +2760,9 @@
       "related": [
         "ai-economic-transition",
         "ai-capital-labor-distribution",
-        "gradual-disempowerment"
+        "gradual-disempowerment",
+        "ai-adoption-ceiling-floor",
+        "ai-transition-monetary-order"
       ],
       "aliases": [
         "AI 재교육의 한계",
@@ -2758,7 +2770,7 @@
         "국제기구와 AI 경제"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-24"
+      "last_enriched_on": "2026-10-30"
     },
     {
       "path": "wiki/bird-vocalization-sparrow.md",
@@ -4660,7 +4672,10 @@
         "global-bpo-labor-geography",
         "ai-cloud-ownership-rent",
         "ai-compute-scaling-inference",
-        "ai-economic-transition"
+        "ai-economic-transition",
+        "data-center-world-capacity",
+        "korea-data-center-local-economy",
+        "physical-cloud-reading-guide"
       ],
       "aliases": [
         "AI는 인간을 먹고 자란다 이후",
@@ -4722,7 +4737,10 @@
         "ai-capital-labor-distribution",
         "ai-compute-scaling-inference",
         "silicon-valley-firm-geography",
-        "ai-hidden-labor-feeding-machine-2026"
+        "ai-hidden-labor-feeding-machine-2026",
+        "data-center-world-capacity",
+        "korea-data-center-local-economy",
+        "ai-transition-monetary-order"
       ],
       "aliases": [
         "AI 모델 회사 클라우드 지분",
@@ -5004,6 +5022,212 @@
         "PS5 게임 외장 저장장치",
         "이환 설치 용량",
         "HIKSEMI FUTURE 2TB"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-30"
+    },
+    {
+      "id": "ai-adoption-ceiling-floor",
+      "path": "wiki/ai-adoption-ceiling-floor.md",
+      "publish": true,
+      "order": 154,
+      "title": "AI의 상한선과 사회적 활용 하한선: 호들갑 없이 이행기를 보는 법",
+      "category": "AI와 사회",
+      "status": "대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요",
+      "updated": "2026-10-30",
+      "summary": "AI 능력의 미지의 천장과 낮은 사회적 채택을 분리해 기술·조직·노동·재정의 이행 속도를 분석하고 IMF의 노출도와 개인 대응의 한계를 구별한다.",
+      "tags": [
+        "AI 이행기",
+        "상한선",
+        "활용 하한선",
+        "노-호들갑",
+        "노동 노출",
+        "IMF"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "ai-economic-transition",
+        "ai-transition-policy-gap",
+        "ai-capital-labor-distribution",
+        "ai-compute-scaling-inference",
+        "owner-aligned-automated-power"
+      ],
+      "aliases": [
+        "AI 상한선 하한선",
+        "AI 활용 하한선",
+        "AI 노호들갑"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-30"
+    },
+    {
+      "id": "owner-aligned-automated-power",
+      "path": "wiki/owner-aligned-automated-power.md",
+      "publish": true,
+      "order": 155,
+      "title": "소유자 중심 자동권력: 인간 다수 없이 지속되는 기계 체제의 성립 조건",
+      "category": "AI와 사회",
+      "status": "대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요",
+      "updated": "2026-10-30",
+      "summary": "강제력의 탈인간화, 핵심 생존노동 자동화, 자율 정비와 교체, 전력·연산·부품 주권을 구별하고 소수 생존형 시나리오와 국가 위험 분류의 논리적 한계를 살핀다.",
+      "tags": [
+        "자율무력",
+        "피지컬 AI",
+        "기계 자기재생산",
+        "자동권력",
+        "공급망 주권",
+        "정치경제"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "ai-adoption-ceiling-floor",
+        "ai-transition-monetary-order",
+        "gradual-disempowerment",
+        "data-center-world-capacity",
+        "ai-human-control-guide",
+        "ai-democracy-narrow-corridor"
+      ],
+      "aliases": [
+        "AI 독재의 최소조건",
+        "소유자 정렬 기계문명",
+        "AI 민병단"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-30"
+    },
+    {
+      "id": "ai-transition-monetary-order",
+      "path": "wiki/ai-transition-monetary-order.md",
+      "publish": true,
+      "order": 156,
+      "title": "AI 이행기의 화폐와 소유권: BIS의 통합장부에서 두 층 경제까지",
+      "category": "AI와 사회",
+      "status": "대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요",
+      "updated": "2026-10-30",
+      "summary": "실업·채무·금융안정의 이행기 연쇄, BIS unified ledger와 Project Agorá의 실제 목표, 조건부 이중경제 사고실험, IMF 노동·재정정책의 분모를 구별한다.",
+      "tags": [
+        "BIS",
+        "Project Agorá",
+        "토큰화 예금",
+        "이중경제",
+        "IMF",
+        "AI 실업",
+        "자본소득"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "ai-economic-transition",
+        "ai-capital-labor-distribution",
+        "ai-transition-policy-gap",
+        "owner-aligned-automated-power",
+        "ai-cloud-ownership-rent"
+      ],
+      "aliases": [
+        "AI 이중화폐",
+        "BIS 통합장부와 AI",
+        "AI 이행기 금융질서"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-30"
+    },
+    {
+      "id": "data-center-world-capacity",
+      "path": "wiki/data-center-world-capacity.md",
+      "publish": true,
+      "order": 157,
+      "title": "세계 데이터센터의 연산 지리: GW·냉각·감가상각·투자 파이프라인",
+      "category": "AI와 사회",
+      "status": "대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요",
+      "updated": "2026-10-30",
+      "summary": "2025~2030년 지역별 GW·건설 파이프라인, 공실률의 모수, 공랭·액랭의 시설별 보급, 물리적 수명과 미국·중국·걸프·APAC 기업 생태계를 구분한다.",
+      "tags": [
+        "데이터센터",
+        "GW",
+        "액체냉각",
+        "전력",
+        "GPU 감가상각",
+        "하이퍼스케일",
+        "클라우드"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "ai-compute-scaling-inference",
+        "ai-cloud-ownership-rent",
+        "korea-data-center-local-economy",
+        "physical-cloud-reading-guide",
+        "owner-aligned-automated-power"
+      ],
+      "aliases": [
+        "세계 데이터센터 GW",
+        "데이터센터 세계 비중",
+        "데이터센터 액랭 공랭",
+        "데이터센터 감가상각"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-30"
+    },
+    {
+      "id": "korea-data-center-local-economy",
+      "path": "wiki/korea-data-center-local-economy.md",
+      "publish": true,
+      "order": 158,
+      "title": "한국 데이터센터 유치의 실익: GW보다 적은 일자리, 전력보다 중요한 지역 몫",
+      "category": "AI와 사회",
+      "status": "대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요",
+      "updated": "2026-10-30",
+      "summary": "울산 SK–AWS·해남 솔라시도 등 한국 데이터센터의 계획과 상주인력, 건설기 효과, AWS 현장 직군, 전력·물·세수의 지역 순편익을 비교한다.",
+      "tags": [
+        "한국 데이터센터",
+        "해남 솔라시도",
+        "울산 AWS",
+        "데이터센터 일자리",
+        "지역경제",
+        "전력망"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "data-center-world-capacity",
+        "ai-cloud-ownership-rent",
+        "ai-hidden-labor-feeding-machine-2026",
+        "physical-cloud-reading-guide",
+        "ai-capital-labor-distribution"
+      ],
+      "aliases": [
+        "해남 데이터센터 일자리",
+        "울산 SK AWS 지역경제",
+        "데이터센터 지역고용"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-30"
+    },
+    {
+      "id": "physical-cloud-reading-guide",
+      "path": "wiki/physical-cloud-reading-guide.md",
+      "publish": true,
+      "order": 159,
+      "title": "클라우드의 물질성: 데이터센터·해저케이블·현장노동을 읽는 책과 르포",
+      "category": "AI와 사회",
+      "status": "대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요",
+      "updated": "2026-10-30",
+      "summary": "Tubes, Where Cloud Is Ground, The Undersea Network, The Cloud Is Material 등과 AWS 오리건 영상·지역 르포·한국어 보고서를 비교한 독서·시청 길잡이.",
+      "tags": [
+        "물리적 인터넷",
+        "클라우드 르포",
+        "AWS",
+        "해저케이블",
+        "데이터센터 노동",
+        "한국어 자료"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "data-center-world-capacity",
+        "korea-data-center-local-economy",
+        "ai-hidden-labor-feeding-machine-2026"
+      ],
+      "aliases": [
+        "클라우드 물리 인프라 책",
+        "데이터센터 르포 읽기",
+        "클라우드 다큐 추천"
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-30"
