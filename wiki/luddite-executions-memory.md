@@ -21,4 +21,6 @@
 ## 오래된 무료 공개 도서와 번역의 문제
 조사 경로로 프랭크 필(Frank Peel)의 *The Risings of the Luddites* (1880), *The Risings of the Luddites, Chartists and Plugdrawers* (1888), D. F. E. 사이크스(D. F. E. Sykes)의 역사소설 *Ben o’ Bill’s, The Luddite: A Yorkshire Tale* (1898)이 언급됐다. Internet Archive, Google Books, Project Gutenberg 등에서 오래된 판본의 디지털 자료를 찾는 방법이 제시됐다. 다만 작품의 저작권 소멸, 현대 판본의 해설·주석 저작권, 스캔 파일의 이용조건, 번역문에 생기는 권리는 별개의 문제다. 한국에서 번역·판매·공개 업로드할 때는 저자 사망 연도와 적용 법령, 사용 판본을 확인해야 하며 ‘19세기 책이므로 무조건 합법’이라는 단정은 피해야 한다.
 
+이 역사서의 공개 TXT를 문단 단위로 번역하고 중간 결과를 검수하는 기술적 공정은 [오래된 영어책의 자동 번역 파이프라인](./book-translation-pipeline-local-llm.md)에 별도로 정리되어 있다. 입력 텍스트의 OCR 잔여 오류, 세그먼트 단위 원문 대조, 중단 후 재개의 일관성은 역사적 사실 검증과는 독립적인 과제다.
+
 [러다이트 운동의 전개](./luddite-movement-history.md)와 함께 읽을 것.
