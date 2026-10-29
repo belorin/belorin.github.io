@@ -2712,7 +2712,7 @@
       "title": "사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승",
       "category": "AI와 사회",
       "status": "대화 내 확인 자료 총합 · 기업 발표·정부 목표·국가 비교 해석 외부 재검증 필요",
-      "updated": "2026-10-25",
+      "updated": "2026-10-30",
       "summary": "가와사키 Successor와 Honda 다지 핸드부터 Toyota·Yaskawa·FANUC·AIST까지, 일본이 숙련자의 손동작·힘 조절을 로봇 학습 데이터로 옮기려는 흐름을 정리한다.",
       "tags": [
         "피지컬 AI",
@@ -2726,7 +2726,9 @@
       "source": "내부 총합 · 현재 접근 가능한 논의와 이미 제시된 기업·정부 링크만 사용 · 이번 편집에서 외부 추가 조사 없음",
       "related": [
         "ai-compute-scaling-inference",
-        "ai-economic-transition"
+        "ai-economic-transition",
+        "physical-ai-world-model-quantum-optimization",
+        "manufacturing-optimization-solo-business"
       ],
       "aliases": [
         "일본 피지컬 AI",
@@ -5284,6 +5286,62 @@
       "aliases": [
         "케슬러 증후군과 우주법",
         "우주자산 국제분쟁"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-30"
+    },
+    {
+      "path": "wiki/physical-ai-world-model-quantum-optimization.md",
+      "publish": true,
+      "order": 162,
+      "id": "physical-ai-world-model-quantum-optimization",
+      "title": "피지컬 AI의 월드 모델과 양자 최적화: 상상한 미래에서 실행할 행동까지",
+      "category": "과학과 기술",
+      "status": "내부 논의 기반·기술 실증 검토 필요",
+      "updated": "2026-10-30",
+      "summary": "한국형 피지컬 AI 컨소시엄의 기술 분업, 가상 제조 셀의 갈등, WFM과 QUBO·QAOA·양자 어닐링의 접점 및 신경망 압축 한계.",
+      "tags": [
+        "피지컬 AI",
+        "월드 파운데이션 모델",
+        "양자 최적화",
+        "QUBO"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "manufacturing-optimization-solo-business",
+        "japan-physical-ai-skill-transfer"
+      ],
+      "aliases": [
+        "WFM 양자컴퓨팅",
+        "월드모델 양자 최적화"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-30"
+    },
+    {
+      "path": "wiki/manufacturing-optimization-solo-business.md",
+      "publish": true,
+      "order": 163,
+      "id": "manufacturing-optimization-solo-business",
+      "title": "개인 개발자의 제조 최적화 엔진: 선계산 자산, 실험, 첫 고객",
+      "category": "과학과 기술",
+      "status": "사업 구상·검증 필요",
+      "updated": "2026-10-30",
+      "summary": "개인 개발자용 제조 의사결정 솔버, 야간 에이전트 자산 생성, IBM·D-Wave 등 실험 플랫폼과 고객 검증 전략.",
+      "tags": [
+        "제조 최적화",
+        "개인 개발",
+        "Qiskit",
+        "에이전트"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "physical-ai-world-model-quantum-optimization",
+        "japan-physical-ai-skill-transfer"
+      ],
+      "aliases": [
+        "제조 최적화 1인 사업",
+        "양자 최적화 MVP"
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-30"
