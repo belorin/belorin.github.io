@@ -1,0 +1,25 @@
+{
+  "batch_id": "ing-20261030-birth-order-korea",
+  "coverage": "visible-complete",
+  "items": [
+    {
+      "title": "출생순위 성격론과 인지·학업 효과",
+      "status": "integrated",
+      "document": "wiki/birth-order-korean-evidence.md",
+      "section": "성격의 법칙과 평균적 차이의 거리"
+    },
+    {
+      "title": "한국의 부모화·양육통제·형제관계 연구",
+      "status": "integrated",
+      "document": "wiki/birth-order-korean-evidence.md",
+      "section": "부모화: 출생순위가 아니라 맡겨진 역할"
+    },
+    {
+      "title": "국제 비교와 문화적 일반화의 한계",
+      "status": "integrated",
+      "document": "wiki/birth-order-korean-evidence.md",
+      "section": "국제 비교: 나라가 바뀌면 효과도 바뀌는가"
+    }
+  ],
+  "withheld_count": 0
+}
