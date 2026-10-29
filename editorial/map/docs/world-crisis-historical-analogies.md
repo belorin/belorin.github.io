@@ -30,6 +30,7 @@
 - **1929년의 그림자: 신기술·자산·신용·관세**
   - 기술 낙관·금융 취약성과 제도적 방화벽의 비교 · `ing-20261025-state-hollowing-critical-optimism`
   - 대공황 주요국 금본위 이탈과 위기 대응의 차이 · `ing-20261030-money-credit-economic-history`
+  - 1929년 역사적 유비에 생활사 차원을 도입 · `ing-20261030-great-depression-world-literature`
 - **1930년대 후반: 정치적 피로, 수정주의, 전쟁의 선택 가능성**
   - 1930년대식 수정주의와 현대 권위주의의 차이 · `ing-20261025-state-hollowing-critical-optimism`
 - **파국의 합성보다 위기의 연쇄를 본다**

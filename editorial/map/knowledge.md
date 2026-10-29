@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 872개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 893개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (9)
 
@@ -17,7 +17,186 @@
 - SEG 출력 검증·오류 청크 재요청과 전체 품질 시험 → 반영 위치 없음 · `ing-20261030-book-translation-pipeline` · pending — 태그 기준 복원은 표시된 파일에 반영됐으나 새 방식 전체 번역의 정렬 검수 및 자동 재시도는 확인되지 않음
 - 생성 번역본의 판형·PDF 출력과 배포 권리 검토 → 반영 위치 없음 · `ing-20261030-book-translation-pipeline` · pending — PDF 조판과 판본별 권리의 구체적 결론은 이 작업 범위에서 확인되지 않음
 
-## AI와 사회 (162)
+## 문화와 역사 (174)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 첫 소각의 인물·장소·규모와 주변 참여 → `burning-man-community` § 1986년 베이커 비치: 첫 소각의 전해지는 경위 · `ing-20261023-burning-man-romp`
+- 최초 동기와 반복의 이유 및 집단 경험 → `burning-man-community` § 1986년 베이커 비치: 첫 소각의 전해지는 경위 · `ing-20261023-burning-man-romp`
+- 실연 소각설과 후대 신화화에 대한 반론 → `burning-man-community` § 실연의 소각이라는 이야기와 하지의 맥락 · `ing-20261023-burning-man-romp`
+- 하지의 불·인간형 소각과 의도적 제의 재현의 구분 → `burning-man-community` § 실연의 소각이라는 이야기와 하지의 맥락 · `ing-20261023-burning-man-romp`
+- 반복·상징화·사막 이동과 10원칙의 연혁 → `burning-man-community` § 반복, 사막으로의 이동, 뒤따라 정리된 원칙 · `ing-20261023-burning-man-romp`
+- 행위에서 상징과 문화가 형성되는 순서 → `burning-man-community` § 반복, 사막으로의 이동, 뒤따라 정리된 원칙 · `ing-20261023-burning-man-romp`
+- 한국 불행사의 사례와 불의 기능 → `burning-man-community` § 태우는 물체보다 공동체를 조직하는 방식 · `ing-20261023-burning-man-romp`
+- 기존 공동체 재확인과 임시 공동체 구성의 비교 → `burning-man-community` § 태우는 물체보다 공동체를 조직하는 방식 · `ing-20261023-burning-man-romp`
+- Man Burn과 Temple Burn 및 동아시아 의례의 정서 비교 → `burning-man-community` § Man Burn과 Temple Burn의 다른 정서 · `ing-20261023-burning-man-romp`
+- 한국형 참여 행사 구상과 토지·허가·운영 조건 → `burning-man-community` § 한국형 행사 구상과 운영 조건 · `ing-20261023-burning-man-romp`
+- 세계 연례행사의 세 가지 방송화 방식 → `global-festival-streaming` § 세 가지 방송화 방식 · `ing-20261023-soga-media-burning-ecosystem`
+- 월별 세계 축제·행사의 원격 시청 지도 → `global-festival-streaming` § 월별로 보는 대표적인 관찰 지점 · `ing-20261023-soga-media-burning-ecosystem`
+- 2026년 8월 말부터 9월 초의 두 주 시청 일정 → `global-festival-streaming` § 두 주 집중 시청의 2026년 사례 · `ing-20261023-soga-media-burning-ecosystem`
+- 2026년 40주년과 개최 회차의 구분 → `burning-man-institutions` § 2026년은 40년이지만 40번째 행사는 아니다 · `ing-20261023-soga-media-burning-ecosystem`
+- 2004년에 성문화된 버닝맨 10원칙 → `burning-man-institutions` § 10원칙은 출발점이 아니라 뒤늦은 성문화 · `ing-20261023-soga-media-burning-ecosystem`
+- 탈상품화와 대규모 비영리 예산의 긴장 → `burning-man-institutions` § 탈상품화는 무비용을 뜻하지 않는다 · `ing-20261023-soga-media-burning-ecosystem`
+- No Spectators와 공식 웹캐스트·권리 관리의 충돌 → `burning-man-institutions` § “관객이 되지 말라”와 공식 웹캐스트의 충돌 · `ing-20261023-soga-media-burning-ecosystem`
+- 1996~2025 안전·범죄·법집행 사건의 연혁과 비교 한계 → `burning-man-institutions` § 도시가 되어가며 다시 발견한 안전과 치안 · `ing-20261023-soga-media-burning-ecosystem`
+- 반제도 운동이 운영조직·도시·방송자로 제도화되는 역설 → `burning-man-institutions` § 반제도 운동이 제도가 되는 과정 · `ing-20261023-soga-media-burning-ecosystem`
+- Regional Network의 규모와 초기 지역 번 연혁 → `burning-man-regional-network` § 지역 네트워크는 축제의 지점을 복제하는 체계가 아니다 · `ing-20261023-soga-media-burning-ecosystem`
+- AfrikaBurn의 Clan과 Each One Teach One 현지화 → `burning-man-regional-network` § AfrikaBurn: 인간상 대신 현지의 상징을 만든 경우 · `ing-20261023-soga-media-burning-ecosystem`
+- Midburn과 Kiwiburn의 서로 다른 지역화 → `burning-man-regional-network` § Midburn: 사막 미학과 공동체 조직의 확장; `burning-man-regional-network` § Kiwiburn: 사막이 없어도 번은 성립한다 · `ing-20261023-soga-media-burning-ecosystem`
+- Burning Japan의 천귀야행과 참가자 운영 원칙 → `burning-man-regional-network` § Burning Japan: 백귀야행으로 번역된 버너 문화 · `ing-20261023-soga-media-burning-ecosystem`
+- 지역 번이 수출하는 것은 사막 미학보다 문화 프로토콜이라는 해석 → `burning-man-regional-network` § 사막의 외형이 아니라 문화 프로토콜 · `ing-20261023-soga-media-burning-ecosystem`
+- 비상업 운동의 공식 지역 인증이 만드는 제도적 역설 → `burning-man-regional-network` § 비상업 운동의 국제 네트워크라는 역설 · `ing-20261023-soga-media-burning-ecosystem`
+- 사건의 역사화와 전승의 역사화 구분 → `sumer-bible-primeval-history` § 사건의 역사화와 전승의 역사화를 구분하기 · `ing-20261024-sumer-bible-primeval-history`
+- 지우수드라·아트라하시스·우트나피쉬팀·노아로 이어지는 홍수 전승 비교 → `sumer-bible-primeval-history` § 대홍수: 가장 강하게 역사적 배경을 얻은 원초사 · `ing-20261024-sumer-bible-primeval-history`
+- 수메르 왕명록과 실제 홍수층이 제공하는 증거의 범위 → `sumer-bible-primeval-history` § 수메르 왕명록의 ‘홍수 이전’과 ‘홍수 이후’; `sumer-bible-primeval-history` § 실제 홍수는 있었는가: 고고학이 주는 것과 주지 않는 것 · `ing-20261024-sumer-bible-primeval-history`
+- 에덴과 딜문을 현실 지리와 신화 지리의 중첩으로 읽기 → `sumer-bible-primeval-history` § 에덴: 현실 지리와 신화 지리가 겹쳐진 공간 · `ing-20261024-sumer-bible-primeval-history`
+- 바벨탑과 에테메난키·바빌론 포로기의 역사적 배경 → `sumer-bible-primeval-history` § 바벨탑: 역사적 배경과 신화적 설명이 가장 가까이 붙는 사례 · `ing-20261024-sumer-bible-primeval-history`
+- 메소포타미아 원초사가 세계사 정사로 체감되지 않는 이유 → `sumer-bible-primeval-history` § 왜 이것이 ‘세계사 정사’로 널리 퍼지지 않았는가 · `ing-20261024-sumer-bible-primeval-history`
+- 창세기 1~11장을 고대 서아시아 원초사 전통 안에 배치하는 모형 → `sumer-bible-primeval-history` § 창세기 1~11장을 ‘서아시아 원초사 전통’으로 보기; `sumer-bible-primeval-history` § ‘신화인가 역사인가’라는 양자택일을 넘어서 · `ing-20261024-sumer-bible-primeval-history`
+- 세계대전 판별에서 국지전의 수보다 전략적 연결을 중시하는 기준 → `war-escalation-local-to-world` § 전쟁의 수보다 연결을 보아야 한다 · `ing-20261024-war-escalation-drone-asymmetry`
+- 1754·1618·1914·1939·1950의 확전 및 확전 억제 사례 → `war-escalation-local-to-world` § 1754년 북아메리카: 변방 충돌이 세계 제국의 전쟁으로; `war-escalation-local-to-world` § 1618년 보헤미아: 시작 이유와 계속 싸우는 이유가 달라지는 전쟁; `war-escalation-local-to-world` § 1914년: ‘발칸에 국한될 전쟁’이 세계대전이 되기까지; `war-escalation-local-to-world` § 1939~1941년: 세계대전이라는 이름은 나중에 완성된다; `war-escalation-local-to-world` § 1950년 한국전쟁: 확전이 거의 끝까지 갔지만 멈춘 사례 · `ing-20261024-war-escalation-drone-asymmetry`
+- 2026년 러시아-유럽·중국-대만·한반도의 동시 위기와 미국의 한정된 군사자산을 통한 간접 연결 가능성 → `war-escalation-local-to-world` § 2026년의 세 축: 러시아-유럽, 중국-대만, 한반도; `war-escalation-local-to-world` § 오히려 미국의 한정된 자원이 전선을 연결할 수 있다 · `ing-20261024-war-escalation-drone-asymmetry`
+- 파국 후 수습과 파국 전 가속 중단의 구분 → `hate-escalation-brakes-history` § 문제의 정확한 형태: 충돌 후 반성이 아니라 가속 중 브레이크 · `ing-20261024-hate-escalation-brakes`
+- 전후 독일·장기적 관용 확대·북아일랜드를 대조군으로 구분 → `hate-escalation-brakes-history` § 왜 전후 독일과 장기적 관용 확대는 다른 질문인가 · `ing-20261024-hate-escalation-brakes`
+- 1768년 청나라 영혼 도둑 공황의 관료제 내부 검증 → `hate-escalation-brakes-history` § 1768년 청나라 영혼 도둑 공황: 관료제의 검증이 증폭을 꺾다 · `ing-20261024-hate-escalation-brakes`
+- 1609~1614년 바스크 마녀공황과 증거 기준 강화 → `hate-escalation-brakes-history` § 1609~1614년 바스크 마녀공황: 증거 기준을 높여 전염을 끊다 · `ing-20261024-hate-escalation-brakes`
+- 1919~1920년 미국 제1차 적색공포와 실패한 봉기 예언 → `hate-escalation-brakes-history` § 1919~1920년 미국 제1차 적색공포: 틀린 예언이 공포의 신용을 깎다 · `ing-20261024-hate-escalation-brakes`
+- 1950~1954년 매카시즘과 자기 진영으로의 표적 확대 → `hate-escalation-brakes-history` § 1950~1954년 매카시즘: 표적이 자기 진영까지 확장될 때 · `ing-20261024-hate-escalation-brakes`
+- 1678~1681년 Popish Plot과 선동자 신빙성 소진 → `hate-escalation-brakes-history` § 1678~1681년 Popish Plot: 선동자의 신빙성이 소진되다 · `ing-20261024-hate-escalation-brakes`
+- 1898년 프랑스 반유대주의 급등의 부분적 중단 → `hate-escalation-brakes-history` § 1898년 프랑스 반유대주의 급등: 강한 동원이 반드시 계속 가속되지는 않는다 · `ing-20261024-hate-escalation-brakes`
+- 관용의 승리보다 증폭장치의 고장이라는 공통 구조 → `hate-escalation-brakes-history` § 공통 구조: 관용의 승리보다 증폭장치의 고장 · `ing-20261024-hate-escalation-brakes`
+- 사적 혐오와 공개 규범·제도 집행·정치적 수익성의 분리 → `hate-escalation-brakes-history` § 혐오의 감정과 혐오의 정치적 수익성을 구분하기 · `ing-20261024-hate-escalation-brakes`
+- 파국 전 중단을 가능하게 하는 검증·거부권·동맹 이탈 조건 → `hate-escalation-brakes-history` § 파국 전 중단의 일반 조건 · `ing-20261024-hate-escalation-brakes`
+- 공공미술과 건축물 미술작품의 구분 → `gwangju-building-art-network` § 공공미술보다 정확한 출발점: 건축물 미술작품 · `ing-20261024-gwangju-building-art-network`
+- 금남로·계림동 신축 건물의 아이콘형 조형물 → `gwangju-building-art-network` § 구도심 신축 건물: 아이콘과 포토존으로 이동한 조형물 · `ing-20261024-gwangju-building-art-network`
+- 상무지구 기업 사옥과 고층 건물의 추상조각 벨트 → `gwangju-building-art-network` § 상무지구: 2000년대 기업 추상조각의 벨트 · `ing-20261024-gwangju-building-art-network`
+- 아파트 화단에서 반복되는 가족·자연·행운의 상징 → `gwangju-building-art-network` § 아파트 화단의 가족·자연·행운 · `ing-20261024-gwangju-building-art-network`
+- 건축물 미술을 생활·접근권·노후화와 함께 읽는 관점 → `gwangju-building-art-network` § 건물과 생활이 작품을 다시 만든다 · `ing-20261024-gwangju-building-art-network`
+- 최규철·정춘표·조의현·전용환의 반복 설치와 경력 계보 → `gwangju-building-art-network` § 작가 계보를 읽는 법 · `ing-20261024-gwangju-building-art-network`
+- 시공사 브랜드와 실제 작품 발주 주체를 분리하는 분석 → `gwangju-building-art-network` § 건설사가 어떤 작가를 선호하는가: 먼저 발주 구조를 분해해야 한다 · `ing-20261024-gwangju-building-art-network`
+- 대행업체·제작소·심의위원회가 작가 선택에 미치는 영향 → `gwangju-building-art-network` § 대행업체·제작소·심의위원회라는 보이지 않는 층 · `ing-20261024-gwangju-building-art-network`
+- 동문·심의 경력·브랜드 반복을 특혜나 선호로 곧장 해석하지 않는 기준 → `gwangju-building-art-network` § 관계망을 조사할 때 단정해서는 안 되는 것 · `ing-20261024-gwangju-building-art-network`
+- 광주 비공식 미술관의 현장 기록 항목과 답사 구역 → `gwangju-building-art-network` § 광주 비공식 미술관을 기록하는 방법; `gwangju-building-art-network` § 우선 답사할 세 구역 · `ing-20261024-gwangju-building-art-network`
+- 그리스 중심 철학사의 전승과 제도 → `ancient-philosophy-beyond-greece` § 그리스에서 시작된 것은 모든 생각인가, 특정한 계보인가 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 고대 문헌의 동시대성과 선후 구별 → `ancient-philosophy-beyond-greece` § 동시대와 이전 시대를 먼저 가르기 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 이집트 프타호테프와 아메네모페 → `ancient-philosophy-beyond-greece` § 이집트: 프타호테프와 아메네모페의 교훈 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 길가메시와 루들룰 벨 네메키 → `ancient-philosophy-beyond-greece` § 메소포타미아: 길가메시와 '바빌로니아의 욥' · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 나부-리만니와 키딘누의 천문학 → `ancient-philosophy-beyond-greece` § 바빌로니아 천문학: 나부-리만니와 키딘누 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 욥기와 전도서의 사유 → `ancient-philosophy-beyond-greece` § 히브리의 욥기와 전도서: 고통, 허무, 시간 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 자라투스트라와 편년의 불확실성 → `ancient-philosophy-beyond-greece` § 페르시아의 자라투스트라: 철학자와 예언자 사이 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 산쿠니아톤과 마고의 전승 → `ancient-philosophy-beyond-greece` § 페니키아와 카르타고: 산쿠니아톤과 마고의 잃어버린 책 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 그리스와 주변 문헌의 보존 경로 → `ancient-philosophy-beyond-greece` § 하나의 철학사와 여러 문헌의 보존 경로 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 비그리스 사유를 읽는 네 가지 기준 → `ancient-philosophy-beyond-greece` § 그리스 바깥을 읽을 때의 네 가지 질문 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 구약 전승과 고대 사유의 분류 → `sumer-bible-primeval-history` § 관련 읽기: 고대 문헌과 철학사의 분류 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 드레퓌스파와 반드레퓌스파의 의미 및 유죄·권위·소속 문제의 구별 → `dreyfus-affair-intellectuals` § 드레퓌스파와 반드레퓌스파: '찬반'의 정확한 대상 · `ing-20261025-dreyfus-intellectuals`
+- 1898년 졸라의 공개 고발과 지식인 청원 및 정치적 반작용 → `dreyfus-affair-intellectuals` § 1898년: '나는 고발한다'와 지식인의 집단적 출현 · `ing-20261025-dreyfus-intellectuals`
+- 졸라·클레망소·라자르·슈뢰르-케스트네르·레낙·조레스의 개입 → `dreyfus-affair-intellectuals` § 드레퓌스파의 선두: 언론·정치·재심 운동 · `ing-20261025-dreyfus-intellectuals`
+- 아나톨 프랑스·프루스트·뒤르켐·에르·페기·미르보·모네·르나르의 참여 → `dreyfus-affair-intellectuals` § 드레퓌스파의 문학·철학·학문 진영 · `ing-20261025-dreyfus-intellectuals`
+- 드뤼몽·바레스·모라스·로슈포르·르메트르·코페·브뤼느티에르·데룰레드·도데의 반대 → `dreyfus-affair-intellectuals` § 반드레퓌스파의 중심: 민족주의와 군의 권위 · `ing-20261025-dreyfus-intellectuals`
+- 드가·르누아르·드니의 태도와 예술계 인간관계의 분열 → `dreyfus-affair-intellectuals` § 화실과 우정까지 갈라진 사건: 드가·르누아르·드니 · `ing-20261025-dreyfus-intellectuals`
+- 로댕·페기·소렐·푸앵카레의 입장 분류와 근거의 한계 → `dreyfus-affair-intellectuals` § 고정된 두 색으로 칠하기 어려운 사람들 · `ing-20261025-dreyfus-intellectuals`
+- 서명자·조직가·전문가·후대 사상 궤적을 구별하는 인물 분석 기준 → `dreyfus-affair-intellectuals` § 인물을 분류할 때 혼동하기 쉬운 다섯 가지 기준 · `ing-20261025-dreyfus-intellectuals`
+- 현대 지식인의 정치적 출현과 전문성·발언권 사이의 긴장 → `dreyfus-affair-intellectuals` § 현대적 '지식인'이라는 문제의 탄생 · `ing-20261025-dreyfus-intellectuals`
+- 드레퓌스 사건의 지식인 분열과 기존 혐오 동원사 간 직접 연결 → `hate-escalation-brakes-history` § 1898년 프랑스 반유대주의 급등: 강한 동원이 반드시 계속 가속되지는 않는다 · `ing-20261025-dreyfus-intellectuals`
+- 벨 에포크·1929년·1939년의 서로 다른 위험 기제 → `world-crisis-historical-analogies` § 직전이라는 말의 위험 · `ing-20261025-state-hollowing-critical-optimism`
+- 1914년형 확전과 현대 억지·제한전의 차이 → `world-crisis-historical-analogies` § 벨 에포크의 이중성: 연결된 세계와 충돌하는 제국 · `ing-20261025-state-hollowing-critical-optimism`
+- 기술 낙관·금융 취약성과 제도적 방화벽의 비교 → `world-crisis-historical-analogies` § 1929년의 그림자: 신기술·자산·신용·관세 · `ing-20261025-state-hollowing-critical-optimism`
+- 1930년대식 수정주의와 현대 권위주의의 차이 → `world-crisis-historical-analogies` § 1930년대 후반: 정치적 피로, 수정주의, 전쟁의 선택 가능성 · `ing-20261025-state-hollowing-critical-optimism`
+- 위험의 복합 연쇄와 역사 유비의 해석 한계 → `world-crisis-historical-analogies` § 파국의 합성보다 위기의 연쇄를 본다 · `ing-20261025-state-hollowing-critical-optimism`
+- 기존 세계전쟁 확전 모형과 국가 공동화 관점의 직접 통합 → `war-escalation-local-to-world` § 역사 유비의 두 번째 층: 전쟁 전야와 국가의 내부 공동화 · `ing-20261025-state-hollowing-critical-optimism`
+- 1895년부터 제61회 국제미술전까지의 연혁과 회차 구분 → `venice-biennale-history` § 130년과 61회: 비엔날레의 시간은 단순한 2년 주기가 아니다 · `ing-20261025-venice-biennale`
+- 도시 관광 박람회로 출발한 국제미술전의 제도적 성격 → `venice-biennale-history` § 1895년: 관광 도시가 만든 국제 미술 박람회 · `ing-20261025-venice-biennale`
+- 중앙전과 국가관이라는 두 대표성 형식의 긴장 → `venice-biennale-history` § 국가관의 탄생: 미술의 형식이 국가를 닮다 · `ing-20261025-venice-biennale`
+- 전후 냉전기 미술 외교와 공간적 중심·주변 비대칭 → `venice-biennale-history` § 전후와 냉전: 세계 미술 권력의 지도 · `ing-20261025-venice-biennale`
+- 1968년 전시 저항과 제도 비판의 질문 → `venice-biennale-history` § 1968년: 전시가 권위의 대상이 되다 · `ing-20261025-venice-biennale`
+- 아페르토와 큐레이터 중심의 전시 체제 → `venice-biennale-history` § 1980년대: 큐레이터가 한 시대의 문장을 쓰다 · `ing-20261025-venice-biennale`
+- 비서구와 탈식민 중심화의 의의 및 중심 권력의 잔존 → `venice-biennale-history` § 1990년대 이후: 누가 세계미술을 대표하는가 · `ing-20261025-venice-biennale`
+- 프리오프닝 평가와 장기 관람이라는 서로 다른 시간 → `venice-biennale-history` § 반년짜리 전시의 두 시계: 첫 주의 폭발과 느린 재방문 · `ing-20261025-venice-biennale`
+- 스타 탄생과 스터디셀러 및 베니스 효과의 인과 구분 → `venice-biennale-history` § 스타 탄생과 '스터디셀러': 평판은 어떻게 남는가 · `ing-20261025-venice-biennale`
+- 자르디니와 아르세날레 명칭의 유래 및 공간 대비 → `venice-biennale-sites-pavilions` § '정원들'과 '조선소·무기고'라는 이름 · `ing-20261025-venice-biennale`
+- 자르디니 국가관 분산 동선과 아르세날레 연속형 동선 → `venice-biennale-sites-pavilions` § 자르디니: 국가관마다 문턱이 있는 산책 · `ing-20261025-venice-biennale`
+- 국가관 위치가 드러내는 역사적 자원 불평등 → `venice-biennale-sites-pavilions` § 국가관 배치가 드러내는 권력의 누적 · `ing-20261025-venice-biennale`
+- 자르디니 30개 국가명과 공동관·건물 수 구분 → `venice-biennale-sites-pavilions` § 약 30개 나라를 말할 때 정확히 세어야 할 것 · `ing-20261025-venice-biennale`
+- 2026년 참가 규모와 공간 분포 및 변동의 확인 경계 → `venice-biennale-sites-pavilions` § 2026년 분포와 변동: 숫자는 고정된 건축 지도가 아니다 · `ing-20261025-venice-biennale`
+- In Minor Keys의 기획과 코요 쿠오 사후 전시 실현 → `venice-biennale-2026-critical-reception` § 제61회 국제미술전: 낮은 음조가 던진 문제 · `ing-20261025-venice-biennale`
+- 참가국 정치 논쟁과 작품 평가를 분리하는 기준 → `venice-biennale-2026-critical-reception` § 작품 평가와 제도 사건은 같은 평판이 아니다 · `ing-20261025-venice-biennale`
+- 전시 과밀·편집력 부족 비판과 사후 구현 옹호의 대립 → `venice-biennale-2026-critical-reception` § 비판 1: 관대함이 편집의 부재로 바뀌는 순간 · `ing-20261025-venice-biennale`
+- 휴식과 치유의 미학을 정치적 회피로 볼 수 있는지의 논쟁 → `venice-biennale-2026-critical-reception` § 비판 2: 휴식의 언어는 정치적 위기에 답하는가 · `ing-20261025-venice-biennale`
+- 다성성과 비서구 모더니즘 재해석을 높게 보는 비평 → `venice-biennale-2026-critical-reception` § 옹호: 유작의 다성성과 주목받지 못한 계보 · `ing-20261025-venice-biennale`
+- 중앙전 주요 작품과 오스트리아 등 국가관의 입소문 사례 → `venice-biennale-2026-critical-reception` § 강하게 회자된 작품과 국가관 · `ing-20261025-venice-biennale`
+- 개막기 여론과 장기적인 미술사적 평가를 구별하는 문제 → `venice-biennale-2026-critical-reception` § 평가는 언제 굳어지는가: 개막 주간과 이후의 여섯 달 · `ing-20261025-venice-biennale`
+- 세계대전 확전 질문과 개별 국경의 첫 충돌 가능성의 구별 → `war-escalation-local-to-world` § 어느 분쟁이 먼저 터질까: 확전 위험과 발발 가능성의 분리 · `ing-20261026-war-resilience-border-faultlines`
+- 메시아 참칭자·선구자·예언자·카발라 신비가의 구별 → `jewish-messianic-claimants-kabbalah` § 메시아·선구자·예언자·카발라 신비가는 같은 사람인가 · `ing-20261026-jewish-messianism-kabbalah`
+- 고대 후기 크레타의 모세와 출애굽 재연의 전승 → `jewish-messianic-claimants-kabbalah` § 중세 이전의 선행 사례: 크레타의 모세 · `ing-20261026-jewish-messianism-kabbalah`
+- 아부 이사·유드간·세레네의 해방·율법 개혁·예언 운동 → `jewish-messianic-claimants-kabbalah` § 7~8세기 페르시아와 시리아: 무장 해방자와 율법 개혁자 · `ing-20261026-jewish-messianism-kabbalah`
+- 11세기 말~12세기 익명 사례·다비드 알로이·예멘 메시아와 「예멘 서간」 → `jewish-messianic-claimants-kabbalah` § 11~12세기: 십자군기의 불안, 알로이의 반란, 예멘의 경고 · `ing-20261026-jewish-messianism-kabbalah`
+- 아불라피아·니심 벤 아브라함과 예언적 카발라·도래 연도 예고 → `jewish-messianic-claimants-kabbalah` § 13세기 말: 아브라함 아불라피아와 예언적 카발라 · `ing-20261026-jewish-messianism-kabbalah`
+- 모세 보타렐·아셰르 렘라인·다비드 르우베니·솔로몬 몰코의 유형과 시대 구분 → `jewish-messianic-claimants-kabbalah` § 15~16세기: 중세 말의 신비가와 근세 초의 구원 열망 · `ing-20261026-jewish-messianism-kabbalah`
+- 루리아·비탈의 카발라 구원론과 직접 메시아 자칭 주장의 구별 → `jewish-messianic-claimants-kabbalah` § 사페드의 카발라: 이삭 루리아와 하임 비탈을 어디에 넣을까 · `ing-20261026-jewish-messianism-kabbalah`
+- 1666년 샤브타이 츠비의 메시아 운동과 이슬람 개종 → `jewish-messianic-claimants-kabbalah` § 17세기 샤브타이 츠비: 중세의 반복이 대규모 운동으로 변할 때 · `ing-20261026-jewish-messianism-kabbalah`
+- 야코프 프랑크와 샤브타이 이후 메시아주의의 변형 → `jewish-messianic-claimants-kabbalah` § 18세기 야코프 프랑크: 메시아 운동의 후속 변형 · `ing-20261026-jewish-messianism-kabbalah`
+- 시대·인물·구원 운동 성격을 대조하는 간략 연표 → `jewish-messianic-claimants-kabbalah` § 대표 인물의 간략 연표와 분류 · `ing-20261026-jewish-messianism-kabbalah`
+- 모든 세기라는 수사·연대별 증거 불균등·공동체의 권위 부여 기준 → `jewish-messianic-claimants-kabbalah` § '모든 세기의 메시아'라는 표현을 읽는 세 가지 기준 · `ing-20261026-jewish-messianism-kabbalah`
+- 서지·개별 전승·메시아 자칭 여부의 재검증 필요성 → `jewish-messianic-claimants-kabbalah` § 자료 범위와 검토할 문제 · `ing-20261026-jewish-messianism-kabbalah`
+- 러다이트의 지역별 노동조건과 1811~1813년 진행 → `luddite-movement-history` § 1812년: 지역 운동이 무장 충돌로 바뀌다 · `ing-20261026-luddite-history-executions`
+- 기술 반대 통념과 집단교섭 해석의 구별 → `luddite-movement-history` § 기술 반대라는 이름의 함정 · `ing-20261026-luddite-history-executions`
+- 요크 랭커스터 체스터 후기 사건의 사형 집행과 선고 구분 → `luddite-executions-memory` § 사망자 명단을 만들 때의 첫 구분 · `ing-20261026-luddite-history-executions`
+- 요크 사형자 명단과 개인별 신상의 미검증 문제 → `luddite-executions-memory` § 요크셔: 이름이 남은 사람들 · `ing-20261026-luddite-history-executions`
+- 러프버러 펜트리치와 후속 운동의 구별 → `luddite-executions-memory` § 1816~1817년: 후기 사건 · `ing-20261026-luddite-history-executions`
+- 처형자의 개인사 복원과 순교자 기억의 한계 → `luddite-executions-memory` § 사람의 삶을 복원하는 방법 · `ing-20261026-luddite-history-executions`
+- 프랭크 필과 사이크스의 오래된 공개 도서 및 번역 이용조건 → `luddite-executions-memory` § 오래된 무료 공개 도서와 번역의 문제 · `ing-20261026-luddite-history-executions`
+- 청말 팔기·녹영과 상군식 용영의 영 규모 구별 → `late-qing-yongying-daily-life` § ‘영’은 한 가지 크기의 부대가 아니었다 · `ing-20261026-qing-tributaries-telegraph`
+- 상군식 영 505명과 네 초·여덟 대·친병 조직 → `late-qing-yongying-daily-life` § 지휘 체계: 영관 한 사람과 네 개의 초 · `ing-20261026-qing-tributaries-telegraph`
+- 도모·소창·태창 혼합 편제와 무기별 협동 → `late-qing-yongying-daily-life` § 창과 총이 한 영에 공존했다 · `ing-20261026-qing-tributaries-telegraph`
+- 장부 180명 및 전투원·수송 인원의 구분 → `late-qing-yongying-daily-life` § 전투원 505명 뒤의 보이지 않는 병력 · `ing-20261026-qing-tributaries-telegraph`
+- 주둔군 일과의 영·초·대별 설명적 복원 → `late-qing-yongying-daily-life` § 한 영의 평범한 하루를 복원하다 · `ing-20261026-qing-tributaries-telegraph`
+- 원세개 금주 72영 전보 위협과 실재 동원의 구별 → `late-qing-yongying-daily-life` § ‘금주 72영’이라는 말은 3만 6천 명을 뜻하는가 · `ing-20261026-qing-tributaries-telegraph`
+- 군영 정원과 실제 상륙·전달 능력의 구별 → `late-qing-yongying-daily-life` § 규모와 기동의 역설 · `ing-20261026-qing-tributaries-telegraph`
+- 조공·의례·종주권·군사개입·영토주권의 구별 → `qing-tributaries-dissolution` § ‘청의 마지막 속방’이라는 말의 두 얼굴 · `ing-20261026-qing-tributaries-telegraph`
+- 류큐의 양속과 1872~1879년 일본 병합 수단 → `qing-tributaries-dissolution` § 류큐: 양쪽에 걸쳐 있던 왕국의 한쪽 문을 잠그다 · `ing-20261026-qing-tributaries-telegraph`
+- 1883~1885년 청불전쟁과 베트남 보호국화 → `qing-tributaries-dissolution` § 베트남: 종주권을 지키기 위한 전쟁이 오히려 상실을 확정하다 · `ing-20261026-qing-tributaries-telegraph`
+- 1885~1886년 버마 병합과 의례적 조공 잔재 → `qing-tributaries-dissolution` § 버마: 왕국 병합 뒤에도 남긴 ‘조공’의 문구 · `ing-20261026-qing-tributaries-telegraph`
+- 조선 1876~1895년 일본·청 경쟁과 조공 관계의 법적 종료 → `qing-tributaries-dissolution` § 조선: 청이 마지막으로 실제 병력을 걸었던 문턱 · `ing-20261026-qing-tributaries-telegraph`
+- 조선의 최후 정치 속방과 네팔의 의례적 사절 잔존 구별 → `qing-tributaries-dissolution` § 네팔: 마지막 남은 조공을 어떻게 셀 것인가 · `ing-20261026-qing-tributaries-telegraph`
+- 속방별 행정·보호국·병합·전쟁의 차이 → `qing-tributaries-dissolution` § 하나씩 빼앗긴 것이 아니라, 각각 다른 권리를 빼앗겼다 · `ing-20261026-qing-tributaries-telegraph`
+- 류큐 처분 시점과 후대 북양함대 우세 이미지의 구별 → `ryukyu-disposition-qing-japan` § ‘청 해군이 일본보다 강했다’는 역설부터 · `ing-20261026-qing-tributaries-telegraph`
+- 류큐 양속과 1872년 번 설치 및 1874년 대만 출병 → `ryukyu-disposition-qing-japan` § 1874년 대만 출병: 누구의 신민을 보호하는가 · `ing-20261026-qing-tributaries-telegraph`
+- 1875년 청과의 외교 단절 명령 및 1879년 현 설치 → `ryukyu-disposition-qing-japan` § 1879년: 수백 명의 병사와 경찰이 왕국을 접수하다 · `ing-20261026-qing-tributaries-telegraph`
+- 군함 전력과 실제 류큐 상륙·복권 작전의 구별 → `ryukyu-disposition-qing-japan` § 청의 고민: 어째서 군함 몇 척을 보내지 않았는가 · `ing-20261026-qing-tributaries-telegraph`
+- 1880년 류큐 남부 분할안과 통상 협상 불성립 → `ryukyu-disposition-qing-japan` § 1880년: 아예 왕국을 나누자는 외교 · `ing-20261026-qing-tributaries-telegraph`
+- 류큐의 실제 점유와 청의 영토주권 승인 분리 → `ryukyu-disposition-qing-japan` § ‘점령’과 ‘승인’ 사이의 간격 · `ing-20261026-qing-tributaries-telegraph`
+- 로마 곡물배급과 현대 복지국가의 범주 차이 → `roman-industry-gold-standard-history` § 빵과 서커스: 도시의 식량 공급을 복지 낭비라고 부를 수 있는가 · `ing-20261030-money-credit-economic-history`
+- 주화 절하와 현대 예금통화 창조의 역사적 구분 → `roman-industry-gold-standard-history` § 로마의 주화 절하와 현대 신용팽창은 다른 기제다 · `ing-20261030-money-credit-economic-history`
+- 서로마 476년과 동로마 1453년의 역사적 구별 → `roman-industry-gold-standard-history` § 476년에 끝난 로마, 1453년까지 계속된 로마 · `ing-20261030-money-credit-economic-history`
+- 중세 천년 정체론과 11~13세기 상업혁명 → `roman-industry-gold-standard-history` § 1700년까지 잠들어 있던 경제? 중세 상업혁명의 반례 · `ing-20261030-money-credit-economic-history`
+- 산업혁명의 높은 임금·석탄·항해법·특허제도 → `roman-industry-gold-standard-history` § 산업혁명의 영국이 ‘온전한 자유시장’이었다는 주장 · `ing-20261030-money-credit-economic-history`
+- 금본위와 대공황의 디플레이션·은행위기 → `roman-industry-gold-standard-history` § 단단한 화폐가 목을 조를 때: 금본위의 두 얼굴 · `ing-20261030-money-credit-economic-history`
+- 1931·1933·1934·1971년 금본위 제도 변동의 구분 → `roman-industry-gold-standard-history` § 누가 먼저 금본위를 떠났는가: 세 연도의 차이 · `ing-20261030-money-credit-economic-history`
+- 대공황 주요국 금본위 이탈과 위기 대응의 차이 → `world-crisis-historical-analogies` § 1929년의 그림자: 신기술·자산·신용·관세 · `ing-20261030-money-credit-economic-history`
+- 경제사의 단선적 인과 서사와 검증 질문 → `roman-industry-gold-standard-history` § 세 문장으로 끝나는 역사와 복수의 인과 · `ing-20261030-money-credit-economic-history`
+- 러다이트 공개 고서 TXT와 번역 공정의 직접 연결 → `luddite-executions-memory` § 오래된 무료 공개 도서와 번역의 문제 · `ing-20261030-book-translation-pipeline`
+- 생산의 풍요와 노동소득·구매력 접근권의 분리 → `great-depression-lived-experience-literature` § 풍요 속에서 자리를 잃은 사람들: 세계 대공황의 생활 기록과 동시대 소설 · `ing-20261030-great-depression-world-literature`
+- 실업의 지속·사회적 자리 상실과 생활 선택의 축소 → `great-depression-lived-experience-literature` § 무엇을 읽으려는가: 가격보다 소득, 결핍보다 배제 · `ing-20261030-great-depression-world-literature`
+- 동시대 빈곤과 대공황 직접 원인의 구분 → `great-depression-lived-experience-literature` § 무엇을 읽으려는가: 가격보다 소득, 결핍보다 배제 · `ing-20261030-great-depression-world-literature`
+- 팔라다·케스트너·코인의 독일 대공황기 소설 → `great-depression-lived-experience-literature` § 독일어권: 하층 중산층의 추락과 도시에서의 실직 · `ing-20261030-great-depression-world-literature`
+- 맥코이의 댄스 마라톤과 스타인벡의 노동 서사 → `great-depression-lived-experience-literature` § 미국: 일자리를 찾는 이동, 몸을 파는 경쟁, 농장과 가족 · `ing-20261030-great-depression-world-literature`
+- 르 쉬어·올슨·배브의 당대 집필 후대 발표 작품 → `great-depression-lived-experience-literature` § 미국: 일자리를 찾는 이동, 몸을 파는 경쟁, 농장과 가족 · `ing-20261030-great-depression-world-literature`
+- 에이지·에번스의 소작농 현장 기록 → `great-depression-lived-experience-literature` § 소설만으로는 보이지 않는 목소리: 당대 기록과 후대 구술사의 거리 · `ing-20261030-great-depression-world-literature`
+- 오웰과 진 리스의 영국·유럽 도시 빈곤 기록 → `great-depression-lived-experience-literature` § 영국과 영어로 쓴 유럽 도시의 빈곤: 산업지대와 개인의 추락 · `ing-20261030-great-depression-world-literature`
+- 다비·기유·루아의 프랑스어권 도시·지역사회 문학 → `great-depression-lived-experience-literature` § 프랑스어권: 파리의 하층 생활과 몬트리올의 빈곤 · `ing-20261030-great-depression-world-literature`
+- 이카사와 바예호의 스페인어권 농업·광산 소설 → `great-depression-lived-experience-literature` § 스페인어권: 1930년대의 농민과 광산을 '대공황'이라고 부를 때 · `ing-20261030-great-depression-world-literature`
+- 하무스의 브라질 가뭄·이주·빈곤 소설 → `great-depression-lived-experience-literature` § 포르투갈어권: 브라질의 1930년대 소설 · `ing-20261030-great-depression-world-literature`
+- 하야시 후미코와 고바야시 다키지의 일본어권 노동 기록 → `great-depression-lived-experience-literature` § 일본어권: 쇼와 불황과 노동자의 세계 · `ing-20261030-great-depression-world-literature`
+- 당대 르포·후대 구술사·당대 원고의 후대 출간 구분 → `great-depression-lived-experience-literature` § 소설만으로는 보이지 않는 목소리: 당대 기록과 후대 구술사의 거리 · `ing-20261030-great-depression-world-literature`
+- 갤브레이스·킨들버거·테민·프리드먼 등 거시·정치사 독서 갈래 → `great-depression-lived-experience-literature` § 다른 읽기 길은 왜 중심 목록에서 빠졌는가 · `ing-20261030-great-depression-world-literature`
+- 프레카리아트·불쉿 잡·애프터 워크 등 미래 노동 전망서와의 구분 → `great-depression-lived-experience-literature` § 다른 읽기 길은 왜 중심 목록에서 빠졌는가 · `ing-20261030-great-depression-world-literature`
+- 한국어판 소개 작품과 원어 추적 우선순위 → `great-depression-lived-experience-literature` § 한국어 번역을 고려한 실용 독서 경로 · `ing-20261030-great-depression-world-literature`
+- 해고·생활 축소·대안 노동·존엄·정치적 귀결의 비교 축 → `great-depression-lived-experience-literature` § 무엇을 비교하면 '끝까지 살아본 사람들'이 보이는가 · `ing-20261030-great-depression-world-literature`
+- AI 자동화가 대공황과 장기 디플레이션을 재현한다는 예언의 한계 → `great-depression-lived-experience-literature` § 무엇을 비교하면 '끝까지 살아본 사람들'이 보이는가 · `ing-20261030-great-depression-world-literature`
+- 원서·한국어판 서지와 대공황 직접성 미검증 표시 → `great-depression-lived-experience-literature` § 서지 및 해석상의 검증 경계 · `ing-20261030-great-depression-world-literature`
+- 1929년 역사적 유비에 생활사 차원을 도입 → `world-crisis-historical-analogies` § 1929년의 그림자: 신기술·자산·신용·관세 · `ing-20261030-great-depression-world-literature`
+
+## AI와 사회 (163)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -183,165 +362,7 @@
 - 계약을 통해 수익을 배분하는 클라우드 지대 → `ai-capital-labor-distribution` § 클라우드와 모델 기업 사이의 지대: 투자자가 임대업자이기도 할 때 · `ing-20261030-ai-labor-cloud-us-regions`
 - 추론 컴퓨트의 기술 효용과 경제적 소유의 차이 → `ai-compute-scaling-inference` § 컴퓨트를 소유하는 자와 빌리는 자: GPU 증설의 경제적 층위 · `ing-20261030-ai-labor-cloud-us-regions`
 - BPO와 미국 고용시장의 서로 다른 관측 단위 → `ai-economic-transition` § 현장에 보이는 노동시장을 어떻게 읽을 것인가 · `ing-20261030-ai-labor-cloud-us-regions`
-
-## 문화와 역사 (154)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 첫 소각의 인물·장소·규모와 주변 참여 → `burning-man-community` § 1986년 베이커 비치: 첫 소각의 전해지는 경위 · `ing-20261023-burning-man-romp`
-- 최초 동기와 반복의 이유 및 집단 경험 → `burning-man-community` § 1986년 베이커 비치: 첫 소각의 전해지는 경위 · `ing-20261023-burning-man-romp`
-- 실연 소각설과 후대 신화화에 대한 반론 → `burning-man-community` § 실연의 소각이라는 이야기와 하지의 맥락 · `ing-20261023-burning-man-romp`
-- 하지의 불·인간형 소각과 의도적 제의 재현의 구분 → `burning-man-community` § 실연의 소각이라는 이야기와 하지의 맥락 · `ing-20261023-burning-man-romp`
-- 반복·상징화·사막 이동과 10원칙의 연혁 → `burning-man-community` § 반복, 사막으로의 이동, 뒤따라 정리된 원칙 · `ing-20261023-burning-man-romp`
-- 행위에서 상징과 문화가 형성되는 순서 → `burning-man-community` § 반복, 사막으로의 이동, 뒤따라 정리된 원칙 · `ing-20261023-burning-man-romp`
-- 한국 불행사의 사례와 불의 기능 → `burning-man-community` § 태우는 물체보다 공동체를 조직하는 방식 · `ing-20261023-burning-man-romp`
-- 기존 공동체 재확인과 임시 공동체 구성의 비교 → `burning-man-community` § 태우는 물체보다 공동체를 조직하는 방식 · `ing-20261023-burning-man-romp`
-- Man Burn과 Temple Burn 및 동아시아 의례의 정서 비교 → `burning-man-community` § Man Burn과 Temple Burn의 다른 정서 · `ing-20261023-burning-man-romp`
-- 한국형 참여 행사 구상과 토지·허가·운영 조건 → `burning-man-community` § 한국형 행사 구상과 운영 조건 · `ing-20261023-burning-man-romp`
-- 세계 연례행사의 세 가지 방송화 방식 → `global-festival-streaming` § 세 가지 방송화 방식 · `ing-20261023-soga-media-burning-ecosystem`
-- 월별 세계 축제·행사의 원격 시청 지도 → `global-festival-streaming` § 월별로 보는 대표적인 관찰 지점 · `ing-20261023-soga-media-burning-ecosystem`
-- 2026년 8월 말부터 9월 초의 두 주 시청 일정 → `global-festival-streaming` § 두 주 집중 시청의 2026년 사례 · `ing-20261023-soga-media-burning-ecosystem`
-- 2026년 40주년과 개최 회차의 구분 → `burning-man-institutions` § 2026년은 40년이지만 40번째 행사는 아니다 · `ing-20261023-soga-media-burning-ecosystem`
-- 2004년에 성문화된 버닝맨 10원칙 → `burning-man-institutions` § 10원칙은 출발점이 아니라 뒤늦은 성문화 · `ing-20261023-soga-media-burning-ecosystem`
-- 탈상품화와 대규모 비영리 예산의 긴장 → `burning-man-institutions` § 탈상품화는 무비용을 뜻하지 않는다 · `ing-20261023-soga-media-burning-ecosystem`
-- No Spectators와 공식 웹캐스트·권리 관리의 충돌 → `burning-man-institutions` § “관객이 되지 말라”와 공식 웹캐스트의 충돌 · `ing-20261023-soga-media-burning-ecosystem`
-- 1996~2025 안전·범죄·법집행 사건의 연혁과 비교 한계 → `burning-man-institutions` § 도시가 되어가며 다시 발견한 안전과 치안 · `ing-20261023-soga-media-burning-ecosystem`
-- 반제도 운동이 운영조직·도시·방송자로 제도화되는 역설 → `burning-man-institutions` § 반제도 운동이 제도가 되는 과정 · `ing-20261023-soga-media-burning-ecosystem`
-- Regional Network의 규모와 초기 지역 번 연혁 → `burning-man-regional-network` § 지역 네트워크는 축제의 지점을 복제하는 체계가 아니다 · `ing-20261023-soga-media-burning-ecosystem`
-- AfrikaBurn의 Clan과 Each One Teach One 현지화 → `burning-man-regional-network` § AfrikaBurn: 인간상 대신 현지의 상징을 만든 경우 · `ing-20261023-soga-media-burning-ecosystem`
-- Midburn과 Kiwiburn의 서로 다른 지역화 → `burning-man-regional-network` § Midburn: 사막 미학과 공동체 조직의 확장; `burning-man-regional-network` § Kiwiburn: 사막이 없어도 번은 성립한다 · `ing-20261023-soga-media-burning-ecosystem`
-- Burning Japan의 천귀야행과 참가자 운영 원칙 → `burning-man-regional-network` § Burning Japan: 백귀야행으로 번역된 버너 문화 · `ing-20261023-soga-media-burning-ecosystem`
-- 지역 번이 수출하는 것은 사막 미학보다 문화 프로토콜이라는 해석 → `burning-man-regional-network` § 사막의 외형이 아니라 문화 프로토콜 · `ing-20261023-soga-media-burning-ecosystem`
-- 비상업 운동의 공식 지역 인증이 만드는 제도적 역설 → `burning-man-regional-network` § 비상업 운동의 국제 네트워크라는 역설 · `ing-20261023-soga-media-burning-ecosystem`
-- 사건의 역사화와 전승의 역사화 구분 → `sumer-bible-primeval-history` § 사건의 역사화와 전승의 역사화를 구분하기 · `ing-20261024-sumer-bible-primeval-history`
-- 지우수드라·아트라하시스·우트나피쉬팀·노아로 이어지는 홍수 전승 비교 → `sumer-bible-primeval-history` § 대홍수: 가장 강하게 역사적 배경을 얻은 원초사 · `ing-20261024-sumer-bible-primeval-history`
-- 수메르 왕명록과 실제 홍수층이 제공하는 증거의 범위 → `sumer-bible-primeval-history` § 수메르 왕명록의 ‘홍수 이전’과 ‘홍수 이후’; `sumer-bible-primeval-history` § 실제 홍수는 있었는가: 고고학이 주는 것과 주지 않는 것 · `ing-20261024-sumer-bible-primeval-history`
-- 에덴과 딜문을 현실 지리와 신화 지리의 중첩으로 읽기 → `sumer-bible-primeval-history` § 에덴: 현실 지리와 신화 지리가 겹쳐진 공간 · `ing-20261024-sumer-bible-primeval-history`
-- 바벨탑과 에테메난키·바빌론 포로기의 역사적 배경 → `sumer-bible-primeval-history` § 바벨탑: 역사적 배경과 신화적 설명이 가장 가까이 붙는 사례 · `ing-20261024-sumer-bible-primeval-history`
-- 메소포타미아 원초사가 세계사 정사로 체감되지 않는 이유 → `sumer-bible-primeval-history` § 왜 이것이 ‘세계사 정사’로 널리 퍼지지 않았는가 · `ing-20261024-sumer-bible-primeval-history`
-- 창세기 1~11장을 고대 서아시아 원초사 전통 안에 배치하는 모형 → `sumer-bible-primeval-history` § 창세기 1~11장을 ‘서아시아 원초사 전통’으로 보기; `sumer-bible-primeval-history` § ‘신화인가 역사인가’라는 양자택일을 넘어서 · `ing-20261024-sumer-bible-primeval-history`
-- 세계대전 판별에서 국지전의 수보다 전략적 연결을 중시하는 기준 → `war-escalation-local-to-world` § 전쟁의 수보다 연결을 보아야 한다 · `ing-20261024-war-escalation-drone-asymmetry`
-- 1754·1618·1914·1939·1950의 확전 및 확전 억제 사례 → `war-escalation-local-to-world` § 1754년 북아메리카: 변방 충돌이 세계 제국의 전쟁으로; `war-escalation-local-to-world` § 1618년 보헤미아: 시작 이유와 계속 싸우는 이유가 달라지는 전쟁; `war-escalation-local-to-world` § 1914년: ‘발칸에 국한될 전쟁’이 세계대전이 되기까지; `war-escalation-local-to-world` § 1939~1941년: 세계대전이라는 이름은 나중에 완성된다; `war-escalation-local-to-world` § 1950년 한국전쟁: 확전이 거의 끝까지 갔지만 멈춘 사례 · `ing-20261024-war-escalation-drone-asymmetry`
-- 2026년 러시아-유럽·중국-대만·한반도의 동시 위기와 미국의 한정된 군사자산을 통한 간접 연결 가능성 → `war-escalation-local-to-world` § 2026년의 세 축: 러시아-유럽, 중국-대만, 한반도; `war-escalation-local-to-world` § 오히려 미국의 한정된 자원이 전선을 연결할 수 있다 · `ing-20261024-war-escalation-drone-asymmetry`
-- 파국 후 수습과 파국 전 가속 중단의 구분 → `hate-escalation-brakes-history` § 문제의 정확한 형태: 충돌 후 반성이 아니라 가속 중 브레이크 · `ing-20261024-hate-escalation-brakes`
-- 전후 독일·장기적 관용 확대·북아일랜드를 대조군으로 구분 → `hate-escalation-brakes-history` § 왜 전후 독일과 장기적 관용 확대는 다른 질문인가 · `ing-20261024-hate-escalation-brakes`
-- 1768년 청나라 영혼 도둑 공황의 관료제 내부 검증 → `hate-escalation-brakes-history` § 1768년 청나라 영혼 도둑 공황: 관료제의 검증이 증폭을 꺾다 · `ing-20261024-hate-escalation-brakes`
-- 1609~1614년 바스크 마녀공황과 증거 기준 강화 → `hate-escalation-brakes-history` § 1609~1614년 바스크 마녀공황: 증거 기준을 높여 전염을 끊다 · `ing-20261024-hate-escalation-brakes`
-- 1919~1920년 미국 제1차 적색공포와 실패한 봉기 예언 → `hate-escalation-brakes-history` § 1919~1920년 미국 제1차 적색공포: 틀린 예언이 공포의 신용을 깎다 · `ing-20261024-hate-escalation-brakes`
-- 1950~1954년 매카시즘과 자기 진영으로의 표적 확대 → `hate-escalation-brakes-history` § 1950~1954년 매카시즘: 표적이 자기 진영까지 확장될 때 · `ing-20261024-hate-escalation-brakes`
-- 1678~1681년 Popish Plot과 선동자 신빙성 소진 → `hate-escalation-brakes-history` § 1678~1681년 Popish Plot: 선동자의 신빙성이 소진되다 · `ing-20261024-hate-escalation-brakes`
-- 1898년 프랑스 반유대주의 급등의 부분적 중단 → `hate-escalation-brakes-history` § 1898년 프랑스 반유대주의 급등: 강한 동원이 반드시 계속 가속되지는 않는다 · `ing-20261024-hate-escalation-brakes`
-- 관용의 승리보다 증폭장치의 고장이라는 공통 구조 → `hate-escalation-brakes-history` § 공통 구조: 관용의 승리보다 증폭장치의 고장 · `ing-20261024-hate-escalation-brakes`
-- 사적 혐오와 공개 규범·제도 집행·정치적 수익성의 분리 → `hate-escalation-brakes-history` § 혐오의 감정과 혐오의 정치적 수익성을 구분하기 · `ing-20261024-hate-escalation-brakes`
-- 파국 전 중단을 가능하게 하는 검증·거부권·동맹 이탈 조건 → `hate-escalation-brakes-history` § 파국 전 중단의 일반 조건 · `ing-20261024-hate-escalation-brakes`
-- 공공미술과 건축물 미술작품의 구분 → `gwangju-building-art-network` § 공공미술보다 정확한 출발점: 건축물 미술작품 · `ing-20261024-gwangju-building-art-network`
-- 금남로·계림동 신축 건물의 아이콘형 조형물 → `gwangju-building-art-network` § 구도심 신축 건물: 아이콘과 포토존으로 이동한 조형물 · `ing-20261024-gwangju-building-art-network`
-- 상무지구 기업 사옥과 고층 건물의 추상조각 벨트 → `gwangju-building-art-network` § 상무지구: 2000년대 기업 추상조각의 벨트 · `ing-20261024-gwangju-building-art-network`
-- 아파트 화단에서 반복되는 가족·자연·행운의 상징 → `gwangju-building-art-network` § 아파트 화단의 가족·자연·행운 · `ing-20261024-gwangju-building-art-network`
-- 건축물 미술을 생활·접근권·노후화와 함께 읽는 관점 → `gwangju-building-art-network` § 건물과 생활이 작품을 다시 만든다 · `ing-20261024-gwangju-building-art-network`
-- 최규철·정춘표·조의현·전용환의 반복 설치와 경력 계보 → `gwangju-building-art-network` § 작가 계보를 읽는 법 · `ing-20261024-gwangju-building-art-network`
-- 시공사 브랜드와 실제 작품 발주 주체를 분리하는 분석 → `gwangju-building-art-network` § 건설사가 어떤 작가를 선호하는가: 먼저 발주 구조를 분해해야 한다 · `ing-20261024-gwangju-building-art-network`
-- 대행업체·제작소·심의위원회가 작가 선택에 미치는 영향 → `gwangju-building-art-network` § 대행업체·제작소·심의위원회라는 보이지 않는 층 · `ing-20261024-gwangju-building-art-network`
-- 동문·심의 경력·브랜드 반복을 특혜나 선호로 곧장 해석하지 않는 기준 → `gwangju-building-art-network` § 관계망을 조사할 때 단정해서는 안 되는 것 · `ing-20261024-gwangju-building-art-network`
-- 광주 비공식 미술관의 현장 기록 항목과 답사 구역 → `gwangju-building-art-network` § 광주 비공식 미술관을 기록하는 방법; `gwangju-building-art-network` § 우선 답사할 세 구역 · `ing-20261024-gwangju-building-art-network`
-- 그리스 중심 철학사의 전승과 제도 → `ancient-philosophy-beyond-greece` § 그리스에서 시작된 것은 모든 생각인가, 특정한 계보인가 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 고대 문헌의 동시대성과 선후 구별 → `ancient-philosophy-beyond-greece` § 동시대와 이전 시대를 먼저 가르기 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 이집트 프타호테프와 아메네모페 → `ancient-philosophy-beyond-greece` § 이집트: 프타호테프와 아메네모페의 교훈 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 길가메시와 루들룰 벨 네메키 → `ancient-philosophy-beyond-greece` § 메소포타미아: 길가메시와 '바빌로니아의 욥' · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 나부-리만니와 키딘누의 천문학 → `ancient-philosophy-beyond-greece` § 바빌로니아 천문학: 나부-리만니와 키딘누 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 욥기와 전도서의 사유 → `ancient-philosophy-beyond-greece` § 히브리의 욥기와 전도서: 고통, 허무, 시간 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 자라투스트라와 편년의 불확실성 → `ancient-philosophy-beyond-greece` § 페르시아의 자라투스트라: 철학자와 예언자 사이 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 산쿠니아톤과 마고의 전승 → `ancient-philosophy-beyond-greece` § 페니키아와 카르타고: 산쿠니아톤과 마고의 잃어버린 책 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 그리스와 주변 문헌의 보존 경로 → `ancient-philosophy-beyond-greece` § 하나의 철학사와 여러 문헌의 보존 경로 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 비그리스 사유를 읽는 네 가지 기준 → `ancient-philosophy-beyond-greece` § 그리스 바깥을 읽을 때의 네 가지 질문 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 구약 전승과 고대 사유의 분류 → `sumer-bible-primeval-history` § 관련 읽기: 고대 문헌과 철학사의 분류 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 드레퓌스파와 반드레퓌스파의 의미 및 유죄·권위·소속 문제의 구별 → `dreyfus-affair-intellectuals` § 드레퓌스파와 반드레퓌스파: '찬반'의 정확한 대상 · `ing-20261025-dreyfus-intellectuals`
-- 1898년 졸라의 공개 고발과 지식인 청원 및 정치적 반작용 → `dreyfus-affair-intellectuals` § 1898년: '나는 고발한다'와 지식인의 집단적 출현 · `ing-20261025-dreyfus-intellectuals`
-- 졸라·클레망소·라자르·슈뢰르-케스트네르·레낙·조레스의 개입 → `dreyfus-affair-intellectuals` § 드레퓌스파의 선두: 언론·정치·재심 운동 · `ing-20261025-dreyfus-intellectuals`
-- 아나톨 프랑스·프루스트·뒤르켐·에르·페기·미르보·모네·르나르의 참여 → `dreyfus-affair-intellectuals` § 드레퓌스파의 문학·철학·학문 진영 · `ing-20261025-dreyfus-intellectuals`
-- 드뤼몽·바레스·모라스·로슈포르·르메트르·코페·브뤼느티에르·데룰레드·도데의 반대 → `dreyfus-affair-intellectuals` § 반드레퓌스파의 중심: 민족주의와 군의 권위 · `ing-20261025-dreyfus-intellectuals`
-- 드가·르누아르·드니의 태도와 예술계 인간관계의 분열 → `dreyfus-affair-intellectuals` § 화실과 우정까지 갈라진 사건: 드가·르누아르·드니 · `ing-20261025-dreyfus-intellectuals`
-- 로댕·페기·소렐·푸앵카레의 입장 분류와 근거의 한계 → `dreyfus-affair-intellectuals` § 고정된 두 색으로 칠하기 어려운 사람들 · `ing-20261025-dreyfus-intellectuals`
-- 서명자·조직가·전문가·후대 사상 궤적을 구별하는 인물 분석 기준 → `dreyfus-affair-intellectuals` § 인물을 분류할 때 혼동하기 쉬운 다섯 가지 기준 · `ing-20261025-dreyfus-intellectuals`
-- 현대 지식인의 정치적 출현과 전문성·발언권 사이의 긴장 → `dreyfus-affair-intellectuals` § 현대적 '지식인'이라는 문제의 탄생 · `ing-20261025-dreyfus-intellectuals`
-- 드레퓌스 사건의 지식인 분열과 기존 혐오 동원사 간 직접 연결 → `hate-escalation-brakes-history` § 1898년 프랑스 반유대주의 급등: 강한 동원이 반드시 계속 가속되지는 않는다 · `ing-20261025-dreyfus-intellectuals`
-- 벨 에포크·1929년·1939년의 서로 다른 위험 기제 → `world-crisis-historical-analogies` § 직전이라는 말의 위험 · `ing-20261025-state-hollowing-critical-optimism`
-- 1914년형 확전과 현대 억지·제한전의 차이 → `world-crisis-historical-analogies` § 벨 에포크의 이중성: 연결된 세계와 충돌하는 제국 · `ing-20261025-state-hollowing-critical-optimism`
-- 기술 낙관·금융 취약성과 제도적 방화벽의 비교 → `world-crisis-historical-analogies` § 1929년의 그림자: 신기술·자산·신용·관세 · `ing-20261025-state-hollowing-critical-optimism`
-- 1930년대식 수정주의와 현대 권위주의의 차이 → `world-crisis-historical-analogies` § 1930년대 후반: 정치적 피로, 수정주의, 전쟁의 선택 가능성 · `ing-20261025-state-hollowing-critical-optimism`
-- 위험의 복합 연쇄와 역사 유비의 해석 한계 → `world-crisis-historical-analogies` § 파국의 합성보다 위기의 연쇄를 본다 · `ing-20261025-state-hollowing-critical-optimism`
-- 기존 세계전쟁 확전 모형과 국가 공동화 관점의 직접 통합 → `war-escalation-local-to-world` § 역사 유비의 두 번째 층: 전쟁 전야와 국가의 내부 공동화 · `ing-20261025-state-hollowing-critical-optimism`
-- 1895년부터 제61회 국제미술전까지의 연혁과 회차 구분 → `venice-biennale-history` § 130년과 61회: 비엔날레의 시간은 단순한 2년 주기가 아니다 · `ing-20261025-venice-biennale`
-- 도시 관광 박람회로 출발한 국제미술전의 제도적 성격 → `venice-biennale-history` § 1895년: 관광 도시가 만든 국제 미술 박람회 · `ing-20261025-venice-biennale`
-- 중앙전과 국가관이라는 두 대표성 형식의 긴장 → `venice-biennale-history` § 국가관의 탄생: 미술의 형식이 국가를 닮다 · `ing-20261025-venice-biennale`
-- 전후 냉전기 미술 외교와 공간적 중심·주변 비대칭 → `venice-biennale-history` § 전후와 냉전: 세계 미술 권력의 지도 · `ing-20261025-venice-biennale`
-- 1968년 전시 저항과 제도 비판의 질문 → `venice-biennale-history` § 1968년: 전시가 권위의 대상이 되다 · `ing-20261025-venice-biennale`
-- 아페르토와 큐레이터 중심의 전시 체제 → `venice-biennale-history` § 1980년대: 큐레이터가 한 시대의 문장을 쓰다 · `ing-20261025-venice-biennale`
-- 비서구와 탈식민 중심화의 의의 및 중심 권력의 잔존 → `venice-biennale-history` § 1990년대 이후: 누가 세계미술을 대표하는가 · `ing-20261025-venice-biennale`
-- 프리오프닝 평가와 장기 관람이라는 서로 다른 시간 → `venice-biennale-history` § 반년짜리 전시의 두 시계: 첫 주의 폭발과 느린 재방문 · `ing-20261025-venice-biennale`
-- 스타 탄생과 스터디셀러 및 베니스 효과의 인과 구분 → `venice-biennale-history` § 스타 탄생과 '스터디셀러': 평판은 어떻게 남는가 · `ing-20261025-venice-biennale`
-- 자르디니와 아르세날레 명칭의 유래 및 공간 대비 → `venice-biennale-sites-pavilions` § '정원들'과 '조선소·무기고'라는 이름 · `ing-20261025-venice-biennale`
-- 자르디니 국가관 분산 동선과 아르세날레 연속형 동선 → `venice-biennale-sites-pavilions` § 자르디니: 국가관마다 문턱이 있는 산책 · `ing-20261025-venice-biennale`
-- 국가관 위치가 드러내는 역사적 자원 불평등 → `venice-biennale-sites-pavilions` § 국가관 배치가 드러내는 권력의 누적 · `ing-20261025-venice-biennale`
-- 자르디니 30개 국가명과 공동관·건물 수 구분 → `venice-biennale-sites-pavilions` § 약 30개 나라를 말할 때 정확히 세어야 할 것 · `ing-20261025-venice-biennale`
-- 2026년 참가 규모와 공간 분포 및 변동의 확인 경계 → `venice-biennale-sites-pavilions` § 2026년 분포와 변동: 숫자는 고정된 건축 지도가 아니다 · `ing-20261025-venice-biennale`
-- In Minor Keys의 기획과 코요 쿠오 사후 전시 실현 → `venice-biennale-2026-critical-reception` § 제61회 국제미술전: 낮은 음조가 던진 문제 · `ing-20261025-venice-biennale`
-- 참가국 정치 논쟁과 작품 평가를 분리하는 기준 → `venice-biennale-2026-critical-reception` § 작품 평가와 제도 사건은 같은 평판이 아니다 · `ing-20261025-venice-biennale`
-- 전시 과밀·편집력 부족 비판과 사후 구현 옹호의 대립 → `venice-biennale-2026-critical-reception` § 비판 1: 관대함이 편집의 부재로 바뀌는 순간 · `ing-20261025-venice-biennale`
-- 휴식과 치유의 미학을 정치적 회피로 볼 수 있는지의 논쟁 → `venice-biennale-2026-critical-reception` § 비판 2: 휴식의 언어는 정치적 위기에 답하는가 · `ing-20261025-venice-biennale`
-- 다성성과 비서구 모더니즘 재해석을 높게 보는 비평 → `venice-biennale-2026-critical-reception` § 옹호: 유작의 다성성과 주목받지 못한 계보 · `ing-20261025-venice-biennale`
-- 중앙전 주요 작품과 오스트리아 등 국가관의 입소문 사례 → `venice-biennale-2026-critical-reception` § 강하게 회자된 작품과 국가관 · `ing-20261025-venice-biennale`
-- 개막기 여론과 장기적인 미술사적 평가를 구별하는 문제 → `venice-biennale-2026-critical-reception` § 평가는 언제 굳어지는가: 개막 주간과 이후의 여섯 달 · `ing-20261025-venice-biennale`
-- 세계대전 확전 질문과 개별 국경의 첫 충돌 가능성의 구별 → `war-escalation-local-to-world` § 어느 분쟁이 먼저 터질까: 확전 위험과 발발 가능성의 분리 · `ing-20261026-war-resilience-border-faultlines`
-- 메시아 참칭자·선구자·예언자·카발라 신비가의 구별 → `jewish-messianic-claimants-kabbalah` § 메시아·선구자·예언자·카발라 신비가는 같은 사람인가 · `ing-20261026-jewish-messianism-kabbalah`
-- 고대 후기 크레타의 모세와 출애굽 재연의 전승 → `jewish-messianic-claimants-kabbalah` § 중세 이전의 선행 사례: 크레타의 모세 · `ing-20261026-jewish-messianism-kabbalah`
-- 아부 이사·유드간·세레네의 해방·율법 개혁·예언 운동 → `jewish-messianic-claimants-kabbalah` § 7~8세기 페르시아와 시리아: 무장 해방자와 율법 개혁자 · `ing-20261026-jewish-messianism-kabbalah`
-- 11세기 말~12세기 익명 사례·다비드 알로이·예멘 메시아와 「예멘 서간」 → `jewish-messianic-claimants-kabbalah` § 11~12세기: 십자군기의 불안, 알로이의 반란, 예멘의 경고 · `ing-20261026-jewish-messianism-kabbalah`
-- 아불라피아·니심 벤 아브라함과 예언적 카발라·도래 연도 예고 → `jewish-messianic-claimants-kabbalah` § 13세기 말: 아브라함 아불라피아와 예언적 카발라 · `ing-20261026-jewish-messianism-kabbalah`
-- 모세 보타렐·아셰르 렘라인·다비드 르우베니·솔로몬 몰코의 유형과 시대 구분 → `jewish-messianic-claimants-kabbalah` § 15~16세기: 중세 말의 신비가와 근세 초의 구원 열망 · `ing-20261026-jewish-messianism-kabbalah`
-- 루리아·비탈의 카발라 구원론과 직접 메시아 자칭 주장의 구별 → `jewish-messianic-claimants-kabbalah` § 사페드의 카발라: 이삭 루리아와 하임 비탈을 어디에 넣을까 · `ing-20261026-jewish-messianism-kabbalah`
-- 1666년 샤브타이 츠비의 메시아 운동과 이슬람 개종 → `jewish-messianic-claimants-kabbalah` § 17세기 샤브타이 츠비: 중세의 반복이 대규모 운동으로 변할 때 · `ing-20261026-jewish-messianism-kabbalah`
-- 야코프 프랑크와 샤브타이 이후 메시아주의의 변형 → `jewish-messianic-claimants-kabbalah` § 18세기 야코프 프랑크: 메시아 운동의 후속 변형 · `ing-20261026-jewish-messianism-kabbalah`
-- 시대·인물·구원 운동 성격을 대조하는 간략 연표 → `jewish-messianic-claimants-kabbalah` § 대표 인물의 간략 연표와 분류 · `ing-20261026-jewish-messianism-kabbalah`
-- 모든 세기라는 수사·연대별 증거 불균등·공동체의 권위 부여 기준 → `jewish-messianic-claimants-kabbalah` § '모든 세기의 메시아'라는 표현을 읽는 세 가지 기준 · `ing-20261026-jewish-messianism-kabbalah`
-- 서지·개별 전승·메시아 자칭 여부의 재검증 필요성 → `jewish-messianic-claimants-kabbalah` § 자료 범위와 검토할 문제 · `ing-20261026-jewish-messianism-kabbalah`
-- 러다이트의 지역별 노동조건과 1811~1813년 진행 → `luddite-movement-history` § 1812년: 지역 운동이 무장 충돌로 바뀌다 · `ing-20261026-luddite-history-executions`
-- 기술 반대 통념과 집단교섭 해석의 구별 → `luddite-movement-history` § 기술 반대라는 이름의 함정 · `ing-20261026-luddite-history-executions`
-- 요크 랭커스터 체스터 후기 사건의 사형 집행과 선고 구분 → `luddite-executions-memory` § 사망자 명단을 만들 때의 첫 구분 · `ing-20261026-luddite-history-executions`
-- 요크 사형자 명단과 개인별 신상의 미검증 문제 → `luddite-executions-memory` § 요크셔: 이름이 남은 사람들 · `ing-20261026-luddite-history-executions`
-- 러프버러 펜트리치와 후속 운동의 구별 → `luddite-executions-memory` § 1816~1817년: 후기 사건 · `ing-20261026-luddite-history-executions`
-- 처형자의 개인사 복원과 순교자 기억의 한계 → `luddite-executions-memory` § 사람의 삶을 복원하는 방법 · `ing-20261026-luddite-history-executions`
-- 프랭크 필과 사이크스의 오래된 공개 도서 및 번역 이용조건 → `luddite-executions-memory` § 오래된 무료 공개 도서와 번역의 문제 · `ing-20261026-luddite-history-executions`
-- 청말 팔기·녹영과 상군식 용영의 영 규모 구별 → `late-qing-yongying-daily-life` § ‘영’은 한 가지 크기의 부대가 아니었다 · `ing-20261026-qing-tributaries-telegraph`
-- 상군식 영 505명과 네 초·여덟 대·친병 조직 → `late-qing-yongying-daily-life` § 지휘 체계: 영관 한 사람과 네 개의 초 · `ing-20261026-qing-tributaries-telegraph`
-- 도모·소창·태창 혼합 편제와 무기별 협동 → `late-qing-yongying-daily-life` § 창과 총이 한 영에 공존했다 · `ing-20261026-qing-tributaries-telegraph`
-- 장부 180명 및 전투원·수송 인원의 구분 → `late-qing-yongying-daily-life` § 전투원 505명 뒤의 보이지 않는 병력 · `ing-20261026-qing-tributaries-telegraph`
-- 주둔군 일과의 영·초·대별 설명적 복원 → `late-qing-yongying-daily-life` § 한 영의 평범한 하루를 복원하다 · `ing-20261026-qing-tributaries-telegraph`
-- 원세개 금주 72영 전보 위협과 실재 동원의 구별 → `late-qing-yongying-daily-life` § ‘금주 72영’이라는 말은 3만 6천 명을 뜻하는가 · `ing-20261026-qing-tributaries-telegraph`
-- 군영 정원과 실제 상륙·전달 능력의 구별 → `late-qing-yongying-daily-life` § 규모와 기동의 역설 · `ing-20261026-qing-tributaries-telegraph`
-- 조공·의례·종주권·군사개입·영토주권의 구별 → `qing-tributaries-dissolution` § ‘청의 마지막 속방’이라는 말의 두 얼굴 · `ing-20261026-qing-tributaries-telegraph`
-- 류큐의 양속과 1872~1879년 일본 병합 수단 → `qing-tributaries-dissolution` § 류큐: 양쪽에 걸쳐 있던 왕국의 한쪽 문을 잠그다 · `ing-20261026-qing-tributaries-telegraph`
-- 1883~1885년 청불전쟁과 베트남 보호국화 → `qing-tributaries-dissolution` § 베트남: 종주권을 지키기 위한 전쟁이 오히려 상실을 확정하다 · `ing-20261026-qing-tributaries-telegraph`
-- 1885~1886년 버마 병합과 의례적 조공 잔재 → `qing-tributaries-dissolution` § 버마: 왕국 병합 뒤에도 남긴 ‘조공’의 문구 · `ing-20261026-qing-tributaries-telegraph`
-- 조선 1876~1895년 일본·청 경쟁과 조공 관계의 법적 종료 → `qing-tributaries-dissolution` § 조선: 청이 마지막으로 실제 병력을 걸었던 문턱 · `ing-20261026-qing-tributaries-telegraph`
-- 조선의 최후 정치 속방과 네팔의 의례적 사절 잔존 구별 → `qing-tributaries-dissolution` § 네팔: 마지막 남은 조공을 어떻게 셀 것인가 · `ing-20261026-qing-tributaries-telegraph`
-- 속방별 행정·보호국·병합·전쟁의 차이 → `qing-tributaries-dissolution` § 하나씩 빼앗긴 것이 아니라, 각각 다른 권리를 빼앗겼다 · `ing-20261026-qing-tributaries-telegraph`
-- 류큐 처분 시점과 후대 북양함대 우세 이미지의 구별 → `ryukyu-disposition-qing-japan` § ‘청 해군이 일본보다 강했다’는 역설부터 · `ing-20261026-qing-tributaries-telegraph`
-- 류큐 양속과 1872년 번 설치 및 1874년 대만 출병 → `ryukyu-disposition-qing-japan` § 1874년 대만 출병: 누구의 신민을 보호하는가 · `ing-20261026-qing-tributaries-telegraph`
-- 1875년 청과의 외교 단절 명령 및 1879년 현 설치 → `ryukyu-disposition-qing-japan` § 1879년: 수백 명의 병사와 경찰이 왕국을 접수하다 · `ing-20261026-qing-tributaries-telegraph`
-- 군함 전력과 실제 류큐 상륙·복권 작전의 구별 → `ryukyu-disposition-qing-japan` § 청의 고민: 어째서 군함 몇 척을 보내지 않았는가 · `ing-20261026-qing-tributaries-telegraph`
-- 1880년 류큐 남부 분할안과 통상 협상 불성립 → `ryukyu-disposition-qing-japan` § 1880년: 아예 왕국을 나누자는 외교 · `ing-20261026-qing-tributaries-telegraph`
-- 류큐의 실제 점유와 청의 영토주권 승인 분리 → `ryukyu-disposition-qing-japan` § ‘점령’과 ‘승인’ 사이의 간격 · `ing-20261026-qing-tributaries-telegraph`
-- 로마 곡물배급과 현대 복지국가의 범주 차이 → `roman-industry-gold-standard-history` § 빵과 서커스: 도시의 식량 공급을 복지 낭비라고 부를 수 있는가 · `ing-20261030-money-credit-economic-history`
-- 주화 절하와 현대 예금통화 창조의 역사적 구분 → `roman-industry-gold-standard-history` § 로마의 주화 절하와 현대 신용팽창은 다른 기제다 · `ing-20261030-money-credit-economic-history`
-- 서로마 476년과 동로마 1453년의 역사적 구별 → `roman-industry-gold-standard-history` § 476년에 끝난 로마, 1453년까지 계속된 로마 · `ing-20261030-money-credit-economic-history`
-- 중세 천년 정체론과 11~13세기 상업혁명 → `roman-industry-gold-standard-history` § 1700년까지 잠들어 있던 경제? 중세 상업혁명의 반례 · `ing-20261030-money-credit-economic-history`
-- 산업혁명의 높은 임금·석탄·항해법·특허제도 → `roman-industry-gold-standard-history` § 산업혁명의 영국이 ‘온전한 자유시장’이었다는 주장 · `ing-20261030-money-credit-economic-history`
-- 금본위와 대공황의 디플레이션·은행위기 → `roman-industry-gold-standard-history` § 단단한 화폐가 목을 조를 때: 금본위의 두 얼굴 · `ing-20261030-money-credit-economic-history`
-- 1931·1933·1934·1971년 금본위 제도 변동의 구분 → `roman-industry-gold-standard-history` § 누가 먼저 금본위를 떠났는가: 세 연도의 차이 · `ing-20261030-money-credit-economic-history`
-- 대공황 주요국 금본위 이탈과 위기 대응의 차이 → `world-crisis-historical-analogies` § 1929년의 그림자: 신기술·자산·신용·관세 · `ing-20261030-money-credit-economic-history`
-- 경제사의 단선적 인과 서사와 검증 질문 → `roman-industry-gold-standard-history` § 세 문장으로 끝나는 역사와 복수의 인과 · `ing-20261030-money-credit-economic-history`
-- 러다이트 공개 고서 TXT와 번역 공정의 직접 연결 → `luddite-executions-memory` § 오래된 무료 공개 도서와 번역의 문제 · `ing-20261030-book-translation-pipeline`
+- AI 생산능력과 소득 분리의 역사적 독서 연결 → `ai-economic-transition` § 케인스적 접근: 생산 능력과 구매력 사이의 시간차 · `ing-20261030-great-depression-world-literature`
 
 ## 음악 (125)
 

@@ -39,6 +39,7 @@
   - 자동화의 대체·복원 효과와 재교육의 조건 · `ing-20261023-ai-economic-transition`
 - **케인스적 접근: 생산 능력과 구매력 사이의 시간차**
   - 케인스적 수요 분석과 전환기의 구매력 · `ing-20261023-ai-economic-transition`
+  - AI 생산능력과 소득 분리의 역사적 독서 연결 · `ing-20261030-great-depression-world-literature`
 - **혁신과 성장의 접근: 무엇을 자동화하고 무엇이 병목으로 남는가**
   - 혁신·성장 접근과 필수 과업의 병목 · `ing-20261023-ai-economic-transition`
 - **마르크스적 접근: 기계의 능력보다 생산관계와 분배**

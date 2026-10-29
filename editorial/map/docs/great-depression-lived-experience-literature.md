@@ -46,4 +46,36 @@
 
 ## 장부에 기록된 반영 지식
 
-- 없음 (장부 도입 이전 원고이거나 아직 기록이 없다. 기록이 없다는 것은 내용이 없다는 뜻이 아니다.)
+- **풍요 속에서 자리를 잃은 사람들: 세계 대공황의 생활 기록과 동시대 소설**
+  - 생산의 풍요와 노동소득·구매력 접근권의 분리 · `ing-20261030-great-depression-world-literature`
+- **무엇을 읽으려는가: 가격보다 소득, 결핍보다 배제**
+  - 실업의 지속·사회적 자리 상실과 생활 선택의 축소 · `ing-20261030-great-depression-world-literature`
+  - 동시대 빈곤과 대공황 직접 원인의 구분 · `ing-20261030-great-depression-world-literature`
+- **독일어권: 하층 중산층의 추락과 도시에서의 실직**
+  - 팔라다·케스트너·코인의 독일 대공황기 소설 · `ing-20261030-great-depression-world-literature`
+- **미국: 일자리를 찾는 이동, 몸을 파는 경쟁, 농장과 가족**
+  - 맥코이의 댄스 마라톤과 스타인벡의 노동 서사 · `ing-20261030-great-depression-world-literature`
+  - 르 쉬어·올슨·배브의 당대 집필 후대 발표 작품 · `ing-20261030-great-depression-world-literature`
+- **소설만으로는 보이지 않는 목소리: 당대 기록과 후대 구술사의 거리**
+  - 에이지·에번스의 소작농 현장 기록 · `ing-20261030-great-depression-world-literature`
+  - 당대 르포·후대 구술사·당대 원고의 후대 출간 구분 · `ing-20261030-great-depression-world-literature`
+- **영국과 영어로 쓴 유럽 도시의 빈곤: 산업지대와 개인의 추락**
+  - 오웰과 진 리스의 영국·유럽 도시 빈곤 기록 · `ing-20261030-great-depression-world-literature`
+- **프랑스어권: 파리의 하층 생활과 몬트리올의 빈곤**
+  - 다비·기유·루아의 프랑스어권 도시·지역사회 문학 · `ing-20261030-great-depression-world-literature`
+- **스페인어권: 1930년대의 농민과 광산을 '대공황'이라고 부를 때**
+  - 이카사와 바예호의 스페인어권 농업·광산 소설 · `ing-20261030-great-depression-world-literature`
+- **포르투갈어권: 브라질의 1930년대 소설**
+  - 하무스의 브라질 가뭄·이주·빈곤 소설 · `ing-20261030-great-depression-world-literature`
+- **일본어권: 쇼와 불황과 노동자의 세계**
+  - 하야시 후미코와 고바야시 다키지의 일본어권 노동 기록 · `ing-20261030-great-depression-world-literature`
+- **다른 읽기 길은 왜 중심 목록에서 빠졌는가**
+  - 갤브레이스·킨들버거·테민·프리드먼 등 거시·정치사 독서 갈래 · `ing-20261030-great-depression-world-literature`
+  - 프레카리아트·불쉿 잡·애프터 워크 등 미래 노동 전망서와의 구분 · `ing-20261030-great-depression-world-literature`
+- **한국어 번역을 고려한 실용 독서 경로**
+  - 한국어판 소개 작품과 원어 추적 우선순위 · `ing-20261030-great-depression-world-literature`
+- **무엇을 비교하면 '끝까지 살아본 사람들'이 보이는가**
+  - 해고·생활 축소·대안 노동·존엄·정치적 귀결의 비교 축 · `ing-20261030-great-depression-world-literature`
+  - AI 자동화가 대공황과 장기 디플레이션을 재현한다는 예언의 한계 · `ing-20261030-great-depression-world-literature`
+- **서지 및 해석상의 검증 경계**
+  - 원서·한국어판 서지와 대공황 직접성 미검증 표시 · `ing-20261030-great-depression-world-literature`
