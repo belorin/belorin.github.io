@@ -1,0 +1,201 @@
+{
+  "id": "ing-20261030-wto-digital-transmissions",
+  "processed_on": "2026-10-30",
+  "coverage": "visible-complete",
+  "limit_note": "이 대화에서 실제로 보이는 질의 및 답변 범위만 처리. 링크는 대화에 제시된 참고 경로로만 보존했으며 외부 자료의 원문·2026년 결정을 새로 검증하지 않음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "망 이용대가와 전자적 전송 관세의 법적 대상 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wto-digital-transmission-moratorium",
+          "section": "세 가지 층위: 통신요금, 망 이용대가, 디지털 관세"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "1998년 WTO 전자상거래 관세 유예와 반복 연장 구조",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wto-digital-transmission-moratorium",
+          "section": "1998년의 유예는 영구 면제가 아니었다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "fact",
+      "title": "2024년 MC13 기한과 2026년 MC14 연장 실패 보도",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wto-digital-transmission-moratorium",
+          "section": "1998년의 유예는 영구 면제가 아니었다"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "fact",
+      "title": "2026년 19개 WTO 회원의 별도 비부과 약속 보도",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wto-digital-transmission-moratorium",
+          "section": "1998년의 유예는 영구 면제가 아니었다"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "question",
+      "title": "전자적 전송의 범위: 다운로드·클라우드·AI 모델·API",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wto-digital-transmission-moratorium",
+          "section": "무엇을 '전자적 전송'이라 부를 것인가"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "argument",
+      "title": "브라질과 인도의 정책 공간·세수·연장 기한 논쟁",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wto-digital-transmission-moratorium",
+          "section": "왜 브라질과 인도가 이 유예에 의문을 제기하는가"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "counterargument",
+      "title": "잠재적 관세 수입과 중소 플랫폼의 거래비용·진입장벽",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wto-digital-transmission-moratorium",
+          "section": "왜 브라질과 인도가 이 유예에 의문을 제기하는가"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "fact",
+      "title": "EU의 공정분담과 디지털네트워크법 조정 접근",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wto-digital-transmission-moratorium",
+          "section": "함께 떠오른 또 다른 논쟁: 통신사의 '공정분담'"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "fact",
+      "title": "ANATEL·TRAI의 망 이용대가 및 OTT 규제와 WTO 관세의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wto-digital-transmission-moratorium",
+          "section": "함께 떠오른 또 다른 논쟁: 통신사의 '공정분담'"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "example",
+      "title": "메타와 도이치텔레콤 네트워크 서비스 계약 분쟁",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wto-digital-transmission-moratorium",
+          "section": "함께 떠오른 또 다른 논쟁: 통신사의 '공정분담'"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "concept",
+      "title": "데이터센터 내부 트래픽·국경 간 전송·사용자 서비스의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wto-digital-transmission-moratorium",
+          "section": "데이터센터와 AI: 어느 데이터가 국경을 넘는가"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "argument",
+      "title": "AI 현지화·CDN·전력망 비용과 디지털 관세의 별도 영향 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wto-digital-transmission-moratorium",
+          "section": "데이터센터와 AI: 어느 데이터가 국경을 넘는가"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "argument",
+      "title": "국가별 디지털 통상 규칙과 ISP 계약의 중첩에 따른 인터넷 파편화 위험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wto-digital-transmission-moratorium",
+          "section": "세계 인터넷이 톨게이트로 분할되는가"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "question",
+      "title": "보도된 합의의 법적 상태·국가별 과세와 AI 적용 범위의 검증 필요성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wto-digital-transmission-moratorium",
+          "section": "무엇이 이미 벌어진 일이고, 무엇이 아직 가설인가"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "concept",
+      "title": "추론 스케일링의 계산량과 관세 적용 가능 트래픽의 비동일성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-compute-scaling-inference",
+          "section": "국경을 넘어 제공되는 AI와 디지털 관세의 별도 문제"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "other",
+      "title": "대화에서 제시된 WTO·Reuters·TRAI·ANATEL·USTR·IEA 참고 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wto-digital-transmission-moratorium",
+          "section": "참고 경로와 자료의 한계"
+        }
+      ]
+    }
+  ]
+}
