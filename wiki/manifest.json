@@ -1377,7 +1377,7 @@
       "title": "AI 경제 이행기: 과업·수요·혁신·소유를 둘러싼 경제학의 질문",
       "category": "AI와 사회",
       "status": "공개 연구 보완·조건부 분석",
-      "updated": "2026-10-23",
+      "updated": "2026-10-30",
       "summary": "과업의 대체·복원, 유효수요, 혁신의 병목, 소유와 분배를 여섯 분석 틀로 비교하고 이행 경로와 정량 모형의 조건을 구별한다.",
       "tags": [
         "AI와 사회",
@@ -1393,14 +1393,17 @@
         "gradual-disempowerment",
         "ai-human-control-guide",
         "open-questions",
-        "ai-transition-policy-gap"
+        "ai-transition-policy-gap",
+        "global-bpo-labor-geography",
+        "us-labor-market-geography-2026",
+        "ai-hidden-labor-feeding-machine-2026"
       ],
       "aliases": [
         "AI 경제 이행기",
         "AI 경제학파 비교"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-23"
+      "last_enriched_on": "2026-10-30"
     },
     {
       "path": "wiki/ai-capital-labor-distribution.md",
@@ -1410,7 +1413,7 @@
       "title": "AI 시대의 자본·노동·분배: 소유와 협상력은 어떻게 재편되는가",
       "category": "AI와 사회",
       "status": "개념 분석·일부 자료 확인",
-      "updated": "2026-10-23",
+      "updated": "2026-10-30",
       "summary": "자본 유형별 이해관계와 경영 자동화·소유권의 차이를 설명하고, 직업의 노출·채용 수요·숙련·교섭력을 조건별로 검토한다.",
       "tags": [
         "AI와 사회",
@@ -1426,14 +1429,17 @@
         "gradual-disempowerment",
         "disempowerment-measurement",
         "ai-human-control-guide",
-        "ai-transition-policy-gap"
+        "ai-transition-policy-gap",
+        "ai-cloud-ownership-rent",
+        "global-bpo-labor-geography",
+        "ai-hidden-labor-feeding-machine-2026"
       ],
       "aliases": [
         "AI와 자본 노동",
         "AI 시대의 분배"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-23"
+      "last_enriched_on": "2026-10-30"
     },
     {
       "path": "wiki/ai-class-fiction.md",
@@ -2664,7 +2670,9 @@
       "source": "내부 총합 · 현재 접근 가능한 논의와 이미 제시된 링크만 사용 · 이번 편집에서 외부 추가 조사 없음",
       "related": [
         "japan-physical-ai-skill-transfer",
-        "wto-digital-transmission-moratorium"
+        "wto-digital-transmission-moratorium",
+        "ai-cloud-ownership-rent",
+        "ai-hidden-labor-feeding-machine-2026"
       ],
       "aliases": [
         "AI 데이터센터와 추론",
@@ -4584,6 +4592,157 @@
         "금본위 이탈의 역사",
         "1931년 영국 금본위",
         "1971년 닉슨 쇼크"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-30"
+    },
+    {
+      "id": "silicon-valley-firm-geography",
+      "path": "wiki/silicon-valley-firm-geography.md",
+      "publish": true,
+      "order": 142,
+      "title": "실리콘밸리는 한 동네가 아니다: 기업 본사와 교외형 기술 회랑의 지리",
+      "category": "사회와 제도",
+      "status": "대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요",
+      "updated": "2026-10-30",
+      "summary": "실리콘밸리 대표 기업이 Menlo Park에서 San Jose까지 분포하는 교외형 회랑과 지도·주소·산업 집적의 차이",
+      "tags": [
+        "실리콘밸리",
+        "기업 지리",
+        "Bay Area",
+        "기술 클러스터"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "ai-cloud-ownership-rent",
+        "us-labor-market-geography-2026"
+      ],
+      "aliases": [
+        "실리콘밸리 기업 지도",
+        "Silicon Valley 기업 위치"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-30"
+    },
+    {
+      "id": "ai-hidden-labor-feeding-machine-2026",
+      "path": "wiki/ai-hidden-labor-feeding-machine-2026.md",
+      "publish": true,
+      "order": 143,
+      "title": "『AI는 인간을 먹고 자란다』 이후: 보이지 않는 노동은 사라졌는가, 분화했는가",
+      "category": "AI와 사회",
+      "status": "대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요",
+      "updated": "2026-10-30",
+      "summary": "2024년 원서와 2025년 한국어판을 기준으로 LLM 데이터 평가·합성데이터·전문가·검수·물류·창작·데이터센터 노동 변화를 대조",
+      "tags": [
+        "AI 노동",
+        "라벨링",
+        "RLHF",
+        "BPO",
+        "Feeding the Machine"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "global-bpo-labor-geography",
+        "ai-cloud-ownership-rent",
+        "ai-compute-scaling-inference",
+        "ai-economic-transition"
+      ],
+      "aliases": [
+        "AI는 인간을 먹고 자란다 이후",
+        "Feeding the Machine 2026"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-30"
+    },
+    {
+      "id": "global-bpo-labor-geography",
+      "path": "wiki/global-bpo-labor-geography.md",
+      "publish": true,
+      "order": 144,
+      "title": "세계 BPO 시장의 지리: 누가 사무 노동을 수출하고, 누가 값을 지불하는가",
+      "category": "사회와 제도",
+      "status": "대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요",
+      "updated": "2026-10-30",
+      "summary": "인도·필리핀·유럽·라틴아메리카·아프리카 BPO 공급국, 업종, 수출·고용·청구단가와 노동권 비교의 통계적 함정",
+      "tags": [
+        "BPO",
+        "아웃소싱",
+        "콜센터",
+        "국제 노동",
+        "데이터 라벨링"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "ai-hidden-labor-feeding-machine-2026",
+        "ai-economic-transition",
+        "us-labor-market-geography-2026"
+      ],
+      "aliases": [
+        "세계 BPO 시장",
+        "BPO 국가별 가격 노동복지"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-30"
+    },
+    {
+      "id": "ai-cloud-ownership-rent",
+      "path": "wiki/ai-cloud-ownership-rent.md",
+      "publish": true,
+      "order": 145,
+      "title": "AI 모델 기업과 클라우드 기업: 지분, 컴퓨트 계약, 지대의 세 층",
+      "category": "AI와 사회",
+      "status": "대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요",
+      "updated": "2026-10-30",
+      "summary": "OpenAI·Anthropic 등 모델사와 Azure·AWS·Google·Oracle·AI 클라우드의 지분·GPU 계약·수익 배분 및 인프라 병목",
+      "tags": [
+        "AI 클라우드",
+        "OpenAI",
+        "Anthropic",
+        "지분율",
+        "컴퓨트",
+        "지대경제"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "ai-capital-labor-distribution",
+        "ai-compute-scaling-inference",
+        "silicon-valley-firm-geography",
+        "ai-hidden-labor-feeding-machine-2026"
+      ],
+      "aliases": [
+        "AI 모델 회사 클라우드 지분",
+        "AI 클라우드 지대경제"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-30"
+    },
+    {
+      "id": "us-labor-market-geography-2026",
+      "path": "wiki/us-labor-market-geography-2026.md",
+      "publish": true,
+      "order": 146,
+      "title": "미국 노동시장을 지역으로 읽기: 취업률·실업률·주별 격차와 2026년의 둔화",
+      "category": "사회와 제도",
+      "status": "대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요",
+      "updated": "2026-10-30",
+      "summary": "2026년 봄 BLS 전국 고용률·실업률·U-6, 남부·중서부·동북부·서부 권역과 주요 주별 격차를 시점별로 구분",
+      "tags": [
+        "미국 실업률",
+        "고용률",
+        "BLS",
+        "미국 지역경제",
+        "노동시장"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "ai-economic-transition",
+        "global-bpo-labor-geography",
+        "silicon-valley-firm-geography"
+      ],
+      "aliases": [
+        "미국 2026 실업률 지역별",
+        "미국 주별 고용률"
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-30"
