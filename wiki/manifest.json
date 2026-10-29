@@ -4463,6 +4463,32 @@
       "aliases": [],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-26"
+    },
+    {
+      "path": "wiki/birth-order-korean-evidence.md",
+      "publish": true,
+      "order": 138,
+      "id": "birth-order-korean-evidence",
+      "title": "출생순서가 성격을 만드는가: 한국 연구와 국제 비교의 증거",
+      "category": "사회와 제도",
+      "status": "대화 기반 연구 정리 · 원문 검증 필요",
+      "updated": "2026-10-30",
+      "summary": "출생순서 성격론의 재현성, 인지·학업의 작은 평균 차이, 한국의 부모화·차별적 양육 연구, 국제 비교의 한계를 구분한다.",
+      "tags": [
+        "출생순서",
+        "형제관계",
+        "부모화",
+        "성격심리학",
+        "한국 연구"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [],
+      "aliases": [
+        "출생순위 이론",
+        "맏이 성격 연구"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-30"
     }
   ]
 }
