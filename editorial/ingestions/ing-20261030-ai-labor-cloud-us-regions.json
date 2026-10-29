@@ -1,0 +1,405 @@
+{
+  "id": "ing-20261030-ai-labor-cloud-us-regions",
+  "processed_on": "2026-10-30",
+  "coverage": "visible-complete",
+  "limit_note": "실제로 표시된 발화·자료에 한정. 2026년 봄의 시점별 숫자·기업 계약은 외부 추가 검증 없이 수록.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "실리콘밸리의 교외형 다도시 회랑",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "silicon-valley-firm-geography",
+          "section": "실리콘밸리는 한 동네가 아니다: 기업 본사와 교외형 기술 회랑의 지리"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "실리콘밸리 주요 도시와 대표 기업",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "silicon-valley-firm-geography",
+          "section": "만의 서쪽에서 남쪽으로 내려가는 회사들"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "고속도로와 교외 캠퍼스의 공간적 집적",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "silicon-valley-firm-geography",
+          "section": "지도로 보면 왜 성기게 느껴지는가"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "example",
+      "title": "한국 수도권 회랑과의 공간 비유",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "silicon-valley-firm-geography",
+          "section": "판교 한 블록이 아니라 강남–판교–분당–수원 축"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "concept",
+      "title": "AI 노동 르포의 출간 시차와 비교 범위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-hidden-labor-feeding-machine-2026",
+          "section": "『AI는 인간을 먹고 자란다』 이후: 보이지 않는 노동은 사라졌는가, 분화했는가"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "fact",
+      "title": "라벨링에서 RLHF·전문가 평가로의 분화",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-hidden-labor-feeding-machine-2026",
+          "section": "단순 라벨링에서 평가·보상·검증의 노동으로"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "argument",
+      "title": "자동 채점과 인간 판단의 역할 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-hidden-labor-feeding-machine-2026",
+          "section": "인간의 답을 덜 먹어도 인간의 기준은 여전히 먹는다"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "fact",
+      "title": "저임금 검수와 고임금 전문가 평가의 병존",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-hidden-labor-feeding-machine-2026",
+          "section": "남반구의 저임금 노동과 전문가 고임금 시장은 동시에 존재한다"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "fact",
+      "title": "AI 데이터센터 전력과 노동의 연결",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-hidden-labor-feeding-machine-2026",
+          "section": "데이터센터: 장면의 주변에서 산업의 병목으로"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "fact",
+      "title": "AI 학습 저작권과 음성 소송의 전개",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-hidden-labor-feeding-machine-2026",
+          "section": "창작자의 목소리와 저작물: 윤리에서 계약·소송으로"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "argument",
+      "title": "물류 노동 관리와 채용 대체의 병존",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-hidden-labor-feeding-machine-2026",
+          "section": "물류센터: 감시받는 노동과 채용 자체의 축소 가능성"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "argument",
+      "title": "AI 에이전트의 업무절차 평가와 노동권",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-hidden-labor-feeding-machine-2026",
+          "section": "보호의 방향과 새로 생긴 질문"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "concept",
+      "title": "BPO 시장의 수요·공급·고용 통계 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-bpo-labor-geography",
+          "section": "시장의 크기를 재는 서로 다른 자"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "fact",
+      "title": "주요 BPO 공급국 산업별 규모 예시",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-bpo-labor-geography",
+          "section": "세계의 핵심 공급 회랑"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "fact",
+      "title": "BPO 지역별 청구단가와 임금의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-bpo-labor-geography",
+          "section": "단가: 고객이 내는 값과 노동자가 받는 임금은 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "fact",
+      "title": "BPO 음성·백오피스·KPO·AI 데이터 업무 분화",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-bpo-labor-geography",
+          "section": "업무별 지리: 콜센터, 백오피스, 전문가 서비스, AI 데이터"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "counterargument",
+      "title": "BPO 가격과 노동자 복지의 일대일 대응 반박",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-bpo-labor-geography",
+          "section": "노동자 복지를 국가 순위표로 만들기 어려운 이유"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "concept",
+      "title": "AI 컴퓨트 공급의 여섯 경제적 층위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-cloud-ownership-rent",
+          "section": "먼저 층을 분리한다: 칩, 시설, 클라우드, 모델, 유통"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "fact",
+      "title": "OpenAI·Anthropic 등 주요 모델사의 컴퓨트 연결망",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-cloud-ownership-rent",
+          "section": "모델 회사별 공개된 컴퓨트 연결망"
+        }
+      ]
+    },
+    {
+      "id": "k20",
+      "kind": "fact",
+      "title": "클라우드 공급자와 모델사의 공개 지분 관계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-cloud-ownership-rent",
+          "section": "지분율은 얼마나 공개되어 있는가"
+        }
+      ]
+    },
+    {
+      "id": "k21",
+      "kind": "argument",
+      "title": "AI 인프라 병목과 임대료 지대의 조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-cloud-ownership-rent",
+          "section": "지대는 어디서 발생하는가: 모델 회사가 항공사처럼 될 위험"
+        }
+      ]
+    },
+    {
+      "id": "k22",
+      "kind": "counterargument",
+      "title": "인프라 지대의 공급과잉·효율화 반론",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-cloud-ownership-rent",
+          "section": "지대는 어디서 발생하는가: 모델 회사가 항공사처럼 될 위험"
+        }
+      ]
+    },
+    {
+      "id": "k23",
+      "kind": "argument",
+      "title": "모델 기업의 취약성과 수직통합의 위험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-cloud-ownership-rent",
+          "section": "어떤 회사가 더 취약한가"
+        }
+      ]
+    },
+    {
+      "id": "k24",
+      "kind": "concept",
+      "title": "지분 투자와 컴퓨트 사용료의 중첩",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-cloud-ownership-rent",
+          "section": "지분과 사용료를 나란히 받는 기업"
+        }
+      ]
+    },
+    {
+      "id": "k25",
+      "kind": "concept",
+      "title": "미국 실업률·고용률·경제활동참가율의 분모",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "us-labor-market-geography-2026",
+          "section": "실업률과 취업률은 다른 분모를 쓴다"
+        }
+      ]
+    },
+    {
+      "id": "k26",
+      "kind": "fact",
+      "title": "2026년 4월 미국 전국 고용시장 당시 지표",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "us-labor-market-geography-2026",
+          "section": "2026년 4월 전국 지표: 실업률은 낮지만 채용은 느려진 모습"
+        }
+      ]
+    },
+    {
+      "id": "k27",
+      "kind": "fact",
+      "title": "2026년 3월 미국 네 권역 실업률 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "us-labor-market-geography-2026",
+          "section": "남부·중서부·동북부·서부: 미국 전체의 네 권역"
+        }
+      ]
+    },
+    {
+      "id": "k28",
+      "kind": "fact",
+      "title": "2026년 3월 미국 주요 주별 실업률",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "us-labor-market-geography-2026",
+          "section": "2026년 3월의 주요 주별 차이"
+        }
+      ]
+    },
+    {
+      "id": "k29",
+      "kind": "argument",
+      "title": "저채용·저해고와 구직 체감의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "us-labor-market-geography-2026",
+          "section": "구인 건수, 신규 실업수당, 장기실업을 함께 본다"
+        }
+      ]
+    },
+    {
+      "id": "k30",
+      "kind": "counterargument",
+      "title": "지역 실업률을 AI 원인에 귀속하지 않는 원칙",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "us-labor-market-geography-2026",
+          "section": "미국의 노동시장 문제를 AI 하나로 설명하지 않는 이유"
+        }
+      ]
+    },
+    {
+      "id": "k31",
+      "kind": "argument",
+      "title": "계약을 통해 수익을 배분하는 클라우드 지대",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-capital-labor-distribution",
+          "section": "클라우드와 모델 기업 사이의 지대: 투자자가 임대업자이기도 할 때"
+        }
+      ]
+    },
+    {
+      "id": "k32",
+      "kind": "concept",
+      "title": "추론 컴퓨트의 기술 효용과 경제적 소유의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-compute-scaling-inference",
+          "section": "컴퓨트를 소유하는 자와 빌리는 자: GPU 증설의 경제적 층위"
+        }
+      ]
+    },
+    {
+      "id": "k33",
+      "kind": "argument",
+      "title": "BPO와 미국 고용시장의 서로 다른 관측 단위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-economic-transition",
+          "section": "현장에 보이는 노동시장을 어떻게 읽을 것인가"
+        }
+      ]
+    }
+  ]
+}
