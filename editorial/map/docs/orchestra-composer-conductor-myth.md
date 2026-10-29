@@ -24,4 +24,16 @@
 
 ## 장부에 기록된 반영 지식
 
-- 없음 (장부 도입 이전 원고이거나 아직 기록이 없다. 기록이 없다는 것은 내용이 없다는 뜻이 아니다.)
+- **왜 지금은 같은 유형의 네임드가 잘 보이지 않는가**
+  - 녹음·레퍼토리 비용·전후 현대주의·매체 분화의 복합 원인 · `ing-20261030-contemporary-symphonic-journey`
+- **신화가 만들어지는 여섯 개의 장치**
+  - 거장 이름을 공통 교양으로 만드는 반복과 제도 · `ing-20261030-contemporary-symphonic-journey`
+- **작품을 넘어 인간에게 향하는 팬덤**
+  - 말러 전기와 작곡가 인물 신화 · `ing-20261030-contemporary-symphonic-journey`
+  - 교향곡 블록버스터 및 위인 숭배 비유의 한계 · `ing-20261030-contemporary-symphonic-journey`
+- **레닌그라드 교향곡: 한 곡이 전쟁사 한 권이 되는 순간**
+  - 쇼스타코비치 7번 레닌그라드와 포위전 서사 · `ing-20261030-contemporary-symphonic-journey`
+- **지휘자라는 살아 있는 화면**
+  - 지휘자의 몸과 해석자 팬덤 · `ing-20261030-contemporary-symphonic-journey`
+- **음악에서 사람으로, 다시 작품으로**
+  - 교향곡 블록버스터 및 위인 숭배 비유의 한계 · `ing-20261030-contemporary-symphonic-journey`

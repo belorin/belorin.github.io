@@ -47,3 +47,5 @@
   - 미래의 다중 계보와 전후 교향악 재평가 · `ing-20261023-mauceri-classical-canon`
 - **생존 작곡가의 비율과 다음 연주의 경제학**
   - 생존 작곡가의 비율과 정전 형성의 차이 · `ing-20261025-orchestra-repertoire-seasons`
+- **작품이 없는 것이 아니라 작품을 공통의 사건으로 만드는 방식이 달라졌다**
+  - 쇼스타코비치 이후 교향악 쇠퇴와 정전 가시성의 구별 · `ing-20261030-contemporary-symphonic-journey`

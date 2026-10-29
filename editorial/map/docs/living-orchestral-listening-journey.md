@@ -29,4 +29,27 @@
 
 ## 장부에 기록된 반영 지식
 
-- 없음 (장부 도입 이전 원고이거나 아직 기록이 없다. 기록이 없다는 것은 내용이 없다는 뜻이 아니다.)
+- **왜 '새로운 말러' 대신 여러 갈래를 들어야 하는가**
+  - 교향곡과 현대 관현악 대서사의 다른 범위 · `ing-20261030-contemporary-symphonic-journey`
+- **작곡연도 지도로 먼저 보기**
+  - 1977~2025 현대 교향악 작곡·초연 연표 · `ing-20261030-contemporary-symphonic-journey`
+- **첫 갈래: 현대에도 오케스트라는 거대한 감정을 만든다**
+  - 말러 이후 대형 감정과 영적 미니멀리즘 청취 · `ing-20261030-contemporary-symphonic-journey`
+- **두 번째 갈래: 색채와 지성의 구조물**
+  - 진은숙 아데스 벤저민 린드베리 현대주의 관현악 · `ing-20261030-contemporary-symphonic-journey`
+- **세 번째 갈래: 인간보다 오래된 시간**
+  - 기후 우주 지질학과 생태적 관현악 · `ing-20261030-contemporary-symphonic-journey`
+- **네 번째 갈래: 국가의 영웅 대신 보이지 않던 역사**
+  - 이민 노동 역사 의례와 현대 오케스트라 · `ing-20261030-contemporary-symphonic-journey`
+- **다섯 번째 갈래: 전통의 유령과 형식의 귀환**
+  - 독일 오스트리아 형식의 현대적 재구성과 후속 후보 · `ing-20261030-contemporary-symphonic-journey`
+- **열두 주로 완주하는 실제 여행**
+  - 살아 있는 작곡가 중심 열두 주 청취 코스 · `ing-20261030-contemporary-symphonic-journey`
+- **2026년에 가장 가까운 다섯 작품**
+  - 2020~2025 최신 작품 다섯 곡의 별도 진입로 · `ing-20261030-contemporary-symphonic-journey`
+- **현재성을 확인하는 두 번째 축: 작품이 아니라 기관이 움직인다**
+  - 수상 위촉 상주작곡가 초연과 정전의 구별 · `ing-20261030-contemporary-symphonic-journey`
+- **자료 범위와 추가 확인 지점**
+  - 초연 개정 시점과 2026년 수상 생존 여부의 재검증 경계 · `ing-20261030-contemporary-symphonic-journey`
+- **청취 기록: 사람의 이름이 되는 순간을 관찰하기**
+  - 청취기록으로 작품 반복과 해석자 팬덤을 관찰하기 · `ing-20261030-contemporary-symphonic-journey`

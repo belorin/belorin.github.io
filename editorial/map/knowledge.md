@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 852개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 872개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (9)
 
@@ -343,7 +343,7 @@
 - 경제사의 단선적 인과 서사와 검증 질문 → `roman-industry-gold-standard-history` § 세 문장으로 끝나는 역사와 복수의 인과 · `ing-20261030-money-credit-economic-history`
 - 러다이트 공개 고서 TXT와 번역 공정의 직접 연결 → `luddite-executions-memory` § 오래된 무료 공개 도서와 번역의 문제 · `ing-20261030-book-translation-pipeline`
 
-## 음악 (105)
+## 음악 (125)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -452,6 +452,26 @@
 - 네 가지 분위기에 따른 해외 음악 열두 곡 → `mood-led-music-listening` § 서늘하고 큰 밤의 감각; `mood-led-music-listening` § 세상이 이상하게 돌아가는 날; `mood-led-music-listening` § SF의 거리감과 멀리 이동하는 감각; `mood-led-music-listening` § 우울하지만 지나치게 질척이지 않는 정서 · `ing-20261025-mood-led-music-listening`
 - 한국 음악 세 곡과 우선 청취 네 곡 → `mood-led-music-listening` § 한국 음악으로 넓히는 별도의 갈래; `mood-led-music-listening` § 먼저 들어 볼 네 곡 · `ing-20261025-mood-led-music-listening`
 - 추가 탐색 방향과 청취 반응의 미확인 → `mood-led-music-listening` § 취향의 다음 분기와 판단 유보 · `ing-20261025-mood-led-music-listening`
+- 쇼스타코비치 이후 교향악 쇠퇴와 정전 가시성의 구별 → `classical-canon-mauceri` § 작품이 없는 것이 아니라 작품을 공통의 사건으로 만드는 방식이 달라졌다 · `ing-20261030-contemporary-symphonic-journey`
+- 녹음·레퍼토리 비용·전후 현대주의·매체 분화의 복합 원인 → `orchestra-composer-conductor-myth` § 왜 지금은 같은 유형의 네임드가 잘 보이지 않는가 · `ing-20261030-contemporary-symphonic-journey`
+- 거장 이름을 공통 교양으로 만드는 반복과 제도 → `orchestra-composer-conductor-myth` § 신화가 만들어지는 여섯 개의 장치 · `ing-20261030-contemporary-symphonic-journey`
+- 말러 전기와 작곡가 인물 신화 → `orchestra-composer-conductor-myth` § 작품을 넘어 인간에게 향하는 팬덤 · `ing-20261030-contemporary-symphonic-journey`
+- 쇼스타코비치 7번 레닌그라드와 포위전 서사 → `orchestra-composer-conductor-myth` § 레닌그라드 교향곡: 한 곡이 전쟁사 한 권이 되는 순간 · `ing-20261030-contemporary-symphonic-journey`
+- 지휘자의 몸과 해석자 팬덤 → `orchestra-composer-conductor-myth` § 지휘자라는 살아 있는 화면; `conductors-career-encores` § 지휘자 스타라는 발명: 악보에 얼굴이 생기는 순간 · `ing-20261030-contemporary-symphonic-journey`
+- 교향곡 블록버스터 및 위인 숭배 비유의 한계 → `orchestra-composer-conductor-myth` § 작품을 넘어 인간에게 향하는 팬덤; `orchestra-composer-conductor-myth` § 음악에서 사람으로, 다시 작품으로 · `ing-20261030-contemporary-symphonic-journey`
+- 교향곡과 현대 관현악 대서사의 다른 범위 → `orchestra-living-composers-canon` § 무엇을 새로운 교향악으로 셀 것인가; `living-orchestral-listening-journey` § 왜 '새로운 말러' 대신 여러 갈래를 들어야 하는가 · `ing-20261030-contemporary-symphonic-journey`
+- 생존 작곡가 비중의 연도별 소개 수치와 해석 경계 → `orchestra-living-composers-canon` § 비중은 커져도 이름을 외우기 어려운 이유 · `ing-20261030-contemporary-symphonic-journey`
+- 1977~2025 현대 교향악 작곡·초연 연표 → `living-orchestral-listening-journey` § 작곡연도 지도로 먼저 보기 · `ing-20261030-contemporary-symphonic-journey`
+- 말러 이후 대형 감정과 영적 미니멀리즘 청취 → `living-orchestral-listening-journey` § 첫 갈래: 현대에도 오케스트라는 거대한 감정을 만든다 · `ing-20261030-contemporary-symphonic-journey`
+- 진은숙 아데스 벤저민 린드베리 현대주의 관현악 → `living-orchestral-listening-journey` § 두 번째 갈래: 색채와 지성의 구조물 · `ing-20261030-contemporary-symphonic-journey`
+- 기후 우주 지질학과 생태적 관현악 → `living-orchestral-listening-journey` § 세 번째 갈래: 인간보다 오래된 시간 · `ing-20261030-contemporary-symphonic-journey`
+- 이민 노동 역사 의례와 현대 오케스트라 → `living-orchestral-listening-journey` § 네 번째 갈래: 국가의 영웅 대신 보이지 않던 역사 · `ing-20261030-contemporary-symphonic-journey`
+- 독일 오스트리아 형식의 현대적 재구성과 후속 후보 → `living-orchestral-listening-journey` § 다섯 번째 갈래: 전통의 유령과 형식의 귀환 · `ing-20261030-contemporary-symphonic-journey`
+- 살아 있는 작곡가 중심 열두 주 청취 코스 → `living-orchestral-listening-journey` § 열두 주로 완주하는 실제 여행 · `ing-20261030-contemporary-symphonic-journey`
+- 2020~2025 최신 작품 다섯 곡의 별도 진입로 → `living-orchestral-listening-journey` § 2026년에 가장 가까운 다섯 작품 · `ing-20261030-contemporary-symphonic-journey`
+- 수상 위촉 상주작곡가 초연과 정전의 구별 → `living-orchestral-listening-journey` § 현재성을 확인하는 두 번째 축: 작품이 아니라 기관이 움직인다 · `ing-20261030-contemporary-symphonic-journey`
+- 초연 개정 시점과 2026년 수상 생존 여부의 재검증 경계 → `living-orchestral-listening-journey` § 자료 범위와 추가 확인 지점 · `ing-20261030-contemporary-symphonic-journey`
+- 청취기록으로 작품 반복과 해석자 팬덤을 관찰하기 → `living-orchestral-listening-journey` § 청취 기록: 사람의 이름이 되는 순간을 관찰하기 · `ing-20261030-contemporary-symphonic-journey`
 
 ## 사회와 제도 (101)
 

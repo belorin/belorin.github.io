@@ -31,3 +31,7 @@
   - 14%는 실제로 얼마나 새로운가 · `ing-20261025-orchestra-repertoire-seasons`
 - **프로그램의 문장을 읽는 감상법**
   - 프로그램의 문장을 읽는 감상법 · `ing-20261025-orchestra-repertoire-seasons`
+- **무엇을 새로운 교향악으로 셀 것인가**
+  - 교향곡과 현대 관현악 대서사의 다른 범위 · `ing-20261030-contemporary-symphonic-journey`
+- **비중은 커져도 이름을 외우기 어려운 이유**
+  - 생존 작곡가 비중의 연도별 소개 수치와 해석 경계 · `ing-20261030-contemporary-symphonic-journey`

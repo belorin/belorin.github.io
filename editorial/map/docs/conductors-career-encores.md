@@ -39,3 +39,5 @@
   - 지휘자의 자리는 몇 개인가 · `ing-20261025-orchestra-repertoire-seasons`
 - **앵콜은 마지막에 던지는 사적인 문장이다**
   - 앵콜은 마지막에 던지는 사적인 문장이다 · `ing-20261025-orchestra-repertoire-seasons`
+- **지휘자 스타라는 발명: 악보에 얼굴이 생기는 순간**
+  - 지휘자의 몸과 해석자 팬덤 · `ing-20261030-contemporary-symphonic-journey`
