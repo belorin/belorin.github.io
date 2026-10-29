@@ -1,0 +1,213 @@
+{
+  "id": "ing-20261030-money-credit-economic-history",
+  "processed_on": "2026-10-30",
+  "coverage": "visible-complete",
+  "limit_note": "이 화면에서 확인 가능한 이 대화의 서술만 집필. 책의 실제 해당 문단·쪽수 및 기존 대화에 제시된 외부 자료는 새로 대조하지 않았고 일부 귀속·세부 원인은 미검증으로 표시함",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "argument",
+      "title": "화폐창출 사실과 약탈적 분배 판정의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "money-credit-seigniorage-critique",
+          "section": "좋은 질문과 지나치게 쉬운 답"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "중앙은행 세뇨리지와 상업은행 신용창조의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "money-credit-seigniorage-critique",
+          "section": "세뇨리지와 은행 신용창조는 같은 수익이 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "example",
+      "title": "대출·예금 100의 대차대조표 및 원금 상환",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "money-credit-seigniorage-critique",
+          "section": "신용은 부채다: 은행의 장부를 펴면 보이는 것"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "counterargument",
+      "title": "칸티용 효과의 진입 경로와 통화완화의 고용 효과",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "money-credit-seigniorage-critique",
+          "section": "칸티용 효과: 먼저 받은 사람의 이익은 어디까지인가"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "concept",
+      "title": "생산·투기·연명 신용의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "money-credit-seigniorage-critique",
+          "section": "생산적 신용, 자산투기 신용, 연명 신용을 분리한다"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "counterargument",
+      "title": "화폐원인론과 불평등의 다른 제도적 원인",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "money-credit-seigniorage-critique",
+          "section": "화폐원인론이 불평등의 다른 기제를 지울 때"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "fact",
+      "title": "분데스방크와 스위스 주권화폐 국민투표 논쟁",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "money-credit-seigniorage-critique",
+          "section": "경제학자들은 침묵했는가: 독일과 스위스의 공개 논쟁"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "argument",
+      "title": "금본위의 규율과 금융위기 대응의 충돌",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "money-credit-seigniorage-critique",
+          "section": "금본위로 모든 문제가 해결되는가"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "counterargument",
+      "title": "로마 곡물배급과 현대 복지국가의 범주 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "roman-industry-gold-standard-history",
+          "section": "빵과 서커스: 도시의 식량 공급을 복지 낭비라고 부를 수 있는가"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "counterargument",
+      "title": "주화 절하와 현대 예금통화 창조의 역사적 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "roman-industry-gold-standard-history",
+          "section": "로마의 주화 절하와 현대 신용팽창은 다른 기제다"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "fact",
+      "title": "서로마 476년과 동로마 1453년의 역사적 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "roman-industry-gold-standard-history",
+          "section": "476년에 끝난 로마, 1453년까지 계속된 로마"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "counterargument",
+      "title": "중세 천년 정체론과 11~13세기 상업혁명",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "roman-industry-gold-standard-history",
+          "section": "1700년까지 잠들어 있던 경제? 중세 상업혁명의 반례"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "counterargument",
+      "title": "산업혁명의 높은 임금·석탄·항해법·특허제도",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "roman-industry-gold-standard-history",
+          "section": "산업혁명의 영국이 ‘온전한 자유시장’이었다는 주장"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "counterargument",
+      "title": "금본위와 대공황의 디플레이션·은행위기",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "roman-industry-gold-standard-history",
+          "section": "단단한 화폐가 목을 조를 때: 금본위의 두 얼굴"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "fact",
+      "title": "1931·1933·1934·1971년 금본위 제도 변동의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "roman-industry-gold-standard-history",
+          "section": "누가 먼저 금본위를 떠났는가: 세 연도의 차이"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "fact",
+      "title": "대공황 주요국 금본위 이탈과 위기 대응의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-crisis-historical-analogies",
+          "section": "1929년의 그림자: 신기술·자산·신용·관세"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "argument",
+      "title": "경제사의 단선적 인과 서사와 검증 질문",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "roman-industry-gold-standard-history",
+          "section": "세 문장으로 끝나는 역사와 복수의 인과"
+        }
+      ]
+    }
+  ]
+}

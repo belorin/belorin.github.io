@@ -2937,7 +2937,8 @@
       "related": [
         "war-escalation-local-to-world",
         "critical-optimism-fragile-order",
-        "state-hollowing-index"
+        "state-hollowing-index",
+        "roman-industry-gold-standard-history"
       ],
       "status": "현재 접근 가능한 논의와 코어 시범자료 기반 · 외부 재검증 필요",
       "updated": "2026-10-25",
@@ -4521,6 +4522,68 @@
         "디지털 관세와 AI",
         "디지털 무역 모라토리엄",
         "WTO e-commerce moratorium"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-30"
+    },
+    {
+      "path": "wiki/money-credit-seigniorage-critique.md",
+      "publish": true,
+      "order": 140,
+      "id": "money-credit-seigniorage-critique",
+      "title": "돈은 부채이지만 왜 곧장 약탈이 되지 않는가: 『왜 그들만 부자가 되는가』의 화폐론 비평",
+      "category": "정치경제",
+      "status": "대화 기반 분석 · 외부 재검증 필요",
+      "updated": "2026-10-30",
+      "summary": "은행의 예금통화 창조, 세뇨리지, 칸티용 효과, 생산적·투기적 신용, 통화정책과 불평등을 구별하며 『왜 그들만 부자가 되는가』의 논리적 비약을 검토",
+      "tags": [
+        "화폐",
+        "신용창조",
+        "세뇨리지",
+        "칸티용 효과",
+        "오스트리아학파",
+        "경제서 비평"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "roman-industry-gold-standard-history"
+      ],
+      "aliases": [
+        "왜 그들만 부자가 되는가",
+        "신용은 부채",
+        "은행의 화폐창조"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-10-30"
+    },
+    {
+      "path": "wiki/roman-industry-gold-standard-history.md",
+      "publish": true,
+      "order": 141,
+      "id": "roman-industry-gold-standard-history",
+      "title": "빵과 서커스에서 금본위까지: 로마·산업혁명을 한 줄로 꿰는 역사관의 함정",
+      "category": "문화와 역사",
+      "status": "대화 기반 분석 · 외부 재검증 필요",
+      "updated": "2026-10-30",
+      "summary": "로마의 곡물 배급과 주화 절하, 동로마와 중세 상업혁명, 영국 산업화, 1931·1933·1934·1971년 금본위 이탈의 차이를 통해 직선적 경제사 서사를 비판",
+      "tags": [
+        "로마",
+        "곡물배급",
+        "중세 상업혁명",
+        "산업혁명",
+        "금본위",
+        "대공황"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "money-credit-seigniorage-critique",
+        "world-crisis-historical-analogies"
+      ],
+      "aliases": [
+        "빵과 서커스와 로마 몰락",
+        "금본위 이탈의 역사",
+        "1931년 영국 금본위",
+        "1971년 닉슨 쇼크"
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-30"
