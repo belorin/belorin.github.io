@@ -1,0 +1,261 @@
+{
+  "id": "ing-20261030-great-depression-world-literature",
+  "processed_on": "2026-10-30",
+  "coverage": "visible-complete",
+  "limit_note": "현재 화면에서 실제로 확인 가능한 이 대화의 발화만 사용. 외부 서지·한국어 번역본·출간 정보 및 문학과 대공황의 직접적 인과관계를 새로 검증하지 않음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "생산의 풍요와 노동소득·구매력 접근권의 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-depression-lived-experience-literature",
+          "section": "풍요 속에서 자리를 잃은 사람들: 세계 대공황의 생활 기록과 동시대 소설"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "실업의 지속·사회적 자리 상실과 생활 선택의 축소",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-depression-lived-experience-literature",
+          "section": "무엇을 읽으려는가: 가격보다 소득, 결핍보다 배제"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "counterargument",
+      "title": "동시대 빈곤과 대공황 직접 원인의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-depression-lived-experience-literature",
+          "section": "무엇을 읽으려는가: 가격보다 소득, 결핍보다 배제"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "curation",
+      "title": "팔라다·케스트너·코인의 독일 대공황기 소설",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-depression-lived-experience-literature",
+          "section": "독일어권: 하층 중산층의 추락과 도시에서의 실직"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "curation",
+      "title": "맥코이의 댄스 마라톤과 스타인벡의 노동 서사",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-depression-lived-experience-literature",
+          "section": "미국: 일자리를 찾는 이동, 몸을 파는 경쟁, 농장과 가족"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "curation",
+      "title": "르 쉬어·올슨·배브의 당대 집필 후대 발표 작품",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-depression-lived-experience-literature",
+          "section": "미국: 일자리를 찾는 이동, 몸을 파는 경쟁, 농장과 가족"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "curation",
+      "title": "에이지·에번스의 소작농 현장 기록",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-depression-lived-experience-literature",
+          "section": "소설만으로는 보이지 않는 목소리: 당대 기록과 후대 구술사의 거리"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "curation",
+      "title": "오웰과 진 리스의 영국·유럽 도시 빈곤 기록",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-depression-lived-experience-literature",
+          "section": "영국과 영어로 쓴 유럽 도시의 빈곤: 산업지대와 개인의 추락"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "curation",
+      "title": "다비·기유·루아의 프랑스어권 도시·지역사회 문학",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-depression-lived-experience-literature",
+          "section": "프랑스어권: 파리의 하층 생활과 몬트리올의 빈곤"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "curation",
+      "title": "이카사와 바예호의 스페인어권 농업·광산 소설",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-depression-lived-experience-literature",
+          "section": "스페인어권: 1930년대의 농민과 광산을 '대공황'이라고 부를 때"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "curation",
+      "title": "하무스의 브라질 가뭄·이주·빈곤 소설",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-depression-lived-experience-literature",
+          "section": "포르투갈어권: 브라질의 1930년대 소설"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "curation",
+      "title": "하야시 후미코와 고바야시 다키지의 일본어권 노동 기록",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-depression-lived-experience-literature",
+          "section": "일본어권: 쇼와 불황과 노동자의 세계"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "concept",
+      "title": "당대 르포·후대 구술사·당대 원고의 후대 출간 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-depression-lived-experience-literature",
+          "section": "소설만으로는 보이지 않는 목소리: 당대 기록과 후대 구술사의 거리"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "curation",
+      "title": "갤브레이스·킨들버거·테민·프리드먼 등 거시·정치사 독서 갈래",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-depression-lived-experience-literature",
+          "section": "다른 읽기 길은 왜 중심 목록에서 빠졌는가"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "curation",
+      "title": "프레카리아트·불쉿 잡·애프터 워크 등 미래 노동 전망서와의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-depression-lived-experience-literature",
+          "section": "다른 읽기 길은 왜 중심 목록에서 빠졌는가"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "curation",
+      "title": "한국어판 소개 작품과 원어 추적 우선순위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-depression-lived-experience-literature",
+          "section": "한국어 번역을 고려한 실용 독서 경로"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "question",
+      "title": "해고·생활 축소·대안 노동·존엄·정치적 귀결의 비교 축",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-depression-lived-experience-literature",
+          "section": "무엇을 비교하면 '끝까지 살아본 사람들'이 보이는가"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "counterargument",
+      "title": "AI 자동화가 대공황과 장기 디플레이션을 재현한다는 예언의 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-depression-lived-experience-literature",
+          "section": "무엇을 비교하면 '끝까지 살아본 사람들'이 보이는가"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "other",
+      "title": "원서·한국어판 서지와 대공황 직접성 미검증 표시",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "great-depression-lived-experience-literature",
+          "section": "서지 및 해석상의 검증 경계"
+        }
+      ]
+    },
+    {
+      "id": "k20",
+      "kind": "argument",
+      "title": "1929년 역사적 유비에 생활사 차원을 도입",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-crisis-historical-analogies",
+          "section": "1929년의 그림자: 신기술·자산·신용·관세"
+        }
+      ]
+    },
+    {
+      "id": "k21",
+      "kind": "argument",
+      "title": "AI 생산능력과 소득 분리의 역사적 독서 연결",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-economic-transition",
+          "section": "케인스적 접근: 생산 능력과 구매력 사이의 시간차"
+        }
+      ]
+    }
+  ]
+}
