@@ -1,0 +1,525 @@
+{
+  "id": "ing-20261030-ai-ceiling-automation-datacenters",
+  "processed_on": "2026-10-30",
+  "coverage": "visible-complete",
+  "limit_note": "이 대화에서 실제 확인 가능한 발화와 이미지의 설명 내용에 한정. 기존 자료의 수치와 링크는 신규 조사 없이 보존했으며 실가동·금융자료의 현재 값은 재검증하지 않음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "능력 상한선과 활용 하한선의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-adoption-ceiling-floor",
+          "section": "두 상한선이 아니라 두 종류의 거리"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "AI 발전 정체와 사회 확산의 독립성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-adoption-ceiling-floor",
+          "section": "능력의 상한선을 말하되 상한선에 미래를 맡기지 않는다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "counterargument",
+      "title": "AI 과장과 무시를 함께 경계하는 관측 단위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-adoption-ceiling-floor",
+          "section": "경제학적 ‘노-호들갑’: 관측 가능한 것의 단위를 엄격하게 지킨다"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "argument",
+      "title": "개인 AI 포지셔닝과 사회적 전환의 규모 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-adoption-ceiling-floor",
+          "section": "개인 포지셔닝은 왜 늘 뻔해 보이는가"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "concept",
+      "title": "소유자 중심 자동권력의 정의와 가설성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "owner-aligned-automated-power",
+          "section": "‘AI 독재’가 아니라 무엇을 뜻하는가"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "concept",
+      "title": "사적 자율무력과 강제력 탈인간화의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "owner-aligned-automated-power",
+          "section": "첫째 조건: 강제력의 탈인간화"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "concept",
+      "title": "핵심 생존노동의 탈인간화 조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "owner-aligned-automated-power",
+          "section": "둘째 조건: 핵심 생존노동의 탈인간화"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "argument",
+      "title": "기계의 강한 자기복제와 약한 유지보수 회로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "owner-aligned-automated-power",
+          "section": "셋째 조건: 자기복제보다 중요한 자율 유지·보수·교체 루프"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "argument",
+      "title": "연산 전력 부품 소재 주권의 물리적 병목",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "owner-aligned-automated-power",
+          "section": "넷째 조건: 연산·전력·부품·소재 주권"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "example",
+      "title": "디지털 감시 신분제와 생활 마찰 사고실험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "owner-aligned-automated-power",
+          "section": "이행기 도구와 완성형의 조건을 혼동하지 않는다"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "counterargument",
+      "title": "소유자 내부 자산 이해관계의 충돌",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "owner-aligned-automated-power",
+          "section": "소유자 내부의 모순"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "argument",
+      "title": "AI 극단 독재 국가 위험 유형과 순위의 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "owner-aligned-automated-power",
+          "section": "국가별 위험 순위는 무엇을 측정했는가"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "argument",
+      "title": "노동소득 은행채무 재정개입의 조건부 연쇄",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-transition-monetary-order",
+          "section": "노동의 탈중심화와 자산 서열의 충돌"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "example",
+      "title": "금융위기 지급결제와 부실부담의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-transition-monetary-order",
+          "section": "경제적 완충 장치들: 장부를 지키는 것과 모두를 구하는 것은 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "concept",
+      "title": "BIS 단일화폐 원칙과 통합장부",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-transition-monetary-order",
+          "section": "BIS: 화폐의 단일성을 강화하면서 인프라의 층을 정교하게 나누기"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "fact",
+      "title": "Project Agorá 도매결제와 스테이블코인 논점",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-transition-monetary-order",
+          "section": "BIS: 화폐의 단일성을 강화하면서 인프라의 층을 정교하게 나누기"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "counterargument",
+      "title": "접근권 이중경제와 실제 인플레이션의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-transition-monetary-order",
+          "section": "‘이중화폐’는 기존 제도의 층위와 가상의 신분화를 구별해야 한다"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "curation",
+      "title": "IMF 2024~2026 AI 노동 재정 금융 분석",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-transition-monetary-order",
+          "section": "AI 시대의 IMF: 냉정하지만 안심시키는 전망은 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "concept",
+      "title": "세계 데이터센터 시설수 GW 전력소비 분모",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "data-center-world-capacity",
+          "section": "먼저 세 개의 세계 규모를 구별한다"
+        }
+      ]
+    },
+    {
+      "id": "k20",
+      "kind": "concept",
+      "title": "데이터센터 공실률의 임대전력 용량 의미",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "data-center-world-capacity",
+          "section": "공실률은 ‘빈 건물’이 아니라 임대 가능한 전력 용량에 가깝다"
+        }
+      ]
+    },
+    {
+      "id": "k21",
+      "kind": "fact",
+      "title": "미주 APAC EMEA 용량과 계획의 세계 지리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "data-center-world-capacity",
+          "section": "세계의 다섯 지형: 기존 집적과 신규 투자 흐름"
+        }
+      ]
+    },
+    {
+      "id": "k22",
+      "kind": "argument",
+      "title": "학습 집중 추론 분산 주권 데이터의 조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "data-center-world-capacity",
+          "section": "학습은 집중되고 추론은 분산되는가"
+        }
+      ]
+    },
+    {
+      "id": "k23",
+      "kind": "concept",
+      "title": "전력 부지 냉각 GPU의 다른 감가상각 수명",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "data-center-world-capacity",
+          "section": "무엇이 오래가고 무엇이 빨리 늙는가"
+        }
+      ]
+    },
+    {
+      "id": "k24",
+      "kind": "fact",
+      "title": "랙 밀도 공랭 액랭 도입률의 비동일성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "data-center-world-capacity",
+          "section": "공랭·액랭은 정확히 무엇의 비율인가"
+        }
+      ]
+    },
+    {
+      "id": "k25",
+      "kind": "fact",
+      "title": "모델 클라우드 시설 칩 전력 업체의 연결망",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "data-center-world-capacity",
+          "section": "투자자를 따라가면 누구를 만나는가"
+        }
+      ]
+    },
+    {
+      "id": "k26",
+      "kind": "argument",
+      "title": "신축 리트로핏 AI 캠퍼스의 상이한 투자위험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "data-center-world-capacity",
+          "section": "어디에 투자지가 생기고 어디에서 폐품이 생기는가"
+        }
+      ]
+    },
+    {
+      "id": "k27",
+      "kind": "fact",
+      "title": "한국 수도권 용량과 울산 해남 예정 사업",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-data-center-local-economy",
+          "section": "운영 MW와 국내 신규 파이프라인을 먼저 분리한다"
+        }
+      ]
+    },
+    {
+      "id": "k28",
+      "kind": "counterargument",
+      "title": "한국 AI 거점 기대와 해외 모델 소유의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-data-center-local-economy",
+          "section": "한국은 왜 데이터센터를 유치하는가"
+        }
+      ]
+    },
+    {
+      "id": "k29",
+      "kind": "argument",
+      "title": "건설 유발 고용과 운영 상주 인력의 분모",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-data-center-local-economy",
+          "section": "건설노동과 상주노동은 다른 숫자다"
+        }
+      ]
+    },
+    {
+      "id": "k30",
+      "kind": "fact",
+      "title": "AWS 데이터센터 현장기술 보안 하청의 직무",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-data-center-local-economy",
+          "section": "실제 AWS 데이터센터의 한 사람은 무엇을 하는가"
+        }
+      ]
+    },
+    {
+      "id": "k31",
+      "kind": "argument",
+      "title": "클라우드 시설의 도시 블랙박스 효과",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-data-center-local-economy",
+          "section": "도시의 분위기는 얼마나 바뀌는가"
+        }
+      ]
+    },
+    {
+      "id": "k32",
+      "kind": "argument",
+      "title": "전력 물 세수 지역임금과 지역 순편익 판별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-data-center-local-economy",
+          "section": "지역이 부담하는 비용과 돌려받는 몫"
+        }
+      ]
+    },
+    {
+      "id": "k33",
+      "kind": "counterargument",
+      "title": "규모와 액랭만으로 좋은 유치 판정 불가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-data-center-local-economy",
+          "section": "‘좋은 유치’의 기준을 크기나 액랭 하나로 고정하지 않는다"
+        }
+      ]
+    },
+    {
+      "id": "k34",
+      "kind": "curation",
+      "title": "물리적 인터넷과 클라우드의 영문 르포 서지",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "physical-cloud-reading-guide",
+          "section": "인터넷이 실제로 놓인 곳을 찾아다니는 르포"
+        }
+      ]
+    },
+    {
+      "id": "k35",
+      "kind": "curation",
+      "title": "클라우드 물질성 다큐와 미국 지역 르포",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "physical-cloud-reading-guide",
+          "section": "공개된 글과 영상: 서버실의 풍경과 유지 노동"
+        }
+      ]
+    },
+    {
+      "id": "k36",
+      "kind": "curation",
+      "title": "한국어 데이터센터 정책 산업 르포 자료",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "physical-cloud-reading-guide",
+          "section": "한국어로 읽는 자료: 번역서보다 시장·정책 보고서"
+        }
+      ]
+    },
+    {
+      "id": "k37",
+      "kind": "argument",
+      "title": "기존 경제 이행기에 채택 간극 분석 증보",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-economic-transition",
+          "section": "기술의 상한선과 활용의 하한선을 구별한다"
+        }
+      ]
+    },
+    {
+      "id": "k38",
+      "kind": "argument",
+      "title": "자산 소유권 순위 보전의 이행기 모순",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-capital-labor-distribution",
+          "section": "기득권의 서열을 보존하려는 이행기 전략의 모순"
+        }
+      ]
+    },
+    {
+      "id": "k39",
+      "kind": "argument",
+      "title": "물리 클라우드 지대의 지역적 분모",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-cloud-ownership-rent",
+          "section": "클라우드 지대의 물리적 분모: 세계 GW와 도시의 일자리"
+        }
+      ]
+    },
+    {
+      "id": "k40",
+      "kind": "argument",
+      "title": "IMF 노동정책과 BIS 결제정책의 다른 분석단위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-transition-policy-gap",
+          "section": "국제기구의 건조한 진단과 금융 이행의 별도 문제"
+        }
+      ]
+    },
+    {
+      "id": "k41",
+      "kind": "concept",
+      "title": "극단적 자동권력과 AI 통제력 길잡이 연결",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-human-control-guide",
+          "section": "물리적 독립은 추론 능력과 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k42",
+      "kind": "argument",
+      "title": "클라우드 시설의 현장기술노동과 외주",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-hidden-labor-feeding-machine-2026",
+          "section": "데이터센터: 장면의 주변에서 산업의 병목으로"
+        }
+      ]
+    },
+    {
+      "id": "k43",
+      "kind": "counterargument",
+      "title": "컴퓨트 증설과 실가동 AI 성능의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-compute-scaling-inference",
+          "section": "계산이 실제로 놓이는 시설의 제약"
+        }
+      ]
+    }
+  ]
+}
