@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 185,
+  "document_count": 186,
   "documents": [
     {
       "id": "living-notes",
@@ -2807,8 +2807,8 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "대화 내 확인 자료 총합 · 데이터센터 규모·기업 계획·추론 연구 세부 외부 재검증 필요",
-      "last_updated_on": "2026-10-30",
-      "last_enriched_on": "2026-10-30",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "japan-physical-ai-skill-transfer",
@@ -2816,7 +2816,8 @@
         "ai-cloud-ownership-rent",
         "ai-hidden-labor-feeding-machine-2026",
         "data-center-world-capacity",
-        "owner-aligned-automated-power"
+        "owner-aligned-automated-power",
+        "x-auto-translation-serving-cost"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-compute-scaling-inference.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-compute-scaling-inference.md",
@@ -5432,8 +5433,8 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요",
-      "last_updated_on": "2026-10-30",
-      "last_enriched_on": "2026-10-30",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "ai-compute-scaling-inference",
@@ -5442,7 +5443,8 @@
         "physical-cloud-reading-guide",
         "owner-aligned-automated-power",
         "space-data-center-thermal-economics",
-        "world-electricity-capacity-generation-consumption"
+        "world-electricity-capacity-generation-consumption",
+        "x-auto-translation-serving-cost"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/data-center-world-capacity.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/data-center-world-capacity.md",
@@ -6444,6 +6446,41 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ray-wyre-sex-offender-treatment.md",
       "page_url": "https://belorin.github.io/notes/ray-wyre-sex-offender-treatment/",
       "app_url": "https://belorin.github.io/#ray-wyre-sex-offender-treatment"
+    },
+    {
+      "id": "x-auto-translation-serving-cost",
+      "title": "X의 전체 자동번역은 얼마나 많은 계산을 요구하는가: 읽기 시점·캐시·GPU 비용",
+      "aliases": [
+        "X 자동번역 비용",
+        "트위터 전체 자동번역",
+        "Grok 대규모 번역 서빙"
+      ],
+      "category": "과학과 기술",
+      "tags": [
+        "X",
+        "트위터",
+        "Grok",
+        "자동번역",
+        "대규모 서빙",
+        "캐시",
+        "추론 비용",
+        "GPU"
+      ],
+      "summary": "X 자동번역을 사례로 게시 시점 선번역과 노출 시점 생성, 언어별 캐시, 번역본 수·토큰량·GPU 필요량과 기존 호스팅 비용의 분모를 구별한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "X 제품 발표 및 기존 문헌에 기반한 아키텍처 가설·정량 예시 / 실제 운영 수치 미확인",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "ai-compute-scaling-inference",
+        "data-center-world-capacity"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/x-auto-translation-serving-cost.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/x-auto-translation-serving-cost.md",
+      "page_url": "https://belorin.github.io/notes/x-auto-translation-serving-cost/",
+      "app_url": "https://belorin.github.io/#x-auto-translation-serving-cost"
     }
   ]
 }

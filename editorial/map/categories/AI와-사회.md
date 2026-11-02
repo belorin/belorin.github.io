@@ -19,7 +19,7 @@
 - `ai-domination-gradient` AI 지배는 이미 시작되었는가: 사건이 아니라 농도로 보는 통제 — AI 지배의 농도, 매끄러운 지배, AI 인지 인프라, AI 지배는 이미 시작되었다 · 22절 · 11.9천 자 · 장부 15건
 - `hank-asher-data-fusion-ai` 행크 애셔에서 팔란티어까지: 데이터 융합이 AI의 판단 인프라가 되기까지 — 행크 쇼와 AI, Hank Asher, 행크 애셔, 팔란티어와 데이터 융합 · 12절 · 6.5천 자 · 장부 10건
 - `korea-personal-data-lifecycle` 한국 개인정보의 생애: 수집·결합·유출·재사용의 경로 — 한국 개인정보 유통, 개인정보의 생애, 개인정보 유출 이후, 한국 데이터 브로커 · 25절 · 11.0천 자 · 장부 21건
-- `ai-compute-scaling-inference` AI는 계산이 많아지면 무엇이 달라지는가: 데이터센터와 추론 스케일링 — AI 데이터센터와 추론, test-time scaling, 추론 컴퓨트, AI 계산 스케일링 · 12절 · 7.9천 자 · 장부 10건
+- `ai-compute-scaling-inference` AI는 계산이 많아지면 무엇이 달라지는가: 데이터센터와 추론 스케일링 — AI 데이터센터와 추론, test-time scaling, 추론 컴퓨트, AI 계산 스케일링 · 12절 · 8.1천 자 · 장부 10건
 - `japan-physical-ai-skill-transfer` 사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승 — 일본 피지컬 AI, 손지능, 숙련 전승 로봇, Physical AI Japan · 12절 · 7.8천 자 · 장부 11건
 - `ai-transition-policy-gap` AI 이행기의 정책 공백: 재교육이 해결하지 못하는 구조적 노동 대체 — AI 재교육의 한계, AI 이행기 정책 실패, 국제기구와 AI 경제 · 8절 · 5.4천 자 · 장부 7건
 - `starcraft-pluto-ai` Pluto AI와 인간의 스타크래프트: 자가대전이 만든 다른 메타 — Pluto AI, 플루토 AI, 스타크래프트 플루토, tscmoo Pluto · 21절 · 10.3천 자 · 장부 17건
@@ -28,7 +28,7 @@
 - `ai-adoption-ceiling-floor` AI의 상한선과 사회적 활용 하한선: 호들갑 없이 이행기를 보는 법 — AI 상한선 하한선, AI 활용 하한선, AI 노호들갑 · 6절 · 4.6천 자 · 장부 4건
 - `owner-aligned-automated-power` 소유자 중심 자동권력: 인간 다수 없이 지속되는 기계 체제의 성립 조건 — AI 독재의 최소조건, 소유자 정렬 기계문명, AI 민병단 · 9절 · 5.3천 자 · 장부 8건
 - `ai-transition-monetary-order` AI 이행기의 화폐와 소유권: BIS의 통합장부에서 두 층 경제까지 — AI 이중화폐, BIS 통합장부와 AI, AI 이행기 금융질서 · 7절 · 5.7천 자 · 장부 6건
-- `data-center-world-capacity` 세계 데이터센터의 연산 지리: GW·냉각·감가상각·투자 파이프라인 — 세계 데이터센터 GW, 데이터센터 세계 비중, 데이터센터 액랭 공랭, 데이터센터 감가상각 · 14절 · 8.8천 자 · 장부 9건
+- `data-center-world-capacity` 세계 데이터센터의 연산 지리: GW·냉각·감가상각·투자 파이프라인 — 세계 데이터센터 GW, 데이터센터 세계 비중, 데이터센터 액랭 공랭, 데이터센터 감가상각 · 14절 · 9.0천 자 · 장부 9건
 - `korea-data-center-local-economy` 한국 데이터센터 유치의 실익: GW보다 적은 일자리, 전력보다 중요한 지역 몫 — 해남 데이터센터 일자리, 울산 SK AWS 지역경제, 데이터센터 지역고용 · 8절 · 5.7천 자 · 장부 7건
 - `physical-cloud-reading-guide` 클라우드의 물질성: 데이터센터·해저케이블·현장노동을 읽는 책과 르포 — 클라우드 물리 인프라 책, 데이터센터 르포 읽기, 클라우드 다큐 추천 · 15절 · 5.2천 자 · 장부 3건
 - `african-ai-annotation-labor-2026` 케냐·우간다·나이지리아의 AI 데이터 주석 노동: 라벨링이 사라진 자리에 무엇이 남았나 — 아프리카 AI 데이터 주석 노동, 케냐 우간다 나이지리아 데이터 라벨러 · 9절 · 8.1천 자 · 장부 12건

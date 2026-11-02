@@ -193,7 +193,7 @@
 - **[한국 개인정보의 생애: 수집·결합·유출·재사용의 경로](wiki/korea-personal-data-lifecycle.md)** · 별칭: 한국 개인정보 유통, 개인정보의 생애, 개인정보 유출 이후, 한국 데이터 브로커 · 수정: 2026-10-25 · 검토: 대화 내 확인·법제와 최근 사례 세부 재검증 필요
   - 체크박스와 본인확인부터 광고·가명결합·마이데이터, 유출 뒤의 계정탈취·피싱·영업 DB까지 한국 개인정보가 복제·결합·재사용되는 경로를 추적한다.
   - [문서 페이지](https://belorin.github.io/notes/korea-personal-data-lifecycle/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-personal-data-lifecycle.md)
-- **[AI는 계산이 많아지면 무엇이 달라지는가: 데이터센터와 추론 스케일링](wiki/ai-compute-scaling-inference.md)** · 별칭: AI 데이터센터와 추론, test-time scaling, 추론 컴퓨트, AI 계산 스케일링 · 수정: 2026-10-30 · 검토: 대화 내 확인 자료 총합 · 데이터센터 규모·기업 계획·추론 연구 세부 외부 재검증 필요
+- **[AI는 계산이 많아지면 무엇이 달라지는가: 데이터센터와 추론 스케일링](wiki/ai-compute-scaling-inference.md)** · 별칭: AI 데이터센터와 추론, test-time scaling, 추론 컴퓨트, AI 계산 스케일링 · 수정: 2026-11-03 · 검토: 대화 내 확인 자료 총합 · 데이터센터 규모·기업 계획·추론 연구 세부 외부 재검증 필요
   - AI 데이터센터 증설을 단순한 더 큰 사전학습이 아니라 test-time compute, 병렬 탐색·검증, 과학·코딩·피지컬 AI 계산의 확대로 읽고 계산량의 한계를 함께 정리한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-compute-scaling-inference/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-compute-scaling-inference.md)
 - **[사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승](wiki/japan-physical-ai-skill-transfer.md)** · 별칭: 일본 피지컬 AI, 손지능, 숙련 전승 로봇, Physical AI Japan · 수정: 2026-10-30 · 검토: 대화 내 확인 자료 총합 · 기업 발표·정부 목표·국가 비교 해석 외부 재검증 필요
@@ -220,7 +220,7 @@
 - **[AI 이행기의 화폐와 소유권: BIS의 통합장부에서 두 층 경제까지](wiki/ai-transition-monetary-order.md)** · 별칭: AI 이중화폐, BIS 통합장부와 AI, AI 이행기 금융질서 · 수정: 2026-10-30 · 검토: 대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요
   - 실업·채무·금융안정의 이행기 연쇄, BIS unified ledger와 Project Agorá의 실제 목표, 조건부 이중경제 사고실험, IMF 노동·재정정책의 분모를 구별한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-transition-monetary-order/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-transition-monetary-order.md)
-- **[세계 데이터센터의 연산 지리: GW·냉각·감가상각·투자 파이프라인](wiki/data-center-world-capacity.md)** · 별칭: 세계 데이터센터 GW, 데이터센터 세계 비중, 데이터센터 액랭 공랭, 데이터센터 감가상각 · 수정: 2026-10-30 · 검토: 대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요
+- **[세계 데이터센터의 연산 지리: GW·냉각·감가상각·투자 파이프라인](wiki/data-center-world-capacity.md)** · 별칭: 세계 데이터센터 GW, 데이터센터 세계 비중, 데이터센터 액랭 공랭, 데이터센터 감가상각 · 수정: 2026-11-03 · 검토: 대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요
   - 2025~2030년 지역별 GW·건설 파이프라인, 공실률의 모수, 공랭·액랭의 시설별 보급, 물리적 수명과 미국·중국·걸프·APAC 기업 생태계를 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/data-center-world-capacity/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/data-center-world-capacity.md)
 - **[한국 데이터센터 유치의 실익: GW보다 적은 일자리, 전력보다 중요한 지역 몫](wiki/korea-data-center-local-economy.md)** · 별칭: 해남 데이터센터 일자리, 울산 SK AWS 지역경제, 데이터센터 지역고용 · 수정: 2026-10-30 · 검토: 대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요
@@ -616,6 +616,9 @@
 - **[운영 데이터 AI 코파일럿: 더미 DB와 대시보드를 공개 서비스로 만드는 포트폴리오](wiki/operations-data-ai-copilot-portfolio.md)** · 별칭: 운영 데이터 AI 코파일럿, OpsLens AI, 제조 물류 AI 대시보드, 더미 DB AI 포트폴리오, Operational Data AI Copilot · 수정: 2026-11-03 · 검토: 개발·이직을 위한 공개 서비스 설계 제안 / 실제 구현 및 현재 무료 티어 조건 미검증
   - 제조·물류 합성 DB, KPI 대시보드, 제한된 자연어 질의, 근거 패널, 평가와 무료 호스팅·API 비용 통제를 결합한 공개 웹 AI 포트폴리오 설계.
   - [문서 페이지](https://belorin.github.io/notes/operations-data-ai-copilot-portfolio/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/operations-data-ai-copilot-portfolio.md)
+- **[X의 전체 자동번역은 얼마나 많은 계산을 요구하는가: 읽기 시점·캐시·GPU 비용](wiki/x-auto-translation-serving-cost.md)** · 별칭: X 자동번역 비용, 트위터 전체 자동번역, Grok 대규모 번역 서빙 · 수정: 2026-11-03 · 검토: X 제품 발표 및 기존 문헌에 기반한 아키텍처 가설·정량 예시 / 실제 운영 수치 미확인
+  - X 자동번역을 사례로 게시 시점 선번역과 노출 시점 생성, 언어별 캐시, 번역본 수·토큰량·GPU 필요량과 기존 호스팅 비용의 분모를 구별한다.
+  - [문서 페이지](https://belorin.github.io/notes/x-auto-translation-serving-cost/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/x-auto-translation-serving-cost.md)
 
 ## 소설 (창작 작품 · 사실 근거 아님)
 

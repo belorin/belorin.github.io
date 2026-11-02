@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 671,
+  "edge_count": 675,
   "edges": [
     {
       "from": "living-notes",
@@ -2052,6 +2052,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "ai-compute-scaling-inference",
+      "to": "x-auto-translation-serving-cost",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "japan-physical-ai-skill-transfer",
       "to": "ai-compute-scaling-inference",
       "type": "related_to",
@@ -3354,6 +3360,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "data-center-world-capacity",
+      "to": "x-auto-translation-serving-cost",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "korea-data-center-local-economy",
       "to": "data-center-world-capacity",
       "type": "related_to",
@@ -3758,6 +3770,18 @@
     {
       "from": "ray-wyre-sex-offender-treatment",
       "to": "teresa-satans-children-1989",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "x-auto-translation-serving-cost",
+      "to": "ai-compute-scaling-inference",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "x-auto-translation-serving-cost",
+      "to": "data-center-world-capacity",
       "type": "related_to",
       "basis": "manifest.related"
     },

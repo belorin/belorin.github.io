@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `data-center-world-capacity` · 분류: AI와 사회 · 공개 · 원고: [wiki/data-center-world-capacity.md](../../../wiki/data-center-world-capacity.md) · 8,778자 · 절 14개
+- id: `data-center-world-capacity` · 분류: AI와 사회 · 공개 · 원고: [wiki/data-center-world-capacity.md](../../../wiki/data-center-world-capacity.md) · 9,009자 · 절 14개
 - 별칭: 세계 데이터센터 GW, 데이터센터 세계 비중, 데이터센터 액랭 공랭, 데이터센터 감가상각
 - 요약: 2025~2030년 지역별 GW·건설 파이프라인, 공실률의 모수, 공랭·액랭의 시설별 보급, 물리적 수명과 미국·중국·걸프·APAC 기업 생태계를 구분한다.
 - 태그: 데이터센터, GW, 액체냉각, 전력, GPU 감가상각, 하이퍼스케일, 클라우드
-- 수정일: 2026-10-30 · 실제 증보일: 2026-10-30 · 검토: needs_review
-- 관련 문서: `ai-compute-scaling-inference`, `ai-cloud-ownership-rent`, `korea-data-center-local-economy`, `physical-cloud-reading-guide`, `owner-aligned-automated-power`, `space-data-center-thermal-economics`, `world-electricity-capacity-generation-consumption`
+- 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: needs_review
+- 관련 문서: `ai-compute-scaling-inference`, `ai-cloud-ownership-rent`, `korea-data-center-local-economy`, `physical-cloud-reading-guide`, `owner-aligned-automated-power`, `space-data-center-thermal-economics`, `world-electricity-capacity-generation-consumption`, `x-auto-translation-serving-cost`
 
 ## 절 목차
 
@@ -22,12 +22,12 @@
   - 유럽: 성숙한 금융·공공 클라우드와 전력·허가의 제약 · L46–50 · 281자 · `0053ae03` — 프랑크푸르트·런던·암스테르담·파리·더블린(FLAP-D), 밀라노 등은 금융·공공·기업 클라우드와 통신 연계의 중심이다.
   - 걸프: 에너지와 국부자본을 연산설비로 전환 · L52–56 · 330자 · `d47a23b1` — UAE의 G42·Khazna·Microsoft·MGX, 사우디의 HUMAIN·국부펀드·Nvidia 같은 연결이 거론된다.
   - 아시아태평양: 일본·한국·중국의 기존 축과 인도·조호르의 확장 · L58–64 · 492자 · `6a6402ba` — Cushman & Wakefield가 제시한 APAC 2025년 말 조사범위는 13.763GW 운영, 3.677GW 건설 중, 15.694GW 계획이다.
-- 학습은 집중되고 추론은 분산되는가 · L66–70 · 340자 · `8cab5124` — AI 훈련은 거대한 GPU 집합이 빠른 내부 네트워크로 연결될수록 효율적일 수 있어 전력·냉각·설치 규모가 큰 클러스터를 선호한다.
-- 무엇이 오래가고 무엇이 빨리 늙는가 · L72–88 · 886자 · `be04fe6c` — 데이터센터를 ‘거대한 PC’로 보는 비유는 절반만 맞다.
-- 공랭·액랭은 정확히 무엇의 비율인가 · L90–103 · 913자 · `79729ae9` — Uptime 2025 조사에 따르면 운영자의 시설에서 가장 흔한 랙 전력밀도는 1~9kW/랙 구간이 응답의 약 74%, 20kW 미만은 약 93%였다.
-- 투자자를 따라가면 누구를 만나는가 · L105–118 · 819자 · `e04374b9` — AI 모델 회사가 전력선을 직접 놓는 것은 아니다.
-- 어디에 투자지가 생기고 어디에서 폐품이 생기는가 · L120–126 · 587자 · `36bb8b2d` — 투자 관점에서 세 부류를 구별할 수 있다.
-- 근거 범위와 남는 질문 · L128–130 · 304자 · `7cbbead1` — 이 글의 GW·공실률·시설 수와 PUE·냉각 비율은 대화에서 인용된 JLL, Cushman & Wakefield, Synergy Research, IEA, Upt…
+- 학습은 집중되고 추론은 분산되는가 · L66–72 · 571자 · `54a4f3e7` — AI 훈련은 거대한 GPU 집합이 빠른 내부 네트워크로 연결될수록 효율적일 수 있어 전력·냉각·설치 규모가 큰 클러스터를 선호한다.
+- 무엇이 오래가고 무엇이 빨리 늙는가 · L74–90 · 886자 · `be04fe6c` — 데이터센터를 ‘거대한 PC’로 보는 비유는 절반만 맞다.
+- 공랭·액랭은 정확히 무엇의 비율인가 · L92–105 · 913자 · `79729ae9` — Uptime 2025 조사에 따르면 운영자의 시설에서 가장 흔한 랙 전력밀도는 1~9kW/랙 구간이 응답의 약 74%, 20kW 미만은 약 93%였다.
+- 투자자를 따라가면 누구를 만나는가 · L107–120 · 819자 · `e04374b9` — AI 모델 회사가 전력선을 직접 놓는 것은 아니다.
+- 어디에 투자지가 생기고 어디에서 폐품이 생기는가 · L122–128 · 587자 · `36bb8b2d` — 투자 관점에서 세 부류를 구별할 수 있다.
+- 근거 범위와 남는 질문 · L130–132 · 304자 · `7cbbead1` — 이 글의 GW·공실률·시설 수와 PUE·냉각 비율은 대화에서 인용된 JLL, Cushman & Wakefield, Synergy Research, IEA, Upt…
 
 ## 장부에 기록된 반영 지식
 
