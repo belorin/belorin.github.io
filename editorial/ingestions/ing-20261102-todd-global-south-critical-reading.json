@@ -1,0 +1,237 @@
+{
+  "id": "ing-20261102-todd-global-south-critical-reading",
+  "processed_on": "2026-11-02",
+  "coverage": "visible-complete",
+  "limit_note": "현재 접근 가능한 발화와 기존 위키만 사용했으며 원문 기사·인터뷰를 새로 열람하지 않음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "토드의 프랑스 내 대중적 위상과 학문적·정치적 수용의 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "emmanuel-todd-western-defeat",
+          "section": "유명하지만 합의의 중심에는 있지 않은 사람"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "counterargument",
+      "title": "르몽드와 르몽드 디플로마티크의 상반된 서평 논리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "emmanuel-todd-western-defeat",
+          "section": "같은 책을 두고 갈리는 프랑스의 평가"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "서방 쇠퇴 주장과 개별 전쟁의 인과·책임 검증을 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "emmanuel-todd-western-defeat",
+          "section": "『서방의 패배』의 논리와 비판의 마찰"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "fact",
+      "title": "토드의 2025년 이란 핵억지 균형 주장과 반론",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "emmanuel-todd-western-defeat",
+          "section": "2025년 이란 핵무장에 관한 발언"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "argument",
+      "title": "2026년 이란전을 미국 패권의 연쇄 전선으로 해석하는 주장과 근거의 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "emmanuel-todd-western-defeat",
+          "section": "2026년 이란전: 우크라이나 이후의 다른 전선인가"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "curation",
+      "title": "토드의 출판사 서평 프랑스어 언론과 인터뷰 추적 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "emmanuel-todd-western-defeat",
+          "section": "출판사와 매체, 독립 채널을 분리하기"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "concept",
+      "title": "토드 문명론의 통찰과 예측을 따로 검증하는 독법",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "emmanuel-todd-western-defeat",
+          "section": "토드를 읽는 데 필요한 이중 장부"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "concept",
+      "title": "악마의 변호인 역할과 반서방 진영 논리의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-south-critical-reading-guide",
+          "section": "한 가지 진영이 아니라 네 가지 문제"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "curation",
+      "title": "아프리카의 월터 로드니 사미르 아민 카를루스 로페스와 추가 저자",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-south-critical-reading-guide",
+          "section": "아프리카: 뒤처짐이라는 말은 무엇을 숨기는가"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "curation",
+      "title": "아시아의 마부바니 아차리아와 비서구 국제정치학 독서",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-south-critical-reading-guide",
+          "section": "아시아: 세계질서의 중심을 미국 바깥에 놓을 때"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "curation",
+      "title": "라틴아메리카 갈레아노 에스코바르 산토스와 탈식민 독서",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-south-critical-reading-guide",
+          "section": "라틴아메리카: 착취의 역사를 넘어 개발이라는 언어까지"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "curation",
+      "title": "지역을 가로지르는 프라샤드 장하준 월러스틴 아리기 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-south-critical-reading-guide",
+          "section": "지역을 가로지르는 저자들: 같은 결론에 이르지 않는 세계비판"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "curation",
+      "title": "미어샤이머 삭스 리븐 촘스키 앤더슨 슈트렉 등 서방 내부 반론가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-south-critical-reading-guide",
+          "section": "미국·유럽 내부에서 자기 질서를 반박하는 저자들"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "curation",
+      "title": "저자별 독서 목적 강점 주의점과 입문 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-south-critical-reading-guide",
+          "section": "어떤 책부터 읽어야 하나: 충격과 신뢰도의 교환"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "argument",
+      "title": "호들갑과 음모론을 피하는 여섯 가지 증거 검토 질문",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-south-critical-reading-guide",
+          "section": "호들갑과 음모론을 거르는 여섯 가지 독서 질문"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "concept",
+      "title": "Substack의 이메일 뉴스레터 블로그 유료 구독 결합 구조",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "substack-independent-newsletters",
+          "section": "블로그와 뉴스레터는 무엇이 다른가"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "argument",
+      "title": "Substack 직접 발신의 독립성과 검증 절차 부재의 양면성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "substack-independent-newsletters",
+          "section": "학자와 논객이 이곳에 모이는 이유"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "example",
+      "title": "에마뉘엘 토드 Substack과 Marianne 저자 지면 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "substack-independent-newsletters",
+          "section": "에마뉘엘 토드를 읽는 사례"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "curation",
+      "title": "Substack 연재물을 검증하고 구독할 때의 확인 순서",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "substack-independent-newsletters",
+          "section": "이용과 검증의 실용적인 순서"
+        }
+      ]
+    }
+  ]
+}
