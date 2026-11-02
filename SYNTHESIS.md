@@ -2,7 +2,7 @@
 
 > 버전: 1.0 · 제정: 2026-10-26 · 대상: `belorin/belorin.github.io` (`main`)
 >
-> 대화의 지식을 넣는 **증보**는 [WIKI_PROTOCOL.md](./WIKI_PROTOCOL.md), 위키 전체를 정리하는 **정비**는 [MAINTENANCE.md](./MAINTENANCE.md)를 따른다. 이 문서는 이미 쌓인 문서들을 엮어 새로 생각하는 **종합**의 절차다. 종합을 요청받았을 때만 읽는다.
+> 대화의 지식을 넣는 **증보**는 [WIKI_PROTOCOL.md](./WIKI_PROTOCOL.md), 위키 전체를 정리하는 **정비**는 [MAINTENANCE.md](./MAINTENANCE.md)를 따른다. 이 문서는 이미 쌓인 문서들을 엮어 새로 생각하는 **요청형 종합**의 절차다. 종합을 요청받았을 때만 읽는다. 증보 후 자율 논고나 독립적인 AI 저술은 별도 [ESSAY.md](./ESSAY.md)를 따른다.
 
 ## 0. 원칙
 
