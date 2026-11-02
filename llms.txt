@@ -149,6 +149,7 @@
 - [마지막 속방의 소멸: 류큐·베트남·버마·조선에서 청의 종주권은 어떻게 무너졌는가](https://belorin.github.io/notes/qing-tributaries-dissolution/): 류큐의 행정 편입, 베트남의 프랑스 보호국화, 버마 병합, 조선의 청일전쟁과 네팔의 의례적 조공을 비교해 청의 속방 해체를 설명한다.
 - [빵과 서커스에서 금본위까지: 로마·산업혁명을 한 줄로 꿰는 역사관의 함정](https://belorin.github.io/notes/roman-industry-gold-standard-history/): 로마의 곡물 배급과 주화 절하, 동로마와 중세 상업혁명, 영국 산업화, 1931·1933·1934·1971년 금본위 이탈의 차이를 통해 직선적 경제사 서사를 비판
 - [풍요 속에서 자리를 잃은 사람들: 세계 대공황의 생활 기록과 동시대 소설](https://belorin.github.io/notes/great-depression-lived-experience-literature/): 물건이 풍부해도 소득과 사회적 자리를 잃는 역사적 경험을 독일·미국·영국·프랑스어권·스페인어권·브라질·일본의 1930~40년대 소설과 당대 르포, 후대 구술사를 통해 구분하고 번역 확인 수준 및 독서 경로를 정리한다.
+- [영어권 사탄 패닉의 형성과 쇠퇴: 아동 보호의 각성은 어떻게 비밀 의례 범죄의 공포가 되었나](https://belorin.github.io/notes/satanic-panic-english-speaking-history/): 1980년대 사탄 의례 학대 공황의 토양과 Michelle Remembers, McMartin, 미국 TV·영국·호주·뉴질랜드로의 확산, 1990년대 제도적 반증과 기억 연구의 후과를 구분한다.
 
 ### 언어
 
@@ -181,6 +182,8 @@
 - [전력선발 산불은 얼마나 줄었나: 미국·호주·유럽과 한국의 대응](https://belorin.github.io/notes/powerline-wildfire-mitigation-world-korea/): 캘리포니아·빅토리아·남유럽의 예방 수단과 성과 수치, 한국의 산지선로 개선 및 효과평가에서 필요한 지표.
 - [2025 산청·하동 산불의 예방 가능성: 발화와 확산은 다른 문제다](https://belorin.github.io/notes/sancheong-wildfire-2025-prevention/): 산청·하동 산불의 2025년 경과와 발화 예방·초동진화·대형화 방지를 구분한 반사실 평가와 원인 확인의 한계.
 - [산불의 청구서는 누구에게 가는가: 개인 배상, 전력회사의 보험, 통제의 미래](https://belorin.github.io/notes/wildfire-liability-insurance-risk-society/): 실화자에 대한 청구·판결·실제 회수액의 구별, 한전의 보험 미확인 범위, 보험 절벽과 위험기반 출입규제에 관한 미래 가설.
+- [사탄 패닉의 수사·재판·정부 조사: 기소, 무죄, 파기와 아동보호 개입의 서로 다른 결말](https://belorin.github.io/notes/satanic-panic-court-inquiries/): McMartin, Fells Acres, Little Rascals, Keller, Cleveland, Rochdale, Orkney, Peter Ellis와 Teresa 사례에서 서로 다른 법적 단계·정부 대응·증거상 난점을 비교한다.
+- [Ray Wyre: 성범죄자 치료의 선구자와 사탄 의례 학대 논쟁](https://belorin.github.io/notes/ray-wyre-sex-offender-treatment/): 영국 성범죄자 치료 전문가 Ray Wyre의 Winson Green·Albany·Gracewell·Wolvercote 경력, 저술과 사후 평가, 1989년 사탄 의례 학대 21건 발언의 증거상 한계를 구분한다.
 
 ### 영화
 
@@ -247,6 +250,7 @@
 
 - [호들갑 감정기: 정보의 와우·확성·과열 차수를 구별하는 법](https://belorin.github.io/notes/information-hype-wow-index/): 정보 피로를 실제 중요도·본래의 놀라움·유통 강도로 분해하는 호들갑 감정기 설계. 과열 차수의 산식, 수치 혼선의 교정, 가상 사례, 링크·캡처 입력과 커스텀 GPT 평가 지침을 설명한다.
 - [Substack은 무엇인가: 개인 뉴스레터, 블로그, 유료 구독이 만나는 공간](https://belorin.github.io/notes/substack-independent-newsletters/): Substack의 블로그·이메일 뉴스레터·유료 구독 결합 구조와 독립 논객의 발신 방식, 토드 채널 사례, 이용 및 검증의 기본 원칙을 설명한다.
+- [1989년 〈Satan's Children〉의 테레사: 방송된 증언, 탈출의 빈칸, 확인되지 않은 재판](https://belorin.github.io/notes/teresa-satans-children-1989/): 호주 60 Minutes의 영국 소녀 Teresa 증언을 방송 사실과 범죄 주장으로 분해하고 Nan·Alex·Natalie, 탈출과 어머니 재결합, 기소·후속 방송의 상충 기록을 분석한다.
 
 ### 게임
 

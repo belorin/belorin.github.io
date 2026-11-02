@@ -349,6 +349,9 @@
 - **[풍요 속에서 자리를 잃은 사람들: 세계 대공황의 생활 기록과 동시대 소설](wiki/great-depression-lived-experience-literature.md)** · 별칭: 대공황 당대 소설, 대공황 생활사 문학, 대공황 세계문학, 풍요 속 실업, 1930년대 실업 문학 · 수정: 2026-10-30 · 검토: 대화 기반 독서 지도 · 원서·한국어판 서지와 작품의 공황 직접성 검증 필요
   - 물건이 풍부해도 소득과 사회적 자리를 잃는 역사적 경험을 독일·미국·영국·프랑스어권·스페인어권·브라질·일본의 1930~40년대 소설과 당대 르포, 후대 구술사를 통해 구분하고 번역 확인 수준 및 독서 경로를 정리한다.
   - [문서 페이지](https://belorin.github.io/notes/great-depression-lived-experience-literature/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/great-depression-lived-experience-literature.md)
+- **[영어권 사탄 패닉의 형성과 쇠퇴: 아동 보호의 각성은 어떻게 비밀 의례 범죄의 공포가 되었나](wiki/satanic-panic-english-speaking-history.md)** · 별칭: 사탄 패닉 시대, Satanic Panic, 영어권 사탄 패닉, 사탄 의례 학대의 역사, 사탄 패닉의 역사, 사탄교 공황 · 수정: 2026-11-03 · 검토: 역사·사회적 공황과 수사방법의 대화 기반 종합 / 개별 주장·통계에 관해 외부 신규 재검증 없음
+  - 1980년대 사탄 의례 학대 공황의 토양과 Michelle Remembers, McMartin, 미국 TV·영국·호주·뉴질랜드로의 확산, 1990년대 제도적 반증과 기억 연구의 후과를 구분한다.
+  - [문서 페이지](https://belorin.github.io/notes/satanic-panic-english-speaking-history/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/satanic-panic-english-speaking-history.md)
 
 ## 언어
 
@@ -433,6 +436,12 @@
 - **[산불의 청구서는 누구에게 가는가: 개인 배상, 전력회사의 보험, 통제의 미래](wiki/wildfire-liability-insurance-risk-society.md)** · 별칭: 산불 구상권과 개인 책임, 산불 보험 절벽과 규제 미래 · 수정: 2026-11-02 · 검토: 대화 기반 종합·외부 재검증 필요
   - 실화자에 대한 청구·판결·실제 회수액의 구별, 한전의 보험 미확인 범위, 보험 절벽과 위험기반 출입규제에 관한 미래 가설.
   - [문서 페이지](https://belorin.github.io/notes/wildfire-liability-insurance-risk-society/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wildfire-liability-insurance-risk-society.md)
+- **[사탄 패닉의 수사·재판·정부 조사: 기소, 무죄, 파기와 아동보호 개입의 서로 다른 결말](wiki/satanic-panic-court-inquiries.md)** · 별칭: 사탄 패닉 법정 사건, 사탄 의례 학대 재판, 사탄 패닉 정부 조사, SRA 재판 사례 · 수정: 2026-11-03 · 검토: 기소·판결·정부조사 결과의 대화 기반 비교 / Teresa 사건 최종 판결 기록 미확인
+  - McMartin, Fells Acres, Little Rascals, Keller, Cleveland, Rochdale, Orkney, Peter Ellis와 Teresa 사례에서 서로 다른 법적 단계·정부 대응·증거상 난점을 비교한다.
+  - [문서 페이지](https://belorin.github.io/notes/satanic-panic-court-inquiries/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/satanic-panic-court-inquiries.md)
+- **[Ray Wyre: 성범죄자 치료의 선구자와 사탄 의례 학대 논쟁](wiki/ray-wyre-sex-offender-treatment.md)** · 별칭: Ray Wyre 경력, 레이 와이어, 레이 와이어 상담가, Ray Wyre 60 Minutes · 수정: 2026-11-03 · 검토: 인물 경력과 전문직 주장의 구분 / SRA 발언의 독립 형사입증 미확인
+  - 영국 성범죄자 치료 전문가 Ray Wyre의 Winson Green·Albany·Gracewell·Wolvercote 경력, 저술과 사후 평가, 1989년 사탄 의례 학대 21건 발언의 증거상 한계를 구분한다.
+  - [문서 페이지](https://belorin.github.io/notes/ray-wyre-sex-offender-treatment/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ray-wyre-sex-offender-treatment.md)
 
 ## 영화
 
@@ -565,6 +574,9 @@
 - **[Substack은 무엇인가: 개인 뉴스레터, 블로그, 유료 구독이 만나는 공간](wiki/substack-independent-newsletters.md)** · 별칭: 서브스택, 서브트랙, Substack 뉴스레터 · 수정: 2026-11-02 · 검토: 서비스 구조 개관·구독 조건과 인증 시점별 확인 필요
   - Substack의 블로그·이메일 뉴스레터·유료 구독 결합 구조와 독립 논객의 발신 방식, 토드 채널 사례, 이용 및 검증의 기본 원칙을 설명한다.
   - [문서 페이지](https://belorin.github.io/notes/substack-independent-newsletters/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/substack-independent-newsletters.md)
+- **[1989년 〈Satan's Children〉의 테레사: 방송된 증언, 탈출의 빈칸, 확인되지 않은 재판](wiki/teresa-satans-children-1989.md)** · 별칭: 60 Minutes 사탄의 아이들, 테레사 사탄교 방송, Teresa Satan's Children, 1989 사탄의 아이들, 테레사 나탈리 1989 · 수정: 2026-11-03 · 검토: 1989년 방송 진술의 구분과 후속 검증 한계 정리 / 법원 판결문 및 탈출 경위 미확인
+  - 호주 60 Minutes의 영국 소녀 Teresa 증언을 방송 사실과 범죄 주장으로 분해하고 Nan·Alex·Natalie, 탈출과 어머니 재결합, 기소·후속 방송의 상충 기록을 분석한다.
+  - [문서 페이지](https://belorin.github.io/notes/teresa-satans-children-1989/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/teresa-satans-children-1989.md)
 
 ## 게임
 

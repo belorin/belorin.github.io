@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 654,
+  "edge_count": 666,
   "edges": [
     {
       "from": "living-notes",
@@ -3686,6 +3686,78 @@
     {
       "from": "african-ai-annotation-labor-2026",
       "to": "ai-hidden-labor-feeding-machine-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "satanic-panic-english-speaking-history",
+      "to": "satanic-panic-court-inquiries",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "satanic-panic-english-speaking-history",
+      "to": "teresa-satans-children-1989",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "satanic-panic-english-speaking-history",
+      "to": "ray-wyre-sex-offender-treatment",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "satanic-panic-court-inquiries",
+      "to": "satanic-panic-english-speaking-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "satanic-panic-court-inquiries",
+      "to": "teresa-satans-children-1989",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "satanic-panic-court-inquiries",
+      "to": "ray-wyre-sex-offender-treatment",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "teresa-satans-children-1989",
+      "to": "satanic-panic-english-speaking-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "teresa-satans-children-1989",
+      "to": "satanic-panic-court-inquiries",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "teresa-satans-children-1989",
+      "to": "ray-wyre-sex-offender-treatment",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ray-wyre-sex-offender-treatment",
+      "to": "satanic-panic-english-speaking-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ray-wyre-sex-offender-treatment",
+      "to": "satanic-panic-court-inquiries",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ray-wyre-sex-offender-treatment",
+      "to": "teresa-satans-children-1989",
       "type": "related_to",
       "basis": "manifest.related"
     },
