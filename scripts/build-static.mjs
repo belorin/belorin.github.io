@@ -128,7 +128,7 @@ for (const note of notes) {
       dateModified: note.updated,
       inLanguage: "ko",
       url: pageUrl(note.id),
-      author: { "@type": "Person", name: "belorin" },
+      ...(note.kind === "ai-essay" ? {} : { author: { "@type": "Person", name: "belorin" } }),
       isPartOf: { "@type": "WebSite", name: siteName, url: site },
       ...(note.tags?.length ? { keywords: note.tags.join(", ") } : {}),
     },
