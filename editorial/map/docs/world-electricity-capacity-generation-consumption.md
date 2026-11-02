@@ -25,4 +25,18 @@
 
 ## 장부에 기록된 반영 지식
 
-- 없음 (장부 도입 이전 원고이거나 아직 기록이 없다. 기록이 없다는 것은 내용이 없다는 뜻이 아니다.)
+- **GW와 TWh: 발전능력과 발전량은 왜 다른가**
+  - 발전 설비용량 GW와 연간 발전·소비 TWh의 구분 · `ing-20261102-world-electricity-capacity`
+  - 1GW 연속 1년 가동 시 8.76TWh 산술 환산 · `ing-20261102-world-electricity-capacity`
+- **세계 전체의 눈금**
+  - 세계 발전설비 9.4~9.8TW와 연간 전력 생산·수요 개략 합계 · `ing-20261102-world-electricity-capacity`
+- **주요 25개 국가의 설비·생산·소비 비교**
+  - 주요 25개국 발전설비 생산량 소비량 비교 표 · `ing-20261102-world-electricity-capacity`
+- **어떤 나라가 세계 전력의 큰 몫을 차지하는가**
+  - 중국 미국 인도의 전력 규모와 소비 집중도 · `ing-20261102-world-electricity-capacity`
+- **비슷한 GW라도 TWh가 다른 이유**
+  - 비슷한 설비용량의 국가별 생산량 차이 · `ing-20261102-world-electricity-capacity`
+- **생산국과 소비국, 전력 수출입의 해석**
+  - 발전량과 수요의 차이를 순수출로 등치할 수 없는 이유 · `ing-20261102-world-electricity-capacity`
+- **무엇을 더 확인해야 정밀 비교가 되는가**
+  - 국가 전력 GW와 데이터센터 전력 GW의 비교 분모 구별 · `ing-20261102-world-electricity-capacity`

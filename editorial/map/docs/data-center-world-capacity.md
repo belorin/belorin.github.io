@@ -33,6 +33,7 @@
 
 - **먼저 세 개의 세계 규모를 구별한다**
   - 세계 데이터센터 시설수 GW 전력소비 분모 · `ing-20261030-ai-ceiling-automation-datacenters`
+  - 국가 전력 GW와 데이터센터 전력 GW의 비교 분모 구별 · `ing-20261102-world-electricity-capacity`
 - **공실률은 ‘빈 건물’이 아니라 임대 가능한 전력 용량에 가깝다**
   - 데이터센터 공실률의 임대전력 용량 의미 · `ing-20261030-ai-ceiling-automation-datacenters`
 - **세계의 다섯 지형: 기존 집적과 신규 투자 흐름**
