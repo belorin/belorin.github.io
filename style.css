@@ -3,6 +3,7 @@
   --line:#dfe3db; --accent:#34654b; --light:#edf3ec; --soft:#f2f4ef;
   --synth:#7a4686; --synth-light:#f6eff8;
   --fiction:#8a5a1c; --fiction-light:#fbf3e6;
+  --essay:#375e73; --essay-light:#eef4f6;
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
@@ -77,6 +78,13 @@ kbd{border:1px solid var(--line);border-radius:3px;padding:0 5px;background:var(
 .original-text summary{cursor:pointer;padding:9px 0;font-size:13px;color:var(--fiction)}
 .original-body{color:var(--muted);padding-bottom:6px}
 .filters .fiction{color:var(--fiction)}
+.badge-essay{display:inline-block;font-size:11px;font-weight:650;line-height:1.5;color:var(--essay);background:var(--essay-light);border:1px solid color-mix(in srgb,var(--essay) 30%,transparent);border-radius:4px;padding:0 6px;margin-right:4px;vertical-align:1px;white-space:nowrap}
+.is-essay .reader-header h1{color:var(--essay)}
+.essay-note{margin:18px 0 22px;padding:12px 15px;border-left:3px solid var(--essay);background:var(--essay-light);border-radius:0 8px 8px 0;font-size:13px;line-height:1.7}
+.essay-note strong{color:var(--essay);margin-right:6px}
+.essay-basis{display:block;margin-top:6px;color:var(--muted)}
+.essay-basis a{color:var(--essay);text-decoration:underline}
+.filters .essay{color:var(--essay)}
 .list-summary{font-size:13px;color:var(--muted);line-height:1.65;margin:5px 0}
 .list-item{padding:19px 0;border-bottom:1px solid var(--line)}
 .list-item h2{font-size:19px;letter-spacing:-.4px;margin:5px 0;line-height:1.45}
