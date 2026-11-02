@@ -4667,7 +4667,7 @@
       "title": "『AI는 인간을 먹고 자란다』 이후: 보이지 않는 노동은 사라졌는가, 분화했는가",
       "category": "AI와 사회",
       "status": "대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요",
-      "updated": "2026-10-30",
+      "updated": "2026-11-03",
       "summary": "2024년 원서와 2025년 한국어판을 기준으로 LLM 데이터 평가·합성데이터·전문가·검수·물류·창작·데이터센터 노동 변화를 대조",
       "tags": [
         "AI 노동",
@@ -4684,14 +4684,15 @@
         "ai-economic-transition",
         "data-center-world-capacity",
         "korea-data-center-local-economy",
-        "physical-cloud-reading-guide"
+        "physical-cloud-reading-guide",
+        "african-ai-annotation-labor-2026"
       ],
       "aliases": [
         "AI는 인간을 먹고 자란다 이후",
         "Feeding the Machine 2026"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-30"
+      "last_enriched_on": "2026-11-03"
     },
     {
       "id": "global-bpo-labor-geography",
@@ -4701,7 +4702,7 @@
       "title": "세계 BPO 시장의 지리: 누가 사무 노동을 수출하고, 누가 값을 지불하는가",
       "category": "사회와 제도",
       "status": "대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요",
-      "updated": "2026-10-30",
+      "updated": "2026-11-03",
       "summary": "인도·필리핀·유럽·라틴아메리카·아프리카 BPO 공급국, 업종, 수출·고용·청구단가와 노동권 비교의 통계적 함정",
       "tags": [
         "BPO",
@@ -4714,14 +4715,15 @@
       "related": [
         "ai-hidden-labor-feeding-machine-2026",
         "ai-economic-transition",
-        "us-labor-market-geography-2026"
+        "us-labor-market-geography-2026",
+        "african-ai-annotation-labor-2026"
       ],
       "aliases": [
         "세계 BPO 시장",
         "BPO 국가별 가격 노동복지"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-30"
+      "last_enriched_on": "2026-11-03"
     },
     {
       "id": "ai-cloud-ownership-rent",
@@ -5969,6 +5971,38 @@
       "status": "대화 기반 국가별 부동산 붕괴와 금융 후과 비교 / 국가별 가격지수·연도·수치 외부 재검증 필요",
       "updated": "2026-11-03",
       "source": "내부 총합·외부 신규 조사 없음·국제 통계 정의 및 세부 수치 미검증",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-03"
+    },
+    {
+      "id": "african-ai-annotation-labor-2026",
+      "path": "wiki/african-ai-annotation-labor-2026.md",
+      "publish": true,
+      "order": 182,
+      "title": "케냐·우간다·나이지리아의 AI 데이터 주석 노동: 라벨링이 사라진 자리에 무엇이 남았나",
+      "category": "AI와 사회",
+      "status": "대화 기반 총합·고용 추세·공고 조건 외부 재검증 필요",
+      "updated": "2026-11-03",
+      "summary": "케냐의 대형 하청·발주처 이동, 우간다의 업체 고용과 원격 모집, 나이지리아의 언어 특화 평가를 비교하고 구인공고와 실제 고용·임금의 증거 차이를 구별한다.",
+      "tags": [
+        "AI 데이터 노동",
+        "데이터 주석",
+        "데이터 라벨링",
+        "케냐",
+        "우간다",
+        "나이지리아",
+        "BPO",
+        "RLHF"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "global-bpo-labor-geography",
+        "ai-hidden-labor-feeding-machine-2026"
+      ],
+      "aliases": [
+        "아프리카 AI 데이터 주석 노동",
+        "케냐 우간다 나이지리아 데이터 라벨러"
+      ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-11-03"
     }
