@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 643,
+  "edge_count": 647,
   "edges": [
     {
       "from": "living-notes",
@@ -3432,6 +3432,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "manufacturing-optimization-solo-business",
+      "to": "operations-data-ai-copilot-portfolio",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "mountain-powerline-undergrounding-economics",
       "to": "powerline-wildfire-mitigation-world-korea",
       "type": "related_to",
@@ -3546,6 +3552,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "edge-vision-event-monitor-portfolio",
+      "to": "operations-data-ai-copilot-portfolio",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "stump-and-dream-fragment",
       "to": "local-llm-novel-agent-m1",
       "type": "related_to",
@@ -3626,6 +3638,18 @@
     {
       "from": "ministry-for-the-future-reading",
       "to": "gpi-foreign-novels-2015-2025",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "operations-data-ai-copilot-portfolio",
+      "to": "edge-vision-event-monitor-portfolio",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "operations-data-ai-copilot-portfolio",
+      "to": "manufacturing-optimization-solo-business",
       "type": "related_to",
       "basis": "manifest.related"
     },

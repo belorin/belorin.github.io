@@ -261,6 +261,7 @@
 - [산을 넘는 송전선과 산을 뚫는 전력구: 산불 위험을 포함한 지중화의 경제학](https://belorin.github.io/notes/mountain-powerline-undergrounding-economics/): 345kV 가공·지중 단가의 조건, 산악 전력구, 산불 기대손실과 보험을 분리한 30~50년 생애주기 경제성 비교 설계.
 - [엣지 영상 이벤트 감지 포트폴리오: 카메라 한 대에서 실증 보고서까지](https://belorin.github.io/notes/edge-vision-event-monitor-portfolio/): 영상 객체 탐지와 ROI 침입·체류 판정을 연결하고, 이벤트 로깅·장치 최적화 비교·MQTT 센서 연계·평가와 기술 문서화까지 제안한 현장형 컴퓨터비전 데모 설계.
 - [세계 전력의 크기를 읽는 법: 국가별 GW·생산량·소비량 비교](https://belorin.github.io/notes/world-electricity-capacity-generation-consumption/): 세계 발전 설비용량 약 9.4~9.8TW와 연간 발전·수요 약 3만1천TWh의 구분, 주요 25개국의 GW·TWh 개략 표, 연도·집계기준 혼합과 수출입 해석의 한계를 설명한다.
+- [운영 데이터 AI 코파일럿: 더미 DB와 대시보드를 공개 서비스로 만드는 포트폴리오](https://belorin.github.io/notes/operations-data-ai-copilot-portfolio/): 제조·물류 합성 DB, KPI 대시보드, 제한된 자연어 질의, 근거 패널, 평가와 무료 호스팅·API 비용 통제를 결합한 공개 웹 AI 포트폴리오 설계.
 
 ### 소설 (창작 작품 · 사실 근거 아님)
 

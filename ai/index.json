@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 178,
+  "document_count": 179,
   "documents": [
     {
       "id": "living-notes",
@@ -5624,12 +5624,13 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "사업 구상·검증 필요",
-      "last_updated_on": "2026-10-30",
-      "last_enriched_on": "2026-10-30",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "physical-ai-world-model-quantum-optimization",
-        "japan-physical-ai-skill-transfer"
+        "japan-physical-ai-skill-transfer",
+        "operations-data-ai-copilot-portfolio"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/manufacturing-optimization-solo-business.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/manufacturing-optimization-solo-business.md",
@@ -5831,13 +5832,14 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "채용 공고 요구사항에서 도출된 구현 제안·실제 모델 학습 및 성능 실측 미확인",
-      "last_updated_on": "2026-11-02",
-      "last_enriched_on": "2026-11-02",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "local-llm-novel-agent-m1",
         "physical-ai-world-model-quantum-optimization",
-        "book-translation-pipeline-local-llm"
+        "book-translation-pipeline-local-llm",
+        "operations-data-ai-copilot-portfolio"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/edge-vision-event-monitor-portfolio.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/edge-vision-event-monitor-portfolio.md",
@@ -6155,6 +6157,49 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ministry-for-the-future-reading.md",
       "page_url": "https://belorin.github.io/notes/ministry-for-the-future-reading/",
       "app_url": "https://belorin.github.io/#ministry-for-the-future-reading"
+    },
+    {
+      "id": "operations-data-ai-copilot-portfolio",
+      "title": "운영 데이터 AI 코파일럿: 더미 DB와 대시보드를 공개 서비스로 만드는 포트폴리오",
+      "aliases": [
+        "운영 데이터 AI 코파일럿",
+        "OpsLens AI",
+        "제조 물류 AI 대시보드",
+        "더미 DB AI 포트폴리오",
+        "Operational Data AI Copilot"
+      ],
+      "category": "과학과 기술",
+      "tags": [
+        "AI 포트폴리오",
+        "Applied AI",
+        "제조 데이터",
+        "물류",
+        "합성 데이터",
+        "Postgres",
+        "자연어 질의",
+        "Structured Outputs",
+        "Text-to-SQL",
+        "Next.js",
+        "Vercel",
+        "Supabase",
+        "Neon",
+        "평가"
+      ],
+      "summary": "제조·물류 합성 DB, KPI 대시보드, 제한된 자연어 질의, 근거 패널, 평가와 무료 호스팅·API 비용 통제를 결합한 공개 웹 AI 포트폴리오 설계.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "개발·이직을 위한 공개 서비스 설계 제안 / 실제 구현 및 현재 무료 티어 조건 미검증",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "edge-vision-event-monitor-portfolio",
+        "manufacturing-optimization-solo-business"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/operations-data-ai-copilot-portfolio.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/operations-data-ai-copilot-portfolio.md",
+      "page_url": "https://belorin.github.io/notes/operations-data-ai-copilot-portfolio/",
+      "app_url": "https://belorin.github.io/#operations-data-ai-copilot-portfolio"
     }
   ]
 }

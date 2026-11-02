@@ -3,9 +3,9 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1114개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1130개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
-## 보류 항목 (16)
+## 보류 항목 (17)
 
 - 경제 시뮬레이션의 기존 전제·수치·학파별 논증 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 해당 원자료를 확인하지 못해 기존 논증의 복원과 완전 보존 여부를 판정할 수 없음. 새 공개 자료의 보충 분석으로 대체 완료 처리하지 않음.
 - 기존 종합·수정 원고의 상세 내용 대조 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 본문이 아닌 참조 표시만 확인되어 기존 원고의 세부와 현재 증보 사이의 중복·차이를 검수할 수 없음.
@@ -23,6 +23,7 @@
 - 국가별 같은 연도 정밀 통계와 전력 순수출입 검증 → 반영 위치 없음 · `ing-20261102-world-electricity-capacity` · pending — 각국의 기준 연도·총발전과 최종소비의 정의가 일치하는 원자료가 현재 접근 가능한 범위에 없어 정밀한 비교와 무역수지 계산은 보류
 - 2026 GPI 외국 장편 후보 명단 네 편과 여섯 편의 차이 → 반영 위치 없음 · `ing-20261103-gpi-foreign-novels` · pending — 대화에서 상충하는 명단이 제시되었고 프로토콜상 새 공식 페이지 검증이 허용되지 않아 차이를 원고에 명시하고 확정은 보류
 - 2015~2025 외국 장편 한국어 번역본의 서지 원본 대조 → 반영 위치 없음 · `ing-20261103-gpi-foreign-novels` · pending — 대화에 제시된 서점 검색 진술과 사용자의 정정만 확보되어, 실제 출판사·도서관의 최신 원본 확인은 보류
+- 운영 데이터 AI 코파일럿의 실제 구현 성능·비용·배포 검증 → 반영 위치 없음 · `ing-20261103-operations-ai-copilot-portfolio` · pending — 아이디어와 설계·예시만 있으며 배포 URL, 실제 DB, 평가 결과와 현재 과금 조건이 확인되지 않음
 
 ## AI와 사회 (206)
 
@@ -819,7 +820,7 @@
 - 기술적 무결성 검증과 저술의 질적 판단을 분리 → `editing-principles` § 검증은 무엇을 위해 존재하는가 · `ing-20261102-ai-autonomous-essays`
 - 생성량 목표보다 AI의 저술 선택과 폐기 권한을 존중 → `editing-principles` § 축적 이후의 저술: AI에게 맡기는 판단 · `ing-20261102-ai-autonomous-essays`
 
-## 과학과 기술 (47)
+## 과학과 기술 (62)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -870,6 +871,21 @@
 - 비슷한 설비용량의 국가별 생산량 차이 → `world-electricity-capacity-generation-consumption` § 비슷한 GW라도 TWh가 다른 이유 · `ing-20261102-world-electricity-capacity`
 - 발전량과 수요의 차이를 순수출로 등치할 수 없는 이유 → `world-electricity-capacity-generation-consumption` § 생산국과 소비국, 전력 수출입의 해석 · `ing-20261102-world-electricity-capacity`
 - 국가 전력 GW와 데이터센터 전력 GW의 비교 분모 구별 → `world-electricity-capacity-generation-consumption` § 무엇을 더 확인해야 정밀 비교가 되는가; `data-center-world-capacity` § 먼저 세 개의 세계 규모를 구별한다 · `ing-20261102-world-electricity-capacity`
+- 연구형 AI와 응용형 AI 포트폴리오의 구분과 현업 경력의 활용 → `operations-data-ai-copilot-portfolio` § 어떤 AI 엔지니어링을 증명할 것인가 · `ing-20261103-operations-ai-copilot-portfolio`
+- 운영 비서·ERP 자연어 질의·현장 장애 대응 코파일럿의 세 경로 → `operations-data-ai-copilot-portfolio` § 어떤 AI 엔지니어링을 증명할 것인가 · `ing-20261103-operations-ai-copilot-portfolio`
+- 만들고 싶은 문제와 채용 검증 가능성의 균형 → `operations-data-ai-copilot-portfolio` § 어떤 AI 엔지니어링을 증명할 것인가 · `ing-20261103-operations-ai-copilot-portfolio`
+- 대시보드·자연어 채팅·근거 패널의 세 화면 → `operations-data-ai-copilot-portfolio` § 최소 제품의 세 화면: 지표, 질문, 근거 · `ing-20261103-operations-ai-copilot-portfolio`
+- 라인 가동률·납기 지연·설비 위험도 분석의 데모 질문과 근거 → `operations-data-ai-copilot-portfolio` § 최소 제품의 세 화면: 지표, 질문, 근거 · `ing-20261103-operations-ai-copilot-portfolio`
+- 제조 물류 합성 DB 스키마와 일관된 사건 생성 규칙 → `operations-data-ai-copilot-portfolio` § 대량의 더미 데이터보다 중요한 것은 생성 규칙이다 · `ing-20261103-operations-ai-copilot-portfolio`
+- 무제한 SQL 대신 구조화된 조회 도구와 읽기 전용 실행 경계 → `operations-data-ai-copilot-portfolio` § AI가 SQL을 함부로 실행하지 않도록 분리한다 · `ing-20261103-operations-ai-copilot-portfolio`
+- 문서 RAG와 정형 데이터 집계의 역할 분리 및 단계적 확장 → `operations-data-ai-copilot-portfolio` § AI가 SQL을 함부로 실행하지 않도록 분리한다 · `ing-20261103-operations-ai-copilot-portfolio`
+- 자연어 DB 분석의 평가셋·관측·실패 분류 → `operations-data-ai-copilot-portfolio` § 평가·관측·실패의 표기 · `ing-20261103-operations-ai-copilot-portfolio`
+- Vercel Supabase Neon Cloudflare D1 Render 무료 배포 선택지 → `operations-data-ai-copilot-portfolio` § 공개 배포: 무료 웹과 과금되는 추론을 구별한다 · `ing-20261103-operations-ai-copilot-portfolio`
+- AI API 과금과 공개 데모 호출 제한 및 현행 요금 재검증 → `operations-data-ai-copilot-portfolio` § 공개 배포: 무료 웹과 과금되는 추론을 구별한다 · `ing-20261103-operations-ai-copilot-portfolio`
+- 최소 구현 범위와 단계별 3주 개발 순서 → `operations-data-ai-copilot-portfolio` § 범위는 작게, 보여 주는 증거는 충분히 · `ing-20261103-operations-ai-copilot-portfolio`
+- README 평가 결과와 데모 영상으로 구현 증거 구성 → `operations-data-ai-copilot-portfolio` § 범위는 작게, 보여 주는 증거는 충분히 · `ing-20261103-operations-ai-copilot-portfolio`
+- 영상 이벤트형과 운영 데이터 설명형 포트폴리오의 성능 검증 차이 → `edge-vision-event-monitor-portfolio` § 데이터 설명형 코파일럿과의 비교 · `ing-20261103-operations-ai-copilot-portfolio`
+- 운영 데이터 설명형 시스템과 제조 최적화 의사결정 시스템의 구분 → `manufacturing-optimization-solo-business` § 운영 데이터를 설명하는 단계와 최적화하는 단계 · `ing-20261103-operations-ai-copilot-portfolio`
 
 ## 철학 (45)
 

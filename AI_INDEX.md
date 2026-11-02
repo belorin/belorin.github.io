@@ -583,18 +583,21 @@
 - **[피지컬 AI의 월드 모델과 양자 최적화: 상상한 미래에서 실행할 행동까지](wiki/physical-ai-world-model-quantum-optimization.md)** · 별칭: WFM 양자컴퓨팅, 월드모델 양자 최적화 · 수정: 2026-11-02 · 검토: 내부 논의 기반·기술 실증 검토 필요
   - 한국형 피지컬 AI 컨소시엄의 기술 분업, 가상 제조 셀의 갈등, WFM과 QUBO·QAOA·양자 어닐링의 접점 및 신경망 압축 한계.
   - [문서 페이지](https://belorin.github.io/notes/physical-ai-world-model-quantum-optimization/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/physical-ai-world-model-quantum-optimization.md)
-- **[개인 개발자의 제조 최적화 엔진: 선계산 자산, 실험, 첫 고객](wiki/manufacturing-optimization-solo-business.md)** · 별칭: 제조 최적화 1인 사업, 양자 최적화 MVP · 수정: 2026-10-30 · 검토: 사업 구상·검증 필요
+- **[개인 개발자의 제조 최적화 엔진: 선계산 자산, 실험, 첫 고객](wiki/manufacturing-optimization-solo-business.md)** · 별칭: 제조 최적화 1인 사업, 양자 최적화 MVP · 수정: 2026-11-03 · 검토: 사업 구상·검증 필요
   - 개인 개발자용 제조 의사결정 솔버, 야간 에이전트 자산 생성, IBM·D-Wave 등 실험 플랫폼과 고객 검증 전략.
   - [문서 페이지](https://belorin.github.io/notes/manufacturing-optimization-solo-business/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/manufacturing-optimization-solo-business.md)
 - **[산을 넘는 송전선과 산을 뚫는 전력구: 산불 위험을 포함한 지중화의 경제학](wiki/mountain-powerline-undergrounding-economics.md)** · 별칭: 산악 송전선 지중화 경제성, 송전선 산불 비용편익 분석 · 수정: 2026-11-02 · 검토: 대화 기반 종합·외부 재검증 필요
   - 345kV 가공·지중 단가의 조건, 산악 전력구, 산불 기대손실과 보험을 분리한 30~50년 생애주기 경제성 비교 설계.
   - [문서 페이지](https://belorin.github.io/notes/mountain-powerline-undergrounding-economics/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/mountain-powerline-undergrounding-economics.md)
-- **[엣지 영상 이벤트 감지 포트폴리오: 카메라 한 대에서 실증 보고서까지](wiki/edge-vision-event-monitor-portfolio.md)** · 별칭: 엣지 AI 포트폴리오, 실시간 위험구역 침입 감지, 영상 센서 융합 모니터링, Edge Vision Event Monitor · 수정: 2026-11-02 · 검토: 채용 공고 요구사항에서 도출된 구현 제안·실제 모델 학습 및 성능 실측 미확인
+- **[엣지 영상 이벤트 감지 포트폴리오: 카메라 한 대에서 실증 보고서까지](wiki/edge-vision-event-monitor-portfolio.md)** · 별칭: 엣지 AI 포트폴리오, 실시간 위험구역 침입 감지, 영상 센서 융합 모니터링, Edge Vision Event Monitor · 수정: 2026-11-03 · 검토: 채용 공고 요구사항에서 도출된 구현 제안·실제 모델 학습 및 성능 실측 미확인
   - 영상 객체 탐지와 ROI 침입·체류 판정을 연결하고, 이벤트 로깅·장치 최적화 비교·MQTT 센서 연계·평가와 기술 문서화까지 제안한 현장형 컴퓨터비전 데모 설계.
   - [문서 페이지](https://belorin.github.io/notes/edge-vision-event-monitor-portfolio/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/edge-vision-event-monitor-portfolio.md)
 - **[세계 전력의 크기를 읽는 법: 국가별 GW·생산량·소비량 비교](wiki/world-electricity-capacity-generation-consumption.md)** · 별칭: 세계 국가별 전력 생산량, 국가별 발전 설비용량, 세계 전력 소비량 비교, 전 세계 전력 GW · 수정: 2026-11-02 · 검토: 국가별 개략 비교·시점과 통계 정의가 섞인 수치로 외부 원자료 재검증 필요
   - 세계 발전 설비용량 약 9.4~9.8TW와 연간 발전·수요 약 3만1천TWh의 구분, 주요 25개국의 GW·TWh 개략 표, 연도·집계기준 혼합과 수출입 해석의 한계를 설명한다.
   - [문서 페이지](https://belorin.github.io/notes/world-electricity-capacity-generation-consumption/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-electricity-capacity-generation-consumption.md)
+- **[운영 데이터 AI 코파일럿: 더미 DB와 대시보드를 공개 서비스로 만드는 포트폴리오](wiki/operations-data-ai-copilot-portfolio.md)** · 별칭: 운영 데이터 AI 코파일럿, OpsLens AI, 제조 물류 AI 대시보드, 더미 DB AI 포트폴리오, Operational Data AI Copilot · 수정: 2026-11-03 · 검토: 개발·이직을 위한 공개 서비스 설계 제안 / 실제 구현 및 현재 무료 티어 조건 미검증
+  - 제조·물류 합성 DB, KPI 대시보드, 제한된 자연어 질의, 근거 패널, 평가와 무료 호스팅·API 비용 통제를 결합한 공개 웹 AI 포트폴리오 설계.
+  - [문서 페이지](https://belorin.github.io/notes/operations-data-ai-copilot-portfolio/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/operations-data-ai-copilot-portfolio.md)
 
 ## 소설 (창작 작품 · 사실 근거 아님)
 

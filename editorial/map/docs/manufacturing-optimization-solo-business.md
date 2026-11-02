@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `manufacturing-optimization-solo-business` · 분류: 과학과 기술 · 공개 · 원고: [wiki/manufacturing-optimization-solo-business.md](../../../wiki/manufacturing-optimization-solo-business.md) · 2,165자 · 절 5개
+- id: `manufacturing-optimization-solo-business` · 분류: 과학과 기술 · 공개 · 원고: [wiki/manufacturing-optimization-solo-business.md](../../../wiki/manufacturing-optimization-solo-business.md) · 2,601자 · 절 6개
 - 별칭: 제조 최적화 1인 사업, 양자 최적화 MVP
 - 요약: 개인 개발자용 제조 의사결정 솔버, 야간 에이전트 자산 생성, IBM·D-Wave 등 실험 플랫폼과 고객 검증 전략.
 - 태그: 제조 최적화, 개인 개발, Qiskit, 에이전트
-- 수정일: 2026-10-30 · 실제 증보일: 2026-10-30 · 검토: needs_review
-- 관련 문서: `physical-ai-world-model-quantum-optimization`, `japan-physical-ai-skill-transfer`
+- 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: needs_review
+- 관련 문서: `physical-ai-world-model-quantum-optimization`, `japan-physical-ai-skill-transfer`, `operations-data-ai-copilot-portfolio`
 
 ## 절 목차
 
@@ -17,7 +17,8 @@
 - 재사용 가능한 핵심 설계 · L8–11 · 411자 · `a545b206` — 입력 어댑터는 MES·PLC·센서·작업 이력 또는 합성 시나리오를 정규화한다.
 - 에이전트가 밤마다 축적할 수 있는 자산 · L13–16 · 400자 · `e57fca91` — 코딩 에이전트와 API 예산을 결합해 자동 생성할 수 있는 것은 막연한 보고서가 아니라 재사용 가능한 문제 은행이다.
 - 양자 클라우드의 선택 · L18–21 · 436자 · `603946a9` — IBM Quantum은 Qiskit으로 게이트형 양자 회로와 QAOA를 익히는 출발점이다.
-- 첫 고객 이전에 필요한 증거 · L23–26 · 342자 · `b41a831f` — 데모에는 사람이 읽을 수 있는 문제 정의, 고전 기준선, 솔버별 반복 측정, 최적화 전후 일정표, 실패 사례, 실제 실행 가능성 검사가 있어야 한다.
+- 운영 데이터를 설명하는 단계와 최적화하는 단계 · L23–25 · 343자 · `b3066e79` — 제조 데이터를 다루는 개발 포트폴리오에는 ‘무슨 일이 벌어졌는가’를 설명하는 문제와 ‘무엇을 해야 하는가’를 결정하는 문제가 함께 존재한다.
+- 첫 고객 이전에 필요한 증거 · L27–30 · 403자 · `2e8e3756` — 데모에는 사람이 읽을 수 있는 문제 정의, 고전 기준선, 솔버별 반복 측정, 최적화 전후 일정표, 실패 사례, 실제 실행 가능성 검사가 있어야 한다.
 
 ## 장부에 기록된 반영 지식
 
@@ -31,3 +32,5 @@
   - 양자 클라우드 접근 플랫폼 · `ing-20261030-physical-ai-quantum-business`
 - **첫 고객 이전에 필요한 증거**
   - 고객 실증과 양자 우위 검증 · `ing-20261030-physical-ai-quantum-business`
+- **운영 데이터를 설명하는 단계와 최적화하는 단계**
+  - 운영 데이터 설명형 시스템과 제조 최적화 의사결정 시스템의 구분 · `ing-20261103-operations-ai-copilot-portfolio`

@@ -4,7 +4,7 @@
 > 사용 순서: ① 채팅에서 추출한 지식 항목마다 제목·별칭으로 후보를 찾는다 → ② 후보의 문서 카드 `editorial/map/docs/<id>.md`에서 절 목차와 장부 기록을 본다 → ③ 해당 절 본문을 읽고 대조한다. 전문으로 넓히는 조건은 WIKI_PROTOCOL §4를 따른다.
 > 지도와 카드는 후보를 찾는 도구일 뿐이다. 중복·반영 여부는 원고 본문을 읽고 판정한다.
 
-원고 179개 (미게시 3, 소설 2편 포함) · 종합 2편 · AI의 글 1편 · 절 1,930개 · 장부 지식 항목 1114개
+원고 180개 (미게시 3, 소설 2편 포함) · 종합 2편 · AI의 글 1편 · 절 1,941개 · 장부 지식 항목 1130개
 
 특정 논점이 이미 처리되었는지는 [지식 표제 역색인](knowledge.md)에서 낱말로 **검색**한다(통째로 읽지 않는다). 장부가 없는 원고는 문서 카드의 절 목차로 찾는다.
 
@@ -147,15 +147,16 @@
 - `deleuze-unthinkable-fold-thought` 사유의 중심에 접혀 있는 불가능자: 생각할 수 없음이 생각을 움직일 때 — 사유의 불가능자, 안주름, 사유의 내부의 접힘 · 4절 · 1.7천 자 · 장부 3건
 - `freud-before-anti-oedipus` 『안티 오이디푸스』 전에 읽는 프로이트: 한 권과 두 권의 선택 — 안티 오이디푸스 사전 독서, 프로이트 입문서 추천, 반오이디푸스 읽기 · 6절 · 3.0천 자 · 장부 4건
 
-## 과학과 기술 (7)
+## 과학과 기술 (8)
 
 - `space-data-center-thermal-economics` 우주는 냉장고가 아니다: 태양광 데이터센터의 열역학과 경제성 — 우주 데이터센터 냉각, Project Suncatcher 열관리 · 8절 · 3.1천 자 · 장부 5건
 - `space-assets-law-debris-kessler` 궤도의 공유지와 기업의 소유권: 우주 분쟁, 책임, 케슬러 위험 — 케슬러 증후군과 우주법, 우주자산 국제분쟁 · 11절 · 4.0천 자 · 장부 8건
 - `physical-ai-world-model-quantum-optimization` 피지컬 AI의 월드 모델과 양자 최적화: 상상한 미래에서 실행할 행동까지 — WFM 양자컴퓨팅, 월드모델 양자 최적화 · 6절 · 2.8천 자 · 장부 5건
-- `manufacturing-optimization-solo-business` 개인 개발자의 제조 최적화 엔진: 선계산 자산, 실험, 첫 고객 — 제조 최적화 1인 사업, 양자 최적화 MVP · 5절 · 2.2천 자 · 장부 5건
+- `manufacturing-optimization-solo-business` 개인 개발자의 제조 최적화 엔진: 선계산 자산, 실험, 첫 고객 — 제조 최적화 1인 사업, 양자 최적화 MVP · 6절 · 2.6천 자 · 장부 6건
 - `mountain-powerline-undergrounding-economics` 산을 넘는 송전선과 산을 뚫는 전력구: 산불 위험을 포함한 지중화의 경제학 — 산악 송전선 지중화 경제성, 송전선 산불 비용편익 분석 · 8절 · 4.8천 자 · 장부 8건
-- `edge-vision-event-monitor-portfolio` 엣지 영상 이벤트 감지 포트폴리오: 카메라 한 대에서 실증 보고서까지 — 엣지 AI 포트폴리오, 실시간 위험구역 침입 감지, 영상 센서 융합 모니터링, Edge Vision Event Monitor · 9절 · 5.3천 자 · 장부 8건
+- `edge-vision-event-monitor-portfolio` 엣지 영상 이벤트 감지 포트폴리오: 카메라 한 대에서 실증 보고서까지 — 엣지 AI 포트폴리오, 실시간 위험구역 침입 감지, 영상 센서 융합 모니터링, Edge Vision Event Monitor · 10절 · 5.6천 자 · 장부 9건
 - `world-electricity-capacity-generation-consumption` 세계 전력의 크기를 읽는 법: 국가별 GW·생산량·소비량 비교 — 세계 국가별 전력 생산량, 국가별 발전 설비용량, 세계 전력 소비량 비교, 전 세계 전력 GW · 8절 · 6.3천 자 · 장부 8건
+- `operations-data-ai-copilot-portfolio` 운영 데이터 AI 코파일럿: 더미 DB와 대시보드를 공개 서비스로 만드는 포트폴리오 — 운영 데이터 AI 코파일럿, OpsLens AI, 제조 물류 AI 대시보드, 더미 DB AI 포트폴리오, Operational Data AI Copilot · 9절 · 8.4천 자 · 장부 13건
 
 ## 기술·지식 아카이브 (7)
 

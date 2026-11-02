@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `edge-vision-event-monitor-portfolio` · 분류: 과학과 기술 · 공개 · 원고: [wiki/edge-vision-event-monitor-portfolio.md](../../../wiki/edge-vision-event-monitor-portfolio.md) · 5,290자 · 절 9개
+- id: `edge-vision-event-monitor-portfolio` · 분류: 과학과 기술 · 공개 · 원고: [wiki/edge-vision-event-monitor-portfolio.md](../../../wiki/edge-vision-event-monitor-portfolio.md) · 5,644자 · 절 10개
 - 별칭: 엣지 AI 포트폴리오, 실시간 위험구역 침입 감지, 영상 센서 융합 모니터링, Edge Vision Event Monitor
 - 요약: 영상 객체 탐지와 ROI 침입·체류 판정을 연결하고, 이벤트 로깅·장치 최적화 비교·MQTT 센서 연계·평가와 기술 문서화까지 제안한 현장형 컴퓨터비전 데모 설계.
 - 태그: 엣지 AI, 컴퓨터비전, YOLO, ONNX, ROI, 이벤트 감지, MQTT, 성능평가, AI 포트폴리오
-- 수정일: 2026-11-02 · 실제 증보일: 2026-11-02 · 검토: needs_review
-- 관련 문서: `local-llm-novel-agent-m1`, `physical-ai-world-model-quantum-optimization`, `book-translation-pipeline-local-llm`
+- 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: needs_review
+- 관련 문서: `local-llm-novel-agent-m1`, `physical-ai-world-model-quantum-optimization`, `book-translation-pipeline-local-llm`, `operations-data-ai-copilot-portfolio`
 
 ## 절 목차
 
@@ -22,7 +22,8 @@
 - 데이터 전처리와 평가: 무엇이 모델의 실패인가 · L67–71 · 423자 · `eefb5219` — 이상상황의 정확도는 모델뿐 아니라 데이터의 조건과 판정 정의에 좌우된다.
 - 문서가 데모를 완성한다 · L73–79 · 586자 · `40d82d6d` — 제시된 채용 공고는 기술 문서 작성과 엣지 하드웨어·소프트웨어 문제 대응을 주요 업무로 포함한다.
 - 소설 에이전트와 공통인 공학적 교훈 · L81–83 · 254자 · `f746b831` — 로컬 소설 제작기가 생성된 본문과 요약, 검수·재개 지점을 구별하는 것처럼 영상 이벤트 시스템도 화면에 보이는 상자, 내부 판정, 저장된 사건, 사람이 확인한 실제 상황을 구별해야 한다.
-- 관련 문서 · L85–89 · 200자 · `c196a977` — 출근 전에 켜두는 로컬 소설 제작기
+- 데이터 설명형 코파일럿과의 비교 · L85–87 · 268자 · `c5618f4d` — 영상 이벤트 감지와 별개로, 합성 제조·물류 DB를 만들고 자연어 질문을 제한된 조회·AI 설명·근거 화면으로 연결하는 운영 데이터 AI 코파일럿도 현업형 포트폴리오 경로가 된다.
+- 관련 문서 · L89–94 · 262자 · `e36c46a3` — 출근 전에 켜두는 로컬 소설 제작기
 
 ## 장부에 기록된 반영 지식
 
@@ -41,3 +42,5 @@
   - 객체 검출 오류와 사건 규칙 오류를 분리하는 평가 · `ing-20261102-local-novel-edge-portfolio`
 - **문서가 데모를 완성한다**
   - 현장형 영상 AI 시연과 기술 문서·재현 기록 · `ing-20261102-local-novel-edge-portfolio`
+- **데이터 설명형 코파일럿과의 비교**
+  - 영상 이벤트형과 운영 데이터 설명형 포트폴리오의 성능 검증 차이 · `ing-20261103-operations-ai-copilot-portfolio`

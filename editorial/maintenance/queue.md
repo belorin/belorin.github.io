@@ -4,9 +4,9 @@
 
 마지막 정비: **M001** (2026-10-26) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
 
-원고 182개 · 변경 문서 102 · 고립 23 · 한쪽 연결 105 · 보류 16 · 열린 교차 제안 7
+원고 183개 · 변경 문서 103 · 고립 23 · 한쪽 연결 105 · 보류 17 · 열린 교차 제안 7
 
-## 1. 지난 정비 이후 변경된 문서 (102)
+## 1. 지난 정비 이후 변경된 문서 (103)
 
 manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
@@ -14,7 +14,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - **음악** (15): `jazz-to-ai`, `double-bass`, `electric-bass`, `rhythm-section`, `big-band`, `brass-band`, `drum-kit`, `jazz-dialogue`, `jazz-listening`, `silent-film-musician-labor`, `classical-canon-mauceri`, `orchestra-living-composers-canon`, `conductors-career-encores`, `orchestra-composer-conductor-myth`, `living-orchestral-listening-journey`
 - **AI와 사회** (15): `ai-human-control-guide`, `ai-economic-transition`, `ai-capital-labor-distribution`, `ai-compute-scaling-inference`, `japan-physical-ai-skill-transfer`, `ai-transition-policy-gap`, `starcraft-pluto-ai`, `ai-hidden-labor-feeding-machine-2026`, `ai-cloud-ownership-rent`, `ai-adoption-ceiling-floor`, `owner-aligned-automated-power`, `ai-transition-monetary-order`, `data-center-world-capacity`, `korea-data-center-local-economy`, `physical-cloud-reading-guide`
 - **문화와 역사** (10): `war-escalation-local-to-world`, `world-crisis-historical-analogies`, `jewish-messianic-claimants-kabbalah`, `luddite-movement-history`, `luddite-executions-memory`, `late-qing-yongying-daily-life`, `qing-tributaries-dissolution`, `ryukyu-disposition-qing-japan`, `roman-industry-gold-standard-history`, `great-depression-lived-experience-literature`
-- **과학과 기술** (7): `space-data-center-thermal-economics`, `space-assets-law-debris-kessler`, `physical-ai-world-model-quantum-optimization`, `manufacturing-optimization-solo-business`, `mountain-powerline-undergrounding-economics`, `edge-vision-event-monitor-portfolio`, `world-electricity-capacity-generation-consumption`
+- **과학과 기술** (8): `space-data-center-thermal-economics`, `space-assets-law-debris-kessler`, `physical-ai-world-model-quantum-optimization`, `manufacturing-optimization-solo-business`, `mountain-powerline-undergrounding-economics`, `edge-vision-event-monitor-portfolio`, `world-electricity-capacity-generation-consumption`, `operations-data-ai-copilot-portfolio`
 - **기술·지식 아카이브** (5): `east-asia-telegraph-network-1880s`, `great-northern-telegraph-east-asia`, `book-translation-pipeline-local-llm`, `local-llm-novel-agent-m1`, `upbit-small-capital-trading-experiment`
 - **운영** (4): `editing-principles`, `wiki-building-history`, `wiki-operations-pipeline`, `gpt-wiki-zero-prototype`
 - **게임** (3): `china-anime-game-industry`, `anime-urban-live-service-nte-tof`, `ps5-storage-anime-live-games`
@@ -211,7 +211,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `book-translation-pipeline-local-llm` ↔ `local-llm-novel-agent-m1` · 0.13 · 연결됨
 - `great-depression-lived-experience-literature` ↔ `physical-cloud-reading-guide` · 0.13
 
-## 6. 보류 항목 (16)
+## 6. 보류 항목 (17)
 
 - 경제 시뮬레이션의 기존 전제·수치·학파별 논증 · `ing-20261023-ai-economic-transition` — 해당 원자료를 확인하지 못해 기존 논증의 복원과 완전 보존 여부를 판정할 수 없음. 새 공개 자료의 보충 분석으로 대체 완료 처리하지 않음.
 - 기존 종합·수정 원고의 상세 내용 대조 · `ing-20261023-ai-economic-transition` — 본문이 아닌 참조 표시만 확인되어 기존 원고의 세부와 현재 증보 사이의 중복·차이를 검수할 수 없음.
@@ -229,6 +229,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - 국가별 같은 연도 정밀 통계와 전력 순수출입 검증 · `ing-20261102-world-electricity-capacity` — 각국의 기준 연도·총발전과 최종소비의 정의가 일치하는 원자료가 현재 접근 가능한 범위에 없어 정밀한 비교와 무역수지 계산은 보류
 - 2026 GPI 외국 장편 후보 명단 네 편과 여섯 편의 차이 · `ing-20261103-gpi-foreign-novels` — 대화에서 상충하는 명단이 제시되었고 프로토콜상 새 공식 페이지 검증이 허용되지 않아 차이를 원고에 명시하고 확정은 보류
 - 2015~2025 외국 장편 한국어 번역본의 서지 원본 대조 · `ing-20261103-gpi-foreign-novels` — 대화에 제시된 서점 검색 진술과 사용자의 정정만 확보되어, 실제 출판사·도서관의 최신 원본 확인은 보류
+- 운영 데이터 AI 코파일럿의 실제 구현 성능·비용·배포 검증 · `ing-20261103-operations-ai-copilot-portfolio` — 아이디어와 설계·예시만 있으며 배포 URL, 실제 DB, 평가 결과와 현재 과금 조건이 확인되지 않음
 
 ## 7. 열린 교차 편집 제안 (7)
 
@@ -251,5 +252,5 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 
 ## 9. 분류 참고
 
-분류 26개: 음악 37, AI와 사회 27, 사회와 제도 25, 문화와 역사 22, 철학 11, 기술·지식 아카이브 7, 과학과 기술 7, 운영 5, 정치경제 5, 독서 문화 4, 문학 4, 영화 3, 생명과학 3, 철학·사상사 3, 게임 3, 미분류 2, 자연과 과학 2, 종합 2, 정보와 미디어 2, 소설 2, 질문 1, 언어 1, 문화 1, 창작 1, 철학·심리 1, AI의 글 1
+분류 26개: 음악 37, AI와 사회 27, 사회와 제도 25, 문화와 역사 22, 철학 11, 과학과 기술 8, 기술·지식 아카이브 7, 운영 5, 정치경제 5, 독서 문화 4, 문학 4, 영화 3, 생명과학 3, 철학·사상사 3, 게임 3, 미분류 2, 자연과 과학 2, 종합 2, 정보와 미디어 2, 소설 2, 질문 1, 언어 1, 문화 1, 창작 1, 철학·심리 1, AI의 글 1
 문서가 하나뿐인 분류 6개: 질문, 언어, 문화, 창작, 철학·심리, AI의 글. 분류 체계 변경은 제안만 한다.
