@@ -5345,6 +5345,128 @@
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-10-30"
+    },
+    {
+      "path": "wiki/mountain-powerline-undergrounding-economics.md",
+      "publish": true,
+      "order": 164,
+      "id": "mountain-powerline-undergrounding-economics",
+      "title": "산을 넘는 송전선과 산을 뚫는 전력구: 산불 위험을 포함한 지중화의 경제학",
+      "category": "과학과 기술",
+      "summary": "345kV 가공·지중 단가의 조건, 산악 전력구, 산불 기대손실과 보험을 분리한 30~50년 생애주기 경제성 비교 설계.",
+      "tags": [
+        "송전선",
+        "지중화",
+        "전력구",
+        "산불",
+        "비용편익"
+      ],
+      "related": [
+        "powerline-wildfire-mitigation-world-korea",
+        "sancheong-wildfire-2025-prevention",
+        "wildfire-liability-insurance-risk-society"
+      ],
+      "aliases": [
+        "산악 송전선 지중화 경제성",
+        "송전선 산불 비용편익 분석"
+      ],
+      "status": "대화 기반 종합·외부 재검증 필요",
+      "updated": "2026-11-02",
+      "source": "내부 총합·외부 미검증",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-02"
+    },
+    {
+      "path": "wiki/powerline-wildfire-mitigation-world-korea.md",
+      "publish": true,
+      "order": 165,
+      "id": "powerline-wildfire-mitigation-world-korea",
+      "title": "전력선발 산불은 얼마나 줄었나: 미국·호주·유럽과 한국의 대응",
+      "category": "사회와 제도",
+      "summary": "캘리포니아·빅토리아·남유럽의 예방 수단과 성과 수치, 한국의 산지선로 개선 및 효과평가에서 필요한 지표.",
+      "tags": [
+        "산불",
+        "전력선",
+        "커버드 컨덕터",
+        "REFCL",
+        "한전",
+        "예방정전"
+      ],
+      "related": [
+        "mountain-powerline-undergrounding-economics",
+        "sancheong-wildfire-2025-prevention",
+        "wildfire-liability-insurance-risk-society"
+      ],
+      "aliases": [
+        "세계 전력선 산불 대응",
+        "한국 송전선 산불 예방 효과"
+      ],
+      "status": "대화 기반 종합·외부 재검증 필요",
+      "updated": "2026-11-02",
+      "source": "내부 총합·외부 미검증",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-02"
+    },
+    {
+      "path": "wiki/sancheong-wildfire-2025-prevention.md",
+      "publish": true,
+      "order": 166,
+      "id": "sancheong-wildfire-2025-prevention",
+      "title": "2025 산청·하동 산불의 예방 가능성: 발화와 확산은 다른 문제다",
+      "category": "사회와 제도",
+      "summary": "산청·하동 산불의 2025년 경과와 발화 예방·초동진화·대형화 방지를 구분한 반사실 평가와 원인 확인의 한계.",
+      "tags": [
+        "산청 산불",
+        "하동 산불",
+        "2025년 산불",
+        "초동진화",
+        "산림관리"
+      ],
+      "related": [
+        "powerline-wildfire-mitigation-world-korea",
+        "mountain-powerline-undergrounding-economics",
+        "wildfire-liability-insurance-risk-society"
+      ],
+      "aliases": [
+        "2025 산청 산불 예방",
+        "산청 하동 산불 분석"
+      ],
+      "status": "대화 기반 종합·외부 재검증 필요",
+      "updated": "2026-11-02",
+      "source": "내부 총합·외부 미검증",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-02"
+    },
+    {
+      "path": "wiki/wildfire-liability-insurance-risk-society.md",
+      "publish": true,
+      "order": 167,
+      "id": "wildfire-liability-insurance-risk-society",
+      "title": "산불의 청구서는 누구에게 가는가: 개인 배상, 전력회사의 보험, 통제의 미래",
+      "category": "사회와 제도",
+      "summary": "실화자에 대한 청구·판결·실제 회수액의 구별, 한전의 보험 미확인 범위, 보험 절벽과 위험기반 출입규제에 관한 미래 가설.",
+      "tags": [
+        "산불 배상",
+        "구상권",
+        "한전 보험",
+        "산불 보험",
+        "입산 통제",
+        "위험사회"
+      ],
+      "related": [
+        "mountain-powerline-undergrounding-economics",
+        "powerline-wildfire-mitigation-world-korea",
+        "sancheong-wildfire-2025-prevention"
+      ],
+      "aliases": [
+        "산불 구상권과 개인 책임",
+        "산불 보험 절벽과 규제 미래"
+      ],
+      "status": "대화 기반 종합·외부 재검증 필요",
+      "updated": "2026-11-02",
+      "source": "내부 총합·외부 미검증",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-02"
     }
   ]
 }

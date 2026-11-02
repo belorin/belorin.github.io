@@ -1,0 +1,321 @@
+{
+  "id": "ing-20261102-wildfire-powerlines-liability",
+  "processed_on": "2026-11-02",
+  "coverage": "visible-complete",
+  "limit_note": "현재 접근 가능한 이 대화의 연속된 산불·송전선·책임 논의만 종합함. 외부 자료 새 조사 없음. 사건·보험·성과의 미검증 수치는 각 본문에서 구분함.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "산악 송전선 가공·지중 비용 구조",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mountain-powerline-undergrounding-economics",
+          "section": "한국 345kV 비교의 출발점과 산술"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "example",
+      "title": "345kV 10km 비용 차이의 단순 환산",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mountain-powerline-undergrounding-economics",
+          "section": "한국 345kV 비교의 출발점과 산술"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "example",
+      "title": "경인권과 광양–여수 전력구 비용 비교의 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mountain-powerline-undergrounding-economics",
+          "section": "한국 345kV 비교의 출발점과 산술"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "산악 지중화 공법과 노선 길이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mountain-powerline-undergrounding-economics",
+          "section": "산을 관통한다는 말의 두 뜻"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "argument",
+      "title": "지중화와 가공선 보강 패키지의 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mountain-powerline-undergrounding-economics",
+          "section": "비교 대상은 '지중화 대 방치'가 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "concept",
+      "title": "연간 기대손실과 꼬리위험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mountain-powerline-undergrounding-economics",
+          "section": "'한 번의 대형 산불'을 연간 기대손실로 바꾸기"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "argument",
+      "title": "한전 재무비용과 사회적 비용의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mountain-powerline-undergrounding-economics",
+          "section": "사적 비용과 사회적 비용이라는 두 장부"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "argument",
+      "title": "산불 위험 지중화 순현재가치 설계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mountain-powerline-undergrounding-economics",
+          "section": "30~50년 순현재가치 비교의 설계"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "fact",
+      "title": "캘리포니아 설비 보강과 예방정전",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "powerline-wildfire-mitigation-world-korea",
+          "section": "캘리포니아: 지중화와 피복 전선, 예방정전의 병용"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "example",
+      "title": "빅토리아 산불 위험 저감 평가 수치의 모수",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "powerline-wildfire-mitigation-world-korea",
+          "section": "호주 빅토리아: 블랙 새터데이 이후 계량화한 위험 저감"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "fact",
+      "title": "스페인과 포르투갈의 식생관리 대응",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "powerline-wildfire-mitigation-world-korea",
+          "section": "남유럽: 전력선 밑의 숲 자체를 관리한다"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "concept",
+      "title": "송전·배전 대책의 적용 범위 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "powerline-wildfire-mitigation-world-korea",
+          "section": "수단별로 겨냥하는 위험이 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "fact",
+      "title": "한전 산불 특별관리 지역과 산지 설비 개선",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "powerline-wildfire-mitigation-world-korea",
+          "section": "한국도 2019년 이후 대응했는가"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "argument",
+      "title": "발화 건수·노출율·유사구간 비교의 효과평가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "powerline-wildfire-mitigation-world-korea",
+          "section": "실제로 먹혔는지를 평가하는 세 겹의 지표"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "example",
+      "title": "2025 산청·하동 산불의 피해와 확산 조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "sancheong-wildfire-2025-prevention",
+          "section": "산불의 경과와 지형·기상의 역할"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "counterargument",
+      "title": "산청의 인위적 발화 원인과 확정 판정의 간극",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "sancheong-wildfire-2025-prevention",
+          "section": "발화 원인: 특정 주장과 확정 판정 사이"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "argument",
+      "title": "산청 산불의 발화·초동·대형화 예방 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "sancheong-wildfire-2025-prevention",
+          "section": "발화 예방과 초동 진화의 차이"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "argument",
+      "title": "산청 산불을 송전선 지중화 효과로 오용하지 않기",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "sancheong-wildfire-2025-prevention",
+          "section": "송전선 지중화 논의와 어디서 만나는가"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "concept",
+      "title": "산불의 청구액·인정액·회수액 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wildfire-liability-insurance-risk-society",
+          "section": "청구액, 인정액, 실제 회수액"
+        }
+      ]
+    },
+    {
+      "id": "k20",
+      "kind": "example",
+      "title": "개인 실화·방화 배상 및 강원 산불 소송의 불확실성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wildfire-liability-insurance-risk-society",
+          "section": "청구액, 인정액, 실제 회수액"
+        }
+      ]
+    },
+    {
+      "id": "k21",
+      "kind": "counterargument",
+      "title": "과실 규모와 대형재난 결과 사이의 책임 문제",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wildfire-liability-insurance-risk-society",
+          "section": "개인 과실과 대형재난의 비례 문제"
+        }
+      ]
+    },
+    {
+      "id": "k22",
+      "kind": "fact",
+      "title": "한국 입산통제와 화기 소지 규제의 현행 범위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wildfire-liability-insurance-risk-society",
+          "section": "한국에서 이미 존재하는 출입·화기 규제"
+        }
+      ]
+    },
+    {
+      "id": "k23",
+      "kind": "question",
+      "title": "한전 산불 손해배상책임보험의 실제 담보 여부",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wildfire-liability-insurance-risk-society",
+          "section": "한전도 보험을 갖고 있는가"
+        }
+      ]
+    },
+    {
+      "id": "k24",
+      "kind": "example",
+      "title": "캘리포니아 FAIR Plan과 한국 보험위험의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wildfire-liability-insurance-risk-society",
+          "section": "보험시장이 먼저 '살지 말라'고 말하는 경우"
+        }
+      ]
+    },
+    {
+      "id": "k25",
+      "kind": "argument",
+      "title": "반복 산불에 따른 위험 기반 통제사회 시나리오",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wildfire-liability-insurance-risk-society",
+          "section": "위험 기반 통제사회라는 SF적 가설"
+        }
+      ]
+    },
+    {
+      "id": "k26",
+      "kind": "argument",
+      "title": "사회적 재난 비용과 개인 배상 불능의 긴장",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wildfire-liability-insurance-risk-society",
+          "section": "작은 행위와 감당 불가능한 청구서"
+        }
+      ]
+    }
+  ]
+}
