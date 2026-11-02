@@ -6,7 +6,7 @@
 - 별칭: GPT 위키 제로호기, GPT 위키 0호기, GPT 위키 초기 구상, ChatGPT 내보내기 위키, GPT 기억 위키
 - 요약: ChatGPT 내보내기와 Codex를 출발점으로, 원본·대화별 변환본·지식 정본의 분리, canon·결정 장부·문맥 묶음·미정 설정 관리, GPT 접근 경로와 집필-승인-증보 순환을 설계한 선행 구상.
 - 태그: GPT 위키, 대화 내보내기, Codex, canon, 외부 기억, 집필 일관성, 운영사
-- 수정일: 2026-11-02 · 실제 증보일: 2026-11-02 · 검토: needs_review
+- 수정일: 2026-11-02 · 실제 증보일: 2026-10-26 · 검토: needs_review
 - 관련 문서: `wiki-building-history`, `wiki-operations-pipeline`, `editing-principles`, `local-llm-novel-agent-m1`
 
 ## 절 목차

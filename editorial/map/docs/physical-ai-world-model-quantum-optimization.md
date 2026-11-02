@@ -6,7 +6,7 @@
 - 별칭: WFM 양자컴퓨팅, 월드모델 양자 최적화
 - 요약: 한국형 피지컬 AI 컨소시엄의 기술 분업, 가상 제조 셀의 갈등, WFM과 QUBO·QAOA·양자 어닐링의 접점 및 신경망 압축 한계.
 - 태그: 피지컬 AI, 월드 파운데이션 모델, 양자 최적화, QUBO
-- 수정일: 2026-11-02 · 실제 증보일: 2026-11-02 · 검토: needs_review
+- 수정일: 2026-11-02 · 실제 증보일: 2026-10-30 · 검토: needs_review
 - 관련 문서: `manufacturing-optimization-solo-business`, `japan-physical-ai-skill-transfer`, `edge-vision-event-monitor-portfolio`
 
 ## 절 목차

@@ -4311,7 +4311,7 @@
       "review_state": "needs_review",
       "review_label": "초기 구상·구현 기록 아님",
       "last_updated_on": "2026-11-02",
-      "last_enriched_on": "2026-11-02",
+      "last_enriched_on": "2026-10-26",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "wiki-building-history",
@@ -5053,7 +5053,7 @@
       "review_state": "needs_review",
       "review_label": "로컬 번역 파이프라인의 구현·실패 분석과 미완 과제",
       "last_updated_on": "2026-11-02",
-      "last_enriched_on": "2026-11-02",
+      "last_enriched_on": "2026-10-30",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "luddite-executions-memory",
@@ -5588,7 +5588,7 @@
       "review_state": "needs_review",
       "review_label": "내부 논의 기반·기술 실증 검토 필요",
       "last_updated_on": "2026-11-02",
-      "last_enriched_on": "2026-11-02",
+      "last_enriched_on": "2026-10-30",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "manufacturing-optimization-solo-business",

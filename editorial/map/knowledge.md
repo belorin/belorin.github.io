@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1037개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1039개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (11)
 
@@ -663,6 +663,69 @@
 - 반복 산불에 따른 위험 기반 통제사회 시나리오 → `wildfire-liability-insurance-risk-society` § 위험 기반 통제사회라는 SF적 가설 · `ing-20261102-wildfire-powerlines-liability`
 - 사회적 재난 비용과 개인 배상 불능의 긴장 → `wildfire-liability-insurance-risk-society` § 작은 행위와 감당 불가능한 청구서 · `ing-20261102-wildfire-powerlines-liability`
 
+## 기술·지식 아카이브 (58)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 이름 문자열 출현 기록과 동일인 추론의 분리 → `credit-observation-archive` § 이름 DB가 아니라 출현 기록 DB · `ing-20261025-credit-observation`
+- 작품·출처·이름 묶음·인물 후보의 데이터 구조 → `credit-observation-archive` § 여섯 개 층의 자료 모델 · `ing-20261025-credit-observation`
+- 2025년 도서 판권면의 날짜·역할·이름·ISBN 표본 → `credit-observation-archive` § 첫 표본: 『AI는 인간을 먹고 자란다』 판권면 · `ing-20261025-credit-observation`
+- 원문 역할과 매체별 표준 역할 분류의 차이 → `credit-observation-archive` § 원문 역할명과 표준 역할 분류 · `ing-20261025-credit-observation`
+- 제작 노동의 협업과 반복 출현의 분석 가능성 → `credit-observation-archive` § 출현의 역사로 물어볼 수 있는 질문 · `ing-20261025-credit-observation`
+- 책에서 영화·TV·공공기관으로 단계별 범위 확장 → `credit-observation-archive` § 출판에서 영화·TV·공공기관으로 확장하는 순서 · `ing-20261025-credit-observation`
+- 라즈베리파이 서버 MVP의 점진적 역할 분담 → `credit-observation-archive` § 라즈베리파이 서버에서 단계적으로 구현하기 · `ing-20261025-credit-observation`
+- 서점의 상품정보와 미리보기 이미지 수집의 차이 → `book-preview-credit-sourcing` § 책 페이지에서 구별해야 할 세 종류의 데이터 · `ing-20261025-credit-observation`
+- 국내외 서점·출판사·서지 자료원별 잠정 평가 → `book-preview-credit-sourcing` § 서비스와 자료원별 검토표 · `ing-20261025-credit-observation`
+- 도서 후보 발견과 판권면 원본 획득의 분리 → `book-preview-credit-sourcing` § 발견용 목록과 입수한 원본을 분리한다 · `ing-20261025-credit-observation`
+- 내부 이미지 OCR과 공개 크레딧 필드의 분리 → `book-preview-credit-sourcing` § 판권면 이미지와 크레딧 데이터는 공개 수준이 다르다 · `ing-20261025-credit-observation`
+- 로봇 배제 신호와 저작권 및 접근 제한의 구분 → `book-preview-credit-sourcing` § robots.txt와 저작물 이용권의 차이 · `ing-20261025-credit-observation`
+- 출판사 제공·제휴 가능성과 성사 여부의 구분 → `book-preview-credit-sourcing` § 출판사 제공과 협력 모델 · `ing-20261025-credit-observation`
+- 소규모 수집 실험의 성과 지표와 권한 검토 → `book-preview-credit-sourcing` § 소규모 실험의 평가 기준 · `ing-20261025-credit-observation`
+- 1871~1872년 나가사키 국제 전신망과 초기 국내망 병목 → `east-asia-telegraph-network-1880s` § 1871~1872년: 나가사키가 먼저 세계에 닿았다 · `ing-20261026-qing-tributaries-telegraph`
+- 1883년 이전 한성발 문서의 인편·선편·전기전신 결합 → `east-asia-telegraph-network-1880s` § 1880년 무렵: 한성에서 도쿄로 가는 문서의 여정 · `ing-20261026-qing-tributaries-telegraph`
+- 1883년 요부코·이키·쓰시마·부산 해저선 → `east-asia-telegraph-network-1880s` § 1883년 11월: 부산이 바닷속 전선에 연결되다 · `ing-20261026-qing-tributaries-telegraph`
+- 1885년 서로전선과 1888년 한성·부산 남로전선 → `east-asia-telegraph-network-1880s` § 1888년 이후: 한성에서 부산까지 전기가 이어진다 · `ing-20261026-qing-tributaries-telegraph`
+- 영문자 모스부호·한자 네 자리 전보코드 및 혼합문서 구별 → `east-asia-telegraph-network-1880s` § 영어와 한자가 섞인 전보는 어떤 모습이었을까 · `ing-20261026-qing-tributaries-telegraph`
+- 일본·청 전신로 경쟁과 통신 주권 → `east-asia-telegraph-network-1880s` § 전보 속도는 곧 외교적 선점의 속도였다 · `ing-20261026-qing-tributaries-telegraph`
+- 티에트겐 회사 설립과 러시아 시베리아망 동아시아 연결 → `great-northern-telegraph-east-asia` § 1막, 코펜하겐: 전신회사로 세계의 시간을 판다는 사업 구상 · `ing-20261026-qing-tributaries-telegraph`
+- 러시아 양허와 왕실 인맥의 사실·가설 구별 → `great-northern-telegraph-east-asia` § 러시아 황실로 통하는 인맥 · `ing-20261026-qing-tributaries-telegraph`
+- 1870년 영국 전신회사 수익 분배 합의 → `great-northern-telegraph-east-asia` § 영국 경쟁사: 다투다가 합의한 국제 인프라의 규칙 · `ing-20261026-qing-tributaries-telegraph`
+- 일본 육양 허가와 덴마크 교섭 → `great-northern-telegraph-east-asia` § 3막, 도쿄와 청의 항구: 전선의 마지막 100m가 가장 정치적이다 · `ing-20261026-qing-tributaries-telegraph`
+- 해저선 케이블선과 토르덴스키올 원정 역할 → `great-northern-telegraph-east-asia` § 어떤 배가 전선을 놓았나 · `ing-20261026-qing-tributaries-telegraph`
+- 구리·구타페르카·철선 외장·장력 제어 → `great-northern-telegraph-east-asia` § 케이블의 내부: 얇은 신호와 두꺼운 보호 · `ing-20261026-qing-tributaries-telegraph`
+- 나가사키·상하이·블라디보스토크·홍콩 거리 비교 → `great-northern-telegraph-east-asia` § 길이는 얼마나 되었나 · `ing-20261026-qing-tributaries-telegraph`
+- 나가사키 고가쿠라 육양고·전신주·벨뷰 호텔 → `great-northern-telegraph-east-asia` § 5막, 나가사키: 호텔방 하나가 세계와 이어지다 · `ing-20261026-qing-tributaries-telegraph`
+- 양쯔강 항구 닻과 케이블 절연 문제 → `great-northern-telegraph-east-asia` § 6막, 상하이와 양쯔강: 닻 하나가 수백 해리의 수고를 끊는다 · `ing-20261026-qing-tributaries-telegraph`
+- 1871년 상하이선 및 1872년 블라디보스토크선 개통 연표 → `great-northern-telegraph-east-asia` § 7막, 개통: 1871년 여름의 첫 서비스와 1872년의 두 번째 문 · `ing-20261026-qing-tributaries-telegraph`
+- 1883년 부산선 조약과 통신 독점 성격 → `great-northern-telegraph-east-asia` § 8막, 1883년: 회사는 왜 조선까지 왔나 · `ing-20261026-qing-tributaries-telegraph`
+- 해저케이블 비용 비교와 실제 사업비 추산의 한계 → `great-northern-telegraph-east-asia` § 에필로그: 회사의 프로젝트를 어떻게 평가할 것인가 · `ing-20261026-qing-tributaries-telegraph`
+- 텍스트 레이어·스캔 PDF·이미 OCR된 TXT의 분기 → `book-translation-pipeline-local-llm` § OCR보다 먼저 확인할 것: 이미 읽을 수 있는 텍스트가 있는가 · `ing-20261030-book-translation-pipeline`
+- 입력 확보에서 검수까지의 여섯 공정과 실패 경계 → `book-translation-pipeline-local-llm` § 여섯 공정은 각각 독립해야 한다 · `ing-20261030-book-translation-pipeline`
+- Internet Archive 러다이트 고서 TXT 전처리와 목차 오류 → `book-translation-pipeline-local-llm` § 프랭크 필의 러다이트 역사서를 입력으로 삼는 방법 · `ing-20261030-book-translation-pipeline`
+- llama.cpp 실행기와 Llama 모델 계열의 구분 → `book-translation-pipeline-local-llm` § 번역 엔진을 바꾸는 것과 실행 환경을 바꾸는 것은 다르다 · `ing-20261030-book-translation-pipeline`
+- Ollama 404와 모델 목록 조회·Qwen3 기본 선택 → `book-translation-pipeline-local-llm` § 번역 엔진을 바꾸는 것과 실행 환경을 바꾸는 것은 다르다 · `ing-20261030-book-translation-pipeline`
+- M1 16GB에서 사고 모드·청크 길이·출력 토큰의 속도 문제 → `book-translation-pipeline-local-llm` § M1·통합 메모리 16GB에서 무엇을 아껴야 하는가 · `ing-20261030-book-translation-pipeline`
+- progress.json 체크포인트와 Ctrl+C 재개 단위 → `book-translation-pipeline-local-llm` § 진행률은 '시도 중'이 아니라 '디스크에 저장됨'을 기준으로 한다 · `ing-20261030-book-translation-pipeline`
+- 분할 기준 변경과 진행 파일 재개의 불일치 위험 → `book-translation-pipeline-local-llm` § 진행률은 '시도 중'이 아니라 '디스크에 저장됨'을 기준으로 한다 · `ing-20261030-book-translation-pipeline`
+- Mac 잠자기 방지와 실행 중 Python 파일 변경 → `book-translation-pipeline-local-llm` § 노트북이 잠들 때와 번역이 멈출 때 · `ing-20261030-book-translation-pipeline`
+- 빈 줄 기준 문단 복원이 만든 병기 HTML의 전체 밀림 → `book-translation-pipeline-local-llm` § HTML이 어긋난 진짜 이유: 빈 줄은 문단 ID가 아니다 · `ing-20261030-book-translation-pipeline`
+- SEG 태그 기준 문단 정렬과 누락 표지의 한계 → `book-translation-pipeline-local-llm` § HTML이 어긋난 진짜 이유: 빈 줄은 문단 ID가 아니다 · `ing-20261030-book-translation-pipeline`
+- 구글 번역 공식 API와 로컬 엔진 스위치 구조의 차이 → `book-translation-pipeline-local-llm` § 로컬 번역과 구글 번역 사이의 스위치 · `ing-20261030-book-translation-pipeline`
+- 완역의 조건인 입력·문단·텍스트·판본 검수 → `book-translation-pipeline-local-llm` § 무엇을 보면 완역본으로 믿을 수 있는가 · `ing-20261030-book-translation-pipeline`
+- 부분 HTML 뷰어와 TXT·Markdown 출력의 구현 범위 → `book-translation-pipeline-local-llm` § 실행 예와 남겨진 개발 과제 · `ing-20261030-book-translation-pipeline`
+- 장시간 자율 소설 생성과 단계형 배치 작업의 구별 → `local-llm-novel-agent-m1` § 로컬 에이전시와 장시간 배치 작업은 어디서 갈라지는가 · `ing-20261102-local-novel-edge-portfolio`
+- M1 16GB에서 디스크 여유와 메모리 압박의 차이 → `local-llm-novel-agent-m1` § M1 16GB: 디스크 여유와 메모리 여유는 다르다 · `ing-20261102-local-novel-edge-portfolio`
+- Ollama API와 MLX 파이썬 호출부의 분리 → `local-llm-novel-agent-m1` § Ollama에서 MLX로: 호출부를 분리하면 파이프라인을 살릴 수 있다 · `ing-20261102-local-novel-edge-portfolio`
+- MLX 가상환경 불일치와 Qwen3.5 모델 아키텍처 오류 → `local-llm-novel-agent-m1` § 가상환경·모델 형식: 실동작을 막은 두 오류 · `ing-20261102-local-novel-edge-portfolio`
+- 소설의 초안·비평·최종본과 다음 회차 요약의 역할 → `local-llm-novel-agent-m1` § 파일에 남는 다섯 공정과 두 종류의 기억 · `ing-20261102-local-novel-edge-portfolio`
+- 외부 기억에서 요약 손실과 확정 설정의 차이 → `local-llm-novel-agent-m1` § 파일에 남는 다섯 공정과 두 종류의 기억 · `ing-20261102-local-novel-edge-portfolio`
+- 키워드 프로젝트 구분과 이어쓰기·원문 참조의 수정 필요 → `local-llm-novel-agent-m1` § 단일 실행에서 작품별 이어쓰기까지 · `ing-20261102-local-novel-edge-portfolio`
+- 입력 첫 줄이 장르일 때 잘못 지정된 프로젝트 키 → `local-llm-novel-agent-m1` § 단일 실행에서 작품별 이어쓰기까지 · `ing-20261102-local-novel-edge-portfolio`
+- 비동기 로컬 모델 생성의 단계 로그와 저장 기준 → `local-llm-novel-agent-m1` § 진행 표시·잠자기·복구의 실무 조건 · `ing-20261102-local-novel-edge-portfolio`
+- MLX Qwen3 4B를 이용한 두 회차 단계별 실행 로그 → `local-llm-novel-agent-m1` § 검증된 완주와 아직 시험되지 않은 자동화 · `ing-20261102-local-novel-edge-portfolio`
+- 문학 원문 입력과 파이썬 문자열·EOL 오류 가설의 분리 → `local-llm-novel-agent-m1` § 단일 실행에서 작품별 이어쓰기까지 · `ing-20261102-local-novel-edge-portfolio`
+- 아웃라인 추출 실패 시 고정 장면으로 대체되는 위험 → `local-llm-novel-agent-m1` § 단일 실행에서 작품별 이어쓰기까지 · `ing-20261102-local-novel-edge-portfolio`
+
 ## 운영 (58)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -725,67 +788,6 @@
 - GPT 위키 제0호기와 후속 누적형 지식백과의 범위 차이 → `gpt-wiki-zero-prototype` § 제0호기와 후속 누적형 지식백과의 차이 · `ing-20261026-gpt-wiki-zero-prototype`
 - 원본 시각 미확인과 구현 여부의 보류 경계 → `gpt-wiki-zero-prototype` § 제0호기와 후속 누적형 지식백과의 차이 · `ing-20261026-gpt-wiki-zero-prototype`
 - 장기 기억 위키의 탐색·동기화·승인·공개 과제 → `gpt-wiki-zero-prototype` § 남겨진 설계 문제 · `ing-20261026-gpt-wiki-zero-prototype`
-
-## 기술·지식 아카이브 (56)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 이름 문자열 출현 기록과 동일인 추론의 분리 → `credit-observation-archive` § 이름 DB가 아니라 출현 기록 DB · `ing-20261025-credit-observation`
-- 작품·출처·이름 묶음·인물 후보의 데이터 구조 → `credit-observation-archive` § 여섯 개 층의 자료 모델 · `ing-20261025-credit-observation`
-- 2025년 도서 판권면의 날짜·역할·이름·ISBN 표본 → `credit-observation-archive` § 첫 표본: 『AI는 인간을 먹고 자란다』 판권면 · `ing-20261025-credit-observation`
-- 원문 역할과 매체별 표준 역할 분류의 차이 → `credit-observation-archive` § 원문 역할명과 표준 역할 분류 · `ing-20261025-credit-observation`
-- 제작 노동의 협업과 반복 출현의 분석 가능성 → `credit-observation-archive` § 출현의 역사로 물어볼 수 있는 질문 · `ing-20261025-credit-observation`
-- 책에서 영화·TV·공공기관으로 단계별 범위 확장 → `credit-observation-archive` § 출판에서 영화·TV·공공기관으로 확장하는 순서 · `ing-20261025-credit-observation`
-- 라즈베리파이 서버 MVP의 점진적 역할 분담 → `credit-observation-archive` § 라즈베리파이 서버에서 단계적으로 구현하기 · `ing-20261025-credit-observation`
-- 서점의 상품정보와 미리보기 이미지 수집의 차이 → `book-preview-credit-sourcing` § 책 페이지에서 구별해야 할 세 종류의 데이터 · `ing-20261025-credit-observation`
-- 국내외 서점·출판사·서지 자료원별 잠정 평가 → `book-preview-credit-sourcing` § 서비스와 자료원별 검토표 · `ing-20261025-credit-observation`
-- 도서 후보 발견과 판권면 원본 획득의 분리 → `book-preview-credit-sourcing` § 발견용 목록과 입수한 원본을 분리한다 · `ing-20261025-credit-observation`
-- 내부 이미지 OCR과 공개 크레딧 필드의 분리 → `book-preview-credit-sourcing` § 판권면 이미지와 크레딧 데이터는 공개 수준이 다르다 · `ing-20261025-credit-observation`
-- 로봇 배제 신호와 저작권 및 접근 제한의 구분 → `book-preview-credit-sourcing` § robots.txt와 저작물 이용권의 차이 · `ing-20261025-credit-observation`
-- 출판사 제공·제휴 가능성과 성사 여부의 구분 → `book-preview-credit-sourcing` § 출판사 제공과 협력 모델 · `ing-20261025-credit-observation`
-- 소규모 수집 실험의 성과 지표와 권한 검토 → `book-preview-credit-sourcing` § 소규모 실험의 평가 기준 · `ing-20261025-credit-observation`
-- 1871~1872년 나가사키 국제 전신망과 초기 국내망 병목 → `east-asia-telegraph-network-1880s` § 1871~1872년: 나가사키가 먼저 세계에 닿았다 · `ing-20261026-qing-tributaries-telegraph`
-- 1883년 이전 한성발 문서의 인편·선편·전기전신 결합 → `east-asia-telegraph-network-1880s` § 1880년 무렵: 한성에서 도쿄로 가는 문서의 여정 · `ing-20261026-qing-tributaries-telegraph`
-- 1883년 요부코·이키·쓰시마·부산 해저선 → `east-asia-telegraph-network-1880s` § 1883년 11월: 부산이 바닷속 전선에 연결되다 · `ing-20261026-qing-tributaries-telegraph`
-- 1885년 서로전선과 1888년 한성·부산 남로전선 → `east-asia-telegraph-network-1880s` § 1888년 이후: 한성에서 부산까지 전기가 이어진다 · `ing-20261026-qing-tributaries-telegraph`
-- 영문자 모스부호·한자 네 자리 전보코드 및 혼합문서 구별 → `east-asia-telegraph-network-1880s` § 영어와 한자가 섞인 전보는 어떤 모습이었을까 · `ing-20261026-qing-tributaries-telegraph`
-- 일본·청 전신로 경쟁과 통신 주권 → `east-asia-telegraph-network-1880s` § 전보 속도는 곧 외교적 선점의 속도였다 · `ing-20261026-qing-tributaries-telegraph`
-- 티에트겐 회사 설립과 러시아 시베리아망 동아시아 연결 → `great-northern-telegraph-east-asia` § 1막, 코펜하겐: 전신회사로 세계의 시간을 판다는 사업 구상 · `ing-20261026-qing-tributaries-telegraph`
-- 러시아 양허와 왕실 인맥의 사실·가설 구별 → `great-northern-telegraph-east-asia` § 러시아 황실로 통하는 인맥 · `ing-20261026-qing-tributaries-telegraph`
-- 1870년 영국 전신회사 수익 분배 합의 → `great-northern-telegraph-east-asia` § 영국 경쟁사: 다투다가 합의한 국제 인프라의 규칙 · `ing-20261026-qing-tributaries-telegraph`
-- 일본 육양 허가와 덴마크 교섭 → `great-northern-telegraph-east-asia` § 3막, 도쿄와 청의 항구: 전선의 마지막 100m가 가장 정치적이다 · `ing-20261026-qing-tributaries-telegraph`
-- 해저선 케이블선과 토르덴스키올 원정 역할 → `great-northern-telegraph-east-asia` § 어떤 배가 전선을 놓았나 · `ing-20261026-qing-tributaries-telegraph`
-- 구리·구타페르카·철선 외장·장력 제어 → `great-northern-telegraph-east-asia` § 케이블의 내부: 얇은 신호와 두꺼운 보호 · `ing-20261026-qing-tributaries-telegraph`
-- 나가사키·상하이·블라디보스토크·홍콩 거리 비교 → `great-northern-telegraph-east-asia` § 길이는 얼마나 되었나 · `ing-20261026-qing-tributaries-telegraph`
-- 나가사키 고가쿠라 육양고·전신주·벨뷰 호텔 → `great-northern-telegraph-east-asia` § 5막, 나가사키: 호텔방 하나가 세계와 이어지다 · `ing-20261026-qing-tributaries-telegraph`
-- 양쯔강 항구 닻과 케이블 절연 문제 → `great-northern-telegraph-east-asia` § 6막, 상하이와 양쯔강: 닻 하나가 수백 해리의 수고를 끊는다 · `ing-20261026-qing-tributaries-telegraph`
-- 1871년 상하이선 및 1872년 블라디보스토크선 개통 연표 → `great-northern-telegraph-east-asia` § 7막, 개통: 1871년 여름의 첫 서비스와 1872년의 두 번째 문 · `ing-20261026-qing-tributaries-telegraph`
-- 1883년 부산선 조약과 통신 독점 성격 → `great-northern-telegraph-east-asia` § 8막, 1883년: 회사는 왜 조선까지 왔나 · `ing-20261026-qing-tributaries-telegraph`
-- 해저케이블 비용 비교와 실제 사업비 추산의 한계 → `great-northern-telegraph-east-asia` § 에필로그: 회사의 프로젝트를 어떻게 평가할 것인가 · `ing-20261026-qing-tributaries-telegraph`
-- 텍스트 레이어·스캔 PDF·이미 OCR된 TXT의 분기 → `book-translation-pipeline-local-llm` § OCR보다 먼저 확인할 것: 이미 읽을 수 있는 텍스트가 있는가 · `ing-20261030-book-translation-pipeline`
-- 입력 확보에서 검수까지의 여섯 공정과 실패 경계 → `book-translation-pipeline-local-llm` § 여섯 공정은 각각 독립해야 한다 · `ing-20261030-book-translation-pipeline`
-- Internet Archive 러다이트 고서 TXT 전처리와 목차 오류 → `book-translation-pipeline-local-llm` § 프랭크 필의 러다이트 역사서를 입력으로 삼는 방법 · `ing-20261030-book-translation-pipeline`
-- llama.cpp 실행기와 Llama 모델 계열의 구분 → `book-translation-pipeline-local-llm` § 번역 엔진을 바꾸는 것과 실행 환경을 바꾸는 것은 다르다 · `ing-20261030-book-translation-pipeline`
-- Ollama 404와 모델 목록 조회·Qwen3 기본 선택 → `book-translation-pipeline-local-llm` § 번역 엔진을 바꾸는 것과 실행 환경을 바꾸는 것은 다르다 · `ing-20261030-book-translation-pipeline`
-- M1 16GB에서 사고 모드·청크 길이·출력 토큰의 속도 문제 → `book-translation-pipeline-local-llm` § M1·통합 메모리 16GB에서 무엇을 아껴야 하는가 · `ing-20261030-book-translation-pipeline`
-- progress.json 체크포인트와 Ctrl+C 재개 단위 → `book-translation-pipeline-local-llm` § 진행률은 '시도 중'이 아니라 '디스크에 저장됨'을 기준으로 한다 · `ing-20261030-book-translation-pipeline`
-- 분할 기준 변경과 진행 파일 재개의 불일치 위험 → `book-translation-pipeline-local-llm` § 진행률은 '시도 중'이 아니라 '디스크에 저장됨'을 기준으로 한다 · `ing-20261030-book-translation-pipeline`
-- Mac 잠자기 방지와 실행 중 Python 파일 변경 → `book-translation-pipeline-local-llm` § 노트북이 잠들 때와 번역이 멈출 때 · `ing-20261030-book-translation-pipeline`
-- 빈 줄 기준 문단 복원이 만든 병기 HTML의 전체 밀림 → `book-translation-pipeline-local-llm` § HTML이 어긋난 진짜 이유: 빈 줄은 문단 ID가 아니다 · `ing-20261030-book-translation-pipeline`
-- SEG 태그 기준 문단 정렬과 누락 표지의 한계 → `book-translation-pipeline-local-llm` § HTML이 어긋난 진짜 이유: 빈 줄은 문단 ID가 아니다 · `ing-20261030-book-translation-pipeline`
-- 구글 번역 공식 API와 로컬 엔진 스위치 구조의 차이 → `book-translation-pipeline-local-llm` § 로컬 번역과 구글 번역 사이의 스위치 · `ing-20261030-book-translation-pipeline`
-- 완역의 조건인 입력·문단·텍스트·판본 검수 → `book-translation-pipeline-local-llm` § 무엇을 보면 완역본으로 믿을 수 있는가 · `ing-20261030-book-translation-pipeline`
-- 부분 HTML 뷰어와 TXT·Markdown 출력의 구현 범위 → `book-translation-pipeline-local-llm` § 실행 예와 남겨진 개발 과제 · `ing-20261030-book-translation-pipeline`
-- 장시간 자율 소설 생성과 단계형 배치 작업의 구별 → `local-llm-novel-agent-m1` § 로컬 에이전시와 장시간 배치 작업은 어디서 갈라지는가 · `ing-20261102-local-novel-edge-portfolio`
-- M1 16GB에서 디스크 여유와 메모리 압박의 차이 → `local-llm-novel-agent-m1` § M1 16GB: 디스크 여유와 메모리 여유는 다르다 · `ing-20261102-local-novel-edge-portfolio`
-- Ollama API와 MLX 파이썬 호출부의 분리 → `local-llm-novel-agent-m1` § Ollama에서 MLX로: 호출부를 분리하면 파이프라인을 살릴 수 있다 · `ing-20261102-local-novel-edge-portfolio`
-- MLX 가상환경 불일치와 Qwen3.5 모델 아키텍처 오류 → `local-llm-novel-agent-m1` § 가상환경·모델 형식: 실동작을 막은 두 오류 · `ing-20261102-local-novel-edge-portfolio`
-- 소설의 초안·비평·최종본과 다음 회차 요약의 역할 → `local-llm-novel-agent-m1` § 파일에 남는 다섯 공정과 두 종류의 기억 · `ing-20261102-local-novel-edge-portfolio`
-- 외부 기억에서 요약 손실과 확정 설정의 차이 → `local-llm-novel-agent-m1` § 파일에 남는 다섯 공정과 두 종류의 기억 · `ing-20261102-local-novel-edge-portfolio`
-- 키워드 프로젝트 구분과 이어쓰기·원문 참조의 수정 필요 → `local-llm-novel-agent-m1` § 단일 실행에서 작품별 이어쓰기까지 · `ing-20261102-local-novel-edge-portfolio`
-- 입력 첫 줄이 장르일 때 잘못 지정된 프로젝트 키 → `local-llm-novel-agent-m1` § 단일 실행에서 작품별 이어쓰기까지 · `ing-20261102-local-novel-edge-portfolio`
-- 비동기 로컬 모델 생성의 단계 로그와 저장 기준 → `local-llm-novel-agent-m1` § 진행 표시·잠자기·복구의 실무 조건 · `ing-20261102-local-novel-edge-portfolio`
-- MLX Qwen3 4B를 이용한 두 회차 단계별 실행 로그 → `local-llm-novel-agent-m1` § 검증된 완주와 아직 시험되지 않은 자동화 · `ing-20261102-local-novel-edge-portfolio`
 
 ## 철학 (45)
 
