@@ -484,12 +484,15 @@
 - **[20개국 국가 형해화 시범 측정: 네 지표로 본 껍데기와 기능의 불일치](wiki/state-hollowing-country-pilot.md)** · 별칭: 국가 형해화 20개국 표, 좀비 국가 코어 v0.1, 국가 공동화 국가별 비교 · 수정: 2026-10-25 · 검토: 현재 접근 가능한 논의와 코어 시범자료 기반 · 외부 재검증 필요
   - GPI·FSI·물가·정부부채의 코어 v0.1 산식과 20개국 입력·점수, 결측 대체와 민감도·과잉해석의 한계를 기록한다.
   - [문서 페이지](https://belorin.github.io/notes/state-hollowing-country-pilot/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/state-hollowing-country-pilot.md)
-- **[돈은 부채이지만 왜 곧장 약탈이 되지 않는가: 『왜 그들만 부자가 되는가』의 화폐론 비평](wiki/money-credit-seigniorage-critique.md)** · 별칭: 왜 그들만 부자가 되는가, 신용은 부채, 은행의 화폐창조 · 수정: 2026-10-30 · 검토: 대화 기반 분석 · 외부 재검증 필요
+- **[돈은 부채이지만 왜 곧장 약탈이 되지 않는가: 『왜 그들만 부자가 되는가』의 화폐론 비평](wiki/money-credit-seigniorage-critique.md)** · 별칭: 왜 그들만 부자가 되는가, 신용은 부채, 은행의 화폐창조 · 수정: 2026-11-03 · 검토: 대화 기반 분석 · 외부 재검증 필요
   - 은행의 예금통화 창조, 세뇨리지, 칸티용 효과, 생산적·투기적 신용, 통화정책과 불평등을 구별하며 『왜 그들만 부자가 되는가』의 논리적 비약을 검토
   - [문서 페이지](https://belorin.github.io/notes/money-credit-seigniorage-critique/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/money-credit-seigniorage-critique.md)
 - **[에마뉘엘 토드와 『서방의 패배』: 프랑스의 논쟁적 지식인, 이란전 해석, 예언의 검증](wiki/emmanuel-todd-western-defeat.md)** · 별칭: Emmanuel Todd, La Défaite de l'Occident, 에마뉘엘 토드 서방의 패배 · 수정: 2026-11-02 · 검토: 대화 기반 총합·발언과 언론 평가의 원문 재검증 필요
   - 에마뉘엘 토드의 프랑스 내 수용, 2024년 『서방의 패배』에 대한 상반된 서평, 2025년 핵무장론과 2026년 이란전 관련 주장, 자료 검증의 경계를 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/emmanuel-todd-western-defeat/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/emmanuel-todd-western-defeat.md)
+- **[부동산 국가가 무너질 때: 11개 시장의 폭락과 5년·10년의 후과](wiki/housing-busts-global-korea.md)** · 별칭: 세계 부동산 폭락 비교, 부동산 버블 붕괴의 후과, 부동산 붕괴 5년 10년, 한국 부동산 붕괴론의 국제 비교 · 수정: 2026-11-03 · 검토: 대화 기반 국가별 부동산 붕괴와 금융 후과 비교 / 국가별 가격지수·연도·수치 외부 재검증 필요
+  - 일본·홍콩·미국·유럽·태국·두바이·중국의 부동산 붕괴 사례를 정점, 5년·10년 후과, 신용·은행·고용·주거 접근성으로 비교하고 한국 붕괴론의 성립 조건을 검토한다.
+  - [문서 페이지](https://belorin.github.io/notes/housing-busts-global-korea/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/housing-busts-global-korea.md)
 
 ## 기술·지식 아카이브
 

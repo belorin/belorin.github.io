@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 647,
+  "edge_count": 650,
   "edges": [
     {
       "from": "living-notes",
@@ -2910,6 +2910,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "money-credit-seigniorage-critique",
+      "to": "housing-busts-global-korea",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "roman-industry-gold-standard-history",
       "to": "money-credit-seigniorage-critique",
       "type": "related_to",
@@ -3654,6 +3660,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "housing-busts-global-korea",
+      "to": "money-credit-seigniorage-critique",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "jazz-to-ai",
       "to": "jazz-dialogue",
       "type": "introduces",
@@ -3980,6 +3992,14 @@
       "basis": "curated",
       "evidence_section": "어느 분쟁이 먼저 터질까: 확전 위험과 발발 가능성의 분리",
       "reason": "분쟁들의 전략적 연쇄와 국경의 최초 소규모 충돌 가능성은 서로 다른 평가 문제임을 구별한다."
+    },
+    {
+      "from": "money-credit-seigniorage-critique",
+      "to": "housing-busts-global-korea",
+      "type": "elaborates",
+      "basis": "curated",
+      "evidence_section": "부동산의 담보가 부실해진 뒤에도 신용의 종류는 남는다",
+      "reason": "생산적·투기적·연명 신용의 구분을 부동산 붕괴의 국가별 손실 전파와 회복 경로 비교에 적용한다."
     }
   ]
 }

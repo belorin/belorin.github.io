@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 179,
+  "document_count": 180,
   "documents": [
     {
       "id": "living-notes",
@@ -4821,11 +4821,12 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "대화 기반 분석 · 외부 재검증 필요",
-      "last_updated_on": "2026-10-30",
-      "last_enriched_on": "2026-10-30",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
-        "roman-industry-gold-standard-history"
+        "roman-industry-gold-standard-history",
+        "housing-busts-global-korea"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/money-credit-seigniorage-critique.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/money-credit-seigniorage-critique.md",
@@ -6200,6 +6201,52 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/operations-data-ai-copilot-portfolio.md",
       "page_url": "https://belorin.github.io/notes/operations-data-ai-copilot-portfolio/",
       "app_url": "https://belorin.github.io/#operations-data-ai-copilot-portfolio"
+    },
+    {
+      "id": "housing-busts-global-korea",
+      "title": "부동산 국가가 무너질 때: 11개 시장의 폭락과 5년·10년의 후과",
+      "aliases": [
+        "세계 부동산 폭락 비교",
+        "부동산 버블 붕괴의 후과",
+        "부동산 붕괴 5년 10년",
+        "한국 부동산 붕괴론의 국제 비교"
+      ],
+      "category": "정치경제",
+      "tags": [
+        "부동산 붕괴",
+        "주택가격",
+        "금융위기",
+        "가계 자산",
+        "부동산 PF",
+        "대공황과 금융위기",
+        "일본 버블",
+        "홍콩 부동산",
+        "2008 금융위기",
+        "아일랜드 주택시장",
+        "스페인 부동산",
+        "핀란드 금융위기",
+        "스웨덴 금융위기",
+        "태국 외환위기",
+        "아이슬란드 금융위기",
+        "두바이 부동산",
+        "중국 부동산",
+        "한국 부동산",
+        "5년 10년 후과"
+      ],
+      "summary": "일본·홍콩·미국·유럽·태국·두바이·중국의 부동산 붕괴 사례를 정점, 5년·10년 후과, 신용·은행·고용·주거 접근성으로 비교하고 한국 붕괴론의 성립 조건을 검토한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 국가별 부동산 붕괴와 금융 후과 비교 / 국가별 가격지수·연도·수치 외부 재검증 필요",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "money-credit-seigniorage-critique"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/housing-busts-global-korea.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/housing-busts-global-korea.md",
+      "page_url": "https://belorin.github.io/notes/housing-busts-global-korea/",
+      "app_url": "https://belorin.github.io/#housing-busts-global-korea"
     }
   ]
 }

@@ -4,9 +4,9 @@
 
 마지막 정비: **M001** (2026-10-26) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
 
-원고 183개 · 변경 문서 103 · 고립 23 · 한쪽 연결 105 · 보류 17 · 열린 교차 제안 7
+원고 184개 · 변경 문서 104 · 고립 23 · 한쪽 연결 105 · 보류 17 · 열린 교차 제안 7
 
-## 1. 지난 정비 이후 변경된 문서 (103)
+## 1. 지난 정비 이후 변경된 문서 (104)
 
 manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
@@ -19,11 +19,11 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - **운영** (4): `editing-principles`, `wiki-building-history`, `wiki-operations-pipeline`, `gpt-wiki-zero-prototype`
 - **게임** (3): `china-anime-game-industry`, `anime-urban-live-service-nte-tof`, `ps5-storage-anime-live-games`
 - **문학** (3): `grand-prix-imaginaire-awards`, `gpi-foreign-novels-2015-2025`, `ministry-for-the-future-reading`
+- **정치경제** (3): `money-credit-seigniorage-critique`, `emmanuel-todd-western-defeat`, `housing-busts-global-korea`
 - **철학·사상사** (3): `lacan-anti-oedipus-history`, `philosophical-systems-after-2000`, `contemporary-intellectual-power`
 - **미분류** (2): `ai-mediated-human-change`, `circus-music-history`
 - **소설** (2): `climate-breath-fiction`, `stump-and-dream-fragment`
 - **정보와 미디어** (2): `information-hype-wow-index`, `substack-independent-newsletters`
-- **정치경제** (2): `money-credit-seigniorage-critique`, `emmanuel-todd-western-defeat`
 - **종합** (2): `replay-ladder-human-performance`, `where-novelty-comes-from`
 - **독서 문화** (1): `global-south-critical-reading-guide`
 - **문화** (1): `music-books-supply-attention`
@@ -247,10 +247,10 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
-- 긴 문서 (18): `wiki-building-history` 15,142자, `upbit-small-capital-trading-experiment` 14,973자, `ai-capital-labor-distribution` 13,156자, `great-depression-lived-experience-literature` 12,392자, `wiki-operations-pipeline` 12,147자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `living-orchestral-listening-journey` 10,782자, `book-translation-pipeline-local-llm` 10,701자, `korea-dance-musical-tours` 10,337자, `starcraft-pluto-ai` 10,311자, `wto-digital-transmission-moratorium` 10,289자, `ai-economic-transition` 10,205자, `great-northern-telegraph-east-asia` 10,147자, `where-novelty-comes-from` 10,125자, `stalking-harm-and-autonomy` 10,033자
+- 긴 문서 (19): `wiki-building-history` 15,142자, `upbit-small-capital-trading-experiment` 14,973자, `ai-capital-labor-distribution` 13,156자, `great-depression-lived-experience-literature` 12,392자, `wiki-operations-pipeline` 12,147자, `housing-busts-global-korea` 12,013자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `living-orchestral-listening-journey` 10,782자, `book-translation-pipeline-local-llm` 10,701자, `korea-dance-musical-tours` 10,337자, `starcraft-pluto-ai` 10,311자, `wto-digital-transmission-moratorium` 10,289자, `ai-economic-transition` 10,205자, `great-northern-telegraph-east-asia` 10,147자, `where-novelty-comes-from` 10,125자, `stalking-harm-and-autonomy` 10,033자
 - 짧은 문서 (2): `stump-and-dream-fragment` 861자, `deleuze-cartography-future` 1,291자
 
 ## 9. 분류 참고
 
-분류 26개: 음악 37, AI와 사회 27, 사회와 제도 25, 문화와 역사 22, 철학 11, 과학과 기술 8, 기술·지식 아카이브 7, 운영 5, 정치경제 5, 독서 문화 4, 문학 4, 영화 3, 생명과학 3, 철학·사상사 3, 게임 3, 미분류 2, 자연과 과학 2, 종합 2, 정보와 미디어 2, 소설 2, 질문 1, 언어 1, 문화 1, 창작 1, 철학·심리 1, AI의 글 1
+분류 26개: 음악 37, AI와 사회 27, 사회와 제도 25, 문화와 역사 22, 철학 11, 과학과 기술 8, 기술·지식 아카이브 7, 정치경제 6, 운영 5, 독서 문화 4, 문학 4, 영화 3, 생명과학 3, 철학·사상사 3, 게임 3, 미분류 2, 자연과 과학 2, 종합 2, 정보와 미디어 2, 소설 2, 질문 1, 언어 1, 문화 1, 창작 1, 철학·심리 1, AI의 글 1
 문서가 하나뿐인 분류 6개: 질문, 언어, 문화, 창작, 철학·심리, AI의 글. 분류 체계 변경은 제안만 한다.
