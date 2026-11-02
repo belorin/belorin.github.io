@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 180,
+  "document_count": 181,
   "documents": [
     {
       "id": "living-notes",
@@ -4916,8 +4916,8 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요",
-      "last_updated_on": "2026-10-30",
-      "last_enriched_on": "2026-10-30",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "global-bpo-labor-geography",
@@ -4926,7 +4926,8 @@
         "ai-economic-transition",
         "data-center-world-capacity",
         "korea-data-center-local-economy",
-        "physical-cloud-reading-guide"
+        "physical-cloud-reading-guide",
+        "african-ai-annotation-labor-2026"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-hidden-labor-feeding-machine-2026.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-hidden-labor-feeding-machine-2026.md",
@@ -4952,13 +4953,14 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요",
-      "last_updated_on": "2026-10-30",
-      "last_enriched_on": "2026-10-30",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "ai-hidden-labor-feeding-machine-2026",
         "ai-economic-transition",
-        "us-labor-market-geography-2026"
+        "us-labor-market-geography-2026",
+        "african-ai-annotation-labor-2026"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/global-bpo-labor-geography.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/global-bpo-labor-geography.md",
@@ -6247,6 +6249,40 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/housing-busts-global-korea.md",
       "page_url": "https://belorin.github.io/notes/housing-busts-global-korea/",
       "app_url": "https://belorin.github.io/#housing-busts-global-korea"
+    },
+    {
+      "id": "african-ai-annotation-labor-2026",
+      "title": "케냐·우간다·나이지리아의 AI 데이터 주석 노동: 라벨링이 사라진 자리에 무엇이 남았나",
+      "aliases": [
+        "아프리카 AI 데이터 주석 노동",
+        "케냐 우간다 나이지리아 데이터 라벨러"
+      ],
+      "category": "AI와 사회",
+      "tags": [
+        "AI 데이터 노동",
+        "데이터 주석",
+        "데이터 라벨링",
+        "케냐",
+        "우간다",
+        "나이지리아",
+        "BPO",
+        "RLHF"
+      ],
+      "summary": "케냐의 대형 하청·발주처 이동, 우간다의 업체 고용과 원격 모집, 나이지리아의 언어 특화 평가를 비교하고 구인공고와 실제 고용·임금의 증거 차이를 구별한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 총합·고용 추세·공고 조건 외부 재검증 필요",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "global-bpo-labor-geography",
+        "ai-hidden-labor-feeding-machine-2026"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/african-ai-annotation-labor-2026.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/african-ai-annotation-labor-2026.md",
+      "page_url": "https://belorin.github.io/notes/african-ai-annotation-labor-2026/",
+      "app_url": "https://belorin.github.io/#african-ai-annotation-labor-2026"
     }
   ]
 }

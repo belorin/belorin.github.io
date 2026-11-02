@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1148개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1160개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (17)
 
@@ -25,7 +25,7 @@
 - 2015~2025 외국 장편 한국어 번역본의 서지 원본 대조 → 반영 위치 없음 · `ing-20261103-gpi-foreign-novels` · pending — 대화에 제시된 서점 검색 진술과 사용자의 정정만 확보되어, 실제 출판사·도서관의 최신 원본 확인은 보류
 - 운영 데이터 AI 코파일럿의 실제 구현 성능·비용·배포 검증 → 반영 위치 없음 · `ing-20261103-operations-ai-copilot-portfolio` · pending — 아이디어와 설계·예시만 있으며 배포 URL, 실제 DB, 평가 결과와 현재 과금 조건이 확인되지 않음
 
-## AI와 사회 (206)
+## AI와 사회 (218)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -235,6 +235,18 @@
 - 극단적 자동권력과 AI 통제력 길잡이 연결 → `ai-human-control-guide` § 물리적 독립은 추론 능력과 다르다 · `ing-20261030-ai-ceiling-automation-datacenters`
 - 클라우드 시설의 현장기술노동과 외주 → `ai-hidden-labor-feeding-machine-2026` § 데이터센터: 장면의 주변에서 산업의 병목으로 · `ing-20261030-ai-ceiling-automation-datacenters`
 - 컴퓨트 증설과 실가동 AI 성능의 구별 → `ai-compute-scaling-inference` § 계산이 실제로 놓이는 시설의 제약 · `ing-20261030-ai-ceiling-automation-datacenters`
+- 단순 데이터 주석과 AI 평가·검수의 과업 분화 → `african-ai-annotation-labor-2026` § 주석 노동이 바뀐다는 말의 뜻; `ai-hidden-labor-feeding-machine-2026` § 남반구의 저임금 노동과 전문가 고임금 시장은 동시에 존재한다 · `ing-20261103-african-ai-annotation-labor`
+- 케냐의 기존 AI 하청망과 발주처 변화 → `african-ai-annotation-labor-2026` § 케냐: 거점은 유지되고 발주처는 바뀐다; `global-bpo-labor-geography` § AI 데이터 주석·안전성 검수 · `ing-20261103-african-ai-annotation-labor`
+- 케냐 주석 노동자의 상위 직무 재교육 사례 → `african-ai-annotation-labor-2026` § 케냐: 거점은 유지되고 발주처는 바뀐다 · `ing-20261103-african-ai-annotation-labor`
+- 우간다 Sama 노동조건 평가의 범위 → `african-ai-annotation-labor-2026` § 우간다: 업체 고용과 프로젝트형 원격 업무의 병존 · `ing-20261103-african-ai-annotation-labor`
+- 우간다 AI Data Specialist 시급 공고 → `african-ai-annotation-labor-2026` § 우간다: 업체 고용과 프로젝트형 원격 업무의 병존 · `ing-20261103-african-ai-annotation-labor`
+- 우간다 BPO 업체와 원격 프로젝트 업무의 병존 → `african-ai-annotation-labor-2026` § 우간다: 업체 고용과 프로젝트형 원격 업무의 병존 · `ing-20261103-african-ai-annotation-labor`
+- 나이지리아 요루바어 언어 특화 AI 평가 모집 → `african-ai-annotation-labor-2026` § 나이지리아: 원격 평가와 현지 언어라는 틈새 · `ing-20261103-african-ai-annotation-labor`
+- 나이지리아 AI Data Specialist 시급 공고 → `african-ai-annotation-labor-2026` § 나이지리아: 원격 평가와 현지 언어라는 틈새 · `ing-20261103-african-ai-annotation-labor`
+- 구인 공고와 실제 지급 임금·채용의 구별 → `african-ai-annotation-labor-2026` § 공고가 증명하는 것과 증명하지 못하는 것; `global-bpo-labor-geography` § AI 데이터 주석·안전성 검수 · `ing-20261103-african-ai-annotation-labor`
+- 데이터 라벨러 소멸론과 성공적 전환론의 검증 한계 → `african-ai-annotation-labor-2026` § 세 나라의 비교: 무슨 변화가 확인되는가 · `ing-20261103-african-ai-annotation-labor`
+- 작업 고도화와 고용 안정성의 분리 → `african-ai-annotation-labor-2026` § 직무가 고도화되어도 고용은 안전하지 않다 · `ing-20261103-african-ai-annotation-labor`
+- 아프리카 주석 노동 고용·소득 변화의 비교 지표 → `african-ai-annotation-labor-2026` § 고용의 미래를 확인할 자료 · `ing-20261103-african-ai-annotation-labor`
 
 ## 문화와 역사 (174)
 

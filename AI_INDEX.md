@@ -205,7 +205,7 @@
 - **[Pluto AI와 인간의 스타크래프트: 자가대전이 만든 다른 메타](wiki/starcraft-pluto-ai.md)** · 별칭: Pluto AI, 플루토 AI, 스타크래프트 플루토, tscmoo Pluto · 수정: 2026-10-26 · 검토: 대화 기반 집필 · 경기 전적·개발자 발언·세부 수치 외부 재검증 필요
   - Pluto의 개발자와 구조, 자가대전 강화학습, 한국 프로 대인전, API 조작 우위와 인간 메타의 충돌, 드롭·치즈 등 취약점과 인간의 적응, 개발자의 공개 반응 경계를 총합한다.
   - [문서 페이지](https://belorin.github.io/notes/starcraft-pluto-ai/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/starcraft-pluto-ai.md)
-- **[『AI는 인간을 먹고 자란다』 이후: 보이지 않는 노동은 사라졌는가, 분화했는가](wiki/ai-hidden-labor-feeding-machine-2026.md)** · 별칭: AI는 인간을 먹고 자란다 이후, Feeding the Machine 2026 · 수정: 2026-10-30 · 검토: 대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요
+- **[『AI는 인간을 먹고 자란다』 이후: 보이지 않는 노동은 사라졌는가, 분화했는가](wiki/ai-hidden-labor-feeding-machine-2026.md)** · 별칭: AI는 인간을 먹고 자란다 이후, Feeding the Machine 2026 · 수정: 2026-11-03 · 검토: 대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요
   - 2024년 원서와 2025년 한국어판을 기준으로 LLM 데이터 평가·합성데이터·전문가·검수·물류·창작·데이터센터 노동 변화를 대조
   - [문서 페이지](https://belorin.github.io/notes/ai-hidden-labor-feeding-machine-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-hidden-labor-feeding-machine-2026.md)
 - **[AI 모델 기업과 클라우드 기업: 지분, 컴퓨트 계약, 지대의 세 층](wiki/ai-cloud-ownership-rent.md)** · 별칭: AI 모델 회사 클라우드 지분, AI 클라우드 지대경제 · 수정: 2026-10-30 · 검토: 대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요
@@ -229,6 +229,9 @@
 - **[클라우드의 물질성: 데이터센터·해저케이블·현장노동을 읽는 책과 르포](wiki/physical-cloud-reading-guide.md)** · 별칭: 클라우드 물리 인프라 책, 데이터센터 르포 읽기, 클라우드 다큐 추천 · 수정: 2026-10-30 · 검토: 대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요
   - Tubes, Where Cloud Is Ground, The Undersea Network, The Cloud Is Material 등과 AWS 오리건 영상·지역 르포·한국어 보고서를 비교한 독서·시청 길잡이.
   - [문서 페이지](https://belorin.github.io/notes/physical-cloud-reading-guide/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/physical-cloud-reading-guide.md)
+- **[케냐·우간다·나이지리아의 AI 데이터 주석 노동: 라벨링이 사라진 자리에 무엇이 남았나](wiki/african-ai-annotation-labor-2026.md)** · 별칭: 아프리카 AI 데이터 주석 노동, 케냐 우간다 나이지리아 데이터 라벨러 · 수정: 2026-11-03 · 검토: 대화 기반 총합·고용 추세·공고 조건 외부 재검증 필요
+  - 케냐의 대형 하청·발주처 이동, 우간다의 업체 고용과 원격 모집, 나이지리아의 언어 특화 평가를 비교하고 구인공고와 실제 고용·임금의 증거 차이를 구별한다.
+  - [문서 페이지](https://belorin.github.io/notes/african-ai-annotation-labor-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/african-ai-annotation-labor-2026.md)
 
 ## 철학
 
@@ -415,7 +418,7 @@
 - **[실리콘밸리는 한 동네가 아니다: 기업 본사와 교외형 기술 회랑의 지리](wiki/silicon-valley-firm-geography.md)** · 별칭: 실리콘밸리 기업 지도, Silicon Valley 기업 위치 · 수정: 2026-10-30 · 검토: 대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요
   - 실리콘밸리 대표 기업이 Menlo Park에서 San Jose까지 분포하는 교외형 회랑과 지도·주소·산업 집적의 차이
   - [문서 페이지](https://belorin.github.io/notes/silicon-valley-firm-geography/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/silicon-valley-firm-geography.md)
-- **[세계 BPO 시장의 지리: 누가 사무 노동을 수출하고, 누가 값을 지불하는가](wiki/global-bpo-labor-geography.md)** · 별칭: 세계 BPO 시장, BPO 국가별 가격 노동복지 · 수정: 2026-10-30 · 검토: 대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요
+- **[세계 BPO 시장의 지리: 누가 사무 노동을 수출하고, 누가 값을 지불하는가](wiki/global-bpo-labor-geography.md)** · 별칭: 세계 BPO 시장, BPO 국가별 가격 노동복지 · 수정: 2026-11-03 · 검토: 대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요
   - 인도·필리핀·유럽·라틴아메리카·아프리카 BPO 공급국, 업종, 수출·고용·청구단가와 노동권 비교의 통계적 함정
   - [문서 페이지](https://belorin.github.io/notes/global-bpo-labor-geography/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/global-bpo-labor-geography.md)
 - **[미국 노동시장을 지역으로 읽기: 취업률·실업률·주별 격차와 2026년의 둔화](wiki/us-labor-market-geography-2026.md)** · 별칭: 미국 2026 실업률 지역별, 미국 주별 고용률 · 수정: 2026-10-30 · 검토: 대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요

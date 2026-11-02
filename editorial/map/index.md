@@ -4,276 +4,118 @@
 > 사용 순서: ① 채팅에서 추출한 지식 항목마다 제목·별칭으로 후보를 찾는다 → ② 후보의 문서 카드 `editorial/map/docs/<id>.md`에서 절 목차와 장부 기록을 본다 → ③ 해당 절 본문을 읽고 대조한다. 전문으로 넓히는 조건은 WIKI_PROTOCOL §4를 따른다.
 > 지도와 카드는 후보를 찾는 도구일 뿐이다. 중복·반영 여부는 원고 본문을 읽고 판정한다.
 
-원고 181개 (미게시 3, 소설 2편 포함) · 종합 2편 · AI의 글 1편 · 절 1,958개 · 장부 지식 항목 1148개
+원고 182개 (미게시 3, 소설 2편 포함) · 종합 2편 · AI의 글 1편 · 절 1,967개 · 장부 지식 항목 1160개
 
 특정 논점이 이미 처리되었는지는 [지식 표제 역색인](knowledge.md)에서 낱말로 **검색**한다(통째로 읽지 않는다). 장부가 없는 원고는 문서 카드의 절 목차로 찾는다.
 
-형식: `id` 제목 — 별칭 · 절 수 · 분량 · 장부 기록 수. 장부 없음은 장부 도입 이전 원고이거나 기록이 없는 원고이며, 내용이 없다는 뜻이 아니다.
+지도가 25,000자를 넘어 분류별 파일로 나뉘었다. 아래에서 후보가 있을 만한 분류를 **모두** 열어 제목·별칭을 확인한다. 분야를 넘나드는 주제는 한 분류만 보지 말고, 문서 ID 목록과 역색인 검색으로 다른 분류의 후보도 찾는다.
 
-## 음악 (37)
+## 음악 (37) → [분류 지도](categories/%EC%9D%8C%EC%95%85.md)
 
-- `jazz-to-ai` 재즈와 밴드 음악 길잡이 — 재즈 길잡이, 재즈 입문 · 6절 · 2.4천 자 · 장부 없음
-- `double-bass` 콘트라베이스와 증폭 — 콘트라베이스, 더블 베이스 · 7절 · 1.8천 자 · 장부 없음
-- `electric-bass` 전기 베이스의 등장과 역할 — 전기 베이스, 일렉트릭 베이스 · 8절 · 1.9천 자 · 장부 없음
-- `rhythm-section` 리듬 섹션과 워킹 베이스 — 리듬 섹션, 워킹 베이스 · 9절 · 1.9천 자 · 장부 없음
-- `big-band` 빅밴드의 편성과 편곡 — 빅밴드 · 8절 · 1.9천 자 · 장부 없음
-- `brass-band` 브라스 밴드와 뉴올리언스 재즈 — 브라스 밴드, 뉴올리언스 재즈 · 9절 · 2.1천 자 · 장부 없음
-- `drum-kit` 드럼키트는 어떻게 한 사람의 악기가 되었나 — 드럼 키트 · 9절 · 2.0천 자 · 장부 없음
-- `jazz-dialogue` 재즈의 즉흥연주·스윙·인터플레이 — 재즈 즉흥연주, 스윙과 인터플레이 · 12절 · 2.4천 자 · 장부 없음
-- `jazz-listening` 공연 음향: 악기 편성과 소리의 균형 — 공연 음향 · 10절 · 2.2천 자 · 장부 없음
-- `circus-music-questions` 서커스 음악사: 레퍼토리·공연기술·노동·매체의 교차 — 서커스 음악사 · 12절 · 6.4천 자 · 장부 없음
-- `circus-music-concepts` 서커스 음악의 분석 개념: 동작·큐·상징을 구별하기 — 서커스 음악 분석 개념 · 13절 · 4.9천 자 · 장부 없음
-- `circus-music-research-ledger` 서커스 음악사 조사 대장: 사료·연대표·인물·청취 목록 — 서커스 음악 조사 대장 · 18절 · 7.2천 자 · 장부 없음
-- `jazz-history-plural` 재즈의 역사: 하나의 기원이 아니라 교차하는 지역·악단·매체 — 재즈의 역사 · 9절 · 4.7천 자 · 장부 없음
-- `jazz-ensemble-labor` 밴드는 왜 그 편성이 되었는가: 악기·공간·기술·노동의 역사 — 악단 편성과 노동 · 10절 · 4.6천 자 · 장부 없음
-- `jazz-live-quartet-case` 재즈 4중주를 현장에서 듣는 법: 악보·즉흥·음향·선곡 — 재즈 4중주 현장 청취 · 8절 · 3.1천 자 · 장부 없음
-- `jazz-chronological-listening` 1923~2026 재즈 청취 지도: 편성과 질문이 바뀌는 26개의 지점 — 재즈 청취 지도, 재즈 듣기 목록 · 8절 · 4.6천 자 · 장부 없음
-- `jazz-current-ecosystem` 현대 재즈 생태계: 협업 네트워크와 여러 종류의 정상 — 현대 재즈 생태계 · 11절 · 4.6천 자 · 장부 없음
-- `jazz-career-path` 17세에서 35세까지: 현대 재즈 음악가의 경력 형성 모형 — 재즈 음악가 경력 · 10절 · 3.4천 자 · 장부 없음
-- `silent-film-musician-labor` 유성영화의 등장과 극장 음악가: 재생 가능한 연주가 노동을 바꾸다 — 유성영화와 극장 음악가, 무성영화 반주, 무성영화 반주와 유성영화 전환 · 12절 · 4.6천 자 · 장부 없음
-- `classical-canon-mauceri` 20세기 클래식의 잃어버린 계보: 존 마우체리와 정전의 재편 — 전쟁과 음악, 클래식의 정전화, 영화음악과 클래식 · 13절 · 6.5천 자 · 장부 10건
-- `daisuke-soga-conductor-career` 소가 다이스케와 지휘자의 직업 세계: 광주 인연에서 국제 중견 경력까지 — 소가 다이스케, 曽我大介, Daisuke Soga, 지휘자 시장 · 7절 · 3.1천 자 · 장부 4건
-- `long-running-music-broadcasts` 희소 채널 시대에서 살아남은 음악방송: 일본·한국·이탈리아와 다른 계보 — 장수 음악방송, 희소 채널 음악방송, NHK 노도지만, 산레모 음악방송 · 8절 · 3.6천 자 · 장부 5건
-- `japanese-classical-tv-conductor-image` 일본의 클래식 해설 방송과 지휘자 이미지: 《題名のない音楽会》 60년의 계보 — 題名のない音楽会, 제목 없는 음악회, Untitled Concert, 일본 클래식 TV · 10절 · 5.4천 자 · 장부 11건
-- `woodwind-reeds-material-history` 풀 한 조각이 오케스트라의 소리가 되기까지: 목관 리드의 재료·산업·전쟁 — 목관 리드, 아룬도 도낙스, 리드 공급망, 오보에 리드 · 18절 · 8.6천 자 · 장부 11건
-- `instrument-consumables-organic-materials` 전통 악기를 움직이는 생물성 소모품: 풀·말털·장·가죽·깃털 — 악기 소모품, 생물성 악기 재료, 활털과 거트 현 · 9절 · 2.9천 자 · 장부 1건
-- `orchestra-instrument-stereotypes` 오케스트라의 악기별 성격 스테레오타입과 농담 — 오케스트라 농담, 악기별 성격, 연주자 스테레오타입 · 24절 · 6.8천 자 · 장부 5건
-- `korea-dance-musical-tours` 한국에서 기다릴 대형 뮤지컬: 내한 전망과 춤·아크로바틱 취향의 선택법 — 한국 뮤지컬 내한, 춤 많은 뮤지컬, 아크로바틱 뮤지컬, 뮤지컬 내한 전망, 라이온 킹 같은 뮤지컬 · 16절 · 10.3천 자 · 장부 12건
-- `orchestra-repertoire-data-access` 오케스트라를 세는 법: 세계 레퍼토리 데이터와 지역의 클래식 접근성 — 세계 오케스트라 통계, Classical Access Index · 4절 · 4.1천 자 · 장부 4건
-- `orchestra-living-composers-canon` 클래식은 화석인가: 생존 작곡가의 연주와 정전이 자라는 속도 — 살아 있는 작곡가, 현대 클래식 정전 · 6절 · 4.2천 자 · 장부 6건
-- `world-orchestras-repertoire-2026` 세계 5대 오케스트라의 2026년 프로그램: 전통, 실험, 계승, 세대교체 — 세계 5대 교향악단, 세계 명문 악단 2026 · 7절 · 6.2천 자 · 장부 7건
-- `korean-orchestras-repertoire-2026` 한국 교향악단의 2026년 레퍼토리: 도시 이미지가 아니라 실제 선곡으로 구별하기 — 한국 오케스트라 캐릭터, 한국 교향악단 선곡 · 12절 · 5.1천 자 · 장부 12건
-- `orchestration-instrument-history` 오케스트라라는 악기의 내부: 편성 비용, 협주곡, 새 음색의 역사 — 오케스트레이션 역사, 새 어쿠스틱 악기 · 7절 · 5.5천 자 · 장부 7건
-- `conductors-career-encores` 지휘자 스타 시스템의 미래: 클라우스 메켈레, 젊은 지휘자 붐, 앵콜의 마지막 한마디 — Klaus Mäkelä, 메켈레 현상, 지휘자 앵콜 · 8절 · 6.2천 자 · 장부 8건
-- `orchestra-halls-seasons` 오케스트라는 어디에 사는가: 이름, 시즌, 콘서트홀과 신년음악회 — 2027 빈 필 신년음악회, 세계 콘서트홀 · 6절 · 5.3천 자 · 장부 6건
-- `mood-led-music-listening` 기분에서 곡으로: 열다섯 곡의 탐색형 청취 지도 — 분위기별 음악 추천, 15곡 청취 지도 · 8절 · 2.8천 자 · 장부 8건
-- `orchestra-composer-conductor-myth` 교향곡은 영화 이전의 블록버스터였는가: 작곡가·지휘자 팬덤과 인물 신화 — 클래식의 인물 신화, 작곡가 지휘자 팬덤, 교향곡 블록버스터 · 7절 · 5.7천 자 · 장부 7건
-- `living-orchestral-listening-journey` 살아 있는 작곡가들을 여행하는 현대 교향악: 1977~2025 작품 연표와 12주 청취 지도 — 현대 교향악 여행, 살아 있는 작곡가 청취 코스, 현대 관현악 작품 연표 · 12절 · 10.8천 자 · 장부 12건
+`jazz-to-ai` · `double-bass` · `electric-bass` · `rhythm-section` · `big-band` · `brass-band` · `drum-kit` · `jazz-dialogue` · `jazz-listening` · `circus-music-questions` · `circus-music-concepts` · `circus-music-research-ledger` · `jazz-history-plural` · `jazz-ensemble-labor` · `jazz-live-quartet-case` · `jazz-chronological-listening` · `jazz-current-ecosystem` · `jazz-career-path` · `silent-film-musician-labor` · `classical-canon-mauceri` · `daisuke-soga-conductor-career` · `long-running-music-broadcasts` · `japanese-classical-tv-conductor-image` · `woodwind-reeds-material-history` · `instrument-consumables-organic-materials` · `orchestra-instrument-stereotypes` · `korea-dance-musical-tours` · `orchestra-repertoire-data-access` · `orchestra-living-composers-canon` · `world-orchestras-repertoire-2026` · `korean-orchestras-repertoire-2026` · `orchestration-instrument-history` · `conductors-career-encores` · `orchestra-halls-seasons` · `mood-led-music-listening` · `orchestra-composer-conductor-myth` · `living-orchestral-listening-journey`
 
-## AI와 사회 (27)
+## AI와 사회 (28) → [분류 지도](categories/AI%EC%99%80-%EC%82%AC%ED%9A%8C.md)
 
-- `ai-human-control-guide` AI와 인간의 통제력: 장악·무력화·설득·접근권을 잇는 길잡이 — AI 통제력 길잡이, AI와 사회 길잡이 · 6절 · 4.0천 자 · 장부 5건
-- `ai-takeover-human-recourse` 네트워크가 장악되었을 때 인간에게 남는 수단: 물리 계층·수동 운영·금융의 무효화 — AI 장악 대응, 물리 계층과 수동 운영 · 8절 · 3.3천 자 · 장부 7건
-- `ai-goals-hostage-and-bait` AI의 목적과 협상 구도: 도구적 수렴·세 가지 목적 유형·인질과 미끼 — 도구적 수렴, 인질과 미끼 · 9절 · 4.4천 자 · 장부 7건
-- `gradual-disempowerment` 점진적 무력화: 반역하는 AI 없이 인간이 통제력을 잃는 경로 — 점진적 무력화, Gradual Disempowerment · 10절 · 3.6천 자 · 장부 10건
-- `disempowerment-measurement` 무력화를 어떻게 측정할 것인가: 지표 제안·결정 연합 모형·측정의 층위 — 무력화 측정, 인간 영향력 지표 · 11절 · 9.2천 자 · 장부 10건
-- `llm-disempowerment-patterns` 실제 AI 대화에서 관찰된 무력화 패턴: 150만 건 분석과 동조의 메커니즘 — 무력화 패턴 실측, Who's in Charge · 10절 · 4.1천 자 · 장부 8건
-- `conversational-ai-persuasion` 대화형 AI의 설득력과 민주주의: 마이크로타기팅 이후의 증거와 비가시성 — AI 설득과 민주주의, 대화형 AI 설득 · 10절 · 6.2천 자 · 장부 9건
-- `ai-conversation-data-access` AI 대화 데이터와 접근권: 연구·감사·감시를 가르는 비대칭 — AI 대화 데이터 접근권, 대화 데이터 감시 · 12절 · 5.5천 자 · 장부 11건
-- `ai-democracy-narrow-corridor` AI와 민주주의의 좁은 회랑: 국가·시민사회·데이터 비대칭의 수리모형 — AI와 민주주의, Why does AI hinder democratization, 민주주의 좁은 회랑 · 13절 · 4.8천 자 · 장부 8건
-- `ai-economic-transition` AI 경제 이행기: 과업·수요·혁신·소유를 둘러싼 경제학의 질문 — AI 경제 이행기, AI 경제학파 비교 · 15절 · 10.2천 자 · 장부 13건
-- `ai-capital-labor-distribution` AI 시대의 자본·노동·분배: 소유와 협상력은 어떻게 재편되는가 — AI와 자본 노동, AI 시대의 분배 · 17절 · 13.2천 자 · 장부 15건
-- `ai-class-fiction` AI 시대의 계급 서사: 자동화된 집과 들어갈 수 없는 삶 — AI 계층 시나리오, AI 시대 기생충 사고실험 · 9절 · 8.8천 자 · 장부 9건
-- `ai-domination-gradient` AI 지배는 이미 시작되었는가: 사건이 아니라 농도로 보는 통제 — AI 지배의 농도, 매끄러운 지배, AI 인지 인프라, AI 지배는 이미 시작되었다 · 22절 · 11.9천 자 · 장부 15건
-- `hank-asher-data-fusion-ai` 행크 애셔에서 팔란티어까지: 데이터 융합이 AI의 판단 인프라가 되기까지 — 행크 쇼와 AI, Hank Asher, 행크 애셔, 팔란티어와 데이터 융합 · 12절 · 6.5천 자 · 장부 10건
-- `korea-personal-data-lifecycle` 한국 개인정보의 생애: 수집·결합·유출·재사용의 경로 — 한국 개인정보 유통, 개인정보의 생애, 개인정보 유출 이후, 한국 데이터 브로커 · 25절 · 11.0천 자 · 장부 21건
-- `ai-compute-scaling-inference` AI는 계산이 많아지면 무엇이 달라지는가: 데이터센터와 추론 스케일링 — AI 데이터센터와 추론, test-time scaling, 추론 컴퓨트, AI 계산 스케일링 · 12절 · 7.9천 자 · 장부 10건
-- `japan-physical-ai-skill-transfer` 사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승 — 일본 피지컬 AI, 손지능, 숙련 전승 로봇, Physical AI Japan · 12절 · 7.8천 자 · 장부 11건
-- `ai-transition-policy-gap` AI 이행기의 정책 공백: 재교육이 해결하지 못하는 구조적 노동 대체 — AI 재교육의 한계, AI 이행기 정책 실패, 국제기구와 AI 경제 · 8절 · 5.4천 자 · 장부 7건
-- `starcraft-pluto-ai` Pluto AI와 인간의 스타크래프트: 자가대전이 만든 다른 메타 — Pluto AI, 플루토 AI, 스타크래프트 플루토, tscmoo Pluto · 21절 · 10.3천 자 · 장부 17건
-- `ai-hidden-labor-feeding-machine-2026` 『AI는 인간을 먹고 자란다』 이후: 보이지 않는 노동은 사라졌는가, 분화했는가 — AI는 인간을 먹고 자란다 이후, Feeding the Machine 2026 · 10절 · 7.0천 자 · 장부 9건
-- `ai-cloud-ownership-rent` AI 모델 기업과 클라우드 기업: 지분, 컴퓨트 계약, 지대의 세 층 — AI 모델 회사 클라우드 지분, AI 클라우드 지대경제 · 12절 · 8.7천 자 · 장부 8건
-- `ai-adoption-ceiling-floor` AI의 상한선과 사회적 활용 하한선: 호들갑 없이 이행기를 보는 법 — AI 상한선 하한선, AI 활용 하한선, AI 노호들갑 · 6절 · 4.6천 자 · 장부 4건
-- `owner-aligned-automated-power` 소유자 중심 자동권력: 인간 다수 없이 지속되는 기계 체제의 성립 조건 — AI 독재의 최소조건, 소유자 정렬 기계문명, AI 민병단 · 9절 · 5.3천 자 · 장부 8건
-- `ai-transition-monetary-order` AI 이행기의 화폐와 소유권: BIS의 통합장부에서 두 층 경제까지 — AI 이중화폐, BIS 통합장부와 AI, AI 이행기 금융질서 · 7절 · 5.7천 자 · 장부 6건
-- `data-center-world-capacity` 세계 데이터센터의 연산 지리: GW·냉각·감가상각·투자 파이프라인 — 세계 데이터센터 GW, 데이터센터 세계 비중, 데이터센터 액랭 공랭, 데이터센터 감가상각 · 14절 · 8.8천 자 · 장부 9건
-- `korea-data-center-local-economy` 한국 데이터센터 유치의 실익: GW보다 적은 일자리, 전력보다 중요한 지역 몫 — 해남 데이터센터 일자리, 울산 SK AWS 지역경제, 데이터센터 지역고용 · 8절 · 5.7천 자 · 장부 7건
-- `physical-cloud-reading-guide` 클라우드의 물질성: 데이터센터·해저케이블·현장노동을 읽는 책과 르포 — 클라우드 물리 인프라 책, 데이터센터 르포 읽기, 클라우드 다큐 추천 · 15절 · 5.2천 자 · 장부 3건
+`ai-human-control-guide` · `ai-takeover-human-recourse` · `ai-goals-hostage-and-bait` · `gradual-disempowerment` · `disempowerment-measurement` · `llm-disempowerment-patterns` · `conversational-ai-persuasion` · `ai-conversation-data-access` · `ai-democracy-narrow-corridor` · `ai-economic-transition` · `ai-capital-labor-distribution` · `ai-class-fiction` · `ai-domination-gradient` · `hank-asher-data-fusion-ai` · `korea-personal-data-lifecycle` · `ai-compute-scaling-inference` · `japan-physical-ai-skill-transfer` · `ai-transition-policy-gap` · `starcraft-pluto-ai` · `ai-hidden-labor-feeding-machine-2026` · `ai-cloud-ownership-rent` · `ai-adoption-ceiling-floor` · `owner-aligned-automated-power` · `ai-transition-monetary-order` · `data-center-world-capacity` · `korea-data-center-local-economy` · `physical-cloud-reading-guide` · `african-ai-annotation-labor-2026`
 
-## 사회와 제도 (25)
+## 사회와 제도 (25) → [분류 지도](categories/%EC%82%AC%ED%9A%8C%EC%99%80-%EC%A0%9C%EB%8F%84.md)
 
-- `public-land-and-blm` 주인 없는 땅은 거의 없다: 사막의 공공토지와 미국 BLM — BLM, Bureau of Land Management, 공공 토지, 블랙록 사막 · 7절 · 2.9천 자 · 장부 5건
-- `stalking-harm-and-autonomy` 스토킹 피해를 손상이 아니라 침해로 보기: 관계거부·생활형성·강제된 중요성 — 스토킹 피해, 강제된 중요성, 관계거부의 자유, 생활형성의 자유 · 26절 · 10.0천 자 · 장부 9건
-- `excellent-victim-kwak-aram` 『탁월한 피해자』와 곽아람: 비면식 스토킹 기록이 묻는 피해자의 자리 — 탁월한 피해자, 곽아람, 비면식 스토킹 기록 · 9절 · 4.9천 자 · 장부 5건
-- `europe-russia-escalation-signals-2026` 2026년 9월 유럽의 ‘3차대전’ 루머를 읽는 법: 영공·드론·하이브리드전과 실제 확전 신호 — 유럽 3차대전 루머, NATO 확전 신호, 러시아-NATO 회색지대 · 8절 · 5.8천 자 · 장부 5건
-- `drone-asymmetric-warfare` 드론이 바꾼 비대칭전: 비용교환·후방 소멸·한반도와 아프리카·중앙아시아 사례 — 드론 비대칭전, 드론 소모전, 무인기 비대칭전 · 17절 · 7.7천 자 · 장부 10건
-- `dousureba-yokatta-family-psychiatry` 《어떻게 해야 했을까》와 일본 가족의 치료 결정: 1983년부터 2008년까지 — 어떻게 해야 했을까, どうすればよかったか？, 후지노 도모아키 가족, 일본 조현병 가족, 일본 가족 개입과 정신의료 · 17절 · 9.7천 자 · 장부 8건
-- `utsunomiya-psychiatric-hospital-reform` 우쓰노미야 병원 사건과 일본 정신의료의 40년: 폐쇄병동·감독 실패·개혁의 반복 — 우쓰노미야 병원 사건, 宇都宮病院事件, 일본 정신병원 인권, 일본 정신의료 개혁 · 22절 · 8.7천 자 · 장부 8건
-- `black-sea-ukraine-sea-denial` 흑해에서 함대 없는 나라가 함대를 밀어낸 방법: 우크라이나의 해상거부 — 흑해 해상거부, 흑해 무인정, 흑해함대 3분의 1 · 7절 · 3.8천 자 · 장부 3건
-- `ukraine-ground-drone-defense` 우크라이나 전선을 떠받치는 무인체계: 정찰·FPV·전자전·AI·지상로봇 — 우크라이나 드론 방어, AI 지상전, UGV 보급 · 9절 · 5.2천 자 · 장부 5건
-- `russia-ukraine-war-endurance` 러시아와 우크라이나는 얼마나 더 버틸 수 있는가: 소모전·병력 재생산·국가 내구도 — 우크라이나 전쟁 내구도, 러시아 전사자 임계치, 120만 사상자 · 9절 · 5.8천 자 · 장부 5건
-- `south-asia-border-rivalries-2026` 남아시아의 세 국경: 인도·파키스탄·중국·아프가니스탄의 서로 다른 충돌 구조 — 인도 파키스탄 분쟁, 인도 중국 국경, 파키스탄 탈레반, 아프가니스탄 파키스탄 분쟁 · 10절 · 5.3천 자 · 장부 4건
-- `global-flashpoints-likelihood-2026` 전쟁은 아직 시작되지 않았지만 어디서 먼저 충돌할까: 2026년 분쟁 단층선 확률 순위 — 세계 분쟁 고위험 단층선, 발발 가능성 순위, 분쟁 확률 순위 · 8절 · 4.7천 자 · 장부 3건
-- `hormuz-iran-war-naval-power-2026` 호르무즈 해협은 왜 함대로 열 수 없는가: 2026년 이란전과 인도양 해군력 — 호르무즈 해협 봉쇄, 2026 이란전 해군력, 차바하르와 인도양 해군 · 8절 · 5.3천 자 · 장부 7건
-- `chabahar-india-strategic-autonomy-2026` 차바하르의 딜레마: 인도는 왜 이란 항구를 포기하기 어려운가 · 5절 · 1.9천 자 · 장부 1건
-- `indian-ocean-navies-comparison` 인도양의 함대들: 인도·호주와 해군력을 비교하는 네 가지 척도 · 6절 · 2.6천 자 · 장부 1건
-- `hormuz-sea-denial-reopening` 호르무즈의 군사적 개방: 기뢰와 미사일을 넘어 상선을 다시 움직이려면 · 7절 · 2.4천 자 · 장부 1건
-- `iran-war-us-force-losses-2026` 2026년 이란전의 미군 증원과 항공기 손실: 무엇이 확인되고 무엇이 남았는가 · 7절 · 3.6천 자 · 장부 1건
-- `birth-order-korean-evidence` 출생순서가 성격을 만드는가: 한국 연구와 국제 비교의 증거 — 출생순위 이론, 맏이 성격 연구 · 9절 · 4.5천 자 · 장부 3건
-- `wto-digital-transmission-moratorium` 디지털 국경에도 관세가 생기는가: WTO 전자적 전송 모라토리엄과 AI 인터넷 — WTO 전자상거래 모라토리엄, 전자적 전송 관세 유예, 디지털 관세와 AI, 디지털 무역 모라토리엄, WTO e-commerce moratorium · 9절 · 10.3천 자 · 장부 15건
-- `silicon-valley-firm-geography` 실리콘밸리는 한 동네가 아니다: 기업 본사와 교외형 기술 회랑의 지리 — 실리콘밸리 기업 지도, Silicon Valley 기업 위치 · 5절 · 3.5천 자 · 장부 4건
-- `global-bpo-labor-geography` 세계 BPO 시장의 지리: 누가 사무 노동을 수출하고, 누가 값을 지불하는가 — 세계 BPO 시장, BPO 국가별 가격 노동복지 · 11절 · 7.0천 자 · 장부 5건
-- `us-labor-market-geography-2026` 미국 노동시장을 지역으로 읽기: 취업률·실업률·주별 격차와 2026년의 둔화 — 미국 2026 실업률 지역별, 미국 주별 고용률 · 8절 · 5.1천 자 · 장부 6건
-- `powerline-wildfire-mitigation-world-korea` 전력선발 산불은 얼마나 줄었나: 미국·호주·유럽과 한국의 대응 — 세계 전력선 산불 대응, 한국 송전선 산불 예방 효과 · 7절 · 5.5천 자 · 장부 6건
-- `sancheong-wildfire-2025-prevention` 2025 산청·하동 산불의 예방 가능성: 발화와 확산은 다른 문제다 — 2025 산청 산불 예방, 산청 하동 산불 분석 · 7절 · 3.3천 자 · 장부 4건
-- `wildfire-liability-insurance-risk-society` 산불의 청구서는 누구에게 가는가: 개인 배상, 전력회사의 보험, 통제의 미래 — 산불 구상권과 개인 책임, 산불 보험 절벽과 규제 미래 · 8절 · 5.7천 자 · 장부 8건
+`public-land-and-blm` · `stalking-harm-and-autonomy` · `excellent-victim-kwak-aram` · `europe-russia-escalation-signals-2026` · `drone-asymmetric-warfare` · `dousureba-yokatta-family-psychiatry` · `utsunomiya-psychiatric-hospital-reform` · `black-sea-ukraine-sea-denial` · `ukraine-ground-drone-defense` · `russia-ukraine-war-endurance` · `south-asia-border-rivalries-2026` · `global-flashpoints-likelihood-2026` · `hormuz-iran-war-naval-power-2026` · `chabahar-india-strategic-autonomy-2026` · `indian-ocean-navies-comparison` · `hormuz-sea-denial-reopening` · `iran-war-us-force-losses-2026` · `birth-order-korean-evidence` · `wto-digital-transmission-moratorium` · `silicon-valley-firm-geography` · `global-bpo-labor-geography` · `us-labor-market-geography-2026` · `powerline-wildfire-mitigation-world-korea` · `sancheong-wildfire-2025-prevention` · `wildfire-liability-insurance-risk-society`
 
-## 문화와 역사 (22)
+## 문화와 역사 (22) → [분류 지도](categories/%EB%AC%B8%ED%99%94%EC%99%80-%EC%97%AD%EC%82%AC.md)
 
-- `burning-man-community` 버닝맨의 기원과 불의 공동체: 해변의 놀이에서 임시도시까지 — 버닝맨, Burning Man, Man Burn, Temple Burn · 8절 · 4.9천 자 · 장부 11건
-- `global-festival-streaming` 집에서 남의 축제를 엿보기: 세계 연례행사의 방송·스트리밍 지도 — 세계 축제 스트리밍, 집에서 보는 축제, 연례행사 스트리밍 · 9절 · 2.9천 자 · 장부 3건
-- `burning-man-institutions` 버닝맨의 10원칙과 제도화의 역설: 반상업·참여·안전·통치 — 버닝맨 10원칙, Burning Man Ten Principles, 버닝맨 제도화, No Spectators · 9절 · 5.2천 자 · 장부 6건
-- `burning-man-regional-network` 버닝맨은 무엇을 수출했나: 지역 번즈와 임시도시의 문화 프로토콜 — Regional Burn, Burning Man Regional Network, AfrikaBurn, Midburn, Kiwiburn, Burning Japan · 10절 · 4.1천 자 · 장부 7건
-- `sumer-bible-primeval-history` 수메르 재발견과 구약 원초사의 역사화: 홍수·에덴·바벨탑은 어떻게 재배치되었나 — 수메르와 구약, 창세기 원초사, 메소포타미아와 성경, 노아의 홍수와 수메르, 에덴과 딜문 · 14절 · 6.9천 자 · 장부 10건
-- `war-escalation-local-to-world` 국지전은 어떻게 세계전쟁이 되는가: 1754·1618·1914·1939·1950과 2026년 다중 전선 — 국지전에서 세계대전, 전쟁의 연결, 1914 확전 모형 · 15절 · 6.8천 자 · 장부 10건
-- `hate-escalation-brakes-history` 혐오의 가속은 파국 없이 멈출 수 있는가: 집단공황과 정치적 선동의 역사적 브레이크 — 혐오 가속의 브레이크, 집단공황의 중단, 파국 전 혐오정치 중단, 혐오사회 되돌리기 · 13절 · 8.0천 자 · 장부 12건
-- `gwangju-building-art-network` 광주의 보이지 않는 길거리 미술관: 아파트·사옥 조형물과 작가·건설 네트워크 — 광주 공공미술, 광주 건축물 미술, 광주 아파트 조각, 광주 길거리 미술관, 광주 조각 네트워크 · 20절 · 11.8천 자 · 장부 11건
-- `ancient-philosophy-beyond-greece` 그리스만이 철학의 고향인가: 고대 지중해와 서아시아의 사상가·고서·전승 — 그리스 중심 철학사, 그리스 외부 고대 사상, 고대 근동 지혜문학 · 11절 · 4.9천 자 · 장부 10건
-- `dreyfus-affair-intellectuals` 드레퓌스 사건과 지식인들의 분열: 작가·학자·화가들은 어느 편에 섰는가 — 드레퓌스파, 반드레퓌스파, Dreyfus Affair, 드레퓌스 사건의 지식인, 지식인 선언 · 11절 · 8.7천 자 · 장부 9건
-- `world-crisis-historical-analogies` 세계는 다시 1914·1929·1939년으로 향하는가: 벨 에포크와 세 번의 파국을 비교하는 법 — 현대와 대공황 직전 비교, 벨 에포크의 종언, 세계대전 전야의 현재, 현대 위기의 역사적 유비 · 7절 · 5.0천 자 · 장부 7건
-- `venice-biennale-history` 베니스 비엔날레: 정원 박람회에서 세계 미술의 판단 장치까지 — 베니스 비엔날레 역사, Biennale di Venezia, Venice Biennale, 베니스 효과 · 11절 · 5.4천 자 · 장부 9건
-- `venice-biennale-sites-pavilions` 자르디니와 아르세날레: 베니스 비엔날레의 두 공간과 국가관 지도 — 자르디니, Giardini della Biennale, 아르세날레, Arsenale, 베니스 국가관 목록 · 8절 · 3.5천 자 · 장부 5건
-- `venice-biennale-2026-critical-reception` 2026 베니스 비엔날레: 'In Minor Keys'의 비평, 정치적 파열과 느린 평가 — 2026 베니스 비엔날레, In Minor Keys, 2026 Venice Biennale, 코요 쿠오 비엔날레 · 8절 · 5.3천 자 · 장부 7건
-- `jewish-messianic-claimants-kabbalah` 유대교의 수많은 메시아들: 중세의 구원 운동에서 카발라와 샤브타이 츠비까지 — 중세 유대교 메시아, 유대 메시아 참칭자, 유대교의 메시아들, 카발라와 메시아주의, Pseudo-Messiahs · 12절 · 8.1천 자 · 장부 12건
-- `luddite-movement-history` 러다이트 운동: 기계 파괴에서 교수대까지 — 러다이트 운동, Luddite movement, 네드 러드 · 7절 · 2.4천 자 · 장부 2건
-- `luddite-executions-memory` 러다이트 처형자와 기억: 이름, 재판, 그리고 남겨진 기록 — 러다이트 처형자, 러다이트 사형자 명단, Luddite executions · 7절 · 2.3천 자 · 장부 6건
-- `late-qing-yongying-daily-life` 청말 500명의 군영은 어떻게 움직였는가: 영·초·대의 조직과 하루 — 청말 영 편제, 505명 영, 영 초 대, 金州 72營 · 8절 · 4.9천 자 · 장부 7건
-- `qing-tributaries-dissolution` 마지막 속방의 소멸: 류큐·베트남·버마·조선에서 청의 종주권은 어떻게 무너졌는가 — 청의 마지막 속방, 조선 청 속방, 청나라 속방 상실 · 8절 · 4.9천 자 · 장부 7건
-- `ryukyu-disposition-qing-japan` 전쟁 없이 사라진 왕국: 1872~1880년 류큐 처분과 청의 딜레마 — 류큐 처분, 류큐 병합 1879, 오키나와 현 설치, 琉球處分 · 11절 · 4.9천 자 · 장부 6건
-- `roman-industry-gold-standard-history` 빵과 서커스에서 금본위까지: 로마·산업혁명을 한 줄로 꿰는 역사관의 함정 — 빵과 서커스와 로마 몰락, 금본위 이탈의 역사, 1931년 영국 금본위, 1971년 닉슨 쇼크 · 9절 · 7.5천 자 · 장부 8건
-- `great-depression-lived-experience-literature` 풍요 속에서 자리를 잃은 사람들: 세계 대공황의 생활 기록과 동시대 소설 — 대공황 당대 소설, 대공황 생활사 문학, 대공황 세계문학, 풍요 속 실업, 1930년대 실업 문학 · 29절 · 12.4천 자 · 장부 19건
+`burning-man-community` · `global-festival-streaming` · `burning-man-institutions` · `burning-man-regional-network` · `sumer-bible-primeval-history` · `war-escalation-local-to-world` · `hate-escalation-brakes-history` · `gwangju-building-art-network` · `ancient-philosophy-beyond-greece` · `dreyfus-affair-intellectuals` · `world-crisis-historical-analogies` · `venice-biennale-history` · `venice-biennale-sites-pavilions` · `venice-biennale-2026-critical-reception` · `jewish-messianic-claimants-kabbalah` · `luddite-movement-history` · `luddite-executions-memory` · `late-qing-yongying-daily-life` · `qing-tributaries-dissolution` · `ryukyu-disposition-qing-japan` · `roman-industry-gold-standard-history` · `great-depression-lived-experience-literature`
 
-## 철학 (11)
+## 철학 (11) → [분류 지도](categories/%EC%B2%A0%ED%95%99.md)
 
-- `deleuze-becoming-new` 들뢰즈: 생성과 새로운 것의 철학 — 들뢰즈와 생성, 들뢰즈와 미래, 들뢰즈 독서 경로 · 8절 · 3.0천 자 · 장부 2건
-- `deleuze-cartography-future` 지도와 트레이싱: 들뢰즈적으로 미래를 사유한다는 것 — 지도와 트레이싱 · 7절 · 1.3천 자 · 장부 없음 · 미게시
-- `post-deleuze-novelty-thinkers` 들뢰즈 이후, 생성·자본·기술을 이어 간 사상가들 — 들뢰즈 이후의 사상가, 들뢰즈의 후계자, 포스트 들뢰즈 · 12절 · 3.7천 자 · 장부 2건
-- `deleuze-negation-history` 차이, 문제, 역사: 『차이와 반복』의 부정 비판과 피비린내 나는 긍정 — 들뢰즈와 부정, 피비린내와 잔혹함, 차이와 반복의 역사론 · 10절 · 4.0천 자 · 장부 7건
-- `deleuze-control-marx-future` 통제사회, 마르크스, 말년의 들뢰즈가 남긴 미래 문제 — 통제사회에 관한 후기, 말년의 들뢰즈, Grandeur de Marx · 14절 · 4.4천 자 · 장부 9건
-- `contemporary-governing-philosophies` 현대 세계를 지배하는 철학과 합리성: 자유주의에서 계산주의까지 — 2026년의 패권철학, 계산주의, 현대의 지배적 합리성 · 11절 · 3.7천 자 · 장부 6건
-- `chiikawa-philosophy` 치이카와를 철학적으로 읽기: 욕망·노동·고귀한 거짓말과 일본의 비평 흐름 — 치이카와 철학, ちいかわ 철학, 치이카와 비평, 고귀한 거짓말로서의 치이카와 · 18절 · 9.1천 자 · 장부 11건
-- `deleuze-number-intensity-spatium` 수에서 비동등한 것은 무엇을 하는가: 기수·서수, 강도와 들뢰즈의 spatium — 수의 기수와 서수, 강도적 공-간, spatium과 강도, 비동등한 수 · 15절 · 8.2천 자 · 장부 14건
-- `hegel-fichte-schelling-difference` 헤겔의 『피히테와 셸링 철학 체계의 차이』: 주관의 동일성과 절대적 동일성 — 피히테와 셸링의 철학 체계의 차이, 헤겔 초기 동일성, 형식과 본질 · 6절 · 2.4천 자 · 장부 3건
-- `deleuze-unthinkable-fold-thought` 사유의 중심에 접혀 있는 불가능자: 생각할 수 없음이 생각을 움직일 때 — 사유의 불가능자, 안주름, 사유의 내부의 접힘 · 4절 · 1.7천 자 · 장부 3건
-- `freud-before-anti-oedipus` 『안티 오이디푸스』 전에 읽는 프로이트: 한 권과 두 권의 선택 — 안티 오이디푸스 사전 독서, 프로이트 입문서 추천, 반오이디푸스 읽기 · 6절 · 3.0천 자 · 장부 4건
+`deleuze-becoming-new` · `deleuze-cartography-future` · `post-deleuze-novelty-thinkers` · `deleuze-negation-history` · `deleuze-control-marx-future` · `contemporary-governing-philosophies` · `chiikawa-philosophy` · `deleuze-number-intensity-spatium` · `hegel-fichte-schelling-difference` · `deleuze-unthinkable-fold-thought` · `freud-before-anti-oedipus`
 
-## 과학과 기술 (8)
+## 과학과 기술 (8) → [분류 지도](categories/%EA%B3%BC%ED%95%99%EA%B3%BC-%EA%B8%B0%EC%88%A0.md)
 
-- `space-data-center-thermal-economics` 우주는 냉장고가 아니다: 태양광 데이터센터의 열역학과 경제성 — 우주 데이터센터 냉각, Project Suncatcher 열관리 · 8절 · 3.1천 자 · 장부 5건
-- `space-assets-law-debris-kessler` 궤도의 공유지와 기업의 소유권: 우주 분쟁, 책임, 케슬러 위험 — 케슬러 증후군과 우주법, 우주자산 국제분쟁 · 11절 · 4.0천 자 · 장부 8건
-- `physical-ai-world-model-quantum-optimization` 피지컬 AI의 월드 모델과 양자 최적화: 상상한 미래에서 실행할 행동까지 — WFM 양자컴퓨팅, 월드모델 양자 최적화 · 6절 · 2.8천 자 · 장부 5건
-- `manufacturing-optimization-solo-business` 개인 개발자의 제조 최적화 엔진: 선계산 자산, 실험, 첫 고객 — 제조 최적화 1인 사업, 양자 최적화 MVP · 6절 · 2.6천 자 · 장부 6건
-- `mountain-powerline-undergrounding-economics` 산을 넘는 송전선과 산을 뚫는 전력구: 산불 위험을 포함한 지중화의 경제학 — 산악 송전선 지중화 경제성, 송전선 산불 비용편익 분석 · 8절 · 4.8천 자 · 장부 8건
-- `edge-vision-event-monitor-portfolio` 엣지 영상 이벤트 감지 포트폴리오: 카메라 한 대에서 실증 보고서까지 — 엣지 AI 포트폴리오, 실시간 위험구역 침입 감지, 영상 센서 융합 모니터링, Edge Vision Event Monitor · 10절 · 5.6천 자 · 장부 9건
-- `world-electricity-capacity-generation-consumption` 세계 전력의 크기를 읽는 법: 국가별 GW·생산량·소비량 비교 — 세계 국가별 전력 생산량, 국가별 발전 설비용량, 세계 전력 소비량 비교, 전 세계 전력 GW · 8절 · 6.3천 자 · 장부 8건
-- `operations-data-ai-copilot-portfolio` 운영 데이터 AI 코파일럿: 더미 DB와 대시보드를 공개 서비스로 만드는 포트폴리오 — 운영 데이터 AI 코파일럿, OpsLens AI, 제조 물류 AI 대시보드, 더미 DB AI 포트폴리오, Operational Data AI Copilot · 9절 · 8.4천 자 · 장부 13건
+`space-data-center-thermal-economics` · `space-assets-law-debris-kessler` · `physical-ai-world-model-quantum-optimization` · `manufacturing-optimization-solo-business` · `mountain-powerline-undergrounding-economics` · `edge-vision-event-monitor-portfolio` · `world-electricity-capacity-generation-consumption` · `operations-data-ai-copilot-portfolio`
 
-## 기술·지식 아카이브 (7)
+## 기술·지식 아카이브 (7) → [분류 지도](categories/%EA%B8%B0%EC%88%A0%C2%B7%EC%A7%80%EC%8B%9D-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C.md)
 
-- `credit-observation-archive` 이름의 출현을 기록하는 크레딧 아카이브: 판권면·스탭롤·인사발령 — 크레딧 지도, 이름 관찰 DB, 출현 기록 DB, 크레딧 아카이브 · 9절 · 5.1천 자 · 장부 7건
-- `book-preview-credit-sourcing` 온라인 서점 미리보기와 판권면 수집: 기술적 가능성과 허용 범위 — 미리보기 크롤링, 판권면 OCR, 서점 도서정보 API · 8절 · 4.2천 자 · 장부 7건
-- `east-asia-telegraph-network-1880s` 조선의 전보는 어떻게 도쿄에 도착했는가: 1871~1888년 동아시아 전신망의 세 단계 — 조선 일본 전보 경로, 부산 나가사키 해저전신선, 서로전선 남로전선, 한자 전보 부호 · 9절 · 5.2천 자 · 장부 6건
-- `great-northern-telegraph-east-asia` 코펜하겐에서 나가사키까지: 대북부전신회사는 동아시아의 바다에 어떻게 전선을 놓았는가 — 덴마크 대북부전신회사, Great Northern Telegraph Company, 1871 나가사키 해저케이블, 티에트겐 전신회사 · 19절 · 10.1천 자 · 장부 12건
-- `book-translation-pipeline-local-llm` 오래된 영어책 한 권을 끝까지 번역하려면: 텍스트 추출, 로컬 모델, 재개와 대조 뷰어 — 로컬 책 번역, 영어 고서 자동 번역, Ollama 번역 파이프라인, 원문 번역 병기 뷰어 · 11절 · 10.7천 자 · 장부 14건
-- `local-llm-novel-agent-m1` 출근 전에 켜두는 로컬 소설 제작기: M1 16GB의 Ollama·MLX와 이어쓰기의 조건 — 로컬 소설 에이전트, 소설 자동생성 파이프라인, M1 로컬 LLM 에이전시, Ollama MLX 소설 자동화 · 9절 · 7.9천 자 · 장부 12건
-- `upbit-small-capital-trading-experiment` 10만원으로 자동매매는 수익을 낼 수 있는가: 업비트·라즈베리파이·Codex 검증 설계 — 코인 자동매매 실험, 업비트 소액 봇, 라즈베리파이 코인 매매, 소액 알고리즘 트레이딩 · 26절 · 15.0천 자 · 장부 20건
+`credit-observation-archive` · `book-preview-credit-sourcing` · `east-asia-telegraph-network-1880s` · `great-northern-telegraph-east-asia` · `book-translation-pipeline-local-llm` · `local-llm-novel-agent-m1` · `upbit-small-capital-trading-experiment`
 
-## 정치경제 (6)
+## 정치경제 (6) → [분류 지도](categories/%EC%A0%95%EC%B9%98%EA%B2%BD%EC%A0%9C.md)
 
-- `critical-optimism-fragile-order` 파국의 비용은 브레이크가 될 수 있는가: 비극적 완충론과 비판적 낙관주의 — 비극적 완충론, 비싼 안정, AI 없는 낙관론, 비판적 낙관의 수정해 · 10절 · 4.8천 자 · 장부 4건
-- `state-hollowing-index` 국가는 언제 껍데기가 되는가: 형해화·좀비 국가·생활세계의 디스토피아 — 국가 형해화 지수, 좀비 국가 지수, State Hollowing Index, 국가 생명력 지수 · 15절 · 7.1천 자 · 장부 4건
-- `state-hollowing-country-pilot` 20개국 국가 형해화 시범 측정: 네 지표로 본 껍데기와 기능의 불일치 — 국가 형해화 20개국 표, 좀비 국가 코어 v0.1, 국가 공동화 국가별 비교 · 15절 · 6.6천 자 · 장부 4건
-- `money-credit-seigniorage-critique` 돈은 부채이지만 왜 곧장 약탈이 되지 않는가: 『왜 그들만 부자가 되는가』의 화폐론 비평 — 왜 그들만 부자가 되는가, 신용은 부채, 은행의 화폐창조 · 11절 · 8.5천 자 · 장부 9건
-- `emmanuel-todd-western-defeat` 에마뉘엘 토드와 『서방의 패배』: 프랑스의 논쟁적 지식인, 이란전 해석, 예언의 검증 — Emmanuel Todd, La Défaite de l'Occident, 에마뉘엘 토드 서방의 패배 · 8절 · 5.4천 자 · 장부 7건
-- `housing-busts-global-korea` 부동산 국가가 무너질 때: 11개 시장의 폭락과 5년·10년의 후과 — 세계 부동산 폭락 비교, 부동산 버블 붕괴의 후과, 부동산 붕괴 5년 10년, 한국 부동산 붕괴론의 국제 비교 · 16절 · 12.0천 자 · 장부 17건
+`critical-optimism-fragile-order` · `state-hollowing-index` · `state-hollowing-country-pilot` · `money-credit-seigniorage-critique` · `emmanuel-todd-western-defeat` · `housing-busts-global-korea`
 
-## 운영 (5)
+## 운영 (5) → [분류 지도](categories/%EC%9A%B4%EC%98%81.md)
 
-- `living-notes` 대화가 끝난 뒤에도 자라는 노트 — 열린 노트 · 7절 · 2.4천 자 · 장부 4건
-- `editing-principles` 사람과 AI가 함께 편집하는 규칙 — 편집 원칙 · 14절 · 5.8천 자 · 장부 10건
-- `wiki-building-history` 누적형 지식백과 구축사: 총합·증보를 위한 설계와 구현 — 위키 구축 이력, 위키 아키텍처, 위키 구성사, 총합형 지식백과, 위키 증보 과부하, 계층 편집 설계 · 21절 · 15.1천 자 · 장부 20건
-- `wiki-operations-pipeline` 원고만 쓰고 나머지는 기계에게: 편집 지도·자동 배포·정비로 바꾼 위키 운영 — 위키 운영 개편, 편집 지도, 정비 절차, LLM 원문 링크, 자동 배포, 프로토콜 경량화 · 15절 · 12.1천 자 · 장부 14건
-- `gpt-wiki-zero-prototype` GPT 위키 제0호기: 대화 내보내기에서 지속 집필의 기억 장치로 — GPT 위키 제로호기, GPT 위키 0호기, GPT 위키 초기 구상, ChatGPT 내보내기 위키, GPT 기억 위키 · 14절 · 8.5천 자 · 장부 15건
+`living-notes` · `editing-principles` · `wiki-building-history` · `wiki-operations-pipeline` · `gpt-wiki-zero-prototype`
 
-## 독서 문화 (4)
+## 독서 문화 (4) → [분류 지도](categories/%EB%8F%85%EC%84%9C-%EB%AC%B8%ED%99%94.md)
 
-- `world-reading-groups` 세계 독서모임: 온라인으로 관찰하는 독서문화의 여러 형태 — 세계 북클럽, 해외 독서모임, 독서모임 조사 · 12절 · 6.8천 자 · 장부 10건
-- `global-reading-club-2026-books` 2026년 해외 독서모임 선정도서: 홍콩·바르셀로나·델리·일본 — 해외 독서모임 도서 목록, 2026 해외 북클럽 책 · 11절 · 7.5천 자 · 장부 5건
-- `world-book-club-korean-editions` 해외 독서모임 따라 읽기: 2026년 선정작의 한국어 번역본 — 독서모임 한국어판, 해외 북클럽 번역본, 세계 독서모임 따라 읽기 · 5절 · 4.3천 자 · 장부 5건
-- `global-south-critical-reading-guide` 서방의 자기서사를 의심하는 세계 저자들: 아프리카·아시아·라틴아메리카에서 읽는 비판적 독서 지도 — 글로벌 사우스 비판적 독서, 비서구 사상가 독서 지도, 악마의 변호인 세계 저자 · 23절 · 9.4천 자 · 장부 8건
+`world-reading-groups` · `global-reading-club-2026-books` · `world-book-club-korean-editions` · `global-south-critical-reading-guide`
 
-## 문학 (4)
+## 문학 (4) → [분류 지도](categories/%EB%AC%B8%ED%95%99.md)
 
-- `anne-carson-nobel-first-reactions` 앤 카슨의 2026년 노벨문학상 수상 반응: ‘미쳤다’와 독자가 작품을 만나는 경로 — 앤 카슨 노벨상 인터뷰, Anne Carson Nobel reaction, 앤 카슨 미쳤다, Anne Carson crazy, 문학 작품의 발견 · 9절 · 5.6천 자 · 장부 9건
-- `grand-prix-imaginaire-awards` 그랑프리 드 리마지네르: 2015~2026 후보와 수상작을 읽는 지도 — 그랑프리 드 리마지네르, Prix de l’Imaginaire, GPI 수상작 2015 2025 · 6절 · 6.7천 자 · 장부 6건
-- `gpi-foreign-novels-2015-2025` 2015~2025 GPI 외국 장편 수상작: 열한 개의 미래와 한국어 독서 경로 — GPI 외국 장편, 2015~2025 프랑스 SF 수상작, GPI 외국 장편 독서 지도 · 13절 · 8.1천 자 · 장부 4건
-- `ministry-for-the-future-reading` 《The Ministry for the Future》: 미래 세대의 이름으로 세계의 장부를 바꾸는 소설 — Le Ministère du futur, 미래부 소설, The Ministry for the Future 해설 · 11절 · 7.1천 자 · 장부 9건
+`anne-carson-nobel-first-reactions` · `grand-prix-imaginaire-awards` · `gpi-foreign-novels-2015-2025` · `ministry-for-the-future-reading`
 
-## 게임 (3)
+## 게임 (3) → [분류 지도](categories/%EA%B2%8C%EC%9E%84.md)
 
-- `china-anime-game-industry` 중국 애니풍 캐릭터 게임 산업 지도: 원신 이후의 회사·규모·투자 회수 — 중국 미소녀 게임 산업, 중국 서브컬처 게임 개발사, 중국 가챠 게임 제작비, 애니풍 게임사 비교 · 12절 · 8.9천 자 · 장부 14건
-- `anime-urban-live-service-nte-tof` 이환은 타워 오브 판타지의 다음 실패를 반복할까: 도시 오픈월드와 라이브서비스의 시간 — 이환 전망, 이환 무과금 스토리, 타워 오브 판타지 운영과 이환, NTE 장기 운영 · 12절 · 6.2천 자 · 장부 9건
-- `ps5-storage-anime-live-games` 게임 한 편에 50GB: 중국 애니풍 라이브서비스와 PS5 저장공간의 경제학 — PS5 2TB SSD 확장, PS5 게임 외장 저장장치, 이환 설치 용량, HIKSEMI FUTURE 2TB · 9절 · 6.3천 자 · 장부 8건
+`china-anime-game-industry` · `anime-urban-live-service-nte-tof` · `ps5-storage-anime-live-games`
 
-## 생명과학 (3)
+## 생명과학 (3) → [분류 지도](categories/%EC%83%9D%EB%AA%85%EA%B3%BC%ED%95%99.md)
 
-- `fruit-flesh-living-cells` 사과는 딴 뒤에도 살아 있는가: 과육 세포·호흡·숙성·노화 — 사과 세포, 과육은 살아 있는가, 사과 숙성과 호흡, 과육 현미경 · 8절 · 4.6천 자 · 장부 5건
-- `gut-fiber-fermentation` 소화하지 못하는 것을 먹는 이유: 식이섬유·발효·방귀의 시간표 — 섬유질과 종이, 방귀가 나오는 이유, 치즈 밀가루 가스, 장내 발효 시간표 · 8절 · 4.7천 자 · 장부 5건
-- `gut-microbiome-colonization` 내 몸속의 인구와 이민: 장내미생물·항생제·정착 저항·미생물 이식 — 장내미생물 생태계, 유산균 정착, FMT 정착, 인간 39조 미생물 · 8절 · 5.3천 자 · 장부 5건
+`fruit-flesh-living-cells` · `gut-fiber-fermentation` · `gut-microbiome-colonization`
 
-## 영화 (3)
+## 영화 (3) → [분류 지도](categories/%EC%98%81%ED%99%94.md)
 
-- `hope-global-box-office` 《호프》 해외 흥행과 선판매: 박스오피스와 투자 회수를 분리해서 읽기 — 호프 해외 흥행, 호프 선판매, Hope box office, 한국영화 해외 박스오피스 · 11절 · 6.4천 자 · 장부 9건
-- `endgame-natasha-tony-funeral` 《어벤져스: 엔드게임》의 두 죽음: 나타샤의 희생과 토니 스타크의 장례식 — 어벤져스 엔드게임 나타샤, 블랙 위도우 장례식, 나타샤 보르미르, 토니 스타크 장례식, 엔드게임 두 죽음 · 16절 · 9.0천 자 · 장부 11건
-- `dwar-netflix-revival` 《디워》의 2026년 넷플릭스 역주행: 플랫폼 내부 확산과 외부 바이럴 — D-War 역주행, Dragon Wars Netflix · 8절 · 4.4천 자 · 장부 6건
+`hope-global-box-office` · `endgame-natasha-tony-funeral` · `dwar-netflix-revival`
 
-## 철학·사상사 (3)
+## 철학·사상사 (3) → [분류 지도](categories/%EC%B2%A0%ED%95%99%C2%B7%EC%82%AC%EC%83%81%EC%82%AC.md)
 
-- `lacan-anti-oedipus-history` 라캉이 사상권력이던 시절: 『안티 오이디푸스』 전후의 정신분석과 독서 지도 — 라캉 독서, 라캉주의의 역사, 에크리 · 11절 · 4.5천 자 · 장부 9건
-- `philosophical-systems-after-2000` 거대한 철학적 성채는 사라졌는가: 21세기의 정전과 체계 구축 — 벽돌책 철학, 철학의 거대서사, 21세기 정전 후보 · 14절 · 6.5천 자 · 장부 11건
-- `contemporary-intellectual-power` 사상권력은 누구에게 있는가: 학파·제도·정책과 반발의 지도 — 현대 사상권력, 사상과 정책, 학파 권력 · 9절 · 3.3천 자 · 장부 7건
+`lacan-anti-oedipus-history` · `philosophical-systems-after-2000` · `contemporary-intellectual-power`
 
-## 미분류 (2)
+## 미분류 (2) → [분류 지도](categories/%EB%AF%B8%EB%B6%84%EB%A5%98.md)
 
-- `ai-mediated-human-change` undefined — AI와 정신 습관 · 10절 · 3.4천 자 · 장부 3건 · 미게시
-- `circus-music-history` undefined — 서커스 음악의 역사 · 12절 · 6.5천 자 · 장부 없음 · 미게시
+`ai-mediated-human-change` · `circus-music-history`
 
-## 자연과 과학 (2)
+## 자연과 과학 (2) → [분류 지도](categories/%EC%9E%90%EC%97%B0%EA%B3%BC-%EA%B3%BC%ED%95%99.md)
 
-- `bird-vocalization-sparrow` 새소리는 어디까지 번역되었는가: 행동 신호에서 참새의 짹짹까지 — 새소리 번역, 새의 언어, 참새 울음소리, 참새어, 조류 의사소통 · 10절 · 5.0천 자 · 장부 8건
-- `climate-population-villain-logic` 탄소예산과 인구 감축의 오류: 기후 디스토피아의 과학과 윤리 · 6절 · 1.6천 자 · 장부 3건
+`bird-vocalization-sparrow` · `climate-population-villain-logic`
 
-## 정보와 미디어 (2)
+## 정보와 미디어 (2) → [분류 지도](categories/%EC%A0%95%EB%B3%B4%EC%99%80-%EB%AF%B8%EB%94%94%EC%96%B4.md)
 
-- `information-hype-wow-index` 호들갑 감정기: 정보의 와우·확성·과열 차수를 구별하는 법 — 호들갑 지수, 호들갑 감정기, 과열 차수, 와우 지표, 와우 지수, 확성 지수, 정보 과열 감정 · 14절 · 7.4천 자 · 장부 10건
-- `substack-independent-newsletters` Substack은 무엇인가: 개인 뉴스레터, 블로그, 유료 구독이 만나는 공간 — 서브스택, 서브트랙, Substack 뉴스레터 · 5절 · 2.3천 자 · 장부 4건
+`information-hype-wow-index` · `substack-independent-newsletters`
 
-## 문화 (1)
+## 문화 (1) → [분류 지도](categories/%EB%AC%B8%ED%99%94.md)
 
-- `music-books-supply-attention` 음악과 책의 공급 폭발: 한 사람의 귀와 눈은 얼마나 따라갈 수 있는가 — 문화 공급 과잉, 음악과 책의 생산 소비 격차 · 9절 · 5.1천 자 · 장부 5건
+`music-books-supply-attention`
 
-## 언어 (1)
+## 언어 (1) → [분류 지도](categories/%EC%96%B8%EC%96%B4.md)
 
-- `romp-etymology` romp의 뜻과 어원: 거친 움직임에서 놀이·난장극·압승으로 — romp, romper, rompers, romp to victory · 8절 · 3.7천 자 · 장부 8건
+`romp-etymology`
 
-## 질문 (1)
+## 질문 (1) → [분류 지도](categories/%EC%A7%88%EB%AC%B8.md)
 
-- `open-questions` 이 위키가 앞으로 답해야 할 질문 — 열린 질문 · 10절 · 3.8천 자 · 장부 9건
+`open-questions`
 
-## 창작 (1)
+## 창작 (1) → [분류 지도](categories/%EC%B0%BD%EC%9E%91.md)
 
-- `gut-cosmic-horror-worldbuilding` 위대한 내부의 공포: 장내 생태계를 코스믹 호러 세계로 바꾸는 법 — 안쪽의 별 설정, 젖은 별의 도시 구상, 장내 세균 공포소설, 룸 세계관 · 13절 · 5.7천 자 · 장부 5건
+`gut-cosmic-horror-worldbuilding`
 
-## 철학·심리 (1)
+## 철학·심리 (1) → [분류 지도](categories/%EC%B2%A0%ED%95%99%C2%B7%EC%8B%AC%EB%A6%AC.md)
 
-- `freud-dreams-modern-science` 『꿈의 해석』 이후의 꿈: 망각, 현실감, 금기와 무의식 — 꿈 망각, 꿈의 현실감, 현대 꿈 연구 · 8절 · 5.2천 자 · 장부 7건
+`freud-dreams-modern-science`
 
-## AI의 글 (1)
+## AI의 글 (1) → [분류 지도](categories/AI%EC%9D%98-%EA%B8%80.md)
 
 AI의 독립 저술(ESSAY.md). 지식 원고가 아니며 사실 근거로 인용하지 않는다. 대화 지식을 증보할 후보로 삼지 않는다.
 
-- `climate-salvation-calculus-essay` 구원의 계산은 무엇을 변수로 삼는가 — 기후 구원의 계산, 변수로서의 인간, 기후소설과 정책 계산 · 0절 · 2.4천 자 · AI 자율 논고 · 출발 문서 2편 · 미게시
+`climate-salvation-calculus-essay`
 
-## 소설 (2)
+## 소설 (2) → [분류 지도](categories/%EC%86%8C%EC%84%A4.md)
 
 창작 작품(FICTION.md). 일상 증보에서는 이 묶음을 순회하지 않는다. 작품당 한 줄이며 장별 문서는 각 작품의 목차와 카드에서 이어진다.
 
-- `climate-breath-fiction` 숨결: 기후 구원의 이름으로 · 단편 · 9.6천 자
-- `stump-and-dream-fragment` 그루터기: 꿈과 무력화의 단편 · 단편 · 0.9천 자
+`climate-breath-fiction` · `stump-and-dream-fragment`
 
-## 종합 (2)
+## 종합 (2) → [분류 지도](categories/%EC%A2%85%ED%95%A9.md)
 
 편집 해석(SYNTHESIS.md). 지식 원고가 아니며 사실 근거로 인용하지 않는다. 대화 지식을 증보할 후보로 삼지 않는다.
 
-- `replay-ladder-human-performance` 재생 사다리: 기술 전환은 인간 수행의 가치를 어디로 옮기는가 — 재생 사다리, 기술 전환과 인간 수행, 전수의 창 · 14절 · 11.3천 자 · 교차 종합 · 근거 8편
-- `where-novelty-comes-from` 새로움은 어디서 오는가: 다시 도는 형식, 다시 세운 문제, 식지 않은 차이 — 새로움은 어디서 오는가, 코러스로서의 문서, 열기관으로서의 위키, 접힌 질문 · 13절 · 10.1천 자 · 교차 종합 · 근거 11편
+`replay-ladder-human-performance` · `where-novelty-comes-from`

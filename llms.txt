@@ -103,6 +103,7 @@
 - [세계 데이터센터의 연산 지리: GW·냉각·감가상각·투자 파이프라인](https://belorin.github.io/notes/data-center-world-capacity/): 2025~2030년 지역별 GW·건설 파이프라인, 공실률의 모수, 공랭·액랭의 시설별 보급, 물리적 수명과 미국·중국·걸프·APAC 기업 생태계를 구분한다.
 - [한국 데이터센터 유치의 실익: GW보다 적은 일자리, 전력보다 중요한 지역 몫](https://belorin.github.io/notes/korea-data-center-local-economy/): 울산 SK–AWS·해남 솔라시도 등 한국 데이터센터의 계획과 상주인력, 건설기 효과, AWS 현장 직군, 전력·물·세수의 지역 순편익을 비교한다.
 - [클라우드의 물질성: 데이터센터·해저케이블·현장노동을 읽는 책과 르포](https://belorin.github.io/notes/physical-cloud-reading-guide/): Tubes, Where Cloud Is Ground, The Undersea Network, The Cloud Is Material 등과 AWS 오리건 영상·지역 르포·한국어 보고서를 비교한 독서·시청 길잡이.
+- [케냐·우간다·나이지리아의 AI 데이터 주석 노동: 라벨링이 사라진 자리에 무엇이 남았나](https://belorin.github.io/notes/african-ai-annotation-labor-2026/): 케냐의 대형 하청·발주처 이동, 우간다의 업체 고용과 원격 모집, 나이지리아의 언어 특화 평가를 비교하고 구인공고와 실제 고용·임금의 증거 차이를 구별한다.
 
 ### 철학
 
