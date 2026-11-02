@@ -4576,7 +4576,7 @@
       "title": "돈은 부채이지만 왜 곧장 약탈이 되지 않는가: 『왜 그들만 부자가 되는가』의 화폐론 비평",
       "category": "정치경제",
       "status": "대화 기반 분석 · 외부 재검증 필요",
-      "updated": "2026-10-30",
+      "updated": "2026-11-03",
       "summary": "은행의 예금통화 창조, 세뇨리지, 칸티용 효과, 생산적·투기적 신용, 통화정책과 불평등을 구별하며 『왜 그들만 부자가 되는가』의 논리적 비약을 검토",
       "tags": [
         "화폐",
@@ -4588,7 +4588,8 @@
       ],
       "source": "내부 총합·외부 미검증",
       "related": [
-        "roman-industry-gold-standard-history"
+        "roman-industry-gold-standard-history",
+        "housing-busts-global-korea"
       ],
       "aliases": [
         "왜 그들만 부자가 되는가",
@@ -4596,7 +4597,7 @@
         "은행의 화폐창조"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-30"
+      "last_enriched_on": "2026-11-03"
     },
     {
       "path": "wiki/roman-industry-gold-standard-history.md",
@@ -5924,6 +5925,50 @@
       "status": "개발·이직을 위한 공개 서비스 설계 제안 / 실제 구현 및 현재 무료 티어 조건 미검증",
       "updated": "2026-11-03",
       "source": "내부 총합·외부 신규 조사 없음·구현 및 비용 현행성 미검증",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-03"
+    },
+    {
+      "id": "housing-busts-global-korea",
+      "path": "wiki/housing-busts-global-korea.md",
+      "publish": true,
+      "order": 181,
+      "title": "부동산 국가가 무너질 때: 11개 시장의 폭락과 5년·10년의 후과",
+      "category": "정치경제",
+      "summary": "일본·홍콩·미국·유럽·태국·두바이·중국의 부동산 붕괴 사례를 정점, 5년·10년 후과, 신용·은행·고용·주거 접근성으로 비교하고 한국 붕괴론의 성립 조건을 검토한다.",
+      "tags": [
+        "부동산 붕괴",
+        "주택가격",
+        "금융위기",
+        "가계 자산",
+        "부동산 PF",
+        "대공황과 금융위기",
+        "일본 버블",
+        "홍콩 부동산",
+        "2008 금융위기",
+        "아일랜드 주택시장",
+        "스페인 부동산",
+        "핀란드 금융위기",
+        "스웨덴 금융위기",
+        "태국 외환위기",
+        "아이슬란드 금융위기",
+        "두바이 부동산",
+        "중국 부동산",
+        "한국 부동산",
+        "5년 10년 후과"
+      ],
+      "related": [
+        "money-credit-seigniorage-critique"
+      ],
+      "aliases": [
+        "세계 부동산 폭락 비교",
+        "부동산 버블 붕괴의 후과",
+        "부동산 붕괴 5년 10년",
+        "한국 부동산 붕괴론의 국제 비교"
+      ],
+      "status": "대화 기반 국가별 부동산 붕괴와 금융 후과 비교 / 국가별 가격지수·연도·수치 외부 재검증 필요",
+      "updated": "2026-11-03",
+      "source": "내부 총합·외부 신규 조사 없음·국제 통계 정의 및 세부 수치 미검증",
       "review_state": "needs_review",
       "last_enriched_on": "2026-11-03"
     }

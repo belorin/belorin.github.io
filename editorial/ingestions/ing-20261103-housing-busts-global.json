@@ -1,0 +1,225 @@
+{
+  "id": "ing-20261103-housing-busts-global",
+  "processed_on": "2026-11-03",
+  "coverage": "visible-complete",
+  "limit_note": "이 화면에 실제로 접근 가능한 부동산 비교 질문과 답변만 처리. 최초 답변에 포함된 수치·기사 링크는 신규 외부 조사 없이 보존했으며 동일 지표의 5년·10년 정량 시계열과 국가별 부동산 자산 비중은 미확인",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "부동산 비중과 붕괴 위험의 서로 다른 네 척도",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "housing-busts-global-korea",
+          "section": "무엇이 높았고 무엇이 무너졌는가"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "counterargument",
+      "title": "가격지수와 금융 부실지표를 같은 낙폭으로 비교하는 오류",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "housing-busts-global-korea",
+          "section": "정점에서 5년, 10년: 먼저 펼쳐 보는 비교"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "example",
+      "title": "일본 토지거품과 은행 부실의 장기화",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "housing-busts-global-korea",
+          "section": "일본: 가격 붕괴와 손실 인식의 지연"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "example",
+      "title": "홍콩 주택가격 붕괴와 역자산·불균등한 회복",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "housing-busts-global-korea",
+          "section": "홍콩: 가장 가파른 폭락과 이후의 불균등한 회복"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "example",
+      "title": "미국 모기지 전파와 2008년 금융위기의 후과",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "housing-busts-global-korea",
+          "section": "미국: 주택대출이 금융시장 전체의 위험이 되었을 때"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "example",
+      "title": "아일랜드 주택가격 붕괴와 공급부족의 귀환",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "housing-busts-global-korea",
+          "section": "아일랜드: 붕괴를 통과한 뒤 주거난이 다시 온 역설"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "example",
+      "title": "스페인 건설금융 붕괴와 장기 고용 충격",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "housing-busts-global-korea",
+          "section": "스페인: 건설업의 충격이 청년과 노동시장에 남긴 시간"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "example",
+      "title": "핀란드의 은행위기와 대외충격",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "housing-busts-global-korea",
+          "section": "핀란드와 스웨덴: 비슷한 금융위기, 다른 회복의 속도"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "example",
+      "title": "스웨덴 은행정리와 회복의 분기",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "housing-busts-global-korea",
+          "section": "핀란드와 스웨덴: 비슷한 금융위기, 다른 회복의 속도"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "example",
+      "title": "태국 외화차입·개발금융과 부실채권",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "housing-busts-global-korea",
+          "section": "태국: 집값 지수보다 외채와 개발금융이 먼저 문제인 사례"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "example",
+      "title": "아이슬란드 은행위기와 통화조정·관광 회복",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "housing-busts-global-korea",
+          "section": "아이슬란드: 집값을 넘어 은행 전체가 국가 규모를 압도했을 때"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "example",
+      "title": "두바이 개발금융과 거래액 붕괴의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "housing-busts-global-korea",
+          "section": "두바이: 개발 프로젝트와 국제 유동성에 묶인 순환"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "question",
+      "title": "중국 부동산 조정의 5년 관측과 아직 없는 10년 결과",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "housing-busts-global-korea",
+          "section": "중국: 아직 닫히지 않은 10년의 결과"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "concept",
+      "title": "부동산 충격의 거래·담보·금융·실물 전파",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "housing-busts-global-korea",
+          "section": "폭락의 전개: 거래 마비에서 은행과 일자리까지"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "argument",
+      "title": "명목가격 회복과 주거 접근성 회복의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "housing-busts-global-korea",
+          "section": "회복을 판정하는 다섯 가지 서로 다른 기준"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "argument",
+      "title": "한국 부동산 붕괴론의 취약성·지역 분화와 조건부 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "housing-busts-global-korea",
+          "section": "한국의 붕괴론을 판단하는 법"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "question",
+      "title": "국제 비교 통계와 5년·10년 정량 자료의 검증 경계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "housing-busts-global-korea",
+          "section": "자료의 경계와 후속 검증 과제"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "argument",
+      "title": "부동산 금융에서 생산·투기·연명 신용의 충격 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "money-credit-seigniorage-critique",
+          "section": "부동산의 담보가 부실해진 뒤에도 신용의 종류는 남는다"
+        }
+      ]
+    }
+  ]
+}
