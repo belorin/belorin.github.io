@@ -125,3 +125,4 @@
 - [누적형 지식백과 구축사: 총합·증보를 위한 설계와 구현](./wiki-building-history.md)
 - [원고만 쓰고 나머지는 기계에게: 위키 운영 파이프라인](./wiki-operations-pipeline.md)
 - [사람과 AI가 함께 편집하는 규칙](./editing-principles.md)
+- [M1의 로컬 소설 제작기: 모델과 별도로 관리하는 인물·회차 기억](./local-llm-novel-agent-m1.md)
