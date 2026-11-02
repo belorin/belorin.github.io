@@ -1,0 +1,68 @@
+{
+  "id": "ing-20261102-ai-autonomous-essays",
+  "processed_on": "2026-11-02",
+  "coverage": "visible-complete",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "argument",
+      "title": "지식 증보 완료 후 AI의 자율 에세이 집필 여부 판단",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "editing-principles",
+          "section": "축적 이후의 저술: AI에게 맡기는 판단"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "증보 후 저술과 독립 자율 저술의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "editing-principles",
+          "section": "축적 이후의 저술: AI에게 맡기는 판단"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "AI의 상투적 문장과 기계적 글쓰기 습관을 자기비판으로 개고",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "editing-principles",
+          "section": "AI 특유의 글쓰기 습관을 줄이는 일"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "argument",
+      "title": "기술적 무결성 검증과 저술의 질적 판단을 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "editing-principles",
+          "section": "검증은 무엇을 위해 존재하는가"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "argument",
+      "title": "생성량 목표보다 AI의 저술 선택과 폐기 권한을 존중",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "editing-principles",
+          "section": "축적 이후의 저술: AI에게 맡기는 판단"
+        }
+      ]
+    }
+  ]
+}
