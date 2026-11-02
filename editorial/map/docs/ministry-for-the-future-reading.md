@@ -8,6 +8,7 @@
 - 태그: The Ministry for the Future, 킴 스탠리 로빈슨, 미래부, 기후변화, 탄소 코인, 기후소설, 정책 시뮬레이션
 - 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: needs_review
 - 관련 문서: `grand-prix-imaginaire-awards`, `gpi-foreign-novels-2015-2025`
+- 이 문서를 근거로 쓴 해석 원고: `climate-salvation-calculus-essay`
 
 ## 절 목차
 

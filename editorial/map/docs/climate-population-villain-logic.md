@@ -7,6 +7,7 @@
 - 태그: 기후위기, 탄소예산, 인구, 디스토피아
 - 수정일: 2026-10-26 · 실제 증보일: 2026-10-26 · 검토: needs_review
 - 관련 문서: `climate-breath-fiction`
+- 이 문서를 근거로 쓴 해석 원고: `climate-salvation-calculus-essay`
 
 ## 절 목차
 
