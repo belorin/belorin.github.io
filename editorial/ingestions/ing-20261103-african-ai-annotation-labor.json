@@ -1,0 +1,165 @@
+{
+  "id": "ing-20261103-african-ai-annotation-labor",
+  "processed_on": "2026-11-03",
+  "coverage": "visible-complete",
+  "limit_note": "현재 접근 가능한 질문과 응답만 처리; 원래 제시된 보도·보고서·공고를 편집 중 신규 검증하지 않음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "단순 데이터 주석과 AI 평가·검수의 과업 분화",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "african-ai-annotation-labor-2026",
+          "section": "주석 노동이 바뀐다는 말의 뜻"
+        },
+        {
+          "doc_id": "ai-hidden-labor-feeding-machine-2026",
+          "section": "남반구의 저임금 노동과 전문가 고임금 시장은 동시에 존재한다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "케냐의 기존 AI 하청망과 발주처 변화",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "african-ai-annotation-labor-2026",
+          "section": "케냐: 거점은 유지되고 발주처는 바뀐다"
+        },
+        {
+          "doc_id": "global-bpo-labor-geography",
+          "section": "AI 데이터 주석·안전성 검수"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "example",
+      "title": "케냐 주석 노동자의 상위 직무 재교육 사례",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "african-ai-annotation-labor-2026",
+          "section": "케냐: 거점은 유지되고 발주처는 바뀐다"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "fact",
+      "title": "우간다 Sama 노동조건 평가의 범위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "african-ai-annotation-labor-2026",
+          "section": "우간다: 업체 고용과 프로젝트형 원격 업무의 병존"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "example",
+      "title": "우간다 AI Data Specialist 시급 공고",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "african-ai-annotation-labor-2026",
+          "section": "우간다: 업체 고용과 프로젝트형 원격 업무의 병존"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "concept",
+      "title": "우간다 BPO 업체와 원격 프로젝트 업무의 병존",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "african-ai-annotation-labor-2026",
+          "section": "우간다: 업체 고용과 프로젝트형 원격 업무의 병존"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "example",
+      "title": "나이지리아 요루바어 언어 특화 AI 평가 모집",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "african-ai-annotation-labor-2026",
+          "section": "나이지리아: 원격 평가와 현지 언어라는 틈새"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "example",
+      "title": "나이지리아 AI Data Specialist 시급 공고",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "african-ai-annotation-labor-2026",
+          "section": "나이지리아: 원격 평가와 현지 언어라는 틈새"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "argument",
+      "title": "구인 공고와 실제 지급 임금·채용의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "african-ai-annotation-labor-2026",
+          "section": "공고가 증명하는 것과 증명하지 못하는 것"
+        },
+        {
+          "doc_id": "global-bpo-labor-geography",
+          "section": "AI 데이터 주석·안전성 검수"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "counterargument",
+      "title": "데이터 라벨러 소멸론과 성공적 전환론의 검증 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "african-ai-annotation-labor-2026",
+          "section": "세 나라의 비교: 무슨 변화가 확인되는가"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "argument",
+      "title": "작업 고도화와 고용 안정성의 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "african-ai-annotation-labor-2026",
+          "section": "직무가 고도화되어도 고용은 안전하지 않다"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "question",
+      "title": "아프리카 주석 노동 고용·소득 변화의 비교 지표",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "african-ai-annotation-labor-2026",
+          "section": "고용의 미래를 확인할 자료"
+        }
+      ]
+    }
+  ]
+}
