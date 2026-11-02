@@ -60,6 +60,8 @@ Google DeepMind의 공개 연구에서도 계획 문제에서 더 많은 추론 
 
 NVIDIA가 Blackwell Ultra를 소개하며 AI reasoning과 test-time scaling을 데이터센터 수요의 한 축으로 강조한 것도 이 방향을 보여 주는 사례로 제시되었다. [NVIDIA, Blackwell Ultra AI factory platform](https://nvidianews.nvidia.com/news/nvidia-blackwell-ultra-ai-factory-platform-paves-way-for-age-of-ai-reasoning)
 
+AI 추론량이 곧바로 사용자 수에 비례하는 것도 아니다. 게시물이 여러 언어로 자동 번역되어 보이는 대규모 피드에서는 **새로 생성하는 번역본의 수**와 **이미 만든 번역본을 보여 주는 횟수**를 분리해야 한다. 지원 언어 수, 캐시 적중률, 실제 노출량에 따라 추론 부담이 달라지는 구체적인 계산은 [X 자동번역의 서빙 구조와 비용](./x-auto-translation-serving-cost.md)에서 다룬다.
+
 ## 계산량은 지능 그 자체가 아니다
 
 연산을 많이 쓰면 항상 더 좋은 답이 나온다는 결론은 성립하지 않는다. 어떤 문제에서는 더 오래 생각할수록 향상이 작아지고, 잘못 잡은 가정을 더 길게 밀어붙일 수도 있다. test-time compute의 효과가 문제와 방법에 따라 다르고 단순한 추가 추론이 체감하거나 역효과를 낼 수 있다는 연구도 제시되었다. [추론 계산의 한계에 관한 연구, 2025](https://arxiv.org/abs/2504.00294)
