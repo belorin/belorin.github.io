@@ -4,9 +4,9 @@
 
 마지막 정비: **M001** (2026-10-26) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
 
-원고 190개 · 변경 문서 110 · 고립 23 · 한쪽 연결 105 · 보류 18 · 열린 교차 제안 8
+원고 191개 · 변경 문서 111 · 고립 24 · 한쪽 연결 105 · 보류 18 · 열린 교차 제안 8
 
-## 1. 지난 정비 이후 변경된 문서 (110)
+## 1. 지난 정비 이후 변경된 문서 (111)
 
 manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
@@ -24,16 +24,16 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - **철학·사상사** (3): `lacan-anti-oedipus-history`, `philosophical-systems-after-2000`, `contemporary-intellectual-power`
 - **미분류** (2): `ai-mediated-human-change`, `circus-music-history`
 - **소설** (2): `climate-breath-fiction`, `stump-and-dream-fragment`
+- **자연과 과학** (2): `climate-population-villain-logic`, `swimming-bird-flight-biomechanics`
 - **종합** (2): `replay-ladder-human-performance`, `where-novelty-comes-from`
 - **독서 문화** (1): `global-south-critical-reading-guide`
 - **문화** (1): `music-books-supply-attention`
-- **자연과 과학** (1): `climate-population-villain-logic`
 - **질문** (1): `open-questions`
 - **철학** (1): `freud-before-anti-oedipus`
 - **철학·심리** (1): `freud-dreams-modern-science`
 - **AI의 글** (1): `climate-salvation-calculus-essay`
 
-## 2. 들어오는 연결이 없는 문서 (23)
+## 2. 들어오는 연결이 없는 문서 (24)
 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
@@ -60,6 +60,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `birth-order-korean-evidence` 출생순서가 성격을 만드는가: 한국 연구와 국제 비교의 증거
 - `upbit-small-capital-trading-experiment` 10만원으로 자동매매는 수익을 낼 수 있는가: 업비트·라즈베리파이·Codex 검증 설계
 - `climate-salvation-calculus-essay` 구원의 계산은 무엇을 변수로 삼는가 · 미게시
+- `swimming-bird-flight-biomechanics` 물속의 인간과 공중의 새: 스트로크·날갯짓·가속·선회의 비례 생체역학
 
 ## 3. 한쪽에서만 건 관련 문서 (105)
 
@@ -171,7 +172,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `climate-salvation-calculus-essay` → `climate-population-villain-logic`
 - `climate-salvation-calculus-essay` → `ministry-for-the-future-reading`
 
-## 4. 관련 문서가 없는 문서 (17)
+## 4. 관련 문서가 없는 문서 (18)
 
 - `ai-mediated-human-change` undefined
 - `circus-music-history` undefined
@@ -190,6 +191,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `starcraft-pluto-ai` Pluto AI와 인간의 스타크래프트: 자가대전이 만든 다른 메타
 - `birth-order-korean-evidence` 출생순서가 성격을 만드는가: 한국 연구와 국제 비교의 증거
 - `upbit-small-capital-trading-experiment` 10만원으로 자동매매는 수익을 낼 수 있는가: 업비트·라즈베리파이·Codex 검증 설계
+- `swimming-bird-flight-biomechanics` 물속의 인간과 공중의 새: 스트로크·날갯짓·가속·선회의 비례 생체역학
 
 ## 5. 제목·소제목이 비슷한 문서 쌍 (상위 15)
 
@@ -254,5 +256,5 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 
 ## 9. 분류 참고
 
-분류 26개: 음악 37, AI와 사회 28, 사회와 제도 27, 문화와 역사 23, 철학 11, 과학과 기술 9, 기술·지식 아카이브 7, 정치경제 6, 운영 5, 독서 문화 4, 문학 4, 영화 3, 생명과학 3, 철학·사상사 3, 정보와 미디어 3, 게임 3, 미분류 2, 자연과 과학 2, 종합 2, 소설 2, 질문 1, 언어 1, 문화 1, 창작 1, 철학·심리 1, AI의 글 1
+분류 26개: 음악 37, AI와 사회 28, 사회와 제도 27, 문화와 역사 23, 철학 11, 과학과 기술 9, 기술·지식 아카이브 7, 정치경제 6, 운영 5, 독서 문화 4, 문학 4, 영화 3, 자연과 과학 3, 생명과학 3, 철학·사상사 3, 정보와 미디어 3, 게임 3, 미분류 2, 종합 2, 소설 2, 질문 1, 언어 1, 문화 1, 창작 1, 철학·심리 1, AI의 글 1
 문서가 하나뿐인 분류 6개: 질문, 언어, 문화, 창작, 철학·심리, AI의 글. 분류 체계 변경은 제안만 한다.

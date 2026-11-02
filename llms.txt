@@ -202,6 +202,7 @@
 
 - [새소리는 어디까지 번역되었는가: 행동 신호에서 참새의 짹짹까지](https://belorin.github.io/notes/bird-vocalization-sparrow/): 종 인식·발성 유형·행동 신호·인간 언어 번역의 차이를 일본박새·금화조·한국 참새 연구로 검토하고, 참새 아홉 유형과 도시 소음 연구의 검증 경계를 정리한다.
 - [탄소예산과 인구 감축의 오류: 기후 디스토피아의 과학과 윤리](https://belorin.github.io/notes/climate-population-villain-logic/): 인구 감소와 탄소배출의 단순 비례 계산, 1.5도 예산의 불확실성, 학살 정당화의 논리적 비약
+- [물속의 인간과 공중의 새: 스트로크·날갯짓·가속·선회의 비례 생체역학](https://belorin.github.io/notes/swimming-bird-flight-biomechanics/): 인간 자유형과 참새·까치·비둘기 비행을 절대속도, 몸길이 대비 속도, 사이클당 이동거리, 추진 빈도, 출발·감속·선회·활공으로 분해해 비교한다.
 
 ### 문화
 

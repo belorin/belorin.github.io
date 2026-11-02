@@ -478,6 +478,9 @@
 - **[탄소예산과 인구 감축의 오류: 기후 디스토피아의 과학과 윤리](wiki/climate-population-villain-logic.md)** · 별칭:  · 수정: 2026-10-26 · 검토: 대화 기반 집필
   - 인구 감소와 탄소배출의 단순 비례 계산, 1.5도 예산의 불확실성, 학살 정당화의 논리적 비약
   - [문서 페이지](https://belorin.github.io/notes/climate-population-villain-logic/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/climate-population-villain-logic.md)
+- **[물속의 인간과 공중의 새: 스트로크·날갯짓·가속·선회의 비례 생체역학](wiki/swimming-bird-flight-biomechanics.md)** · 별칭: 수영과 새 비행 비교, 인간 수영 새 비행, 스트로크와 날갯짓, 몸길이 대비 속도 · 수정: 2026-11-03 · 검토: 대화 기반 비교 모델 · 대표값·근연종 대용값 외부 재검증 필요
+  - 인간 자유형과 참새·까치·비둘기 비행을 절대속도, 몸길이 대비 속도, 사이클당 이동거리, 추진 빈도, 출발·감속·선회·활공으로 분해해 비교한다.
+  - [문서 페이지](https://belorin.github.io/notes/swimming-bird-flight-biomechanics/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/swimming-bird-flight-biomechanics.md)
 
 ## 문화
 

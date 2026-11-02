@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 186,
+  "document_count": 187,
   "documents": [
     {
       "id": "living-notes",
@@ -6481,6 +6481,40 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/x-auto-translation-serving-cost.md",
       "page_url": "https://belorin.github.io/notes/x-auto-translation-serving-cost/",
       "app_url": "https://belorin.github.io/#x-auto-translation-serving-cost"
+    },
+    {
+      "id": "swimming-bird-flight-biomechanics",
+      "title": "물속의 인간과 공중의 새: 스트로크·날갯짓·가속·선회의 비례 생체역학",
+      "aliases": [
+        "수영과 새 비행 비교",
+        "인간 수영 새 비행",
+        "스트로크와 날갯짓",
+        "몸길이 대비 속도"
+      ],
+      "category": "자연과 과학",
+      "tags": [
+        "수영",
+        "조류 비행",
+        "생체역학",
+        "참새",
+        "까치",
+        "비둘기",
+        "스트로크",
+        "날갯짓",
+        "몸길이 대비 속도"
+      ],
+      "summary": "인간 자유형과 참새·까치·비둘기 비행을 절대속도, 몸길이 대비 속도, 사이클당 이동거리, 추진 빈도, 출발·감속·선회·활공으로 분해해 비교한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 비교 모델 · 대표값·근연종 대용값 외부 재검증 필요",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/swimming-bird-flight-biomechanics.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/swimming-bird-flight-biomechanics.md",
+      "page_url": "https://belorin.github.io/notes/swimming-bird-flight-biomechanics/",
+      "app_url": "https://belorin.github.io/#swimming-bird-flight-biomechanics"
     }
   ]
 }

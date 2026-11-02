@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1209개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1222개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (18)
 
@@ -1200,6 +1200,35 @@
 - 미래부의 결말과 피해의 불가역성 → `ministry-for-the-future-reading` § 8. 결말: 회복은 이미 치른 손실을 없애 주지 않는다 · `ing-20261103-gpi-foreign-novels`
 - 기후 재난소설에서 정책 과정이 서사를 이루는 방식 → `ministry-for-the-future-reading` § 9. 기후소설의 두 관습을 벗어나기 · `ing-20261103-gpi-foreign-novels`
 
+## 자연과 과학 (24)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 종 식별·발성 분류·기능 해석·언어 번역의 네 단계 구분 → `bird-vocalization-sparrow` § 식별과 번역 사이에는 몇 단계가 있는가 · `ing-20261025-bird-vocalization-sparrow`
+- 경고음의 기능적 지시성과 집단 대응의 관찰 한계 → `bird-vocalization-sparrow` § 경고음은 단순한 감정 표현을 넘어서는가 · `ing-20261025-bird-vocalization-sparrow`
+- 일본박새의 제한적인 조합적 의미 → `bird-vocalization-sparrow` § 일본박새의 조합적 신호가 갖는 의미 · `ing-20261025-bird-vocalization-sparrow`
+- 금화조 호출 유형과 사회적 맥락의 분석 → `bird-vocalization-sparrow` § 금화조의 호출 유형과 사회적 맥락 · `ing-20261025-bird-vocalization-sparrow`
+- 한국 참새와 집참새의 구별 및 현장 발성의 종류 → `bird-vocalization-sparrow` § 한국의 참새: 무엇을 듣고 있는가 · `ing-20261025-bird-vocalization-sparrow`
+- 참새 아홉 발성 유형 소개 및 A1~A9 매핑의 검증 유보 → `bird-vocalization-sparrow` § 아홉 가지 울음이라는 분류는 무엇을 뜻하는가 · `ing-20261025-bird-vocalization-sparrow`
+- 광주·나주·담양 도시 소음과 참새 발성 변화의 연구 소개 → `bird-vocalization-sparrow` § 도시의 소음은 참새의 발성을 바꾸는가 · `ing-20261025-bird-vocalization-sparrow`
+- 새소리 AI 분석을 행동 맥락 및 재생 실험으로 검증해야 할 이유 → `bird-vocalization-sparrow` § 현장에서 해석하려면 무엇을 함께 기록해야 하는가 · `ing-20261025-bird-vocalization-sparrow`
+- 전쟁 사망자와 탄소배출 감소의 비례 계산 한계 → `climate-population-villain-logic` § 출발점: 전쟁 사망자와 배출량의 잘못된 등식 · `ing-20261026-climate-dystopia`
+- 1.5도 탄소예산과 인구 감소 시나리오의 전제 → `climate-population-villain-logic` § 1.5°C와 탄소예산 · `ing-20261026-climate-dystopia`
+- 기후위기 악역의 계산주의와 도덕적 비약 → `climate-population-villain-logic` § 계산에서 명령으로 건너뛰는 순간 · `ing-20261026-climate-dystopia`
+- 절대속도·몸길이 대비 속도·사이클당 이동거리의 구분 → `swimming-bird-flight-biomechanics` § 비교를 위한 세 가지 척도 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 작은 새의 몸길이 비례속도와 인간 크기 환산 → `swimming-bird-flight-biomechanics` § 절대속도와 몸길이 속도 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 수영 스트로크와 조류 날갯짓의 사이클 분해 → `swimming-bird-flight-biomechanics` § 자유형의 한 사이클과 새의 한 날갯짓 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 팔 당기기와 하강타의 추진 동작 빈도 비교 → `swimming-bird-flight-biomechanics` § 팔 당기기와 하강타: 추진 동작의 빈도 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 자유형 킥과 조류 상승타의 보조·회수·자세 제어 역할 → `swimming-bird-flight-biomechanics` § 다리차기와 상승타: 추진의 빈틈을 어떻게 메우는가 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 수영 블록 출발과 비둘기 네 번 날갯짓 가속의 대비 → `swimming-bird-flight-biomechanics` § 출발: 벽을 미는 인간과 네 번의 날갯짓을 쓰는 비둘기 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 비둘기 착지 감속과 수영의 항력·벽 턴 대비 → `swimming-bird-flight-biomechanics` § 감속과 착지: 공기 중에서 스스로 벽을 만드는 법 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 날갯짓 빈도를 추진과 자세 제어의 갱신 기회로 보는 비교 → `swimming-bird-flight-biomechanics` § 선회와 제어 빈도 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 수중 글라이드와 조류 활공의 에너지·운동량 구조 차이 → `swimming-bird-flight-biomechanics` § 활공: 운동량을 소모하는 시간과 고도를 쓰는 시간 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 속도와 에너지 비용을 동일시할 수 없다는 한계 → `swimming-bird-flight-biomechanics` § 에너지 비용은 속도만으로 판단할 수 없다 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 몸길이 지표의 소형동물 편향과 까치 꼬리·종별 조건의 한계 → `swimming-bird-flight-biomechanics` § 왜 참새가 가장 극적으로 보이는가 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 한국 참새와 집참새 대용 자료의 구분 → `swimming-bird-flight-biomechanics` § 왜 참새가 가장 극적으로 보이는가 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 긴 저빈도 스트로크와 고빈도 날갯짓이라는 운동 전략의 대비 → `swimming-bird-flight-biomechanics` § 인간 수영과 새 비행을 한 문장으로 비교하면 · `ing-20261103-swimming-bird-flight-biomechanics`
+
 ## 정보와 미디어 (24)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -1248,22 +1277,6 @@
 - 프로바이오틱스 생존·일시적 체류·영구 정착의 분리 → `gut-microbiome-colonization` § 가루 속 수십억 개체는 왜 영구 주민이 아닌가 · `ing-20261025-fruit-gut-horror`
 - 분변미생물 이식과 Vowst의 치료 맥락·정착 위험 → `gut-microbiome-colonization` § 분변미생물 이식: 단일 방문객이 아니라 생태계의 일부를 옮기기 · `ing-20261025-fruit-gut-horror`
 - 인간을 각기 다른 내부 생물권을 품은 행성으로 보는 유비 → `gut-microbiome-colonization` § 사람이 하나의 행성이라는 비유의 유효 범위 · `ing-20261025-fruit-gut-horror`
-
-## 자연과 과학 (11)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 종 식별·발성 분류·기능 해석·언어 번역의 네 단계 구분 → `bird-vocalization-sparrow` § 식별과 번역 사이에는 몇 단계가 있는가 · `ing-20261025-bird-vocalization-sparrow`
-- 경고음의 기능적 지시성과 집단 대응의 관찰 한계 → `bird-vocalization-sparrow` § 경고음은 단순한 감정 표현을 넘어서는가 · `ing-20261025-bird-vocalization-sparrow`
-- 일본박새의 제한적인 조합적 의미 → `bird-vocalization-sparrow` § 일본박새의 조합적 신호가 갖는 의미 · `ing-20261025-bird-vocalization-sparrow`
-- 금화조 호출 유형과 사회적 맥락의 분석 → `bird-vocalization-sparrow` § 금화조의 호출 유형과 사회적 맥락 · `ing-20261025-bird-vocalization-sparrow`
-- 한국 참새와 집참새의 구별 및 현장 발성의 종류 → `bird-vocalization-sparrow` § 한국의 참새: 무엇을 듣고 있는가 · `ing-20261025-bird-vocalization-sparrow`
-- 참새 아홉 발성 유형 소개 및 A1~A9 매핑의 검증 유보 → `bird-vocalization-sparrow` § 아홉 가지 울음이라는 분류는 무엇을 뜻하는가 · `ing-20261025-bird-vocalization-sparrow`
-- 광주·나주·담양 도시 소음과 참새 발성 변화의 연구 소개 → `bird-vocalization-sparrow` § 도시의 소음은 참새의 발성을 바꾸는가 · `ing-20261025-bird-vocalization-sparrow`
-- 새소리 AI 분석을 행동 맥락 및 재생 실험으로 검증해야 할 이유 → `bird-vocalization-sparrow` § 현장에서 해석하려면 무엇을 함께 기록해야 하는가 · `ing-20261025-bird-vocalization-sparrow`
-- 전쟁 사망자와 탄소배출 감소의 비례 계산 한계 → `climate-population-villain-logic` § 출발점: 전쟁 사망자와 배출량의 잘못된 등식 · `ing-20261026-climate-dystopia`
-- 1.5도 탄소예산과 인구 감소 시나리오의 전제 → `climate-population-villain-logic` § 1.5°C와 탄소예산 · `ing-20261026-climate-dystopia`
-- 기후위기 악역의 계산주의와 도덕적 비약 → `climate-population-villain-logic` § 계산에서 명령으로 건너뛰는 순간 · `ing-20261026-climate-dystopia`
 
 ## 질문 (9)
 
