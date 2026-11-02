@@ -248,6 +248,30 @@
       "status": "pending",
       "targets": [],
       "reason": "데모 아키텍처와 실험 계획만 제시됐고 실측 결과나 구현 파일은 현재 접근 범위에 없음"
+    },
+    {
+      "id": "k22",
+      "kind": "argument",
+      "title": "문학 원문 입력과 파이썬 문자열·EOL 오류 가설의 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "local-llm-novel-agent-m1",
+          "section": "단일 실행에서 작품별 이어쓰기까지"
+        }
+      ]
+    },
+    {
+      "id": "k23",
+      "kind": "example",
+      "title": "아웃라인 추출 실패 시 고정 장면으로 대체되는 위험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "local-llm-novel-agent-m1",
+          "section": "단일 실행에서 작품별 이어쓰기까지"
+        }
+      ]
     }
   ]
 }
