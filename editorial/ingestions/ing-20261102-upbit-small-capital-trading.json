@@ -1,0 +1,265 @@
+{
+  "id": "ing-20261102-upbit-small-capital-trading",
+  "processed_on": "2026-11-02",
+  "coverage": "visible-complete",
+  "limit_note": "현재 표시된 대화와 보조 연구 보고서의 설계 정보만 반영. 거래소 가입, 실거래 키, 전략 실행 및 수익·장치 테스트를 직접 확인하지 못함. 원대화 외의 내용은 조사하지 않음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "argument",
+      "title": "소액 자동매매의 기술적 성공과 경제적 성공의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "upbit-small-capital-trading-experiment",
+          "section": "왜 10만원인가: 실험의 장점과 통계적 한계"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "소액 거래 최소액과 왕복 수수료의 비용 구조",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "upbit-small-capital-trading-experiment",
+          "section": "왜 10만원인가: 실험의 장점과 통계적 한계"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "주문 규모와 일일손실·횟수 제한의 실험값",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "upbit-small-capital-trading-experiment",
+          "section": "왜 10만원인가: 실험의 장점과 통계적 한계"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "curation",
+      "title": "업비트·코인원·빗썸과 유료 봇 서비스의 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "upbit-small-capital-trading-experiment",
+          "section": "거래소 가입과 외부 서비스의 선택"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "concept",
+      "title": "거래소 API 키 최소권한과 실험 자본 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "upbit-small-capital-trading-experiment",
+          "section": "거래소 가입과 외부 서비스의 선택"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "curation",
+      "title": "pyupbit CCXT 공개 자동매매 봇과 백테스트 라이브러리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "upbit-small-capital-trading-experiment",
+          "section": "GitHub에 이미 있는 것을 어떻게 활용할까"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "counterargument",
+      "title": "공개된 자동매매 코드와 검증된 수익성의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "upbit-small-capital-trading-experiment",
+          "section": "GitHub에 이미 있는 것을 어떻게 활용할까"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "concept",
+      "title": "Raspberry Pi Python SQLite systemd 자동매매 모듈 구성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "upbit-small-capital-trading-experiment",
+          "section": "Raspberry Pi에서 굴러가는 최소 아키텍처"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "concept",
+      "title": "분봉 호가 신호 주문 체결 포지션 상태 로그 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "upbit-small-capital-trading-experiment",
+          "section": "Raspberry Pi에서 굴러가는 최소 아키텍처"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "argument",
+      "title": "시장가 매수 매도 파라미터와 중복 주문 방지",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "upbit-small-capital-trading-experiment",
+          "section": "Raspberry Pi에서 굴러가는 최소 아키텍처"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "concept",
+      "title": "이동평균 크로스 추세 전략과 횡보장 실패",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "upbit-small-capital-trading-experiment",
+          "section": "이동평균 크로스: 추세가 이어지는가"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "concept",
+      "title": "변동성 돌파와 거짓 돌파 위험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "upbit-small-capital-trading-experiment",
+          "section": "변동성 돌파: 움직임이 계속되는가"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "concept",
+      "title": "거래량 기반 초단타와 슬리피지·부분체결 위험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "upbit-small-capital-trading-experiment",
+          "section": "거래량 기반 단기 매매: 거래가 몰리면 유리한가"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "argument",
+      "title": "백테스트 모의매매 실거래의 검증 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "upbit-small-capital-trading-experiment",
+          "section": "백테스트가 실거래 수익을 증명하지 못하는 이유"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "concept",
+      "title": "수수료 슬리피지 민감도와 walk-forward 검증",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "upbit-small-capital-trading-experiment",
+          "section": "백테스트가 실거래 수익을 증명하지 못하는 이유"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "example",
+      "title": "Codex 12단계 프롬프트와 단계별 통과 기준",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "upbit-small-capital-trading-experiment",
+          "section": "Codex에 일을 나눠 맡기는 12개의 개발 프롬프트"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "argument",
+      "title": "소액 실거래 전환 게이트와 수동 중단 조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "upbit-small-capital-trading-experiment",
+          "section": "언제 5천원짜리 실제 거래로 넘어가는가"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "argument",
+      "title": "운영상 정지와 보유 자산의 청산 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "upbit-small-capital-trading-experiment",
+          "section": "언제 5천원짜리 실제 거래로 넘어가는가"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "argument",
+      "title": "전략 수익과 시장 기준선 대비 상대 성과의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "upbit-small-capital-trading-experiment",
+          "section": "수익 판단: 한 번의 흑자보다 반증 가능한 증거"
+        }
+      ]
+    },
+    {
+      "id": "k20",
+      "kind": "argument",
+      "title": "실패한 전략과 운영 장애를 구분하는 검증 기록",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "upbit-small-capital-trading-experiment",
+          "section": "중단해야 할 신호와 남겨야 할 증거"
+        }
+      ]
+    },
+    {
+      "id": "k21",
+      "kind": "question",
+      "title": "모의 거래와 실거래의 실제 성과 및 복구 안정성 검증",
+      "status": "pending",
+      "targets": [],
+      "reason": "설계·프롬프트만 확인되었고 실제 실행 로그, 체결 및 장기 수익 검증 자료는 접근 가능한 내용에 없음"
+    },
+    {
+      "id": "k22",
+      "kind": "question",
+      "title": "시점별 거래소 수수료·API 정책·계좌 요건 재확인",
+      "status": "pending",
+      "targets": [],
+      "reason": "이 편집은 외부 신규 조사를 금지하는 프로토콜에 따라 대화에서 인용된 당시 수치만 보존했으며 운영 당일의 조건은 확인하지 않음"
+    }
+  ]
+}
