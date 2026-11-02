@@ -3,9 +3,9 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1039개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1061개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
-## 보류 항목 (11)
+## 보류 항목 (13)
 
 - 경제 시뮬레이션의 기존 전제·수치·학파별 논증 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 해당 원자료를 확인하지 못해 기존 논증의 복원과 완전 보존 여부를 판정할 수 없음. 새 공개 자료의 보충 분석으로 대체 완료 처리하지 않음.
 - 기존 종합·수정 원고의 상세 내용 대조 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 본문이 아닌 참조 표시만 확인되어 기존 원고의 세부와 현재 증보 사이의 중복·차이를 검수할 수 없음.
@@ -18,6 +18,8 @@
 - 생성 번역본의 판형·PDF 출력과 배포 권리 검토 → 반영 위치 없음 · `ing-20261030-book-translation-pipeline` · pending — PDF 조판과 판본별 권리의 구체적 결론은 이 작업 범위에서 확인되지 않음
 - 키워드별 이어쓰기 변경판의 전체 회차 검증 → 반영 위치 없음 · `ing-20261102-local-novel-edge-portfolio` · pending — 일부 시작 로그는 확인됐으나 변경판의 재실행 및 다음 회차 완주를 확인하지 못함
 - 영상 이벤트 데모 실제 구현과 정량 성능 검증 → 반영 위치 없음 · `ing-20261102-local-novel-edge-portfolio` · pending — 데모 아키텍처와 실험 계획만 제시됐고 실측 결과나 구현 파일은 현재 접근 범위에 없음
+- 모의 거래와 실거래의 실제 성과 및 복구 안정성 검증 → 반영 위치 없음 · `ing-20261102-upbit-small-capital-trading` · pending — 설계·프롬프트만 확인되었고 실제 실행 로그, 체결 및 장기 수익 검증 자료는 접근 가능한 내용에 없음
+- 시점별 거래소 수수료·API 정책·계좌 요건 재확인 → 반영 위치 없음 · `ing-20261102-upbit-small-capital-trading` · pending — 이 편집은 외부 신규 조사를 금지하는 프로토콜에 따라 대화에서 인용된 당시 수치만 보존했으며 운영 당일의 조건은 확인하지 않음
 
 ## AI와 사회 (206)
 
@@ -663,7 +665,7 @@
 - 반복 산불에 따른 위험 기반 통제사회 시나리오 → `wildfire-liability-insurance-risk-society` § 위험 기반 통제사회라는 SF적 가설 · `ing-20261102-wildfire-powerlines-liability`
 - 사회적 재난 비용과 개인 배상 불능의 긴장 → `wildfire-liability-insurance-risk-society` § 작은 행위와 감당 불가능한 청구서 · `ing-20261102-wildfire-powerlines-liability`
 
-## 기술·지식 아카이브 (58)
+## 기술·지식 아카이브 (78)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -725,6 +727,26 @@
 - MLX Qwen3 4B를 이용한 두 회차 단계별 실행 로그 → `local-llm-novel-agent-m1` § 검증된 완주와 아직 시험되지 않은 자동화 · `ing-20261102-local-novel-edge-portfolio`
 - 문학 원문 입력과 파이썬 문자열·EOL 오류 가설의 분리 → `local-llm-novel-agent-m1` § 단일 실행에서 작품별 이어쓰기까지 · `ing-20261102-local-novel-edge-portfolio`
 - 아웃라인 추출 실패 시 고정 장면으로 대체되는 위험 → `local-llm-novel-agent-m1` § 단일 실행에서 작품별 이어쓰기까지 · `ing-20261102-local-novel-edge-portfolio`
+- 소액 자동매매의 기술적 성공과 경제적 성공의 구별 → `upbit-small-capital-trading-experiment` § 왜 10만원인가: 실험의 장점과 통계적 한계 · `ing-20261102-upbit-small-capital-trading`
+- 소액 거래 최소액과 왕복 수수료의 비용 구조 → `upbit-small-capital-trading-experiment` § 왜 10만원인가: 실험의 장점과 통계적 한계 · `ing-20261102-upbit-small-capital-trading`
+- 주문 규모와 일일손실·횟수 제한의 실험값 → `upbit-small-capital-trading-experiment` § 왜 10만원인가: 실험의 장점과 통계적 한계 · `ing-20261102-upbit-small-capital-trading`
+- 업비트·코인원·빗썸과 유료 봇 서비스의 비교 → `upbit-small-capital-trading-experiment` § 거래소 가입과 외부 서비스의 선택 · `ing-20261102-upbit-small-capital-trading`
+- 거래소 API 키 최소권한과 실험 자본 분리 → `upbit-small-capital-trading-experiment` § 거래소 가입과 외부 서비스의 선택 · `ing-20261102-upbit-small-capital-trading`
+- pyupbit CCXT 공개 자동매매 봇과 백테스트 라이브러리 → `upbit-small-capital-trading-experiment` § GitHub에 이미 있는 것을 어떻게 활용할까 · `ing-20261102-upbit-small-capital-trading`
+- 공개된 자동매매 코드와 검증된 수익성의 차이 → `upbit-small-capital-trading-experiment` § GitHub에 이미 있는 것을 어떻게 활용할까 · `ing-20261102-upbit-small-capital-trading`
+- Raspberry Pi Python SQLite systemd 자동매매 모듈 구성 → `upbit-small-capital-trading-experiment` § Raspberry Pi에서 굴러가는 최소 아키텍처 · `ing-20261102-upbit-small-capital-trading`
+- 분봉 호가 신호 주문 체결 포지션 상태 로그 분리 → `upbit-small-capital-trading-experiment` § Raspberry Pi에서 굴러가는 최소 아키텍처 · `ing-20261102-upbit-small-capital-trading`
+- 시장가 매수 매도 파라미터와 중복 주문 방지 → `upbit-small-capital-trading-experiment` § Raspberry Pi에서 굴러가는 최소 아키텍처 · `ing-20261102-upbit-small-capital-trading`
+- 이동평균 크로스 추세 전략과 횡보장 실패 → `upbit-small-capital-trading-experiment` § 이동평균 크로스: 추세가 이어지는가 · `ing-20261102-upbit-small-capital-trading`
+- 변동성 돌파와 거짓 돌파 위험 → `upbit-small-capital-trading-experiment` § 변동성 돌파: 움직임이 계속되는가 · `ing-20261102-upbit-small-capital-trading`
+- 거래량 기반 초단타와 슬리피지·부분체결 위험 → `upbit-small-capital-trading-experiment` § 거래량 기반 단기 매매: 거래가 몰리면 유리한가 · `ing-20261102-upbit-small-capital-trading`
+- 백테스트 모의매매 실거래의 검증 차이 → `upbit-small-capital-trading-experiment` § 백테스트가 실거래 수익을 증명하지 못하는 이유 · `ing-20261102-upbit-small-capital-trading`
+- 수수료 슬리피지 민감도와 walk-forward 검증 → `upbit-small-capital-trading-experiment` § 백테스트가 실거래 수익을 증명하지 못하는 이유 · `ing-20261102-upbit-small-capital-trading`
+- Codex 12단계 프롬프트와 단계별 통과 기준 → `upbit-small-capital-trading-experiment` § Codex에 일을 나눠 맡기는 12개의 개발 프롬프트 · `ing-20261102-upbit-small-capital-trading`
+- 소액 실거래 전환 게이트와 수동 중단 조건 → `upbit-small-capital-trading-experiment` § 언제 5천원짜리 실제 거래로 넘어가는가 · `ing-20261102-upbit-small-capital-trading`
+- 운영상 정지와 보유 자산의 청산 구별 → `upbit-small-capital-trading-experiment` § 언제 5천원짜리 실제 거래로 넘어가는가 · `ing-20261102-upbit-small-capital-trading`
+- 전략 수익과 시장 기준선 대비 상대 성과의 구별 → `upbit-small-capital-trading-experiment` § 수익 판단: 한 번의 흑자보다 반증 가능한 증거 · `ing-20261102-upbit-small-capital-trading`
+- 실패한 전략과 운영 장애를 구분하는 검증 기록 → `upbit-small-capital-trading-experiment` § 중단해야 할 신호와 남겨야 할 증거 · `ing-20261102-upbit-small-capital-trading`
 
 ## 운영 (58)
 

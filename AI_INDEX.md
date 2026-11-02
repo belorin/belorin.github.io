@@ -496,6 +496,9 @@
 - **[출근 전에 켜두는 로컬 소설 제작기: M1 16GB의 Ollama·MLX와 이어쓰기의 조건](wiki/local-llm-novel-agent-m1.md)** · 별칭: 로컬 소설 에이전트, 소설 자동생성 파이프라인, M1 로컬 LLM 에이전시, Ollama MLX 소설 자동화 · 수정: 2026-11-02 · 검토: 실행 로그로 확인된 기본 2화 완주·후속 키워드별 이어쓰기 기능은 완주 검증 필요
   - M1 16GB의 Ollama와 MLX를 오가며 기획·초안·비평·수정·요약을 파일로 분리한 소설 자동화 실험, 실제 오류와 가상환경 문제, 작품별 외부 기억과 재개 설계의 한계를 다룬다.
   - [문서 페이지](https://belorin.github.io/notes/local-llm-novel-agent-m1/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/local-llm-novel-agent-m1.md)
+- **[10만원으로 자동매매는 수익을 낼 수 있는가: 업비트·라즈베리파이·Codex 검증 설계](wiki/upbit-small-capital-trading-experiment.md)** · 별칭: 코인 자동매매 실험, 업비트 소액 봇, 라즈베리파이 코인 매매, 소액 알고리즘 트레이딩 · 수정: 2026-11-02 · 검토: 시스템·전략 검증 설계 단계·모의매매 및 실거래 성과 미확인
+  - 약 10만원을 상한으로 업비트 자동매매의 수익 가능성을 검증하는 Raspberry Pi·Python 실험 설계. 거래소·공개 라이브러리 선택, 비용 모델과 세 전략, 백테스트·모의매매·실거래 전환, 12단계 Codex 개발 지시와 안전·복구 절차.
+  - [문서 페이지](https://belorin.github.io/notes/upbit-small-capital-trading-experiment/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/upbit-small-capital-trading-experiment.md)
 
 ## 생명과학
 

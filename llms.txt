@@ -213,6 +213,7 @@
 - [코펜하겐에서 나가사키까지: 대북부전신회사는 동아시아의 바다에 어떻게 전선을 놓았는가](https://belorin.github.io/notes/great-northern-telegraph-east-asia/): 덴마크 대북부전신회사의 러시아 양허·영국 협상·일본 육양 허가·부설선·케이블 기술과 1871~1872년 개통, 1883년 부산선의 사업사를 다룬다.
 - [오래된 영어책 한 권을 끝까지 번역하려면: 텍스트 추출, 로컬 모델, 재개와 대조 뷰어](https://belorin.github.io/notes/book-translation-pipeline-local-llm/): Internet Archive 고서 TXT를 OCR 없이 처리하고 Ollama·Qwen3로 문단별 번역·체크포인트·HTML 대조본을 만드는 과정, SEG 태그 정렬, M1 16GB 속도·잠자기 문제, Google Cloud 번역 전환의 미검증 경계를 기록한다.
 - [출근 전에 켜두는 로컬 소설 제작기: M1 16GB의 Ollama·MLX와 이어쓰기의 조건](https://belorin.github.io/notes/local-llm-novel-agent-m1/): M1 16GB의 Ollama와 MLX를 오가며 기획·초안·비평·수정·요약을 파일로 분리한 소설 자동화 실험, 실제 오류와 가상환경 문제, 작품별 외부 기억과 재개 설계의 한계를 다룬다.
+- [10만원으로 자동매매는 수익을 낼 수 있는가: 업비트·라즈베리파이·Codex 검증 설계](https://belorin.github.io/notes/upbit-small-capital-trading-experiment/): 약 10만원을 상한으로 업비트 자동매매의 수익 가능성을 검증하는 Raspberry Pi·Python 실험 설계. 거래소·공개 라이브러리 선택, 비용 모델과 세 전략, 백테스트·모의매매·실거래 전환, 12단계 Codex 개발 지시와 안전·복구 절차.
 
 ### 생명과학
 

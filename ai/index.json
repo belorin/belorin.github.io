@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 170,
+  "document_count": 171,
   "documents": [
     {
       "id": "living-notes",
@@ -5872,6 +5872,43 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/stump-and-dream-fragment.md",
       "page_url": "https://belorin.github.io/notes/stump-and-dream-fragment/",
       "app_url": "https://belorin.github.io/#stump-and-dream-fragment"
+    },
+    {
+      "id": "upbit-small-capital-trading-experiment",
+      "title": "10만원으로 자동매매는 수익을 낼 수 있는가: 업비트·라즈베리파이·Codex 검증 설계",
+      "aliases": [
+        "코인 자동매매 실험",
+        "업비트 소액 봇",
+        "라즈베리파이 코인 매매",
+        "소액 알고리즘 트레이딩"
+      ],
+      "category": "기술·지식 아카이브",
+      "tags": [
+        "업비트",
+        "가상자산",
+        "자동매매",
+        "알고리즘 트레이딩",
+        "Raspberry Pi",
+        "Codex",
+        "Python",
+        "pyupbit",
+        "백테스트",
+        "모의매매",
+        "SQLite",
+        "실험 설계"
+      ],
+      "summary": "약 10만원을 상한으로 업비트 자동매매의 수익 가능성을 검증하는 Raspberry Pi·Python 실험 설계. 거래소·공개 라이브러리 선택, 비용 모델과 세 전략, 백테스트·모의매매·실거래 전환, 12단계 Codex 개발 지시와 안전·복구 절차.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "시스템·전략 검증 설계 단계·모의매매 및 실거래 성과 미확인",
+      "last_updated_on": "2026-11-02",
+      "last_enriched_on": "2026-11-02",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/upbit-small-capital-trading-experiment.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/upbit-small-capital-trading-experiment.md",
+      "page_url": "https://belorin.github.io/notes/upbit-small-capital-trading-experiment/",
+      "app_url": "https://belorin.github.io/#upbit-small-capital-trading-experiment"
     }
   ]
 }

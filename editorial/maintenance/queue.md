@@ -4,9 +4,9 @@
 
 마지막 정비: **M001** (2026-10-26) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
 
-원고 173개 · 변경 문서 93 · 고립 21 · 한쪽 연결 103 · 보류 11 · 열린 교차 제안 7
+원고 174개 · 변경 문서 94 · 고립 22 · 한쪽 연결 103 · 보류 13 · 열린 교차 제안 7
 
-## 1. 지난 정비 이후 변경된 문서 (93)
+## 1. 지난 정비 이후 변경된 문서 (94)
 
 manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
@@ -15,7 +15,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - **AI와 사회** (15): `ai-human-control-guide`, `ai-economic-transition`, `ai-capital-labor-distribution`, `ai-compute-scaling-inference`, `japan-physical-ai-skill-transfer`, `ai-transition-policy-gap`, `starcraft-pluto-ai`, `ai-hidden-labor-feeding-machine-2026`, `ai-cloud-ownership-rent`, `ai-adoption-ceiling-floor`, `owner-aligned-automated-power`, `ai-transition-monetary-order`, `data-center-world-capacity`, `korea-data-center-local-economy`, `physical-cloud-reading-guide`
 - **문화와 역사** (10): `war-escalation-local-to-world`, `world-crisis-historical-analogies`, `jewish-messianic-claimants-kabbalah`, `luddite-movement-history`, `luddite-executions-memory`, `late-qing-yongying-daily-life`, `qing-tributaries-dissolution`, `ryukyu-disposition-qing-japan`, `roman-industry-gold-standard-history`, `great-depression-lived-experience-literature`
 - **과학과 기술** (6): `space-data-center-thermal-economics`, `space-assets-law-debris-kessler`, `physical-ai-world-model-quantum-optimization`, `manufacturing-optimization-solo-business`, `mountain-powerline-undergrounding-economics`, `edge-vision-event-monitor-portfolio`
-- **기술·지식 아카이브** (4): `east-asia-telegraph-network-1880s`, `great-northern-telegraph-east-asia`, `book-translation-pipeline-local-llm`, `local-llm-novel-agent-m1`
+- **기술·지식 아카이브** (5): `east-asia-telegraph-network-1880s`, `great-northern-telegraph-east-asia`, `book-translation-pipeline-local-llm`, `local-llm-novel-agent-m1`, `upbit-small-capital-trading-experiment`
 - **운영** (4): `editing-principles`, `wiki-building-history`, `wiki-operations-pipeline`, `gpt-wiki-zero-prototype`
 - **게임** (3): `china-anime-game-industry`, `anime-urban-live-service-nte-tof`, `ps5-storage-anime-live-games`
 - **철학·사상사** (3): `lacan-anti-oedipus-history`, `philosophical-systems-after-2000`, `contemporary-intellectual-power`
@@ -30,7 +30,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - **철학** (1): `freud-before-anti-oedipus`
 - **철학·심리** (1): `freud-dreams-modern-science`
 
-## 2. 들어오는 연결이 없는 문서 (21)
+## 2. 들어오는 연결이 없는 문서 (22)
 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
@@ -55,6 +55,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `hormuz-sea-denial-reopening` 호르무즈의 군사적 개방: 기뢰와 미사일을 넘어 상선을 다시 움직이려면
 - `iran-war-us-force-losses-2026` 2026년 이란전의 미군 증원과 항공기 손실: 무엇이 확인되고 무엇이 남았는가
 - `birth-order-korean-evidence` 출생순서가 성격을 만드는가: 한국 연구와 국제 비교의 증거
+- `upbit-small-capital-trading-experiment` 10만원으로 자동매매는 수익을 낼 수 있는가: 업비트·라즈베리파이·Codex 검증 설계
 
 ## 3. 한쪽에서만 건 관련 문서 (103)
 
@@ -164,7 +165,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `owner-aligned-automated-power` → `gradual-disempowerment`
 - `owner-aligned-automated-power` → `ai-democracy-narrow-corridor`
 
-## 4. 관련 문서가 없는 문서 (16)
+## 4. 관련 문서가 없는 문서 (17)
 
 - `ai-mediated-human-change` undefined
 - `circus-music-history` undefined
@@ -182,6 +183,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `jewish-messianic-claimants-kabbalah` 유대교의 수많은 메시아들: 중세의 구원 운동에서 카발라와 샤브타이 츠비까지
 - `starcraft-pluto-ai` Pluto AI와 인간의 스타크래프트: 자가대전이 만든 다른 메타
 - `birth-order-korean-evidence` 출생순서가 성격을 만드는가: 한국 연구와 국제 비교의 증거
+- `upbit-small-capital-trading-experiment` 10만원으로 자동매매는 수익을 낼 수 있는가: 업비트·라즈베리파이·Codex 검증 설계
 
 ## 5. 제목·소제목이 비슷한 문서 쌍 (상위 15)
 
@@ -203,7 +205,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `war-escalation-local-to-world` ↔ `global-flashpoints-likelihood-2026` · 0.12 · 연결됨
 - `brass-band` ↔ `jazz-history-plural` · 0.12 · 연결됨
 
-## 6. 보류 항목 (11)
+## 6. 보류 항목 (13)
 
 - 경제 시뮬레이션의 기존 전제·수치·학파별 논증 · `ing-20261023-ai-economic-transition` — 해당 원자료를 확인하지 못해 기존 논증의 복원과 완전 보존 여부를 판정할 수 없음. 새 공개 자료의 보충 분석으로 대체 완료 처리하지 않음.
 - 기존 종합·수정 원고의 상세 내용 대조 · `ing-20261023-ai-economic-transition` — 본문이 아닌 참조 표시만 확인되어 기존 원고의 세부와 현재 증보 사이의 중복·차이를 검수할 수 없음.
@@ -216,6 +218,8 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - 생성 번역본의 판형·PDF 출력과 배포 권리 검토 · `ing-20261030-book-translation-pipeline` — PDF 조판과 판본별 권리의 구체적 결론은 이 작업 범위에서 확인되지 않음
 - 키워드별 이어쓰기 변경판의 전체 회차 검증 · `ing-20261102-local-novel-edge-portfolio` — 일부 시작 로그는 확인됐으나 변경판의 재실행 및 다음 회차 완주를 확인하지 못함
 - 영상 이벤트 데모 실제 구현과 정량 성능 검증 · `ing-20261102-local-novel-edge-portfolio` — 데모 아키텍처와 실험 계획만 제시됐고 실측 결과나 구현 파일은 현재 접근 범위에 없음
+- 모의 거래와 실거래의 실제 성과 및 복구 안정성 검증 · `ing-20261102-upbit-small-capital-trading` — 설계·프롬프트만 확인되었고 실제 실행 로그, 체결 및 장기 수익 검증 자료는 접근 가능한 내용에 없음
+- 시점별 거래소 수수료·API 정책·계좌 요건 재확인 · `ing-20261102-upbit-small-capital-trading` — 이 편집은 외부 신규 조사를 금지하는 프로토콜에 따라 대화에서 인용된 당시 수치만 보존했으며 운영 당일의 조건은 확인하지 않음
 
 ## 7. 열린 교차 편집 제안 (7)
 
@@ -233,10 +237,10 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
-- 긴 문서 (17): `wiki-building-history` 15,142자, `ai-capital-labor-distribution` 13,156자, `great-depression-lived-experience-literature` 12,392자, `wiki-operations-pipeline` 12,147자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `living-orchestral-listening-journey` 10,782자, `book-translation-pipeline-local-llm` 10,701자, `korea-dance-musical-tours` 10,337자, `starcraft-pluto-ai` 10,311자, `wto-digital-transmission-moratorium` 10,289자, `ai-economic-transition` 10,205자, `great-northern-telegraph-east-asia` 10,147자, `where-novelty-comes-from` 10,125자, `stalking-harm-and-autonomy` 10,033자
+- 긴 문서 (18): `wiki-building-history` 15,142자, `upbit-small-capital-trading-experiment` 14,973자, `ai-capital-labor-distribution` 13,156자, `great-depression-lived-experience-literature` 12,392자, `wiki-operations-pipeline` 12,147자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `living-orchestral-listening-journey` 10,782자, `book-translation-pipeline-local-llm` 10,701자, `korea-dance-musical-tours` 10,337자, `starcraft-pluto-ai` 10,311자, `wto-digital-transmission-moratorium` 10,289자, `ai-economic-transition` 10,205자, `great-northern-telegraph-east-asia` 10,147자, `where-novelty-comes-from` 10,125자, `stalking-harm-and-autonomy` 10,033자
 - 짧은 문서 (2): `stump-and-dream-fragment` 861자, `deleuze-cartography-future` 1,291자
 
 ## 9. 분류 참고
 
-분류 25개: 음악 37, AI와 사회 27, 사회와 제도 25, 문화와 역사 22, 철학 11, 기술·지식 아카이브 6, 과학과 기술 6, 운영 5, 정치경제 4, 독서 문화 3, 영화 3, 생명과학 3, 철학·사상사 3, 게임 3, 미분류 2, 자연과 과학 2, 종합 2, 소설 2, 질문 1, 언어 1, 문학 1, 문화 1, 창작 1, 철학·심리 1, 정보와 미디어 1
+분류 25개: 음악 37, AI와 사회 27, 사회와 제도 25, 문화와 역사 22, 철학 11, 기술·지식 아카이브 7, 과학과 기술 6, 운영 5, 정치경제 4, 독서 문화 3, 영화 3, 생명과학 3, 철학·사상사 3, 게임 3, 미분류 2, 자연과 과학 2, 종합 2, 소설 2, 질문 1, 언어 1, 문학 1, 문화 1, 창작 1, 철학·심리 1, 정보와 미디어 1
 문서가 하나뿐인 분류 7개: 질문, 언어, 문학, 문화, 창작, 철학·심리, 정보와 미디어. 분류 체계 변경은 제안만 한다.
