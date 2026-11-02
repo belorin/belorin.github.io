@@ -1,0 +1,165 @@
+{
+  "id": "ing-20261103-swimming-bird-flight-biomechanics",
+  "processed_on": "2026-11-03",
+  "coverage": "visible-complete",
+  "limit_note": "현재 보이는 대화의 비교와 수치를 총합했다. 새 자료를 외부에서 조사하지 않았으며, 대화에서 제시된 대표값·근연종 대용값은 재검증이 필요하다.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "절대속도·몸길이 대비 속도·사이클당 이동거리의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "swimming-bird-flight-biomechanics",
+          "section": "비교를 위한 세 가지 척도"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "작은 새의 몸길이 비례속도와 인간 크기 환산",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "swimming-bird-flight-biomechanics",
+          "section": "절대속도와 몸길이 속도"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "수영 스트로크와 조류 날갯짓의 사이클 분해",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "swimming-bird-flight-biomechanics",
+          "section": "자유형의 한 사이클과 새의 한 날갯짓"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "fact",
+      "title": "팔 당기기와 하강타의 추진 동작 빈도 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "swimming-bird-flight-biomechanics",
+          "section": "팔 당기기와 하강타: 추진 동작의 빈도"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "concept",
+      "title": "자유형 킥과 조류 상승타의 보조·회수·자세 제어 역할",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "swimming-bird-flight-biomechanics",
+          "section": "다리차기와 상승타: 추진의 빈틈을 어떻게 메우는가"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "example",
+      "title": "수영 블록 출발과 비둘기 네 번 날갯짓 가속의 대비",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "swimming-bird-flight-biomechanics",
+          "section": "출발: 벽을 미는 인간과 네 번의 날갯짓을 쓰는 비둘기"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "example",
+      "title": "비둘기 착지 감속과 수영의 항력·벽 턴 대비",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "swimming-bird-flight-biomechanics",
+          "section": "감속과 착지: 공기 중에서 스스로 벽을 만드는 법"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "argument",
+      "title": "날갯짓 빈도를 추진과 자세 제어의 갱신 기회로 보는 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "swimming-bird-flight-biomechanics",
+          "section": "선회와 제어 빈도"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "concept",
+      "title": "수중 글라이드와 조류 활공의 에너지·운동량 구조 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "swimming-bird-flight-biomechanics",
+          "section": "활공: 운동량을 소모하는 시간과 고도를 쓰는 시간"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "counterargument",
+      "title": "속도와 에너지 비용을 동일시할 수 없다는 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "swimming-bird-flight-biomechanics",
+          "section": "에너지 비용은 속도만으로 판단할 수 없다"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "counterargument",
+      "title": "몸길이 지표의 소형동물 편향과 까치 꼬리·종별 조건의 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "swimming-bird-flight-biomechanics",
+          "section": "왜 참새가 가장 극적으로 보이는가"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "fact",
+      "title": "한국 참새와 집참새 대용 자료의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "swimming-bird-flight-biomechanics",
+          "section": "왜 참새가 가장 극적으로 보이는가"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "argument",
+      "title": "긴 저빈도 스트로크와 고빈도 날갯짓이라는 운동 전략의 대비",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "swimming-bird-flight-biomechanics",
+          "section": "인간 수영과 새 비행을 한 문장으로 비교하면"
+        }
+      ]
+    }
+  ]
+}
