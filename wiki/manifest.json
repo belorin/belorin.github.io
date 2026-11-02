@@ -2679,7 +2679,7 @@
       "title": "AI는 계산이 많아지면 무엇이 달라지는가: 데이터센터와 추론 스케일링",
       "category": "AI와 사회",
       "status": "대화 내 확인 자료 총합 · 데이터센터 규모·기업 계획·추론 연구 세부 외부 재검증 필요",
-      "updated": "2026-10-30",
+      "updated": "2026-11-03",
       "summary": "AI 데이터센터 증설을 단순한 더 큰 사전학습이 아니라 test-time compute, 병렬 탐색·검증, 과학·코딩·피지컬 AI 계산의 확대로 읽고 계산량의 한계를 함께 정리한다.",
       "tags": [
         "AI 데이터센터",
@@ -2696,7 +2696,8 @@
         "ai-cloud-ownership-rent",
         "ai-hidden-labor-feeding-machine-2026",
         "data-center-world-capacity",
-        "owner-aligned-automated-power"
+        "owner-aligned-automated-power",
+        "x-auto-translation-serving-cost"
       ],
       "aliases": [
         "AI 데이터센터와 추론",
@@ -2705,7 +2706,7 @@
         "AI 계산 스케일링"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-30"
+      "last_enriched_on": "2026-11-03"
     },
     {
       "id": "japan-physical-ai-skill-transfer",
@@ -5151,7 +5152,7 @@
       "title": "세계 데이터센터의 연산 지리: GW·냉각·감가상각·투자 파이프라인",
       "category": "AI와 사회",
       "status": "대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요",
-      "updated": "2026-10-30",
+      "updated": "2026-11-03",
       "summary": "2025~2030년 지역별 GW·건설 파이프라인, 공실률의 모수, 공랭·액랭의 시설별 보급, 물리적 수명과 미국·중국·걸프·APAC 기업 생태계를 구분한다.",
       "tags": [
         "데이터센터",
@@ -5170,7 +5171,8 @@
         "physical-cloud-reading-guide",
         "owner-aligned-automated-power",
         "space-data-center-thermal-economics",
-        "world-electricity-capacity-generation-consumption"
+        "world-electricity-capacity-generation-consumption",
+        "x-auto-translation-serving-cost"
       ],
       "aliases": [
         "세계 데이터센터 GW",
@@ -5179,7 +5181,7 @@
         "데이터센터 감가상각"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-30"
+      "last_enriched_on": "2026-11-03"
     },
     {
       "id": "korea-data-center-local-economy",
@@ -6156,6 +6158,39 @@
       "status": "인물 경력과 전문직 주장의 구분 / SRA 발언의 독립 형사입증 미확인",
       "updated": "2026-11-03",
       "source": "내부 총합·대화에 이미 포함된 자료만 사용·외부 신규 조사 없음",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-03"
+    },
+    {
+      "id": "x-auto-translation-serving-cost",
+      "path": "wiki/x-auto-translation-serving-cost.md",
+      "publish": true,
+      "order": 187,
+      "title": "X의 전체 자동번역은 얼마나 많은 계산을 요구하는가: 읽기 시점·캐시·GPU 비용",
+      "category": "과학과 기술",
+      "status": "X 제품 발표 및 기존 문헌에 기반한 아키텍처 가설·정량 예시 / 실제 운영 수치 미확인",
+      "updated": "2026-11-03",
+      "summary": "X 자동번역을 사례로 게시 시점 선번역과 노출 시점 생성, 언어별 캐시, 번역본 수·토큰량·GPU 필요량과 기존 호스팅 비용의 분모를 구별한다.",
+      "tags": [
+        "X",
+        "트위터",
+        "Grok",
+        "자동번역",
+        "대규모 서빙",
+        "캐시",
+        "추론 비용",
+        "GPU"
+      ],
+      "source": "내부 총합·외부 신규 조사 없음·가정 계산과 실제 운영 수치 구분",
+      "related": [
+        "ai-compute-scaling-inference",
+        "data-center-world-capacity"
+      ],
+      "aliases": [
+        "X 자동번역 비용",
+        "트위터 전체 자동번역",
+        "Grok 대규모 번역 서빙"
+      ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-11-03"
     }
