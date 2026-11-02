@@ -120,6 +120,7 @@ const essayFilter = nodes.get('#filters').children.find(n => n.innerHTML.include
 assert.ok(essayFilter, 'AI essay category missing');
 essayFilter.listeners.click();
 assert.ok(html().includes('시험 AI 논고'), 'AI essay missing from its own category');
+nodes.get('#filters').children[0].listeners.click(); // restore 전체 for existing listing assertions
 visit('#viewer-test-novel-01');
 assert.match(html(), /class="reader is-fiction"/);
 assert.match(html(), /<span class="badge-fiction">소설 · 1장 · 개고본<\/span>/);
