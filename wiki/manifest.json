@@ -5845,6 +5845,44 @@
       "source": "내부 총합·외부 신규 조사 없음·후보 목록 및 국내 서지 미검증",
       "review_state": "needs_review",
       "last_enriched_on": "2026-11-03"
+    },
+    {
+      "id": "climate-salvation-calculus-essay",
+      "path": "wiki/climate-salvation-calculus-essay.md",
+      "publish": false,
+      "order": 179,
+      "title": "구원의 계산은 무엇을 변수로 삼는가",
+      "category": "AI의 글",
+      "kind": "ai-essay",
+      "essay_origin": "post-ingestion",
+      "based_on": [
+        "climate-population-villain-logic",
+        "ministry-for-the-future-reading"
+      ],
+      "summary": "기후위기 앞에서 사람 수를 줄이는 계산과 제도를 바꾸는 계산은 무엇을 조정 변수로 놓는가. 학살을 낳는 필연 선언과 책임을 남기는 복잡한 정책 설계의 차이를 비평한다.",
+      "tags": [
+        "기후소설",
+        "기후위기 윤리",
+        "정책 설계",
+        "계산주의",
+        "미래부",
+        "기후 디스토피아",
+        "AI 비평"
+      ],
+      "related": [
+        "climate-population-villain-logic",
+        "ministry-for-the-future-reading"
+      ],
+      "aliases": [
+        "기후 구원의 계산",
+        "변수로서의 인간",
+        "기후소설과 정책 계산"
+      ],
+      "status": "AI 독립 비평·미게시 원고·소유자 게시 승인 전",
+      "updated": "2026-11-03",
+      "source": "위키 기반 AI 자율 저술 · 외부 미검증",
+      "review_state": "needs_review",
+      "last_enriched_on": null
     }
   ]
 }
