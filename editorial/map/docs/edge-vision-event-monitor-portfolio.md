@@ -26,4 +26,18 @@
 
 ## 장부에 기록된 반영 지식
 
-- 없음 (장부 도입 이전 원고이거나 아직 기록이 없다. 기록이 없다는 것은 내용이 없다는 뜻이 아니다.)
+- **가장 작은 데모의 목표: 사람 탐지에서 사건 기록까지**
+  - 엣지 영상 감지 포트폴리오의 입력·추론·규칙·기록 분업 · `ing-20261102-local-novel-edge-portfolio`
+  - 이상행동 인식과 ROI 규칙 이벤트 판정의 차이 · `ing-20261102-local-novel-edge-portfolio`
+- **하나의 화면에 드러나야 할 것**
+  - 영상 이벤트 데모 화면과 FPS 지표의 정의 · `ing-20261102-local-novel-edge-portfolio`
+- **추천한 구현 경로와 각 도구의 역할**
+  - Python OpenCV YOLO ONNX 웹 서비스 및 저장 계층 선택 · `ing-20261102-local-novel-edge-portfolio`
+- **온디바이스·엣지 최적화는 이름이 아니라 측정이다**
+  - 엣지 배포 성능의 속도·정확도·메모리 비교 기준 · `ing-20261102-local-novel-edge-portfolio`
+- **카메라와 센서를 합치면 독립적인 포트폴리오가 된다**
+  - 카메라 이벤트와 MQTT 센서·설비 신호의 복합 판정 · `ing-20261102-local-novel-edge-portfolio`
+- **데이터 전처리와 평가: 무엇이 모델의 실패인가**
+  - 객체 검출 오류와 사건 규칙 오류를 분리하는 평가 · `ing-20261102-local-novel-edge-portfolio`
+- **문서가 데모를 완성한다**
+  - 현장형 영상 AI 시연과 기술 문서·재현 기록 · `ing-20261102-local-novel-edge-portfolio`

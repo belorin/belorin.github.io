@@ -3,9 +3,9 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1016개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1037개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
-## 보류 항목 (9)
+## 보류 항목 (11)
 
 - 경제 시뮬레이션의 기존 전제·수치·학파별 논증 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 해당 원자료를 확인하지 못해 기존 논증의 복원과 완전 보존 여부를 판정할 수 없음. 새 공개 자료의 보충 분석으로 대체 완료 처리하지 않음.
 - 기존 종합·수정 원고의 상세 내용 대조 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 본문이 아닌 참조 표시만 확인되어 기존 원고의 세부와 현재 증보 사이의 중복·차이를 검수할 수 없음.
@@ -16,6 +16,8 @@
 - Google Cloud Translation 백엔드의 실제 통합과 실행 검증 → 반영 위치 없음 · `ing-20261030-book-translation-pipeline` · pending — 스위치 코드가 제안됐으나 로컬 파일 반영 실패가 보고돼 기능의 실동작을 확인하지 못함
 - SEG 출력 검증·오류 청크 재요청과 전체 품질 시험 → 반영 위치 없음 · `ing-20261030-book-translation-pipeline` · pending — 태그 기준 복원은 표시된 파일에 반영됐으나 새 방식 전체 번역의 정렬 검수 및 자동 재시도는 확인되지 않음
 - 생성 번역본의 판형·PDF 출력과 배포 권리 검토 → 반영 위치 없음 · `ing-20261030-book-translation-pipeline` · pending — PDF 조판과 판본별 권리의 구체적 결론은 이 작업 범위에서 확인되지 않음
+- 키워드별 이어쓰기 변경판의 전체 회차 검증 → 반영 위치 없음 · `ing-20261102-local-novel-edge-portfolio` · pending — 일부 시작 로그는 확인됐으나 변경판의 재실행 및 다음 회차 완주를 확인하지 못함
+- 영상 이벤트 데모 실제 구현과 정량 성능 검증 → 반영 위치 없음 · `ing-20261102-local-novel-edge-portfolio` · pending — 데모 아키텍처와 실험 계획만 제시됐고 실측 결과나 구현 파일은 현재 접근 범위에 없음
 
 ## AI와 사회 (206)
 
@@ -724,7 +726,7 @@
 - 원본 시각 미확인과 구현 여부의 보류 경계 → `gpt-wiki-zero-prototype` § 제0호기와 후속 누적형 지식백과의 차이 · `ing-20261026-gpt-wiki-zero-prototype`
 - 장기 기억 위키의 탐색·동기화·승인·공개 과제 → `gpt-wiki-zero-prototype` § 남겨진 설계 문제 · `ing-20261026-gpt-wiki-zero-prototype`
 
-## 기술·지식 아카이브 (46)
+## 기술·지식 아카이브 (56)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -774,6 +776,16 @@
 - 구글 번역 공식 API와 로컬 엔진 스위치 구조의 차이 → `book-translation-pipeline-local-llm` § 로컬 번역과 구글 번역 사이의 스위치 · `ing-20261030-book-translation-pipeline`
 - 완역의 조건인 입력·문단·텍스트·판본 검수 → `book-translation-pipeline-local-llm` § 무엇을 보면 완역본으로 믿을 수 있는가 · `ing-20261030-book-translation-pipeline`
 - 부분 HTML 뷰어와 TXT·Markdown 출력의 구현 범위 → `book-translation-pipeline-local-llm` § 실행 예와 남겨진 개발 과제 · `ing-20261030-book-translation-pipeline`
+- 장시간 자율 소설 생성과 단계형 배치 작업의 구별 → `local-llm-novel-agent-m1` § 로컬 에이전시와 장시간 배치 작업은 어디서 갈라지는가 · `ing-20261102-local-novel-edge-portfolio`
+- M1 16GB에서 디스크 여유와 메모리 압박의 차이 → `local-llm-novel-agent-m1` § M1 16GB: 디스크 여유와 메모리 여유는 다르다 · `ing-20261102-local-novel-edge-portfolio`
+- Ollama API와 MLX 파이썬 호출부의 분리 → `local-llm-novel-agent-m1` § Ollama에서 MLX로: 호출부를 분리하면 파이프라인을 살릴 수 있다 · `ing-20261102-local-novel-edge-portfolio`
+- MLX 가상환경 불일치와 Qwen3.5 모델 아키텍처 오류 → `local-llm-novel-agent-m1` § 가상환경·모델 형식: 실동작을 막은 두 오류 · `ing-20261102-local-novel-edge-portfolio`
+- 소설의 초안·비평·최종본과 다음 회차 요약의 역할 → `local-llm-novel-agent-m1` § 파일에 남는 다섯 공정과 두 종류의 기억 · `ing-20261102-local-novel-edge-portfolio`
+- 외부 기억에서 요약 손실과 확정 설정의 차이 → `local-llm-novel-agent-m1` § 파일에 남는 다섯 공정과 두 종류의 기억 · `ing-20261102-local-novel-edge-portfolio`
+- 키워드 프로젝트 구분과 이어쓰기·원문 참조의 수정 필요 → `local-llm-novel-agent-m1` § 단일 실행에서 작품별 이어쓰기까지 · `ing-20261102-local-novel-edge-portfolio`
+- 입력 첫 줄이 장르일 때 잘못 지정된 프로젝트 키 → `local-llm-novel-agent-m1` § 단일 실행에서 작품별 이어쓰기까지 · `ing-20261102-local-novel-edge-portfolio`
+- 비동기 로컬 모델 생성의 단계 로그와 저장 기준 → `local-llm-novel-agent-m1` § 진행 표시·잠자기·복구의 실무 조건 · `ing-20261102-local-novel-edge-portfolio`
+- MLX Qwen3 4B를 이용한 두 회차 단계별 실행 로그 → `local-llm-novel-agent-m1` § 검증된 완주와 아직 시험되지 않은 자동화 · `ing-20261102-local-novel-edge-portfolio`
 
 ## 철학 (45)
 
@@ -825,6 +837,50 @@
 - 프로이트 비판 대상의 단순화 방지 → `freud-before-anti-oedipus` § 『안티 오이디푸스』의 비판 대상을 지나치게 단순화하지 않기 · `ing-20261025-deleuze-intensity-hegel-freud`
 - 프로이트 입문서와 라캉 입문서의 목적 차이 → `freud-before-anti-oedipus` § 1972년을 위한 라캉 독서: 프로이트 원전을 대신하는 것이 아니다 · `ing-20261026-dreams-lacan-philosophy-power`
 
+## 과학과 기술 (39)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 복사냉각과 프라이팬 사고실험 → `space-data-center-thermal-economics` § 프라이팬 사고실험: 검은 표면과 광택 금속의 차이 · `ing-20261030-space-datacenters-orbital-commons`
+- ISS의 액체회로와 라디에이터 → `space-data-center-thermal-economics` § 국제우주정거장의 실물 해법 · `ing-20261030-space-datacenters-orbital-commons`
+- 구글 선캐처의 열관리 구상 → `space-data-center-thermal-economics` § 구글 Project Suncatcher가 제시한 것과 아직 제시하지 않은 것 · `ing-20261030-space-datacenters-orbital-commons`
+- 5GW 우주 데이터센터의 방열 규모 → `space-data-center-thermal-economics` § 5GW 열부하의 규모를 계산하다 · `ing-20261030-space-datacenters-orbital-commons`
+- 우주 연산의 경제성과 전략 가설 → `space-data-center-thermal-economics` § 왜 지상이 아니라 우주인가: 비용과 전략의 서로 다른 주장 · `ing-20261030-space-datacenters-orbital-commons`
+- 기업 우주자산의 소유와 국가책임 → `space-assets-law-debris-kessler` § 소유국·등록국·발사국을 혼동하지 말 것 · `ing-20261030-space-datacenters-orbital-commons`
+- 코스모스 954 국제배상 → `space-assets-law-debris-kessler` § 실제 금전배상: 코스모스 954 · `ing-20261030-space-datacenters-orbital-commons`
+- 위성 충돌과 회피 비용 → `space-assets-law-debris-kessler` § 실제 충돌과 배상 없는 위험의 분배 · `ing-20261030-space-datacenters-orbital-commons`
+- 전파간섭과 위성 재진입 분쟁 → `space-assets-law-debris-kessler` § 전파와 항법: 위성을 부수지 않는 분쟁 · `ing-20261030-space-datacenters-orbital-commons`
+- 위성 파괴 실험과 근접 기동 → `space-assets-law-debris-kessler` § 고의적 위성 파괴와 근접 기동의 외교 · `ing-20261030-space-datacenters-orbital-commons`
+- 케슬러 증후군의 고도별 위험 → `space-assets-law-debris-kessler` § 케슬러 증후군은 어느 날의 폭발이 아니다 · `ing-20261030-space-datacenters-orbital-commons`
+- 스타링크 대량 발사와 규제 → `space-assets-law-debris-kessler` § 스타링크의 대량 발사와 미국 규제의 문제 · `ing-20261030-space-datacenters-orbital-commons`
+- 기업과 국가의 우주자산 통제 갈등 → `space-assets-law-debris-kessler` § 기업과 국가가 충돌한다면 · `ing-20261030-space-datacenters-orbital-commons`
+- 한국형 피지컬 AI 기술 분업 → `physical-ai-world-model-quantum-optimization` § 제조 현장의 숙련은 어떻게 모델이 되는가 · `ing-20261030-physical-ai-quantum-business`
+- 제조 셀의 시뮬레이션 현실 간극 → `physical-ai-world-model-quantum-optimization` § 공장이라는 반례: 같은 부품도 같지 않다 · `ing-20261030-physical-ai-quantum-business`
+- 양자 중첩과 조합최적화의 구분 → `physical-ai-world-model-quantum-optimization` § 수만 가지 가능성을 한 번에 검사한다는 직관 · `ing-20261030-physical-ai-quantum-business`
+- WFM과 양자 솔버의 분업 → `physical-ai-world-model-quantum-optimization` § 어디에 양자 계산을 넣을 것인가 · `ing-20261030-physical-ai-quantum-business`
+- 양자 신경망 레이어 압축의 한계 → `physical-ai-world-model-quantum-optimization` § 인공신경망 레이어를 양자로 압축할 수 있는가 · `ing-20261030-physical-ai-quantum-business`
+- 개인 개발자의 제조 의사결정 엔진 → `manufacturing-optimization-solo-business` § 거대한 모델이 아니라 결정의 병목을 판다 · `ing-20261030-physical-ai-quantum-business`
+- 제조 솔버의 재사용 가능한 구성 → `manufacturing-optimization-solo-business` § 재사용 가능한 핵심 설계 · `ing-20261030-physical-ai-quantum-business`
+- 에이전트 선계산 자산 파이프라인 → `manufacturing-optimization-solo-business` § 에이전트가 밤마다 축적할 수 있는 자산 · `ing-20261030-physical-ai-quantum-business`
+- 양자 클라우드 접근 플랫폼 → `manufacturing-optimization-solo-business` § 양자 클라우드의 선택 · `ing-20261030-physical-ai-quantum-business`
+- 고객 실증과 양자 우위 검증 → `manufacturing-optimization-solo-business` § 첫 고객 이전에 필요한 증거 · `ing-20261030-physical-ai-quantum-business`
+- 산악 송전선 가공·지중 비용 구조 → `mountain-powerline-undergrounding-economics` § 한국 345kV 비교의 출발점과 산술 · `ing-20261102-wildfire-powerlines-liability`
+- 345kV 10km 비용 차이의 단순 환산 → `mountain-powerline-undergrounding-economics` § 한국 345kV 비교의 출발점과 산술 · `ing-20261102-wildfire-powerlines-liability`
+- 경인권과 광양–여수 전력구 비용 비교의 한계 → `mountain-powerline-undergrounding-economics` § 한국 345kV 비교의 출발점과 산술 · `ing-20261102-wildfire-powerlines-liability`
+- 산악 지중화 공법과 노선 길이 → `mountain-powerline-undergrounding-economics` § 산을 관통한다는 말의 두 뜻 · `ing-20261102-wildfire-powerlines-liability`
+- 지중화와 가공선 보강 패키지의 비교 → `mountain-powerline-undergrounding-economics` § 비교 대상은 '지중화 대 방치'가 아니다 · `ing-20261102-wildfire-powerlines-liability`
+- 연간 기대손실과 꼬리위험 → `mountain-powerline-undergrounding-economics` § '한 번의 대형 산불'을 연간 기대손실로 바꾸기 · `ing-20261102-wildfire-powerlines-liability`
+- 한전 재무비용과 사회적 비용의 구별 → `mountain-powerline-undergrounding-economics` § 사적 비용과 사회적 비용이라는 두 장부 · `ing-20261102-wildfire-powerlines-liability`
+- 산불 위험 지중화 순현재가치 설계 → `mountain-powerline-undergrounding-economics` § 30~50년 순현재가치 비교의 설계 · `ing-20261102-wildfire-powerlines-liability`
+- 엣지 영상 감지 포트폴리오의 입력·추론·규칙·기록 분업 → `edge-vision-event-monitor-portfolio` § 가장 작은 데모의 목표: 사람 탐지에서 사건 기록까지 · `ing-20261102-local-novel-edge-portfolio`
+- 이상행동 인식과 ROI 규칙 이벤트 판정의 차이 → `edge-vision-event-monitor-portfolio` § 가장 작은 데모의 목표: 사람 탐지에서 사건 기록까지 · `ing-20261102-local-novel-edge-portfolio`
+- 영상 이벤트 데모 화면과 FPS 지표의 정의 → `edge-vision-event-monitor-portfolio` § 하나의 화면에 드러나야 할 것 · `ing-20261102-local-novel-edge-portfolio`
+- Python OpenCV YOLO ONNX 웹 서비스 및 저장 계층 선택 → `edge-vision-event-monitor-portfolio` § 추천한 구현 경로와 각 도구의 역할 · `ing-20261102-local-novel-edge-portfolio`
+- 엣지 배포 성능의 속도·정확도·메모리 비교 기준 → `edge-vision-event-monitor-portfolio` § 온디바이스·엣지 최적화는 이름이 아니라 측정이다 · `ing-20261102-local-novel-edge-portfolio`
+- 카메라 이벤트와 MQTT 센서·설비 신호의 복합 판정 → `edge-vision-event-monitor-portfolio` § 카메라와 센서를 합치면 독립적인 포트폴리오가 된다 · `ing-20261102-local-novel-edge-portfolio`
+- 객체 검출 오류와 사건 규칙 오류를 분리하는 평가 → `edge-vision-event-monitor-portfolio` § 데이터 전처리와 평가: 무엇이 모델의 실패인가 · `ing-20261102-local-novel-edge-portfolio`
+- 현장형 영상 AI 시연과 기술 문서·재현 기록 → `edge-vision-event-monitor-portfolio` § 문서가 데모를 완성한다 · `ing-20261102-local-novel-edge-portfolio`
+
 ## 게임 (31)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -860,42 +916,6 @@
 - 외장이어서 비싸다는 단순화와 스펙만으로 신뢰성을 확정하는 오류 → `ps5-storage-anime-live-games` § 5TB 외장에 60만 원, 2TB 내장에 19만 원 · `ing-20261030-china-anime-games-live-service-ps5`
 - AI NAND 시장 전망과 SSD 가격 기다리기의 불확실성 → `ps5-storage-anime-live-games` § AI 시대의 NAND 가격과 '기다리기'의 비용 · `ing-20261030-china-anime-games-live-service-ps5`
 - 무료 게임의 저장공간 기회비용과 구매 판단 → `ps5-storage-anime-live-games` § 저장장치 구매의 진짜 판단 기준 · `ing-20261030-china-anime-games-live-service-ps5`
-
-## 과학과 기술 (31)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 복사냉각과 프라이팬 사고실험 → `space-data-center-thermal-economics` § 프라이팬 사고실험: 검은 표면과 광택 금속의 차이 · `ing-20261030-space-datacenters-orbital-commons`
-- ISS의 액체회로와 라디에이터 → `space-data-center-thermal-economics` § 국제우주정거장의 실물 해법 · `ing-20261030-space-datacenters-orbital-commons`
-- 구글 선캐처의 열관리 구상 → `space-data-center-thermal-economics` § 구글 Project Suncatcher가 제시한 것과 아직 제시하지 않은 것 · `ing-20261030-space-datacenters-orbital-commons`
-- 5GW 우주 데이터센터의 방열 규모 → `space-data-center-thermal-economics` § 5GW 열부하의 규모를 계산하다 · `ing-20261030-space-datacenters-orbital-commons`
-- 우주 연산의 경제성과 전략 가설 → `space-data-center-thermal-economics` § 왜 지상이 아니라 우주인가: 비용과 전략의 서로 다른 주장 · `ing-20261030-space-datacenters-orbital-commons`
-- 기업 우주자산의 소유와 국가책임 → `space-assets-law-debris-kessler` § 소유국·등록국·발사국을 혼동하지 말 것 · `ing-20261030-space-datacenters-orbital-commons`
-- 코스모스 954 국제배상 → `space-assets-law-debris-kessler` § 실제 금전배상: 코스모스 954 · `ing-20261030-space-datacenters-orbital-commons`
-- 위성 충돌과 회피 비용 → `space-assets-law-debris-kessler` § 실제 충돌과 배상 없는 위험의 분배 · `ing-20261030-space-datacenters-orbital-commons`
-- 전파간섭과 위성 재진입 분쟁 → `space-assets-law-debris-kessler` § 전파와 항법: 위성을 부수지 않는 분쟁 · `ing-20261030-space-datacenters-orbital-commons`
-- 위성 파괴 실험과 근접 기동 → `space-assets-law-debris-kessler` § 고의적 위성 파괴와 근접 기동의 외교 · `ing-20261030-space-datacenters-orbital-commons`
-- 케슬러 증후군의 고도별 위험 → `space-assets-law-debris-kessler` § 케슬러 증후군은 어느 날의 폭발이 아니다 · `ing-20261030-space-datacenters-orbital-commons`
-- 스타링크 대량 발사와 규제 → `space-assets-law-debris-kessler` § 스타링크의 대량 발사와 미국 규제의 문제 · `ing-20261030-space-datacenters-orbital-commons`
-- 기업과 국가의 우주자산 통제 갈등 → `space-assets-law-debris-kessler` § 기업과 국가가 충돌한다면 · `ing-20261030-space-datacenters-orbital-commons`
-- 한국형 피지컬 AI 기술 분업 → `physical-ai-world-model-quantum-optimization` § 제조 현장의 숙련은 어떻게 모델이 되는가 · `ing-20261030-physical-ai-quantum-business`
-- 제조 셀의 시뮬레이션 현실 간극 → `physical-ai-world-model-quantum-optimization` § 공장이라는 반례: 같은 부품도 같지 않다 · `ing-20261030-physical-ai-quantum-business`
-- 양자 중첩과 조합최적화의 구분 → `physical-ai-world-model-quantum-optimization` § 수만 가지 가능성을 한 번에 검사한다는 직관 · `ing-20261030-physical-ai-quantum-business`
-- WFM과 양자 솔버의 분업 → `physical-ai-world-model-quantum-optimization` § 어디에 양자 계산을 넣을 것인가 · `ing-20261030-physical-ai-quantum-business`
-- 양자 신경망 레이어 압축의 한계 → `physical-ai-world-model-quantum-optimization` § 인공신경망 레이어를 양자로 압축할 수 있는가 · `ing-20261030-physical-ai-quantum-business`
-- 개인 개발자의 제조 의사결정 엔진 → `manufacturing-optimization-solo-business` § 거대한 모델이 아니라 결정의 병목을 판다 · `ing-20261030-physical-ai-quantum-business`
-- 제조 솔버의 재사용 가능한 구성 → `manufacturing-optimization-solo-business` § 재사용 가능한 핵심 설계 · `ing-20261030-physical-ai-quantum-business`
-- 에이전트 선계산 자산 파이프라인 → `manufacturing-optimization-solo-business` § 에이전트가 밤마다 축적할 수 있는 자산 · `ing-20261030-physical-ai-quantum-business`
-- 양자 클라우드 접근 플랫폼 → `manufacturing-optimization-solo-business` § 양자 클라우드의 선택 · `ing-20261030-physical-ai-quantum-business`
-- 고객 실증과 양자 우위 검증 → `manufacturing-optimization-solo-business` § 첫 고객 이전에 필요한 증거 · `ing-20261030-physical-ai-quantum-business`
-- 산악 송전선 가공·지중 비용 구조 → `mountain-powerline-undergrounding-economics` § 한국 345kV 비교의 출발점과 산술 · `ing-20261102-wildfire-powerlines-liability`
-- 345kV 10km 비용 차이의 단순 환산 → `mountain-powerline-undergrounding-economics` § 한국 345kV 비교의 출발점과 산술 · `ing-20261102-wildfire-powerlines-liability`
-- 경인권과 광양–여수 전력구 비용 비교의 한계 → `mountain-powerline-undergrounding-economics` § 한국 345kV 비교의 출발점과 산술 · `ing-20261102-wildfire-powerlines-liability`
-- 산악 지중화 공법과 노선 길이 → `mountain-powerline-undergrounding-economics` § 산을 관통한다는 말의 두 뜻 · `ing-20261102-wildfire-powerlines-liability`
-- 지중화와 가공선 보강 패키지의 비교 → `mountain-powerline-undergrounding-economics` § 비교 대상은 '지중화 대 방치'가 아니다 · `ing-20261102-wildfire-powerlines-liability`
-- 연간 기대손실과 꼬리위험 → `mountain-powerline-undergrounding-economics` § '한 번의 대형 산불'을 연간 기대손실로 바꾸기 · `ing-20261102-wildfire-powerlines-liability`
-- 한전 재무비용과 사회적 비용의 구별 → `mountain-powerline-undergrounding-economics` § 사적 비용과 사회적 비용이라는 두 장부 · `ing-20261102-wildfire-powerlines-liability`
-- 산불 위험 지중화 순현재가치 설계 → `mountain-powerline-undergrounding-economics` § 30~50년 순현재가치 비교의 설계 · `ing-20261102-wildfire-powerlines-liability`
 
 ## 철학·사상사 (27)
 
@@ -1132,14 +1152,15 @@
 - 항생제·파지·미생물 분열을 판타지의 세계 법칙으로 번안 → `gut-cosmic-horror-worldbuilding` § 생물학에서 가져오되 문학적으로 비틀 부분 · `ing-20261025-fruit-gut-horror`
 - 세계가 더 큰 숙주의 내부라는 무관심의 공포와 암시적 결말 → `gut-cosmic-horror-worldbuilding` § 러브크래프트식 공포가 요구하는 주인공의 위치 · `ing-20261025-fruit-gut-horror`
 
+## 소설 (2)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 기후 디스토피아 숨결 장면집 → `climate-breath-fiction` § 작품 노트 · `ing-20261026-climate-dystopia`
+- 그루터기와 꿈의 미완 소설 단편 원문 → `stump-and-dream-fragment` § 작품 노트 · `ing-20261102-local-novel-edge-portfolio`
+
 ## 미분류 (1)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
 - 판단·관계·능력 변화 가설에 대한 실측·측정 연구의 연결 → `ai-mediated-human-change` § 판단; `ai-mediated-human-change` § 관계; `ai-mediated-human-change` § 능력 · `ing-20261023-ai-control-disempowerment`
-
-## 소설 (1)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 기후 디스토피아 숨결 장면집 → `climate-breath-fiction` § 작품 노트 · `ing-20261026-climate-dystopia`

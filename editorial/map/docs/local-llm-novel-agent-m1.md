@@ -26,4 +26,21 @@
 
 ## 장부에 기록된 반영 지식
 
-- 없음 (장부 도입 이전 원고이거나 아직 기록이 없다. 기록이 없다는 것은 내용이 없다는 뜻이 아니다.)
+- **로컬 에이전시와 장시간 배치 작업은 어디서 갈라지는가**
+  - 장시간 자율 소설 생성과 단계형 배치 작업의 구별 · `ing-20261102-local-novel-edge-portfolio`
+- **M1 16GB: 디스크 여유와 메모리 여유는 다르다**
+  - M1 16GB에서 디스크 여유와 메모리 압박의 차이 · `ing-20261102-local-novel-edge-portfolio`
+- **Ollama에서 MLX로: 호출부를 분리하면 파이프라인을 살릴 수 있다**
+  - Ollama API와 MLX 파이썬 호출부의 분리 · `ing-20261102-local-novel-edge-portfolio`
+- **가상환경·모델 형식: 실동작을 막은 두 오류**
+  - MLX 가상환경 불일치와 Qwen3.5 모델 아키텍처 오류 · `ing-20261102-local-novel-edge-portfolio`
+- **파일에 남는 다섯 공정과 두 종류의 기억**
+  - 소설의 초안·비평·최종본과 다음 회차 요약의 역할 · `ing-20261102-local-novel-edge-portfolio`
+  - 외부 기억에서 요약 손실과 확정 설정의 차이 · `ing-20261102-local-novel-edge-portfolio`
+- **단일 실행에서 작품별 이어쓰기까지**
+  - 키워드 프로젝트 구분과 이어쓰기·원문 참조의 수정 필요 · `ing-20261102-local-novel-edge-portfolio`
+  - 입력 첫 줄이 장르일 때 잘못 지정된 프로젝트 키 · `ing-20261102-local-novel-edge-portfolio`
+- **진행 표시·잠자기·복구의 실무 조건**
+  - 비동기 로컬 모델 생성의 단계 로그와 저장 기준 · `ing-20261102-local-novel-edge-portfolio`
+- **검증된 완주와 아직 시험되지 않은 자동화**
+  - MLX Qwen3 4B를 이용한 두 회차 단계별 실행 로그 · `ing-20261102-local-novel-edge-portfolio`
