@@ -11,7 +11,7 @@ https://belorin.github.io
 - **`wiki/relations.json`**: 근거와 유형이 확인된 관계의 정본
 - **`AI_INDEX.md`, `ai/index.json`, `ai/relations.json`, `llms.txt`**: 자동 생성되는 AI 탐색 자료
 - **`notes.json`**: 위 두 정본으로부터 생성하는 웹사이트 데이터 (**직접 수정하지 않음**)
-- **`WIKI_PROTOCOL.md`**: 대화 증보 규칙(증보에 필요한 규칙 전부). **`MAINTENANCE.md`**: 정비 절차. **`SYNTHESIS.md`**: 종합 절차. **`FICTION.md`**: 소설 보존 절차. **`AGENTS.md`**: 작업별로 읽을 문서를 안내하는 짧은 지침
+- **`WIKI_PROTOCOL.md`**: 대화 증보 규칙(증보에 필요한 규칙 전부). **`MAINTENANCE.md`**: 정비 절차. **`SYNTHESIS.md`**: 종합 절차. **`FICTION.md`**: 소설 보존 절차. **`ESSAY.md`**: 증보 후 선택적 AI 논고와 독립 AI 저술. **`AGENTS.md`**: 작업별로 읽을 문서를 안내하는 짧은 지침
 - **`editorial/ingestions/`**: 직접 증보의 위치와 보류 상태를 기록하는 편집 장부 (대화 원문 없음)
 - **`editorial/crosslinks/index.json`**: 직접 입증되지 않은 개념적 유비·교차 편집 제안 장부. 자동 집필 대상이 아님.
 
@@ -19,7 +19,7 @@ https://belorin.github.io
 
 **원고와 정본**
 - `wiki/*.md`: 지식 본문의 유일한 편집 정본. 긴 논증, 출처, 사례를 요약 없이 보존한다.
-- `wiki/manifest.json`: 문서 ID·제목·분류·상태·출처·관련 문서·게시 여부(`publish`)·순서·별칭·검토 상태·증보일 등 메타데이터의 정본. 종합 글은 `kind`·`synthesis_type`·`based_on`을 더 가진다.
+- `wiki/manifest.json`: 문서 ID·제목·분류·상태·출처·관련 문서·게시 여부(`publish`)·순서·별칭·검토 상태·증보일 등 메타데이터의 정본. 종합 글은 `kind`·`synthesis_type`·`based_on`, AI의 글은 `kind: ai-essay`·`essay_origin`·`based_on`을 더 가진다.
 - `wiki/relations.json`: 근거 절과 설명이 명시된 확인된 의미 관계의 정본. `manifest.related`는 일반 연관.
 - `wiki/calendar.json`: 데스크톱 달력(`/#calendar`)의 정본. 시기가 특정되는 문서·절만 정비 때 골라 누적한다(MAINTENANCE.md §4). `scripts/validate-calendar.mjs`가 문서·절의 존재와 날짜 형식을 검증한다.
 
@@ -78,6 +78,16 @@ Pages는 브랜치 배포가 아니라 GitHub Actions 배포를 사용한다(Set
 - manifest의 `kind: "synthesis"`, `synthesis_type`, `based_on`, `category: "종합"`으로 등록한다. 처음에는 `publish: false`로 쓰고 소유자가 게시를 결정한다.
 - 사이트에서는 보라색 "종합" 말머리와 안내 상자로 표시되며, 전체 목록·문서 수·무작위 글에서 빠지고 "종합" 주제로 따로 모인다. AI 색인·`llms.txt`·편집 지도에서도 별도 묶음이다.
 - 종합은 다른 글의 사실 근거가 되지 않는다. 다른 종합의 근거로 쓰거나 대화 지식을 증보하면 빌드가 실패한다.
+
+## AI의 글
+
+기존 지식 원고를 충실히 축적하는 일과, AI가 자신의 논증을 저술하는 일은 분리한다. [ESSAY.md](ESSAY.md)가 두 작업을 정한다.
+
+- **증보 후 자율 저술:** 대화 증보·장부 기록·커밋·검수를 완료한 다음에만 AI가 글을 쓸 가치가 있는지 자율적으로 판단한다. 별도 호출 없이 수행하며, 글이 없다고 실패가 아니다.
+- **독립 자율 저술:** 독립 저술 요청이 있을 때 AI가 위키의 기존 원고를 읽고 논제를 고르며 집필·개고·출고 여부를 판단한다.
+- 두 경우 모두 AI의 새로운 해석·비평·사고실험을 허용하되 사실을 만들어내지 않는다. 상투적인 균형·형식적인 깊이·정해진 문장 틀을 스스로 비판하고 개고한다.
+- 원고는 `wiki/<id>.md`에 독립적으로 쓰며 manifest에 `category: "AI의 글"`, `kind: "ai-essay"`, `essay_origin: "post-ingestion" | "standalone"`, `based_on`을 기록한다. 첫 출고는 **`publish: false`**다. 증보 장부에는 포함하지 않는다.
+- 게시에는 소유자의 승인이 필요하다. 게시 후에는 사이트와 AI 색인에 별도 **AI의 글** 묶음으로 표시하며 사실 근거로 인용하지 않는다. 일반 지식 문서 수와 무작위 문서에는 포함하지 않는다.
 
 ## 소설
 
