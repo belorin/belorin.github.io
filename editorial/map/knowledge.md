@@ -3,9 +3,9 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1095개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1114개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
-## 보류 항목 (14)
+## 보류 항목 (16)
 
 - 경제 시뮬레이션의 기존 전제·수치·학파별 논증 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 해당 원자료를 확인하지 못해 기존 논증의 복원과 완전 보존 여부를 판정할 수 없음. 새 공개 자료의 보충 분석으로 대체 완료 처리하지 않음.
 - 기존 종합·수정 원고의 상세 내용 대조 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 본문이 아닌 참조 표시만 확인되어 기존 원고의 세부와 현재 증보 사이의 중복·차이를 검수할 수 없음.
@@ -21,6 +21,8 @@
 - 모의 거래와 실거래의 실제 성과 및 복구 안정성 검증 → 반영 위치 없음 · `ing-20261102-upbit-small-capital-trading` · pending — 설계·프롬프트만 확인되었고 실제 실행 로그, 체결 및 장기 수익 검증 자료는 접근 가능한 내용에 없음
 - 시점별 거래소 수수료·API 정책·계좌 요건 재확인 → 반영 위치 없음 · `ing-20261102-upbit-small-capital-trading` · pending — 이 편집은 외부 신규 조사를 금지하는 프로토콜에 따라 대화에서 인용된 당시 수치만 보존했으며 운영 당일의 조건은 확인하지 않음
 - 국가별 같은 연도 정밀 통계와 전력 순수출입 검증 → 반영 위치 없음 · `ing-20261102-world-electricity-capacity` · pending — 각국의 기준 연도·총발전과 최종소비의 정의가 일치하는 원자료가 현재 접근 가능한 범위에 없어 정밀한 비교와 무역수지 계산은 보류
+- 2026 GPI 외국 장편 후보 명단 네 편과 여섯 편의 차이 → 반영 위치 없음 · `ing-20261103-gpi-foreign-novels` · pending — 대화에서 상충하는 명단이 제시되었고 프로토콜상 새 공식 페이지 검증이 허용되지 않아 차이를 원고에 명시하고 확정은 보류
+- 2015~2025 외국 장편 한국어 번역본의 서지 원본 대조 → 반영 위치 없음 · `ing-20261103-gpi-foreign-novels` · pending — 대화에 제시된 서점 검색 진술과 사용자의 정정만 확보되어, 실제 출판사·도서관의 최신 원본 확인은 보류
 
 ## AI와 사회 (206)
 
@@ -1083,6 +1085,36 @@
 - 국내 제작 담론과 해외 소비 프레임의 차이 → `dwar-netflix-revival` § 한국에서의 기억과 해외에서의 소비 · `ing-20261025-dwar-netflix-revival`
 - 국가별 순위와 추천 노출 검증 설계 → `dwar-netflix-revival` § 미해결 문제와 검증 설계 · `ing-20261025-dwar-netflix-revival`
 
+## 문학 (25)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 2026년 노벨문학상 수상 반응의 인터뷰 상황과 매체 구분 → `anne-carson-nobel-first-reactions` § 수상 직후 인터뷰의 현장 · `ing-20261024-anne-carson-nobel-reactions`
+- crazy의 대상과 놀라움·비난 사이 번역의 경계 → `anne-carson-nobel-first-reactions` § “Crazy. I think they're all crazy”: 무엇이 미쳤다는 말인가 · `ing-20261024-anne-carson-nobel-reactions`
+- 현장 인터뷰의 바람·수상 통지·한림원 연락·독자층 질문 → `anne-carson-nobel-first-reactions` § 보도에서 전해진 질문과 답변의 범위 · `ing-20261024-anne-carson-nobel-reactions`
+- hear things와 read things를 작품의 발견·선택으로 구별하는 해석 → `anne-carson-nobel-first-reactions` § “I don't understand how people hear things or read things” · `ing-20261024-anne-carson-nobel-reactions`
+- 작품의 존재와 독자 도달, 실제 읽기의 단계 구별 → `anne-carson-nobel-first-reactions` § 책의 가치, 발견 가능성, 실제 독서는 서로 다르다 · `ing-20261024-anne-carson-nobel-reactions`
+- 노벨상 스티커와 출판사의 기대를 독자 발견의 매개로 해석 → `anne-carson-nobel-first-reactions` § 출판사의 기대와 노벨상 스티커 · `ing-20261024-anne-carson-nobel-reactions`
+- RÚV 현장 영상과 노벨상 공식 전화 인터뷰의 별개 자료 구별 → `anne-carson-nobel-first-reactions` § 공식 전화 인터뷰는 별개의 자료다 · `ing-20261024-anne-carson-nobel-reactions`
+- 보도 인용 단편과 영어 전체 축어록 사이의 검증 경계 → `anne-carson-nobel-first-reactions` § 번역과 인용에서 남는 문제; `anne-carson-nobel-first-reactions` § 자료와 검증 상태 · `ing-20261024-anne-carson-nobel-reactions`
+- GPI의 외국 작품·다언어 장르 구분 → `grand-prix-imaginaire-awards` § 이영도의 진출과 2026년 외국 장편 부문 · `ing-20261103-gpi-foreign-novels`
+- 2026 외국 장편 여섯 작품과 한국어 임시 역제 → `grand-prix-imaginaire-awards` § 이영도의 진출과 2026년 외국 장편 부문 · `ing-20261103-gpi-foreign-novels`
+- 2026 GPI 다른 부문 후보 명단 → `grand-prix-imaginaire-awards` § 2026년의 다른 최종 후보 목록 · `ing-20261103-gpi-foreign-novels`
+- 2020~2025 GPI 주요 여섯 작품상 수상 기록 → `grand-prix-imaginaire-awards` § 2020~2025년 작품 부문 수상작 · `ing-20261103-gpi-foreign-novels`
+- 2020~2025 GPI 번역·그래픽·에세이·특별상 기록 → `grand-prix-imaginaire-awards` § 번역·그래픽·에세이·특별상: 확인된 범위 · `ing-20261103-gpi-foreign-novels`
+- 2015~2019 외국 장편 수상작과 원제·프랑스 표제 → `grand-prix-imaginaire-awards` § 2015~2019년 외국 장편: 이전 수상 기록 · `ing-20261103-gpi-foreign-novels`
+- 2021~2025 외국 장편 줄거리와 형식 비교 → `gpi-foreign-novels-2015-2025` § 어떤 독서 경험을 고를 것인가 · `ing-20261103-gpi-foreign-novels`
+- 2015~2020 외국 장편 줄거리와 형식 비교 → `gpi-foreign-novels-2015-2025` § 어떤 독서 경험을 고를 것인가 · `ing-20261103-gpi-foreign-novels`
+- 비타 노스트라 한국어판 존재 주장 정정과 국내 서지 유보 → `gpi-foreign-novels-2015-2025` § 2020 — 《비타 노스트라》: Marina & Sergey Dyachenko, Vita Nostra; `gpi-foreign-novels-2015-2025` § 국내 출간 여부의 잠정 표 · `ing-20261103-gpi-foreign-novels`
+- 미래부 소설 인도 폭염 참사와 생존자의 증언 → `ministry-for-the-future-reading` § 1. 인도의 열파: 대량 죽음에서 시작하는 시간 · `ing-20261103-gpi-foreign-novels`
+- 미래세대의 대표성·제도적 강제력과 메리·프랭크의 갈등 → `ministry-for-the-future-reading` § 2. 미래부라는 기구: 미래 세대에게도 대표가 있는가; `ministry-for-the-future-reading` § 3. 프랭크와 메리: 폭력의 윤리와 제도의 속도 · `ing-20261103-gpi-foreign-novels`
+- 탄소 코인의 금융적 보상과 정책적 전제 → `ministry-for-the-future-reading` § 4. 탄소 코인: 중앙은행이 다른 미래에 값을 매길 때 · `ing-20261103-gpi-foreign-novels`
+- 기후위기 급진 행동과 정책 변화의 인과·정당화 구분 → `ministry-for-the-future-reading` § 5. 또 하나의 압력: 항공산업, 지하조직, 불법행동 · `ing-20261103-gpi-foreign-novels`
+- 빙하·난민·생태·에너지 조치의 복합성과 비동기성 → `ministry-for-the-future-reading` § 6. 빙하, 난민, 토지, 에너지: 정책 하나로 끝낼 수 없는 위기 · `ing-20261103-gpi-foreign-novels`
+- 다성적 증언·보고서·정책 해설로 구성한 기후소설 형식 → `ministry-for-the-future-reading` § 7. 왜 이렇게 많은 화자가 필요한가: 형식이 세계를 닮는다 · `ing-20261103-gpi-foreign-novels`
+- 미래부의 결말과 피해의 불가역성 → `ministry-for-the-future-reading` § 8. 결말: 회복은 이미 치른 손실을 없애 주지 않는다 · `ing-20261103-gpi-foreign-novels`
+- 기후 재난소설에서 정책 과정이 서사를 이루는 방식 → `ministry-for-the-future-reading` § 9. 기후소설의 두 관습을 벗어나기 · `ing-20261103-gpi-foreign-novels`
+
 ## 생명과학 (15)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -1151,19 +1183,6 @@
 - 역사적 가능성의 복원과 지식의 서적화 → `open-questions` § 연결된 위키는 언제 한 권의 책이 되는가 · `ing-20261023-editorial-pages-redesign`
 - 생산성·전환 속도·소득 지원과 참여의 연구 질문 → `open-questions` § 기술은 인간의 일과 숙련을 어떻게 바꾸는가; `ai-human-control-guide` § 이 주제를 읽는 순서 · `ing-20261023-ai-economic-transition`
 - 뉴스의 본래 충격과 유통 과장의 측정 구분 → `open-questions` § 무엇이 중요한 질문인가 · `ing-20261026-information-hype-wow-index`
-
-## 문학 (8)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 2026년 노벨문학상 수상 반응의 인터뷰 상황과 매체 구분 → `anne-carson-nobel-first-reactions` § 수상 직후 인터뷰의 현장 · `ing-20261024-anne-carson-nobel-reactions`
-- crazy의 대상과 놀라움·비난 사이 번역의 경계 → `anne-carson-nobel-first-reactions` § “Crazy. I think they're all crazy”: 무엇이 미쳤다는 말인가 · `ing-20261024-anne-carson-nobel-reactions`
-- 현장 인터뷰의 바람·수상 통지·한림원 연락·독자층 질문 → `anne-carson-nobel-first-reactions` § 보도에서 전해진 질문과 답변의 범위 · `ing-20261024-anne-carson-nobel-reactions`
-- hear things와 read things를 작품의 발견·선택으로 구별하는 해석 → `anne-carson-nobel-first-reactions` § “I don't understand how people hear things or read things” · `ing-20261024-anne-carson-nobel-reactions`
-- 작품의 존재와 독자 도달, 실제 읽기의 단계 구별 → `anne-carson-nobel-first-reactions` § 책의 가치, 발견 가능성, 실제 독서는 서로 다르다 · `ing-20261024-anne-carson-nobel-reactions`
-- 노벨상 스티커와 출판사의 기대를 독자 발견의 매개로 해석 → `anne-carson-nobel-first-reactions` § 출판사의 기대와 노벨상 스티커 · `ing-20261024-anne-carson-nobel-reactions`
-- RÚV 현장 영상과 노벨상 공식 전화 인터뷰의 별개 자료 구별 → `anne-carson-nobel-first-reactions` § 공식 전화 인터뷰는 별개의 자료다 · `ing-20261024-anne-carson-nobel-reactions`
-- 보도 인용 단편과 영어 전체 축어록 사이의 검증 경계 → `anne-carson-nobel-first-reactions` § 번역과 인용에서 남는 문제; `anne-carson-nobel-first-reactions` § 자료와 검증 상태 · `ing-20261024-anne-carson-nobel-reactions`
 
 ## 언어 (8)
 

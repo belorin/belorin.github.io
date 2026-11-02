@@ -4,7 +4,7 @@
 > 사용 순서: ① 채팅에서 추출한 지식 항목마다 제목·별칭으로 후보를 찾는다 → ② 후보의 문서 카드 `editorial/map/docs/<id>.md`에서 절 목차와 장부 기록을 본다 → ③ 해당 절 본문을 읽고 대조한다. 전문으로 넓히는 조건은 WIKI_PROTOCOL §4를 따른다.
 > 지도와 카드는 후보를 찾는 도구일 뿐이다. 중복·반영 여부는 원고 본문을 읽고 판정한다.
 
-원고 179개 (미게시 3, 소설 2편 포함) · 종합 2편 · 절 1,930개 · 장부 지식 항목 1095개
+원고 179개 (미게시 3, 소설 2편 포함) · 종합 2편 · 절 1,930개 · 장부 지식 항목 1114개
 
 특정 논점이 이미 처리되었는지는 [지식 표제 역색인](knowledge.md)에서 낱말로 **검색**한다(통째로 읽지 않는다). 장부가 없는 원고는 문서 카드의 절 목차로 찾는다.
 
@@ -193,9 +193,9 @@
 ## 문학 (4)
 
 - `anne-carson-nobel-first-reactions` 앤 카슨의 2026년 노벨문학상 수상 반응: ‘미쳤다’와 독자가 작품을 만나는 경로 — 앤 카슨 노벨상 인터뷰, Anne Carson Nobel reaction, 앤 카슨 미쳤다, Anne Carson crazy, 문학 작품의 발견 · 9절 · 5.6천 자 · 장부 9건
-- `grand-prix-imaginaire-awards` 그랑프리 드 리마지네르: 2015~2026 후보와 수상작을 읽는 지도 — 그랑프리 드 리마지네르, Prix de l’Imaginaire, GPI 수상작 2015 2025 · 6절 · 6.7천 자 · 장부 없음
-- `gpi-foreign-novels-2015-2025` 2015~2025 GPI 외국 장편 수상작: 열한 개의 미래와 한국어 독서 경로 — GPI 외국 장편, 2015~2025 프랑스 SF 수상작, GPI 외국 장편 독서 지도 · 13절 · 8.1천 자 · 장부 없음
-- `ministry-for-the-future-reading` 《The Ministry for the Future》: 미래 세대의 이름으로 세계의 장부를 바꾸는 소설 — Le Ministère du futur, 미래부 소설, The Ministry for the Future 해설 · 11절 · 7.1천 자 · 장부 없음
+- `grand-prix-imaginaire-awards` 그랑프리 드 리마지네르: 2015~2026 후보와 수상작을 읽는 지도 — 그랑프리 드 리마지네르, Prix de l’Imaginaire, GPI 수상작 2015 2025 · 6절 · 6.7천 자 · 장부 6건
+- `gpi-foreign-novels-2015-2025` 2015~2025 GPI 외국 장편 수상작: 열한 개의 미래와 한국어 독서 경로 — GPI 외국 장편, 2015~2025 프랑스 SF 수상작, GPI 외국 장편 독서 지도 · 13절 · 8.1천 자 · 장부 4건
+- `ministry-for-the-future-reading` 《The Ministry for the Future》: 미래 세대의 이름으로 세계의 장부를 바꾸는 소설 — Le Ministère du futur, 미래부 소설, The Ministry for the Future 해설 · 11절 · 7.1천 자 · 장부 9건
 
 ## 게임 (3)
 
