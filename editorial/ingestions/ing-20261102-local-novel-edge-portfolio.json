@@ -1,0 +1,253 @@
+{
+  "id": "ing-20261102-local-novel-edge-portfolio",
+  "processed_on": "2026-11-02",
+  "coverage": "visible-complete",
+  "limit_note": "현재 대화에 표시된 발화·코드 제안·터미널 출력·직접 제공된 작품 원문 및 기존 위키만 반영. 로컬 소스 전체나 후속 재실행 및 컴퓨터비전 데모는 직접 검증하지 못함. 공개가 부적절한 이력서의 개인 경력 정황은 일반화하여 반영.",
+  "withheld_count": 1,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "장시간 자율 소설 생성과 단계형 배치 작업의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "local-llm-novel-agent-m1",
+          "section": "로컬 에이전시와 장시간 배치 작업은 어디서 갈라지는가"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "M1 16GB에서 디스크 여유와 메모리 압박의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "local-llm-novel-agent-m1",
+          "section": "M1 16GB: 디스크 여유와 메모리 여유는 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "Ollama API와 MLX 파이썬 호출부의 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "local-llm-novel-agent-m1",
+          "section": "Ollama에서 MLX로: 호출부를 분리하면 파이프라인을 살릴 수 있다"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "example",
+      "title": "MLX 가상환경 불일치와 Qwen3.5 모델 아키텍처 오류",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "local-llm-novel-agent-m1",
+          "section": "가상환경·모델 형식: 실동작을 막은 두 오류"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "concept",
+      "title": "소설의 초안·비평·최종본과 다음 회차 요약의 역할",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "local-llm-novel-agent-m1",
+          "section": "파일에 남는 다섯 공정과 두 종류의 기억"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "argument",
+      "title": "외부 기억에서 요약 손실과 확정 설정의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "local-llm-novel-agent-m1",
+          "section": "파일에 남는 다섯 공정과 두 종류의 기억"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "argument",
+      "title": "키워드 프로젝트 구분과 이어쓰기·원문 참조의 수정 필요",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "local-llm-novel-agent-m1",
+          "section": "단일 실행에서 작품별 이어쓰기까지"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "example",
+      "title": "입력 첫 줄이 장르일 때 잘못 지정된 프로젝트 키",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "local-llm-novel-agent-m1",
+          "section": "단일 실행에서 작품별 이어쓰기까지"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "concept",
+      "title": "비동기 로컬 모델 생성의 단계 로그와 저장 기준",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "local-llm-novel-agent-m1",
+          "section": "진행 표시·잠자기·복구의 실무 조건"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "fact",
+      "title": "MLX Qwen3 4B를 이용한 두 회차 단계별 실행 로그",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "local-llm-novel-agent-m1",
+          "section": "검증된 완주와 아직 시험되지 않은 자동화"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "concept",
+      "title": "엣지 영상 감지 포트폴리오의 입력·추론·규칙·기록 분업",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "edge-vision-event-monitor-portfolio",
+          "section": "가장 작은 데모의 목표: 사람 탐지에서 사건 기록까지"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "argument",
+      "title": "이상행동 인식과 ROI 규칙 이벤트 판정의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "edge-vision-event-monitor-portfolio",
+          "section": "가장 작은 데모의 목표: 사람 탐지에서 사건 기록까지"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "concept",
+      "title": "영상 이벤트 데모 화면과 FPS 지표의 정의",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "edge-vision-event-monitor-portfolio",
+          "section": "하나의 화면에 드러나야 할 것"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "curation",
+      "title": "Python OpenCV YOLO ONNX 웹 서비스 및 저장 계층 선택",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "edge-vision-event-monitor-portfolio",
+          "section": "추천한 구현 경로와 각 도구의 역할"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "argument",
+      "title": "엣지 배포 성능의 속도·정확도·메모리 비교 기준",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "edge-vision-event-monitor-portfolio",
+          "section": "온디바이스·엣지 최적화는 이름이 아니라 측정이다"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "example",
+      "title": "카메라 이벤트와 MQTT 센서·설비 신호의 복합 판정",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "edge-vision-event-monitor-portfolio",
+          "section": "카메라와 센서를 합치면 독립적인 포트폴리오가 된다"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "argument",
+      "title": "객체 검출 오류와 사건 규칙 오류를 분리하는 평가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "edge-vision-event-monitor-portfolio",
+          "section": "데이터 전처리와 평가: 무엇이 모델의 실패인가"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "concept",
+      "title": "현장형 영상 AI 시연과 기술 문서·재현 기록",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "edge-vision-event-monitor-portfolio",
+          "section": "문서가 데모를 완성한다"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "other",
+      "title": "그루터기와 꿈의 미완 소설 단편 원문",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "stump-and-dream-fragment",
+          "section": "작품 노트"
+        }
+      ]
+    },
+    {
+      "id": "k20",
+      "kind": "question",
+      "title": "키워드별 이어쓰기 변경판의 전체 회차 검증",
+      "status": "pending",
+      "targets": [],
+      "reason": "일부 시작 로그는 확인됐으나 변경판의 재실행 및 다음 회차 완주를 확인하지 못함"
+    },
+    {
+      "id": "k21",
+      "kind": "question",
+      "title": "영상 이벤트 데모 실제 구현과 정량 성능 검증",
+      "status": "pending",
+      "targets": [],
+      "reason": "데모 아키텍처와 실험 계획만 제시됐고 실측 결과나 구현 파일은 현재 접근 범위에 없음"
+    }
+  ]
+}
