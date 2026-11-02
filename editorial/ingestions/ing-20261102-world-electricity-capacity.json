@@ -1,0 +1,117 @@
+{
+  "id": "ing-20261102-world-electricity-capacity",
+  "processed_on": "2026-11-02",
+  "coverage": "visible-complete",
+  "limit_note": "현재 접근 가능한 국가별 추산과 설명을 반영함. 외부 원자료 미열람, 국가별 연도·집계 정의 혼재 및 순위 포괄성 검증 불가.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "발전 설비용량 GW와 연간 발전·소비 TWh의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-electricity-capacity-generation-consumption",
+          "section": "GW와 TWh: 발전능력과 발전량은 왜 다른가"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "1GW 연속 1년 가동 시 8.76TWh 산술 환산",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-electricity-capacity-generation-consumption",
+          "section": "GW와 TWh: 발전능력과 발전량은 왜 다른가"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "fact",
+      "title": "세계 발전설비 9.4~9.8TW와 연간 전력 생산·수요 개략 합계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-electricity-capacity-generation-consumption",
+          "section": "세계 전체의 눈금"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "curation",
+      "title": "주요 25개국 발전설비 생산량 소비량 비교 표",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-electricity-capacity-generation-consumption",
+          "section": "주요 25개 국가의 설비·생산·소비 비교"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "argument",
+      "title": "중국 미국 인도의 전력 규모와 소비 집중도",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-electricity-capacity-generation-consumption",
+          "section": "어떤 나라가 세계 전력의 큰 몫을 차지하는가"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "example",
+      "title": "비슷한 설비용량의 국가별 생산량 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-electricity-capacity-generation-consumption",
+          "section": "비슷한 GW라도 TWh가 다른 이유"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "counterargument",
+      "title": "발전량과 수요의 차이를 순수출로 등치할 수 없는 이유",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-electricity-capacity-generation-consumption",
+          "section": "생산국과 소비국, 전력 수출입의 해석"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "concept",
+      "title": "국가 전력 GW와 데이터센터 전력 GW의 비교 분모 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "world-electricity-capacity-generation-consumption",
+          "section": "무엇을 더 확인해야 정밀 비교가 되는가"
+        },
+        {
+          "doc_id": "data-center-world-capacity",
+          "section": "먼저 세 개의 세계 규모를 구별한다"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "question",
+      "title": "국가별 같은 연도 정밀 통계와 전력 순수출입 검증",
+      "status": "pending",
+      "targets": [],
+      "reason": "각국의 기준 연도·총발전과 최종소비의 정의가 일치하는 원자료가 현재 접근 가능한 범위에 없어 정밀한 비교와 무역수지 계산은 보류"
+    }
+  ]
+}
