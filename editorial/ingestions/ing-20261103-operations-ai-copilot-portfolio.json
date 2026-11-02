@@ -1,0 +1,197 @@
+{
+  "id": "ing-20261103-operations-ai-copilot-portfolio",
+  "processed_on": "2026-11-03",
+  "coverage": "visible-complete",
+  "limit_note": "현재 표시된 이 대화의 AI 이직·공개 웹 포트폴리오 구상과 응답을 대상. 이전 대화 원본·실제 구현·요금 현행성은 확인하지 않음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "argument",
+      "title": "연구형 AI와 응용형 AI 포트폴리오의 구분과 현업 경력의 활용",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "operations-data-ai-copilot-portfolio",
+          "section": "어떤 AI 엔지니어링을 증명할 것인가"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "curation",
+      "title": "운영 비서·ERP 자연어 질의·현장 장애 대응 코파일럿의 세 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "operations-data-ai-copilot-portfolio",
+          "section": "어떤 AI 엔지니어링을 증명할 것인가"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "만들고 싶은 문제와 채용 검증 가능성의 균형",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "operations-data-ai-copilot-portfolio",
+          "section": "어떤 AI 엔지니어링을 증명할 것인가"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "대시보드·자연어 채팅·근거 패널의 세 화면",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "operations-data-ai-copilot-portfolio",
+          "section": "최소 제품의 세 화면: 지표, 질문, 근거"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "example",
+      "title": "라인 가동률·납기 지연·설비 위험도 분석의 데모 질문과 근거",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "operations-data-ai-copilot-portfolio",
+          "section": "최소 제품의 세 화면: 지표, 질문, 근거"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "concept",
+      "title": "제조 물류 합성 DB 스키마와 일관된 사건 생성 규칙",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "operations-data-ai-copilot-portfolio",
+          "section": "대량의 더미 데이터보다 중요한 것은 생성 규칙이다"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "argument",
+      "title": "무제한 SQL 대신 구조화된 조회 도구와 읽기 전용 실행 경계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "operations-data-ai-copilot-portfolio",
+          "section": "AI가 SQL을 함부로 실행하지 않도록 분리한다"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "concept",
+      "title": "문서 RAG와 정형 데이터 집계의 역할 분리 및 단계적 확장",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "operations-data-ai-copilot-portfolio",
+          "section": "AI가 SQL을 함부로 실행하지 않도록 분리한다"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "argument",
+      "title": "자연어 DB 분석의 평가셋·관측·실패 분류",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "operations-data-ai-copilot-portfolio",
+          "section": "평가·관측·실패의 표기"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "curation",
+      "title": "Vercel Supabase Neon Cloudflare D1 Render 무료 배포 선택지",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "operations-data-ai-copilot-portfolio",
+          "section": "공개 배포: 무료 웹과 과금되는 추론을 구별한다"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "argument",
+      "title": "AI API 과금과 공개 데모 호출 제한 및 현행 요금 재검증",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "operations-data-ai-copilot-portfolio",
+          "section": "공개 배포: 무료 웹과 과금되는 추론을 구별한다"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "concept",
+      "title": "최소 구현 범위와 단계별 3주 개발 순서",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "operations-data-ai-copilot-portfolio",
+          "section": "범위는 작게, 보여 주는 증거는 충분히"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "concept",
+      "title": "README 평가 결과와 데모 영상으로 구현 증거 구성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "operations-data-ai-copilot-portfolio",
+          "section": "범위는 작게, 보여 주는 증거는 충분히"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "question",
+      "title": "운영 데이터 AI 코파일럿의 실제 구현 성능·비용·배포 검증",
+      "status": "pending",
+      "targets": [],
+      "reason": "아이디어와 설계·예시만 있으며 배포 URL, 실제 DB, 평가 결과와 현재 과금 조건이 확인되지 않음"
+    },
+    {
+      "id": "k15",
+      "kind": "argument",
+      "title": "영상 이벤트형과 운영 데이터 설명형 포트폴리오의 성능 검증 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "edge-vision-event-monitor-portfolio",
+          "section": "데이터 설명형 코파일럿과의 비교"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "argument",
+      "title": "운영 데이터 설명형 시스템과 제조 최적화 의사결정 시스템의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "manufacturing-optimization-solo-business",
+          "section": "운영 데이터를 설명하는 단계와 최적화하는 단계"
+        }
+      ]
+    }
+  ]
+}
