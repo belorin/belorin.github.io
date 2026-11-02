@@ -140,12 +140,12 @@ for (const note of notes) {
 }
 
 // All documents, grouped like the site: knowledge categories, then 소설, then 종합.
-const rank = c => c === "종합" ? 2 : c === "소설" ? 1 : 0;
+const rank = c => c === "종합" ? 3 : c === "소설" ? 2 : c === "AI의 글" ? 1 : 0;
 const listed = notes.filter(n => n.fiction_part !== "chapter");
 const groups = [...new Set(listed.map(n => n.category))]
   .map(c => [c, listed.filter(n => n.category === c)])
   .sort(([a, x], [b, y]) => rank(a) - rank(b) || y.length - x.length || a.localeCompare(b, "ko"));
-const indexBody = `<div class="page-heading"><h1>전체 문서</h1><p>${listed.filter(n => n.kind !== "synthesis").length}개 문서${listed.some(n => n.kind === "synthesis") ? ` · 종합 ${listed.filter(n => n.kind === "synthesis").length}편` : ""}. <a href="/">탐색 화면</a>에서 검색과 주제별 보기를 쓸 수 있습니다.</p></div>
+const indexBody = `<div class="page-heading"><h1>전체 문서</h1><p>${listed.filter(n => n.kind !== "synthesis" && n.kind !== "ai-essay").length}개 문서${listed.some(n => n.kind === "synthesis") ? ` · 종합 ${listed.filter(n => n.kind === "synthesis").length}편` : ""}${listed.some(n => n.kind === "ai-essay") ? ` · AI의 글 ${listed.filter(n => n.kind === "ai-essay").length}편` : ""}. <a href="/">탐색 화면</a>에서 검색과 주제별 보기를 쓸 수 있습니다.</p></div>
 ${groups.map(([c, list]) => `<section><div class="section-heading"><h2>${esc(c)} (${list.length})</h2></div>
 ${list.map(n => `<div class="list-item"><h2><a href="/notes/${n.id}/">${esc(n.title)}</a></h2><p>${esc(n.summary)}</p></div>`).join("\n")}
 </section>`).join("\n")}`;
