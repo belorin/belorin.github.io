@@ -1,0 +1,453 @@
+{
+  "id": "ing-20261103-satanic-panic-teresa",
+  "processed_on": "2026-11-03",
+  "coverage": "visible-complete",
+  "limit_note": "이 화면에서 접근 가능한 앞선 대화 발화와 표시된 심층 리서치 보고서의 자료만 처리했다. 새 외부 조사는 하지 않았으며 Teresa 사건의 법원 정본·최종 탈출 경로와 일부 사건의 세부 기록은 미확인으로 둔다.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "사탄 패닉과 조직적 성학대의 개념 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "satanic-panic-english-speaking-history",
+          "section": "영어권 사탄 패닉의 형성과 쇠퇴: 아동 보호의 각성은 어떻게 비밀 의례 범죄의 공포가 되었나"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "아동보호 인식의 성장과 반컬트·회복기억 문화의 결합",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "satanic-panic-english-speaking-history",
+          "section": "기원의 토양: 1970년대의 세 가지 흐름"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "fact",
+      "title": "Michelle Remembers와 회복기억 서사의 원형",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "satanic-panic-english-speaking-history",
+          "section": "《Michelle Remembers》가 제공한 이야기의 원형"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "example",
+      "title": "McMartin 의혹과 1988년 Geraldo 특집의 확산",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "satanic-panic-english-speaking-history",
+          "section": "어린이집 사건과 전국적 방송이 공포를 증폭하다"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "argument",
+      "title": "미국·영국·호주·뉴질랜드의 서로 다른 제도 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "satanic-panic-english-speaking-history",
+          "section": "나라별 확산: 하나의 이야기, 서로 다른 제도적 경로"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "concept",
+      "title": "상담·수사·언론의 상호 신용과 진술 오염",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "satanic-panic-english-speaking-history",
+          "section": "전문가의 확신이 독립 증거처럼 보이는 과정"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "argument",
+      "title": "1990년대 기소 좌절·공식 조사·기억 연구로 공황 약화",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "satanic-panic-english-speaking-history",
+          "section": "1990년대의 쇠퇴는 무엇이 무너진 결과인가"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "counterargument",
+      "title": "사탄 대음모의 비입증과 실제 아동학대의 존속",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "satanic-panic-english-speaking-history",
+          "section": "'사탄 패닉은 거짓이었다'라는 문장의 위험"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "fact",
+      "title": "1973~2022년 사탄 패닉의 확산·판결 교정 연대기",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "satanic-panic-english-speaking-history",
+          "section": "연대기: 공포의 흥망과 사법적 후과"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "argument",
+      "title": "피해자 보호와 형사 입증의 서로 다른 기준",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "satanic-panic-english-speaking-history",
+          "section": "남는 질문: 피해자를 믿는 것과 사실을 확인하는 것은 충돌해야 하는가"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "concept",
+      "title": "기소·무죄·평결 불능·파기·아동보호 개입의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "satanic-panic-court-inquiries",
+          "section": "먼저 구별해야 하는 일곱 가지 사법 결과"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "example",
+      "title": "McMartin의 유죄 없는 종결과 Ray Buckey 평결 불능",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "satanic-panic-court-inquiries",
+          "section": "미국: McMartin Preschool — 대규모 의혹의 끝에 유죄판결이 없었다"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "example",
+      "title": "Fells Acres의 미해소 유죄와 증언 오염 논쟁",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "satanic-panic-court-inquiries",
+          "section": "Fells Acres — 남아 있는 유죄와 오염된 증언의 논쟁"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "example",
+      "title": "Little Rascals의 유죄 파기 및 잔여 기소 취소",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "satanic-panic-court-inquiries",
+          "section": "Little Rascals — 유죄 이후 항소심 파기와 모든 혐의 취소"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "example",
+      "title": "Keller 부부의 의학 증언 오류와 실질적 무죄 인정",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "satanic-panic-court-inquiries",
+          "section": "텍사스 Keller 부부 — 오판을 바로잡는 데 걸린 25년"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "example",
+      "title": "Cleveland 위기의 의료판단·행정조치와 보호절차",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "satanic-panic-court-inquiries",
+          "section": "영국 Cleveland 위기 — 사탄 의례가 없어도 벌어지는 과잉 보호의 위험"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "example",
+      "title": "Rochdale 아동 분리와 사탄 의혹의 법정 입증 실패",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "satanic-panic-court-inquiries",
+          "section": "Rochdale — 사탄 의식 학대 의혹과 가족법원의 반증"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "example",
+      "title": "Orkney 아동 9명 분리·귀가와 공적 조사",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "satanic-panic-court-inquiries",
+          "section": "Orkney — 새벽의 아동 분리와 국가 조사"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "fact",
+      "title": "La Fontaine의 84건 의혹과 사탄학대 비입증",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "satanic-panic-court-inquiries",
+          "section": "Jean La Fontaine 조사 — 신고 84건은 유죄 84건이 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k20",
+      "kind": "example",
+      "title": "Peter Ellis의 2022년 대법원 유죄 파기",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "satanic-panic-court-inquiries",
+          "section": "뉴질랜드 Peter Ellis — 뒤늦게 뒤집힌 판결"
+        }
+      ]
+    },
+    {
+      "id": "k21",
+      "kind": "argument",
+      "title": "호주 취재방송과 영국 형사수사 관할 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "satanic-panic-court-inquiries",
+          "section": "호주의 언론과 국가조사 — 방송국의 국적이 수사 관할은 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k22",
+      "kind": "fact",
+      "title": "1989 Satan's Children 방송·가명·출연자 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "teresa-satans-children-1989",
+          "section": "인물과 이름부터 분리하기"
+        }
+      ]
+    },
+    {
+      "id": "k23",
+      "kind": "fact",
+      "title": "테레사 증언의 의례·임신·출산·살인·식인 주장 목록",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "teresa-satans-children-1989",
+          "section": "방송 속 주장: 눈앞의 진술과 보이지 않는 물증"
+        }
+      ]
+    },
+    {
+      "id": "k24",
+      "kind": "fact",
+      "title": "어머니의 자녀 위탁 경위와 가정생활 설명",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "teresa-satans-children-1989",
+          "section": "할머니 집에 이르게 된 경로와 '탈출'이라고 불리는 과정"
+        }
+      ]
+    },
+    {
+      "id": "k25",
+      "kind": "question",
+      "title": "한 차례 탈출 실패와 최종 보호 경로 미확인",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "teresa-satans-children-1989",
+          "section": "할머니 집에 이르게 된 경로와 '탈출'이라고 불리는 과정"
+        }
+      ]
+    },
+    {
+      "id": "k26",
+      "kind": "fact",
+      "title": "남성 5명 및 할머니 기소에 관한 호주 방송의 언급",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "teresa-satans-children-1989",
+          "section": "기소에 관해 방송이 한 말"
+        }
+      ]
+    },
+    {
+      "id": "k27",
+      "kind": "counterargument",
+      "title": "The Cook Report·SAFF 후속 주장과 법원 기록의 공백",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "teresa-satans-children-1989",
+          "section": "기소에 관해 방송이 한 말"
+        }
+      ]
+    },
+    {
+      "id": "k28",
+      "kind": "question",
+      "title": "익명 사건·구기록·형사 재판 최종 결과의 미확인",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "teresa-satans-children-1989",
+          "section": "왜 이렇게 극적인 사건에 확인 가능한 재판 기록이 적은가"
+        }
+      ]
+    },
+    {
+      "id": "k29",
+      "kind": "argument",
+      "title": "Ray Wyre의 유사 사례 21건 발언과 입증 건수의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "teresa-satans-children-1989",
+          "section": "Ray Wyre의 '유사한 사례 21건'은 무엇의 증거인가"
+        }
+      ]
+    },
+    {
+      "id": "k30",
+      "kind": "argument",
+      "title": "의학적 학대 증거와 별개의 영아살해·식인 주장",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "teresa-satans-children-1989",
+          "section": "의료 기록의 존재와 극단적 살해 주장 사이의 도약"
+        }
+      ]
+    },
+    {
+      "id": "k31",
+      "kind": "question",
+      "title": "원방송·기소장·탈출 기록의 추후 검증 필요성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "teresa-satans-children-1989",
+          "section": "남은 공백과 재확인이 필요한 질문"
+        }
+      ]
+    },
+    {
+      "id": "k32",
+      "kind": "fact",
+      "title": "Ray Wyre의 보호관찰·Albany 교도소 업무 이력",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ray-wyre-sex-offender-treatment",
+          "section": "교도소의 수용자에서 치료의 대상자를 보다"
+        }
+      ]
+    },
+    {
+      "id": "k33",
+      "kind": "fact",
+      "title": "Gracewell Clinic 설립·폐쇄와 Wolvercote 후속 과정",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ray-wyre-sex-offender-treatment",
+          "section": "1988년 Gracewell Clinic과 실험적 재범방지 모델"
+        }
+      ]
+    },
+    {
+      "id": "k34",
+      "kind": "fact",
+      "title": "Ray Wyre의 저술·자문 및 2008년 사망과 의회 추모",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ray-wyre-sex-offender-treatment",
+          "section": "저술·자문과 대중적 영향"
+        }
+      ]
+    },
+    {
+      "id": "k35",
+      "kind": "fact",
+      "title": "1989년 방송에서의 SRA 사례 21건 주장",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ray-wyre-sex-offender-treatment",
+          "section": "1989년 「Satan's Children」에서의 발언"
+        }
+      ]
+    },
+    {
+      "id": "k36",
+      "kind": "argument",
+      "title": "전문가의 임상 경험과 사법적 물증의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ray-wyre-sex-offender-treatment",
+          "section": "전문성의 권위는 어디에서 끝나는가"
+        }
+      ]
+    },
+    {
+      "id": "k37",
+      "kind": "counterargument",
+      "title": "성범죄자 치료의 공헌과 논쟁적 SRA 주장 병존",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ray-wyre-sex-offender-treatment",
+          "section": "사후 평판의 비대칭: 치료의 선구자와 논쟁적인 증인"
+        }
+      ]
+    }
+  ]
+}
