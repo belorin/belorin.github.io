@@ -127,6 +127,24 @@
       "hypothesis": "역사적 집단공황의 증폭과 중단 사례를 정동이 미디어와 정치에서 순환·증폭되는 문제와 비교해 볼 가능성",
       "reason": "새 문서는 공포와 혐오의 사실 내용보다 고발·수사·정치 보상이 증폭을 만드는 과정을 비교하고, 마수미 절은 불안과 공포 같은 정동의 순환과 증폭을 분석 대상으로 제시한다.",
       "limitation": "역사 사례가 마수미 이론으로 설명된다는 뜻이 아니며, 각 사건의 인과를 정동 이론 하나로 환원할 근거도 없다."
+    },
+    {
+      "id": "link-20261103-satanic-panic-hype-evidence",
+      "created_on": "2026-11-03",
+      "from": {
+        "doc_id": "satanic-panic-english-speaking-history",
+        "section": "전문가의 확신이 독립 증거처럼 보이는 과정"
+      },
+      "to": {
+        "doc_id": "information-hype-wow-index",
+        "section": "호들갑이 낮아도 근거가 약할 수 있다"
+      },
+      "type": "methodological_parallel",
+      "status": "proposed",
+      "basis": "editorial_hypothesis",
+      "hypothesis": "검증되지 않은 의혹의 방송·상담·수사 확대에서 이야기의 유통 강도와 주장에 대한 독립적 증거의 신뢰도를 분리하여 비교할 가능성",
+      "reason": "사탄 패닉의 제도적 상호보증과 정보 과열 평가의 '확성'·'증거 신뢰도' 구분은 미디어가 반복된 증언에 신빙성을 부여하는 방식을 비교하는 방법론적 단서가 된다.",
+      "limitation": "호들갑 감정기의 점수 체계는 경험적으로 검증된 연구 도구가 아니며, 역사적 사탄 패닉의 확산량을 실제 수치로 측정했다는 뜻도 아니다."
     }
   ]
 }
