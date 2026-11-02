@@ -544,7 +544,7 @@
 
 ## 정보와 미디어
 
-- **[호들갑 감정기: 정보의 와우·확성·과열 차수를 구별하는 법](wiki/information-hype-wow-index.md)** · 별칭: 호들갑 지수, 호들갑 감정기, 과열 차수, 와우 지표, 와우 지수, 확성 지수, 정보 과열 감정 · 수정: 2026-10-26 · 검토: 예비 평가 모형·외부 실측 검증 필요
+- **[호들갑 감정기: 정보의 와우·확성·과열 차수를 구별하는 법](wiki/information-hype-wow-index.md)** · 별칭: 호들갑 지수, 호들갑 감정기, 과열 차수, 와우 지표, 와우 지수, 확성 지수, 정보 과열 감정 · 수정: 2026-11-02 · 검토: 예비 평가 모형·외부 실측 검증 필요
   - 정보 피로를 실제 중요도·본래의 놀라움·유통 강도로 분해하는 호들갑 감정기 설계. 과열 차수의 산식, 수치 혼선의 교정, 가상 사례, 링크·캡처 입력과 커스텀 GPT 평가 지침을 설명한다.
   - [문서 페이지](https://belorin.github.io/notes/information-hype-wow-index/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/information-hype-wow-index.md)
 - **[Substack은 무엇인가: 개인 뉴스레터, 블로그, 유료 구독이 만나는 공간](wiki/substack-independent-newsletters.md)** · 별칭: 서브스택, 서브트랙, Substack 뉴스레터 · 수정: 2026-11-02 · 검토: 서비스 구조 개관·구독 조건과 인증 시점별 확인 필요

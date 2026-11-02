@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1085개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1086개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (13)
 
@@ -1094,7 +1094,7 @@
 - 분변미생물 이식과 Vowst의 치료 맥락·정착 위험 → `gut-microbiome-colonization` § 분변미생물 이식: 단일 방문객이 아니라 생태계의 일부를 옮기기 · `ing-20261025-fruit-gut-horror`
 - 인간을 각기 다른 내부 생물권을 품은 행성으로 보는 유비 → `gut-microbiome-colonization` § 사람이 하나의 행성이라는 비유의 유효 범위 · `ing-20261025-fruit-gut-horror`
 
-## 정보와 미디어 (13)
+## 정보와 미디어 (14)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -1111,6 +1111,7 @@
 - Substack 직접 발신의 독립성과 검증 절차 부재의 양면성 → `substack-independent-newsletters` § 학자와 논객이 이곳에 모이는 이유 · `ing-20261102-todd-global-south-critical-reading`
 - 에마뉘엘 토드 Substack과 Marianne 저자 지면 비교 → `substack-independent-newsletters` § 에마뉘엘 토드를 읽는 사례 · `ing-20261102-todd-global-south-critical-reading`
 - Substack 연재물을 검증하고 구독할 때의 확인 순서 → `substack-independent-newsletters` § 이용과 검증의 실용적인 순서 · `ing-20261102-todd-global-south-critical-reading`
+- 정보 과열 정도와 주장 자체의 증거 신뢰성을 분리 → `information-hype-wow-index` § 호들갑이 낮아도 근거가 약할 수 있다 · `ing-20261102-todd-global-south-critical-reading`
 
 ## 자연과 과학 (11)
 
