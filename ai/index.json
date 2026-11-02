@@ -54,14 +54,17 @@
         "정보 보존",
         "근거",
         "AI 협업",
-        "검증"
+        "검증",
+        "AI 자율 저술",
+        "에세이",
+        "품질 판단"
       ],
-      "summary": "색인 우선 탐색, 논증·사례 보존, 출처와 해석의 구분, 간접 연결 검토 및 누적 규모에 따른 읽기 비용의 후속 설계.",
+      "summary": "누적 위키의 편집 원칙과 읽기 비용, 근거·해석의 구분, AI 자율 저술의 두 방식과 질적 판단, 기술적 검증과 창작적 자율성의 경계를 다룬다.",
       "published": true,
       "review_state": "needs_review",
       "review_label": "편집 원칙",
-      "last_updated_on": "2026-10-26",
-      "last_enriched_on": "2026-10-26",
+      "last_updated_on": "2026-11-02",
+      "last_enriched_on": "2026-11-02",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "living-notes",

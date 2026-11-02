@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1061개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1066개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (13)
 
@@ -748,7 +748,7 @@
 - 전략 수익과 시장 기준선 대비 상대 성과의 구별 → `upbit-small-capital-trading-experiment` § 수익 판단: 한 번의 흑자보다 반증 가능한 증거 · `ing-20261102-upbit-small-capital-trading`
 - 실패한 전략과 운영 장애를 구분하는 검증 기록 → `upbit-small-capital-trading-experiment` § 중단해야 할 신호와 남겨야 할 증거 · `ing-20261102-upbit-small-capital-trading`
 
-## 운영 (58)
+## 운영 (63)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -810,6 +810,11 @@
 - GPT 위키 제0호기와 후속 누적형 지식백과의 범위 차이 → `gpt-wiki-zero-prototype` § 제0호기와 후속 누적형 지식백과의 차이 · `ing-20261026-gpt-wiki-zero-prototype`
 - 원본 시각 미확인과 구현 여부의 보류 경계 → `gpt-wiki-zero-prototype` § 제0호기와 후속 누적형 지식백과의 차이 · `ing-20261026-gpt-wiki-zero-prototype`
 - 장기 기억 위키의 탐색·동기화·승인·공개 과제 → `gpt-wiki-zero-prototype` § 남겨진 설계 문제 · `ing-20261026-gpt-wiki-zero-prototype`
+- 지식 증보 완료 후 AI의 자율 에세이 집필 여부 판단 → `editing-principles` § 축적 이후의 저술: AI에게 맡기는 판단 · `ing-20261102-ai-autonomous-essays`
+- 증보 후 저술과 독립 자율 저술의 구별 → `editing-principles` § 축적 이후의 저술: AI에게 맡기는 판단 · `ing-20261102-ai-autonomous-essays`
+- AI의 상투적 문장과 기계적 글쓰기 습관을 자기비판으로 개고 → `editing-principles` § AI 특유의 글쓰기 습관을 줄이는 일 · `ing-20261102-ai-autonomous-essays`
+- 기술적 무결성 검증과 저술의 질적 판단을 분리 → `editing-principles` § 검증은 무엇을 위해 존재하는가 · `ing-20261102-ai-autonomous-essays`
+- 생성량 목표보다 AI의 저술 선택과 폐기 권한을 존중 → `editing-principles` § 축적 이후의 저술: AI에게 맡기는 판단 · `ing-20261102-ai-autonomous-essays`
 
 ## 철학 (45)
 
