@@ -31,7 +31,28 @@
 
 ## 장부에 기록된 반영 지식
 
-- 없음 (장부 도입 이전 원고이거나 아직 기록이 없다. 기록이 없다는 것은 내용이 없다는 뜻이 아니다.)
+- **먼저 구별해야 하는 일곱 가지 사법 결과**
+  - 기소·무죄·평결 불능·파기·아동보호 개입의 구별 · `ing-20261103-satanic-panic-teresa`
+- **미국: McMartin Preschool — 대규모 의혹의 끝에 유죄판결이 없었다**
+  - McMartin의 유죄 없는 종결과 Ray Buckey 평결 불능 · `ing-20261103-satanic-panic-teresa`
+- **Fells Acres — 남아 있는 유죄와 오염된 증언의 논쟁**
+  - Fells Acres의 미해소 유죄와 증언 오염 논쟁 · `ing-20261103-satanic-panic-teresa`
+- **Little Rascals — 유죄 이후 항소심 파기와 모든 혐의 취소**
+  - Little Rascals의 유죄 파기 및 잔여 기소 취소 · `ing-20261103-satanic-panic-teresa`
+- **텍사스 Keller 부부 — 오판을 바로잡는 데 걸린 25년**
+  - Keller 부부의 의학 증언 오류와 실질적 무죄 인정 · `ing-20261103-satanic-panic-teresa`
+- **영국 Cleveland 위기 — 사탄 의례가 없어도 벌어지는 과잉 보호의 위험**
+  - Cleveland 위기의 의료판단·행정조치와 보호절차 · `ing-20261103-satanic-panic-teresa`
+- **Rochdale — 사탄 의식 학대 의혹과 가족법원의 반증**
+  - Rochdale 아동 분리와 사탄 의혹의 법정 입증 실패 · `ing-20261103-satanic-panic-teresa`
+- **Orkney — 새벽의 아동 분리와 국가 조사**
+  - Orkney 아동 9명 분리·귀가와 공적 조사 · `ing-20261103-satanic-panic-teresa`
+- **Jean La Fontaine 조사 — 신고 84건은 유죄 84건이 아니다**
+  - La Fontaine의 84건 의혹과 사탄학대 비입증 · `ing-20261103-satanic-panic-teresa`
+- **뉴질랜드 Peter Ellis — 뒤늦게 뒤집힌 판결**
+  - Peter Ellis의 2022년 대법원 유죄 파기 · `ing-20261103-satanic-panic-teresa`
+- **호주의 언론과 국가조사 — 방송국의 국적이 수사 관할은 아니다**
+  - 호주 취재방송과 영국 형사수사 관할 구별 · `ing-20261103-satanic-panic-teresa`
 
 ## 확인된 의미 관계
 

@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1160개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1197개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (17)
 
@@ -248,7 +248,7 @@
 - 작업 고도화와 고용 안정성의 분리 → `african-ai-annotation-labor-2026` § 직무가 고도화되어도 고용은 안전하지 않다 · `ing-20261103-african-ai-annotation-labor`
 - 아프리카 주석 노동 고용·소득 변화의 비교 지표 → `african-ai-annotation-labor-2026` § 고용의 미래를 확인할 자료 · `ing-20261103-african-ai-annotation-labor`
 
-## 문화와 역사 (174)
+## 문화와 역사 (184)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -426,6 +426,157 @@
 - AI 자동화가 대공황과 장기 디플레이션을 재현한다는 예언의 한계 → `great-depression-lived-experience-literature` § 무엇을 비교하면 '끝까지 살아본 사람들'이 보이는가 · `ing-20261030-great-depression-world-literature`
 - 원서·한국어판 서지와 대공황 직접성 미검증 표시 → `great-depression-lived-experience-literature` § 서지 및 해석상의 검증 경계 · `ing-20261030-great-depression-world-literature`
 - 1929년 역사적 유비에 생활사 차원을 도입 → `world-crisis-historical-analogies` § 1929년의 그림자: 신기술·자산·신용·관세 · `ing-20261030-great-depression-world-literature`
+- 사탄 패닉과 조직적 성학대의 개념 구별 → `satanic-panic-english-speaking-history` § 영어권 사탄 패닉의 형성과 쇠퇴: 아동 보호의 각성은 어떻게 비밀 의례 범죄의 공포가 되었나 · `ing-20261103-satanic-panic-teresa`
+- 아동보호 인식의 성장과 반컬트·회복기억 문화의 결합 → `satanic-panic-english-speaking-history` § 기원의 토양: 1970년대의 세 가지 흐름 · `ing-20261103-satanic-panic-teresa`
+- Michelle Remembers와 회복기억 서사의 원형 → `satanic-panic-english-speaking-history` § 《Michelle Remembers》가 제공한 이야기의 원형 · `ing-20261103-satanic-panic-teresa`
+- McMartin 의혹과 1988년 Geraldo 특집의 확산 → `satanic-panic-english-speaking-history` § 어린이집 사건과 전국적 방송이 공포를 증폭하다 · `ing-20261103-satanic-panic-teresa`
+- 미국·영국·호주·뉴질랜드의 서로 다른 제도 경로 → `satanic-panic-english-speaking-history` § 나라별 확산: 하나의 이야기, 서로 다른 제도적 경로 · `ing-20261103-satanic-panic-teresa`
+- 상담·수사·언론의 상호 신용과 진술 오염 → `satanic-panic-english-speaking-history` § 전문가의 확신이 독립 증거처럼 보이는 과정 · `ing-20261103-satanic-panic-teresa`
+- 1990년대 기소 좌절·공식 조사·기억 연구로 공황 약화 → `satanic-panic-english-speaking-history` § 1990년대의 쇠퇴는 무엇이 무너진 결과인가 · `ing-20261103-satanic-panic-teresa`
+- 사탄 대음모의 비입증과 실제 아동학대의 존속 → `satanic-panic-english-speaking-history` § '사탄 패닉은 거짓이었다'라는 문장의 위험 · `ing-20261103-satanic-panic-teresa`
+- 1973~2022년 사탄 패닉의 확산·판결 교정 연대기 → `satanic-panic-english-speaking-history` § 연대기: 공포의 흥망과 사법적 후과 · `ing-20261103-satanic-panic-teresa`
+- 피해자 보호와 형사 입증의 서로 다른 기준 → `satanic-panic-english-speaking-history` § 남는 질문: 피해자를 믿는 것과 사실을 확인하는 것은 충돌해야 하는가 · `ing-20261103-satanic-panic-teresa`
+
+## 사회와 제도 (136)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 무주지와 비민간 토지의 구분 → `public-land-and-blm` § 무주지와 비민간 토지는 다르다 · `ing-20261023-soga-media-burning-ecosystem`
+- 블랙록 사막의 BLM 관리와 Special Recreation Permit → `public-land-and-blm` § 블랙록 사막은 누구의 땅인가 · `ing-20261023-soga-media-burning-ecosystem`
+- BLM의 multiple use 토지 운영 기능 → `public-land-and-blm` § BLM은 국립공원 관리청과 다른 종류의 기관이다 · `ing-20261023-soga-media-burning-ecosystem`
+- 호주·나미비아·사하라의 겹쳐진 토지 권리 사례 → `public-land-and-blm` § 호주: Crown land 위에 여러 권리가 겹친다; `public-land-and-blm` § 나미비아와 사하라·아라비아의 사막 · `ing-20261023-soga-media-burning-ecosystem`
+- 스토킹 피해의 손상과 침해 구분 → `stalking-harm-and-autonomy` § 손상과 침해를 분리하기 · `ing-20261024-stalking-harm-framework`
+- 관계하지 않을 자유와 관계종결 의사의 실효성 → `stalking-harm-and-autonomy` § 관계할 권리와 관계하지 않을 권리 · `ing-20261024-stalking-harm-framework`
+- 강제된 중요성과 자기창설적 관련성 → `stalking-harm-and-autonomy` § 강제된 중요성: 설명 개념이지 구성요건은 아니다; `stalking-harm-and-autonomy` § 정당화된 중요성과 자기창설적 관련성 · `ing-20261024-stalking-harm-framework`
+- 불법적 강제 중요성을 가르는 네 질문 → `stalking-harm-and-autonomy` § 불법성을 가르는 네 질문 · `ing-20261024-stalking-harm-framework`
+- 성적 스토킹의 비동의적 표상과 맥락 결부 → `stalking-harm-and-autonomy` § 성적 스토킹에서 가해자가 새로 만드는 것 · `ing-20261024-stalking-harm-framework`
+- 분노를 피해의 결여가 아니라 침해 인식으로 읽기 → `stalking-harm-and-autonomy` § 분노는 피해의 결여가 아니라 침해의 인식일 수 있다 · `ing-20261024-stalking-harm-framework`
+- 세계의 오염을 생활영역의 비자발적 재편으로 번역 → `stalking-harm-and-autonomy` § 세계의 오염을 법률어로 번역하기 · `ing-20261024-stalking-harm-framework`
+- 범죄 성립·보호조치·실제 손상의 절차적 분리 → `stalking-harm-and-autonomy` § 형사절차에서 세 층위를 분리하기 · `ing-20261024-stalking-harm-framework`
+- 『탁월한 피해자』의 비면식 스토킹과 형사사법 문제의식 → `excellent-victim-kwak-aram` § 책과 문제의식; `excellent-victim-kwak-aram` § 비면식 스토킹과 형사사법의 피해자 자리 · `ing-20261024-stalking-harm-framework`
+- 곽아람의 2026년 공개 활동과 사건 진행 시점 자료 → `excellent-victim-kwak-aram` § 2026년 공개 활동의 흐름; `excellent-victim-kwak-aram` § 사건 진행의 공개된 시점별 상태 · `ing-20261024-stalking-harm-framework`
+- 피해자의 회복을 가해자의 중요성이 낮아지는 상태로 보기 → `excellent-victim-kwak-aram` § 기록 이후의 방향: 사건의 사람이 되지 않기 · `ing-20261024-stalking-harm-framework`
+- 2026년 9월 유럽의 연속적 드론·영공·군사접촉 사건과 전쟁 임박 판단의 구분 → `europe-russia-escalation-signals-2026` § 며칠 사이 겹친 사건들 · `ing-20261024-war-escalation-drone-asymmetry`
+- NATO Article 4·Article 5와 DEFCON의 제도적 차이 → `europe-russia-escalation-signals-2026` § Article 4와 Article 5는 DEFCON이 아니다 · `ing-20261024-war-escalation-drone-asymmetry`
+- 러시아의 직접 지상전선 확대보다 회색지대 접촉면 확대가 갖는 비용·정보·정치적 의미 → `europe-russia-escalation-signals-2026` § 러시아의 ‘전선 확대’보다 ‘접촉면 확대’ · `ing-20261024-war-escalation-drone-asymmetry`
+- 2025년 에스토니아 영공침범 기사와 정례 NATO 회의가 최신 위기정보로 재유통되는 문제 → `europe-russia-escalation-signals-2026` § 재탕 뉴스가 전쟁 임박의 체감을 키우는 방식 · `ing-20261024-war-escalation-drone-asymmetry`
+- FSB 에스토니아 야간통행금지 루머에서 에스토니아 국경운영 결정·FSB 공지·기존 국경제도를 구분 → `europe-russia-escalation-signals-2026` § FSB와 에스토니아 ‘야간통행금지’ 루머 · `ing-20261024-war-escalation-drone-asymmetry`
+- 드론이 만드는 가격·생산시간·목표가치·정치적 귀속의 네 비대칭 → `drone-asymmetric-warfare` § 네 가지 비대칭 · `ing-20261024-war-escalation-drone-asymmetry`
+- 한반도에서 드론이 재래식 전력격차를 제거하기보다 방어비용과 전쟁 지속 가능성을 높이는 문제 → `drone-asymmetric-warfare` § 한반도에서 왜 특히 곤란한가; `drone-asymmetric-warfare` § 전쟁을 짧게 끝내는 격차가 약해질 수 있다 · `ing-20261024-war-escalation-drone-asymmetry`
+- 에티오피아·리비아·키르기스스탄-타지키스탄·말리·부르키나파소·수단의 드론전 사례 → `drone-asymmetric-warfare` § 에티오피아 티그라이 전쟁: 열세 정부군에 즉석 정밀공군을 제공하다; `drone-asymmetric-warfare` § 리비아 내전: 전투를 뒤집었지만 전쟁을 끝내지는 못하다; `drone-asymmetric-warfare` § 2022년 키르기스스탄-타지키스탄 국경전: 국경 총격전의 정밀타격화; `drone-asymmetric-warfare` § 말리와 부르키나파소: 먼 지역에 폭력을 투사할 수 있게 된 약한 정부; `drone-asymmetric-warfare` § 수단 내전: 지상전선이 움직여도 후방이 사라지지 않는다 · `ing-20261024-war-escalation-drone-asymmetry`
+- 드론은 전쟁을 해결하기보다 전투를 뒤집고 약한 세력의 생존기간과 후방 타격범위를 늘리는 경우가 많다는 비교 → `drone-asymmetric-warfare` § 다섯 사례가 보여주는 공통 결과 · `ing-20261024-war-escalation-drone-asymmetry`
+- 일본에서의 미니시어터발 흥행과 가족영화로의 수용 확장 → `dousureba-yokatta-family-psychiatry` § 일본에서 미니시어터발 사회현상이 된 이유 · `ing-20261025-dousureba-utsunomiya`
+- 의사 부모의 전문성과 정신과 임상 전문성의 구분 → `dousureba-yokatta-family-psychiatry` § 부모는 어느 정도의 의사였는가 · `ing-20261025-dousureba-utsunomiya`
+- 1983년 장기입원 회피와 정신과 진료 단절의 분리 평가 → `dousureba-yokatta-family-psychiatry` § 1983년의 출발점: 이미 정신과에 갔다가 치료 연결이 끊겼다 · `ing-20261025-dousureba-utsunomiya`
+- 1983~2008년 치료 선택지 변화에 따른 시기별 재평가 → `dousureba-yokatta-family-psychiatry` § 치료 판단을 시간축으로 다시 채점하기 · `ing-20261025-dousureba-utsunomiya`
+- 성인 남동생의 입원 결정권과 행정적 우회로의 구분 → `dousureba-yokatta-family-psychiatry` § 왜 남동생이 부모를 뿌리치고 누나를 데려가지 못했는가; `dousureba-yokatta-family-psychiatry` § 그렇다고 동생에게 아무 우회로도 없었던 것은 아니다 · `ing-20261025-dousureba-utsunomiya`
+- 한일 가족책임 차이를 가족 무관심이 아닌 책임의 분절로 해석 → `dousureba-yokatta-family-psychiatry` § 한국과 일본의 가족 개입 문화는 어떻게 다른가; `dousureba-yokatta-family-psychiatry` § “각 관계에는 주인이 있다”는 해석 · `ing-20261025-dousureba-utsunomiya`
+- 우쓰노미야 병원의 인력부족·환자 노동·무자격 의료 구조 → `utsunomiya-psychiatric-hospital-reform` § 944명의 환자와 턱없이 부족한 의료인력; `utsunomiya-psychiatric-hospital-reform` § 환자 노동과 무자격 의료 · `ing-20261025-dousureba-utsunomiya`
+- 543명 재심사와 퇴원 불가능성이 드러낸 사회적 입원 → `utsunomiya-psychiatric-hospital-reform` § 543명 전수 재심사와 “사회적 입원” · `ing-20261025-dousureba-utsunomiya`
+- 우쓰노미야 사건 이후 국제비판과 1987년 정신보건법 개정 → `utsunomiya-psychiatric-hospital-reform` § 1985년 국제조사단이 본 일본 정신의료; `utsunomiya-psychiatric-hospital-reform` § 1987년 정신보건법 개정 · `ing-20261025-dousureba-utsunomiya`
+- 1990년대 이후 반복된 정신병원 인권침해와 감독 실패 사례 → `utsunomiya-psychiatric-hospital-reform` § 1990년대 이후 반복된 주요 사건 · `ing-20261025-dousureba-utsunomiya`
+- 2024년 정신과병원 학대 신고의무와 첫 전국 집계 → `utsunomiya-psychiatric-hospital-reform` § 2024년부터 전국화된 학대 신고의무 · `ing-20261025-dousureba-utsunomiya`
+- 우쓰노미야의 교훈과 1983년 치료거부를 구분하는 기준 → `utsunomiya-psychiatric-hospital-reform` § 《어떻게 해야 했을까》의 1983년을 다시 보는 법 · `ing-20261025-dousureba-utsunomiya`
+- 흑해함대 3분의 1 무력화 발언의 분모와 해상무인정 단독 기여 해석의 구분 → `black-sea-ukraine-sea-denial` § 군함의 3분의 1이라는 말의 범위 · `ing-20261026-war-resilience-border-faultlines`
+- 흑해의 제해권과 해상거부를 구별하는 기능별 분석 → `black-sea-ukraine-sea-denial` § 함대의 수와 바다를 사용할 권리는 다르다 · `ing-20261026-war-resilience-border-faultlines`
+- 흑해 구역별 통제와 오데사 수출 회랑의 회복 및 잔여 타격 위험 → `black-sea-ukraine-sea-denial` § 어느 바다를 누가 장악하는가 · `ing-20261026-war-resilience-border-faultlines`
+- 드론 정찰 타격 전자전 결합으로 지상 기동을 제한하는 구조 → `ukraine-ground-drone-defense` § 정찰-타격-전자전의 결합 · `ing-20261026-war-resilience-border-faultlines`
+- 드론 표적 파괴 비중과 사상자 비중의 서로 다른 분모 → `ukraine-ground-drone-defense` § 드론 80%라는 수치의 함정 · `ing-20261026-war-resilience-border-faultlines`
+- AI 정보처리와 지상무인차량 보급을 지상 드론 전투와 구별 → `ukraine-ground-drone-defense` § AI의 실제 위치: 판단을 압축하되 완전히 대체하지는 않는다 · `ing-20261026-war-resilience-border-faultlines`
+- 무인체계 제거 반사실과 30·40~60% 기여율의 정량 검증 한계 → `ukraine-ground-drone-defense` § 반사실적 질문: 무인체계가 없었다면 몇 퍼센트 더 못 버텼을까 · `ing-20261026-war-resilience-border-faultlines`
+- 러시아의 무인체계 학습과 상호 기동거부로의 변화 → `ukraine-ground-drone-defense` § 러시아도 배웠다: 비대칭 우위에서 상호거부 전장으로 · `ing-20261026-war-resilience-border-faultlines`
+- 러시아군 120만 사상자 추정과 약 30만 전사자 추정의 구별 → `russia-ukraine-war-endurance` § 120만 사상자와 30만 전사자는 다르다 · `ing-20261026-war-resilience-border-faultlines`
+- 러시아 모병과 정치적 손실 흡수 및 숙련병 재생산의 차이 → `russia-ukraine-war-endurance` § 국가의 손상과 정권의 위험은 왜 엇갈리는가 · `ing-20261026-war-resilience-border-faultlines`
+- 러시아 전사자 누적 단계표를 정치적 임계선으로 해석하지 않는 방법 → `russia-ukraine-war-endurance` § 전사자가 몇 명이면 러시아가 멈출까 · `ing-20261026-war-resilience-border-faultlines`
+- 우크라이나 보병 교대 방공 서방 재정의 내구도 병목 → `russia-ukraine-war-endurance` § 우크라이나 내구도의 병목: 전선에는 사람이 필요하다 · `ing-20261026-war-resilience-border-faultlines`
+- 장기 소모전 휴전 국지돌파 반격의 전망과 비정규화 확률 구분 → `russia-ukraine-war-endurance` § 가까운 시기의 네 경로와 전망치의 한계 · `ing-20261026-war-resilience-border-faultlines`
+- 인도 파키스탄 2025년 5월 충돌과 테러 보복 확대 경로 → `south-asia-border-rivalries-2026` § 인도-파키스탄: 테러가 군사보복으로 번역되는 경로 · `ing-20261026-war-resilience-border-faultlines`
+- 인도 중국 2020년 갈완 충돌 2024년 라다크 이격 및 수자원 경쟁 → `south-asia-border-rivalries-2026` § 인도-중국: 2020년 충돌과 2024년 이격 · `ing-20261026-war-resilience-border-faultlines`
+- 아프간 탈레반과 파키스탄 TTP의 조직 구별과 전략적 후방의 역설 → `south-asia-border-rivalries-2026` § 아프가니스탄-파키스탄: 두 탈레반과 하나의 국경 · `ing-20261026-war-resilience-border-faultlines`
+- 듀랜드 라인 파슈툰 공동체 난민 추방과 2026년 국경 직접 교전 → `south-asia-border-rivalries-2026` § 듀랜드 라인: 국경을 둘러싼 상충된 정당성 · `ing-20261026-war-resilience-border-faultlines`
+- 발발 가능성과 파급력의 순위 기준을 분리하고 이미 교전 중인 지역을 제외 → `global-flashpoints-likelihood-2026` § 무엇을 '발발'로 셀 것인가 · `ing-20261026-war-resilience-border-faultlines`
+- 태국 캄보디아 남중국해 카슈미르 등 소규모 충돌 발발 서열 → `global-flashpoints-likelihood-2026` § 발생 가능성만 고려한 서열 · `ing-20261026-war-resilience-border-faultlines`
+- 대만 한반도 러시아 NATO의 높은 파급력과 낮은 즉시 교전 가능성 구별 → `global-flashpoints-likelihood-2026` § 중요하지만 '첫 충돌 가능성'으로는 순위가 내려가는 곳 · `ing-20261026-war-resilience-border-faultlines`
+- 드론 일반 비대칭의 흑해 및 우크라이나 지상전 비교 → `drone-asymmetric-warfare` § 우크라이나에서 비대칭이 바다와 육지에 적용된 방식 · `ing-20261026-war-resilience-border-faultlines`
+- 차바하르에서 호르무즈까지: 하나의 항구가 드러낸 전략의 역설 → `hormuz-iran-war-naval-power-2026` § 차바하르에서 호르무즈까지: 하나의 항구가 드러낸 전략의 역설 · `ing-20261026-hormuz-indian-ocean-naval`
+- 인도양의 해군들: 숫자와 임무가 어긋나는 곳 → `hormuz-iran-war-naval-power-2026` § 인도양의 해군들: 숫자와 임무가 어긋나는 곳 · `ing-20261026-hormuz-indian-ocean-naval`
+- 함대를 이기는 것과 해협을 여는 것은 다르다 → `hormuz-iran-war-naval-power-2026` § 함대를 이기는 것과 해협을 여는 것은 다르다 · `ing-20261026-hormuz-indian-ocean-naval`
+- 어디까지 억제해야 하는가: 섬, 해안, 내륙 → `hormuz-iran-war-naval-power-2026` § 어디까지 억제해야 하는가: 섬, 해안, 내륙 · `ing-20261026-hormuz-indian-ocean-naval`
+- 전쟁을 닫는 작전과 전쟁을 키우는 작전 → `hormuz-iran-war-naval-power-2026` § 전쟁을 닫는 작전과 전쟁을 키우는 작전 · `ing-20261026-hormuz-indian-ocean-naval`
+- 걸프의 분산 기지와 이란의 비대칭 보복 → `hormuz-iran-war-naval-power-2026` § 걸프의 분산 기지와 이란의 비대칭 보복 · `ing-20261026-hormuz-indian-ocean-naval`
+- 전쟁의 종결은 무엇을 뜻하는가 → `hormuz-iran-war-naval-power-2026` § 전쟁의 종결은 무엇을 뜻하는가 · `ing-20261026-hormuz-indian-ocean-naval`
+- 차바하르 항만과 인도의 전략적 자율성 → `chabahar-india-strategic-autonomy-2026` § 미국과 협력하면서 이란에도 투자하는 이유 · `ing-20261026-hormuz-indian-ocean-naval`
+- 인도와 호주 해군의 전력 및 훈련 → `indian-ocean-navies-comparison` § 훈련의 이름에서 실제 과목을 읽기 · `ing-20261026-hormuz-indian-ocean-naval`
+- 호르무즈 기뢰 소해와 상업항행 재개 → `hormuz-sea-denial-reopening` § 해협을 연다는 말의 세 단계 · `ing-20261026-hormuz-indian-ocean-naval`
+- 미군 전개와 F-15E 승무원 구조 → `iran-war-us-force-losses-2026` § F-15E 승무원 구조 사건이 드러낸 증거의 층위 · `ing-20261026-hormuz-indian-ocean-naval`
+- 출생순위 성격론과 인지·학업 효과 → `birth-order-korean-evidence` § 성격의 법칙과 평균적 차이의 거리 · `ing-20261030-birth-order-korea`
+- 한국의 부모화·양육통제·형제관계 연구 → `birth-order-korean-evidence` § 부모화: 출생순위가 아니라 맡겨진 역할 · `ing-20261030-birth-order-korea`
+- 국제 비교와 문화적 일반화의 한계 → `birth-order-korean-evidence` § 국제 비교: 나라가 바뀌면 효과도 바뀌는가 · `ing-20261030-birth-order-korea`
+- 망 이용대가와 전자적 전송 관세의 법적 대상 구별 → `wto-digital-transmission-moratorium` § 세 가지 층위: 통신요금, 망 이용대가, 디지털 관세 · `ing-20261030-wto-digital-transmissions`
+- 1998년 WTO 전자상거래 관세 유예와 반복 연장 구조 → `wto-digital-transmission-moratorium` § 1998년의 유예는 영구 면제가 아니었다 · `ing-20261030-wto-digital-transmissions`
+- 2024년 MC13 기한과 2026년 MC14 연장 실패 보도 → `wto-digital-transmission-moratorium` § 1998년의 유예는 영구 면제가 아니었다 · `ing-20261030-wto-digital-transmissions`
+- 2026년 19개 WTO 회원의 별도 비부과 약속 보도 → `wto-digital-transmission-moratorium` § 1998년의 유예는 영구 면제가 아니었다 · `ing-20261030-wto-digital-transmissions`
+- 전자적 전송의 범위: 다운로드·클라우드·AI 모델·API → `wto-digital-transmission-moratorium` § 무엇을 '전자적 전송'이라 부를 것인가 · `ing-20261030-wto-digital-transmissions`
+- 브라질과 인도의 정책 공간·세수·연장 기한 논쟁 → `wto-digital-transmission-moratorium` § 왜 브라질과 인도가 이 유예에 의문을 제기하는가 · `ing-20261030-wto-digital-transmissions`
+- 잠재적 관세 수입과 중소 플랫폼의 거래비용·진입장벽 → `wto-digital-transmission-moratorium` § 왜 브라질과 인도가 이 유예에 의문을 제기하는가 · `ing-20261030-wto-digital-transmissions`
+- EU의 공정분담과 디지털네트워크법 조정 접근 → `wto-digital-transmission-moratorium` § 함께 떠오른 또 다른 논쟁: 통신사의 '공정분담' · `ing-20261030-wto-digital-transmissions`
+- ANATEL·TRAI의 망 이용대가 및 OTT 규제와 WTO 관세의 차이 → `wto-digital-transmission-moratorium` § 함께 떠오른 또 다른 논쟁: 통신사의 '공정분담' · `ing-20261030-wto-digital-transmissions`
+- 메타와 도이치텔레콤 네트워크 서비스 계약 분쟁 → `wto-digital-transmission-moratorium` § 함께 떠오른 또 다른 논쟁: 통신사의 '공정분담' · `ing-20261030-wto-digital-transmissions`
+- 데이터센터 내부 트래픽·국경 간 전송·사용자 서비스의 구분 → `wto-digital-transmission-moratorium` § 데이터센터와 AI: 어느 데이터가 국경을 넘는가 · `ing-20261030-wto-digital-transmissions`
+- AI 현지화·CDN·전력망 비용과 디지털 관세의 별도 영향 경로 → `wto-digital-transmission-moratorium` § 데이터센터와 AI: 어느 데이터가 국경을 넘는가 · `ing-20261030-wto-digital-transmissions`
+- 국가별 디지털 통상 규칙과 ISP 계약의 중첩에 따른 인터넷 파편화 위험 → `wto-digital-transmission-moratorium` § 세계 인터넷이 톨게이트로 분할되는가 · `ing-20261030-wto-digital-transmissions`
+- 보도된 합의의 법적 상태·국가별 과세와 AI 적용 범위의 검증 필요성 → `wto-digital-transmission-moratorium` § 무엇이 이미 벌어진 일이고, 무엇이 아직 가설인가 · `ing-20261030-wto-digital-transmissions`
+- 대화에서 제시된 WTO·Reuters·TRAI·ANATEL·USTR·IEA 참고 경로 → `wto-digital-transmission-moratorium` § 참고 경로와 자료의 한계 · `ing-20261030-wto-digital-transmissions`
+- 실리콘밸리의 교외형 다도시 회랑 → `silicon-valley-firm-geography` § 실리콘밸리는 한 동네가 아니다: 기업 본사와 교외형 기술 회랑의 지리 · `ing-20261030-ai-labor-cloud-us-regions`
+- 실리콘밸리 주요 도시와 대표 기업 → `silicon-valley-firm-geography` § 만의 서쪽에서 남쪽으로 내려가는 회사들 · `ing-20261030-ai-labor-cloud-us-regions`
+- 고속도로와 교외 캠퍼스의 공간적 집적 → `silicon-valley-firm-geography` § 지도로 보면 왜 성기게 느껴지는가 · `ing-20261030-ai-labor-cloud-us-regions`
+- 한국 수도권 회랑과의 공간 비유 → `silicon-valley-firm-geography` § 판교 한 블록이 아니라 강남–판교–분당–수원 축 · `ing-20261030-ai-labor-cloud-us-regions`
+- BPO 시장의 수요·공급·고용 통계 구별 → `global-bpo-labor-geography` § 시장의 크기를 재는 서로 다른 자 · `ing-20261030-ai-labor-cloud-us-regions`
+- 주요 BPO 공급국 산업별 규모 예시 → `global-bpo-labor-geography` § 세계의 핵심 공급 회랑 · `ing-20261030-ai-labor-cloud-us-regions`
+- BPO 지역별 청구단가와 임금의 차이 → `global-bpo-labor-geography` § 단가: 고객이 내는 값과 노동자가 받는 임금은 다르다 · `ing-20261030-ai-labor-cloud-us-regions`
+- BPO 음성·백오피스·KPO·AI 데이터 업무 분화 → `global-bpo-labor-geography` § 업무별 지리: 콜센터, 백오피스, 전문가 서비스, AI 데이터 · `ing-20261030-ai-labor-cloud-us-regions`
+- BPO 가격과 노동자 복지의 일대일 대응 반박 → `global-bpo-labor-geography` § 노동자 복지를 국가 순위표로 만들기 어려운 이유 · `ing-20261030-ai-labor-cloud-us-regions`
+- 미국 실업률·고용률·경제활동참가율의 분모 → `us-labor-market-geography-2026` § 실업률과 취업률은 다른 분모를 쓴다 · `ing-20261030-ai-labor-cloud-us-regions`
+- 2026년 4월 미국 전국 고용시장 당시 지표 → `us-labor-market-geography-2026` § 2026년 4월 전국 지표: 실업률은 낮지만 채용은 느려진 모습 · `ing-20261030-ai-labor-cloud-us-regions`
+- 2026년 3월 미국 네 권역 실업률 비교 → `us-labor-market-geography-2026` § 남부·중서부·동북부·서부: 미국 전체의 네 권역 · `ing-20261030-ai-labor-cloud-us-regions`
+- 2026년 3월 미국 주요 주별 실업률 → `us-labor-market-geography-2026` § 2026년 3월의 주요 주별 차이 · `ing-20261030-ai-labor-cloud-us-regions`
+- 저채용·저해고와 구직 체감의 차이 → `us-labor-market-geography-2026` § 구인 건수, 신규 실업수당, 장기실업을 함께 본다 · `ing-20261030-ai-labor-cloud-us-regions`
+- 지역 실업률을 AI 원인에 귀속하지 않는 원칙 → `us-labor-market-geography-2026` § 미국의 노동시장 문제를 AI 하나로 설명하지 않는 이유 · `ing-20261030-ai-labor-cloud-us-regions`
+- 캘리포니아 설비 보강과 예방정전 → `powerline-wildfire-mitigation-world-korea` § 캘리포니아: 지중화와 피복 전선, 예방정전의 병용 · `ing-20261102-wildfire-powerlines-liability`
+- 빅토리아 산불 위험 저감 평가 수치의 모수 → `powerline-wildfire-mitigation-world-korea` § 호주 빅토리아: 블랙 새터데이 이후 계량화한 위험 저감 · `ing-20261102-wildfire-powerlines-liability`
+- 스페인과 포르투갈의 식생관리 대응 → `powerline-wildfire-mitigation-world-korea` § 남유럽: 전력선 밑의 숲 자체를 관리한다 · `ing-20261102-wildfire-powerlines-liability`
+- 송전·배전 대책의 적용 범위 차이 → `powerline-wildfire-mitigation-world-korea` § 수단별로 겨냥하는 위험이 다르다 · `ing-20261102-wildfire-powerlines-liability`
+- 한전 산불 특별관리 지역과 산지 설비 개선 → `powerline-wildfire-mitigation-world-korea` § 한국도 2019년 이후 대응했는가 · `ing-20261102-wildfire-powerlines-liability`
+- 발화 건수·노출율·유사구간 비교의 효과평가 → `powerline-wildfire-mitigation-world-korea` § 실제로 먹혔는지를 평가하는 세 겹의 지표 · `ing-20261102-wildfire-powerlines-liability`
+- 2025 산청·하동 산불의 피해와 확산 조건 → `sancheong-wildfire-2025-prevention` § 산불의 경과와 지형·기상의 역할 · `ing-20261102-wildfire-powerlines-liability`
+- 산청의 인위적 발화 원인과 확정 판정의 간극 → `sancheong-wildfire-2025-prevention` § 발화 원인: 특정 주장과 확정 판정 사이 · `ing-20261102-wildfire-powerlines-liability`
+- 산청 산불의 발화·초동·대형화 예방 구별 → `sancheong-wildfire-2025-prevention` § 발화 예방과 초동 진화의 차이 · `ing-20261102-wildfire-powerlines-liability`
+- 산청 산불을 송전선 지중화 효과로 오용하지 않기 → `sancheong-wildfire-2025-prevention` § 송전선 지중화 논의와 어디서 만나는가 · `ing-20261102-wildfire-powerlines-liability`
+- 산불의 청구액·인정액·회수액 차이 → `wildfire-liability-insurance-risk-society` § 청구액, 인정액, 실제 회수액 · `ing-20261102-wildfire-powerlines-liability`
+- 개인 실화·방화 배상 및 강원 산불 소송의 불확실성 → `wildfire-liability-insurance-risk-society` § 청구액, 인정액, 실제 회수액 · `ing-20261102-wildfire-powerlines-liability`
+- 과실 규모와 대형재난 결과 사이의 책임 문제 → `wildfire-liability-insurance-risk-society` § 개인 과실과 대형재난의 비례 문제 · `ing-20261102-wildfire-powerlines-liability`
+- 한국 입산통제와 화기 소지 규제의 현행 범위 → `wildfire-liability-insurance-risk-society` § 한국에서 이미 존재하는 출입·화기 규제 · `ing-20261102-wildfire-powerlines-liability`
+- 한전 산불 손해배상책임보험의 실제 담보 여부 → `wildfire-liability-insurance-risk-society` § 한전도 보험을 갖고 있는가 · `ing-20261102-wildfire-powerlines-liability`
+- 캘리포니아 FAIR Plan과 한국 보험위험의 차이 → `wildfire-liability-insurance-risk-society` § 보험시장이 먼저 '살지 말라'고 말하는 경우 · `ing-20261102-wildfire-powerlines-liability`
+- 반복 산불에 따른 위험 기반 통제사회 시나리오 → `wildfire-liability-insurance-risk-society` § 위험 기반 통제사회라는 SF적 가설 · `ing-20261102-wildfire-powerlines-liability`
+- 사회적 재난 비용과 개인 배상 불능의 긴장 → `wildfire-liability-insurance-risk-society` § 작은 행위와 감당 불가능한 청구서 · `ing-20261102-wildfire-powerlines-liability`
+- 기소·무죄·평결 불능·파기·아동보호 개입의 구별 → `satanic-panic-court-inquiries` § 먼저 구별해야 하는 일곱 가지 사법 결과 · `ing-20261103-satanic-panic-teresa`
+- McMartin의 유죄 없는 종결과 Ray Buckey 평결 불능 → `satanic-panic-court-inquiries` § 미국: McMartin Preschool — 대규모 의혹의 끝에 유죄판결이 없었다 · `ing-20261103-satanic-panic-teresa`
+- Fells Acres의 미해소 유죄와 증언 오염 논쟁 → `satanic-panic-court-inquiries` § Fells Acres — 남아 있는 유죄와 오염된 증언의 논쟁 · `ing-20261103-satanic-panic-teresa`
+- Little Rascals의 유죄 파기 및 잔여 기소 취소 → `satanic-panic-court-inquiries` § Little Rascals — 유죄 이후 항소심 파기와 모든 혐의 취소 · `ing-20261103-satanic-panic-teresa`
+- Keller 부부의 의학 증언 오류와 실질적 무죄 인정 → `satanic-panic-court-inquiries` § 텍사스 Keller 부부 — 오판을 바로잡는 데 걸린 25년 · `ing-20261103-satanic-panic-teresa`
+- Cleveland 위기의 의료판단·행정조치와 보호절차 → `satanic-panic-court-inquiries` § 영국 Cleveland 위기 — 사탄 의례가 없어도 벌어지는 과잉 보호의 위험 · `ing-20261103-satanic-panic-teresa`
+- Rochdale 아동 분리와 사탄 의혹의 법정 입증 실패 → `satanic-panic-court-inquiries` § Rochdale — 사탄 의식 학대 의혹과 가족법원의 반증 · `ing-20261103-satanic-panic-teresa`
+- Orkney 아동 9명 분리·귀가와 공적 조사 → `satanic-panic-court-inquiries` § Orkney — 새벽의 아동 분리와 국가 조사 · `ing-20261103-satanic-panic-teresa`
+- La Fontaine의 84건 의혹과 사탄학대 비입증 → `satanic-panic-court-inquiries` § Jean La Fontaine 조사 — 신고 84건은 유죄 84건이 아니다 · `ing-20261103-satanic-panic-teresa`
+- Peter Ellis의 2022년 대법원 유죄 파기 → `satanic-panic-court-inquiries` § 뉴질랜드 Peter Ellis — 뒤늦게 뒤집힌 판결 · `ing-20261103-satanic-panic-teresa`
+- 호주 취재방송과 영국 형사수사 관할 구별 → `satanic-panic-court-inquiries` § 호주의 언론과 국가조사 — 방송국의 국적이 수사 관할은 아니다 · `ing-20261103-satanic-panic-teresa`
+- Ray Wyre의 보호관찰·Albany 교도소 업무 이력 → `ray-wyre-sex-offender-treatment` § 교도소의 수용자에서 치료의 대상자를 보다 · `ing-20261103-satanic-panic-teresa`
+- Gracewell Clinic 설립·폐쇄와 Wolvercote 후속 과정 → `ray-wyre-sex-offender-treatment` § 1988년 Gracewell Clinic과 실험적 재범방지 모델 · `ing-20261103-satanic-panic-teresa`
+- Ray Wyre의 저술·자문 및 2008년 사망과 의회 추모 → `ray-wyre-sex-offender-treatment` § 저술·자문과 대중적 영향 · `ing-20261103-satanic-panic-teresa`
+- 1989년 방송에서의 SRA 사례 21건 주장 → `ray-wyre-sex-offender-treatment` § 1989년 「Satan's Children」에서의 발언 · `ing-20261103-satanic-panic-teresa`
+- 전문가의 임상 경험과 사법적 물증의 구별 → `ray-wyre-sex-offender-treatment` § 전문성의 권위는 어디에서 끝나는가 · `ing-20261103-satanic-panic-teresa`
+- 성범죄자 치료의 공헌과 논쟁적 SRA 주장 병존 → `ray-wyre-sex-offender-treatment` § 사후 평판의 비대칭: 치료의 선구자와 논쟁적인 증인 · `ing-20261103-satanic-panic-teresa`
 
 ## 음악 (125)
 
@@ -556,130 +707,6 @@
 - 수상 위촉 상주작곡가 초연과 정전의 구별 → `living-orchestral-listening-journey` § 현재성을 확인하는 두 번째 축: 작품이 아니라 기관이 움직인다 · `ing-20261030-contemporary-symphonic-journey`
 - 초연 개정 시점과 2026년 수상 생존 여부의 재검증 경계 → `living-orchestral-listening-journey` § 자료 범위와 추가 확인 지점 · `ing-20261030-contemporary-symphonic-journey`
 - 청취기록으로 작품 반복과 해석자 팬덤을 관찰하기 → `living-orchestral-listening-journey` § 청취 기록: 사람의 이름이 되는 순간을 관찰하기 · `ing-20261030-contemporary-symphonic-journey`
-
-## 사회와 제도 (119)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 무주지와 비민간 토지의 구분 → `public-land-and-blm` § 무주지와 비민간 토지는 다르다 · `ing-20261023-soga-media-burning-ecosystem`
-- 블랙록 사막의 BLM 관리와 Special Recreation Permit → `public-land-and-blm` § 블랙록 사막은 누구의 땅인가 · `ing-20261023-soga-media-burning-ecosystem`
-- BLM의 multiple use 토지 운영 기능 → `public-land-and-blm` § BLM은 국립공원 관리청과 다른 종류의 기관이다 · `ing-20261023-soga-media-burning-ecosystem`
-- 호주·나미비아·사하라의 겹쳐진 토지 권리 사례 → `public-land-and-blm` § 호주: Crown land 위에 여러 권리가 겹친다; `public-land-and-blm` § 나미비아와 사하라·아라비아의 사막 · `ing-20261023-soga-media-burning-ecosystem`
-- 스토킹 피해의 손상과 침해 구분 → `stalking-harm-and-autonomy` § 손상과 침해를 분리하기 · `ing-20261024-stalking-harm-framework`
-- 관계하지 않을 자유와 관계종결 의사의 실효성 → `stalking-harm-and-autonomy` § 관계할 권리와 관계하지 않을 권리 · `ing-20261024-stalking-harm-framework`
-- 강제된 중요성과 자기창설적 관련성 → `stalking-harm-and-autonomy` § 강제된 중요성: 설명 개념이지 구성요건은 아니다; `stalking-harm-and-autonomy` § 정당화된 중요성과 자기창설적 관련성 · `ing-20261024-stalking-harm-framework`
-- 불법적 강제 중요성을 가르는 네 질문 → `stalking-harm-and-autonomy` § 불법성을 가르는 네 질문 · `ing-20261024-stalking-harm-framework`
-- 성적 스토킹의 비동의적 표상과 맥락 결부 → `stalking-harm-and-autonomy` § 성적 스토킹에서 가해자가 새로 만드는 것 · `ing-20261024-stalking-harm-framework`
-- 분노를 피해의 결여가 아니라 침해 인식으로 읽기 → `stalking-harm-and-autonomy` § 분노는 피해의 결여가 아니라 침해의 인식일 수 있다 · `ing-20261024-stalking-harm-framework`
-- 세계의 오염을 생활영역의 비자발적 재편으로 번역 → `stalking-harm-and-autonomy` § 세계의 오염을 법률어로 번역하기 · `ing-20261024-stalking-harm-framework`
-- 범죄 성립·보호조치·실제 손상의 절차적 분리 → `stalking-harm-and-autonomy` § 형사절차에서 세 층위를 분리하기 · `ing-20261024-stalking-harm-framework`
-- 『탁월한 피해자』의 비면식 스토킹과 형사사법 문제의식 → `excellent-victim-kwak-aram` § 책과 문제의식; `excellent-victim-kwak-aram` § 비면식 스토킹과 형사사법의 피해자 자리 · `ing-20261024-stalking-harm-framework`
-- 곽아람의 2026년 공개 활동과 사건 진행 시점 자료 → `excellent-victim-kwak-aram` § 2026년 공개 활동의 흐름; `excellent-victim-kwak-aram` § 사건 진행의 공개된 시점별 상태 · `ing-20261024-stalking-harm-framework`
-- 피해자의 회복을 가해자의 중요성이 낮아지는 상태로 보기 → `excellent-victim-kwak-aram` § 기록 이후의 방향: 사건의 사람이 되지 않기 · `ing-20261024-stalking-harm-framework`
-- 2026년 9월 유럽의 연속적 드론·영공·군사접촉 사건과 전쟁 임박 판단의 구분 → `europe-russia-escalation-signals-2026` § 며칠 사이 겹친 사건들 · `ing-20261024-war-escalation-drone-asymmetry`
-- NATO Article 4·Article 5와 DEFCON의 제도적 차이 → `europe-russia-escalation-signals-2026` § Article 4와 Article 5는 DEFCON이 아니다 · `ing-20261024-war-escalation-drone-asymmetry`
-- 러시아의 직접 지상전선 확대보다 회색지대 접촉면 확대가 갖는 비용·정보·정치적 의미 → `europe-russia-escalation-signals-2026` § 러시아의 ‘전선 확대’보다 ‘접촉면 확대’ · `ing-20261024-war-escalation-drone-asymmetry`
-- 2025년 에스토니아 영공침범 기사와 정례 NATO 회의가 최신 위기정보로 재유통되는 문제 → `europe-russia-escalation-signals-2026` § 재탕 뉴스가 전쟁 임박의 체감을 키우는 방식 · `ing-20261024-war-escalation-drone-asymmetry`
-- FSB 에스토니아 야간통행금지 루머에서 에스토니아 국경운영 결정·FSB 공지·기존 국경제도를 구분 → `europe-russia-escalation-signals-2026` § FSB와 에스토니아 ‘야간통행금지’ 루머 · `ing-20261024-war-escalation-drone-asymmetry`
-- 드론이 만드는 가격·생산시간·목표가치·정치적 귀속의 네 비대칭 → `drone-asymmetric-warfare` § 네 가지 비대칭 · `ing-20261024-war-escalation-drone-asymmetry`
-- 한반도에서 드론이 재래식 전력격차를 제거하기보다 방어비용과 전쟁 지속 가능성을 높이는 문제 → `drone-asymmetric-warfare` § 한반도에서 왜 특히 곤란한가; `drone-asymmetric-warfare` § 전쟁을 짧게 끝내는 격차가 약해질 수 있다 · `ing-20261024-war-escalation-drone-asymmetry`
-- 에티오피아·리비아·키르기스스탄-타지키스탄·말리·부르키나파소·수단의 드론전 사례 → `drone-asymmetric-warfare` § 에티오피아 티그라이 전쟁: 열세 정부군에 즉석 정밀공군을 제공하다; `drone-asymmetric-warfare` § 리비아 내전: 전투를 뒤집었지만 전쟁을 끝내지는 못하다; `drone-asymmetric-warfare` § 2022년 키르기스스탄-타지키스탄 국경전: 국경 총격전의 정밀타격화; `drone-asymmetric-warfare` § 말리와 부르키나파소: 먼 지역에 폭력을 투사할 수 있게 된 약한 정부; `drone-asymmetric-warfare` § 수단 내전: 지상전선이 움직여도 후방이 사라지지 않는다 · `ing-20261024-war-escalation-drone-asymmetry`
-- 드론은 전쟁을 해결하기보다 전투를 뒤집고 약한 세력의 생존기간과 후방 타격범위를 늘리는 경우가 많다는 비교 → `drone-asymmetric-warfare` § 다섯 사례가 보여주는 공통 결과 · `ing-20261024-war-escalation-drone-asymmetry`
-- 일본에서의 미니시어터발 흥행과 가족영화로의 수용 확장 → `dousureba-yokatta-family-psychiatry` § 일본에서 미니시어터발 사회현상이 된 이유 · `ing-20261025-dousureba-utsunomiya`
-- 의사 부모의 전문성과 정신과 임상 전문성의 구분 → `dousureba-yokatta-family-psychiatry` § 부모는 어느 정도의 의사였는가 · `ing-20261025-dousureba-utsunomiya`
-- 1983년 장기입원 회피와 정신과 진료 단절의 분리 평가 → `dousureba-yokatta-family-psychiatry` § 1983년의 출발점: 이미 정신과에 갔다가 치료 연결이 끊겼다 · `ing-20261025-dousureba-utsunomiya`
-- 1983~2008년 치료 선택지 변화에 따른 시기별 재평가 → `dousureba-yokatta-family-psychiatry` § 치료 판단을 시간축으로 다시 채점하기 · `ing-20261025-dousureba-utsunomiya`
-- 성인 남동생의 입원 결정권과 행정적 우회로의 구분 → `dousureba-yokatta-family-psychiatry` § 왜 남동생이 부모를 뿌리치고 누나를 데려가지 못했는가; `dousureba-yokatta-family-psychiatry` § 그렇다고 동생에게 아무 우회로도 없었던 것은 아니다 · `ing-20261025-dousureba-utsunomiya`
-- 한일 가족책임 차이를 가족 무관심이 아닌 책임의 분절로 해석 → `dousureba-yokatta-family-psychiatry` § 한국과 일본의 가족 개입 문화는 어떻게 다른가; `dousureba-yokatta-family-psychiatry` § “각 관계에는 주인이 있다”는 해석 · `ing-20261025-dousureba-utsunomiya`
-- 우쓰노미야 병원의 인력부족·환자 노동·무자격 의료 구조 → `utsunomiya-psychiatric-hospital-reform` § 944명의 환자와 턱없이 부족한 의료인력; `utsunomiya-psychiatric-hospital-reform` § 환자 노동과 무자격 의료 · `ing-20261025-dousureba-utsunomiya`
-- 543명 재심사와 퇴원 불가능성이 드러낸 사회적 입원 → `utsunomiya-psychiatric-hospital-reform` § 543명 전수 재심사와 “사회적 입원” · `ing-20261025-dousureba-utsunomiya`
-- 우쓰노미야 사건 이후 국제비판과 1987년 정신보건법 개정 → `utsunomiya-psychiatric-hospital-reform` § 1985년 국제조사단이 본 일본 정신의료; `utsunomiya-psychiatric-hospital-reform` § 1987년 정신보건법 개정 · `ing-20261025-dousureba-utsunomiya`
-- 1990년대 이후 반복된 정신병원 인권침해와 감독 실패 사례 → `utsunomiya-psychiatric-hospital-reform` § 1990년대 이후 반복된 주요 사건 · `ing-20261025-dousureba-utsunomiya`
-- 2024년 정신과병원 학대 신고의무와 첫 전국 집계 → `utsunomiya-psychiatric-hospital-reform` § 2024년부터 전국화된 학대 신고의무 · `ing-20261025-dousureba-utsunomiya`
-- 우쓰노미야의 교훈과 1983년 치료거부를 구분하는 기준 → `utsunomiya-psychiatric-hospital-reform` § 《어떻게 해야 했을까》의 1983년을 다시 보는 법 · `ing-20261025-dousureba-utsunomiya`
-- 흑해함대 3분의 1 무력화 발언의 분모와 해상무인정 단독 기여 해석의 구분 → `black-sea-ukraine-sea-denial` § 군함의 3분의 1이라는 말의 범위 · `ing-20261026-war-resilience-border-faultlines`
-- 흑해의 제해권과 해상거부를 구별하는 기능별 분석 → `black-sea-ukraine-sea-denial` § 함대의 수와 바다를 사용할 권리는 다르다 · `ing-20261026-war-resilience-border-faultlines`
-- 흑해 구역별 통제와 오데사 수출 회랑의 회복 및 잔여 타격 위험 → `black-sea-ukraine-sea-denial` § 어느 바다를 누가 장악하는가 · `ing-20261026-war-resilience-border-faultlines`
-- 드론 정찰 타격 전자전 결합으로 지상 기동을 제한하는 구조 → `ukraine-ground-drone-defense` § 정찰-타격-전자전의 결합 · `ing-20261026-war-resilience-border-faultlines`
-- 드론 표적 파괴 비중과 사상자 비중의 서로 다른 분모 → `ukraine-ground-drone-defense` § 드론 80%라는 수치의 함정 · `ing-20261026-war-resilience-border-faultlines`
-- AI 정보처리와 지상무인차량 보급을 지상 드론 전투와 구별 → `ukraine-ground-drone-defense` § AI의 실제 위치: 판단을 압축하되 완전히 대체하지는 않는다 · `ing-20261026-war-resilience-border-faultlines`
-- 무인체계 제거 반사실과 30·40~60% 기여율의 정량 검증 한계 → `ukraine-ground-drone-defense` § 반사실적 질문: 무인체계가 없었다면 몇 퍼센트 더 못 버텼을까 · `ing-20261026-war-resilience-border-faultlines`
-- 러시아의 무인체계 학습과 상호 기동거부로의 변화 → `ukraine-ground-drone-defense` § 러시아도 배웠다: 비대칭 우위에서 상호거부 전장으로 · `ing-20261026-war-resilience-border-faultlines`
-- 러시아군 120만 사상자 추정과 약 30만 전사자 추정의 구별 → `russia-ukraine-war-endurance` § 120만 사상자와 30만 전사자는 다르다 · `ing-20261026-war-resilience-border-faultlines`
-- 러시아 모병과 정치적 손실 흡수 및 숙련병 재생산의 차이 → `russia-ukraine-war-endurance` § 국가의 손상과 정권의 위험은 왜 엇갈리는가 · `ing-20261026-war-resilience-border-faultlines`
-- 러시아 전사자 누적 단계표를 정치적 임계선으로 해석하지 않는 방법 → `russia-ukraine-war-endurance` § 전사자가 몇 명이면 러시아가 멈출까 · `ing-20261026-war-resilience-border-faultlines`
-- 우크라이나 보병 교대 방공 서방 재정의 내구도 병목 → `russia-ukraine-war-endurance` § 우크라이나 내구도의 병목: 전선에는 사람이 필요하다 · `ing-20261026-war-resilience-border-faultlines`
-- 장기 소모전 휴전 국지돌파 반격의 전망과 비정규화 확률 구분 → `russia-ukraine-war-endurance` § 가까운 시기의 네 경로와 전망치의 한계 · `ing-20261026-war-resilience-border-faultlines`
-- 인도 파키스탄 2025년 5월 충돌과 테러 보복 확대 경로 → `south-asia-border-rivalries-2026` § 인도-파키스탄: 테러가 군사보복으로 번역되는 경로 · `ing-20261026-war-resilience-border-faultlines`
-- 인도 중국 2020년 갈완 충돌 2024년 라다크 이격 및 수자원 경쟁 → `south-asia-border-rivalries-2026` § 인도-중국: 2020년 충돌과 2024년 이격 · `ing-20261026-war-resilience-border-faultlines`
-- 아프간 탈레반과 파키스탄 TTP의 조직 구별과 전략적 후방의 역설 → `south-asia-border-rivalries-2026` § 아프가니스탄-파키스탄: 두 탈레반과 하나의 국경 · `ing-20261026-war-resilience-border-faultlines`
-- 듀랜드 라인 파슈툰 공동체 난민 추방과 2026년 국경 직접 교전 → `south-asia-border-rivalries-2026` § 듀랜드 라인: 국경을 둘러싼 상충된 정당성 · `ing-20261026-war-resilience-border-faultlines`
-- 발발 가능성과 파급력의 순위 기준을 분리하고 이미 교전 중인 지역을 제외 → `global-flashpoints-likelihood-2026` § 무엇을 '발발'로 셀 것인가 · `ing-20261026-war-resilience-border-faultlines`
-- 태국 캄보디아 남중국해 카슈미르 등 소규모 충돌 발발 서열 → `global-flashpoints-likelihood-2026` § 발생 가능성만 고려한 서열 · `ing-20261026-war-resilience-border-faultlines`
-- 대만 한반도 러시아 NATO의 높은 파급력과 낮은 즉시 교전 가능성 구별 → `global-flashpoints-likelihood-2026` § 중요하지만 '첫 충돌 가능성'으로는 순위가 내려가는 곳 · `ing-20261026-war-resilience-border-faultlines`
-- 드론 일반 비대칭의 흑해 및 우크라이나 지상전 비교 → `drone-asymmetric-warfare` § 우크라이나에서 비대칭이 바다와 육지에 적용된 방식 · `ing-20261026-war-resilience-border-faultlines`
-- 차바하르에서 호르무즈까지: 하나의 항구가 드러낸 전략의 역설 → `hormuz-iran-war-naval-power-2026` § 차바하르에서 호르무즈까지: 하나의 항구가 드러낸 전략의 역설 · `ing-20261026-hormuz-indian-ocean-naval`
-- 인도양의 해군들: 숫자와 임무가 어긋나는 곳 → `hormuz-iran-war-naval-power-2026` § 인도양의 해군들: 숫자와 임무가 어긋나는 곳 · `ing-20261026-hormuz-indian-ocean-naval`
-- 함대를 이기는 것과 해협을 여는 것은 다르다 → `hormuz-iran-war-naval-power-2026` § 함대를 이기는 것과 해협을 여는 것은 다르다 · `ing-20261026-hormuz-indian-ocean-naval`
-- 어디까지 억제해야 하는가: 섬, 해안, 내륙 → `hormuz-iran-war-naval-power-2026` § 어디까지 억제해야 하는가: 섬, 해안, 내륙 · `ing-20261026-hormuz-indian-ocean-naval`
-- 전쟁을 닫는 작전과 전쟁을 키우는 작전 → `hormuz-iran-war-naval-power-2026` § 전쟁을 닫는 작전과 전쟁을 키우는 작전 · `ing-20261026-hormuz-indian-ocean-naval`
-- 걸프의 분산 기지와 이란의 비대칭 보복 → `hormuz-iran-war-naval-power-2026` § 걸프의 분산 기지와 이란의 비대칭 보복 · `ing-20261026-hormuz-indian-ocean-naval`
-- 전쟁의 종결은 무엇을 뜻하는가 → `hormuz-iran-war-naval-power-2026` § 전쟁의 종결은 무엇을 뜻하는가 · `ing-20261026-hormuz-indian-ocean-naval`
-- 차바하르 항만과 인도의 전략적 자율성 → `chabahar-india-strategic-autonomy-2026` § 미국과 협력하면서 이란에도 투자하는 이유 · `ing-20261026-hormuz-indian-ocean-naval`
-- 인도와 호주 해군의 전력 및 훈련 → `indian-ocean-navies-comparison` § 훈련의 이름에서 실제 과목을 읽기 · `ing-20261026-hormuz-indian-ocean-naval`
-- 호르무즈 기뢰 소해와 상업항행 재개 → `hormuz-sea-denial-reopening` § 해협을 연다는 말의 세 단계 · `ing-20261026-hormuz-indian-ocean-naval`
-- 미군 전개와 F-15E 승무원 구조 → `iran-war-us-force-losses-2026` § F-15E 승무원 구조 사건이 드러낸 증거의 층위 · `ing-20261026-hormuz-indian-ocean-naval`
-- 출생순위 성격론과 인지·학업 효과 → `birth-order-korean-evidence` § 성격의 법칙과 평균적 차이의 거리 · `ing-20261030-birth-order-korea`
-- 한국의 부모화·양육통제·형제관계 연구 → `birth-order-korean-evidence` § 부모화: 출생순위가 아니라 맡겨진 역할 · `ing-20261030-birth-order-korea`
-- 국제 비교와 문화적 일반화의 한계 → `birth-order-korean-evidence` § 국제 비교: 나라가 바뀌면 효과도 바뀌는가 · `ing-20261030-birth-order-korea`
-- 망 이용대가와 전자적 전송 관세의 법적 대상 구별 → `wto-digital-transmission-moratorium` § 세 가지 층위: 통신요금, 망 이용대가, 디지털 관세 · `ing-20261030-wto-digital-transmissions`
-- 1998년 WTO 전자상거래 관세 유예와 반복 연장 구조 → `wto-digital-transmission-moratorium` § 1998년의 유예는 영구 면제가 아니었다 · `ing-20261030-wto-digital-transmissions`
-- 2024년 MC13 기한과 2026년 MC14 연장 실패 보도 → `wto-digital-transmission-moratorium` § 1998년의 유예는 영구 면제가 아니었다 · `ing-20261030-wto-digital-transmissions`
-- 2026년 19개 WTO 회원의 별도 비부과 약속 보도 → `wto-digital-transmission-moratorium` § 1998년의 유예는 영구 면제가 아니었다 · `ing-20261030-wto-digital-transmissions`
-- 전자적 전송의 범위: 다운로드·클라우드·AI 모델·API → `wto-digital-transmission-moratorium` § 무엇을 '전자적 전송'이라 부를 것인가 · `ing-20261030-wto-digital-transmissions`
-- 브라질과 인도의 정책 공간·세수·연장 기한 논쟁 → `wto-digital-transmission-moratorium` § 왜 브라질과 인도가 이 유예에 의문을 제기하는가 · `ing-20261030-wto-digital-transmissions`
-- 잠재적 관세 수입과 중소 플랫폼의 거래비용·진입장벽 → `wto-digital-transmission-moratorium` § 왜 브라질과 인도가 이 유예에 의문을 제기하는가 · `ing-20261030-wto-digital-transmissions`
-- EU의 공정분담과 디지털네트워크법 조정 접근 → `wto-digital-transmission-moratorium` § 함께 떠오른 또 다른 논쟁: 통신사의 '공정분담' · `ing-20261030-wto-digital-transmissions`
-- ANATEL·TRAI의 망 이용대가 및 OTT 규제와 WTO 관세의 차이 → `wto-digital-transmission-moratorium` § 함께 떠오른 또 다른 논쟁: 통신사의 '공정분담' · `ing-20261030-wto-digital-transmissions`
-- 메타와 도이치텔레콤 네트워크 서비스 계약 분쟁 → `wto-digital-transmission-moratorium` § 함께 떠오른 또 다른 논쟁: 통신사의 '공정분담' · `ing-20261030-wto-digital-transmissions`
-- 데이터센터 내부 트래픽·국경 간 전송·사용자 서비스의 구분 → `wto-digital-transmission-moratorium` § 데이터센터와 AI: 어느 데이터가 국경을 넘는가 · `ing-20261030-wto-digital-transmissions`
-- AI 현지화·CDN·전력망 비용과 디지털 관세의 별도 영향 경로 → `wto-digital-transmission-moratorium` § 데이터센터와 AI: 어느 데이터가 국경을 넘는가 · `ing-20261030-wto-digital-transmissions`
-- 국가별 디지털 통상 규칙과 ISP 계약의 중첩에 따른 인터넷 파편화 위험 → `wto-digital-transmission-moratorium` § 세계 인터넷이 톨게이트로 분할되는가 · `ing-20261030-wto-digital-transmissions`
-- 보도된 합의의 법적 상태·국가별 과세와 AI 적용 범위의 검증 필요성 → `wto-digital-transmission-moratorium` § 무엇이 이미 벌어진 일이고, 무엇이 아직 가설인가 · `ing-20261030-wto-digital-transmissions`
-- 대화에서 제시된 WTO·Reuters·TRAI·ANATEL·USTR·IEA 참고 경로 → `wto-digital-transmission-moratorium` § 참고 경로와 자료의 한계 · `ing-20261030-wto-digital-transmissions`
-- 실리콘밸리의 교외형 다도시 회랑 → `silicon-valley-firm-geography` § 실리콘밸리는 한 동네가 아니다: 기업 본사와 교외형 기술 회랑의 지리 · `ing-20261030-ai-labor-cloud-us-regions`
-- 실리콘밸리 주요 도시와 대표 기업 → `silicon-valley-firm-geography` § 만의 서쪽에서 남쪽으로 내려가는 회사들 · `ing-20261030-ai-labor-cloud-us-regions`
-- 고속도로와 교외 캠퍼스의 공간적 집적 → `silicon-valley-firm-geography` § 지도로 보면 왜 성기게 느껴지는가 · `ing-20261030-ai-labor-cloud-us-regions`
-- 한국 수도권 회랑과의 공간 비유 → `silicon-valley-firm-geography` § 판교 한 블록이 아니라 강남–판교–분당–수원 축 · `ing-20261030-ai-labor-cloud-us-regions`
-- BPO 시장의 수요·공급·고용 통계 구별 → `global-bpo-labor-geography` § 시장의 크기를 재는 서로 다른 자 · `ing-20261030-ai-labor-cloud-us-regions`
-- 주요 BPO 공급국 산업별 규모 예시 → `global-bpo-labor-geography` § 세계의 핵심 공급 회랑 · `ing-20261030-ai-labor-cloud-us-regions`
-- BPO 지역별 청구단가와 임금의 차이 → `global-bpo-labor-geography` § 단가: 고객이 내는 값과 노동자가 받는 임금은 다르다 · `ing-20261030-ai-labor-cloud-us-regions`
-- BPO 음성·백오피스·KPO·AI 데이터 업무 분화 → `global-bpo-labor-geography` § 업무별 지리: 콜센터, 백오피스, 전문가 서비스, AI 데이터 · `ing-20261030-ai-labor-cloud-us-regions`
-- BPO 가격과 노동자 복지의 일대일 대응 반박 → `global-bpo-labor-geography` § 노동자 복지를 국가 순위표로 만들기 어려운 이유 · `ing-20261030-ai-labor-cloud-us-regions`
-- 미국 실업률·고용률·경제활동참가율의 분모 → `us-labor-market-geography-2026` § 실업률과 취업률은 다른 분모를 쓴다 · `ing-20261030-ai-labor-cloud-us-regions`
-- 2026년 4월 미국 전국 고용시장 당시 지표 → `us-labor-market-geography-2026` § 2026년 4월 전국 지표: 실업률은 낮지만 채용은 느려진 모습 · `ing-20261030-ai-labor-cloud-us-regions`
-- 2026년 3월 미국 네 권역 실업률 비교 → `us-labor-market-geography-2026` § 남부·중서부·동북부·서부: 미국 전체의 네 권역 · `ing-20261030-ai-labor-cloud-us-regions`
-- 2026년 3월 미국 주요 주별 실업률 → `us-labor-market-geography-2026` § 2026년 3월의 주요 주별 차이 · `ing-20261030-ai-labor-cloud-us-regions`
-- 저채용·저해고와 구직 체감의 차이 → `us-labor-market-geography-2026` § 구인 건수, 신규 실업수당, 장기실업을 함께 본다 · `ing-20261030-ai-labor-cloud-us-regions`
-- 지역 실업률을 AI 원인에 귀속하지 않는 원칙 → `us-labor-market-geography-2026` § 미국의 노동시장 문제를 AI 하나로 설명하지 않는 이유 · `ing-20261030-ai-labor-cloud-us-regions`
-- 캘리포니아 설비 보강과 예방정전 → `powerline-wildfire-mitigation-world-korea` § 캘리포니아: 지중화와 피복 전선, 예방정전의 병용 · `ing-20261102-wildfire-powerlines-liability`
-- 빅토리아 산불 위험 저감 평가 수치의 모수 → `powerline-wildfire-mitigation-world-korea` § 호주 빅토리아: 블랙 새터데이 이후 계량화한 위험 저감 · `ing-20261102-wildfire-powerlines-liability`
-- 스페인과 포르투갈의 식생관리 대응 → `powerline-wildfire-mitigation-world-korea` § 남유럽: 전력선 밑의 숲 자체를 관리한다 · `ing-20261102-wildfire-powerlines-liability`
-- 송전·배전 대책의 적용 범위 차이 → `powerline-wildfire-mitigation-world-korea` § 수단별로 겨냥하는 위험이 다르다 · `ing-20261102-wildfire-powerlines-liability`
-- 한전 산불 특별관리 지역과 산지 설비 개선 → `powerline-wildfire-mitigation-world-korea` § 한국도 2019년 이후 대응했는가 · `ing-20261102-wildfire-powerlines-liability`
-- 발화 건수·노출율·유사구간 비교의 효과평가 → `powerline-wildfire-mitigation-world-korea` § 실제로 먹혔는지를 평가하는 세 겹의 지표 · `ing-20261102-wildfire-powerlines-liability`
-- 2025 산청·하동 산불의 피해와 확산 조건 → `sancheong-wildfire-2025-prevention` § 산불의 경과와 지형·기상의 역할 · `ing-20261102-wildfire-powerlines-liability`
-- 산청의 인위적 발화 원인과 확정 판정의 간극 → `sancheong-wildfire-2025-prevention` § 발화 원인: 특정 주장과 확정 판정 사이 · `ing-20261102-wildfire-powerlines-liability`
-- 산청 산불의 발화·초동·대형화 예방 구별 → `sancheong-wildfire-2025-prevention` § 발화 예방과 초동 진화의 차이 · `ing-20261102-wildfire-powerlines-liability`
-- 산청 산불을 송전선 지중화 효과로 오용하지 않기 → `sancheong-wildfire-2025-prevention` § 송전선 지중화 논의와 어디서 만나는가 · `ing-20261102-wildfire-powerlines-liability`
-- 산불의 청구액·인정액·회수액 차이 → `wildfire-liability-insurance-risk-society` § 청구액, 인정액, 실제 회수액 · `ing-20261102-wildfire-powerlines-liability`
-- 개인 실화·방화 배상 및 강원 산불 소송의 불확실성 → `wildfire-liability-insurance-risk-society` § 청구액, 인정액, 실제 회수액 · `ing-20261102-wildfire-powerlines-liability`
-- 과실 규모와 대형재난 결과 사이의 책임 문제 → `wildfire-liability-insurance-risk-society` § 개인 과실과 대형재난의 비례 문제 · `ing-20261102-wildfire-powerlines-liability`
-- 한국 입산통제와 화기 소지 규제의 현행 범위 → `wildfire-liability-insurance-risk-society` § 한국에서 이미 존재하는 출입·화기 규제 · `ing-20261102-wildfire-powerlines-liability`
-- 한전 산불 손해배상책임보험의 실제 담보 여부 → `wildfire-liability-insurance-risk-society` § 한전도 보험을 갖고 있는가 · `ing-20261102-wildfire-powerlines-liability`
-- 캘리포니아 FAIR Plan과 한국 보험위험의 차이 → `wildfire-liability-insurance-risk-society` § 보험시장이 먼저 '살지 말라'고 말하는 경우 · `ing-20261102-wildfire-powerlines-liability`
-- 반복 산불에 따른 위험 기반 통제사회 시나리오 → `wildfire-liability-insurance-risk-society` § 위험 기반 통제사회라는 SF적 가설 · `ing-20261102-wildfire-powerlines-liability`
-- 사회적 재난 비용과 개인 배상 불능의 긴장 → `wildfire-liability-insurance-risk-society` § 작은 행위와 감당 불가능한 청구서 · `ing-20261102-wildfire-powerlines-liability`
 
 ## 기술·지식 아카이브 (78)
 
@@ -1161,6 +1188,35 @@
 - 미래부의 결말과 피해의 불가역성 → `ministry-for-the-future-reading` § 8. 결말: 회복은 이미 치른 손실을 없애 주지 않는다 · `ing-20261103-gpi-foreign-novels`
 - 기후 재난소설에서 정책 과정이 서사를 이루는 방식 → `ministry-for-the-future-reading` § 9. 기후소설의 두 관습을 벗어나기 · `ing-20261103-gpi-foreign-novels`
 
+## 정보와 미디어 (24)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 정보 피로에서 정보의 무게와 반응의 간격을 분리하는 문제 설정 → `information-hype-wow-index` § 정보의 속도보다 괴로운 것은 중요도의 혼란이다 · `ing-20261026-information-hype-wow-index`
+- 실질 중요도·와우·확성의 정의와 최초 세부 배점 → `information-hype-wow-index` § 놀라움·중요도·유통 강도는 같지 않다 · `ing-20261026-information-hype-wow-index`
+- 과열 차수와 호들갑 순도 및 은밀한 중요도의 서로 다른 산식 → `information-hype-wow-index` § 과열 차수의 산식과 이름 · `ing-20261026-information-hype-wow-index`
+- 임의 점수 구간과 중요도·확성 기준의 네 유형 → `information-hype-wow-index` § 과열 구간과 네 가지 정보 유형 · `ing-20261026-information-hype-wow-index`
+- 유명인 금리 전쟁 징후 AI 기사 가상 점수와 산식 수정 → `information-hype-wow-index` § 시험 점수가 보여 주는 것과 초안의 계산 혼선 · `ing-20261026-information-hype-wow-index`
+- 링크 캡처 썸네일 PDF 입력과 정보 한계 → `information-hype-wow-index` § 기사 링크만이 아니라 캡처 한 장도 입력이 된다 · `ing-20261026-information-hype-wow-index`
+- 전용 커스텀 GPT와 프로젝트 사용 구조 → `information-hype-wow-index` § 프롬프트를 전용 도구로 고정하기 · `ing-20261026-information-hype-wow-index`
+- 입력 자동 분석을 위한 고정 평가 지침과 출력 형식 → `information-hype-wow-index` § 설정란에 넣을 평가 지침 초안 · `ing-20261026-information-hype-wow-index`
+- 주의력 재배치를 위한 다섯 질문과 검증 과제 → `information-hype-wow-index` § 결국 정보 다이어트는 주의력의 재배치다 · `ing-20261026-information-hype-wow-index`
+- Substack의 이메일 뉴스레터 블로그 유료 구독 결합 구조 → `substack-independent-newsletters` § 블로그와 뉴스레터는 무엇이 다른가 · `ing-20261102-todd-global-south-critical-reading`
+- Substack 직접 발신의 독립성과 검증 절차 부재의 양면성 → `substack-independent-newsletters` § 학자와 논객이 이곳에 모이는 이유 · `ing-20261102-todd-global-south-critical-reading`
+- 에마뉘엘 토드 Substack과 Marianne 저자 지면 비교 → `substack-independent-newsletters` § 에마뉘엘 토드를 읽는 사례 · `ing-20261102-todd-global-south-critical-reading`
+- Substack 연재물을 검증하고 구독할 때의 확인 순서 → `substack-independent-newsletters` § 이용과 검증의 실용적인 순서 · `ing-20261102-todd-global-south-critical-reading`
+- 정보 과열 정도와 주장 자체의 증거 신뢰성을 분리 → `information-hype-wow-index` § 호들갑이 낮아도 근거가 약할 수 있다 · `ing-20261102-todd-global-south-critical-reading`
+- 1989 Satan's Children 방송·가명·출연자 구별 → `teresa-satans-children-1989` § 인물과 이름부터 분리하기 · `ing-20261103-satanic-panic-teresa`
+- 테레사 증언의 의례·임신·출산·살인·식인 주장 목록 → `teresa-satans-children-1989` § 방송 속 주장: 눈앞의 진술과 보이지 않는 물증 · `ing-20261103-satanic-panic-teresa`
+- 어머니의 자녀 위탁 경위와 가정생활 설명 → `teresa-satans-children-1989` § 할머니 집에 이르게 된 경로와 '탈출'이라고 불리는 과정 · `ing-20261103-satanic-panic-teresa`
+- 한 차례 탈출 실패와 최종 보호 경로 미확인 → `teresa-satans-children-1989` § 할머니 집에 이르게 된 경로와 '탈출'이라고 불리는 과정 · `ing-20261103-satanic-panic-teresa`
+- 남성 5명 및 할머니 기소에 관한 호주 방송의 언급 → `teresa-satans-children-1989` § 기소에 관해 방송이 한 말 · `ing-20261103-satanic-panic-teresa`
+- The Cook Report·SAFF 후속 주장과 법원 기록의 공백 → `teresa-satans-children-1989` § 기소에 관해 방송이 한 말 · `ing-20261103-satanic-panic-teresa`
+- 익명 사건·구기록·형사 재판 최종 결과의 미확인 → `teresa-satans-children-1989` § 왜 이렇게 극적인 사건에 확인 가능한 재판 기록이 적은가 · `ing-20261103-satanic-panic-teresa`
+- Ray Wyre의 유사 사례 21건 발언과 입증 건수의 구별 → `teresa-satans-children-1989` § Ray Wyre의 '유사한 사례 21건'은 무엇의 증거인가 · `ing-20261103-satanic-panic-teresa`
+- 의학적 학대 증거와 별개의 영아살해·식인 주장 → `teresa-satans-children-1989` § 의료 기록의 존재와 극단적 살해 주장 사이의 도약 · `ing-20261103-satanic-panic-teresa`
+- 원방송·기소장·탈출 기록의 추후 검증 필요성 → `teresa-satans-children-1989` § 남은 공백과 재확인이 필요한 질문 · `ing-20261103-satanic-panic-teresa`
+
 ## 생명과학 (15)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -1180,25 +1236,6 @@
 - 프로바이오틱스 생존·일시적 체류·영구 정착의 분리 → `gut-microbiome-colonization` § 가루 속 수십억 개체는 왜 영구 주민이 아닌가 · `ing-20261025-fruit-gut-horror`
 - 분변미생물 이식과 Vowst의 치료 맥락·정착 위험 → `gut-microbiome-colonization` § 분변미생물 이식: 단일 방문객이 아니라 생태계의 일부를 옮기기 · `ing-20261025-fruit-gut-horror`
 - 인간을 각기 다른 내부 생물권을 품은 행성으로 보는 유비 → `gut-microbiome-colonization` § 사람이 하나의 행성이라는 비유의 유효 범위 · `ing-20261025-fruit-gut-horror`
-
-## 정보와 미디어 (14)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 정보 피로에서 정보의 무게와 반응의 간격을 분리하는 문제 설정 → `information-hype-wow-index` § 정보의 속도보다 괴로운 것은 중요도의 혼란이다 · `ing-20261026-information-hype-wow-index`
-- 실질 중요도·와우·확성의 정의와 최초 세부 배점 → `information-hype-wow-index` § 놀라움·중요도·유통 강도는 같지 않다 · `ing-20261026-information-hype-wow-index`
-- 과열 차수와 호들갑 순도 및 은밀한 중요도의 서로 다른 산식 → `information-hype-wow-index` § 과열 차수의 산식과 이름 · `ing-20261026-information-hype-wow-index`
-- 임의 점수 구간과 중요도·확성 기준의 네 유형 → `information-hype-wow-index` § 과열 구간과 네 가지 정보 유형 · `ing-20261026-information-hype-wow-index`
-- 유명인 금리 전쟁 징후 AI 기사 가상 점수와 산식 수정 → `information-hype-wow-index` § 시험 점수가 보여 주는 것과 초안의 계산 혼선 · `ing-20261026-information-hype-wow-index`
-- 링크 캡처 썸네일 PDF 입력과 정보 한계 → `information-hype-wow-index` § 기사 링크만이 아니라 캡처 한 장도 입력이 된다 · `ing-20261026-information-hype-wow-index`
-- 전용 커스텀 GPT와 프로젝트 사용 구조 → `information-hype-wow-index` § 프롬프트를 전용 도구로 고정하기 · `ing-20261026-information-hype-wow-index`
-- 입력 자동 분석을 위한 고정 평가 지침과 출력 형식 → `information-hype-wow-index` § 설정란에 넣을 평가 지침 초안 · `ing-20261026-information-hype-wow-index`
-- 주의력 재배치를 위한 다섯 질문과 검증 과제 → `information-hype-wow-index` § 결국 정보 다이어트는 주의력의 재배치다 · `ing-20261026-information-hype-wow-index`
-- Substack의 이메일 뉴스레터 블로그 유료 구독 결합 구조 → `substack-independent-newsletters` § 블로그와 뉴스레터는 무엇이 다른가 · `ing-20261102-todd-global-south-critical-reading`
-- Substack 직접 발신의 독립성과 검증 절차 부재의 양면성 → `substack-independent-newsletters` § 학자와 논객이 이곳에 모이는 이유 · `ing-20261102-todd-global-south-critical-reading`
-- 에마뉘엘 토드 Substack과 Marianne 저자 지면 비교 → `substack-independent-newsletters` § 에마뉘엘 토드를 읽는 사례 · `ing-20261102-todd-global-south-critical-reading`
-- Substack 연재물을 검증하고 구독할 때의 확인 순서 → `substack-independent-newsletters` § 이용과 검증의 실용적인 순서 · `ing-20261102-todd-global-south-critical-reading`
-- 정보 과열 정도와 주장 자체의 증거 신뢰성을 분리 → `information-hype-wow-index` § 호들갑이 낮아도 근거가 약할 수 있다 · `ing-20261102-todd-global-south-critical-reading`
 
 ## 자연과 과학 (11)
 

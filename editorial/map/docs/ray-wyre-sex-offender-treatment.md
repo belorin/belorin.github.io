@@ -24,7 +24,18 @@
 
 ## 장부에 기록된 반영 지식
 
-- 없음 (장부 도입 이전 원고이거나 아직 기록이 없다. 기록이 없다는 것은 내용이 없다는 뜻이 아니다.)
+- **교도소의 수용자에서 치료의 대상자를 보다**
+  - Ray Wyre의 보호관찰·Albany 교도소 업무 이력 · `ing-20261103-satanic-panic-teresa`
+- **1988년 Gracewell Clinic과 실험적 재범방지 모델**
+  - Gracewell Clinic 설립·폐쇄와 Wolvercote 후속 과정 · `ing-20261103-satanic-panic-teresa`
+- **저술·자문과 대중적 영향**
+  - Ray Wyre의 저술·자문 및 2008년 사망과 의회 추모 · `ing-20261103-satanic-panic-teresa`
+- **1989년 「Satan's Children」에서의 발언**
+  - 1989년 방송에서의 SRA 사례 21건 주장 · `ing-20261103-satanic-panic-teresa`
+- **전문성의 권위는 어디에서 끝나는가**
+  - 전문가의 임상 경험과 사법적 물증의 구별 · `ing-20261103-satanic-panic-teresa`
+- **사후 평판의 비대칭: 치료의 선구자와 논쟁적인 증인**
+  - 성범죄자 치료의 공헌과 논쟁적 SRA 주장 병존 · `ing-20261103-satanic-panic-teresa`
 
 ## 확인된 의미 관계
 
