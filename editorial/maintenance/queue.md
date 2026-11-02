@@ -4,9 +4,9 @@
 
 마지막 정비: **M001** (2026-10-26) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
 
-원고 178개 · 변경 문서 98 · 고립 22 · 한쪽 연결 103 · 보류 14 · 열린 교차 제안 7
+원고 181개 · 변경 문서 101 · 고립 22 · 한쪽 연결 103 · 보류 14 · 열린 교차 제안 7
 
-## 1. 지난 정비 이후 변경된 문서 (98)
+## 1. 지난 정비 이후 변경된 문서 (101)
 
 manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
@@ -18,6 +18,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - **기술·지식 아카이브** (5): `east-asia-telegraph-network-1880s`, `great-northern-telegraph-east-asia`, `book-translation-pipeline-local-llm`, `local-llm-novel-agent-m1`, `upbit-small-capital-trading-experiment`
 - **운영** (4): `editing-principles`, `wiki-building-history`, `wiki-operations-pipeline`, `gpt-wiki-zero-prototype`
 - **게임** (3): `china-anime-game-industry`, `anime-urban-live-service-nte-tof`, `ps5-storage-anime-live-games`
+- **문학** (3): `grand-prix-imaginaire-awards`, `gpi-foreign-novels-2015-2025`, `ministry-for-the-future-reading`
 - **철학·사상사** (3): `lacan-anti-oedipus-history`, `philosophical-systems-after-2000`, `contemporary-intellectual-power`
 - **미분류** (2): `ai-mediated-human-change`, `circus-music-history`
 - **소설** (2): `climate-breath-fiction`, `stump-and-dream-fragment`
@@ -193,18 +194,18 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `circus-music-questions` ↔ `circus-music-history` · 0.91
 - `world-reading-groups` ↔ `global-reading-club-2026-books` · 0.35 · 연결됨
 - `global-reading-club-2026-books` ↔ `world-book-club-korean-editions` · 0.24 · 연결됨
+- `physical-cloud-reading-guide` ↔ `gpi-foreign-novels-2015-2025` · 0.22
 - `physical-cloud-reading-guide` ↔ `global-south-critical-reading-guide` · 0.19
+- `global-south-critical-reading-guide` ↔ `gpi-foreign-novels-2015-2025` · 0.16
 - `anne-carson-nobel-first-reactions` ↔ `physical-cloud-reading-guide` · 0.15
 - `great-depression-lived-experience-literature` ↔ `global-south-critical-reading-guide` · 0.15
 - `venice-biennale-history` ↔ `venice-biennale-2026-critical-reception` · 0.14 · 연결됨
 - `war-escalation-local-to-world` ↔ `world-crisis-historical-analogies` · 0.14 · 연결됨
+- `great-depression-lived-experience-literature` ↔ `gpi-foreign-novels-2015-2025` · 0.14
 - `world-orchestras-repertoire-2026` ↔ `korean-orchestras-repertoire-2026` · 0.14 · 연결됨
 - `venice-biennale-history` ↔ `venice-biennale-sites-pavilions` · 0.14 · 연결됨
 - `book-translation-pipeline-local-llm` ↔ `local-llm-novel-agent-m1` · 0.13 · 연결됨
 - `great-depression-lived-experience-literature` ↔ `physical-cloud-reading-guide` · 0.13
-- `venice-biennale-sites-pavilions` ↔ `venice-biennale-2026-critical-reception` · 0.13 · 연결됨
-- `circus-music-questions` ↔ `circus-music-research-ledger` · 0.13 · 연결됨
-- `double-bass` ↔ `electric-bass` · 0.13 · 연결됨
 
 ## 6. 보류 항목 (14)
 
@@ -244,5 +245,5 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 
 ## 9. 분류 참고
 
-분류 25개: 음악 37, AI와 사회 27, 사회와 제도 25, 문화와 역사 22, 철학 11, 기술·지식 아카이브 7, 과학과 기술 7, 운영 5, 정치경제 5, 독서 문화 4, 영화 3, 생명과학 3, 철학·사상사 3, 게임 3, 미분류 2, 자연과 과학 2, 종합 2, 정보와 미디어 2, 소설 2, 질문 1, 언어 1, 문학 1, 문화 1, 창작 1, 철학·심리 1
-문서가 하나뿐인 분류 6개: 질문, 언어, 문학, 문화, 창작, 철학·심리. 분류 체계 변경은 제안만 한다.
+분류 25개: 음악 37, AI와 사회 27, 사회와 제도 25, 문화와 역사 22, 철학 11, 기술·지식 아카이브 7, 과학과 기술 7, 운영 5, 정치경제 5, 독서 문화 4, 문학 4, 영화 3, 생명과학 3, 철학·사상사 3, 게임 3, 미분류 2, 자연과 과학 2, 종합 2, 정보와 미디어 2, 소설 2, 질문 1, 언어 1, 문화 1, 창작 1, 철학·심리 1
+문서가 하나뿐인 분류 5개: 질문, 언어, 문화, 창작, 철학·심리. 분류 체계 변경은 제안만 한다.

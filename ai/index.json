@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 175,
+  "document_count": 178,
   "documents": [
     {
       "id": "living-notes",
@@ -6053,6 +6053,108 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/world-electricity-capacity-generation-consumption.md",
       "page_url": "https://belorin.github.io/notes/world-electricity-capacity-generation-consumption/",
       "app_url": "https://belorin.github.io/#world-electricity-capacity-generation-consumption"
+    },
+    {
+      "id": "grand-prix-imaginaire-awards",
+      "title": "그랑프리 드 리마지네르: 2015~2026 후보와 수상작을 읽는 지도",
+      "aliases": [
+        "그랑프리 드 리마지네르",
+        "Prix de l’Imaginaire",
+        "GPI 수상작 2015 2025"
+      ],
+      "category": "문학",
+      "tags": [
+        "Grand Prix de l’Imaginaire",
+        "GPI",
+        "프랑스 환상문학상",
+        "이영도",
+        "눈물을 마시는 새",
+        "2026 후보",
+        "수상작"
+      ],
+      "summary": "2026년 GPI 각 부문 후보와 이영도 《눈물을 마시는 새》의 프랑스어판 제목, 2020~2025 여섯 작품상과 기타 부문 및 2015~2019 외국 장편 수상 기록을 구분·보존한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 문학상·작품 정보 총합 / 원자료·서지 일부 재검증 필요",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "gpi-foreign-novels-2015-2025",
+        "ministry-for-the-future-reading"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/grand-prix-imaginaire-awards.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/grand-prix-imaginaire-awards.md",
+      "page_url": "https://belorin.github.io/notes/grand-prix-imaginaire-awards/",
+      "app_url": "https://belorin.github.io/#grand-prix-imaginaire-awards"
+    },
+    {
+      "id": "gpi-foreign-novels-2015-2025",
+      "title": "2015~2025 GPI 외국 장편 수상작: 열한 개의 미래와 한국어 독서 경로",
+      "aliases": [
+        "GPI 외국 장편",
+        "2015~2025 프랑스 SF 수상작",
+        "GPI 외국 장편 독서 지도"
+      ],
+      "category": "문학",
+      "tags": [
+        "외국 장편",
+        "SF 수상작",
+        "환상문학 독서",
+        "한국어 번역본",
+        "Vita Nostra",
+        "기후소설",
+        "GPI"
+      ],
+      "summary": "2015~2025 GPI 외국 장편 수상작 11편의 줄거리·형식·핵심 질문과 한국어 번역 여부의 확인·정정 상태를 비교한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 문학상·작품 정보 총합 / 원자료·서지 일부 재검증 필요",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "grand-prix-imaginaire-awards",
+        "ministry-for-the-future-reading"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gpi-foreign-novels-2015-2025.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/gpi-foreign-novels-2015-2025.md",
+      "page_url": "https://belorin.github.io/notes/gpi-foreign-novels-2015-2025/",
+      "app_url": "https://belorin.github.io/#gpi-foreign-novels-2015-2025"
+    },
+    {
+      "id": "ministry-for-the-future-reading",
+      "title": "《The Ministry for the Future》: 미래 세대의 이름으로 세계의 장부를 바꾸는 소설",
+      "aliases": [
+        "Le Ministère du futur",
+        "미래부 소설",
+        "The Ministry for the Future 해설"
+      ],
+      "category": "문학",
+      "tags": [
+        "The Ministry for the Future",
+        "킴 스탠리 로빈슨",
+        "미래부",
+        "기후변화",
+        "탄소 코인",
+        "기후소설",
+        "정책 시뮬레이션"
+      ],
+      "summary": "킴 스탠리 로빈슨의 기후소설에 나타난 인도 폭염, 미래부, 프랭크와 메리, 탄소 코인, 급진적 폭력, 빙하·난민 정책과 결말을 스포일러 포함해 독해한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 문학상·작품 정보 총합 / 원자료·서지 일부 재검증 필요",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "grand-prix-imaginaire-awards",
+        "gpi-foreign-novels-2015-2025"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ministry-for-the-future-reading.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ministry-for-the-future-reading.md",
+      "page_url": "https://belorin.github.io/notes/ministry-for-the-future-reading/",
+      "app_url": "https://belorin.github.io/#ministry-for-the-future-reading"
     }
   ]
 }

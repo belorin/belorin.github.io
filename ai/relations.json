@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 637,
+  "edge_count": 643,
   "edges": [
     {
       "from": "living-notes",
@@ -3590,6 +3590,42 @@
     {
       "from": "world-electricity-capacity-generation-consumption",
       "to": "data-center-world-capacity",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "grand-prix-imaginaire-awards",
+      "to": "gpi-foreign-novels-2015-2025",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "grand-prix-imaginaire-awards",
+      "to": "ministry-for-the-future-reading",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gpi-foreign-novels-2015-2025",
+      "to": "grand-prix-imaginaire-awards",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gpi-foreign-novels-2015-2025",
+      "to": "ministry-for-the-future-reading",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ministry-for-the-future-reading",
+      "to": "grand-prix-imaginaire-awards",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ministry-for-the-future-reading",
+      "to": "gpi-foreign-novels-2015-2025",
       "type": "related_to",
       "basis": "manifest.related"
     },

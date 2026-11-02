@@ -448,6 +448,15 @@
 - **[앤 카슨의 2026년 노벨문학상 수상 반응: ‘미쳤다’와 독자가 작품을 만나는 경로](wiki/anne-carson-nobel-first-reactions.md)** · 별칭: 앤 카슨 노벨상 인터뷰, Anne Carson Nobel reaction, 앤 카슨 미쳤다, Anne Carson crazy, 문학 작품의 발견 · 수정: 2026-10-24 · 검토: 2026년 수상 직후 보도 재인용 · RÚV 영상·영어 축어록 원문 재대조 필요
   - 앤 카슨의 노벨문학상 수상 직후 'crazy' 반응과 독자들이 작품을 접하고 읽게 되는 경로에 관한 발언을 인터뷰별로 구분하고, 원문·의역·편집상 독해의 경계를 정리한다.
   - [문서 페이지](https://belorin.github.io/notes/anne-carson-nobel-first-reactions/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/anne-carson-nobel-first-reactions.md)
+- **[그랑프리 드 리마지네르: 2015~2026 후보와 수상작을 읽는 지도](wiki/grand-prix-imaginaire-awards.md)** · 별칭: 그랑프리 드 리마지네르, Prix de l’Imaginaire, GPI 수상작 2015 2025 · 수정: 2026-11-03 · 검토: 대화 기반 문학상·작품 정보 총합 / 원자료·서지 일부 재검증 필요
+  - 2026년 GPI 각 부문 후보와 이영도 《눈물을 마시는 새》의 프랑스어판 제목, 2020~2025 여섯 작품상과 기타 부문 및 2015~2019 외국 장편 수상 기록을 구분·보존한다.
+  - [문서 페이지](https://belorin.github.io/notes/grand-prix-imaginaire-awards/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/grand-prix-imaginaire-awards.md)
+- **[2015~2025 GPI 외국 장편 수상작: 열한 개의 미래와 한국어 독서 경로](wiki/gpi-foreign-novels-2015-2025.md)** · 별칭: GPI 외국 장편, 2015~2025 프랑스 SF 수상작, GPI 외국 장편 독서 지도 · 수정: 2026-11-03 · 검토: 대화 기반 문학상·작품 정보 총합 / 원자료·서지 일부 재검증 필요
+  - 2015~2025 GPI 외국 장편 수상작 11편의 줄거리·형식·핵심 질문과 한국어 번역 여부의 확인·정정 상태를 비교한다.
+  - [문서 페이지](https://belorin.github.io/notes/gpi-foreign-novels-2015-2025/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gpi-foreign-novels-2015-2025.md)
+- **[《The Ministry for the Future》: 미래 세대의 이름으로 세계의 장부를 바꾸는 소설](wiki/ministry-for-the-future-reading.md)** · 별칭: Le Ministère du futur, 미래부 소설, The Ministry for the Future 해설 · 수정: 2026-11-03 · 검토: 대화 기반 문학상·작품 정보 총합 / 원자료·서지 일부 재검증 필요
+  - 킴 스탠리 로빈슨의 기후소설에 나타난 인도 폭염, 미래부, 프랭크와 메리, 탄소 코인, 급진적 폭력, 빙하·난민 정책과 결말을 스포일러 포함해 독해한다.
+  - [문서 페이지](https://belorin.github.io/notes/ministry-for-the-future-reading/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ministry-for-the-future-reading.md)
 
 ## 자연과 과학
 
