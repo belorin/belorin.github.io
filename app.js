@@ -43,15 +43,18 @@ const validId = id => /^[a-z0-9-]+$/.test(id);
 // marked with their own color and kept out of article totals and random picks.
 const SYNTHESIS_LABELS = {cross:'교차 종합', concept:'개념 길잡이', critique:'편집 비평'};
 const isSynthesis = note => note.kind === 'synthesis';
+const isEssay = note => note.kind === 'ai-essay';
 // Fiction (FICTION.md) counts toward the totals as works; chapters are reached
 // through their work's table of contents instead of lists and random picks.
 const isFiction = note => note.kind === 'fiction';
 const isChapter = note => isFiction(note) && note.fiction_part === 'chapter';
 const listed = note => !isChapter(note);
-const articles = () => notes.filter(n => !isSynthesis(n) && listed(n));
-const categoryRank = name => name === '종합' ? 2 : name === '소설' ? 1 : 0;
+const articles = () => notes.filter(n => !isSynthesis(n) && !isEssay(n) && listed(n));
+const categoryRank = name => name === '종합' ? 3 : name === '소설' ? 2 : name === 'AI의 글' ? 1 : 0;
 const kindBadge = note => isSynthesis(note)
   ? '<span class="badge-synthesis">종합 · ' + esc(SYNTHESIS_LABELS[note.synthesis_type] || '해석') + '</span> '
+  : isEssay(note)
+    ? '<span class="badge-essay">AI의 글 · ' + (note.essay_origin === 'post-ingestion' ? '증보 후' : '독립 저술') + '</span> '
   : isFiction(note)
     ? '<span class="badge-fiction">소설 · ' + (isChapter(note) ? esc(note.chapter) + '장' : '작품') +
       (note.revised ? ' · 개고본' : '') + '</span> '
@@ -206,7 +209,7 @@ function showFilters() {
     const button = document.createElement('button');
     const count = name === '전체' ? articles().length : counts.get(name);
     button.type = 'button';
-    button.className = (name === category ? 'active' : '') + (name === '종합' ? ' synthesis' : name === '소설' ? ' fiction' : '');
+    button.className = (name === category ? 'active' : '') + (name === '종합' ? ' synthesis' : name === '소설' ? ' fiction' : name === 'AI의 글' ? ' essay' : '');
     button.setAttribute('aria-pressed', String(name === category));
     button.innerHTML = '<span>' + esc(name) + '</span><span class="filter-count">' + count + '</span>';
     button.addEventListener('click', () => {
@@ -229,7 +232,8 @@ function home() {
     : '';
   view.innerHTML =
     '<div class="page-heading"><h1>문서 탐색</h1><p>' + articles().length + '개 문서' +
-    (notes.some(isSynthesis) ? ' · 종합 ' + notes.filter(isSynthesis).length + '편' : '') + '</p></div>' +
+    (notes.some(isSynthesis) ? ' · 종합 ' + notes.filter(isSynthesis).length + '편' : '') +
+    (notes.some(isEssay) ? ' · AI의 글 ' + notes.filter(isEssay).length + '편' : '') + '</p></div>' +
     feature +
     '<section><div class="section-heading"><h2>최근 갱신</h2><a href="#all">모든 문서 →</a></div>' +
     '<ul class="compact-list">' + dateSorted.slice(0,8).map(n =>
@@ -241,7 +245,7 @@ function listing() {
   const q = search.value.trim();
   const matches = sorted(notes.filter(n =>
     (q || listed(n)) &&
-    (category === '전체' ? (q || !isSynthesis(n)) : n.category === category) && (!q || textMatch(n))));
+    (category === '전체' ? (q || (!isSynthesis(n) && !isEssay(n))) : n.category === category) && (!q || textMatch(n))));
   view.innerHTML =
     '<div class="page-heading"><h1>' + (q ? '검색 결과' : category === '전체' ? '전체 문서' : esc(category)) +
     '</h1><p>' + matches.length + '개 문서' + (q ? ' · 검색어: ' + esc(q) : '') + '</p></div>' +
@@ -286,6 +290,11 @@ function article(note) {
         '<a href="' + permalink(id) + '">' + esc(byId(id).title) + '</a>').join(' · ') + '</span>' : '') +
       '</aside>'
     : '';
+  const essayNote = isEssay(note)
+    ? '<aside class="essay-note"><strong>AI 자율 논고</strong> 이 글은 AI의 독립적인 해석과 비평입니다. 확정된 사실의 근거로 인용하지 말고 아래 출발 문서에서 확인하십시오.' +
+      (basis.length ? '<span class="essay-basis">출발 지식 문서: ' + basis.map(id =>
+        '<a href="' + permalink(id) + '">' + esc(byId(id).title) + '</a>').join(' · ') + '</span>' : '') + '</aside>'
+    : '';
   const work = isChapter(note) ? byId(note.work) : null;
   const chapters = work ? notes.filter(n => isChapter(n) && n.work === work.id).sort((a,b) => a.chapter - b.chapter) : [];
   const at = chapters.indexOf(note);
@@ -298,7 +307,7 @@ function article(note) {
     ? '<aside class="fiction-note"><strong>개고본</strong> 원문을 고쳐 다듬은 판본입니다. ' +
       '"개고 전 원본 보기"를 펼치면 고치기 전의 원문을 확인할 수 있습니다.</aside>'
     : '';
-  view.innerHTML = '<article class="reader' + (isSynthesis(note) ? ' is-synthesis' : isFiction(note) ? ' is-fiction' : '') + '"><a class="back" href="#all">← 문서 목록</a>' +
+  view.innerHTML = '<article class="reader' + (isSynthesis(note) ? ' is-synthesis' : isEssay(note) ? ' is-essay' : isFiction(note) ? ' is-fiction' : '') + '"><a class="back" href="#all">← 문서 목록</a>' +
     '<header class="reader-header"><div class="meta">' + kindBadge(note) + esc(note.category) +
     ' · ' + esc(note.updated) + ' · ' + esc(note.status) + '</div>' +
     '<h1>' + esc(note.title) + '</h1>' +
@@ -308,7 +317,7 @@ function article(note) {
     '<a href="' + commits + '" target="_blank" rel="noopener noreferrer">개정 이력 ↗</a>' +
     '<a href="' + edit + '" target="_blank" rel="noopener noreferrer">고치기 ✎</a>' +
     '<button type="button" data-random>무작위 글 ↝</button></div></header>' +
-    synthesisNote + fictionNote + chapterNav + toc + '<div class="prose">' + rendered.html + '</div>' + chapterNav +
+    synthesisNote + essayNote + fictionNote + chapterNav + toc + '<div class="prose">' + rendered.html + '</div>' + chapterNav +
     related +
     (note.source ? '<p class="reader-source">자료·검토 표기: ' + esc(note.source) + '</p>' : '') +
     discussion + '</article>';
