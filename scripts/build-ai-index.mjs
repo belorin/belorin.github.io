@@ -54,6 +54,7 @@ const buildOutputs=function buildOutputs(manifest,relationSource){
    related_ids:d.related,
    ...(d.kind==="synthesis"?{kind:d.kind,synthesis_type:d.synthesis_type,based_on:d.based_on,note:"편집 해석. 사실 근거로 인용하지 않는다."}:{}),
    ...(d.kind==="fiction"?{kind:d.kind,fiction_part:d.fiction_part,...(d.work?{work:d.work,chapter:d.chapter}:{}),...(d.revised?{revised:true}:{}),note:"소설. 사실 근거로 인용하지 않는다."}:{}),
+   ...(d.kind==="ai-essay"?{kind:d.kind,essay_origin:d.essay_origin,based_on:d.based_on,note:"AI 독립 저술. 해석·의견을 사실의 근거로 인용하지 않는다."}:{}),
    markdown_url:raw+d.path,github_url:gh+d.path,page_url:site+"notes/"+d.id+"/",app_url:site+"#"+d.id
   }))
  };
@@ -77,6 +78,7 @@ const buildOutputs=function buildOutputs(manifest,relationSource){
   "4. 답할 때는 근거가 된 문서와 절 제목을 밝힌다. 원문에 없는 내용은 위키 밖의 지식이나 추론임을 구분한다.",
   "5. 맨 아래 '종합' 묶음은 여러 문서를 엮은 편집 해석이다. 생각의 실마리로 쓰되 사실의 근거로 인용하지 말고, 각 글이 밝힌 근거 문서를 읽는다.",
   "6. '소설' 묶음은 창작 작품이다. 사실의 근거로 인용하지 않는다. 긴 작품은 작품 문서의 목차에서 장별 원문으로 이동한다. ':::원본'으로 감싼 부분은 개고 전 원문이다.",
+  "7. 'AI의 글' 묶음은 AI의 독립 논고다. 해석과 의견을 확정 사실의 근거로 인용하지 말고 연결된 지식 원고를 확인한다.",
   "","## Navigation","",
   "- [AI metadata index]("+site+"ai/index.json): Document IDs, aliases, review state and dates.",
   "- [Typed relations]("+site+"ai/relations.json): Related and curated semantic links.",
@@ -107,7 +109,20 @@ const buildOutputs=function buildOutputs(manifest,relationSource){
   }
   md.push("");ll.push("");
  }
- const syntheses=docs.filter(d=>d.kind==="synthesis");
+ const essays=docs.filter(d=>d.kind==="ai-essay");
+  if(essays.length){
+   md.push("## AI의 글 (자율 논고 · 사실 근거 아님)","","> 독립적으로 작성한 AI의 해석과 비평이다. 사실의 근거는 각 글에 연결된 지식 원고에서 확인한다.","");
+   ll.push("### AI의 글 (독립 저술 · 사실 근거 아님)","");
+   for(const d of essays){
+    const origin=d.essay_origin==="post-ingestion"?"증보 후 저술":"독립 자율 저술";
+    md.push("- **["+d.title+"]("+d.path+")** · "+origin+" · 출발 문서: "+d.based_on.join(", ")+" · 수정: "+d.updated);
+    md.push("  - "+d.summary);
+    md.push("  - [문서 페이지]("+site+"notes/"+d.id+"/) · [직접 Markdown]("+raw+d.path+")");
+    ll.push("- ["+d.title+"]("+site+"notes/"+d.id+"/): ["+origin+"] "+d.summary);
+   }
+   md.push("");ll.push("");
+  }
+  const syntheses=docs.filter(d=>d.kind==="synthesis");
  if(syntheses.length){
   const label={cross:"교차 종합",concept:"개념 길잡이",critique:"편집 비평"};
   md.push("## 종합 (편집 해석 · 사실 근거 아님)","","> 여러 문서를 엮은 편집 해석이다. 사실 근거로 인용하지 않고, 각 글의 근거 문서를 읽는다.","");
