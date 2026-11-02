@@ -4,7 +4,7 @@
 
 마지막 정비: **M001** (2026-10-26) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
 
-원고 189개 · 변경 문서 109 · 고립 23 · 한쪽 연결 105 · 보류 17 · 열린 교차 제안 7
+원고 189개 · 변경 문서 109 · 고립 23 · 한쪽 연결 105 · 보류 17 · 열린 교차 제안 8
 
 ## 1. 지난 정비 이후 변경된 문서 (109)
 
@@ -231,7 +231,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - 2015~2025 외국 장편 한국어 번역본의 서지 원본 대조 · `ing-20261103-gpi-foreign-novels` — 대화에 제시된 서점 검색 진술과 사용자의 정정만 확보되어, 실제 출판사·도서관의 최신 원본 확인은 보류
 - 운영 데이터 AI 코파일럿의 실제 구현 성능·비용·배포 검증 · `ing-20261103-operations-ai-copilot-portfolio` — 아이디어와 설계·예시만 있으며 배포 URL, 실제 DB, 평가 결과와 현재 과금 조건이 확인되지 않음
 
-## 7. 열린 교차 편집 제안 (7)
+## 7. 열린 교차 편집 제안 (8)
 
 정비에서 승인하지 않는다. 판단 근거를 보고서에 적어 사용자 결정을 요청한다.
 
@@ -242,6 +242,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `link-20261023-participation-community-organization` · proposed · `burning-man-community` ↔ `world-reading-groups`
 - `link-20261024-chiikawa-plato-deleuze` · proposed · `chiikawa-philosophy` ↔ `deleuze-negation-history`
 - `link-20261024-affect-hate-escalation` · proposed · `hate-escalation-brakes-history` ↔ `post-deleuze-novelty-thinkers`
+- `link-20261103-satanic-panic-hype-evidence` · proposed · `satanic-panic-english-speaking-history` ↔ `information-hype-wow-index`
 
 ## 8. 분량 참고
 

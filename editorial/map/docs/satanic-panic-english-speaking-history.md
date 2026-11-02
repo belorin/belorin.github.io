@@ -53,3 +53,7 @@
 - → `satanic-panic-court-inquiries` · introduces · 근거 절(satanic-panic-english-speaking-history): 나라별 확산: 하나의 이야기, 서로 다른 제도적 경로
 - → `teresa-satans-children-1989` · introduces · 근거 절(satanic-panic-english-speaking-history): 어린이집 사건과 전국적 방송이 공포를 증폭하다
 - → `ray-wyre-sex-offender-treatment` · introduces · 근거 절(satanic-panic-english-speaking-history): 전문가의 확신이 독립 증거처럼 보이는 과정
+
+## 교차 편집 제안 (확정 아님)
+
+- `link-20261103-satanic-panic-hype-evidence` · proposed · satanic-panic-english-speaking-history#전문가의 확신이 독립 증거처럼 보이는 과정 ↔ information-hype-wow-index#호들갑이 낮아도 근거가 약할 수 있다

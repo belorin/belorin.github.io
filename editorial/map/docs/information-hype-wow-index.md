@@ -50,3 +50,7 @@
   - 주의력 재배치를 위한 다섯 질문과 검증 과제 · `ing-20261026-information-hype-wow-index`
 - **호들갑이 낮아도 근거가 약할 수 있다**
   - 정보 과열 정도와 주장 자체의 증거 신뢰성을 분리 · `ing-20261102-todd-global-south-critical-reading`
+
+## 교차 편집 제안 (확정 아님)
+
+- `link-20261103-satanic-panic-hype-evidence` · proposed · satanic-panic-english-speaking-history#전문가의 확신이 독립 증거처럼 보이는 과정 ↔ information-hype-wow-index#호들갑이 낮아도 근거가 약할 수 있다
