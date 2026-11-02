@@ -6,12 +6,17 @@ import vm from 'node:vm';
 
 const notes = JSON.parse(fs.readFileSync('notes.json', 'utf8'));
 // An in-memory synthesis note so the synthesis display is always exercised.
-const [basisA, basisB] = notes.filter(n => n.kind !== 'synthesis');
+const [basisA, basisB] = notes.filter(n => !n.kind);
 notes.push({id: 'viewer-test-synthesis', title: '시험 종합', category: '종합', status: '시험',
   updated: '1900-01-01', summary: '시험용 종합 노트', tags: [], source: '시험',
   related: [basisA.id, basisB.id], kind: 'synthesis', synthesis_type: 'cross',
   based_on: [basisA.id, basisB.id],
   body: '## 질문\n[근거](#' + basisA.id + ')와 [근거](#' + basisB.id + ')를 엮는다.'});
+// An independent AI essay is discoverable only in its own category or search.
+notes.push({id: 'viewer-test-essay', title: '시험 AI 논고', category: 'AI의 글', status: 'AI 독립 저술',
+  updated: '1900-01-01', summary: '시험용 AI 자율 논고', tags: [], source: '위키 기반 AI 저술',
+  related: [basisA.id], kind: 'ai-essay', essay_origin: 'post-ingestion', based_on: [basisA.id],
+  body: '## 논고\n[출발 문서](#' + basisA.id + ')를 읽고 새로운 문제를 제기한다.'});
 // An in-memory novel: a work counted in totals, chapters reached only through it.
 notes.push({id: 'viewer-test-novel', title: '시험 소설', category: '소설', status: '시험', updated: '1900-01-01',
   summary: '시험용 소설', tags: [], source: '시험', related: [], kind: 'fiction', fiction_part: 'work', revised: true,
@@ -20,7 +25,7 @@ for (const n of [1, 2]) notes.push({id: 'viewer-test-novel-0' + n, title: '시�
   status: '시험', updated: '1900-01-01', summary: n + '장', tags: [], source: '시험', related: [], kind: 'fiction',
   fiction_part: 'chapter', work: 'viewer-test-novel', chapter: n, revised: n === 1,
   body: '고친 문장이다.' + (n === 1 ? '\n\n:::원본 1장 초고\n고치기 전 **문장**이다.\n:::\n\n뒤 문단.' : '')});
-const articleCount = notes.filter(n => n.kind !== 'synthesis' && n.fiction_part !== 'chapter').length;
+const articleCount = notes.filter(n => n.kind !== 'synthesis' && n.kind !== 'ai-essay' && n.fiction_part !== 'chapter').length;
 const events = new Map();
 function element() {
   return {
@@ -91,6 +96,7 @@ visit('#all');
 assert.equal(nodes.get('#explore-toggle').attributes['aria-expanded'], 'true');
 assert.ok(html().includes(articleCount + '개 문서'));
 assert.ok(!html().includes('시험 종합'), 'Synthesis must stay out of the 전체 list');
+assert.ok(!html().includes('시험 AI 논고'), 'AI essays must stay out of the knowledge 전체 list');
 nodes.get('#search').value = 'AI';
 nodes.get('#search').listeners.input();
 assert.match(html(), /검색 결과/);
@@ -104,6 +110,16 @@ assert.ok(html().includes('href="#' + basisA.id + '"') && html().includes('href=
 visit('#' + basisA.id);
 assert.match(html(), /시험 종합/, 'Basis article should list the synthesis among connected notes');
 
+visit('#viewer-test-essay');
+assert.match(html(), /class="reader is-essay"/);
+assert.match(html(), /badge-essay">AI의 글 · 증보 후/);
+assert.match(html(), /class="essay-note"/);
+assert.ok(html().includes('href="#' + basisA.id + '"'), 'Essay basis link missing');
+visit('#all');
+const essayFilter = nodes.get('#filters').children.find(n => n.innerHTML.includes('AI의 글'));
+assert.ok(essayFilter, 'AI essay category missing');
+essayFilter.listeners.click();
+assert.ok(html().includes('시험 AI 논고'), 'AI essay missing from its own category');
 visit('#viewer-test-novel-01');
 assert.match(html(), /class="reader is-fiction"/);
 assert.match(html(), /<span class="badge-fiction">소설 · 1장 · 개고본<\/span>/);
