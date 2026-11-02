@@ -583,6 +583,9 @@
 - **[엣지 영상 이벤트 감지 포트폴리오: 카메라 한 대에서 실증 보고서까지](wiki/edge-vision-event-monitor-portfolio.md)** · 별칭: 엣지 AI 포트폴리오, 실시간 위험구역 침입 감지, 영상 센서 융합 모니터링, Edge Vision Event Monitor · 수정: 2026-11-02 · 검토: 채용 공고 요구사항에서 도출된 구현 제안·실제 모델 학습 및 성능 실측 미확인
   - 영상 객체 탐지와 ROI 침입·체류 판정을 연결하고, 이벤트 로깅·장치 최적화 비교·MQTT 센서 연계·평가와 기술 문서화까지 제안한 현장형 컴퓨터비전 데모 설계.
   - [문서 페이지](https://belorin.github.io/notes/edge-vision-event-monitor-portfolio/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/edge-vision-event-monitor-portfolio.md)
+- **[세계 전력의 크기를 읽는 법: 국가별 GW·생산량·소비량 비교](wiki/world-electricity-capacity-generation-consumption.md)** · 별칭: 세계 국가별 전력 생산량, 국가별 발전 설비용량, 세계 전력 소비량 비교, 전 세계 전력 GW · 수정: 2026-11-02 · 검토: 국가별 개략 비교·시점과 통계 정의가 섞인 수치로 외부 원자료 재검증 필요
+  - 세계 발전 설비용량 약 9.4~9.8TW와 연간 발전·수요 약 3만1천TWh의 구분, 주요 25개국의 GW·TWh 개략 표, 연도·집계기준 혼합과 수출입 해석의 한계를 설명한다.
+  - [문서 페이지](https://belorin.github.io/notes/world-electricity-capacity-generation-consumption/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-electricity-capacity-generation-consumption.md)
 
 ## 소설 (창작 작품 · 사실 근거 아님)
 

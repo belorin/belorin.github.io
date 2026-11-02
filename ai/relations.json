@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 635,
+  "edge_count": 637,
   "edges": [
     {
       "from": "living-notes",
@@ -3330,6 +3330,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "data-center-world-capacity",
+      "to": "world-electricity-capacity-generation-consumption",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "korea-data-center-local-economy",
       "to": "data-center-world-capacity",
       "type": "related_to",
@@ -3578,6 +3584,12 @@
     {
       "from": "substack-independent-newsletters",
       "to": "emmanuel-todd-western-defeat",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-electricity-capacity-generation-consumption",
+      "to": "data-center-world-capacity",
       "type": "related_to",
       "basis": "manifest.related"
     },

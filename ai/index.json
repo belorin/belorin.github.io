@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 174,
+  "document_count": 175,
   "documents": [
     {
       "id": "living-notes",
@@ -5438,7 +5438,8 @@
         "korea-data-center-local-economy",
         "physical-cloud-reading-guide",
         "owner-aligned-automated-power",
-        "space-data-center-thermal-economics"
+        "space-data-center-thermal-economics",
+        "world-electricity-capacity-generation-consumption"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/data-center-world-capacity.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/data-center-world-capacity.md",
@@ -6016,6 +6017,42 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/substack-independent-newsletters.md",
       "page_url": "https://belorin.github.io/notes/substack-independent-newsletters/",
       "app_url": "https://belorin.github.io/#substack-independent-newsletters"
+    },
+    {
+      "id": "world-electricity-capacity-generation-consumption",
+      "title": "세계 전력의 크기를 읽는 법: 국가별 GW·생산량·소비량 비교",
+      "aliases": [
+        "세계 국가별 전력 생산량",
+        "국가별 발전 설비용량",
+        "세계 전력 소비량 비교",
+        "전 세계 전력 GW"
+      ],
+      "category": "과학과 기술",
+      "tags": [
+        "세계 전력",
+        "전력 설비용량",
+        "GW",
+        "TWh",
+        "전력 생산량",
+        "전력 수요",
+        "발전량",
+        "국가별 전력 비교",
+        "전력 수출입"
+      ],
+      "summary": "세계 발전 설비용량 약 9.4~9.8TW와 연간 발전·수요 약 3만1천TWh의 구분, 주요 25개국의 GW·TWh 개략 표, 연도·집계기준 혼합과 수출입 해석의 한계를 설명한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "국가별 개략 비교·시점과 통계 정의가 섞인 수치로 외부 원자료 재검증 필요",
+      "last_updated_on": "2026-11-02",
+      "last_enriched_on": "2026-11-02",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "data-center-world-capacity"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-electricity-capacity-generation-consumption.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/world-electricity-capacity-generation-consumption.md",
+      "page_url": "https://belorin.github.io/notes/world-electricity-capacity-generation-consumption/",
+      "app_url": "https://belorin.github.io/#world-electricity-capacity-generation-consumption"
     }
   ]
 }
