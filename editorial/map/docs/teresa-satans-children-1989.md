@@ -27,3 +27,9 @@
 ## 장부에 기록된 반영 지식
 
 - 없음 (장부 도입 이전 원고이거나 아직 기록이 없다. 기록이 없다는 것은 내용이 없다는 뜻이 아니다.)
+
+## 확인된 의미 관계
+
+- ← `satanic-panic-english-speaking-history` · introduces · 근거 절(satanic-panic-english-speaking-history): 어린이집 사건과 전국적 방송이 공포를 증폭하다
+- ← `satanic-panic-court-inquiries` · elaborates · 근거 절(satanic-panic-court-inquiries): 영국 소녀 Teresa와 호주 〈60 Minutes〉 — 재판 기록이 비어 있는 사건
+- → `ray-wyre-sex-offender-treatment` · introduces · 근거 절(teresa-satans-children-1989): Ray Wyre의 '유사한 사례 21건'은 무엇의 증거인가

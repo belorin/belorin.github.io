@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 666,
+  "edge_count": 671,
   "edges": [
     {
       "from": "living-notes",
@@ -4096,6 +4096,46 @@
       "basis": "curated",
       "evidence_section": "부동산의 담보가 부실해진 뒤에도 신용의 종류는 남는다",
       "reason": "생산적·투기적·연명 신용의 구분을 부동산 붕괴의 국가별 손실 전파와 회복 경로 비교에 적용한다."
+    },
+    {
+      "from": "satanic-panic-english-speaking-history",
+      "to": "satanic-panic-court-inquiries",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "나라별 확산: 하나의 이야기, 서로 다른 제도적 경로",
+      "reason": "국가별 확산에서 개괄한 미국·영국·호주·뉴질랜드의 법적 결론과 정부 조사를 사건별로 구체화한다."
+    },
+    {
+      "from": "satanic-panic-english-speaking-history",
+      "to": "teresa-satans-children-1989",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "어린이집 사건과 전국적 방송이 공포를 증폭하다",
+      "reason": "1989년 호주 취재물이 영국의 미확인 범죄 주장을 국제적으로 재매개한 사례를 상세히 다룬다."
+    },
+    {
+      "from": "satanic-panic-english-speaking-history",
+      "to": "ray-wyre-sex-offender-treatment",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "전문가의 확신이 독립 증거처럼 보이는 과정",
+      "reason": "치료 실무자의 경력과 미입증 사탄 의례 학대 진술에 부여된 전문적 신용을 구분한다."
+    },
+    {
+      "from": "satanic-panic-court-inquiries",
+      "to": "teresa-satans-children-1989",
+      "type": "elaborates",
+      "basis": "curated",
+      "evidence_section": "영국 소녀 Teresa와 호주 〈60 Minutes〉 — 재판 기록이 비어 있는 사건",
+      "reason": "사건의 기소 보도와 법원 기록 공백을 방송별 진술과 확인 가능 범위에 맞춰 세분한다."
+    },
+    {
+      "from": "teresa-satans-children-1989",
+      "to": "ray-wyre-sex-offender-treatment",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "Ray Wyre의 '유사한 사례 21건'은 무엇의 증거인가",
+      "reason": "방송에 등장한 상담자의 실제 직업 이력과 그 증언이 갖는 독립 증거력의 한계를 연결한다."
     }
   ]
 }

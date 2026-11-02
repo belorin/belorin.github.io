@@ -32,3 +32,8 @@
 ## 장부에 기록된 반영 지식
 
 - 없음 (장부 도입 이전 원고이거나 아직 기록이 없다. 기록이 없다는 것은 내용이 없다는 뜻이 아니다.)
+
+## 확인된 의미 관계
+
+- ← `satanic-panic-english-speaking-history` · introduces · 근거 절(satanic-panic-english-speaking-history): 나라별 확산: 하나의 이야기, 서로 다른 제도적 경로
+- → `teresa-satans-children-1989` · elaborates · 근거 절(satanic-panic-court-inquiries): 영국 소녀 Teresa와 호주 〈60 Minutes〉 — 재판 기록이 비어 있는 사건
