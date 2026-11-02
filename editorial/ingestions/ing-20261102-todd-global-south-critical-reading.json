@@ -232,6 +232,18 @@
           "section": "이용과 검증의 실용적인 순서"
         }
       ]
+    },
+    {
+      "id": "k20",
+      "kind": "argument",
+      "title": "정보 과열 정도와 주장 자체의 증거 신뢰성을 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "information-hype-wow-index",
+          "section": "호들갑이 낮아도 근거가 약할 수 있다"
+        }
+      ]
     }
   ]
 }
