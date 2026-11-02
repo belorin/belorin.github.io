@@ -53,9 +53,10 @@ for (const entry of entries) {
 // - synthesis (SYNTHESIS.md): an editorial interpretation woven from articles;
 //   never the basis of another document.
 // - fiction (FICTION.md): a work, or one chapter of a work, kept as fiction.
+// - ai-essay (ESSAY.md): independently argued AI essay, never evidence for knowledge articles.
 const SYNTHESIS_TYPES = new Set(["cross", "concept", "critique"]);
-const RESERVED = { synthesis: "종합", fiction: "소설" };
-const KIND_FIELDS = { synthesis: ["synthesis_type", "based_on"], fiction: ["fiction_part", "work", "chapter", "revised"] };
+const RESERVED = { synthesis: "종합", fiction: "소설", "ai-essay": "AI의 글" };
+const KIND_FIELDS = { synthesis: ["synthesis_type"], fiction: ["fiction_part", "work", "chapter", "revised"], "ai-essay": ["essay_origin"] };
 const byEntryId = new Map(entries.map(e => [e.id, e]));
 const kinds = new Map(entries.map(e => [e.id, e.kind]));
 const chapterNumbers = new Map();
@@ -66,6 +67,7 @@ for (const entry of entries) {
     if (entry.category === category && entry.kind !== kind) fail(entry.id + ": category " + category + " is reserved for kind " + kind);
     if (entry.kind !== kind && KIND_FIELDS[kind].some(f => entry[f] !== undefined)) fail(entry.id + ": " + KIND_FIELDS[kind].join("/") + " require kind " + kind);
   }
+  if (entry.based_on !== undefined && !["synthesis", "ai-essay"].includes(entry.kind)) fail(entry.id + ": based_on requires synthesis or ai-essay");
   if (entry.kind === undefined) continue;
   if (!RESERVED[entry.kind]) fail(entry.id + ": unknown kind " + entry.kind);
   if (entry.category !== RESERVED[entry.kind]) fail(entry.id + ": " + entry.kind + " must use category " + RESERVED[entry.kind]);
@@ -83,6 +85,18 @@ for (const entry of entries) {
       const workText = fs.readFileSync(path.resolve(root, work.path), "utf8");
       if (!workText.includes("](./" + entry.id + ".md)")) fail(entry.work + ": work must link its chapter ./" + entry.id + ".md");
     } else fail(entry.id + ": fiction_part must be work or chapter");
+    continue;
+  }
+  if (entry.kind === "ai-essay") {
+    if (!["post-ingestion", "standalone"].includes(entry.essay_origin)) fail(entry.id + ": essay_origin must be post-ingestion or standalone");
+    if (entry.last_enriched_on !== null) fail(entry.id + ": AI essay last_enriched_on must be null");
+    const basis = entry.based_on;
+    if (!Array.isArray(basis) || basis.length < 1 || new Set(basis).size !== basis.length) fail(entry.id + ": ai-essay needs distinct based_on knowledge document ids");
+    for (const id of basis) {
+      const source = byEntryId.get(id);
+      if (!source || source.kind) fail(entry.id + ": essay basis must be a regular knowledge document: " + id);
+      if (!text.includes("](./" + id + ".md)")) fail(entry.id + ": essay body must link its basis ./" + id + ".md");
+    }
     continue;
   }
   if (!SYNTHESIS_TYPES.has(entry.synthesis_type)) fail(entry.id + ": synthesis_type must be cross, concept or critique");
@@ -130,6 +144,7 @@ const notes = published.map(entry => {
     updated:entry.updated, summary:entry.summary, tags:entry.tags,
     source:entry.source, related:entry.related,
     ...(entry.kind === "synthesis" ? {kind:entry.kind, synthesis_type:entry.synthesis_type, based_on:entry.based_on} : {}),
+    ...(entry.kind === "ai-essay" ? {kind:entry.kind, essay_origin:entry.essay_origin, based_on:entry.based_on} : {}),
     ...(entry.kind === "fiction" ? {kind:entry.kind, fiction_part:entry.fiction_part,
       ...(entry.fiction_part === "chapter" ? {work:entry.work, chapter:entry.chapter} : {}),
       ...(entry.revised ? {revised:true} : {})} : {}),
@@ -138,7 +153,7 @@ const notes = published.map(entry => {
 });
 for (const note of notes) {
   for (const id of note.based_on ?? []) {
-    if (!publishedIds.has(id)) fail(note.id + ": published synthesis cites unpublished basis " + id);
+    if (!publishedIds.has(id)) fail(note.id + ": published interpretation cites unpublished basis " + id);
   }
   if (note.work && !publishedIds.has(note.work)) fail(note.id + ": published chapter of an unpublished work " + note.work);
   for (const match of note.body.matchAll(/\]\(#([a-z0-9-]+)\)/g)) {
