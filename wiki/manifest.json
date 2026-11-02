@@ -6005,6 +6005,159 @@
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-11-03"
+    },
+    {
+      "id": "satanic-panic-english-speaking-history",
+      "path": "wiki/satanic-panic-english-speaking-history.md",
+      "publish": true,
+      "order": 183,
+      "title": "영어권 사탄 패닉의 형성과 쇠퇴: 아동 보호의 각성은 어떻게 비밀 의례 범죄의 공포가 되었나",
+      "category": "문화와 역사",
+      "summary": "1980년대 사탄 의례 학대 공황의 토양과 Michelle Remembers, McMartin, 미국 TV·영국·호주·뉴질랜드로의 확산, 1990년대 제도적 반증과 기억 연구의 후과를 구분한다.",
+      "tags": [
+        "사탄 패닉",
+        "Satanic Panic",
+        "사탄 의례 학대",
+        "SRA",
+        "아동 성학대",
+        "도덕적 공황",
+        "회복기억",
+        "Michelle Remembers",
+        "McMartin",
+        "Kenneth Lanning",
+        "Jean La Fontaine"
+      ],
+      "related": [
+        "satanic-panic-court-inquiries",
+        "teresa-satans-children-1989",
+        "ray-wyre-sex-offender-treatment"
+      ],
+      "aliases": [
+        "사탄 패닉 시대",
+        "Satanic Panic",
+        "영어권 사탄 패닉",
+        "사탄 의례 학대의 역사",
+        "사탄 패닉의 역사",
+        "사탄교 공황"
+      ],
+      "status": "역사·사회적 공황과 수사방법의 대화 기반 종합 / 개별 주장·통계에 관해 외부 신규 재검증 없음",
+      "updated": "2026-11-03",
+      "source": "내부 총합·대화에 이미 포함된 자료만 사용·외부 신규 조사 없음",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-03"
+    },
+    {
+      "id": "satanic-panic-court-inquiries",
+      "path": "wiki/satanic-panic-court-inquiries.md",
+      "publish": true,
+      "order": 184,
+      "title": "사탄 패닉의 수사·재판·정부 조사: 기소, 무죄, 파기와 아동보호 개입의 서로 다른 결말",
+      "category": "사회와 제도",
+      "summary": "McMartin, Fells Acres, Little Rascals, Keller, Cleveland, Rochdale, Orkney, Peter Ellis와 Teresa 사례에서 서로 다른 법적 단계·정부 대응·증거상 난점을 비교한다.",
+      "tags": [
+        "사탄 패닉",
+        "아동 성학대 수사",
+        "맥마틴",
+        "Fells Acres",
+        "Little Rascals",
+        "Keller",
+        "Cleveland",
+        "Rochdale",
+        "Orkney",
+        "Peter Ellis",
+        "La Fontaine",
+        "사법 오판"
+      ],
+      "related": [
+        "satanic-panic-english-speaking-history",
+        "teresa-satans-children-1989",
+        "ray-wyre-sex-offender-treatment"
+      ],
+      "aliases": [
+        "사탄 패닉 법정 사건",
+        "사탄 의례 학대 재판",
+        "사탄 패닉 정부 조사",
+        "SRA 재판 사례"
+      ],
+      "status": "기소·판결·정부조사 결과의 대화 기반 비교 / Teresa 사건 최종 판결 기록 미확인",
+      "updated": "2026-11-03",
+      "source": "내부 총합·대화에 이미 포함된 자료만 사용·외부 신규 조사 없음",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-03"
+    },
+    {
+      "id": "teresa-satans-children-1989",
+      "path": "wiki/teresa-satans-children-1989.md",
+      "publish": true,
+      "order": 185,
+      "title": "1989년 〈Satan's Children〉의 테레사: 방송된 증언, 탈출의 빈칸, 확인되지 않은 재판",
+      "category": "정보와 미디어",
+      "summary": "호주 60 Minutes의 영국 소녀 Teresa 증언을 방송 사실과 범죄 주장으로 분해하고 Nan·Alex·Natalie, 탈출과 어머니 재결합, 기소·후속 방송의 상충 기록을 분석한다.",
+      "tags": [
+        "60 Minutes Australia",
+        "Satan's Children",
+        "Teresa",
+        "Nan",
+        "Ray Wyre",
+        "The Cook Report",
+        "사탄 의례 학대",
+        "방송 검증",
+        "기소 결과",
+        "미확인 사건"
+      ],
+      "related": [
+        "satanic-panic-english-speaking-history",
+        "satanic-panic-court-inquiries",
+        "ray-wyre-sex-offender-treatment"
+      ],
+      "aliases": [
+        "60 Minutes 사탄의 아이들",
+        "테레사 사탄교 방송",
+        "Teresa Satan's Children",
+        "1989 사탄의 아이들",
+        "테레사 나탈리 1989"
+      ],
+      "status": "1989년 방송 진술의 구분과 후속 검증 한계 정리 / 법원 판결문 및 탈출 경위 미확인",
+      "updated": "2026-11-03",
+      "source": "내부 총합·대화에 이미 포함된 자료만 사용·외부 신규 조사 없음",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-03"
+    },
+    {
+      "id": "ray-wyre-sex-offender-treatment",
+      "path": "wiki/ray-wyre-sex-offender-treatment.md",
+      "publish": true,
+      "order": 186,
+      "title": "Ray Wyre: 성범죄자 치료의 선구자와 사탄 의례 학대 논쟁",
+      "category": "사회와 제도",
+      "summary": "영국 성범죄자 치료 전문가 Ray Wyre의 Winson Green·Albany·Gracewell·Wolvercote 경력, 저술과 사후 평가, 1989년 사탄 의례 학대 21건 발언의 증거상 한계를 구분한다.",
+      "tags": [
+        "Ray Wyre",
+        "레이 와이어",
+        "Gracewell Clinic",
+        "Wolvercote Clinic",
+        "Lucy Faithfull Foundation",
+        "성범죄자 치료",
+        "재범방지",
+        "SRA",
+        "상담 전문가"
+      ],
+      "related": [
+        "satanic-panic-english-speaking-history",
+        "satanic-panic-court-inquiries",
+        "teresa-satans-children-1989"
+      ],
+      "aliases": [
+        "Ray Wyre 경력",
+        "레이 와이어",
+        "레이 와이어 상담가",
+        "Ray Wyre 60 Minutes"
+      ],
+      "status": "인물 경력과 전문직 주장의 구분 / SRA 발언의 독립 형사입증 미확인",
+      "updated": "2026-11-03",
+      "source": "내부 총합·대화에 이미 포함된 자료만 사용·외부 신규 조사 없음",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-03"
     }
   ]
 }
