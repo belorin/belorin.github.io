@@ -175,6 +175,9 @@
 - [실리콘밸리는 한 동네가 아니다: 기업 본사와 교외형 기술 회랑의 지리](https://belorin.github.io/notes/silicon-valley-firm-geography/): 실리콘밸리 대표 기업이 Menlo Park에서 San Jose까지 분포하는 교외형 회랑과 지도·주소·산업 집적의 차이
 - [세계 BPO 시장의 지리: 누가 사무 노동을 수출하고, 누가 값을 지불하는가](https://belorin.github.io/notes/global-bpo-labor-geography/): 인도·필리핀·유럽·라틴아메리카·아프리카 BPO 공급국, 업종, 수출·고용·청구단가와 노동권 비교의 통계적 함정
 - [미국 노동시장을 지역으로 읽기: 취업률·실업률·주별 격차와 2026년의 둔화](https://belorin.github.io/notes/us-labor-market-geography-2026/): 2026년 봄 BLS 전국 고용률·실업률·U-6, 남부·중서부·동북부·서부 권역과 주요 주별 격차를 시점별로 구분
+- [전력선발 산불은 얼마나 줄었나: 미국·호주·유럽과 한국의 대응](https://belorin.github.io/notes/powerline-wildfire-mitigation-world-korea/): 캘리포니아·빅토리아·남유럽의 예방 수단과 성과 수치, 한국의 산지선로 개선 및 효과평가에서 필요한 지표.
+- [2025 산청·하동 산불의 예방 가능성: 발화와 확산은 다른 문제다](https://belorin.github.io/notes/sancheong-wildfire-2025-prevention/): 산청·하동 산불의 2025년 경과와 발화 예방·초동진화·대형화 방지를 구분한 반사실 평가와 원인 확인의 한계.
+- [산불의 청구서는 누구에게 가는가: 개인 배상, 전력회사의 보험, 통제의 미래](https://belorin.github.io/notes/wildfire-liability-insurance-risk-society/): 실화자에 대한 청구·판결·실제 회수액의 구별, 한전의 보험 미확인 범위, 보험 절벽과 위험기반 출입규제에 관한 미래 가설.
 
 ### 영화
 
@@ -246,6 +249,7 @@
 - [궤도의 공유지와 기업의 소유권: 우주 분쟁, 책임, 케슬러 위험](https://belorin.github.io/notes/space-assets-law-debris-kessler/): 우주조약과 기업 소유, 충돌·회피·전파간섭·재진입 사례, ASAT, 케슬러 증후군과 위성 대량 발사 규제를 다룬다.
 - [피지컬 AI의 월드 모델과 양자 최적화: 상상한 미래에서 실행할 행동까지](https://belorin.github.io/notes/physical-ai-world-model-quantum-optimization/): 한국형 피지컬 AI 컨소시엄의 기술 분업, 가상 제조 셀의 갈등, WFM과 QUBO·QAOA·양자 어닐링의 접점 및 신경망 압축 한계.
 - [개인 개발자의 제조 최적화 엔진: 선계산 자산, 실험, 첫 고객](https://belorin.github.io/notes/manufacturing-optimization-solo-business/): 개인 개발자용 제조 의사결정 솔버, 야간 에이전트 자산 생성, IBM·D-Wave 등 실험 플랫폼과 고객 검증 전략.
+- [산을 넘는 송전선과 산을 뚫는 전력구: 산불 위험을 포함한 지중화의 경제학](https://belorin.github.io/notes/mountain-powerline-undergrounding-economics/): 345kV 가공·지중 단가의 조건, 산악 전력구, 산불 기대손실과 보험을 분리한 30~50년 생애주기 경제성 비교 설계.
 
 ### 소설 (창작 작품 · 사실 근거 아님)
 

@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 990개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1016개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (9)
 
@@ -537,7 +537,7 @@
 - 초연 개정 시점과 2026년 수상 생존 여부의 재검증 경계 → `living-orchestral-listening-journey` § 자료 범위와 추가 확인 지점 · `ing-20261030-contemporary-symphonic-journey`
 - 청취기록으로 작품 반복과 해석자 팬덤을 관찰하기 → `living-orchestral-listening-journey` § 청취 기록: 사람의 이름이 되는 순간을 관찰하기 · `ing-20261030-contemporary-symphonic-journey`
 
-## 사회와 제도 (101)
+## 사회와 제도 (119)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -642,6 +642,24 @@
 - 2026년 3월 미국 주요 주별 실업률 → `us-labor-market-geography-2026` § 2026년 3월의 주요 주별 차이 · `ing-20261030-ai-labor-cloud-us-regions`
 - 저채용·저해고와 구직 체감의 차이 → `us-labor-market-geography-2026` § 구인 건수, 신규 실업수당, 장기실업을 함께 본다 · `ing-20261030-ai-labor-cloud-us-regions`
 - 지역 실업률을 AI 원인에 귀속하지 않는 원칙 → `us-labor-market-geography-2026` § 미국의 노동시장 문제를 AI 하나로 설명하지 않는 이유 · `ing-20261030-ai-labor-cloud-us-regions`
+- 캘리포니아 설비 보강과 예방정전 → `powerline-wildfire-mitigation-world-korea` § 캘리포니아: 지중화와 피복 전선, 예방정전의 병용 · `ing-20261102-wildfire-powerlines-liability`
+- 빅토리아 산불 위험 저감 평가 수치의 모수 → `powerline-wildfire-mitigation-world-korea` § 호주 빅토리아: 블랙 새터데이 이후 계량화한 위험 저감 · `ing-20261102-wildfire-powerlines-liability`
+- 스페인과 포르투갈의 식생관리 대응 → `powerline-wildfire-mitigation-world-korea` § 남유럽: 전력선 밑의 숲 자체를 관리한다 · `ing-20261102-wildfire-powerlines-liability`
+- 송전·배전 대책의 적용 범위 차이 → `powerline-wildfire-mitigation-world-korea` § 수단별로 겨냥하는 위험이 다르다 · `ing-20261102-wildfire-powerlines-liability`
+- 한전 산불 특별관리 지역과 산지 설비 개선 → `powerline-wildfire-mitigation-world-korea` § 한국도 2019년 이후 대응했는가 · `ing-20261102-wildfire-powerlines-liability`
+- 발화 건수·노출율·유사구간 비교의 효과평가 → `powerline-wildfire-mitigation-world-korea` § 실제로 먹혔는지를 평가하는 세 겹의 지표 · `ing-20261102-wildfire-powerlines-liability`
+- 2025 산청·하동 산불의 피해와 확산 조건 → `sancheong-wildfire-2025-prevention` § 산불의 경과와 지형·기상의 역할 · `ing-20261102-wildfire-powerlines-liability`
+- 산청의 인위적 발화 원인과 확정 판정의 간극 → `sancheong-wildfire-2025-prevention` § 발화 원인: 특정 주장과 확정 판정 사이 · `ing-20261102-wildfire-powerlines-liability`
+- 산청 산불의 발화·초동·대형화 예방 구별 → `sancheong-wildfire-2025-prevention` § 발화 예방과 초동 진화의 차이 · `ing-20261102-wildfire-powerlines-liability`
+- 산청 산불을 송전선 지중화 효과로 오용하지 않기 → `sancheong-wildfire-2025-prevention` § 송전선 지중화 논의와 어디서 만나는가 · `ing-20261102-wildfire-powerlines-liability`
+- 산불의 청구액·인정액·회수액 차이 → `wildfire-liability-insurance-risk-society` § 청구액, 인정액, 실제 회수액 · `ing-20261102-wildfire-powerlines-liability`
+- 개인 실화·방화 배상 및 강원 산불 소송의 불확실성 → `wildfire-liability-insurance-risk-society` § 청구액, 인정액, 실제 회수액 · `ing-20261102-wildfire-powerlines-liability`
+- 과실 규모와 대형재난 결과 사이의 책임 문제 → `wildfire-liability-insurance-risk-society` § 개인 과실과 대형재난의 비례 문제 · `ing-20261102-wildfire-powerlines-liability`
+- 한국 입산통제와 화기 소지 규제의 현행 범위 → `wildfire-liability-insurance-risk-society` § 한국에서 이미 존재하는 출입·화기 규제 · `ing-20261102-wildfire-powerlines-liability`
+- 한전 산불 손해배상책임보험의 실제 담보 여부 → `wildfire-liability-insurance-risk-society` § 한전도 보험을 갖고 있는가 · `ing-20261102-wildfire-powerlines-liability`
+- 캘리포니아 FAIR Plan과 한국 보험위험의 차이 → `wildfire-liability-insurance-risk-society` § 보험시장이 먼저 '살지 말라'고 말하는 경우 · `ing-20261102-wildfire-powerlines-liability`
+- 반복 산불에 따른 위험 기반 통제사회 시나리오 → `wildfire-liability-insurance-risk-society` § 위험 기반 통제사회라는 SF적 가설 · `ing-20261102-wildfire-powerlines-liability`
+- 사회적 재난 비용과 개인 배상 불능의 긴장 → `wildfire-liability-insurance-risk-society` § 작은 행위와 감당 불가능한 청구서 · `ing-20261102-wildfire-powerlines-liability`
 
 ## 운영 (58)
 
@@ -843,6 +861,42 @@
 - AI NAND 시장 전망과 SSD 가격 기다리기의 불확실성 → `ps5-storage-anime-live-games` § AI 시대의 NAND 가격과 '기다리기'의 비용 · `ing-20261030-china-anime-games-live-service-ps5`
 - 무료 게임의 저장공간 기회비용과 구매 판단 → `ps5-storage-anime-live-games` § 저장장치 구매의 진짜 판단 기준 · `ing-20261030-china-anime-games-live-service-ps5`
 
+## 과학과 기술 (31)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 복사냉각과 프라이팬 사고실험 → `space-data-center-thermal-economics` § 프라이팬 사고실험: 검은 표면과 광택 금속의 차이 · `ing-20261030-space-datacenters-orbital-commons`
+- ISS의 액체회로와 라디에이터 → `space-data-center-thermal-economics` § 국제우주정거장의 실물 해법 · `ing-20261030-space-datacenters-orbital-commons`
+- 구글 선캐처의 열관리 구상 → `space-data-center-thermal-economics` § 구글 Project Suncatcher가 제시한 것과 아직 제시하지 않은 것 · `ing-20261030-space-datacenters-orbital-commons`
+- 5GW 우주 데이터센터의 방열 규모 → `space-data-center-thermal-economics` § 5GW 열부하의 규모를 계산하다 · `ing-20261030-space-datacenters-orbital-commons`
+- 우주 연산의 경제성과 전략 가설 → `space-data-center-thermal-economics` § 왜 지상이 아니라 우주인가: 비용과 전략의 서로 다른 주장 · `ing-20261030-space-datacenters-orbital-commons`
+- 기업 우주자산의 소유와 국가책임 → `space-assets-law-debris-kessler` § 소유국·등록국·발사국을 혼동하지 말 것 · `ing-20261030-space-datacenters-orbital-commons`
+- 코스모스 954 국제배상 → `space-assets-law-debris-kessler` § 실제 금전배상: 코스모스 954 · `ing-20261030-space-datacenters-orbital-commons`
+- 위성 충돌과 회피 비용 → `space-assets-law-debris-kessler` § 실제 충돌과 배상 없는 위험의 분배 · `ing-20261030-space-datacenters-orbital-commons`
+- 전파간섭과 위성 재진입 분쟁 → `space-assets-law-debris-kessler` § 전파와 항법: 위성을 부수지 않는 분쟁 · `ing-20261030-space-datacenters-orbital-commons`
+- 위성 파괴 실험과 근접 기동 → `space-assets-law-debris-kessler` § 고의적 위성 파괴와 근접 기동의 외교 · `ing-20261030-space-datacenters-orbital-commons`
+- 케슬러 증후군의 고도별 위험 → `space-assets-law-debris-kessler` § 케슬러 증후군은 어느 날의 폭발이 아니다 · `ing-20261030-space-datacenters-orbital-commons`
+- 스타링크 대량 발사와 규제 → `space-assets-law-debris-kessler` § 스타링크의 대량 발사와 미국 규제의 문제 · `ing-20261030-space-datacenters-orbital-commons`
+- 기업과 국가의 우주자산 통제 갈등 → `space-assets-law-debris-kessler` § 기업과 국가가 충돌한다면 · `ing-20261030-space-datacenters-orbital-commons`
+- 한국형 피지컬 AI 기술 분업 → `physical-ai-world-model-quantum-optimization` § 제조 현장의 숙련은 어떻게 모델이 되는가 · `ing-20261030-physical-ai-quantum-business`
+- 제조 셀의 시뮬레이션 현실 간극 → `physical-ai-world-model-quantum-optimization` § 공장이라는 반례: 같은 부품도 같지 않다 · `ing-20261030-physical-ai-quantum-business`
+- 양자 중첩과 조합최적화의 구분 → `physical-ai-world-model-quantum-optimization` § 수만 가지 가능성을 한 번에 검사한다는 직관 · `ing-20261030-physical-ai-quantum-business`
+- WFM과 양자 솔버의 분업 → `physical-ai-world-model-quantum-optimization` § 어디에 양자 계산을 넣을 것인가 · `ing-20261030-physical-ai-quantum-business`
+- 양자 신경망 레이어 압축의 한계 → `physical-ai-world-model-quantum-optimization` § 인공신경망 레이어를 양자로 압축할 수 있는가 · `ing-20261030-physical-ai-quantum-business`
+- 개인 개발자의 제조 의사결정 엔진 → `manufacturing-optimization-solo-business` § 거대한 모델이 아니라 결정의 병목을 판다 · `ing-20261030-physical-ai-quantum-business`
+- 제조 솔버의 재사용 가능한 구성 → `manufacturing-optimization-solo-business` § 재사용 가능한 핵심 설계 · `ing-20261030-physical-ai-quantum-business`
+- 에이전트 선계산 자산 파이프라인 → `manufacturing-optimization-solo-business` § 에이전트가 밤마다 축적할 수 있는 자산 · `ing-20261030-physical-ai-quantum-business`
+- 양자 클라우드 접근 플랫폼 → `manufacturing-optimization-solo-business` § 양자 클라우드의 선택 · `ing-20261030-physical-ai-quantum-business`
+- 고객 실증과 양자 우위 검증 → `manufacturing-optimization-solo-business` § 첫 고객 이전에 필요한 증거 · `ing-20261030-physical-ai-quantum-business`
+- 산악 송전선 가공·지중 비용 구조 → `mountain-powerline-undergrounding-economics` § 한국 345kV 비교의 출발점과 산술 · `ing-20261102-wildfire-powerlines-liability`
+- 345kV 10km 비용 차이의 단순 환산 → `mountain-powerline-undergrounding-economics` § 한국 345kV 비교의 출발점과 산술 · `ing-20261102-wildfire-powerlines-liability`
+- 경인권과 광양–여수 전력구 비용 비교의 한계 → `mountain-powerline-undergrounding-economics` § 한국 345kV 비교의 출발점과 산술 · `ing-20261102-wildfire-powerlines-liability`
+- 산악 지중화 공법과 노선 길이 → `mountain-powerline-undergrounding-economics` § 산을 관통한다는 말의 두 뜻 · `ing-20261102-wildfire-powerlines-liability`
+- 지중화와 가공선 보강 패키지의 비교 → `mountain-powerline-undergrounding-economics` § 비교 대상은 '지중화 대 방치'가 아니다 · `ing-20261102-wildfire-powerlines-liability`
+- 연간 기대손실과 꼬리위험 → `mountain-powerline-undergrounding-economics` § '한 번의 대형 산불'을 연간 기대손실로 바꾸기 · `ing-20261102-wildfire-powerlines-liability`
+- 한전 재무비용과 사회적 비용의 구별 → `mountain-powerline-undergrounding-economics` § 사적 비용과 사회적 비용이라는 두 장부 · `ing-20261102-wildfire-powerlines-liability`
+- 산불 위험 지중화 순현재가치 설계 → `mountain-powerline-undergrounding-economics` § 30~50년 순현재가치 비교의 설계 · `ing-20261102-wildfire-powerlines-liability`
+
 ## 철학·사상사 (27)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -905,34 +959,6 @@
 - 외부 바이럴과 내부 확산의 경쟁 가설 → `dwar-netflix-revival` § 외부 바이럴과 내부 바이럴의 경쟁 가설 · `ing-20261025-dwar-netflix-revival`
 - 국내 제작 담론과 해외 소비 프레임의 차이 → `dwar-netflix-revival` § 한국에서의 기억과 해외에서의 소비 · `ing-20261025-dwar-netflix-revival`
 - 국가별 순위와 추천 노출 검증 설계 → `dwar-netflix-revival` § 미해결 문제와 검증 설계 · `ing-20261025-dwar-netflix-revival`
-
-## 과학과 기술 (23)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 복사냉각과 프라이팬 사고실험 → `space-data-center-thermal-economics` § 프라이팬 사고실험: 검은 표면과 광택 금속의 차이 · `ing-20261030-space-datacenters-orbital-commons`
-- ISS의 액체회로와 라디에이터 → `space-data-center-thermal-economics` § 국제우주정거장의 실물 해법 · `ing-20261030-space-datacenters-orbital-commons`
-- 구글 선캐처의 열관리 구상 → `space-data-center-thermal-economics` § 구글 Project Suncatcher가 제시한 것과 아직 제시하지 않은 것 · `ing-20261030-space-datacenters-orbital-commons`
-- 5GW 우주 데이터센터의 방열 규모 → `space-data-center-thermal-economics` § 5GW 열부하의 규모를 계산하다 · `ing-20261030-space-datacenters-orbital-commons`
-- 우주 연산의 경제성과 전략 가설 → `space-data-center-thermal-economics` § 왜 지상이 아니라 우주인가: 비용과 전략의 서로 다른 주장 · `ing-20261030-space-datacenters-orbital-commons`
-- 기업 우주자산의 소유와 국가책임 → `space-assets-law-debris-kessler` § 소유국·등록국·발사국을 혼동하지 말 것 · `ing-20261030-space-datacenters-orbital-commons`
-- 코스모스 954 국제배상 → `space-assets-law-debris-kessler` § 실제 금전배상: 코스모스 954 · `ing-20261030-space-datacenters-orbital-commons`
-- 위성 충돌과 회피 비용 → `space-assets-law-debris-kessler` § 실제 충돌과 배상 없는 위험의 분배 · `ing-20261030-space-datacenters-orbital-commons`
-- 전파간섭과 위성 재진입 분쟁 → `space-assets-law-debris-kessler` § 전파와 항법: 위성을 부수지 않는 분쟁 · `ing-20261030-space-datacenters-orbital-commons`
-- 위성 파괴 실험과 근접 기동 → `space-assets-law-debris-kessler` § 고의적 위성 파괴와 근접 기동의 외교 · `ing-20261030-space-datacenters-orbital-commons`
-- 케슬러 증후군의 고도별 위험 → `space-assets-law-debris-kessler` § 케슬러 증후군은 어느 날의 폭발이 아니다 · `ing-20261030-space-datacenters-orbital-commons`
-- 스타링크 대량 발사와 규제 → `space-assets-law-debris-kessler` § 스타링크의 대량 발사와 미국 규제의 문제 · `ing-20261030-space-datacenters-orbital-commons`
-- 기업과 국가의 우주자산 통제 갈등 → `space-assets-law-debris-kessler` § 기업과 국가가 충돌한다면 · `ing-20261030-space-datacenters-orbital-commons`
-- 한국형 피지컬 AI 기술 분업 → `physical-ai-world-model-quantum-optimization` § 제조 현장의 숙련은 어떻게 모델이 되는가 · `ing-20261030-physical-ai-quantum-business`
-- 제조 셀의 시뮬레이션 현실 간극 → `physical-ai-world-model-quantum-optimization` § 공장이라는 반례: 같은 부품도 같지 않다 · `ing-20261030-physical-ai-quantum-business`
-- 양자 중첩과 조합최적화의 구분 → `physical-ai-world-model-quantum-optimization` § 수만 가지 가능성을 한 번에 검사한다는 직관 · `ing-20261030-physical-ai-quantum-business`
-- WFM과 양자 솔버의 분업 → `physical-ai-world-model-quantum-optimization` § 어디에 양자 계산을 넣을 것인가 · `ing-20261030-physical-ai-quantum-business`
-- 양자 신경망 레이어 압축의 한계 → `physical-ai-world-model-quantum-optimization` § 인공신경망 레이어를 양자로 압축할 수 있는가 · `ing-20261030-physical-ai-quantum-business`
-- 개인 개발자의 제조 의사결정 엔진 → `manufacturing-optimization-solo-business` § 거대한 모델이 아니라 결정의 병목을 판다 · `ing-20261030-physical-ai-quantum-business`
-- 제조 솔버의 재사용 가능한 구성 → `manufacturing-optimization-solo-business` § 재사용 가능한 핵심 설계 · `ing-20261030-physical-ai-quantum-business`
-- 에이전트 선계산 자산 파이프라인 → `manufacturing-optimization-solo-business` § 에이전트가 밤마다 축적할 수 있는 자산 · `ing-20261030-physical-ai-quantum-business`
-- 양자 클라우드 접근 플랫폼 → `manufacturing-optimization-solo-business` § 양자 클라우드의 선택 · `ing-20261030-physical-ai-quantum-business`
-- 고객 실증과 양자 우위 검증 → `manufacturing-optimization-solo-business` § 첫 고객 이전에 필요한 증거 · `ing-20261030-physical-ai-quantum-business`
 
 ## 독서 문화 (20)
 

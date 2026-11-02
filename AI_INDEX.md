@@ -418,6 +418,15 @@
 - **[미국 노동시장을 지역으로 읽기: 취업률·실업률·주별 격차와 2026년의 둔화](wiki/us-labor-market-geography-2026.md)** · 별칭: 미국 2026 실업률 지역별, 미국 주별 고용률 · 수정: 2026-10-30 · 검토: 대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요
   - 2026년 봄 BLS 전국 고용률·실업률·U-6, 남부·중서부·동북부·서부 권역과 주요 주별 격차를 시점별로 구분
   - [문서 페이지](https://belorin.github.io/notes/us-labor-market-geography-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/us-labor-market-geography-2026.md)
+- **[전력선발 산불은 얼마나 줄었나: 미국·호주·유럽과 한국의 대응](wiki/powerline-wildfire-mitigation-world-korea.md)** · 별칭: 세계 전력선 산불 대응, 한국 송전선 산불 예방 효과 · 수정: 2026-11-02 · 검토: 대화 기반 종합·외부 재검증 필요
+  - 캘리포니아·빅토리아·남유럽의 예방 수단과 성과 수치, 한국의 산지선로 개선 및 효과평가에서 필요한 지표.
+  - [문서 페이지](https://belorin.github.io/notes/powerline-wildfire-mitigation-world-korea/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/powerline-wildfire-mitigation-world-korea.md)
+- **[2025 산청·하동 산불의 예방 가능성: 발화와 확산은 다른 문제다](wiki/sancheong-wildfire-2025-prevention.md)** · 별칭: 2025 산청 산불 예방, 산청 하동 산불 분석 · 수정: 2026-11-02 · 검토: 대화 기반 종합·외부 재검증 필요
+  - 산청·하동 산불의 2025년 경과와 발화 예방·초동진화·대형화 방지를 구분한 반사실 평가와 원인 확인의 한계.
+  - [문서 페이지](https://belorin.github.io/notes/sancheong-wildfire-2025-prevention/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/sancheong-wildfire-2025-prevention.md)
+- **[산불의 청구서는 누구에게 가는가: 개인 배상, 전력회사의 보험, 통제의 미래](wiki/wildfire-liability-insurance-risk-society.md)** · 별칭: 산불 구상권과 개인 책임, 산불 보험 절벽과 규제 미래 · 수정: 2026-11-02 · 검토: 대화 기반 종합·외부 재검증 필요
+  - 실화자에 대한 청구·판결·실제 회수액의 구별, 한전의 보험 미확인 범위, 보험 절벽과 위험기반 출입규제에 관한 미래 가설.
+  - [문서 페이지](https://belorin.github.io/notes/wildfire-liability-insurance-risk-society/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wildfire-liability-insurance-risk-society.md)
 
 ## 영화
 
@@ -553,6 +562,9 @@
 - **[개인 개발자의 제조 최적화 엔진: 선계산 자산, 실험, 첫 고객](wiki/manufacturing-optimization-solo-business.md)** · 별칭: 제조 최적화 1인 사업, 양자 최적화 MVP · 수정: 2026-10-30 · 검토: 사업 구상·검증 필요
   - 개인 개발자용 제조 의사결정 솔버, 야간 에이전트 자산 생성, IBM·D-Wave 등 실험 플랫폼과 고객 검증 전략.
   - [문서 페이지](https://belorin.github.io/notes/manufacturing-optimization-solo-business/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/manufacturing-optimization-solo-business.md)
+- **[산을 넘는 송전선과 산을 뚫는 전력구: 산불 위험을 포함한 지중화의 경제학](wiki/mountain-powerline-undergrounding-economics.md)** · 별칭: 산악 송전선 지중화 경제성, 송전선 산불 비용편익 분석 · 수정: 2026-11-02 · 검토: 대화 기반 종합·외부 재검증 필요
+  - 345kV 가공·지중 단가의 조건, 산악 전력구, 산불 기대손실과 보험을 분리한 30~50년 생애주기 경제성 비교 설계.
+  - [문서 페이지](https://belorin.github.io/notes/mountain-powerline-undergrounding-economics/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/mountain-powerline-undergrounding-economics.md)
 
 ## 소설 (창작 작품 · 사실 근거 아님)
 

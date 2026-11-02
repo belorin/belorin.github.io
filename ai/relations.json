@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 603,
+  "edge_count": 615,
   "edges": [
     {
       "from": "living-notes",
@@ -3386,6 +3386,78 @@
     {
       "from": "manufacturing-optimization-solo-business",
       "to": "japan-physical-ai-skill-transfer",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mountain-powerline-undergrounding-economics",
+      "to": "powerline-wildfire-mitigation-world-korea",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mountain-powerline-undergrounding-economics",
+      "to": "sancheong-wildfire-2025-prevention",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mountain-powerline-undergrounding-economics",
+      "to": "wildfire-liability-insurance-risk-society",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "powerline-wildfire-mitigation-world-korea",
+      "to": "mountain-powerline-undergrounding-economics",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "powerline-wildfire-mitigation-world-korea",
+      "to": "sancheong-wildfire-2025-prevention",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "powerline-wildfire-mitigation-world-korea",
+      "to": "wildfire-liability-insurance-risk-society",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "sancheong-wildfire-2025-prevention",
+      "to": "powerline-wildfire-mitigation-world-korea",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "sancheong-wildfire-2025-prevention",
+      "to": "mountain-powerline-undergrounding-economics",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "sancheong-wildfire-2025-prevention",
+      "to": "wildfire-liability-insurance-risk-society",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "wildfire-liability-insurance-risk-society",
+      "to": "mountain-powerline-undergrounding-economics",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "wildfire-liability-insurance-risk-society",
+      "to": "powerline-wildfire-mitigation-world-korea",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "wildfire-liability-insurance-risk-society",
+      "to": "sancheong-wildfire-2025-prevention",
       "type": "related_to",
       "basis": "manifest.related"
     },
