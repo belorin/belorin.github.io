@@ -105,7 +105,7 @@ for (const entry of entries) {
   if (new Set(basis).size !== basis.length) fail(entry.id + ": duplicate based_on id");
   for (const id of basis) {
     if (!kinds.has(id)) fail(entry.id + ": based_on unknown id " + id);
-    if (kinds.get(id) === "synthesis") fail(entry.id + ": based_on must not cite another synthesis (" + id + ")");
+    if (kinds.get(id) === "synthesis" || kinds.get(id) === "ai-essay") fail(entry.id + ": based_on must cite knowledge articles, not another interpretation (" + id + ")");
     if (kinds.get(id) === "fiction" && entry.synthesis_type !== "critique") fail(entry.id + ": fiction can be the basis only of a critique (" + id + ")");
     if (!text.includes("](./" + id + ".md)")) fail(entry.id + ": body must link its basis ./" + id + ".md");
   }
