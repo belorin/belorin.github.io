@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 627,
+  "edge_count": 635,
   "edges": [
     {
       "from": "living-notes",
@@ -2238,6 +2238,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "state-hollowing-index",
+      "to": "emmanuel-todd-western-defeat",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "state-hollowing-country-pilot",
       "to": "state-hollowing-index",
       "type": "related_to",
@@ -2654,6 +2660,12 @@
     {
       "from": "information-hype-wow-index",
       "to": "open-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "information-hype-wow-index",
+      "to": "global-south-critical-reading-guide",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -3530,6 +3542,42 @@
     {
       "from": "stump-and-dream-fragment",
       "to": "local-llm-novel-agent-m1",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "emmanuel-todd-western-defeat",
+      "to": "state-hollowing-index",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "emmanuel-todd-western-defeat",
+      "to": "global-south-critical-reading-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "emmanuel-todd-western-defeat",
+      "to": "substack-independent-newsletters",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "global-south-critical-reading-guide",
+      "to": "emmanuel-todd-western-defeat",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "global-south-critical-reading-guide",
+      "to": "information-hype-wow-index",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "substack-independent-newsletters",
+      "to": "emmanuel-todd-western-defeat",
       "type": "related_to",
       "basis": "manifest.related"
     },

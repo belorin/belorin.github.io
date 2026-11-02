@@ -4,9 +4,9 @@
 
 마지막 정비: **M001** (2026-10-26) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
 
-원고 174개 · 변경 문서 94 · 고립 22 · 한쪽 연결 103 · 보류 13 · 열린 교차 제안 7
+원고 177개 · 변경 문서 97 · 고립 22 · 한쪽 연결 103 · 보류 13 · 열린 교차 제안 7
 
-## 1. 지난 정비 이후 변경된 문서 (94)
+## 1. 지난 정비 이후 변경된 문서 (97)
 
 manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
@@ -21,11 +21,12 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - **철학·사상사** (3): `lacan-anti-oedipus-history`, `philosophical-systems-after-2000`, `contemporary-intellectual-power`
 - **미분류** (2): `ai-mediated-human-change`, `circus-music-history`
 - **소설** (2): `climate-breath-fiction`, `stump-and-dream-fragment`
+- **정보와 미디어** (2): `information-hype-wow-index`, `substack-independent-newsletters`
+- **정치경제** (2): `money-credit-seigniorage-critique`, `emmanuel-todd-western-defeat`
 - **종합** (2): `replay-ladder-human-performance`, `where-novelty-comes-from`
+- **독서 문화** (1): `global-south-critical-reading-guide`
 - **문화** (1): `music-books-supply-attention`
 - **자연과 과학** (1): `climate-population-villain-logic`
-- **정보와 미디어** (1): `information-hype-wow-index`
-- **정치경제** (1): `money-credit-seigniorage-critique`
 - **질문** (1): `open-questions`
 - **철학** (1): `freud-before-anti-oedipus`
 - **철학·심리** (1): `freud-dreams-modern-science`
@@ -192,7 +193,9 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `circus-music-questions` ↔ `circus-music-history` · 0.91
 - `world-reading-groups` ↔ `global-reading-club-2026-books` · 0.35 · 연결됨
 - `global-reading-club-2026-books` ↔ `world-book-club-korean-editions` · 0.24 · 연결됨
+- `physical-cloud-reading-guide` ↔ `global-south-critical-reading-guide` · 0.19
 - `anne-carson-nobel-first-reactions` ↔ `physical-cloud-reading-guide` · 0.15
+- `great-depression-lived-experience-literature` ↔ `global-south-critical-reading-guide` · 0.15
 - `venice-biennale-history` ↔ `venice-biennale-2026-critical-reception` · 0.14 · 연결됨
 - `war-escalation-local-to-world` ↔ `world-crisis-historical-analogies` · 0.14 · 연결됨
 - `world-orchestras-repertoire-2026` ↔ `korean-orchestras-repertoire-2026` · 0.14 · 연결됨
@@ -202,8 +205,6 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `venice-biennale-sites-pavilions` ↔ `venice-biennale-2026-critical-reception` · 0.13 · 연결됨
 - `circus-music-questions` ↔ `circus-music-research-ledger` · 0.13 · 연결됨
 - `double-bass` ↔ `electric-bass` · 0.13 · 연결됨
-- `war-escalation-local-to-world` ↔ `global-flashpoints-likelihood-2026` · 0.12 · 연결됨
-- `brass-band` ↔ `jazz-history-plural` · 0.12 · 연결됨
 
 ## 6. 보류 항목 (13)
 
@@ -242,5 +243,5 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 
 ## 9. 분류 참고
 
-분류 25개: 음악 37, AI와 사회 27, 사회와 제도 25, 문화와 역사 22, 철학 11, 기술·지식 아카이브 7, 과학과 기술 6, 운영 5, 정치경제 4, 독서 문화 3, 영화 3, 생명과학 3, 철학·사상사 3, 게임 3, 미분류 2, 자연과 과학 2, 종합 2, 소설 2, 질문 1, 언어 1, 문학 1, 문화 1, 창작 1, 철학·심리 1, 정보와 미디어 1
-문서가 하나뿐인 분류 7개: 질문, 언어, 문학, 문화, 창작, 철학·심리, 정보와 미디어. 분류 체계 변경은 제안만 한다.
+분류 25개: 음악 37, AI와 사회 27, 사회와 제도 25, 문화와 역사 22, 철학 11, 기술·지식 아카이브 7, 과학과 기술 6, 운영 5, 정치경제 5, 독서 문화 4, 영화 3, 생명과학 3, 철학·사상사 3, 게임 3, 미분류 2, 자연과 과학 2, 종합 2, 정보와 미디어 2, 소설 2, 질문 1, 언어 1, 문학 1, 문화 1, 창작 1, 철학·심리 1
+문서가 하나뿐인 분류 6개: 질문, 언어, 문학, 문화, 창작, 철학·심리. 분류 체계 변경은 제안만 한다.

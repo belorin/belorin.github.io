@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1066개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1085개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (13)
 
@@ -946,6 +946,71 @@
 - AI NAND 시장 전망과 SSD 가격 기다리기의 불확실성 → `ps5-storage-anime-live-games` § AI 시대의 NAND 가격과 '기다리기'의 비용 · `ing-20261030-china-anime-games-live-service-ps5`
 - 무료 게임의 저장공간 기회비용과 구매 판단 → `ps5-storage-anime-live-games` § 저장장치 구매의 진짜 판단 기준 · `ing-20261030-china-anime-games-live-service-ps5`
 
+## 독서 문화 (28)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 모임의 목적·선정·토론·지역성·외부 접근·기록 권한 → `world-reading-groups` § 모임을 관찰하는 일곱 질문 · `ing-20261023-world-reading-clubs`
+- 온라인 접근성 유형과 외국인 참관의 조건 → `world-reading-groups` § 온라인 접근성은 하나의 값이 아니다 · `ing-20261023-world-reading-clubs`
+- 25개국·40개 모임의 균형 표본 설계 → `world-reading-groups` § 연구 대상 지역과 표본 구성 · `ing-20261023-world-reading-clubs`
+- 홍콩 회원 투표와 장르별 연간 선정 → `world-reading-groups` § 홍콩 — Hong Kong Ladies Book Club · `ing-20261023-world-reading-clubs`
+- 카탈루냐 지역 신작과 작가 대화 → `world-reading-groups` § 바르셀로나 — Club de Lectura de Quadern · `ing-20261023-world-reading-clubs`
+- 인도 단편·장편 병행과 연간 챌린지 → `world-reading-groups` § 인도 델리 — The Indian Book Club · `ing-20261023-world-reading-clubs`
+- 일본 병렬 소모임과 장기 고전 강독 → `world-reading-groups` § 일본 — 猫町。 네코마치 · `ing-20261023-world-reading-clubs`
+- 카자흐스탄·조지아·나이지리아·케냐의 공개 목록 부재 → `world-reading-groups` § 카자흐스탄·조지아·나이지리아·케냐: 선정 방식과 공개성의 간극 · `ing-20261023-world-reading-clubs`
+- 독서모임 사회적 유형화의 조건과 한국 비교의 한계 → `world-reading-groups` § 비교 유형을 만드는 방법 · `ing-20261023-world-reading-clubs`
+- 참관·녹화·인용·익명성의 윤리와 취재 전제 → `world-reading-groups` § 참관·인터뷰의 윤리적 경계 · `ing-20261023-world-reading-clubs`
+- 홍콩 2026년 5~10월 선정작 여섯 권 → `global-reading-club-2026-books` § 홍콩: Hong Kong Ladies Book Club · `ing-20261023-world-reading-clubs`
+- 바르셀로나 2026년 1~6월 카탈루냐 신작 여섯 권 → `global-reading-club-2026-books` § 바르셀로나: Club de Lectura de Quadern · `ing-20261023-world-reading-clubs`
+- 델리 2026년 6~7월 토론작 여섯 편 → `global-reading-club-2026-books` § 인도 델리: The Indian Book Club의 6~7월 월별 토론 일정 · `ing-20261023-world-reading-clubs`
+- 델리 연간 도서 챌린지 열두 권과 월별 토론의 구분 → `global-reading-club-2026-books` § 별개인 2026년 Reading Challenge: 12권 · `ing-20261023-world-reading-clubs`
+- 일본 네코마치 5~7월 온라인 행사 열여섯 건 → `global-reading-club-2026-books` § 일본: 猫町。 네코마치의 5~7월 온라인 행사 · `ing-20261023-world-reading-clubs`
+- 한국어판 대응명: 월간 도서 열네 작품 → `world-book-club-korean-editions` § 월별 토론 선정작의 한국어 대응명 · `ing-20261023-world-reading-clubs`
+- 한국어판 대응명: 인도 챌린지 아홉 권 → `world-book-club-korean-editions` § 인도 Reading Challenge의 한국어 대응명 · `ing-20261023-world-reading-clubs`
+- 선집 수록·출간 여부 불명확한 여섯 작품 → `world-book-club-korean-editions` § 제목과 판본 확인이 필요한 작품 · `ing-20261023-world-reading-clubs`
+- 해외 독서문화를 비교하는 일곱 가지 읽기 경로 → `world-book-club-korean-editions` § 문화적 비교를 위한 일곱 가지 읽기 경로 · `ing-20261023-world-reading-clubs`
+- 한국어 서명 주장과 실제 출판 서지 검증의 분리 → `world-book-club-korean-editions` § 서지 검증의 최소 요건 · `ing-20261023-world-reading-clubs`
+- 악마의 변호인 역할과 반서방 진영 논리의 구분 → `global-south-critical-reading-guide` § 한 가지 진영이 아니라 네 가지 문제 · `ing-20261102-todd-global-south-critical-reading`
+- 아프리카의 월터 로드니 사미르 아민 카를루스 로페스와 추가 저자 → `global-south-critical-reading-guide` § 아프리카: 뒤처짐이라는 말은 무엇을 숨기는가 · `ing-20261102-todd-global-south-critical-reading`
+- 아시아의 마부바니 아차리아와 비서구 국제정치학 독서 → `global-south-critical-reading-guide` § 아시아: 세계질서의 중심을 미국 바깥에 놓을 때 · `ing-20261102-todd-global-south-critical-reading`
+- 라틴아메리카 갈레아노 에스코바르 산토스와 탈식민 독서 → `global-south-critical-reading-guide` § 라틴아메리카: 착취의 역사를 넘어 개발이라는 언어까지 · `ing-20261102-todd-global-south-critical-reading`
+- 지역을 가로지르는 프라샤드 장하준 월러스틴 아리기 비교 → `global-south-critical-reading-guide` § 지역을 가로지르는 저자들: 같은 결론에 이르지 않는 세계비판 · `ing-20261102-todd-global-south-critical-reading`
+- 미어샤이머 삭스 리븐 촘스키 앤더슨 슈트렉 등 서방 내부 반론가 → `global-south-critical-reading-guide` § 미국·유럽 내부에서 자기 질서를 반박하는 저자들 · `ing-20261102-todd-global-south-critical-reading`
+- 저자별 독서 목적 강점 주의점과 입문 경로 → `global-south-critical-reading-guide` § 어떤 책부터 읽어야 하나: 충격과 신뢰도의 교환 · `ing-20261102-todd-global-south-critical-reading`
+- 호들갑과 음모론을 피하는 여섯 가지 증거 검토 질문 → `global-south-critical-reading-guide` § 호들갑과 음모론을 거르는 여섯 가지 독서 질문 · `ing-20261102-todd-global-south-critical-reading`
+
+## 정치경제 (27)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- AI 구원론 없이 구성하는 비극적 완충론 → `critical-optimism-fragile-order` § 낙관이 훨씬 어려운 시대 · `ing-20261025-state-hollowing-critical-optimism`
+- 비용 피드백이 자동 감속을 보장하지 않는 조건 → `critical-optimism-fragile-order` § 비관식에 빠져 있는 반작용 · `ing-20261025-state-hollowing-critical-optimism`
+- 핵 억지·금융 안정화·에너지 전환의 조건부 완충 → `critical-optimism-fragile-order` § 전쟁의 브레이크: 비싼 전면전과 잔혹한 제한전 · `ing-20261025-state-hollowing-critical-optimism`
+- 제도적 완충장치의 불균등한 분포와 이미 도착한 디스토피아 → `critical-optimism-fragile-order` § 완충장치가 먼저 사망한 곳에서의 낙관 · `ing-20261025-state-hollowing-critical-optimism`
+- 법적 주권과 실제 국가기능을 분리하는 국가 형해화 개념 → `state-hollowing-index` § 국가는 있는데 국가는 작동하지 않는다 · `ing-20261025-state-hollowing-critical-optimism`
+- 폭력·행정·화폐·재생산·탈출·비공식망·법치·외부 의존·투자의 아홉 층 → `state-hollowing-index` § 100점 개념 설계와 중간 단계 · `ing-20261025-state-hollowing-critical-optimism`
+- 토드 영아사망률과 미확인 대리모 지표의 구분 → `state-hollowing-index` § 네 번째 층: 사회적 재생산의 붕괴 · `ing-20261025-state-hollowing-critical-optimism`
+- 빈곤 낙인·중복지표·평균값 편향을 피하는 보정 → `state-hollowing-index` § 비교의 함정과 보정 원칙 · `ing-20261025-state-hollowing-critical-optimism`
+- GPI·FSI·물가·정부부채 네 지표 코어 산식 → `state-hollowing-country-pilot` § 모형과 정규화 · `ing-20261025-state-hollowing-critical-optimism`
+- 20개국 코어 측정 입력값과 단계 분포 → `state-hollowing-country-pilot` § 20개국 입력값: 서로 다른 시대를 한 행에 놓은 한계 · `ing-20261025-state-hollowing-critical-optimism`
+- 이란·레바논·베네수엘라와 선진국의 서로 다른 압력 → `state-hollowing-country-pilot` § 유형은 점수보다 중요한 정보를 제공한다 · `ing-20261025-state-hollowing-critical-optimism`
+- 레바논·베네수엘라의 과거 부채값 대체와 민감도 한계 → `state-hollowing-country-pilot` § 민감도와 자료 문제 · `ing-20261025-state-hollowing-critical-optimism`
+- 화폐창출 사실과 약탈적 분배 판정의 구분 → `money-credit-seigniorage-critique` § 좋은 질문과 지나치게 쉬운 답 · `ing-20261030-money-credit-economic-history`
+- 중앙은행 세뇨리지와 상업은행 신용창조의 차이 → `money-credit-seigniorage-critique` § 세뇨리지와 은행 신용창조는 같은 수익이 아니다 · `ing-20261030-money-credit-economic-history`
+- 대출·예금 100의 대차대조표 및 원금 상환 → `money-credit-seigniorage-critique` § 신용은 부채다: 은행의 장부를 펴면 보이는 것 · `ing-20261030-money-credit-economic-history`
+- 칸티용 효과의 진입 경로와 통화완화의 고용 효과 → `money-credit-seigniorage-critique` § 칸티용 효과: 먼저 받은 사람의 이익은 어디까지인가 · `ing-20261030-money-credit-economic-history`
+- 생산·투기·연명 신용의 구분 → `money-credit-seigniorage-critique` § 생산적 신용, 자산투기 신용, 연명 신용을 분리한다 · `ing-20261030-money-credit-economic-history`
+- 화폐원인론과 불평등의 다른 제도적 원인 → `money-credit-seigniorage-critique` § 화폐원인론이 불평등의 다른 기제를 지울 때 · `ing-20261030-money-credit-economic-history`
+- 분데스방크와 스위스 주권화폐 국민투표 논쟁 → `money-credit-seigniorage-critique` § 경제학자들은 침묵했는가: 독일과 스위스의 공개 논쟁 · `ing-20261030-money-credit-economic-history`
+- 금본위의 규율과 금융위기 대응의 충돌 → `money-credit-seigniorage-critique` § 금본위로 모든 문제가 해결되는가 · `ing-20261030-money-credit-economic-history`
+- 토드의 프랑스 내 대중적 위상과 학문적·정치적 수용의 분리 → `emmanuel-todd-western-defeat` § 유명하지만 합의의 중심에는 있지 않은 사람 · `ing-20261102-todd-global-south-critical-reading`
+- 르몽드와 르몽드 디플로마티크의 상반된 서평 논리 → `emmanuel-todd-western-defeat` § 같은 책을 두고 갈리는 프랑스의 평가 · `ing-20261102-todd-global-south-critical-reading`
+- 서방 쇠퇴 주장과 개별 전쟁의 인과·책임 검증을 구분 → `emmanuel-todd-western-defeat` § 『서방의 패배』의 논리와 비판의 마찰 · `ing-20261102-todd-global-south-critical-reading`
+- 토드의 2025년 이란 핵억지 균형 주장과 반론 → `emmanuel-todd-western-defeat` § 2025년 이란 핵무장에 관한 발언 · `ing-20261102-todd-global-south-critical-reading`
+- 2026년 이란전을 미국 패권의 연쇄 전선으로 해석하는 주장과 근거의 한계 → `emmanuel-todd-western-defeat` § 2026년 이란전: 우크라이나 이후의 다른 전선인가 · `ing-20261102-todd-global-south-critical-reading`
+- 토드의 출판사 서평 프랑스어 언론과 인터뷰 추적 경로 → `emmanuel-todd-western-defeat` § 출판사와 매체, 독립 채널을 분리하기 · `ing-20261102-todd-global-south-critical-reading`
+- 토드 문명론의 통찰과 예측을 따로 검증하는 독법 → `emmanuel-todd-western-defeat` § 토드를 읽는 데 필요한 이중 장부 · `ing-20261102-todd-global-south-critical-reading`
+
 ## 철학·사상사 (27)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -1009,56 +1074,6 @@
 - 국내 제작 담론과 해외 소비 프레임의 차이 → `dwar-netflix-revival` § 한국에서의 기억과 해외에서의 소비 · `ing-20261025-dwar-netflix-revival`
 - 국가별 순위와 추천 노출 검증 설계 → `dwar-netflix-revival` § 미해결 문제와 검증 설계 · `ing-20261025-dwar-netflix-revival`
 
-## 독서 문화 (20)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 모임의 목적·선정·토론·지역성·외부 접근·기록 권한 → `world-reading-groups` § 모임을 관찰하는 일곱 질문 · `ing-20261023-world-reading-clubs`
-- 온라인 접근성 유형과 외국인 참관의 조건 → `world-reading-groups` § 온라인 접근성은 하나의 값이 아니다 · `ing-20261023-world-reading-clubs`
-- 25개국·40개 모임의 균형 표본 설계 → `world-reading-groups` § 연구 대상 지역과 표본 구성 · `ing-20261023-world-reading-clubs`
-- 홍콩 회원 투표와 장르별 연간 선정 → `world-reading-groups` § 홍콩 — Hong Kong Ladies Book Club · `ing-20261023-world-reading-clubs`
-- 카탈루냐 지역 신작과 작가 대화 → `world-reading-groups` § 바르셀로나 — Club de Lectura de Quadern · `ing-20261023-world-reading-clubs`
-- 인도 단편·장편 병행과 연간 챌린지 → `world-reading-groups` § 인도 델리 — The Indian Book Club · `ing-20261023-world-reading-clubs`
-- 일본 병렬 소모임과 장기 고전 강독 → `world-reading-groups` § 일본 — 猫町。 네코마치 · `ing-20261023-world-reading-clubs`
-- 카자흐스탄·조지아·나이지리아·케냐의 공개 목록 부재 → `world-reading-groups` § 카자흐스탄·조지아·나이지리아·케냐: 선정 방식과 공개성의 간극 · `ing-20261023-world-reading-clubs`
-- 독서모임 사회적 유형화의 조건과 한국 비교의 한계 → `world-reading-groups` § 비교 유형을 만드는 방법 · `ing-20261023-world-reading-clubs`
-- 참관·녹화·인용·익명성의 윤리와 취재 전제 → `world-reading-groups` § 참관·인터뷰의 윤리적 경계 · `ing-20261023-world-reading-clubs`
-- 홍콩 2026년 5~10월 선정작 여섯 권 → `global-reading-club-2026-books` § 홍콩: Hong Kong Ladies Book Club · `ing-20261023-world-reading-clubs`
-- 바르셀로나 2026년 1~6월 카탈루냐 신작 여섯 권 → `global-reading-club-2026-books` § 바르셀로나: Club de Lectura de Quadern · `ing-20261023-world-reading-clubs`
-- 델리 2026년 6~7월 토론작 여섯 편 → `global-reading-club-2026-books` § 인도 델리: The Indian Book Club의 6~7월 월별 토론 일정 · `ing-20261023-world-reading-clubs`
-- 델리 연간 도서 챌린지 열두 권과 월별 토론의 구분 → `global-reading-club-2026-books` § 별개인 2026년 Reading Challenge: 12권 · `ing-20261023-world-reading-clubs`
-- 일본 네코마치 5~7월 온라인 행사 열여섯 건 → `global-reading-club-2026-books` § 일본: 猫町。 네코마치의 5~7월 온라인 행사 · `ing-20261023-world-reading-clubs`
-- 한국어판 대응명: 월간 도서 열네 작품 → `world-book-club-korean-editions` § 월별 토론 선정작의 한국어 대응명 · `ing-20261023-world-reading-clubs`
-- 한국어판 대응명: 인도 챌린지 아홉 권 → `world-book-club-korean-editions` § 인도 Reading Challenge의 한국어 대응명 · `ing-20261023-world-reading-clubs`
-- 선집 수록·출간 여부 불명확한 여섯 작품 → `world-book-club-korean-editions` § 제목과 판본 확인이 필요한 작품 · `ing-20261023-world-reading-clubs`
-- 해외 독서문화를 비교하는 일곱 가지 읽기 경로 → `world-book-club-korean-editions` § 문화적 비교를 위한 일곱 가지 읽기 경로 · `ing-20261023-world-reading-clubs`
-- 한국어 서명 주장과 실제 출판 서지 검증의 분리 → `world-book-club-korean-editions` § 서지 검증의 최소 요건 · `ing-20261023-world-reading-clubs`
-
-## 정치경제 (20)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- AI 구원론 없이 구성하는 비극적 완충론 → `critical-optimism-fragile-order` § 낙관이 훨씬 어려운 시대 · `ing-20261025-state-hollowing-critical-optimism`
-- 비용 피드백이 자동 감속을 보장하지 않는 조건 → `critical-optimism-fragile-order` § 비관식에 빠져 있는 반작용 · `ing-20261025-state-hollowing-critical-optimism`
-- 핵 억지·금융 안정화·에너지 전환의 조건부 완충 → `critical-optimism-fragile-order` § 전쟁의 브레이크: 비싼 전면전과 잔혹한 제한전 · `ing-20261025-state-hollowing-critical-optimism`
-- 제도적 완충장치의 불균등한 분포와 이미 도착한 디스토피아 → `critical-optimism-fragile-order` § 완충장치가 먼저 사망한 곳에서의 낙관 · `ing-20261025-state-hollowing-critical-optimism`
-- 법적 주권과 실제 국가기능을 분리하는 국가 형해화 개념 → `state-hollowing-index` § 국가는 있는데 국가는 작동하지 않는다 · `ing-20261025-state-hollowing-critical-optimism`
-- 폭력·행정·화폐·재생산·탈출·비공식망·법치·외부 의존·투자의 아홉 층 → `state-hollowing-index` § 100점 개념 설계와 중간 단계 · `ing-20261025-state-hollowing-critical-optimism`
-- 토드 영아사망률과 미확인 대리모 지표의 구분 → `state-hollowing-index` § 네 번째 층: 사회적 재생산의 붕괴 · `ing-20261025-state-hollowing-critical-optimism`
-- 빈곤 낙인·중복지표·평균값 편향을 피하는 보정 → `state-hollowing-index` § 비교의 함정과 보정 원칙 · `ing-20261025-state-hollowing-critical-optimism`
-- GPI·FSI·물가·정부부채 네 지표 코어 산식 → `state-hollowing-country-pilot` § 모형과 정규화 · `ing-20261025-state-hollowing-critical-optimism`
-- 20개국 코어 측정 입력값과 단계 분포 → `state-hollowing-country-pilot` § 20개국 입력값: 서로 다른 시대를 한 행에 놓은 한계 · `ing-20261025-state-hollowing-critical-optimism`
-- 이란·레바논·베네수엘라와 선진국의 서로 다른 압력 → `state-hollowing-country-pilot` § 유형은 점수보다 중요한 정보를 제공한다 · `ing-20261025-state-hollowing-critical-optimism`
-- 레바논·베네수엘라의 과거 부채값 대체와 민감도 한계 → `state-hollowing-country-pilot` § 민감도와 자료 문제 · `ing-20261025-state-hollowing-critical-optimism`
-- 화폐창출 사실과 약탈적 분배 판정의 구분 → `money-credit-seigniorage-critique` § 좋은 질문과 지나치게 쉬운 답 · `ing-20261030-money-credit-economic-history`
-- 중앙은행 세뇨리지와 상업은행 신용창조의 차이 → `money-credit-seigniorage-critique` § 세뇨리지와 은행 신용창조는 같은 수익이 아니다 · `ing-20261030-money-credit-economic-history`
-- 대출·예금 100의 대차대조표 및 원금 상환 → `money-credit-seigniorage-critique` § 신용은 부채다: 은행의 장부를 펴면 보이는 것 · `ing-20261030-money-credit-economic-history`
-- 칸티용 효과의 진입 경로와 통화완화의 고용 효과 → `money-credit-seigniorage-critique` § 칸티용 효과: 먼저 받은 사람의 이익은 어디까지인가 · `ing-20261030-money-credit-economic-history`
-- 생산·투기·연명 신용의 구분 → `money-credit-seigniorage-critique` § 생산적 신용, 자산투기 신용, 연명 신용을 분리한다 · `ing-20261030-money-credit-economic-history`
-- 화폐원인론과 불평등의 다른 제도적 원인 → `money-credit-seigniorage-critique` § 화폐원인론이 불평등의 다른 기제를 지울 때 · `ing-20261030-money-credit-economic-history`
-- 분데스방크와 스위스 주권화폐 국민투표 논쟁 → `money-credit-seigniorage-critique` § 경제학자들은 침묵했는가: 독일과 스위스의 공개 논쟁 · `ing-20261030-money-credit-economic-history`
-- 금본위의 규율과 금융위기 대응의 충돌 → `money-credit-seigniorage-critique` § 금본위로 모든 문제가 해결되는가 · `ing-20261030-money-credit-economic-history`
-
 ## 생명과학 (15)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -1079,6 +1094,24 @@
 - 분변미생물 이식과 Vowst의 치료 맥락·정착 위험 → `gut-microbiome-colonization` § 분변미생물 이식: 단일 방문객이 아니라 생태계의 일부를 옮기기 · `ing-20261025-fruit-gut-horror`
 - 인간을 각기 다른 내부 생물권을 품은 행성으로 보는 유비 → `gut-microbiome-colonization` § 사람이 하나의 행성이라는 비유의 유효 범위 · `ing-20261025-fruit-gut-horror`
 
+## 정보와 미디어 (13)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 정보 피로에서 정보의 무게와 반응의 간격을 분리하는 문제 설정 → `information-hype-wow-index` § 정보의 속도보다 괴로운 것은 중요도의 혼란이다 · `ing-20261026-information-hype-wow-index`
+- 실질 중요도·와우·확성의 정의와 최초 세부 배점 → `information-hype-wow-index` § 놀라움·중요도·유통 강도는 같지 않다 · `ing-20261026-information-hype-wow-index`
+- 과열 차수와 호들갑 순도 및 은밀한 중요도의 서로 다른 산식 → `information-hype-wow-index` § 과열 차수의 산식과 이름 · `ing-20261026-information-hype-wow-index`
+- 임의 점수 구간과 중요도·확성 기준의 네 유형 → `information-hype-wow-index` § 과열 구간과 네 가지 정보 유형 · `ing-20261026-information-hype-wow-index`
+- 유명인 금리 전쟁 징후 AI 기사 가상 점수와 산식 수정 → `information-hype-wow-index` § 시험 점수가 보여 주는 것과 초안의 계산 혼선 · `ing-20261026-information-hype-wow-index`
+- 링크 캡처 썸네일 PDF 입력과 정보 한계 → `information-hype-wow-index` § 기사 링크만이 아니라 캡처 한 장도 입력이 된다 · `ing-20261026-information-hype-wow-index`
+- 전용 커스텀 GPT와 프로젝트 사용 구조 → `information-hype-wow-index` § 프롬프트를 전용 도구로 고정하기 · `ing-20261026-information-hype-wow-index`
+- 입력 자동 분석을 위한 고정 평가 지침과 출력 형식 → `information-hype-wow-index` § 설정란에 넣을 평가 지침 초안 · `ing-20261026-information-hype-wow-index`
+- 주의력 재배치를 위한 다섯 질문과 검증 과제 → `information-hype-wow-index` § 결국 정보 다이어트는 주의력의 재배치다 · `ing-20261026-information-hype-wow-index`
+- Substack의 이메일 뉴스레터 블로그 유료 구독 결합 구조 → `substack-independent-newsletters` § 블로그와 뉴스레터는 무엇이 다른가 · `ing-20261102-todd-global-south-critical-reading`
+- Substack 직접 발신의 독립성과 검증 절차 부재의 양면성 → `substack-independent-newsletters` § 학자와 논객이 이곳에 모이는 이유 · `ing-20261102-todd-global-south-critical-reading`
+- 에마뉘엘 토드 Substack과 Marianne 저자 지면 비교 → `substack-independent-newsletters` § 에마뉘엘 토드를 읽는 사례 · `ing-20261102-todd-global-south-critical-reading`
+- Substack 연재물을 검증하고 구독할 때의 확인 순서 → `substack-independent-newsletters` § 이용과 검증의 실용적인 순서 · `ing-20261102-todd-global-south-critical-reading`
+
 ## 자연과 과학 (11)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -1094,20 +1127,6 @@
 - 전쟁 사망자와 탄소배출 감소의 비례 계산 한계 → `climate-population-villain-logic` § 출발점: 전쟁 사망자와 배출량의 잘못된 등식 · `ing-20261026-climate-dystopia`
 - 1.5도 탄소예산과 인구 감소 시나리오의 전제 → `climate-population-villain-logic` § 1.5°C와 탄소예산 · `ing-20261026-climate-dystopia`
 - 기후위기 악역의 계산주의와 도덕적 비약 → `climate-population-villain-logic` § 계산에서 명령으로 건너뛰는 순간 · `ing-20261026-climate-dystopia`
-
-## 정보와 미디어 (9)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 정보 피로에서 정보의 무게와 반응의 간격을 분리하는 문제 설정 → `information-hype-wow-index` § 정보의 속도보다 괴로운 것은 중요도의 혼란이다 · `ing-20261026-information-hype-wow-index`
-- 실질 중요도·와우·확성의 정의와 최초 세부 배점 → `information-hype-wow-index` § 놀라움·중요도·유통 강도는 같지 않다 · `ing-20261026-information-hype-wow-index`
-- 과열 차수와 호들갑 순도 및 은밀한 중요도의 서로 다른 산식 → `information-hype-wow-index` § 과열 차수의 산식과 이름 · `ing-20261026-information-hype-wow-index`
-- 임의 점수 구간과 중요도·확성 기준의 네 유형 → `information-hype-wow-index` § 과열 구간과 네 가지 정보 유형 · `ing-20261026-information-hype-wow-index`
-- 유명인 금리 전쟁 징후 AI 기사 가상 점수와 산식 수정 → `information-hype-wow-index` § 시험 점수가 보여 주는 것과 초안의 계산 혼선 · `ing-20261026-information-hype-wow-index`
-- 링크 캡처 썸네일 PDF 입력과 정보 한계 → `information-hype-wow-index` § 기사 링크만이 아니라 캡처 한 장도 입력이 된다 · `ing-20261026-information-hype-wow-index`
-- 전용 커스텀 GPT와 프로젝트 사용 구조 → `information-hype-wow-index` § 프롬프트를 전용 도구로 고정하기 · `ing-20261026-information-hype-wow-index`
-- 입력 자동 분석을 위한 고정 평가 지침과 출력 형식 → `information-hype-wow-index` § 설정란에 넣을 평가 지침 초안 · `ing-20261026-information-hype-wow-index`
-- 주의력 재배치를 위한 다섯 질문과 검증 과제 → `information-hype-wow-index` § 결국 정보 다이어트는 주의력의 재배치다 · `ing-20261026-information-hype-wow-index`
 
 ## 질문 (9)
 

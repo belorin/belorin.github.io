@@ -7,7 +7,7 @@
 - 요약: 정보 피로를 실제 중요도·본래의 놀라움·유통 강도로 분해하는 호들갑 감정기 설계. 과열 차수의 산식, 수치 혼선의 교정, 가상 사례, 링크·캡처 입력과 커스텀 GPT 평가 지침을 설명한다.
 - 태그: 정보 피로, 주의력 배분, 호들갑 지수, 와우 지수, 확성 지수, 정보 과열, 커스텀 GPT
 - 수정일: 2026-10-26 · 실제 증보일: 2026-10-26 · 검토: needs_review
-- 관련 문서: `music-books-supply-attention`, `open-questions`
+- 관련 문서: `music-books-supply-attention`, `open-questions`, `global-south-critical-reading-guide`
 
 ## 절 목차
 

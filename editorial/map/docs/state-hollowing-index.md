@@ -7,7 +7,7 @@
 - 요약: 주권의 법적 외형과 기능적 연속성을 구분하고 폭력·행정·화폐·사회 재생산 등 아홉 층의 형해화 지수를 설계한다.
 - 태그: 국가 형해화, 좀비 국가, 실패 국가, 사회 재생산, 국가 취약성, 국가 역량, 디스토피아
 - 수정일: 2026-10-25 · 실제 증보일: 2026-10-25 · 검토: needs_review
-- 관련 문서: `state-hollowing-country-pilot`, `critical-optimism-fragile-order`, `world-crisis-historical-analogies`
+- 관련 문서: `state-hollowing-country-pilot`, `critical-optimism-fragile-order`, `world-crisis-historical-analogies`, `emmanuel-todd-western-defeat`
 
 ## 절 목차
 

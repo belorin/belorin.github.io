@@ -274,6 +274,9 @@
 - **[해외 독서모임 따라 읽기: 2026년 선정작의 한국어 번역본](wiki/world-book-club-korean-editions.md)** · 별칭: 독서모임 한국어판, 해외 북클럽 번역본, 세계 독서모임 따라 읽기 · 수정: 2026-10-23 · 검토: 국내 한국어판 예비 대조·서지 검증 필요
   - 월간 선정작의 한국어 대응명 14개와 인도 독서 챌린지 9개, 번역·단편 선집 여부 미확인 6개를 분리해 비교하는 읽기 목록.
   - [문서 페이지](https://belorin.github.io/notes/world-book-club-korean-editions/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-book-club-korean-editions.md)
+- **[서방의 자기서사를 의심하는 세계 저자들: 아프리카·아시아·라틴아메리카에서 읽는 비판적 독서 지도](wiki/global-south-critical-reading-guide.md)** · 별칭: 글로벌 사우스 비판적 독서, 비서구 사상가 독서 지도, 악마의 변호인 세계 저자 · 수정: 2026-11-02 · 검토: 대화 기반 저자 큐레이션·개별 원전 재검증 필요
+  - 아프리카·아시아·라틴아메리카의 개발·식민주의·국제정치·인식론 비판 저자와 서방 내부의 반론가를 구분하고 음모론적 서사를 피하는 독서법을 제안한다.
+  - [문서 페이지](https://belorin.github.io/notes/global-south-critical-reading-guide/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/global-south-critical-reading-guide.md)
 
 ## 문화와 역사
 
@@ -475,6 +478,9 @@
 - **[돈은 부채이지만 왜 곧장 약탈이 되지 않는가: 『왜 그들만 부자가 되는가』의 화폐론 비평](wiki/money-credit-seigniorage-critique.md)** · 별칭: 왜 그들만 부자가 되는가, 신용은 부채, 은행의 화폐창조 · 수정: 2026-10-30 · 검토: 대화 기반 분석 · 외부 재검증 필요
   - 은행의 예금통화 창조, 세뇨리지, 칸티용 효과, 생산적·투기적 신용, 통화정책과 불평등을 구별하며 『왜 그들만 부자가 되는가』의 논리적 비약을 검토
   - [문서 페이지](https://belorin.github.io/notes/money-credit-seigniorage-critique/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/money-credit-seigniorage-critique.md)
+- **[에마뉘엘 토드와 『서방의 패배』: 프랑스의 논쟁적 지식인, 이란전 해석, 예언의 검증](wiki/emmanuel-todd-western-defeat.md)** · 별칭: Emmanuel Todd, La Défaite de l'Occident, 에마뉘엘 토드 서방의 패배 · 수정: 2026-11-02 · 검토: 대화 기반 총합·발언과 언론 평가의 원문 재검증 필요
+  - 에마뉘엘 토드의 프랑스 내 수용, 2024년 『서방의 패배』에 대한 상반된 서평, 2025년 핵무장론과 2026년 이란전 관련 주장, 자료 검증의 경계를 구분한다.
+  - [문서 페이지](https://belorin.github.io/notes/emmanuel-todd-western-defeat/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/emmanuel-todd-western-defeat.md)
 
 ## 기술·지식 아카이브
 
@@ -541,6 +547,9 @@
 - **[호들갑 감정기: 정보의 와우·확성·과열 차수를 구별하는 법](wiki/information-hype-wow-index.md)** · 별칭: 호들갑 지수, 호들갑 감정기, 과열 차수, 와우 지표, 와우 지수, 확성 지수, 정보 과열 감정 · 수정: 2026-10-26 · 검토: 예비 평가 모형·외부 실측 검증 필요
   - 정보 피로를 실제 중요도·본래의 놀라움·유통 강도로 분해하는 호들갑 감정기 설계. 과열 차수의 산식, 수치 혼선의 교정, 가상 사례, 링크·캡처 입력과 커스텀 GPT 평가 지침을 설명한다.
   - [문서 페이지](https://belorin.github.io/notes/information-hype-wow-index/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/information-hype-wow-index.md)
+- **[Substack은 무엇인가: 개인 뉴스레터, 블로그, 유료 구독이 만나는 공간](wiki/substack-independent-newsletters.md)** · 별칭: 서브스택, 서브트랙, Substack 뉴스레터 · 수정: 2026-11-02 · 검토: 서비스 구조 개관·구독 조건과 인증 시점별 확인 필요
+  - Substack의 블로그·이메일 뉴스레터·유료 구독 결합 구조와 독립 논객의 발신 방식, 토드 채널 사례, 이용 및 검증의 기본 원칙을 설명한다.
+  - [문서 페이지](https://belorin.github.io/notes/substack-independent-newsletters/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/substack-independent-newsletters.md)
 
 ## 게임
 
