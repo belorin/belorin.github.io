@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `book-translation-pipeline-local-llm` · 분류: 기술·지식 아카이브 · 공개 · 원고: [wiki/book-translation-pipeline-local-llm.md](../../../wiki/book-translation-pipeline-local-llm.md) · 10,524자 · 절 11개
+- id: `book-translation-pipeline-local-llm` · 분류: 기술·지식 아카이브 · 공개 · 원고: [wiki/book-translation-pipeline-local-llm.md](../../../wiki/book-translation-pipeline-local-llm.md) · 10,701자 · 절 11개
 - 별칭: 로컬 책 번역, 영어 고서 자동 번역, Ollama 번역 파이프라인, 원문 번역 병기 뷰어
 - 요약: Internet Archive 고서 TXT를 OCR 없이 처리하고 Ollama·Qwen3로 문단별 번역·체크포인트·HTML 대조본을 만드는 과정, SEG 태그 정렬, M1 16GB 속도·잠자기 문제, Google Cloud 번역 전환의 미검증 경계를 기록한다.
 - 태그: 고서 번역, Ollama, Qwen3, OCR, Google Cloud Translation, 중단 재개, 문단 정렬, HTML 뷰어
-- 수정일: 2026-10-30 · 실제 증보일: 2026-10-30 · 검토: needs_review
-- 관련 문서: `luddite-executions-memory`, `book-preview-credit-sourcing`
+- 수정일: 2026-11-02 · 실제 증보일: 2026-11-02 · 검토: needs_review
+- 관련 문서: `luddite-executions-memory`, `book-preview-credit-sourcing`, `local-llm-novel-agent-m1`, `edge-vision-event-monitor-portfolio`
 
 ## 절 목차
 
@@ -24,7 +24,7 @@
 - HTML이 어긋난 진짜 이유: 빈 줄은 문단 ID가 아니다 · L84–92 · 1,094자 · `dd92a317` — 읽기 불편을 줄이기 위해 좌우 병렬 HTML 뷰어를 만들었다.
 - 로컬 번역과 구글 번역 사이의 스위치 · L94–100 · 895자 · `f0fe5756` — '그냥 구글 번역으로 돌리면 되지 않는가'라는 질문은 전체 구조를 다시 보게 한다.
 - 무엇을 보면 완역본으로 믿을 수 있는가 · L102–114 · 828자 · `f17a1ab0` — 겉보기에는 모든 청크가 끝나도 곧바로 '완역'은 아니다.
-- 실행 예와 남겨진 개발 과제 · L116–122 · 889자 · `60552c78` — 표시된 Python 스크립트의 기본 실행 파일명은 translate_book.py이고, 필요한 외부 Python 패키지로 requests가 쓰였다.
+- 실행 예와 남겨진 개발 과제 · L116–124 · 1,066자 · `718dc336` — 표시된 Python 스크립트의 기본 실행 파일명은 translate_book.py이고, 필요한 외부 Python 패키지로 requests가 쓰였다.
 
 ## 장부에 기록된 반영 지식
 

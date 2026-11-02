@@ -4,9 +4,9 @@
 
 마지막 정비: **M001** (2026-10-26) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
 
-원고 170개 · 변경 문서 90 · 고립 21 · 한쪽 연결 103 · 보류 9 · 열린 교차 제안 7
+원고 173개 · 변경 문서 93 · 고립 21 · 한쪽 연결 103 · 보류 9 · 열린 교차 제안 7
 
-## 1. 지난 정비 이후 변경된 문서 (90)
+## 1. 지난 정비 이후 변경된 문서 (93)
 
 manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
@@ -14,15 +14,15 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - **음악** (15): `jazz-to-ai`, `double-bass`, `electric-bass`, `rhythm-section`, `big-band`, `brass-band`, `drum-kit`, `jazz-dialogue`, `jazz-listening`, `silent-film-musician-labor`, `classical-canon-mauceri`, `orchestra-living-composers-canon`, `conductors-career-encores`, `orchestra-composer-conductor-myth`, `living-orchestral-listening-journey`
 - **AI와 사회** (15): `ai-human-control-guide`, `ai-economic-transition`, `ai-capital-labor-distribution`, `ai-compute-scaling-inference`, `japan-physical-ai-skill-transfer`, `ai-transition-policy-gap`, `starcraft-pluto-ai`, `ai-hidden-labor-feeding-machine-2026`, `ai-cloud-ownership-rent`, `ai-adoption-ceiling-floor`, `owner-aligned-automated-power`, `ai-transition-monetary-order`, `data-center-world-capacity`, `korea-data-center-local-economy`, `physical-cloud-reading-guide`
 - **문화와 역사** (10): `war-escalation-local-to-world`, `world-crisis-historical-analogies`, `jewish-messianic-claimants-kabbalah`, `luddite-movement-history`, `luddite-executions-memory`, `late-qing-yongying-daily-life`, `qing-tributaries-dissolution`, `ryukyu-disposition-qing-japan`, `roman-industry-gold-standard-history`, `great-depression-lived-experience-literature`
-- **과학과 기술** (5): `space-data-center-thermal-economics`, `space-assets-law-debris-kessler`, `physical-ai-world-model-quantum-optimization`, `manufacturing-optimization-solo-business`, `mountain-powerline-undergrounding-economics`
+- **과학과 기술** (6): `space-data-center-thermal-economics`, `space-assets-law-debris-kessler`, `physical-ai-world-model-quantum-optimization`, `manufacturing-optimization-solo-business`, `mountain-powerline-undergrounding-economics`, `edge-vision-event-monitor-portfolio`
+- **기술·지식 아카이브** (4): `east-asia-telegraph-network-1880s`, `great-northern-telegraph-east-asia`, `book-translation-pipeline-local-llm`, `local-llm-novel-agent-m1`
 - **운영** (4): `editing-principles`, `wiki-building-history`, `wiki-operations-pipeline`, `gpt-wiki-zero-prototype`
 - **게임** (3): `china-anime-game-industry`, `anime-urban-live-service-nte-tof`, `ps5-storage-anime-live-games`
-- **기술·지식 아카이브** (3): `east-asia-telegraph-network-1880s`, `great-northern-telegraph-east-asia`, `book-translation-pipeline-local-llm`
 - **철학·사상사** (3): `lacan-anti-oedipus-history`, `philosophical-systems-after-2000`, `contemporary-intellectual-power`
 - **미분류** (2): `ai-mediated-human-change`, `circus-music-history`
+- **소설** (2): `climate-breath-fiction`, `stump-and-dream-fragment`
 - **종합** (2): `replay-ladder-human-performance`, `where-novelty-comes-from`
 - **문화** (1): `music-books-supply-attention`
-- **소설** (1): `climate-breath-fiction`
 - **자연과 과학** (1): `climate-population-villain-logic`
 - **정보와 미디어** (1): `information-hype-wow-index`
 - **정치경제** (1): `money-credit-seigniorage-critique`
@@ -195,13 +195,13 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `war-escalation-local-to-world` ↔ `world-crisis-historical-analogies` · 0.14 · 연결됨
 - `world-orchestras-repertoire-2026` ↔ `korean-orchestras-repertoire-2026` · 0.14 · 연결됨
 - `venice-biennale-history` ↔ `venice-biennale-sites-pavilions` · 0.14 · 연결됨
+- `book-translation-pipeline-local-llm` ↔ `local-llm-novel-agent-m1` · 0.13 · 연결됨
 - `great-depression-lived-experience-literature` ↔ `physical-cloud-reading-guide` · 0.13
 - `venice-biennale-sites-pavilions` ↔ `venice-biennale-2026-critical-reception` · 0.13 · 연결됨
 - `circus-music-questions` ↔ `circus-music-research-ledger` · 0.13 · 연결됨
 - `double-bass` ↔ `electric-bass` · 0.13 · 연결됨
 - `war-escalation-local-to-world` ↔ `global-flashpoints-likelihood-2026` · 0.12 · 연결됨
 - `brass-band` ↔ `jazz-history-plural` · 0.12 · 연결됨
-- `hormuz-iran-war-naval-power-2026` ↔ `iran-war-us-force-losses-2026` · 0.12 · 연결됨
 
 ## 6. 보류 항목 (9)
 
@@ -231,10 +231,10 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
-- 긴 문서 (17): `wiki-building-history` 15,142자, `ai-capital-labor-distribution` 13,156자, `great-depression-lived-experience-literature` 12,392자, `wiki-operations-pipeline` 12,147자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `living-orchestral-listening-journey` 10,782자, `book-translation-pipeline-local-llm` 10,524자, `korea-dance-musical-tours` 10,337자, `starcraft-pluto-ai` 10,311자, `wto-digital-transmission-moratorium` 10,289자, `ai-economic-transition` 10,205자, `great-northern-telegraph-east-asia` 10,147자, `where-novelty-comes-from` 10,125자, `stalking-harm-and-autonomy` 10,033자
-- 짧은 문서 (1): `deleuze-cartography-future` 1,291자
+- 긴 문서 (17): `wiki-building-history` 15,142자, `ai-capital-labor-distribution` 13,156자, `great-depression-lived-experience-literature` 12,392자, `wiki-operations-pipeline` 12,147자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `living-orchestral-listening-journey` 10,782자, `book-translation-pipeline-local-llm` 10,701자, `korea-dance-musical-tours` 10,337자, `starcraft-pluto-ai` 10,311자, `wto-digital-transmission-moratorium` 10,289자, `ai-economic-transition` 10,205자, `great-northern-telegraph-east-asia` 10,147자, `where-novelty-comes-from` 10,125자, `stalking-harm-and-autonomy` 10,033자
+- 짧은 문서 (2): `stump-and-dream-fragment` 861자, `deleuze-cartography-future` 1,291자
 
 ## 9. 분류 참고
 
-분류 25개: 음악 37, AI와 사회 27, 사회와 제도 25, 문화와 역사 22, 철학 11, 운영 5, 기술·지식 아카이브 5, 과학과 기술 5, 정치경제 4, 독서 문화 3, 영화 3, 생명과학 3, 철학·사상사 3, 게임 3, 미분류 2, 자연과 과학 2, 종합 2, 질문 1, 언어 1, 문학 1, 문화 1, 창작 1, 철학·심리 1, 정보와 미디어 1, 소설 1
-문서가 하나뿐인 분류 8개: 질문, 언어, 문학, 문화, 창작, 철학·심리, 정보와 미디어, 소설. 분류 체계 변경은 제안만 한다.
+분류 25개: 음악 37, AI와 사회 27, 사회와 제도 25, 문화와 역사 22, 철학 11, 기술·지식 아카이브 6, 과학과 기술 6, 운영 5, 정치경제 4, 독서 문화 3, 영화 3, 생명과학 3, 철학·사상사 3, 게임 3, 미분류 2, 자연과 과학 2, 종합 2, 소설 2, 질문 1, 언어 1, 문학 1, 문화 1, 창작 1, 철학·심리 1, 정보와 미디어 1
+문서가 하나뿐인 분류 7개: 질문, 언어, 문학, 문화, 창작, 철학·심리, 정보와 미디어. 분류 체계 변경은 제안만 한다.

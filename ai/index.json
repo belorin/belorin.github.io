@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 167,
+  "document_count": 170,
   "documents": [
     {
       "id": "living-notes",
@@ -4310,13 +4310,14 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "초기 구상·구현 기록 아님",
-      "last_updated_on": "2026-10-26",
-      "last_enriched_on": "2026-10-26",
+      "last_updated_on": "2026-11-02",
+      "last_enriched_on": "2026-11-02",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "wiki-building-history",
         "wiki-operations-pipeline",
-        "editing-principles"
+        "editing-principles",
+        "local-llm-novel-agent-m1"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gpt-wiki-zero-prototype.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/gpt-wiki-zero-prototype.md",
@@ -5051,12 +5052,14 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "로컬 번역 파이프라인의 구현·실패 분석과 미완 과제",
-      "last_updated_on": "2026-10-30",
-      "last_enriched_on": "2026-10-30",
+      "last_updated_on": "2026-11-02",
+      "last_enriched_on": "2026-11-02",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "luddite-executions-memory",
-        "book-preview-credit-sourcing"
+        "book-preview-credit-sourcing",
+        "local-llm-novel-agent-m1",
+        "edge-vision-event-monitor-portfolio"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/book-translation-pipeline-local-llm.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/book-translation-pipeline-local-llm.md",
@@ -5584,12 +5587,13 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "내부 논의 기반·기술 실증 검토 필요",
-      "last_updated_on": "2026-10-30",
-      "last_enriched_on": "2026-10-30",
+      "last_updated_on": "2026-11-02",
+      "last_enriched_on": "2026-11-02",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "manufacturing-optimization-solo-business",
-        "japan-physical-ai-skill-transfer"
+        "japan-physical-ai-skill-transfer",
+        "edge-vision-event-monitor-portfolio"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/physical-ai-world-model-quantum-optimization.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/physical-ai-world-model-quantum-optimization.md",
@@ -5755,6 +5759,119 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/wildfire-liability-insurance-risk-society.md",
       "page_url": "https://belorin.github.io/notes/wildfire-liability-insurance-risk-society/",
       "app_url": "https://belorin.github.io/#wildfire-liability-insurance-risk-society"
+    },
+    {
+      "id": "local-llm-novel-agent-m1",
+      "title": "출근 전에 켜두는 로컬 소설 제작기: M1 16GB의 Ollama·MLX와 이어쓰기의 조건",
+      "aliases": [
+        "로컬 소설 에이전트",
+        "소설 자동생성 파이프라인",
+        "M1 로컬 LLM 에이전시",
+        "Ollama MLX 소설 자동화"
+      ],
+      "category": "기술·지식 아카이브",
+      "tags": [
+        "Ollama",
+        "MLX",
+        "Qwen3",
+        "Devstral",
+        "M1 16GB",
+        "소설 자동화",
+        "Python",
+        "백엔드 전환",
+        "체크포인트",
+        "이어쓰기"
+      ],
+      "summary": "M1 16GB의 Ollama와 MLX를 오가며 기획·초안·비평·수정·요약을 파일로 분리한 소설 자동화 실험, 실제 오류와 가상환경 문제, 작품별 외부 기억과 재개 설계의 한계를 다룬다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "실행 로그로 확인된 기본 2화 완주·후속 키워드별 이어쓰기 기능은 완주 검증 필요",
+      "last_updated_on": "2026-11-02",
+      "last_enriched_on": "2026-11-02",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "book-translation-pipeline-local-llm",
+        "gpt-wiki-zero-prototype",
+        "stump-and-dream-fragment",
+        "edge-vision-event-monitor-portfolio"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/local-llm-novel-agent-m1.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/local-llm-novel-agent-m1.md",
+      "page_url": "https://belorin.github.io/notes/local-llm-novel-agent-m1/",
+      "app_url": "https://belorin.github.io/#local-llm-novel-agent-m1"
+    },
+    {
+      "id": "edge-vision-event-monitor-portfolio",
+      "title": "엣지 영상 이벤트 감지 포트폴리오: 카메라 한 대에서 실증 보고서까지",
+      "aliases": [
+        "엣지 AI 포트폴리오",
+        "실시간 위험구역 침입 감지",
+        "영상 센서 융합 모니터링",
+        "Edge Vision Event Monitor"
+      ],
+      "category": "과학과 기술",
+      "tags": [
+        "엣지 AI",
+        "컴퓨터비전",
+        "YOLO",
+        "ONNX",
+        "ROI",
+        "이벤트 감지",
+        "MQTT",
+        "성능평가",
+        "AI 포트폴리오"
+      ],
+      "summary": "영상 객체 탐지와 ROI 침입·체류 판정을 연결하고, 이벤트 로깅·장치 최적화 비교·MQTT 센서 연계·평가와 기술 문서화까지 제안한 현장형 컴퓨터비전 데모 설계.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "채용 공고 요구사항에서 도출된 구현 제안·실제 모델 학습 및 성능 실측 미확인",
+      "last_updated_on": "2026-11-02",
+      "last_enriched_on": "2026-11-02",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "local-llm-novel-agent-m1",
+        "physical-ai-world-model-quantum-optimization",
+        "book-translation-pipeline-local-llm"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/edge-vision-event-monitor-portfolio.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/edge-vision-event-monitor-portfolio.md",
+      "page_url": "https://belorin.github.io/notes/edge-vision-event-monitor-portfolio/",
+      "app_url": "https://belorin.github.io/#edge-vision-event-monitor-portfolio"
+    },
+    {
+      "id": "stump-and-dream-fragment",
+      "title": "그루터기: 꿈과 무력화의 단편",
+      "aliases": [
+        "고집 그에게는 고집이 있었다",
+        "그루터기 소설 단편"
+      ],
+      "category": "소설",
+      "tags": [
+        "소설",
+        "단편",
+        "그루터기",
+        "꿈",
+        "고집",
+        "무력화",
+        "미완"
+      ],
+      "summary": "마음속 고집의 그루터기가 뿌리째 뽑힌 뒤 의지를 잃는 인물, 꿈속에서 타인의 본모습이 눌려 변하는 감각을 담은 짧은 창작 단편.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "두 문단의 미완 초고·후속 장면 미확인",
+      "last_updated_on": "2026-11-02",
+      "last_enriched_on": "2026-11-02",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "local-llm-novel-agent-m1"
+      ],
+      "kind": "fiction",
+      "fiction_part": "work",
+      "note": "소설. 사실 근거로 인용하지 않는다.",
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/stump-and-dream-fragment.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/stump-and-dream-fragment.md",
+      "page_url": "https://belorin.github.io/notes/stump-and-dream-fragment/",
+      "app_url": "https://belorin.github.io/#stump-and-dream-fragment"
     }
   ]
 }

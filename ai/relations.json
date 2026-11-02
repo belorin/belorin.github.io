@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 615,
+  "edge_count": 627,
   "edges": [
     {
       "from": "living-notes",
@@ -2688,6 +2688,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "gpt-wiki-zero-prototype",
+      "to": "local-llm-novel-agent-m1",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "ryukyu-disposition-qing-japan",
       "to": "qing-tributaries-dissolution",
       "type": "related_to",
@@ -3048,6 +3054,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "book-translation-pipeline-local-llm",
+      "to": "local-llm-novel-agent-m1",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "book-translation-pipeline-local-llm",
+      "to": "edge-vision-event-monitor-portfolio",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "orchestra-composer-conductor-myth",
       "to": "classical-canon-mauceri",
       "type": "related_to",
@@ -3378,6 +3396,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "physical-ai-world-model-quantum-optimization",
+      "to": "edge-vision-event-monitor-portfolio",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "manufacturing-optimization-solo-business",
       "to": "physical-ai-world-model-quantum-optimization",
       "type": "related_to",
@@ -3458,6 +3482,54 @@
     {
       "from": "wildfire-liability-insurance-risk-society",
       "to": "sancheong-wildfire-2025-prevention",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "local-llm-novel-agent-m1",
+      "to": "book-translation-pipeline-local-llm",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "local-llm-novel-agent-m1",
+      "to": "gpt-wiki-zero-prototype",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "local-llm-novel-agent-m1",
+      "to": "stump-and-dream-fragment",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "local-llm-novel-agent-m1",
+      "to": "edge-vision-event-monitor-portfolio",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "edge-vision-event-monitor-portfolio",
+      "to": "local-llm-novel-agent-m1",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "edge-vision-event-monitor-portfolio",
+      "to": "physical-ai-world-model-quantum-optimization",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "edge-vision-event-monitor-portfolio",
+      "to": "book-translation-pipeline-local-llm",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "stump-and-dream-fragment",
+      "to": "local-llm-novel-agent-m1",
       "type": "related_to",
       "basis": "manifest.related"
     },

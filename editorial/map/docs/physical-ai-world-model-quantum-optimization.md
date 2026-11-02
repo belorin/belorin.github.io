@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `physical-ai-world-model-quantum-optimization` · 분류: 과학과 기술 · 공개 · 원고: [wiki/physical-ai-world-model-quantum-optimization.md](../../../wiki/physical-ai-world-model-quantum-optimization.md) · 2,658자 · 절 6개
+- id: `physical-ai-world-model-quantum-optimization` · 분류: 과학과 기술 · 공개 · 원고: [wiki/physical-ai-world-model-quantum-optimization.md](../../../wiki/physical-ai-world-model-quantum-optimization.md) · 2,833자 · 절 6개
 - 별칭: WFM 양자컴퓨팅, 월드모델 양자 최적화
 - 요약: 한국형 피지컬 AI 컨소시엄의 기술 분업, 가상 제조 셀의 갈등, WFM과 QUBO·QAOA·양자 어닐링의 접점 및 신경망 압축 한계.
 - 태그: 피지컬 AI, 월드 파운데이션 모델, 양자 최적화, QUBO
-- 수정일: 2026-10-30 · 실제 증보일: 2026-10-30 · 검토: needs_review
-- 관련 문서: `manufacturing-optimization-solo-business`, `japan-physical-ai-skill-transfer`
+- 수정일: 2026-11-02 · 실제 증보일: 2026-11-02 · 검토: needs_review
+- 관련 문서: `manufacturing-optimization-solo-business`, `japan-physical-ai-skill-transfer`, `edge-vision-event-monitor-portfolio`
 
 ## 절 목차
 
@@ -18,7 +18,7 @@
 - 수만 가지 가능성을 한 번에 검사한다는 직관 · L13–16 · 427자 · `cf86618e` — 한 상태에서 수많은 행동과 조건을 시험하는 데 양자컴퓨팅을 활용할 수 있지 않을까?
 - 어디에 양자 계산을 넣을 것인가 · L18–21 · 463자 · `956a31ad` — 실용적인 분업은 현장 데이터 → 상태 추정·월드모델·시뮬레이터 → 실행 가능한 후보 및 제약 생성 → 최적화 솔버 → 안전 검증 → 로봇 실행 → 피드백이다.
 - 인공신경망 레이어를 양자로 압축할 수 있는가 · L23–24 · 246자 · `cd9eda47` — 고전 신경망의 레이어를 양자 회로로 바꿔 매개변수를 줄이는 구상과, 이미 존재하는 양자 회로의 깊이·게이트 수를 줄이는 연구는 구별된다.
-- 열려 있는 연구 질문 · L26–29 · 312자 · `b1df7214` — 어떤 종류의 행동 후보가 작고 재사용 가능한 QUBO로 표현되는가?
+- 열려 있는 연구 질문 · L26–31 · 487자 · `6ca73d92` — 어떤 종류의 행동 후보가 작고 재사용 가능한 QUBO로 표현되는가?
 
 ## 장부에 기록된 반영 지식
 

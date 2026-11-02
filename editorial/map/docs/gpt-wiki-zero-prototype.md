@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `gpt-wiki-zero-prototype` · 분류: 운영 · 공개 · 원고: [wiki/gpt-wiki-zero-prototype.md](../../../wiki/gpt-wiki-zero-prototype.md) · 8,452자 · 절 14개
+- id: `gpt-wiki-zero-prototype` · 분류: 운영 · 공개 · 원고: [wiki/gpt-wiki-zero-prototype.md](../../../wiki/gpt-wiki-zero-prototype.md) · 8,524자 · 절 14개
 - 별칭: GPT 위키 제로호기, GPT 위키 0호기, GPT 위키 초기 구상, ChatGPT 내보내기 위키, GPT 기억 위키
 - 요약: ChatGPT 내보내기와 Codex를 출발점으로, 원본·대화별 변환본·지식 정본의 분리, canon·결정 장부·문맥 묶음·미정 설정 관리, GPT 접근 경로와 집필-승인-증보 순환을 설계한 선행 구상.
 - 태그: GPT 위키, 대화 내보내기, Codex, canon, 외부 기억, 집필 일관성, 운영사
-- 수정일: 2026-10-26 · 실제 증보일: 2026-10-26 · 검토: needs_review
-- 관련 문서: `wiki-building-history`, `wiki-operations-pipeline`, `editing-principles`
+- 수정일: 2026-11-02 · 실제 증보일: 2026-11-02 · 검토: needs_review
+- 관련 문서: `wiki-building-history`, `wiki-operations-pipeline`, `editing-principles`, `local-llm-novel-agent-m1`
 
 ## 절 목차
 
@@ -27,7 +27,7 @@
 - 실패하기 쉬운 지점 · L99–105 · 576자 · `1ed2d38e` — 가장 쉬운 실패는 원본 대화를 통째로 검색하게 하고 그것을 기억이라고 부르는 것이다.
 - 제0호기와 후속 누적형 지식백과의 차이 · L107–115 · 901자 · `597791cb` — 초기의 초점은 한 프로젝트를 오래 집필하기 위한 기억이었다.
 - 남겨진 설계 문제 · L117–121 · 390자 · `2793e30a` — 제0호기는 답보다 다음의 질문을 남긴다.
-- 관련 문서 · L123–127 · 175자 · `74cd1e87` — 누적형 지식백과 구축사: 총합·증보를 위한 설계와 구현
+- 관련 문서 · L123–128 · 247자 · `446c7978` — 누적형 지식백과 구축사: 총합·증보를 위한 설계와 구현
 
 ## 장부에 기록된 반영 지식
 

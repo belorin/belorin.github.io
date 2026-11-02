@@ -212,6 +212,7 @@
 - [조선의 전보는 어떻게 도쿄에 도착했는가: 1871~1888년 동아시아 전신망의 세 단계](https://belorin.github.io/notes/east-asia-telegraph-network-1880s/): 조선발 인편·선편과 일본 전신망의 연결, 1883년 부산 해저선, 1885년 서로전선, 1888년 남로전선 및 한자전보 부호를 추적한다.
 - [코펜하겐에서 나가사키까지: 대북부전신회사는 동아시아의 바다에 어떻게 전선을 놓았는가](https://belorin.github.io/notes/great-northern-telegraph-east-asia/): 덴마크 대북부전신회사의 러시아 양허·영국 협상·일본 육양 허가·부설선·케이블 기술과 1871~1872년 개통, 1883년 부산선의 사업사를 다룬다.
 - [오래된 영어책 한 권을 끝까지 번역하려면: 텍스트 추출, 로컬 모델, 재개와 대조 뷰어](https://belorin.github.io/notes/book-translation-pipeline-local-llm/): Internet Archive 고서 TXT를 OCR 없이 처리하고 Ollama·Qwen3로 문단별 번역·체크포인트·HTML 대조본을 만드는 과정, SEG 태그 정렬, M1 16GB 속도·잠자기 문제, Google Cloud 번역 전환의 미검증 경계를 기록한다.
+- [출근 전에 켜두는 로컬 소설 제작기: M1 16GB의 Ollama·MLX와 이어쓰기의 조건](https://belorin.github.io/notes/local-llm-novel-agent-m1/): M1 16GB의 Ollama와 MLX를 오가며 기획·초안·비평·수정·요약을 파일로 분리한 소설 자동화 실험, 실제 오류와 가상환경 문제, 작품별 외부 기억과 재개 설계의 한계를 다룬다.
 
 ### 생명과학
 
@@ -250,10 +251,12 @@
 - [피지컬 AI의 월드 모델과 양자 최적화: 상상한 미래에서 실행할 행동까지](https://belorin.github.io/notes/physical-ai-world-model-quantum-optimization/): 한국형 피지컬 AI 컨소시엄의 기술 분업, 가상 제조 셀의 갈등, WFM과 QUBO·QAOA·양자 어닐링의 접점 및 신경망 압축 한계.
 - [개인 개발자의 제조 최적화 엔진: 선계산 자산, 실험, 첫 고객](https://belorin.github.io/notes/manufacturing-optimization-solo-business/): 개인 개발자용 제조 의사결정 솔버, 야간 에이전트 자산 생성, IBM·D-Wave 등 실험 플랫폼과 고객 검증 전략.
 - [산을 넘는 송전선과 산을 뚫는 전력구: 산불 위험을 포함한 지중화의 경제학](https://belorin.github.io/notes/mountain-powerline-undergrounding-economics/): 345kV 가공·지중 단가의 조건, 산악 전력구, 산불 기대손실과 보험을 분리한 30~50년 생애주기 경제성 비교 설계.
+- [엣지 영상 이벤트 감지 포트폴리오: 카메라 한 대에서 실증 보고서까지](https://belorin.github.io/notes/edge-vision-event-monitor-portfolio/): 영상 객체 탐지와 ROI 침입·체류 판정을 연결하고, 이벤트 로깅·장치 최적화 비교·MQTT 센서 연계·평가와 기술 문서화까지 제안한 현장형 컴퓨터비전 데모 설계.
 
 ### 소설 (창작 작품 · 사실 근거 아님)
 
 - [숨결: 기후 구원의 이름으로](https://belorin.github.io/notes/climate-breath-fiction/): [소설] 아르카디아와 에바, 아이린의 기후 디스토피아 장면집
+- [그루터기: 꿈과 무력화의 단편](https://belorin.github.io/notes/stump-and-dream-fragment/): [소설] 마음속 고집의 그루터기가 뿌리째 뽑힌 뒤 의지를 잃는 인물, 꿈속에서 타인의 본모습이 눌려 변하는 감각을 담은 짧은 창작 단편.
 
 ### 종합 (편집 해석 · 사실 근거 아님)
 

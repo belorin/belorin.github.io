@@ -22,7 +22,7 @@
 - **[원고만 쓰고 나머지는 기계에게: 편집 지도·자동 배포·정비로 바꾼 위키 운영](wiki/wiki-operations-pipeline.md)** · 별칭: 위키 운영 개편, 편집 지도, 정비 절차, LLM 원문 링크, 자동 배포, 프로토콜 경량화 · 수정: 2026-10-26 · 검토: 운영 개편 기록
   - GPT 위키 초기 구상의 접근성 문제를 이어받아 생성물 자동 배포, 전체 지도·문서 카드·지식 표제 역색인을 통한 계층적 읽기, 프로토콜 v2.0 경량화, 일상 증보와 정비의 분리, 편집 해석으로서의 종합, LLM이 링크로 읽을 수 있는 입구 정비.
   - [문서 페이지](https://belorin.github.io/notes/wiki-operations-pipeline/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wiki-operations-pipeline.md)
-- **[GPT 위키 제0호기: 대화 내보내기에서 지속 집필의 기억 장치로](wiki/gpt-wiki-zero-prototype.md)** · 별칭: GPT 위키 제로호기, GPT 위키 0호기, GPT 위키 초기 구상, ChatGPT 내보내기 위키, GPT 기억 위키 · 수정: 2026-10-26 · 검토: 초기 구상·구현 기록 아님
+- **[GPT 위키 제0호기: 대화 내보내기에서 지속 집필의 기억 장치로](wiki/gpt-wiki-zero-prototype.md)** · 별칭: GPT 위키 제로호기, GPT 위키 0호기, GPT 위키 초기 구상, ChatGPT 내보내기 위키, GPT 기억 위키 · 수정: 2026-11-02 · 검토: 초기 구상·구현 기록 아님
   - ChatGPT 내보내기와 Codex를 출발점으로, 원본·대화별 변환본·지식 정본의 분리, canon·결정 장부·문맥 묶음·미정 설정 관리, GPT 접근 경로와 집필-승인-증보 순환을 설계한 선행 구상.
   - [문서 페이지](https://belorin.github.io/notes/gpt-wiki-zero-prototype/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gpt-wiki-zero-prototype.md)
 
@@ -490,9 +490,12 @@
 - **[코펜하겐에서 나가사키까지: 대북부전신회사는 동아시아의 바다에 어떻게 전선을 놓았는가](wiki/great-northern-telegraph-east-asia.md)** · 별칭: 덴마크 대북부전신회사, Great Northern Telegraph Company, 1871 나가사키 해저케이블, 티에트겐 전신회사 · 수정: 2026-10-26 · 검토: 대화 범위에서 총합·증보 · 상세 사료 대조 필요
   - 덴마크 대북부전신회사의 러시아 양허·영국 협상·일본 육양 허가·부설선·케이블 기술과 1871~1872년 개통, 1883년 부산선의 사업사를 다룬다.
   - [문서 페이지](https://belorin.github.io/notes/great-northern-telegraph-east-asia/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/great-northern-telegraph-east-asia.md)
-- **[오래된 영어책 한 권을 끝까지 번역하려면: 텍스트 추출, 로컬 모델, 재개와 대조 뷰어](wiki/book-translation-pipeline-local-llm.md)** · 별칭: 로컬 책 번역, 영어 고서 자동 번역, Ollama 번역 파이프라인, 원문 번역 병기 뷰어 · 수정: 2026-10-30 · 검토: 로컬 번역 파이프라인의 구현·실패 분석과 미완 과제
+- **[오래된 영어책 한 권을 끝까지 번역하려면: 텍스트 추출, 로컬 모델, 재개와 대조 뷰어](wiki/book-translation-pipeline-local-llm.md)** · 별칭: 로컬 책 번역, 영어 고서 자동 번역, Ollama 번역 파이프라인, 원문 번역 병기 뷰어 · 수정: 2026-11-02 · 검토: 로컬 번역 파이프라인의 구현·실패 분석과 미완 과제
   - Internet Archive 고서 TXT를 OCR 없이 처리하고 Ollama·Qwen3로 문단별 번역·체크포인트·HTML 대조본을 만드는 과정, SEG 태그 정렬, M1 16GB 속도·잠자기 문제, Google Cloud 번역 전환의 미검증 경계를 기록한다.
   - [문서 페이지](https://belorin.github.io/notes/book-translation-pipeline-local-llm/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/book-translation-pipeline-local-llm.md)
+- **[출근 전에 켜두는 로컬 소설 제작기: M1 16GB의 Ollama·MLX와 이어쓰기의 조건](wiki/local-llm-novel-agent-m1.md)** · 별칭: 로컬 소설 에이전트, 소설 자동생성 파이프라인, M1 로컬 LLM 에이전시, Ollama MLX 소설 자동화 · 수정: 2026-11-02 · 검토: 실행 로그로 확인된 기본 2화 완주·후속 키워드별 이어쓰기 기능은 완주 검증 필요
+  - M1 16GB의 Ollama와 MLX를 오가며 기획·초안·비평·수정·요약을 파일로 분리한 소설 자동화 실험, 실제 오류와 가상환경 문제, 작품별 외부 기억과 재개 설계의 한계를 다룬다.
+  - [문서 페이지](https://belorin.github.io/notes/local-llm-novel-agent-m1/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/local-llm-novel-agent-m1.md)
 
 ## 생명과학
 
@@ -556,7 +559,7 @@
 - **[궤도의 공유지와 기업의 소유권: 우주 분쟁, 책임, 케슬러 위험](wiki/space-assets-law-debris-kessler.md)** · 별칭: 케슬러 증후군과 우주법, 우주자산 국제분쟁 · 수정: 2026-10-30 · 검토: 검토 필요
   - 우주조약과 기업 소유, 충돌·회피·전파간섭·재진입 사례, ASAT, 케슬러 증후군과 위성 대량 발사 규제를 다룬다.
   - [문서 페이지](https://belorin.github.io/notes/space-assets-law-debris-kessler/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/space-assets-law-debris-kessler.md)
-- **[피지컬 AI의 월드 모델과 양자 최적화: 상상한 미래에서 실행할 행동까지](wiki/physical-ai-world-model-quantum-optimization.md)** · 별칭: WFM 양자컴퓨팅, 월드모델 양자 최적화 · 수정: 2026-10-30 · 검토: 내부 논의 기반·기술 실증 검토 필요
+- **[피지컬 AI의 월드 모델과 양자 최적화: 상상한 미래에서 실행할 행동까지](wiki/physical-ai-world-model-quantum-optimization.md)** · 별칭: WFM 양자컴퓨팅, 월드모델 양자 최적화 · 수정: 2026-11-02 · 검토: 내부 논의 기반·기술 실증 검토 필요
   - 한국형 피지컬 AI 컨소시엄의 기술 분업, 가상 제조 셀의 갈등, WFM과 QUBO·QAOA·양자 어닐링의 접점 및 신경망 압축 한계.
   - [문서 페이지](https://belorin.github.io/notes/physical-ai-world-model-quantum-optimization/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/physical-ai-world-model-quantum-optimization.md)
 - **[개인 개발자의 제조 최적화 엔진: 선계산 자산, 실험, 첫 고객](wiki/manufacturing-optimization-solo-business.md)** · 별칭: 제조 최적화 1인 사업, 양자 최적화 MVP · 수정: 2026-10-30 · 검토: 사업 구상·검증 필요
@@ -565,6 +568,9 @@
 - **[산을 넘는 송전선과 산을 뚫는 전력구: 산불 위험을 포함한 지중화의 경제학](wiki/mountain-powerline-undergrounding-economics.md)** · 별칭: 산악 송전선 지중화 경제성, 송전선 산불 비용편익 분석 · 수정: 2026-11-02 · 검토: 대화 기반 종합·외부 재검증 필요
   - 345kV 가공·지중 단가의 조건, 산악 전력구, 산불 기대손실과 보험을 분리한 30~50년 생애주기 경제성 비교 설계.
   - [문서 페이지](https://belorin.github.io/notes/mountain-powerline-undergrounding-economics/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/mountain-powerline-undergrounding-economics.md)
+- **[엣지 영상 이벤트 감지 포트폴리오: 카메라 한 대에서 실증 보고서까지](wiki/edge-vision-event-monitor-portfolio.md)** · 별칭: 엣지 AI 포트폴리오, 실시간 위험구역 침입 감지, 영상 센서 융합 모니터링, Edge Vision Event Monitor · 수정: 2026-11-02 · 검토: 채용 공고 요구사항에서 도출된 구현 제안·실제 모델 학습 및 성능 실측 미확인
+  - 영상 객체 탐지와 ROI 침입·체류 판정을 연결하고, 이벤트 로깅·장치 최적화 비교·MQTT 센서 연계·평가와 기술 문서화까지 제안한 현장형 컴퓨터비전 데모 설계.
+  - [문서 페이지](https://belorin.github.io/notes/edge-vision-event-monitor-portfolio/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/edge-vision-event-monitor-portfolio.md)
 
 ## 소설 (창작 작품 · 사실 근거 아님)
 
@@ -573,6 +579,9 @@
 - **[숨결: 기후 구원의 이름으로](wiki/climate-breath-fiction.md)** · 단편 · 수정: 2026-10-26
   - 아르카디아와 에바, 아이린의 기후 디스토피아 장면집
   - [문서 페이지](https://belorin.github.io/notes/climate-breath-fiction/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/climate-breath-fiction.md)
+- **[그루터기: 꿈과 무력화의 단편](wiki/stump-and-dream-fragment.md)** · 단편 · 수정: 2026-11-02
+  - 마음속 고집의 그루터기가 뿌리째 뽑힌 뒤 의지를 잃는 인물, 꿈속에서 타인의 본모습이 눌려 변하는 감각을 담은 짧은 창작 단편.
+  - [문서 페이지](https://belorin.github.io/notes/stump-and-dream-fragment/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/stump-and-dream-fragment.md)
 
 ## 종합 (편집 해석 · 사실 근거 아님)
 
