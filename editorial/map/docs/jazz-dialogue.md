@@ -8,7 +8,7 @@
 - 태그: 재즈, 즉흥연주, 스윙
 - 수정일: 2026-10-26 · 실제 증보일: 2026-10-26 · 검토: needs_review
 - 관련 문서: `rhythm-section`, `big-band`, `jazz-listening`, `jazz-live-quartet-case`, `jazz-history-plural`, `jazz-current-ecosystem`, `jazz-career-path`
-- 이 문서를 근거로 쓴 종합: `where-novelty-comes-from`
+- 이 문서를 근거로 쓴 해석 원고: `where-novelty-comes-from`
 
 ## 절 목차
 

@@ -8,7 +8,7 @@
 - 태그: AI와 사회, 자본, 노동, 소유권, 교섭력
 - 수정일: 2026-10-30 · 실제 증보일: 2026-10-30 · 검토: needs_review
 - 관련 문서: `ai-economic-transition`, `ai-class-fiction`, `gradual-disempowerment`, `disempowerment-measurement`, `ai-human-control-guide`, `ai-transition-policy-gap`, `ai-cloud-ownership-rent`, `global-bpo-labor-geography`, `ai-hidden-labor-feeding-machine-2026`, `great-depression-lived-experience-literature`, `ai-adoption-ceiling-floor`, `ai-transition-monetary-order`, `korea-data-center-local-economy`
-- 이 문서를 근거로 쓴 종합: `replay-ladder-human-performance`
+- 이 문서를 근거로 쓴 해석 원고: `replay-ladder-human-performance`
 
 ## 절 목차
 
