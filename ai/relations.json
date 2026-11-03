@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 675,
+  "edge_count": 679,
   "edges": [
     {
       "from": "living-notes",
@@ -1206,6 +1206,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "deleuze-negation-history",
+      "to": "deleuze-thermodynamics-implication-equilibrium",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "deleuze-control-marx-future",
       "to": "deleuze-negation-history",
       "type": "related_to",
@@ -2144,6 +2150,12 @@
     {
       "from": "deleuze-number-intensity-spatium",
       "to": "ancient-philosophy-beyond-greece",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-number-intensity-spatium",
+      "to": "deleuze-thermodynamics-implication-equilibrium",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -3782,6 +3794,18 @@
     {
       "from": "x-auto-translation-serving-cost",
       "to": "data-center-world-capacity",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-thermodynamics-implication-equilibrium",
+      "to": "deleuze-number-intensity-spatium",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-thermodynamics-implication-equilibrium",
+      "to": "deleuze-negation-history",
       "type": "related_to",
       "basis": "manifest.related"
     },

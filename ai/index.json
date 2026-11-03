@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 187,
+  "document_count": 188,
   "documents": [
     {
       "id": "living-notes",
@@ -1123,8 +1123,8 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "원문 대조 기반 해설·외부 재검토 필요",
-      "last_updated_on": "2026-10-25",
-      "last_enriched_on": "2026-10-25",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "deleuze-becoming-new",
@@ -1132,7 +1132,8 @@
         "deleuze-number-intensity-spatium",
         "hegel-fichte-schelling-difference",
         "deleuze-unthinkable-fold-thought",
-        "freud-before-anti-oedipus"
+        "freud-before-anti-oedipus",
+        "deleuze-thermodynamics-implication-equilibrium"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-negation-history.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/deleuze-negation-history.md",
@@ -2993,13 +2994,14 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "내부 총합 · 수식 및 원전 용례 재검증 필요",
-      "last_updated_on": "2026-10-25",
-      "last_enriched_on": "2026-10-25",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "deleuze-becoming-new",
         "deleuze-negation-history",
-        "ancient-philosophy-beyond-greece"
+        "ancient-philosophy-beyond-greece",
+        "deleuze-thermodynamics-implication-equilibrium"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-number-intensity-spatium.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/deleuze-number-intensity-spatium.md",
@@ -6515,6 +6517,47 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/swimming-bird-flight-biomechanics.md",
       "page_url": "https://belorin.github.io/notes/swimming-bird-flight-biomechanics/",
       "app_url": "https://belorin.github.io/#swimming-bird-flight-biomechanics"
+    },
+    {
+      "id": "deleuze-thermodynamics-implication-equilibrium",
+      "title": "결국 침묵한다면: 들뢰즈의 열역학적 가상, 안·밖 주름운동과 강도의 깊이",
+      "aliases": [
+        "들뢰즈와 엔트로피",
+        "안 주름운동과 밖 주름운동",
+        "열역학적 파성추",
+        "차이의 최종 침묵",
+        "초월론적 물리학적 가상"
+      ],
+      "category": "철학",
+      "tags": [
+        "들뢰즈",
+        "차이와 반복",
+        "열역학",
+        "엔트로피",
+        "열적 평형",
+        "강도",
+        "안 주름운동",
+        "밖 주름운동",
+        "함축",
+        "펼침",
+        "깊이",
+        "포텐셜 에너지"
+      ],
+      "summary": "엔트로피와 열평형을 인정하면서도 차이의 발생을 묻는 들뢰즈의 논점을 안·밖 주름, 강도의 깊이, 포텐셜 에너지와 최종 침묵의 반론으로 해설한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "내부 총합에 따른 개념 해석 · 원전 원어·번역 대응 및 우주론적 단정 미검증",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "deleuze-number-intensity-spatium",
+        "deleuze-negation-history"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-thermodynamics-implication-equilibrium.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/deleuze-thermodynamics-implication-equilibrium.md",
+      "page_url": "https://belorin.github.io/notes/deleuze-thermodynamics-implication-equilibrium/",
+      "app_url": "https://belorin.github.io/#deleuze-thermodynamics-implication-equilibrium"
     }
   ]
 }

@@ -238,7 +238,7 @@
 - **[들뢰즈: 생성과 새로운 것의 철학](wiki/deleuze-becoming-new.md)** · 별칭: 들뢰즈와 생성, 들뢰즈와 미래, 들뢰즈 독서 경로 · 수정: 2026-10-25 · 검토: 개념 종합·현재 적용 해석 포함
   - 고정된 미래상보다 문제·생성·배치의 문법을 남긴 들뢰즈를 2026년의 렌즈로 읽고, 『디알로그』·『천 개의 고원』·통제사회로 이어지는 독서 경로를 정리한다.
   - [문서 페이지](https://belorin.github.io/notes/deleuze-becoming-new/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-becoming-new.md)
-- **[차이, 문제, 역사: 『차이와 반복』의 부정 비판과 피비린내 나는 긍정](wiki/deleuze-negation-history.md)** · 별칭: 들뢰즈와 부정, 피비린내와 잔혹함, 차이와 반복의 역사론 · 수정: 2026-10-25 · 검토: 원문 대조 기반 해설·외부 재검토 필요
+- **[차이, 문제, 역사: 『차이와 반복』의 부정 비판과 피비린내 나는 긍정](wiki/deleuze-negation-history.md)** · 별칭: 들뢰즈와 부정, 피비린내와 잔혹함, 차이와 반복의 역사론 · 수정: 2026-11-03 · 검토: 원문 대조 기반 해설·외부 재검토 필요
   - 부정의 과대평가, 문제와 차이의 발생론, 역사의 비목적론, '피비린내와 잔혹함', 아름다운 영혼 비판을 통해 들뢰즈의 긍정이 평화주의가 아님을 정리한다.
   - [문서 페이지](https://belorin.github.io/notes/deleuze-negation-history/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-negation-history.md)
 - **[통제사회, 마르크스, 말년의 들뢰즈가 남긴 미래 문제](wiki/deleuze-control-marx-future.md)** · 별칭: 통제사회에 관한 후기, 말년의 들뢰즈, Grandeur de Marx · 수정: 2026-10-23 · 검토: 저작 해설·말년 미래관 해석
@@ -253,7 +253,7 @@
 - **[치이카와를 철학적으로 읽기: 욕망·노동·고귀한 거짓말과 일본의 비평 흐름](wiki/chiikawa-philosophy.md)** · 별칭: 치이카와 철학, ちいかわ 철학, 치이카와 비평, 고귀한 거짓말로서의 치이카와 · 수정: 2026-10-24 · 검토: 대화 중 확인된 일본 철학·비평 자료 총합 · 최종 논문 전문 미대조 · 외부 재검증 필요
   - 플라톤의 욕망론과 고귀한 거짓말로 치이카와 세계의 노동·규칙·행복을 읽고, 알튀세르·캐릭터론·만화표현론·노동비평·졸업논문까지 일본의 분석 흐름을 정리한다.
   - [문서 페이지](https://belorin.github.io/notes/chiikawa-philosophy/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/chiikawa-philosophy.md)
-- **[수에서 비동등한 것은 무엇을 하는가: 기수·서수, 강도와 들뢰즈의 spatium](wiki/deleuze-number-intensity-spatium.md)** · 별칭: 수의 기수와 서수, 강도적 공-간, spatium과 강도, 비동등한 수 · 수정: 2026-10-25 · 검토: 내부 총합 · 수식 및 원전 용례 재검증 필요
+- **[수에서 비동등한 것은 무엇을 하는가: 기수·서수, 강도와 들뢰즈의 spatium](wiki/deleuze-number-intensity-spatium.md)** · 별칭: 수의 기수와 서수, 강도적 공-간, spatium과 강도, 비동등한 수 · 수정: 2026-11-03 · 검토: 내부 총합 · 수식 및 원전 용례 재검증 필요
   - 기수·서수와 강도적 spatium에 더해 소여와 가치, 감각적 잡다, 카르노·퀴리의 원리, 강도의 질화·연장·자기소멸을 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/deleuze-number-intensity-spatium/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-number-intensity-spatium.md)
 - **[헤겔의 『피히테와 셸링 철학 체계의 차이』: 주관의 동일성과 절대적 동일성](wiki/hegel-fichte-schelling-difference.md)** · 별칭: 피히테와 셸링의 철학 체계의 차이, 헤겔 초기 동일성, 형식과 본질 · 수정: 2026-10-25 · 검토: 내부 총합 · 원전 문구·비교 해석 재검토 필요
@@ -265,6 +265,9 @@
 - **[『안티 오이디푸스』 전에 읽는 프로이트: 한 권과 두 권의 선택](wiki/freud-before-anti-oedipus.md)** · 별칭: 안티 오이디푸스 사전 독서, 프로이트 입문서 추천, 반오이디푸스 읽기 · 수정: 2026-10-26 · 검토: 내부 총합 · 원전 문구·비교 해석 재검토 필요
   - 한 권은 『정신분석 입문』, 두 권은 『꿈의 해석』과 『성욕에 관한 세 편의 에세이』로 읽는 목적과 선택 근거를 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/freud-before-anti-oedipus/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/freud-before-anti-oedipus.md)
+- **[결국 침묵한다면: 들뢰즈의 열역학적 가상, 안·밖 주름운동과 강도의 깊이](wiki/deleuze-thermodynamics-implication-equilibrium.md)** · 별칭: 들뢰즈와 엔트로피, 안 주름운동과 밖 주름운동, 열역학적 파성추, 차이의 최종 침묵, 초월론적 물리학적 가상 · 수정: 2026-11-03 · 검토: 내부 총합에 따른 개념 해석 · 원전 원어·번역 대응 및 우주론적 단정 미검증
+  - 엔트로피와 열평형을 인정하면서도 차이의 발생을 묻는 들뢰즈의 논점을 안·밖 주름, 강도의 깊이, 포텐셜 에너지와 최종 침묵의 반론으로 해설한다.
+  - [문서 페이지](https://belorin.github.io/notes/deleuze-thermodynamics-implication-equilibrium/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-thermodynamics-implication-equilibrium.md)
 
 ## 독서 문화
 

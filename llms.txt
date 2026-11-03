@@ -117,6 +117,7 @@
 - [헤겔의 『피히테와 셸링 철학 체계의 차이』: 주관의 동일성과 절대적 동일성](https://belorin.github.io/notes/hegel-fichte-schelling-difference/): 피히테의 자아·비자아가 남기는 대립, 셸링의 자연과 정신, 헤겔의 동일성과 비동일성 및 초기·후기 평가의 차이를 읽는다.
 - [사유의 중심에 접혀 있는 불가능자: 생각할 수 없음이 생각을 움직일 때](https://belorin.github.io/notes/deleuze-unthinkable-fold-thought/): 사유의 내부에 안-주름잡힌 불가능성을 죽음·자기인식·사랑의 비유와 사유에 대한 강제라는 문제로 구별해 설명한다.
 - [『안티 오이디푸스』 전에 읽는 프로이트: 한 권과 두 권의 선택](https://belorin.github.io/notes/freud-before-anti-oedipus/): 한 권은 『정신분석 입문』, 두 권은 『꿈의 해석』과 『성욕에 관한 세 편의 에세이』로 읽는 목적과 선택 근거를 구분한다.
+- [결국 침묵한다면: 들뢰즈의 열역학적 가상, 안·밖 주름운동과 강도의 깊이](https://belorin.github.io/notes/deleuze-thermodynamics-implication-equilibrium/): 엔트로피와 열평형을 인정하면서도 차이의 발생을 묻는 들뢰즈의 논점을 안·밖 주름, 강도의 깊이, 포텐셜 에너지와 최종 침묵의 반론으로 해설한다.
 
 ### 독서 문화
 

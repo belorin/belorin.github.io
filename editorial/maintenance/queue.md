@@ -4,9 +4,9 @@
 
 마지막 정비: **M001** (2026-10-26) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
 
-원고 191개 · 변경 문서 111 · 고립 24 · 한쪽 연결 105 · 보류 18 · 열린 교차 제안 8
+원고 192개 · 변경 문서 114 · 고립 24 · 한쪽 연결 105 · 보류 18 · 열린 교차 제안 8
 
-## 1. 지난 정비 이후 변경된 문서 (111)
+## 1. 지난 정비 이후 변경된 문서 (114)
 
 manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
@@ -17,6 +17,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - **과학과 기술** (9): `space-data-center-thermal-economics`, `space-assets-law-debris-kessler`, `physical-ai-world-model-quantum-optimization`, `manufacturing-optimization-solo-business`, `mountain-powerline-undergrounding-economics`, `edge-vision-event-monitor-portfolio`, `world-electricity-capacity-generation-consumption`, `operations-data-ai-copilot-portfolio`, `x-auto-translation-serving-cost`
 - **기술·지식 아카이브** (5): `east-asia-telegraph-network-1880s`, `great-northern-telegraph-east-asia`, `book-translation-pipeline-local-llm`, `local-llm-novel-agent-m1`, `upbit-small-capital-trading-experiment`
 - **운영** (4): `editing-principles`, `wiki-building-history`, `wiki-operations-pipeline`, `gpt-wiki-zero-prototype`
+- **철학** (4): `deleuze-negation-history`, `deleuze-number-intensity-spatium`, `freud-before-anti-oedipus`, `deleuze-thermodynamics-implication-equilibrium`
 - **게임** (3): `china-anime-game-industry`, `anime-urban-live-service-nte-tof`, `ps5-storage-anime-live-games`
 - **문학** (3): `grand-prix-imaginaire-awards`, `gpi-foreign-novels-2015-2025`, `ministry-for-the-future-reading`
 - **정보와 미디어** (3): `information-hype-wow-index`, `substack-independent-newsletters`, `teresa-satans-children-1989`
@@ -29,7 +30,6 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - **독서 문화** (1): `global-south-critical-reading-guide`
 - **문화** (1): `music-books-supply-attention`
 - **질문** (1): `open-questions`
-- **철학** (1): `freud-before-anti-oedipus`
 - **철학·심리** (1): `freud-dreams-modern-science`
 - **AI의 글** (1): `climate-salvation-calculus-essay`
 
@@ -256,5 +256,5 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 
 ## 9. 분류 참고
 
-분류 26개: 음악 37, AI와 사회 28, 사회와 제도 27, 문화와 역사 23, 철학 11, 과학과 기술 9, 기술·지식 아카이브 7, 정치경제 6, 운영 5, 독서 문화 4, 문학 4, 영화 3, 자연과 과학 3, 생명과학 3, 철학·사상사 3, 정보와 미디어 3, 게임 3, 미분류 2, 종합 2, 소설 2, 질문 1, 언어 1, 문화 1, 창작 1, 철학·심리 1, AI의 글 1
+분류 26개: 음악 37, AI와 사회 28, 사회와 제도 27, 문화와 역사 23, 철학 12, 과학과 기술 9, 기술·지식 아카이브 7, 정치경제 6, 운영 5, 독서 문화 4, 문학 4, 영화 3, 자연과 과학 3, 생명과학 3, 철학·사상사 3, 정보와 미디어 3, 게임 3, 미분류 2, 종합 2, 소설 2, 질문 1, 언어 1, 문화 1, 창작 1, 철학·심리 1, AI의 글 1
 문서가 하나뿐인 분류 6개: 질문, 언어, 문화, 창작, 철학·심리, AI의 글. 분류 체계 변경은 제안만 한다.
