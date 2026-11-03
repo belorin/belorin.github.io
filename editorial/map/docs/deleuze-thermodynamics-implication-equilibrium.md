@@ -28,4 +28,24 @@
 
 ## 장부에 기록된 반영 지식
 
-- 없음 (장부 도입 이전 원고이거나 아직 기록이 없다. 기록이 없다는 것은 내용이 없다는 뜻이 아니다.)
+- **열역학은 차이를 발견하면서 차이의 소멸도 보여준다**
+  - 강도 차이와 열기관의 발생 조건 · `ing-20261103-deleuze-entropy-implication`
+- **‘초월론적 물리학적 가상’은 무엇을 착각하는가**
+  - 초월론적 물리학적 가상과 결과의 선취 · `ing-20261103-deleuze-entropy-implication`
+  - 열역학적 파성추 번역과 원전 대조 · `ing-20261103-deleuze-entropy-implication`
+- **안으로 접히는 것과 밖으로 펼쳐지는 것**
+  - 안 주름운동과 밖 주름운동의 함축·펼침 · `ing-20261103-deleuze-entropy-implication`
+- **‘안 주름은 구체적으로 무엇인가’라는 난점**
+  - 안 주름의 물리적 구체성과 개념적 한계 · `ing-20261103-deleuze-entropy-implication`
+  - 번개와 씨앗의 이질적 차이 배치 · `ing-20261103-deleuze-entropy-implication`
+- **깊이: 길이·너비 뒤에 추가한 세 번째 축이 아니다**
+  - 발생적 깊이와 공간의 차원 구분 · `ing-20261103-deleuze-entropy-implication`
+- **포텐셜 에너지와 거의 닿지만 완전히 겹치지 않는다**
+  - 포텐셜 에너지와 강도적 함축의 비동일성 · `ing-20261103-deleuze-entropy-implication`
+  - 낙차·배터리·압축 기체와 다양한 전개의 경로 · `ing-20261103-deleuze-entropy-implication`
+- **엔트로피에 반대한 것인가, 엔트로피의 철학적 독점에 반대한 것인가**
+  - 엔트로피의 경험적 법칙과 존재론적 일반화의 구별 · `ing-20261103-deleuze-entropy-implication`
+- **그러나 결국 완전히 침묵한다면**
+  - 최종 열평형과 완전한 침묵의 반론 · `ing-20261103-deleuze-entropy-implication`
+  - 국소적 열평형과 우주 열죽음의 구별 · `ing-20261103-deleuze-entropy-implication`
+  - 발생의 우선권과 최종 소멸의 양립 문제 · `ing-20261103-deleuze-entropy-implication`

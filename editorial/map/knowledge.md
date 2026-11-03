@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1222개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1235개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (18)
 
@@ -938,6 +938,69 @@
 - 기술적 무결성 검증과 저술의 질적 판단을 분리 → `editing-principles` § 검증은 무엇을 위해 존재하는가 · `ing-20261102-ai-autonomous-essays`
 - 생성량 목표보다 AI의 저술 선택과 폐기 권한을 존중 → `editing-principles` § 축적 이후의 저술: AI에게 맡기는 판단 · `ing-20261102-ai-autonomous-essays`
 
+## 철학 (58)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 부정의 과대평가와 문제·차이의 발생론 → `deleuze-negation-history` § 부정은 원인이 아니라 표면 효과다; `deleuze-negation-history` § 기획의 보수성: 이미 주어진 항을 부정하는 것 · `ing-20261023-deleuze-control-democracy`
+- 역사의 비목적론과 원문의 passe par 해석 → `deleuze-negation-history` § 역사는 진보가 아니라 문제의 규정을 통과한다 · `ing-20261023-deleuze-control-democracy`
+- 피비린내와 잔혹함이 차이의 긍정을 평화주의와 분리한다는 해석 → `deleuze-negation-history` § 피비린내와 잔혹함: 긍정은 평화주의가 아니다; `deleuze-negation-history` § “혁명은 축제”와 역사적 잔혹함은 양립할 수 있다 · `ing-20261023-deleuze-control-democracy`
+- 플라톤식 모델·재현과 내재적 평가의 구별 → `deleuze-negation-history` § 플라톤식 도덕주의와 다른 평가 · `ing-20261023-deleuze-control-democracy`
+- 재현적 제도와 비재현적 플랫폼 통제가 공존하는 현대사회 → `deleuze-negation-history` § 현재 세계는 헤겔적인가; `deleuze-control-marx-future` § 자본주의가 비재현적으로 변한 역설 · `ing-20261023-deleuze-control-democracy`
+- 통제사회의 주형·변조·dividual·빚진 인간 → `deleuze-control-marx-future` § 규율사회에서 통제사회로; `deleuze-control-marx-future` § 개인에서 dividual로; `deleuze-control-marx-future` § 기업, 마케팅, 빚진 인간 · `ing-20261023-deleuze-control-democracy`
+- 말년의 마르크스 회귀와 미완성 『마르크스의 위대함』 → `deleuze-control-marx-future` § 『마르크스의 위대함』이라는 미완성 기획 · `ing-20261023-deleuze-control-democracy`
+- 혁명적 생성·비소통·세계에 대한 믿음으로 본 말년의 미래관 → `deleuze-control-marx-future` § 말년의 미래관: “아마도, 나는 모른다”; `deleuze-control-marx-future` § 혁명적 생성; `deleuze-control-marx-future` § 비소통의 공백과 회로 차단기; `deleuze-control-marx-future` § 세계를 믿는다는 것 · `ing-20261023-deleuze-control-democracy`
+- 『디알로그』·『천 개의 고원』·통제사회로 이어지는 독서 경로 → `deleuze-becoming-new` § 독서 경로: 『디알로그』에서 말년의 통제사회까지 · `ing-20261023-deleuze-control-democracy`
+- 오래된 철학을 예언이 아닌 현재 문제의 렌즈로 읽는 기준 → `deleuze-becoming-new` § 2026년에 읽는 법: 예언이 아니라 오래된 고성능 렌즈 · `ing-20261023-deleuze-control-democracy`
+- 라자라토에서 육후이까지 분산된 들뢰즈 이후의 계보 → `post-deleuze-novelty-thinkers` § 기능이 분산된 계보; `post-deleuze-novelty-thinkers` § 무엇을 읽을 것인가 · `ing-20261023-deleuze-control-democracy`
+- 단일 패권철학보다 제도별 합리성이 작동한다는 현대 철학 지도 → `contemporary-governing-philosophies` § 하나의 패권철학보다 겹치는 운영체제 · `ing-20261023-deleuze-control-democracy`
+- 자유주의·신자유주의·통계적 실증주의·경제학·계산주의의 구별 → `contemporary-governing-philosophies` § 자유주의: 법과 정치의 기본 운영체제; `contemporary-governing-philosophies` § 신자유주의: 시장보다 더 넓은 평가의 문법; `contemporary-governing-philosophies` § 학문의 운영 문법: 자연주의와 통계적 실증주의; `contemporary-governing-philosophies` § 경제학 제국주의: 철학보다 강한 사회과학의 언어; `contemporary-governing-philosophies` § 떠오르는 합리성: 계산주의·최적화·사이버네틱스 · `ing-20261023-deleuze-control-democracy`
+- 일본에서 치이카와가 철학·노동·캐릭터론·만화표현론의 분석 대상으로 확장된 흐름 → `chiikawa-philosophy` § 연구는 이미 팬 고찰을 넘어섰다 · `ing-20261024-chiikawa-philosophy`
+- 히라이시의 2025년 논문과 2024년 발표자료 사이의 자료 경계 → `chiikawa-philosophy` § 히라이시 논문의 위치와 자료의 경계 · `ing-20261024-chiikawa-philosophy`
+- 초기 욕망적 존재에서 사회 구성원으로 이동하는 치이카와의 문제 설정 → `chiikawa-philosophy` § 출발점: “이런 식으로 되어 살아가고 싶다”; `chiikawa-philosophy` § 욕망적인 존재에게 사회가 생길 때 · `ing-20261024-chiikawa-philosophy`
+- 플라톤의 2차적 덕으로 읽는 습관·노동·규칙의 사회적 통치 → `chiikawa-philosophy` § 2차적 덕: 철학하지 않아도 질서 안에서 잘 사는 법 · `ing-20261024-chiikawa-philosophy`
+- 마법의 지팡이 에피소드에서 욕망이 사회적 절차를 우회할 때 나타나는 괴물화 → `chiikawa-philosophy` § 마법의 지팡이: 욕망이 절차를 건너뛸 때 괴물이 된다 · `ing-20261024-chiikawa-philosophy`
+- 고귀한 거짓말로서의 치이카와와 이미 주어진 질서의 자연화 → `chiikawa-philosophy` § 고귀한 거짓말: 이미 주어진 질서를 자연스럽게 느끼게 하는 장치 · `ing-20261024-chiikawa-philosophy`
+- 순응 독해의 한계와 우정·서술 시점·우사기가 만드는 반례 → `chiikawa-philosophy` § 이 독해가 강한 곳과 약한 곳; `chiikawa-philosophy` § 우사기라는 반례와 규범의 누수 · `ing-20261024-chiikawa-philosophy`
+- 알튀세르·캐라/캐릭터·소리와 리듬·노동·심리적 수용을 잇는 일본의 치이카와 비평 지형 → `chiikawa-philosophy` § 일본에서 확장되고 있는 다른 독해들; `chiikawa-philosophy` § 현재 확인되는 연구 지형 · `ing-20261024-chiikawa-philosophy`
+- 유리수와 무리수의 정확한 표현 → `deleuze-number-intensity-spatium` § 유리수와 무리수: 분수라는 표현의 정확한 조건 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 기수와 서수 및 무한의 순서형 → `deleuze-number-intensity-spatium` § 기수와 서수: 세 개와 세 번째에서 무한의 순서형까지 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 외연적 측정과 강도적 발생의 대비 → `deleuze-number-intensity-spatium` § 외연으로 측정하는 공간과 강도로 발생하는 공간 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 들뢰즈 spatium의 발생적 공간 → `deleuze-number-intensity-spatium` § spatium: 이미 놓인 공간이 아니라 차이가 펼쳐지는 장 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 미확인 A+B/2+C 판독 보류 → `deleuze-number-intensity-spatium` § '수에서 비동등한 것이 떠맡는 역할'과 A+B/2+C의 판독 문제 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 산술·조화평균과 중항의 계산 → `deleuze-number-intensity-spatium` § '수에서 비동등한 것이 떠맡는 역할'과 A+B/2+C의 판독 문제 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 플라톤의 세계 영혼과 비례 → `deleuze-number-intensity-spatium` § 플라톤 『티마이오스』의 세계 영혼과 비례의 질서 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 라틴어 -um의 개념적 효과 → `deleuze-number-intensity-spatium` § -um이라는 어미: 명사화보다 라틴어 개념어의 호출 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 잡다와 차이의 발생적 조건 → `deleuze-number-intensity-spatium` § 차이와 잡다: 소여에 머물러 있는 발생의 조건 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 카르노의 온도 차와 열기관 → `deleuze-number-intensity-spatium` § 카르노의 열기관: 차이가 일을 만든 뒤 소모되는가 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 퀴리의 대칭성과 결과의 비대칭 → `deleuze-number-intensity-spatium` § 퀴리의 대칭성: 결과의 비대칭과 원인의 조건 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 강도 차이의 질화·연장과 자기소멸 비유 → `deleuze-number-intensity-spatium` § 질과 연장 속의 강도: 자기소멸이라는 비유 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 감성적인 것과 발생의 이유 → `deleuze-number-intensity-spatium` § 감성적인 것의 이유: 감정이 아니라 감각 가능한 것 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 차이를 소여와 가치로 구별 → `deleuze-number-intensity-spatium` § 차이는 소여였으나 가치가 아니었다 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 피히테의 자아와 비자아의 대립 → `hegel-fichte-schelling-difference` § 피히테: 자아가 세계의 한계를 넘어서려 할 때 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 셸링의 자연과 정신의 동일성 → `hegel-fichte-schelling-difference` § 셸링: 자연은 자아의 장애물이 아니라 절대자의 다른 표현이다 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 헤겔 초기 호의와 후기 셸링 비판 → `hegel-fichte-schelling-difference` § 초기의 호의와 이후의 비판을 구분하기 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 사유의 불가능자와 내부의 접힘 → `deleuze-unthinkable-fold-thought` § 외부의 한계가 아니라 안쪽의 접힘 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 죽음·자기인식·사랑의 사유 한계 → `deleuze-unthinkable-fold-thought` § 죽음, 자기 자신, 사랑: 포착할 수 없지만 생각을 멈출 수 없는 것 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 충격과 감각이 강제하는 사유 → `deleuze-unthinkable-fold-thought` § 사유는 스스로 시작되는가, 무언가에 강요되는가 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 프로이트 단권 입문서 선택 → `freud-before-anti-oedipus` § 한 권이라면 『정신분석 입문』 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 꿈의 해석과 성욕 이론의 두 권 선택 → `freud-before-anti-oedipus` § 두 권이라면 『꿈의 해석』과 『성욕에 관한 세 편의 에세이』 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 프로이트 비판 대상의 단순화 방지 → `freud-before-anti-oedipus` § 『안티 오이디푸스』의 비판 대상을 지나치게 단순화하지 않기 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 프로이트 입문서와 라캉 입문서의 목적 차이 → `freud-before-anti-oedipus` § 1972년을 위한 라캉 독서: 프로이트 원전을 대신하는 것이 아니다 · `ing-20261026-dreams-lacan-philosophy-power`
+- 강도 차이와 열기관의 발생 조건 → `deleuze-thermodynamics-implication-equilibrium` § 열역학은 차이를 발견하면서 차이의 소멸도 보여준다 · `ing-20261103-deleuze-entropy-implication`
+- 초월론적 물리학적 가상과 결과의 선취 → `deleuze-thermodynamics-implication-equilibrium` § ‘초월론적 물리학적 가상’은 무엇을 착각하는가 · `ing-20261103-deleuze-entropy-implication`
+- 열역학적 파성추 번역과 원전 대조 → `deleuze-thermodynamics-implication-equilibrium` § ‘초월론적 물리학적 가상’은 무엇을 착각하는가 · `ing-20261103-deleuze-entropy-implication`
+- 안 주름운동과 밖 주름운동의 함축·펼침 → `deleuze-thermodynamics-implication-equilibrium` § 안으로 접히는 것과 밖으로 펼쳐지는 것 · `ing-20261103-deleuze-entropy-implication`
+- 안 주름의 물리적 구체성과 개념적 한계 → `deleuze-thermodynamics-implication-equilibrium` § ‘안 주름은 구체적으로 무엇인가’라는 난점 · `ing-20261103-deleuze-entropy-implication`
+- 번개와 씨앗의 이질적 차이 배치 → `deleuze-thermodynamics-implication-equilibrium` § ‘안 주름은 구체적으로 무엇인가’라는 난점 · `ing-20261103-deleuze-entropy-implication`
+- 발생적 깊이와 공간의 차원 구분 → `deleuze-thermodynamics-implication-equilibrium` § 깊이: 길이·너비 뒤에 추가한 세 번째 축이 아니다 · `ing-20261103-deleuze-entropy-implication`
+- 포텐셜 에너지와 강도적 함축의 비동일성 → `deleuze-thermodynamics-implication-equilibrium` § 포텐셜 에너지와 거의 닿지만 완전히 겹치지 않는다 · `ing-20261103-deleuze-entropy-implication`
+- 낙차·배터리·압축 기체와 다양한 전개의 경로 → `deleuze-thermodynamics-implication-equilibrium` § 포텐셜 에너지와 거의 닿지만 완전히 겹치지 않는다 · `ing-20261103-deleuze-entropy-implication`
+- 엔트로피의 경험적 법칙과 존재론적 일반화의 구별 → `deleuze-thermodynamics-implication-equilibrium` § 엔트로피에 반대한 것인가, 엔트로피의 철학적 독점에 반대한 것인가 · `ing-20261103-deleuze-entropy-implication`
+- 최종 열평형과 완전한 침묵의 반론 → `deleuze-thermodynamics-implication-equilibrium` § 그러나 결국 완전히 침묵한다면 · `ing-20261103-deleuze-entropy-implication`
+- 국소적 열평형과 우주 열죽음의 구별 → `deleuze-thermodynamics-implication-equilibrium` § 그러나 결국 완전히 침묵한다면 · `ing-20261103-deleuze-entropy-implication`
+- 발생의 우선권과 최종 소멸의 양립 문제 → `deleuze-thermodynamics-implication-equilibrium` § 그러나 결국 완전히 침묵한다면 · `ing-20261103-deleuze-entropy-implication`
+
 ## 정치경제 (45)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -987,56 +1050,6 @@
 - 한국 부동산 붕괴론의 취약성·지역 분화와 조건부 경로 → `housing-busts-global-korea` § 한국의 붕괴론을 판단하는 법 · `ing-20261103-housing-busts-global`
 - 국제 비교 통계와 5년·10년 정량 자료의 검증 경계 → `housing-busts-global-korea` § 자료의 경계와 후속 검증 과제 · `ing-20261103-housing-busts-global`
 - 부동산 금융에서 생산·투기·연명 신용의 충격 경로 → `money-credit-seigniorage-critique` § 부동산의 담보가 부실해진 뒤에도 신용의 종류는 남는다 · `ing-20261103-housing-busts-global`
-
-## 철학 (45)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 부정의 과대평가와 문제·차이의 발생론 → `deleuze-negation-history` § 부정은 원인이 아니라 표면 효과다; `deleuze-negation-history` § 기획의 보수성: 이미 주어진 항을 부정하는 것 · `ing-20261023-deleuze-control-democracy`
-- 역사의 비목적론과 원문의 passe par 해석 → `deleuze-negation-history` § 역사는 진보가 아니라 문제의 규정을 통과한다 · `ing-20261023-deleuze-control-democracy`
-- 피비린내와 잔혹함이 차이의 긍정을 평화주의와 분리한다는 해석 → `deleuze-negation-history` § 피비린내와 잔혹함: 긍정은 평화주의가 아니다; `deleuze-negation-history` § “혁명은 축제”와 역사적 잔혹함은 양립할 수 있다 · `ing-20261023-deleuze-control-democracy`
-- 플라톤식 모델·재현과 내재적 평가의 구별 → `deleuze-negation-history` § 플라톤식 도덕주의와 다른 평가 · `ing-20261023-deleuze-control-democracy`
-- 재현적 제도와 비재현적 플랫폼 통제가 공존하는 현대사회 → `deleuze-negation-history` § 현재 세계는 헤겔적인가; `deleuze-control-marx-future` § 자본주의가 비재현적으로 변한 역설 · `ing-20261023-deleuze-control-democracy`
-- 통제사회의 주형·변조·dividual·빚진 인간 → `deleuze-control-marx-future` § 규율사회에서 통제사회로; `deleuze-control-marx-future` § 개인에서 dividual로; `deleuze-control-marx-future` § 기업, 마케팅, 빚진 인간 · `ing-20261023-deleuze-control-democracy`
-- 말년의 마르크스 회귀와 미완성 『마르크스의 위대함』 → `deleuze-control-marx-future` § 『마르크스의 위대함』이라는 미완성 기획 · `ing-20261023-deleuze-control-democracy`
-- 혁명적 생성·비소통·세계에 대한 믿음으로 본 말년의 미래관 → `deleuze-control-marx-future` § 말년의 미래관: “아마도, 나는 모른다”; `deleuze-control-marx-future` § 혁명적 생성; `deleuze-control-marx-future` § 비소통의 공백과 회로 차단기; `deleuze-control-marx-future` § 세계를 믿는다는 것 · `ing-20261023-deleuze-control-democracy`
-- 『디알로그』·『천 개의 고원』·통제사회로 이어지는 독서 경로 → `deleuze-becoming-new` § 독서 경로: 『디알로그』에서 말년의 통제사회까지 · `ing-20261023-deleuze-control-democracy`
-- 오래된 철학을 예언이 아닌 현재 문제의 렌즈로 읽는 기준 → `deleuze-becoming-new` § 2026년에 읽는 법: 예언이 아니라 오래된 고성능 렌즈 · `ing-20261023-deleuze-control-democracy`
-- 라자라토에서 육후이까지 분산된 들뢰즈 이후의 계보 → `post-deleuze-novelty-thinkers` § 기능이 분산된 계보; `post-deleuze-novelty-thinkers` § 무엇을 읽을 것인가 · `ing-20261023-deleuze-control-democracy`
-- 단일 패권철학보다 제도별 합리성이 작동한다는 현대 철학 지도 → `contemporary-governing-philosophies` § 하나의 패권철학보다 겹치는 운영체제 · `ing-20261023-deleuze-control-democracy`
-- 자유주의·신자유주의·통계적 실증주의·경제학·계산주의의 구별 → `contemporary-governing-philosophies` § 자유주의: 법과 정치의 기본 운영체제; `contemporary-governing-philosophies` § 신자유주의: 시장보다 더 넓은 평가의 문법; `contemporary-governing-philosophies` § 학문의 운영 문법: 자연주의와 통계적 실증주의; `contemporary-governing-philosophies` § 경제학 제국주의: 철학보다 강한 사회과학의 언어; `contemporary-governing-philosophies` § 떠오르는 합리성: 계산주의·최적화·사이버네틱스 · `ing-20261023-deleuze-control-democracy`
-- 일본에서 치이카와가 철학·노동·캐릭터론·만화표현론의 분석 대상으로 확장된 흐름 → `chiikawa-philosophy` § 연구는 이미 팬 고찰을 넘어섰다 · `ing-20261024-chiikawa-philosophy`
-- 히라이시의 2025년 논문과 2024년 발표자료 사이의 자료 경계 → `chiikawa-philosophy` § 히라이시 논문의 위치와 자료의 경계 · `ing-20261024-chiikawa-philosophy`
-- 초기 욕망적 존재에서 사회 구성원으로 이동하는 치이카와의 문제 설정 → `chiikawa-philosophy` § 출발점: “이런 식으로 되어 살아가고 싶다”; `chiikawa-philosophy` § 욕망적인 존재에게 사회가 생길 때 · `ing-20261024-chiikawa-philosophy`
-- 플라톤의 2차적 덕으로 읽는 습관·노동·규칙의 사회적 통치 → `chiikawa-philosophy` § 2차적 덕: 철학하지 않아도 질서 안에서 잘 사는 법 · `ing-20261024-chiikawa-philosophy`
-- 마법의 지팡이 에피소드에서 욕망이 사회적 절차를 우회할 때 나타나는 괴물화 → `chiikawa-philosophy` § 마법의 지팡이: 욕망이 절차를 건너뛸 때 괴물이 된다 · `ing-20261024-chiikawa-philosophy`
-- 고귀한 거짓말로서의 치이카와와 이미 주어진 질서의 자연화 → `chiikawa-philosophy` § 고귀한 거짓말: 이미 주어진 질서를 자연스럽게 느끼게 하는 장치 · `ing-20261024-chiikawa-philosophy`
-- 순응 독해의 한계와 우정·서술 시점·우사기가 만드는 반례 → `chiikawa-philosophy` § 이 독해가 강한 곳과 약한 곳; `chiikawa-philosophy` § 우사기라는 반례와 규범의 누수 · `ing-20261024-chiikawa-philosophy`
-- 알튀세르·캐라/캐릭터·소리와 리듬·노동·심리적 수용을 잇는 일본의 치이카와 비평 지형 → `chiikawa-philosophy` § 일본에서 확장되고 있는 다른 독해들; `chiikawa-philosophy` § 현재 확인되는 연구 지형 · `ing-20261024-chiikawa-philosophy`
-- 유리수와 무리수의 정확한 표현 → `deleuze-number-intensity-spatium` § 유리수와 무리수: 분수라는 표현의 정확한 조건 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 기수와 서수 및 무한의 순서형 → `deleuze-number-intensity-spatium` § 기수와 서수: 세 개와 세 번째에서 무한의 순서형까지 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 외연적 측정과 강도적 발생의 대비 → `deleuze-number-intensity-spatium` § 외연으로 측정하는 공간과 강도로 발생하는 공간 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 들뢰즈 spatium의 발생적 공간 → `deleuze-number-intensity-spatium` § spatium: 이미 놓인 공간이 아니라 차이가 펼쳐지는 장 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 미확인 A+B/2+C 판독 보류 → `deleuze-number-intensity-spatium` § '수에서 비동등한 것이 떠맡는 역할'과 A+B/2+C의 판독 문제 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 산술·조화평균과 중항의 계산 → `deleuze-number-intensity-spatium` § '수에서 비동등한 것이 떠맡는 역할'과 A+B/2+C의 판독 문제 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 플라톤의 세계 영혼과 비례 → `deleuze-number-intensity-spatium` § 플라톤 『티마이오스』의 세계 영혼과 비례의 질서 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 라틴어 -um의 개념적 효과 → `deleuze-number-intensity-spatium` § -um이라는 어미: 명사화보다 라틴어 개념어의 호출 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 잡다와 차이의 발생적 조건 → `deleuze-number-intensity-spatium` § 차이와 잡다: 소여에 머물러 있는 발생의 조건 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 카르노의 온도 차와 열기관 → `deleuze-number-intensity-spatium` § 카르노의 열기관: 차이가 일을 만든 뒤 소모되는가 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 퀴리의 대칭성과 결과의 비대칭 → `deleuze-number-intensity-spatium` § 퀴리의 대칭성: 결과의 비대칭과 원인의 조건 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 강도 차이의 질화·연장과 자기소멸 비유 → `deleuze-number-intensity-spatium` § 질과 연장 속의 강도: 자기소멸이라는 비유 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 감성적인 것과 발생의 이유 → `deleuze-number-intensity-spatium` § 감성적인 것의 이유: 감정이 아니라 감각 가능한 것 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 차이를 소여와 가치로 구별 → `deleuze-number-intensity-spatium` § 차이는 소여였으나 가치가 아니었다 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 피히테의 자아와 비자아의 대립 → `hegel-fichte-schelling-difference` § 피히테: 자아가 세계의 한계를 넘어서려 할 때 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 셸링의 자연과 정신의 동일성 → `hegel-fichte-schelling-difference` § 셸링: 자연은 자아의 장애물이 아니라 절대자의 다른 표현이다 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 헤겔 초기 호의와 후기 셸링 비판 → `hegel-fichte-schelling-difference` § 초기의 호의와 이후의 비판을 구분하기 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 사유의 불가능자와 내부의 접힘 → `deleuze-unthinkable-fold-thought` § 외부의 한계가 아니라 안쪽의 접힘 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 죽음·자기인식·사랑의 사유 한계 → `deleuze-unthinkable-fold-thought` § 죽음, 자기 자신, 사랑: 포착할 수 없지만 생각을 멈출 수 없는 것 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 충격과 감각이 강제하는 사유 → `deleuze-unthinkable-fold-thought` § 사유는 스스로 시작되는가, 무언가에 강요되는가 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 프로이트 단권 입문서 선택 → `freud-before-anti-oedipus` § 한 권이라면 『정신분석 입문』 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 꿈의 해석과 성욕 이론의 두 권 선택 → `freud-before-anti-oedipus` § 두 권이라면 『꿈의 해석』과 『성욕에 관한 세 편의 에세이』 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 프로이트 비판 대상의 단순화 방지 → `freud-before-anti-oedipus` § 『안티 오이디푸스』의 비판 대상을 지나치게 단순화하지 않기 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 프로이트 입문서와 라캉 입문서의 목적 차이 → `freud-before-anti-oedipus` § 1972년을 위한 라캉 독서: 프로이트 원전을 대신하는 것이 아니다 · `ing-20261026-dreams-lacan-philosophy-power`
 
 ## 게임 (31)
 
