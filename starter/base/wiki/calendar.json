@@ -1,5 +1,0 @@
-{
-  "version": 1,
-  "description": "달력 보기(/#calendar)의 정본. site.config.json의 features.calendar가 true일 때 사이트에 나타난다. from/to는 연대형(YYYY 또는 YYYY-MM, 기원전은 -YYYY), every는 해마다 돌아오는 절기형(MM 또는 MM-DD)이다.",
-  "entries": []
-}

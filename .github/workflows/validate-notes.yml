@@ -29,7 +29,6 @@ on:
       - "scripts/validate-calendar.mjs"
       - "scripts/test-calendar.mjs"
       - ".github/workflows/validate-notes.yml"
-      - "starter/**"
   pull_request:
     paths:
       - "wiki/**"
@@ -58,7 +57,6 @@ on:
       - "scripts/validate-calendar.mjs"
       - "scripts/test-calendar.mjs"
       - ".github/workflows/validate-notes.yml"
-      - "starter/**"
 permissions:
   contents: read
 jobs:
@@ -84,5 +82,3 @@ jobs:
       - run: node --check calendar.js
       - run: node scripts/test-viewer.mjs
       - run: node scripts/build-static.mjs "$RUNNER_TEMP/site"
-      # 기본형 위키 키트: 기본형과 모든 프리셋을 생성해 빌드·검사한다.
-      - run: node starter/test-starter.mjs
