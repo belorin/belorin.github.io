@@ -1,0 +1,73 @@
+{
+  "label": "세계관 설정집",
+  "description": "창작 세계의 인물·장소·세력·사건과 연대기. 달력(연대표)이 켜진다.",
+  "config": {
+    "name": "설정집",
+    "brand": "설정집",
+    "description": "창작 세계의 인물, 장소, 세력, 사건을 서로 잇고 연대기로 정리하는 설정 위키.",
+    "icon": "🗺",
+    "theme": { "accent": "#6a3d7c", "light": "#f3ecf6" },
+    "categories": ["개요", "사건", "인물", "장소", "세력", "사물·개념", "안내"],
+    "home": { "title": "세계 탐색", "featureLabel": "오늘 펼쳐 볼 설정" },
+    "about": {
+      "title": "이 설정집에 관하여",
+      "lead": "한 세계의 인물과 장소, 세력과 사건을 서로 잇고 연대기로 정리하는 설정 위키입니다.",
+      "links": [
+        { "id": "start-here", "label": "세계 개요" },
+        { "id": "worldbuilding-guide", "label": "설정 쓰는 규칙" },
+        { "id": "editing-guide", "label": "편집 방법" }
+      ]
+    },
+    "features": { "calendar": true },
+    "types": {
+      "note": null,
+      "list": null,
+      "question": { "label": "미정 설정", "template": "templates/question.md", "category": "안내", "status": "미정" },
+      "character": { "label": "인물", "template": "templates/character.md", "category": "인물", "status": "초안" },
+      "place": { "label": "장소", "template": "templates/place.md", "category": "장소", "status": "초안" },
+      "faction": { "label": "세력", "template": "templates/faction.md", "category": "세력", "status": "초안" },
+      "event": { "label": "사건", "template": "templates/event.md", "category": "사건", "status": "초안" },
+      "lore": { "label": "사물·개념", "template": "templates/lore.md", "category": "사물·개념", "status": "초안" }
+    }
+  },
+  "documents": [
+    {
+      "path": "wiki/start-here.md",
+      "publish": true,
+      "order": 0,
+      "id": "start-here",
+      "title": "세계 개요",
+      "category": "개요",
+      "status": "정본",
+      "updated": "{{today}}",
+      "summary": "이 세계의 전제와 분위기, 연대의 기준, 설정 문서들의 지도.",
+      "tags": ["개요"],
+      "source": "설정집 프리셋 기본 문서",
+      "related": ["worldbuilding-guide"],
+      "aliases": ["세계 개요"],
+      "review_state": "unassessed"
+    },
+    {
+      "path": "wiki/worldbuilding-guide.md",
+      "publish": true,
+      "order": 2,
+      "id": "worldbuilding-guide",
+      "title": "설정을 쓰는 규칙",
+      "category": "안내",
+      "status": "운영 문서",
+      "updated": "{{today}}",
+      "summary": "인물·장소·세력·사건 문서의 역할, 정본과 미정 설정의 구분, 연대기와 달력 기록 방법.",
+      "tags": ["안내", "설정", "연대기"],
+      "source": "설정집 프리셋 안내 문서",
+      "related": ["start-here", "editing-guide"],
+      "aliases": ["설정 쓰는 규칙"],
+      "review_state": "reviewed"
+    }
+  ],
+  "relations": [
+    { "from": "worldbuilding-guide", "to": "editing-guide", "type": "elaborates", "evidence_section": "정본과 미정", "reason": "일반 편집 절차를 설정의 정본 관리로 구체화한다." }
+  ],
+  "calendar": [
+    { "id": "c001", "label": "이 세계의 기원 원년 (예시 항목)", "from": "1", "doc": "start-here", "section": "연대의 기준" }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "label": "달력 더하기(겹쳐 쓰는 프리셋)",
+  "description": "다른 프리셋 뒤에 겹쳐 연대표·절기 달력(/#calendar)을 켠다. 예: --preset research,timeline",
+  "config": {
+    "features": { "calendar": true }
+  }
+}

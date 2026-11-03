@@ -13,6 +13,7 @@
 | 증보 완료 후 AI 자율 논고 판단 | [WIKI_PROTOCOL.md](./WIKI_PROTOCOL.md) 완료 뒤 [ESSAY.md](./ESSAY.md) |
 | 독립 AI 저술 요청 | [WIKI_PROTOCOL.md](./WIKI_PROTOCOL.md)의 저술 원칙 + [ESSAY.md](./ESSAY.md) |
 | 사이트·스크립트·워크플로 수정 | [README.md](./README.md)의 파일 구성과 생성물 설명 |
+| 위키 키트(기본형·파생 위키) 수정과 새 위키 생성 | [starter/README.md](./starter/README.md) |
 
 ## 어떤 작업에서도 지키는 것
 

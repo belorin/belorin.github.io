@@ -1,0 +1,38 @@
+{
+  "owner": "your-github-id",
+  "repo": "your-github-id.github.io",
+  "branch": "main",
+  "name": "나의 위키",
+  "brand": "나의 위키",
+  "brandSub": "",
+  "description": "대화와 공부에서 얻은 지식을 주제별 원고로 쓰고 계속 고쳐 나가는 공개 위키.",
+  "author": "your-github-id",
+  "lang": "ko",
+  "icon": "✳",
+  "theme": {},
+  "categories": ["안내", "일반", "목록", "질문"],
+  "home": {
+    "title": "문서 탐색",
+    "lead": "",
+    "featureLabel": "오늘의 무작위 문서"
+  },
+  "about": {
+    "title": "이 위키에 관하여",
+    "lead": "지식을 대화 기록이 아니라 독립적으로 읽히는 원고로 쓰고, 새로 알게 될 때마다 증보하는 위키입니다.",
+    "links": [
+      { "id": "start-here", "label": "시작하기" },
+      { "id": "editing-guide", "label": "편집 방법" }
+    ]
+  },
+  "sidebarLinks": [],
+  "features": {
+    "calendar": false,
+    "comments": null
+  },
+  "types": {
+    "note": { "label": "일반 문서", "template": "templates/note.md", "category": "일반", "status": "초고" },
+    "list": { "label": "목록·큐레이션", "template": "templates/list.md", "category": "목록", "status": "초고" },
+    "question": { "label": "열린 질문", "template": "templates/question.md", "category": "질문", "status": "열린 질문" }
+  },
+  "verification": {}
+}
