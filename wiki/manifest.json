@@ -1126,7 +1126,7 @@
       "title": "차이, 문제, 역사: 『차이와 반복』의 부정 비판과 피비린내 나는 긍정",
       "category": "철학",
       "status": "원문 대조 기반 해설·외부 재검토 필요",
-      "updated": "2026-10-25",
+      "updated": "2026-11-03",
       "summary": "부정의 과대평가, 문제와 차이의 발생론, 역사의 비목적론, '피비린내와 잔혹함', 아름다운 영혼 비판을 통해 들뢰즈의 긍정이 평화주의가 아님을 정리한다.",
       "tags": [
         "차이와 반복",
@@ -1143,7 +1143,8 @@
         "deleuze-number-intensity-spatium",
         "hegel-fichte-schelling-difference",
         "deleuze-unthinkable-fold-thought",
-        "freud-before-anti-oedipus"
+        "freud-before-anti-oedipus",
+        "deleuze-thermodynamics-implication-equilibrium"
       ],
       "aliases": [
         "들뢰즈와 부정",
@@ -1151,7 +1152,7 @@
         "차이와 반복의 역사론"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-25",
+      "last_enriched_on": "2026-11-03",
       "order": 33
     },
     {
@@ -2873,12 +2874,13 @@
       "related": [
         "deleuze-becoming-new",
         "deleuze-negation-history",
-        "ancient-philosophy-beyond-greece"
+        "ancient-philosophy-beyond-greece",
+        "deleuze-thermodynamics-implication-equilibrium"
       ],
-      "updated": "2026-10-25",
+      "updated": "2026-11-03",
       "source": "내부 총합·외부 미검증",
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-25"
+      "last_enriched_on": "2026-11-03"
     },
     {
       "path": "wiki/ancient-philosophy-beyond-greece.md",
@@ -6222,6 +6224,45 @@
         "인간 수영 새 비행",
         "스트로크와 날갯짓",
         "몸길이 대비 속도"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-03"
+    },
+    {
+      "id": "deleuze-thermodynamics-implication-equilibrium",
+      "path": "wiki/deleuze-thermodynamics-implication-equilibrium.md",
+      "publish": true,
+      "order": 189,
+      "title": "결국 침묵한다면: 들뢰즈의 열역학적 가상, 안·밖 주름운동과 강도의 깊이",
+      "category": "철학",
+      "status": "내부 총합에 따른 개념 해석 · 원전 원어·번역 대응 및 우주론적 단정 미검증",
+      "updated": "2026-11-03",
+      "summary": "엔트로피와 열평형을 인정하면서도 차이의 발생을 묻는 들뢰즈의 논점을 안·밖 주름, 강도의 깊이, 포텐셜 에너지와 최종 침묵의 반론으로 해설한다.",
+      "tags": [
+        "들뢰즈",
+        "차이와 반복",
+        "열역학",
+        "엔트로피",
+        "열적 평형",
+        "강도",
+        "안 주름운동",
+        "밖 주름운동",
+        "함축",
+        "펼침",
+        "깊이",
+        "포텐셜 에너지"
+      ],
+      "source": "내부 총합·외부 신규 조사 없음·번역어와 원문 미대조",
+      "related": [
+        "deleuze-number-intensity-spatium",
+        "deleuze-negation-history"
+      ],
+      "aliases": [
+        "들뢰즈와 엔트로피",
+        "안 주름운동과 밖 주름운동",
+        "열역학적 파성추",
+        "차이의 최종 침묵",
+        "초월론적 물리학적 가상"
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-11-03"
