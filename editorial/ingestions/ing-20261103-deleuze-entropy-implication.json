@@ -1,0 +1,165 @@
+{
+  "id": "ing-20261103-deleuze-entropy-implication",
+  "processed_on": "2026-11-03",
+  "coverage": "visible-complete",
+  "limit_note": "현재 세션에서 실제로 접근 가능한 문답 전부를 대상으로 삼았으며 독립 원전 및 외부 자료는 추가 확인하지 않음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "강도 차이와 열기관의 발생 조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-thermodynamics-implication-equilibrium",
+          "section": "열역학은 차이를 발견하면서 차이의 소멸도 보여준다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "초월론적 물리학적 가상과 결과의 선취",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-thermodynamics-implication-equilibrium",
+          "section": "‘초월론적 물리학적 가상’은 무엇을 착각하는가"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "question",
+      "title": "열역학적 파성추 번역과 원전 대조",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-thermodynamics-implication-equilibrium",
+          "section": "‘초월론적 물리학적 가상’은 무엇을 착각하는가"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "안 주름운동과 밖 주름운동의 함축·펼침",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-thermodynamics-implication-equilibrium",
+          "section": "안으로 접히는 것과 밖으로 펼쳐지는 것"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "argument",
+      "title": "안 주름의 물리적 구체성과 개념적 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-thermodynamics-implication-equilibrium",
+          "section": "‘안 주름은 구체적으로 무엇인가’라는 난점"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "example",
+      "title": "번개와 씨앗의 이질적 차이 배치",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-thermodynamics-implication-equilibrium",
+          "section": "‘안 주름은 구체적으로 무엇인가’라는 난점"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "concept",
+      "title": "발생적 깊이와 공간의 차원 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-thermodynamics-implication-equilibrium",
+          "section": "깊이: 길이·너비 뒤에 추가한 세 번째 축이 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "argument",
+      "title": "포텐셜 에너지와 강도적 함축의 비동일성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-thermodynamics-implication-equilibrium",
+          "section": "포텐셜 에너지와 거의 닿지만 완전히 겹치지 않는다"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "example",
+      "title": "낙차·배터리·압축 기체와 다양한 전개의 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-thermodynamics-implication-equilibrium",
+          "section": "포텐셜 에너지와 거의 닿지만 완전히 겹치지 않는다"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "argument",
+      "title": "엔트로피의 경험적 법칙과 존재론적 일반화의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-thermodynamics-implication-equilibrium",
+          "section": "엔트로피에 반대한 것인가, 엔트로피의 철학적 독점에 반대한 것인가"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "counterargument",
+      "title": "최종 열평형과 완전한 침묵의 반론",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-thermodynamics-implication-equilibrium",
+          "section": "그러나 결국 완전히 침묵한다면"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "question",
+      "title": "국소적 열평형과 우주 열죽음의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-thermodynamics-implication-equilibrium",
+          "section": "그러나 결국 완전히 침묵한다면"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "argument",
+      "title": "발생의 우선권과 최종 소멸의 양립 문제",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "deleuze-thermodynamics-implication-equilibrium",
+          "section": "그러나 결국 완전히 침묵한다면"
+        }
+      ]
+    }
+  ]
+}
