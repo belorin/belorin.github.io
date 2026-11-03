@@ -445,6 +445,9 @@
 - **[Ray Wyre: 성범죄자 치료의 선구자와 사탄 의례 학대 논쟁](wiki/ray-wyre-sex-offender-treatment.md)** · 별칭: Ray Wyre 경력, 레이 와이어, 레이 와이어 상담가, Ray Wyre 60 Minutes · 수정: 2026-11-03 · 검토: 인물 경력과 전문직 주장의 구분 / SRA 발언의 독립 형사입증 미확인
   - 영국 성범죄자 치료 전문가 Ray Wyre의 Winson Green·Albany·Gracewell·Wolvercote 경력, 저술과 사후 평가, 1989년 사탄 의례 학대 21건 발언의 증거상 한계를 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/ray-wyre-sex-offender-treatment/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ray-wyre-sex-offender-treatment.md)
+- **[광주 버스, 어디서 갈아탈까? AI에 물어보는 길찾기 안내](wiki/gwangju-bus-transfer-guide.md)** · 별칭: 광주 버스 환승 길찾기, 광주버스 AI 질문 가이드 · 수정: 2026-11-03 · 검토: 광주 버스 길찾기 안내
+  - 광주 버스 개편 이후 직통과 환승 경로를 AI에 묻는 방법. 옛 정류장명과 현재 승강장 대조, 운행 방향, 같은 승강장 환승을 실제 사례와 정차 순서 색인으로 확인한다.
+  - [문서 페이지](https://belorin.github.io/notes/gwangju-bus-transfer-guide/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gwangju-bus-transfer-guide.md)
 
 ## 영화
 

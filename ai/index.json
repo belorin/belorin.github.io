@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 188,
+  "document_count": 189,
   "documents": [
     {
       "id": "living-notes",
@@ -6558,6 +6558,33 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/deleuze-thermodynamics-implication-equilibrium.md",
       "page_url": "https://belorin.github.io/notes/deleuze-thermodynamics-implication-equilibrium/",
       "app_url": "https://belorin.github.io/#deleuze-thermodynamics-implication-equilibrium"
+    },
+    {
+      "id": "gwangju-bus-transfer-guide",
+      "title": "광주 버스, 어디서 갈아탈까? AI에 물어보는 길찾기 안내",
+      "aliases": [
+        "광주 버스 환승 길찾기",
+        "광주버스 AI 질문 가이드"
+      ],
+      "category": "사회와 제도",
+      "tags": [
+        "광주",
+        "시내버스",
+        "환승",
+        "길찾기"
+      ],
+      "summary": "광주 버스 개편 이후 직통과 환승 경로를 AI에 묻는 방법. 옛 정류장명과 현재 승강장 대조, 운행 방향, 같은 승강장 환승을 실제 사례와 정차 순서 색인으로 확인한다.",
+      "published": true,
+      "review_state": "reviewed",
+      "review_label": "광주 버스 길찾기 안내",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gwangju-bus-transfer-guide.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/gwangju-bus-transfer-guide.md",
+      "page_url": "https://belorin.github.io/notes/gwangju-bus-transfer-guide/",
+      "app_url": "https://belorin.github.io/#gwangju-bus-transfer-guide"
     }
   ]
 }
