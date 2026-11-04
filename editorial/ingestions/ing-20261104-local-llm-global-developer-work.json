@@ -1,0 +1,153 @@
+{
+  "id": "ing-20261104-local-llm-global-developer-work",
+  "processed_on": "2026-11-04",
+  "coverage": "visible-complete",
+  "limit_note": "현재 접근 가능한 대화와 기존 위키만 활용; 가상 사례와 외부 통계는 미검증 표시",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "B와 양자화, 파라미터와 용량의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "local-llm-industrial-operations",
+          "section": "B와 양자화: 숫자의 수와 숫자의 정밀도"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "훈련과 순차 토큰 추론의 계산 부담",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "local-llm-industrial-operations",
+          "section": "학습이 끝나도 추론이 느린 까닭"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "curation",
+      "title": "Ollama 모델 계열과 Devstral의 역할",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "local-llm-industrial-operations",
+          "section": "Ollama 생태계에서 구별하는 모델과 역할"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "RAG와 정형 DB 함수 호출의 역할 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "local-llm-industrial-operations",
+          "section": "RAG와 데이터베이스 도구 호출을 혼동하지 않기"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "argument",
+      "title": "산업 설비의 판정·설명·알림 책임 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "local-llm-industrial-operations",
+          "section": "설비의 정상·비정상 판정은 언어모델과 분리한다"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "example",
+      "title": "Windows 미니PC와 Raspberry Pi 저가 운영 및 요청 급증",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "local-llm-industrial-operations",
+          "section": "저가 서버 구성과 급증하는 API 요청"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "concept",
+      "title": "소프트웨어 개발 외주·EOR·프리랜서 계약 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-bpo-labor-geography",
+          "section": "개발자 아웃소싱의 새로운 연결층: EOR와 인력 플랫폼"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "fact",
+      "title": "아프리카 개발자 다핵 네트워크와 원격 급여의 함정",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "global-bpo-labor-geography",
+          "section": "아프리카 개발자 시장: 단일한 값싼 예비군이 아닌 다핵 구조"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "argument",
+      "title": "기술기업 감원 숫자와 AI 인과관계 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-layoffs-global-remote-restructuring",
+          "section": "레이오프라는 숫자의 경계"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "example",
+      "title": "진행 중 모바일 게임 프로젝트의 외주 이관 단계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-layoffs-global-remote-restructuring",
+          "section": "끝나지 않은 프로젝트를 다른 팀에 넘기는 장면"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "argument",
+      "title": "해외 인력·AI·업무 축소와 조직 감축의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-layoffs-global-remote-restructuring",
+          "section": "경영 성과와 사회적 성과의 다른 계산"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "question",
+      "title": "한국 개발자의 해외 원격 인력시장 진입 가능성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-layoffs-global-remote-restructuring",
+          "section": "한국 개발자를 해외에 판매한다는 역전"
+        }
+      ]
+    }
+  ]
+}
