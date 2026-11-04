@@ -232,6 +232,9 @@
 - **[케냐·우간다·나이지리아의 AI 데이터 주석 노동: 라벨링이 사라진 자리에 무엇이 남았나](wiki/african-ai-annotation-labor-2026.md)** · 별칭: 아프리카 AI 데이터 주석 노동, 케냐 우간다 나이지리아 데이터 라벨러 · 수정: 2026-11-03 · 검토: 대화 기반 총합·고용 추세·공고 조건 외부 재검증 필요
   - 케냐의 대형 하청·발주처 이동, 우간다의 업체 고용과 원격 모집, 나이지리아의 언어 특화 평가를 비교하고 구인공고와 실제 고용·임금의 증거 차이를 구별한다.
   - [문서 페이지](https://belorin.github.io/notes/african-ai-annotation-labor-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/african-ai-annotation-labor-2026.md)
+- **[AI·해외 인력과 개발 조직의 재편: 레이오프에서 프로젝트 인수인계까지](wiki/ai-layoffs-global-remote-restructuring.md)** · 별칭: 글로벌 개발자 레이오프, 아프리카 원격 개발자와 EOR · 수정: 2026-11-04 · 검토: 산업·노동 분석
+  - 세계 개발자 감원의 구조와 한계, 진행 중 프로젝트의 외주 이관, 아프리카 원격 개발자·EOR·한국 개발자의 해외시장 가능성을 검토한다.
+  - [문서 페이지](https://belorin.github.io/notes/ai-layoffs-global-remote-restructuring/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-layoffs-global-remote-restructuring.md)
 
 ## 철학
 
@@ -424,7 +427,7 @@
 - **[실리콘밸리는 한 동네가 아니다: 기업 본사와 교외형 기술 회랑의 지리](wiki/silicon-valley-firm-geography.md)** · 별칭: 실리콘밸리 기업 지도, Silicon Valley 기업 위치 · 수정: 2026-10-30 · 검토: 대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요
   - 실리콘밸리 대표 기업이 Menlo Park에서 San Jose까지 분포하는 교외형 회랑과 지도·주소·산업 집적의 차이
   - [문서 페이지](https://belorin.github.io/notes/silicon-valley-firm-geography/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/silicon-valley-firm-geography.md)
-- **[세계 BPO 시장의 지리: 누가 사무 노동을 수출하고, 누가 값을 지불하는가](wiki/global-bpo-labor-geography.md)** · 별칭: 세계 BPO 시장, BPO 국가별 가격 노동복지 · 수정: 2026-11-03 · 검토: 대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요
+- **[세계 BPO 시장의 지리: 누가 사무 노동을 수출하고, 누가 값을 지불하는가](wiki/global-bpo-labor-geography.md)** · 별칭: 세계 BPO 시장, BPO 국가별 가격 노동복지 · 수정: 2026-11-04 · 검토: 대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요
   - 인도·필리핀·유럽·라틴아메리카·아프리카 BPO 공급국, 업종, 수출·고용·청구단가와 노동권 비교의 통계적 함정
   - [문서 페이지](https://belorin.github.io/notes/global-bpo-labor-geography/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/global-bpo-labor-geography.md)
 - **[미국 노동시장을 지역으로 읽기: 취업률·실업률·주별 격차와 2026년의 둔화](wiki/us-labor-market-geography-2026.md)** · 별칭: 미국 2026 실업률 지역별, 미국 주별 고용률 · 수정: 2026-10-30 · 검토: 대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요
@@ -628,6 +631,9 @@
 - **[X의 전체 자동번역은 얼마나 많은 계산을 요구하는가: 읽기 시점·캐시·GPU 비용](wiki/x-auto-translation-serving-cost.md)** · 별칭: X 자동번역 비용, 트위터 전체 자동번역, Grok 대규모 번역 서빙 · 수정: 2026-11-03 · 검토: X 제품 발표 및 기존 문헌에 기반한 아키텍처 가설·정량 예시 / 실제 운영 수치 미확인
   - X 자동번역을 사례로 게시 시점 선번역과 노출 시점 생성, 언어별 캐시, 번역본 수·토큰량·GPU 필요량과 기존 호스팅 비용의 분모를 구별한다.
   - [문서 페이지](https://belorin.github.io/notes/x-auto-translation-serving-cost/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/x-auto-translation-serving-cost.md)
+- **[로컬 LLM의 계산과 현장 운영: 작은 모델, RAG, 도구 호출, 큐](wiki/local-llm-industrial-operations.md)** · 별칭: 로컬 LLM 운영, Ollama 산업용 서버 · 수정: 2026-11-04 · 검토: 기술 해설
+  - 양자화와 추론의 물리적 비용에서 Ollama 모델·DB 도구·RAG·산업용 판정·저가 미니PC·폭주 제어까지 이어지는 설계 원칙.
+  - [문서 페이지](https://belorin.github.io/notes/local-llm-industrial-operations/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/local-llm-industrial-operations.md)
 
 ## 소설 (창작 작품 · 사실 근거 아님)
 

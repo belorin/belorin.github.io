@@ -4,17 +4,17 @@
 
 마지막 정비: **M001** (2026-10-26) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
 
-원고 193개 · 변경 문서 115 · 고립 25 · 한쪽 연결 105 · 보류 18 · 열린 교차 제안 8
+원고 195개 · 변경 문서 117 · 고립 26 · 한쪽 연결 109 · 보류 18 · 열린 교차 제안 8
 
-## 1. 지난 정비 이후 변경된 문서 (115)
+## 1. 지난 정비 이후 변경된 문서 (117)
 
 manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
 - **사회와 제도** (23): `europe-russia-escalation-signals-2026`, `drone-asymmetric-warfare`, `black-sea-ukraine-sea-denial`, `ukraine-ground-drone-defense`, `russia-ukraine-war-endurance`, `south-asia-border-rivalries-2026`, `global-flashpoints-likelihood-2026`, `hormuz-iran-war-naval-power-2026`, `chabahar-india-strategic-autonomy-2026`, `indian-ocean-navies-comparison`, `hormuz-sea-denial-reopening`, `iran-war-us-force-losses-2026`, `birth-order-korean-evidence`, `wto-digital-transmission-moratorium`, `silicon-valley-firm-geography`, `global-bpo-labor-geography`, `us-labor-market-geography-2026`, `powerline-wildfire-mitigation-world-korea`, `sancheong-wildfire-2025-prevention`, `wildfire-liability-insurance-risk-society`, `satanic-panic-court-inquiries`, `ray-wyre-sex-offender-treatment`, `gwangju-bus-transfer-guide`
-- **AI와 사회** (16): `ai-human-control-guide`, `ai-economic-transition`, `ai-capital-labor-distribution`, `ai-compute-scaling-inference`, `japan-physical-ai-skill-transfer`, `ai-transition-policy-gap`, `starcraft-pluto-ai`, `ai-hidden-labor-feeding-machine-2026`, `ai-cloud-ownership-rent`, `ai-adoption-ceiling-floor`, `owner-aligned-automated-power`, `ai-transition-monetary-order`, `data-center-world-capacity`, `korea-data-center-local-economy`, `physical-cloud-reading-guide`, `african-ai-annotation-labor-2026`
+- **AI와 사회** (17): `ai-human-control-guide`, `ai-economic-transition`, `ai-capital-labor-distribution`, `ai-compute-scaling-inference`, `japan-physical-ai-skill-transfer`, `ai-transition-policy-gap`, `starcraft-pluto-ai`, `ai-hidden-labor-feeding-machine-2026`, `ai-cloud-ownership-rent`, `ai-adoption-ceiling-floor`, `owner-aligned-automated-power`, `ai-transition-monetary-order`, `data-center-world-capacity`, `korea-data-center-local-economy`, `physical-cloud-reading-guide`, `african-ai-annotation-labor-2026`, `ai-layoffs-global-remote-restructuring`
 - **음악** (15): `jazz-to-ai`, `double-bass`, `electric-bass`, `rhythm-section`, `big-band`, `brass-band`, `drum-kit`, `jazz-dialogue`, `jazz-listening`, `silent-film-musician-labor`, `classical-canon-mauceri`, `orchestra-living-composers-canon`, `conductors-career-encores`, `orchestra-composer-conductor-myth`, `living-orchestral-listening-journey`
 - **문화와 역사** (11): `war-escalation-local-to-world`, `world-crisis-historical-analogies`, `jewish-messianic-claimants-kabbalah`, `luddite-movement-history`, `luddite-executions-memory`, `late-qing-yongying-daily-life`, `qing-tributaries-dissolution`, `ryukyu-disposition-qing-japan`, `roman-industry-gold-standard-history`, `great-depression-lived-experience-literature`, `satanic-panic-english-speaking-history`
-- **과학과 기술** (9): `space-data-center-thermal-economics`, `space-assets-law-debris-kessler`, `physical-ai-world-model-quantum-optimization`, `manufacturing-optimization-solo-business`, `mountain-powerline-undergrounding-economics`, `edge-vision-event-monitor-portfolio`, `world-electricity-capacity-generation-consumption`, `operations-data-ai-copilot-portfolio`, `x-auto-translation-serving-cost`
+- **과학과 기술** (10): `space-data-center-thermal-economics`, `space-assets-law-debris-kessler`, `physical-ai-world-model-quantum-optimization`, `manufacturing-optimization-solo-business`, `mountain-powerline-undergrounding-economics`, `edge-vision-event-monitor-portfolio`, `world-electricity-capacity-generation-consumption`, `operations-data-ai-copilot-portfolio`, `x-auto-translation-serving-cost`, `local-llm-industrial-operations`
 - **기술·지식 아카이브** (5): `east-asia-telegraph-network-1880s`, `great-northern-telegraph-east-asia`, `book-translation-pipeline-local-llm`, `local-llm-novel-agent-m1`, `upbit-small-capital-trading-experiment`
 - **운영** (4): `editing-principles`, `wiki-building-history`, `wiki-operations-pipeline`, `gpt-wiki-zero-prototype`
 - **철학** (4): `deleuze-negation-history`, `deleuze-number-intensity-spatium`, `freud-before-anti-oedipus`, `deleuze-thermodynamics-implication-equilibrium`
@@ -33,7 +33,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - **철학·심리** (1): `freud-dreams-modern-science`
 - **AI의 글** (1): `climate-salvation-calculus-essay`
 
-## 2. 들어오는 연결이 없는 문서 (25)
+## 2. 들어오는 연결이 없는 문서 (26)
 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
@@ -62,8 +62,9 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `climate-salvation-calculus-essay` 구원의 계산은 무엇을 변수로 삼는가 · 미게시
 - `swimming-bird-flight-biomechanics` 물속의 인간과 공중의 새: 스트로크·날갯짓·가속·선회의 비례 생체역학
 - `gwangju-bus-transfer-guide` 광주 버스, 어디서 갈아탈까? AI에 물어보는 길찾기 안내
+- `local-llm-industrial-operations` 로컬 LLM의 계산과 현장 운영: 작은 모델, RAG, 도구 호출, 큐
 
-## 3. 한쪽에서만 건 관련 문서 (105)
+## 3. 한쪽에서만 건 관련 문서 (109)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -172,6 +173,10 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `owner-aligned-automated-power` → `ai-democracy-narrow-corridor`
 - `climate-salvation-calculus-essay` → `climate-population-villain-logic`
 - `climate-salvation-calculus-essay` → `ministry-for-the-future-reading`
+- `local-llm-industrial-operations` → `operations-data-ai-copilot-portfolio`
+- `local-llm-industrial-operations` → `ai-compute-scaling-inference`
+- `ai-layoffs-global-remote-restructuring` → `ai-economic-transition`
+- `ai-layoffs-global-remote-restructuring` → `african-ai-annotation-labor-2026`
 
 ## 4. 관련 문서가 없는 문서 (19)
 
@@ -258,5 +263,5 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 
 ## 9. 분류 참고
 
-분류 26개: 음악 37, AI와 사회 28, 사회와 제도 28, 문화와 역사 23, 철학 12, 과학과 기술 9, 기술·지식 아카이브 7, 정치경제 6, 운영 5, 독서 문화 4, 문학 4, 영화 3, 자연과 과학 3, 생명과학 3, 철학·사상사 3, 정보와 미디어 3, 게임 3, 미분류 2, 종합 2, 소설 2, 질문 1, 언어 1, 문화 1, 창작 1, 철학·심리 1, AI의 글 1
+분류 26개: 음악 37, AI와 사회 29, 사회와 제도 28, 문화와 역사 23, 철학 12, 과학과 기술 10, 기술·지식 아카이브 7, 정치경제 6, 운영 5, 독서 문화 4, 문학 4, 영화 3, 자연과 과학 3, 생명과학 3, 철학·사상사 3, 정보와 미디어 3, 게임 3, 미분류 2, 종합 2, 소설 2, 질문 1, 언어 1, 문화 1, 창작 1, 철학·심리 1, AI의 글 1
 문서가 하나뿐인 분류 6개: 질문, 언어, 문화, 창작, 철학·심리, AI의 글. 분류 체계 변경은 제안만 한다.

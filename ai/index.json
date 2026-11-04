@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 189,
+  "document_count": 191,
   "documents": [
     {
       "id": "living-notes",
@@ -4956,14 +4956,15 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요",
-      "last_updated_on": "2026-11-03",
-      "last_enriched_on": "2026-11-03",
+      "last_updated_on": "2026-11-04",
+      "last_enriched_on": "2026-11-04",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "ai-hidden-labor-feeding-machine-2026",
         "ai-economic-transition",
         "us-labor-market-geography-2026",
-        "african-ai-annotation-labor-2026"
+        "african-ai-annotation-labor-2026",
+        "ai-layoffs-global-remote-restructuring"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/global-bpo-labor-geography.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/global-bpo-labor-geography.md",
@@ -6585,6 +6586,74 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/gwangju-bus-transfer-guide.md",
       "page_url": "https://belorin.github.io/notes/gwangju-bus-transfer-guide/",
       "app_url": "https://belorin.github.io/#gwangju-bus-transfer-guide"
+    },
+    {
+      "id": "local-llm-industrial-operations",
+      "title": "로컬 LLM의 계산과 현장 운영: 작은 모델, RAG, 도구 호출, 큐",
+      "aliases": [
+        "로컬 LLM 운영",
+        "Ollama 산업용 서버"
+      ],
+      "category": "과학과 기술",
+      "tags": [
+        "로컬 LLM",
+        "Ollama",
+        "Qwen",
+        "양자화",
+        "RAG",
+        "산업 설비",
+        "API",
+        "큐"
+      ],
+      "summary": "양자화와 추론의 물리적 비용에서 Ollama 모델·DB 도구·RAG·산업용 판정·저가 미니PC·폭주 제어까지 이어지는 설계 원칙.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "기술 해설",
+      "last_updated_on": "2026-11-04",
+      "last_enriched_on": "2026-11-04",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "operations-data-ai-copilot-portfolio",
+        "ai-compute-scaling-inference"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/local-llm-industrial-operations.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/local-llm-industrial-operations.md",
+      "page_url": "https://belorin.github.io/notes/local-llm-industrial-operations/",
+      "app_url": "https://belorin.github.io/#local-llm-industrial-operations"
+    },
+    {
+      "id": "ai-layoffs-global-remote-restructuring",
+      "title": "AI·해외 인력과 개발 조직의 재편: 레이오프에서 프로젝트 인수인계까지",
+      "aliases": [
+        "글로벌 개발자 레이오프",
+        "아프리카 원격 개발자와 EOR"
+      ],
+      "category": "AI와 사회",
+      "tags": [
+        "레이오프",
+        "개발자",
+        "해외 원격 채용",
+        "EOR",
+        "아프리카",
+        "게임업계",
+        "AI 자동화"
+      ],
+      "summary": "세계 개발자 감원의 구조와 한계, 진행 중 프로젝트의 외주 이관, 아프리카 원격 개발자·EOR·한국 개발자의 해외시장 가능성을 검토한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "산업·노동 분석",
+      "last_updated_on": "2026-11-04",
+      "last_enriched_on": "2026-11-04",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "global-bpo-labor-geography",
+        "ai-economic-transition",
+        "african-ai-annotation-labor-2026"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-layoffs-global-remote-restructuring.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-layoffs-global-remote-restructuring.md",
+      "page_url": "https://belorin.github.io/notes/ai-layoffs-global-remote-restructuring/",
+      "app_url": "https://belorin.github.io/#ai-layoffs-global-remote-restructuring"
     }
   ]
 }

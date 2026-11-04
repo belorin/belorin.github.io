@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 679,
+  "edge_count": 685,
   "edges": [
     {
       "from": "living-notes",
@@ -3030,6 +3030,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "global-bpo-labor-geography",
+      "to": "ai-layoffs-global-remote-restructuring",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "ai-cloud-ownership-rent",
       "to": "ai-capital-labor-distribution",
       "type": "related_to",
@@ -3806,6 +3812,36 @@
     {
       "from": "deleuze-thermodynamics-implication-equilibrium",
       "to": "deleuze-negation-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "local-llm-industrial-operations",
+      "to": "operations-data-ai-copilot-portfolio",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "local-llm-industrial-operations",
+      "to": "ai-compute-scaling-inference",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-layoffs-global-remote-restructuring",
+      "to": "global-bpo-labor-geography",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-layoffs-global-remote-restructuring",
+      "to": "ai-economic-transition",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-layoffs-global-remote-restructuring",
+      "to": "african-ai-annotation-labor-2026",
       "type": "related_to",
       "basis": "manifest.related"
     },
