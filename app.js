@@ -15,7 +15,7 @@ function giscusAttributes(term) {
   return {src: 'https://giscus.app/client.js', 'data-repo': comments.repo, 'data-repo-id': comments.repoId,
     'data-category': comments.category, 'data-category-id': comments.categoryId, 'data-mapping': 'specific',
     'data-term': term, 'data-strict': '1', 'data-reactions-enabled': '0', 'data-emit-metadata': '0',
-    'data-input-position': 'bottom', 'data-theme': 'https://belorin.github.io/giscus-theme.css?v=1', 'data-lang': 'ko', 'data-loading': 'lazy', crossorigin: 'anonymous'};
+    'data-input-position': 'bottom', 'data-theme': 'https://belorin.github.io/giscus-theme.css?v=2', 'data-lang': 'ko', 'data-loading': 'lazy', crossorigin: 'anonymous'};
 }
 function loadComments() {
   const box = view.querySelector?.('.giscus');
@@ -27,6 +27,46 @@ function loadComments() {
 let notes = [];
 let category = '전체';
 let randomPick = null;
+// The site first loads data/index.json (every note without its body, built at
+// deploy) and fetches a body only when its article is opened. Full-text search
+// loads notes.json once. Without the deploy files (local use) notes.json serves both.
+let allBodies = null;
+const siteTitle = 'belorin · 열린 노트';
+const hasBody = note => typeof note.body === 'string';
+const getJson = (url, options) => fetch(url, options).then(response => {
+  if (!response.ok) throw Error('Data unavailable');
+  return response.json();
+});
+function loadAllBodies() {
+  if (notes.every(hasBody)) return Promise.resolve();
+  allBodies = allBodies || getJson('notes.json', {cache: 'no-cache'}).then(data => {
+    const bodies = new Map(data.map(n => [n.id, n.body]));
+    for (const note of notes) if (!hasBody(note) && bodies.has(note.id)) note.body = bodies.get(note.id);
+  }).catch(() => { allBodies = null; });
+  return allBodies;
+}
+function loadBody(note) {
+  if (hasBody(note)) return Promise.resolve();
+  note.loading = note.loading || getJson('data/notes/' + encodeURIComponent(note.id) + '.json')
+    .then(data => { if (typeof data.body === 'string') note.body = data.body; })
+    .catch(() => loadAllBodies())
+    .then(() => { note.loading = null; });
+  return note.loading;
+}
+const currentHash = () => {
+  let raw = location.hash.slice(1);
+  try { raw = decodeURIComponent(raw); } catch {}
+  // Preserve the original public permalink after the two silent-film articles were consolidated.
+  return raw === 'silent-film' ? 'silent-film-musician-labor' : raw;
+};
+// Back and forward return to where the reader was: each history entry remembers its scroll.
+const historyState = () => { try { return window.history?.state || null; } catch { return null; } };
+function rememberScroll() {
+  try { window.history?.replaceState({...historyState(), y: Math.round(window.scrollY || 0)}, ''); } catch {}
+}
+function restoreScroll() {
+  window.scrollTo({top: historyState()?.y || 0, behavior: 'instant'});
+}
 
 function setExploreOpen(open) {
   exploreToggle.setAttribute('aria-expanded', String(open));
@@ -64,14 +104,57 @@ const permalink = id => '#' + encodeURIComponent(id);
 const sorted = items => items.slice().sort((a,b) =>
   b.updated.localeCompare(a.updated) || notes.indexOf(b) - notes.indexOf(a));
 const normalized = s => String(s ?? '').normalize('NFKC').toLocaleLowerCase('ko');
-const textMatch = note => normalized([
-  note.title, note.summary, note.body, note.category, ...(note.tags || [])
-].join(' ')).includes(normalized(search.value.trim()));
+// Search: every word must appear somewhere; a hit in the title or an alias
+// outranks one in the summary, which outranks one in the body.
+const queryTerms = () => [...new Set(normalized(search.value).split(/\s+/).filter(Boolean))];
+function searchFields(note) {
+  if (!note.fields || note.fields.withBody !== hasBody(note)) {
+    note.fields = {withBody: hasBody(note), title: normalized(note.title),
+      names: normalized([...(note.aliases || []), ...(note.tags || []), note.category].join(' \n ')),
+      summary: normalized(note.summary), body: normalized(note.body)};
+  }
+  return note.fields;
+}
+function searchScore(note, terms) {
+  const fields = searchFields(note);
+  let score = 0;
+  for (const term of terms) {
+    const hit = fields.title.includes(term) ? 8 : fields.names.includes(term) ? 5
+      : fields.summary.includes(term) ? 3 : fields.body.includes(term) ? 1 : 0;
+    if (!hit) return 0;
+    score += hit;
+  }
+  return score;
+}
+const termPattern = terms => terms.length
+  ? new RegExp('(' + terms.map(t => t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).sort((a,b) => b.length - a.length).join('|') + ')', 'gi')
+  : null;
+const marked = (text, pattern) => pattern
+  ? String(text ?? '').split(pattern).map((part, i) => i % 2 ? '<mark>' + esc(part) + '</mark>' : esc(part)).join('')
+  : esc(text);
+// The passage of the body around the first matching word, without Markdown marks.
+function snippet(note, pattern) {
+  if (!pattern || !hasBody(note)) return null;
+  pattern.lastIndex = 0;
+  if (pattern.test(note.title + ' ' + note.summary)) return null;
+  const text = note.body.replace(/^:::.*$/gm, ' ').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+    .replace(/^#{2,4}\s+/gm, '').replace(/[*`|>]/g, '').replace(/\s+/g, ' ');
+  pattern.lastIndex = 0;
+  const found = pattern.exec(text);
+  if (!found) return null;
+  const start = Math.max(0, found.index - 50), end = Math.min(text.length, found.index + 110);
+  return (start ? '… ' : '') + text.slice(start, end).trim() + (end < text.length ? ' …' : '');
+}
 
+const emphasis = html => html
+  .replace(/\*\*(?=\S)(.+?)\*\*(?!\*)/g,'<strong>$1</strong>')
+  .replace(/\*([^*]+)\*/g,'<em>$1</em>');
+// Code spans keep their text literally; a bare web address becomes a link.
 function plainInline(text) {
-  return esc(text).replace(/`([^`]+)`/g,'<code>$1</code>')
-    .replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>')
-    .replace(/\*([^*]+)\*/g,'<em>$1</em>');
+  return esc(text).split(/(`[^`]+`)/).map((part, i) => i % 2
+    ? '<code>' + part.slice(1, -1) + '</code>'
+    : emphasis(part).replace(/(^|[\s(（:：])(https?:\/\/[^\s<>"'`*]+[^\s<>"'`*.,;:!?)）\]」』])/g,
+        '$1<a href="$2" target="_blank" rel="noopener noreferrer">$2</a>')).join('');
 }
 function inline(text) {
   const matcher = /\[([^\]]+)\]\(([^)]+)\)/g;
@@ -83,7 +166,7 @@ function inline(text) {
       const external = /^https?:\/\//i.test(href);
       result += '<a href="' + esc(href) + '"' +
         (external ? ' target="_blank" rel="noopener noreferrer"' : '') + '>' +
-        plainInline(match[1]) + '</a>';
+        emphasis(esc(match[1])) + '</a>';
     } else result += plainInline(match[0]);
     cursor = matcher.lastIndex;
   }
@@ -194,6 +277,15 @@ function pickRandom(except) {
   if (!choices.length) return null;
   return choices[Math.floor(Math.random() * choices.length)];
 }
+// The home page opens on the same article all day; "다른 글" draws another.
+function pickDaily() {
+  const choices = articles();
+  if (!choices.length) return null;
+  const today = new Date();
+  let seed = today.getFullYear() * 372 + today.getMonth() * 31 + today.getDate();
+  seed = Math.imul(seed ^ (seed >>> 15), 2246822519) >>> 0;
+  return choices.slice().sort((a,b) => a.id.localeCompare(b.id))[seed % choices.length];
+}
 function goRandom() {
   const current = validId(location.hash.slice(1)) ? location.hash.slice(1) : null;
   const chosen = pickRandom(current);
@@ -222,10 +314,10 @@ function showFilters() {
   }
 }
 function home() {
-  if (!randomPick || !byId(randomPick.id)) randomPick = pickRandom();
+  if (!randomPick || !byId(randomPick.id)) randomPick = pickDaily();
   const dateSorted = sorted(notes.filter(listed));
   const feature = randomPick
-    ? '<div class="random-card"><div><div class="eyebrow">오늘의 무작위 문서</div>' +
+    ? '<div class="random-card"><div><div class="eyebrow">오늘의 문서</div>' +
       '<h2>' + esc(randomPick.title) + '</h2><p>' + esc(randomPick.summary) + '</p>' +
       '<a class="link-strong" href="' + permalink(randomPick.id) + '">이 글 읽기 →</a></div>' +
       '<button type="button" class="outline-button" data-shuffle>다른 글 ↻</button></div>'
@@ -243,28 +335,49 @@ function home() {
 }
 function listing() {
   const q = search.value.trim();
-  const matches = sorted(notes.filter(n =>
-    (q || listed(n)) &&
-    (category === '전체' ? (q || (!isSynthesis(n) && !isEssay(n))) : n.category === category) && (!q || textMatch(n))));
+  const terms = queryTerms();
+  const pattern = termPattern(terms);
+  const pool = notes.filter(n => (q || listed(n)) &&
+    (category === '전체' ? (q || (!isSynthesis(n) && !isEssay(n))) : n.category === category));
+  const scores = new Map(q ? pool.map(n => [n, searchScore(n, terms)]) : []);
+  const matches = sorted(q ? pool.filter(n => scores.get(n) > 0) : pool);
+  if (q) matches.sort((a,b) => scores.get(b) - scores.get(a));
+  const pending = q && !notes.every(hasBody);
+  if (pending) loadAllBodies().then(() => { if (currentHash() === 'all' && search.value.trim() === q) listing(); });
   view.innerHTML =
     '<div class="page-heading"><h1>' + (q ? '검색 결과' : category === '전체' ? '전체 문서' : esc(category)) +
-    '</h1><p>' + matches.length + '개 문서' + (q ? ' · 검색어: ' + esc(q) : '') + '</p></div>' +
+    '</h1><p>' + matches.length + '개 문서' + (q ? ' · 검색어: ' + esc(q) : '') +
+    (q && category !== '전체' ? ' · 주제: ' + esc(category) : '') +
+    (pending ? ' · 본문을 불러오는 중…' : '') + '</p></div>' +
     (matches.length
-      ? matches.map(n => '<div class="list-item"><div class="meta">' + kindBadge(n) + esc(n.category) +
+      ? matches.map(n => { const passage = snippet(n, pattern); return '<div class="list-item"><div class="meta">' + kindBadge(n) + esc(n.category) +
         ' · ' + esc(n.updated) + '</div><h2><a href="' + permalink(n.id) + '">' +
-        esc(n.title) + '</a></h2><p>' + esc(n.summary) + '</p></div>').join('')
+        marked(n.title, pattern) + '</a></h2><p>' + marked(n.summary, pattern) + '</p>' +
+        (passage ? '<p class="list-snippet">' + marked(passage, pattern) + '</p>' : '') + '</div>'; }).join('')
+      : pending ? '<p class="muted">본문에서 찾는 중입니다.</p>'
       : '<div class="empty">해당하는 문서가 없습니다. 검색어나 주제를 변경해 보세요.</div>');
 }
+// In-text links count as connections too. The index lists them; otherwise read the body.
+const linksOf = note => note.links || (hasBody(note)
+  ? [...new Set([...note.body.matchAll(/\]\(#([a-z0-9-]+)\)/g)].map(m => m[1]))] : []);
+const readingMinutes = note => Math.max(1, Math.round((note.chars ?? (note.body || '').length) / 500));
 function article(note) {
-  const rendered = renderMarkdown(note.body, note.id);
+  const ready = hasBody(note);
+  if (!ready) loadBody(note).then(() => {
+    if (currentHash() !== note.id) return;
+    if (hasBody(note)) { article(note); restoreScroll(); }
+    else view.querySelector?.('.prose')?.replaceChildren('본문을 불러오지 못했습니다. 새로고침하거나 Markdown 원고를 확인해 주세요.');
+  });
+  const rendered = ready ? renderMarkdown(note.body, note.id)
+    : {html: '<p class="muted">본문을 불러오는 중입니다.</p>', toc: []};
   const toc = rendered.toc.length > 1
     ? '<details class="toc"' + (window.matchMedia('(max-width: 800px)').matches ? '' : ' open') + '><summary>이 글의 목차 · ' + rendered.toc.length + '개 절</summary><ol>' +
       rendered.toc.map(item => '<li' + (item.level > 2 ? ' class="nested"' : '') +
         '><button type="button" data-jump="' + esc(item.id) + '">' +
         esc(item.title) + '</button></li>').join('') + '</ol></details>'
     : '';
-  const connections = [...new Set([...(note.related || []),
-    ...notes.filter(n => (n.related || []).includes(note.id)).map(n => n.id)])]
+  const connections = [...new Set([...(note.related || []), ...linksOf(note),
+    ...notes.filter(n => (n.related || []).includes(note.id) || linksOf(n).includes(note.id)).map(n => n.id)])]
     .filter(id => id !== note.id && byId(id));
   const related = connections.length
     ? '<section class="reader-bottom"><h2>연결된 글</h2><div class="related-grid">' +
@@ -309,7 +422,7 @@ function article(note) {
     : '';
   view.innerHTML = '<article class="reader' + (isSynthesis(note) ? ' is-synthesis' : isEssay(note) ? ' is-essay' : isFiction(note) ? ' is-fiction' : '') + '"><a class="back" href="#all">← 문서 목록</a>' +
     '<header class="reader-header"><div class="meta">' + kindBadge(note) + esc(note.category) +
-    ' · ' + esc(note.updated) + ' · ' + esc(note.status) + '</div>' +
+    ' · ' + esc(note.updated) + ' · ' + esc(note.status) + ' · 약 ' + readingMinutes(note) + '분</div>' +
     '<h1>' + esc(note.title) + '</h1>' +
     '<p class="reader-lead">' + esc(note.summary) + '</p>' +
     '<div class="reader-tools"><a href="' + github + '" target="_blank" rel="noopener noreferrer">Markdown 원고 ↗</a>' +
@@ -320,8 +433,8 @@ function article(note) {
     synthesisNote + essayNote + fictionNote + chapterNav + toc + '<div class="prose">' + rendered.html + '</div>' + chapterNav +
     related +
     (note.source ? '<p class="reader-source">자료·검토 표기: ' + esc(note.source) + '</p>' : '') +
-    discussion + '</article>';
-  loadComments();
+    (ready ? discussion : '') + '</article>';
+  if (ready) loadComments();
 }
 function about() {
   const items = [
@@ -343,9 +456,9 @@ function calendar() {
 function render() {
   if (!notes.length) return;
   view.setAttribute('aria-busy','false');
-  const rawHash = decodeURIComponent(location.hash.slice(1));
-  // Preserve the original public permalink after the two silent-film articles were consolidated.
-  const hash = rawHash === 'silent-film' ? 'silent-film-musician-labor' : rawHash;
+  const hash = currentHash();
+  const heading = {all: '전체 문서', about: '소개', calendar: '달력'}[hash] || byId(hash)?.title;
+  document.title = heading ? heading + ' · ' + siteTitle : siteTitle;
   setExploreOpen(!byId(hash));
   // The calendar takes the whole width; the search and topic sidebar step aside.
   document.body?.classList.toggle('wide', hash === 'calendar');
@@ -381,14 +494,21 @@ function copyLink(button) {
   else manual();
 }
 randomButton.addEventListener('click', goRandom);
+search.addEventListener('focus', loadAllBodies);
 search.addEventListener('input', () => {
   if (location.hash !== '#all') location.hash = '#all';
   else render();
 });
 window.addEventListener('hashchange', () => {
   render();
-  window.scrollTo({top:0,behavior:'instant'});
+  restoreScroll();
 });
+try { window.history.scrollRestoration = 'manual'; } catch {}
+let scrollTimer = null;
+window.addEventListener('scroll', () => {
+  clearTimeout(scrollTimer);
+  scrollTimer = setTimeout(rememberScroll, 120);
+}, {passive: true});
 document.addEventListener('keydown', event => {
   if (event.key === '/' && !event.metaKey && !event.ctrlKey && !event.altKey &&
       !['INPUT','TEXTAREA'].includes(document.activeElement?.tagName)) {
@@ -400,12 +520,13 @@ document.addEventListener('keydown', event => {
     if (location.hash === '#all') render();
   }
 });
-fetch('notes.json',{cache:'no-cache'})
-  .then(response => { if (!response.ok) throw Error('Data unavailable'); return response.json(); })
+getJson('data/index.json', {cache: 'no-cache'})
+  .catch(() => getJson('notes.json', {cache: 'no-cache'}))
   .then(data => {
     notes = Array.isArray(data) ? data.filter(n => validId(n.id)) : [];
     showFilters();
     render();
+    restoreScroll();
   })
   .catch(() => {
     view.setAttribute('aria-busy','false');

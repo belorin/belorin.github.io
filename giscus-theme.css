@@ -115,3 +115,45 @@ main .gsc-loading-image {
 .gsc-comment-box-markdown-hint {
   display: none !important;
 }
+
+/* Dark colors follow the reader's system setting, like the site's style.css. */
+@media (prefers-color-scheme: dark) {
+  main {
+    color-scheme: dark;
+    --primary-default: 143, 196, 163;
+    --bg-default: 36, 50, 42;
+    --color-prettylights-syntax-comment: #8b949e;
+    --color-prettylights-syntax-constant: #79c0ff;
+    --color-prettylights-syntax-entity: #d2a8ff;
+    --color-prettylights-syntax-storage-modifier-import: #c9d1d9;
+    --color-prettylights-syntax-entity-tag: #7ee787;
+    --color-prettylights-syntax-keyword: #ff7b72;
+    --color-prettylights-syntax-string: #a5d6ff;
+    --color-prettylights-syntax-variable: #ffa657;
+    --color-prettylights-syntax-string-regexp: #7ee787;
+    --color-prettylights-syntax-markup-heading: #79c0ff;
+    --color-prettylights-syntax-markup-italic: #c9d1d9;
+    --color-prettylights-syntax-markup-bold: #c9d1d9;
+    --color-prettylights-syntax-constant-other-reference-link: #a5d6ff;
+    --color-btn-text: #e3e6e0;
+    --color-btn-primary-text: rgb(23 26 24);
+    --color-btn-primary-disabled-text: rgb(23 26 24 / 80%);
+    --color-action-list-item-default-hover-bg: rgb(177 186 196 / 12%);
+    --color-segmented-control-bg: #262b28;
+    --color-segmented-control-button-bg: #171a18;
+    --color-fg-default: rgb(227 230 224);
+    --color-fg-muted: rgb(154 164 157);
+    --color-fg-subtle: rgb(154 164 157 / 60%);
+    --color-canvas-default: rgb(30 34 32);
+    --color-canvas-overlay: rgb(30 34 32);
+    --color-border-muted: rgb(49 55 51);
+    --color-neutral-muted: rgb(110 118 129 / 40%);
+    --color-success-fg: #3fb950;
+    --color-attention-fg: #d29922;
+    --color-attention-subtle: rgb(187 128 9 / 15%);
+    --color-danger-fg: #f85149;
+    --color-danger-subtle: rgb(248 81 73 / 15%);
+    --color-scale-gray-1: rgb(49 55 51 / 100%);
+    --color-scale-blue-1: rgb(143 196 163 / 15%);
+  }
+}

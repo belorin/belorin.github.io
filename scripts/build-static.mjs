@@ -4,6 +4,9 @@
  *   notes/<id>/index.html  one page per published note, article already rendered
  *   notes/index.html       all documents, grouped by category
  *   sitemap.xml            home, the index and every note page
+ *   feed.xml               Atom feed of the most recently updated documents
+ *   data/index.json        every note without its body (what the site loads first)
+ *   data/notes/<id>.json   one note's body, fetched when its article is opened
  * Pages are rendered by app.js's own article() in a sandbox, so they match the
  * interactive site exactly. Output is deployed only, never committed.
  *
@@ -79,6 +82,8 @@ function page({ title, description, canonical, body, jsonLd, type = "article" })
   <meta property="og:locale" content="ko_KR">
   <meta name="twitter:card" content="summary">
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='85'%3E✳%3C/text%3E%3C/svg%3E">
+  <meta name="color-scheme" content="light dark">
+  <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="${esc(siteName)} · 최근 갱신">
   <link rel="stylesheet" href="/style.css?v=${esc(cssVersion)}">
 ${jsonLd ? `  <script type="application/ld+json">${JSON.stringify(jsonLd).replace(/</g, "\\u003c")}</script>\n` : ""}</head>
 <body>
@@ -167,4 +172,41 @@ write("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?>
 ${urls.map(u => `  <url><loc>${u.loc}</loc><lastmod>${u.lastmod}</lastmod></url>`).join("\n")}
 </urlset>
 `);
+// Site data: the index carries what lists, search-by-name and connections need
+// (aliases from the manifest, in-text links, length); bodies load one at a time.
+const manifest = JSON.parse(fs.readFileSync(path.join(root, "wiki", "manifest.json"), "utf8"));
+const aliases = new Map(manifest.documents.map(d => [d.id, Array.isArray(d.aliases) ? d.aliases : []]));
+const index = notes.map(({ body, ...meta }) => ({
+  ...meta,
+  ...(aliases.get(meta.id)?.length ? { aliases: aliases.get(meta.id) } : {}),
+  links: [...new Set([...body.matchAll(/\]\(#([a-z0-9-]+)\)/g)].map(m => m[1]))].filter(id => ids.has(id) && id !== meta.id),
+  chars: body.length,
+}));
+write("data/index.json", JSON.stringify(index));
+for (const note of notes) write(`data/notes/${note.id}.json`, JSON.stringify({ id: note.id, body: note.body }));
+
+// Atom feed: the documents a returning reader has not seen yet. Dates have no
+// time of day, so same-day entries keep the site's "최근 갱신" order.
+const recent = listed.map((n, i) => [n, i]).sort(([a, i], [b, j]) => b.updated.localeCompare(a.updated) || j - i).slice(0, 40).map(([n]) => n);
+const stamp = date => `${date}T00:00:00+09:00`;
+write("feed.xml", `<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
+  <title>${esc(siteName)}</title>
+  <subtitle>대화에서 시작해 계속 고쳐 쓰는 공개 위키의 최근 갱신 문서</subtitle>
+  <id>${site}</id>
+  <link href="${site}"/>
+  <link rel="self" type="application/atom+xml" href="${site}feed.xml"/>
+  <updated>${stamp(latest)}</updated>
+  <author><name>belorin</name></author>
+${recent.map(n => `  <entry>
+    <title>${esc(n.title)}</title>
+    <id>${pageUrl(n.id)}</id>
+    <link href="${pageUrl(n.id)}"/>
+    <updated>${stamp(n.updated)}</updated>
+    <category term="${esc(n.category)}"/>
+    <summary>${esc(n.summary)}</summary>
+  </entry>`).join("\n")}
+</feed>
+`);
+console.log(`Site data: index ${Math.round(JSON.stringify(index).length / 1024)}KB + ${notes.length} bodies, feed with ${recent.length} entries`);
 console.log(`Static pages: ${notes.length} notes + index, sitemap with ${urls.length} URLs → ${path.relative(root, outDir) || "."}`);

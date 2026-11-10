@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <meta name="color-scheme" content="light dark">
+  <title>찾을 수 없는 주소 · belorin · 열린 노트</title>
+  <link rel="stylesheet" href="/style.css">
+  <script>
+    // A mistyped document address (/notes/<id>, /<id>, /wiki/<id>.md) still finds the
+    // site: the viewer opens the document, or says so when no such document exists.
+    (function () {
+      var id = location.pathname.replace(/\/index\.html$/, '').replace(/\.(md|html|json)$/, '')
+        .split('/').filter(Boolean).pop() || '';
+      if (/^[a-z0-9-]+$/.test(id) && !/^(notes|wiki|data|ai|editorial)$/.test(id)) location.replace('/#' + id);
+    })();
+  </script>
+</head>
+<body>
+  <main class="layout static-layout">
+    <section class="main-view">
+      <div class="page-heading"><h1>찾을 수 없는 주소입니다</h1><p>문서가 옮겨졌거나 주소가 잘못되었습니다.</p></div>
+      <ul class="compact-list">
+        <li><a href="/"><span class="item-title">첫 화면에서 찾아보기</span>→</a></li>
+        <li><a href="/notes/"><span class="item-title">전체 문서 목록</span>→</a></li>
+      </ul>
+    </section>
+  </main>
+</body>
+</html>

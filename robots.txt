@@ -14,6 +14,7 @@ Disallow: /ai/
 Disallow: /scripts/
 Disallow: /sources/
 Disallow: /notes.json
+Disallow: /data/
 Disallow: /AI_INDEX.md
 
 Sitemap: https://belorin.github.io/sitemap.xml
