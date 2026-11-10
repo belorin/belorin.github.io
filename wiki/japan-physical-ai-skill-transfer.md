@@ -112,3 +112,7 @@ AIST의 Embodied AI Research Team은 dexterous task learning, imitation learning
 이 글은 현재 확인 가능한 논의에서 이미 제시된 기업·정부·연구기관의 공개 링크와 수치를 총합했다. 이번 편집에서는 새로운 인터넷 검색이나 외부 문헌 보완을 하지 않았다. 가와사키 Successor와 Plesio, Honda 다지 핸드와 Avatar Robot, Toyota의 Physical AI, Yaskawa의 Gemini Robotics 협업, FANUC의 NVIDIA 연계, METI·NEDO·AIST 사업 방향은 대화에서 제시된 범위만 보존했다.
 
 다지 핸드의 센서 수와 힘, 정부의 2040년 목표, 참여기관과 발표 시점 같은 세부 수치는 후속 외부 재검증이 필요하다. 미국·중국·일본의 세 경로 비교, 일본의 하드웨어 강점과 범용 VLA 소프트웨어 경쟁의 상대적 지연, 2026~2035년을 숙련 데이터 보존의 중요한 시기로 보는 부분은 사실 목록이 아니라 명시적인 분석적 해석이다.
+
+## 후속 조사
+
+[2026년 기업·연구기관 자료로 숙련 전승 기술의 도달 단계와 실증의 한계를 확인한 후속 조사](./japan-skill-transfer-evidence-2026.md)가 별도로 이어진다. 원자료를 대조한 범위와 미확정 항목은 후속 글에 명시했으며, 이 글 전체의 기존 검토 상태가 변경된 것은 아니다.
