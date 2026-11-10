@@ -1,0 +1,329 @@
+{
+  "id": "ing-20261110-autumn-other-followups",
+  "processed_on": "2026-11-10",
+  "coverage": "visible-complete",
+  "limit_note": "WIKI_PROTOCOL v2.03 적용. 허용된 외부 조사로 2026-08-10~11-10 자료 중심의 후속 다섯 편을 작성했다. 발표일·관측 시점·예정 행사를 구분하고 후보 카드와 본문을 대조했다. 결론을 앞세우고 반복 유보를 줄였으며 필요한 한계는 보존했다. 기존 원고의 검토 상태는 유지했다.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "Pluto v2.0의 공개일·모델 세대와 CPU 실행 조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "pluto-v2-release-aiide-withdrawal-2026",
+          "section": "10월의 새 모델은 실제로 배포됐다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "상대별 초반 빌드 선택과 신경망 재훈련의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "pluto-v2-release-aiide-withdrawal-2026",
+          "section": "상대를 기억하는 것과 신경망을 다시 훈련하는 것"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "추론 지연 처리 방식에 따라 달라지는 경기력 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "pluto-v2-release-aiide-withdrawal-2026",
+          "section": "같은 플루토라도 시간을 어떻게 주는지가 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "fact",
+      "title": "공식 대회 메모와 등록표에서 확인한 AIIDE 참가 철회",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "pluto-v2-release-aiide-withdrawal-2026",
+          "section": "AIIDE 2026은 참가 철회로 확인된다"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "other",
+      "title": "동일 조건에서 구판과 신판의 약점을 비교하는 후속 설계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "pluto-v2-release-aiide-withdrawal-2026",
+          "section": "다음 대결에서는 무엇을 비교할까"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "fact",
+      "title": "2025–26 미국 편성 작품의 생존 작곡가 비중과 내부 구성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-repertoire-repeat-performance-autumn-2026",
+          "section": "전체 비중이 같아도 구성은 달라졌다"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "argument",
+      "title": "생존 작곡가 통계와 새 작품·진입 기회의 다른 의미",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-repertoire-repeat-performance-autumn-2026",
+          "section": "‘현대음악이 늘었다’만으로는 남는 질문"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "fact",
+      "title": "10월 27일 발표된 30개 악단의 Toulmin 신규 위촉 계획",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-repertoire-repeat-performance-autumn-2026",
+          "section": "초연 뒤 네 악단을 더 연결하는 방식"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "example",
+      "title": "TESTIFY!의 10월 지역별 공연 안내와 재연 추적",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-repertoire-repeat-performance-autumn-2026",
+          "section": "초연 뒤 네 악단을 더 연결하는 방식"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "other",
+      "title": "초연 이후 작품 생애와 컨소시엄 밖 재연을 추적하는 지표 제안",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "orchestra-repertoire-repeat-performance-autumn-2026",
+          "section": "다음 통계는 작품의 생애를 세어야 한다"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "fact",
+      "title": "IEA 10월 보고서의 정책 범위와 접속 대기열의 중복 가능성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "data-center-grid-contracts-autumn-2026",
+          "section": "접속 신청이 전력 수요를 과장할 수 있다"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "fact",
+      "title": "ERCOT의 대규모 부하 감축 운영 틀에 관한 9월 공지",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "data-center-grid-contracts-autumn-2026",
+          "section": "전기가 부족할 때 줄일 수 있는 사업자인가"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "fact",
+      "title": "FERC 비용 공개·회수 논의와 11월 응답 기한의 진행 상태",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "data-center-grid-contracts-autumn-2026",
+          "section": "취소된 캠퍼스의 송전선은 누가 갚는가"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "argument",
+      "title": "데이터센터 유치의 순편익에 취소 위험의 부담자를 포함하는 관점",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "data-center-grid-contracts-autumn-2026",
+          "section": "취소된 캠퍼스의 송전선은 누가 갚는가"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "other",
+      "title": "국내 개별 유치 사업의 전력·감축·취소 약정 조사 항목",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "data-center-grid-contracts-autumn-2026",
+          "section": "지역이 받아야 할 것은 숫자보다 확인 가능한 약정이다"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "fact",
+      "title": "가을 공식 안내에서 확인한 Visitors Lions 투표 자격과 시간 범위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-autumn-criticism-2026",
+          "section": "관객상은 누구의 판단을 모으는가"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "argument",
+      "title": "전문가 심사와 방문객 투표가 생산하는 판단의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-autumn-criticism-2026",
+          "section": "관객상은 누구의 판단을 모으는가"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "curation",
+      "title": "Walid Raad를 미국관으로 옮기는 NERO의 비평적 사고실험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-autumn-criticism-2026",
+          "section": "국가관의 벽을 옮겨 보는 비평"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "curation",
+      "title": "Arte Al Día와 Afterall의 정원·돌봄에 관한 가을 독해",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-autumn-criticism-2026",
+          "section": "정원과 돌봄을 두고 생기는 다른 독해"
+        }
+      ]
+    },
+    {
+      "id": "k20",
+      "kind": "fact",
+      "title": "11월 13~22일 폐막 프로그램과 열 개 작가 조직의 Assembly 계획",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "venice-biennale-autumn-criticism-2026",
+          "section": "폐막 직전에는 작품보다 그것을 지속시키는 조직이 모인다"
+        }
+      ]
+    },
+    {
+      "id": "k21",
+      "kind": "fact",
+      "title": "367종 새와 52개 인간 언어의 음향 패턴 비교 연구",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "bird-vocal-patterns-neural-code-2026",
+          "section": "배우지 않는 새도 인간과 닮은 패턴을 보인다"
+        }
+      ]
+    },
+    {
+      "id": "k22",
+      "kind": "fact",
+      "title": "사랑앵무의 음향 요소 재사용과 희소 신경 부호 프리프린트",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "bird-vocal-patterns-neural-code-2026",
+          "section": "앵무새는 소리의 작은 조각을 어떻게 다시 쓰는가"
+        }
+      ]
+    },
+    {
+      "id": "k23",
+      "kind": "concept",
+      "title": "음향 분포·발성 생산·의미 결합의 서로 다른 증거",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "bird-vocal-patterns-neural-code-2026",
+          "section": "두 연구가 만나는 지점과 갈라지는 지점"
+        }
+      ]
+    },
+    {
+      "id": "k24",
+      "kind": "other",
+      "title": "새 연구를 참새 현장 기록에 연결할 때 필요한 종·맥락 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "bird-vocal-patterns-neural-code-2026",
+          "section": "길에서 듣는 참새에게 적용하려면"
+        }
+      ]
+    },
+    {
+      "id": "k25",
+      "kind": "question",
+      "title": "새 플루토의 한국 대인전·약점 개선과 개발자의 직접 설명",
+      "status": "pending",
+      "targets": [],
+      "reason": "공식 릴리스와 참가 철회는 확인했으나 버전을 고정한 대인전 실험 및 개선 근거는 이번 공개 자료에서 확보하지 못했다."
+    },
+    {
+      "id": "k26",
+      "kind": "question",
+      "title": "국내 데이터센터 개별 사업의 비용 약정과 실제 가동",
+      "status": "pending",
+      "targets": [],
+      "reason": "최근 해외 제도의 후속 조사에 한정했으며 국내 프로젝트별 계약 원문·실가동·순세수는 추가 자료가 필요하다."
+    },
+    {
+      "id": "k27",
+      "kind": "question",
+      "title": "비엔날레 관객상 결과와 폐막 프로그램의 실제 성과",
+      "status": "pending",
+      "targets": [],
+      "reason": "기준일인 2026-11-10 이후의 투표·행사 결과는 아직 이 조사에서 확정할 수 없다."
+    },
+    {
+      "id": "k28",
+      "kind": "question",
+      "title": "조류 논문 상세 방법과 기존 참새 분류의 원문 대조",
+      "status": "pending",
+      "targets": [],
+      "reason": "최근 두 연구는 공개 초록·서지와 대학 발표 범위로 확인했다. 본문의 세부 통제·효과 크기와 기존 한국 참새 자료의 재검증은 남아 있다."
+    }
+  ]
+}

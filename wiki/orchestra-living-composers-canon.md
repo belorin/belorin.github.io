@@ -48,3 +48,7 @@
 관련 글: [세계 공연 데이터](./orchestra-repertoire-data-access.md), [세계 5대 악단의 2026년 선곡](./world-orchestras-repertoire-2026.md), [20세기 클래식의 잃어버린 계보](./classical-canon-mauceri.md).
 
 검토 상태: 비율·연도별 작곡가 목록은 이 대화에서 이전에 소개된 자료를 사용했으며 이번 편집에서 새 외부 검증을 하지 않았다. 제도적 해석은 계량 결과와 구별해야 한다.
+
+## 2026년 가을 후속 조사
+
+[2026년 가을 오케스트라 후속 조사](./orchestra-repertoire-repeat-performance-autumn-2026.md)는 10월 공개된 미국의 2025–26 시즌 보고서와 신규 위촉 컨소시엄을 다룬다. 생존 작곡가의 전체 비중, 집단별 기회 배분, 초연 이후 재연의 구조를 함께 살핀다.

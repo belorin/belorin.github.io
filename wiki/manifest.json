@@ -2459,7 +2459,7 @@
       "title": "오케스트라를 세는 법: 세계 레퍼토리 데이터와 지역의 클래식 접근성",
       "category": "음악",
       "status": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
-      "updated": "2026-10-25",
+      "updated": "2026-11-10",
       "summary": "Bachtrack·Operabase·뉴욕 필 공연 DB의 범위, 나라별 오케스트라 수의 함정, 공연장과 30~120분 생활권 접근성 지수 및 2014~2025년 등록 콘서트 추이를 비교한다.",
       "tags": [
         "오케스트라 통계",
@@ -2472,7 +2472,8 @@
       "related": [
         "orchestra-living-composers-canon",
         "world-orchestras-repertoire-2026",
-        "orchestra-halls-seasons"
+        "orchestra-halls-seasons",
+        "orchestra-repertoire-repeat-performance-autumn-2026"
       ],
       "aliases": [
         "세계 오케스트라 통계",
@@ -2489,7 +2490,7 @@
       "title": "클래식은 화석인가: 생존 작곡가의 연주와 정전이 자라는 속도",
       "category": "음악",
       "status": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
-      "updated": "2026-10-30",
+      "updated": "2026-11-10",
       "summary": "Bachtrack 2022~2025년 생존 작곡가·여성 작곡가 통계, 패르트·윌리엄스와 신작 재연의 차이, 음악기관의 현재성을 분석한다.",
       "tags": [
         "생존 작곡가",
@@ -2504,7 +2505,8 @@
         "orchestra-repertoire-data-access",
         "world-orchestras-repertoire-2026",
         "orchestra-composer-conductor-myth",
-        "living-orchestral-listening-journey"
+        "living-orchestral-listening-journey",
+        "orchestra-repertoire-repeat-performance-autumn-2026"
       ],
       "aliases": [
         "살아 있는 작곡가",
@@ -2554,7 +2556,7 @@
       "title": "한국 교향악단의 2026년 레퍼토리: 도시 이미지가 아니라 실제 선곡으로 구별하기",
       "category": "음악",
       "status": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
-      "updated": "2026-10-25",
+      "updated": "2026-11-10",
       "summary": "서울·KBS·국립·부산·인천·부천·대구·광주·대전·수원·경기필의 확인된 2026년 프로그램과 인상비평의 한계를 구별한다.",
       "tags": [
         "한국 교향악단",
@@ -2568,7 +2570,8 @@
       "related": [
         "world-orchestras-repertoire-2026",
         "orchestra-repertoire-data-access",
-        "orchestra-living-composers-canon"
+        "orchestra-living-composers-canon",
+        "orchestra-repertoire-repeat-performance-autumn-2026"
       ],
       "aliases": [
         "한국 오케스트라 캐릭터",
@@ -2789,7 +2792,7 @@
       "title": "새소리는 어디까지 번역되었는가: 행동 신호에서 참새의 짹짹까지",
       "category": "자연과 과학",
       "status": "대화 내부의 연구 소개 총합 · 논문별 세부 분류·수치 재검증 필요",
-      "updated": "2026-10-25",
+      "updated": "2026-11-10",
       "summary": "종 인식·발성 유형·행동 신호·인간 언어 번역의 차이를 일본박새·금화조·한국 참새 연구로 검토하고, 참새 아홉 유형과 도시 소음 연구의 검증 경계를 정리한다.",
       "tags": [
         "새소리",
@@ -2802,7 +2805,9 @@
         "금화조"
       ],
       "source": "내부 총합 · 현재 보이는 대화 범위 · 외부 추가 조사 없음 · 일부 논문 분류와 지역 연구 주장 재검증 필요",
-      "related": [],
+      "related": [
+        "bird-vocal-patterns-neural-code-2026"
+      ],
       "aliases": [
         "새소리 번역",
         "새의 언어",
@@ -3196,7 +3201,7 @@
       "title": "2026 베니스 비엔날레: 'In Minor Keys'의 비평, 정치적 파열과 느린 평가",
       "category": "문화와 역사",
       "status": "대화에 제시된 비평·보도 정리 · 개별 원문·작품·사건 재검증 필요",
-      "updated": "2026-10-25",
+      "updated": "2026-11-10",
       "summary": "코요 쿠오의 사후 구현과 중앙전의 과밀·정치적 회피 논란, 대립하는 평론 및 주목받은 국가관·작품을 장기 평가의 문제와 연결한다.",
       "tags": [
         "2026 베니스 비엔날레",
@@ -3211,7 +3216,8 @@
       "source": "대화에 포함된 역사·전시·비평 자료를 총합한 지식 원고. 본 편집에서 신규 외부 조사 없음.",
       "related": [
         "venice-biennale-history",
-        "venice-biennale-sites-pavilions"
+        "venice-biennale-sites-pavilions",
+        "venice-biennale-autumn-criticism-2026"
       ],
       "aliases": [
         "2026 베니스 비엔날레",
@@ -4140,7 +4146,7 @@
       "title": "Pluto AI와 인간의 스타크래프트: 자가대전이 만든 다른 메타",
       "category": "AI와 사회",
       "status": "대화 기반 집필 · 경기 전적·개발자 발언·세부 수치 외부 재검증 필요",
-      "updated": "2026-10-26",
+      "updated": "2026-11-10",
       "summary": "Pluto의 개발자와 구조, 자가대전 강화학습, 한국 프로 대인전, API 조작 우위와 인간 메타의 충돌, 드롭·치즈 등 취약점과 인간의 적응, 개발자의 공개 반응 경계를 총합한다.",
       "tags": [
         "StarCraft",
@@ -4155,7 +4161,9 @@
         "인간-AI 대결"
       ],
       "source": "내부 총합·외부 미검증·2026-10-08까지 대화에서 확인된 공개 정보",
-      "related": [],
+      "related": [
+        "pluto-v2-release-aiide-withdrawal-2026"
+      ],
       "aliases": [
         "Pluto AI",
         "플루토 AI",
@@ -5158,7 +5166,7 @@
       "title": "세계 데이터센터의 연산 지리: GW·냉각·감가상각·투자 파이프라인",
       "category": "AI와 사회",
       "status": "대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요",
-      "updated": "2026-11-03",
+      "updated": "2026-11-10",
       "summary": "2025~2030년 지역별 GW·건설 파이프라인, 공실률의 모수, 공랭·액랭의 시설별 보급, 물리적 수명과 미국·중국·걸프·APAC 기업 생태계를 구분한다.",
       "tags": [
         "데이터센터",
@@ -5178,7 +5186,8 @@
         "owner-aligned-automated-power",
         "space-data-center-thermal-economics",
         "world-electricity-capacity-generation-consumption",
-        "x-auto-translation-serving-cost"
+        "x-auto-translation-serving-cost",
+        "data-center-grid-contracts-autumn-2026"
       ],
       "aliases": [
         "세계 데이터센터 GW",
@@ -5197,7 +5206,7 @@
       "title": "한국 데이터센터 유치의 실익: GW보다 적은 일자리, 전력보다 중요한 지역 몫",
       "category": "AI와 사회",
       "status": "대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요",
-      "updated": "2026-10-30",
+      "updated": "2026-11-10",
       "summary": "울산 SK–AWS·해남 솔라시도 등 한국 데이터센터의 계획과 상주인력, 건설기 효과, AWS 현장 직군, 전력·물·세수의 지역 순편익을 비교한다.",
       "tags": [
         "한국 데이터센터",
@@ -5213,7 +5222,8 @@
         "ai-cloud-ownership-rent",
         "ai-hidden-labor-feeding-machine-2026",
         "physical-cloud-reading-guide",
-        "ai-capital-labor-distribution"
+        "ai-capital-labor-distribution",
+        "data-center-grid-contracts-autumn-2026"
       ],
       "aliases": [
         "해남 데이터센터 일자리",
@@ -6512,6 +6522,156 @@
       "aliases": [
         "AI와 바빌론 찬가 복원",
         "메소포타미아 문헌 재발견 2026"
+      ],
+      "review_state": "reviewed",
+      "last_enriched_on": "2026-11-10"
+    },
+    {
+      "id": "pluto-v2-release-aiide-withdrawal-2026",
+      "path": "wiki/pluto-v2-release-aiide-withdrawal-2026.md",
+      "publish": true,
+      "order": 198,
+      "title": "플루토는 그 뒤 어떻게 바뀌었나: v2.0 공개와 AIIDE 2026 출전 철회",
+      "category": "AI와 사회",
+      "status": "2026년 가을 후속 조사",
+      "updated": "2026-11-10",
+      "summary": "2026년 10월 Pluto v2.0의 공개와 AIIDE 참가 철회를 공식 릴리스·운영 기록으로 확인하고, 상대별 빌드 선택·신경망 재훈련·실행 시간 조건을 구별한다.",
+      "tags": [
+        "Pluto v2.0",
+        "스타크래프트",
+        "AIIDE 2026",
+        "강화학습",
+        "대회 규칙",
+        "CPU 추론"
+      ],
+      "source": "2026-11-10 공개 자료 대조 · 2026-08-10 이후 자료 중심 · 열람 범위는 본문에 명시",
+      "related": [
+        "starcraft-pluto-ai"
+      ],
+      "aliases": [
+        "플루토 2.0 후속 개발",
+        "Pluto AIIDE 2026 참가 철회"
+      ],
+      "review_state": "reviewed",
+      "last_enriched_on": "2026-11-10"
+    },
+    {
+      "id": "orchestra-repertoire-repeat-performance-autumn-2026",
+      "path": "wiki/orchestra-repertoire-repeat-performance-autumn-2026.md",
+      "publish": true,
+      "order": 199,
+      "title": "살아 있는 작곡가의 22.5%: 2026년 가을 오케스트라 통계와 재연의 제도",
+      "category": "음악",
+      "status": "2026년 가을 후속 조사",
+      "updated": "2026-11-10",
+      "summary": "10월 공개된 미국 오케스트라 보고서에서 생존 작곡가 비중과 내부 구성의 차이를 읽고, Toulmin 신규 위촉 컨소시엄과 지역 재연 사례를 작품의 생애라는 질문에 연결한다.",
+      "tags": [
+        "오케스트라",
+        "생존 작곡가",
+        "ICD",
+        "Toulmin",
+        "위촉",
+        "재연",
+        "레퍼토리 통계"
+      ],
+      "source": "2026-11-10 공개 자료 대조 · 2026-08-10 이후 자료 중심 · 열람 범위는 본문에 명시",
+      "related": [
+        "orchestra-living-composers-canon",
+        "orchestra-repertoire-data-access",
+        "korean-orchestras-repertoire-2026"
+      ],
+      "aliases": [
+        "2026년 가을 미국 오케스트라 통계",
+        "현대음악의 재연 컨소시엄"
+      ],
+      "review_state": "reviewed",
+      "last_enriched_on": "2026-11-10"
+    },
+    {
+      "id": "data-center-grid-contracts-autumn-2026",
+      "path": "wiki/data-center-grid-contracts-autumn-2026.md",
+      "publish": true,
+      "order": 200,
+      "title": "AI 데이터센터는 누가 전기를 보장하는가: 2026년 가을의 접속 대기열과 비용 분담",
+      "category": "AI와 사회",
+      "status": "2026년 가을 후속 조사",
+      "updated": "2026-11-10",
+      "summary": "IEA의 10월 전력망 통합 보고서와 ERCOT·FERC 절차를 통해 접속 신청의 신뢰도, 비상 감축과 취소 비용의 부담을 살피고 국내 유치 사업의 계약 조사 항목을 제안한다.",
+      "tags": [
+        "데이터센터",
+        "전력망",
+        "IEA",
+        "ERCOT",
+        "FERC",
+        "접속 대기열",
+        "비용 분담"
+      ],
+      "source": "2026-11-10 공개 자료 대조 · 2026-08-10 이후 자료 중심 · 열람 범위는 본문에 명시",
+      "related": [
+        "data-center-world-capacity",
+        "korea-data-center-local-economy"
+      ],
+      "aliases": [
+        "2026년 가을 데이터센터 전력 계약",
+        "AI 데이터센터 접속 대기열과 취소 비용"
+      ],
+      "review_state": "reviewed",
+      "last_enriched_on": "2026-11-10"
+    },
+    {
+      "id": "venice-biennale-autumn-criticism-2026",
+      "path": "wiki/venice-biennale-autumn-criticism-2026.md",
+      "publish": true,
+      "order": 201,
+      "title": "비엔날레의 평가자는 누구인가: 2026년 가을 비평과 관객상, 폐막 프로그램",
+      "category": "문화와 역사",
+      "status": "2026년 가을 후속 조사",
+      "updated": "2026-11-10",
+      "summary": "9~10월의 베니스 비엔날레 비평, 관객상 투표 조건과 11월 9일 발표된 폐막 프로그램을 대조해 평가 주체·국가관의 대표성·작가 조직의 지속성을 살핀다.",
+      "tags": [
+        "베니스 비엔날레",
+        "In Minor Keys",
+        "관객상",
+        "Walid Raad",
+        "작가 공동체",
+        "미술 비평"
+      ],
+      "source": "2026-11-10 공개 자료 대조 · 2026-08-10 이후 자료 중심 · 열람 범위는 본문에 명시",
+      "related": [
+        "venice-biennale-2026-critical-reception"
+      ],
+      "aliases": [
+        "2026 베니스 비엔날레 가을 후속",
+        "Visitors Lions와 폐막 Assembly"
+      ],
+      "review_state": "reviewed",
+      "last_enriched_on": "2026-11-10"
+    },
+    {
+      "id": "bird-vocal-patterns-neural-code-2026",
+      "path": "wiki/bird-vocal-patterns-neural-code-2026.md",
+      "publish": true,
+      "order": 202,
+      "title": "새의 노래가 인간과 닮은 자리: 2026년 10월의 음향 비교와 앵무새 신경 연구",
+      "category": "자연과 과학",
+      "status": "2026년 가을 후속 조사",
+      "updated": "2026-11-10",
+      "summary": "10월 Science의 종간 음향 비교와 사랑앵무 신경 부호 프리프린트를 읽으며 발성 패턴·생산 제어·의미 결합의 증거를 구별하고 기존 참새 연구 질문과 연결한다.",
+      "tags": [
+        "새소리",
+        "사랑앵무",
+        "음향 패턴",
+        "발성 학습",
+        "신경 부호",
+        "동물 의사소통"
+      ],
+      "source": "2026-11-10 공개 자료 대조 · 2026-08-10 이후 자료 중심 · 열람 범위는 본문에 명시",
+      "related": [
+        "bird-vocalization-sparrow"
+      ],
+      "aliases": [
+        "2026년 10월 새 발성 연구",
+        "새의 음향 공통성과 앵무새 신경 부호"
       ],
       "review_state": "reviewed",
       "last_enriched_on": "2026-11-10"

@@ -64,3 +64,7 @@ Artnet에 소개된 리뷰는 전시 안에 비서구·흑인·글로벌 사우�
 - [The Art Newspaper — 비엔날레와 거래](https://www.theartnewspaper.com/2026/05/04/the-venice-biennale-has-long-been-a-sales-platformnow-no-one-is-pretending-otherwise)
 
 위 자료 목록은 비평의 서로 다른 입장을 찾아 읽기 위한 출발점이다. 여기 적힌 직접 인용·수치·작품 세부와 심사위원단 사건은 원문을 새로 열람해 검증한 결과가 아니므로, 세부 연대와 발언의 정확한 표현은 후속 확인이 필요하다. 다수의 매체를 병치했다고 미술계의 전체 합의가 확인된 것은 아니다.
+
+## 2026년 가을 후속 조사
+
+[2026년 가을 비평과 관객상·폐막 프로그램](./venice-biennale-autumn-criticism-2026.md)은 9~10월 평론과 10월 29일·11월 9일 공식 안내를 잇는다. 관객상의 평가 방식, 국가관의 대표성, 작가 공동체의 지속을 중심으로 논의를 갱신했다.

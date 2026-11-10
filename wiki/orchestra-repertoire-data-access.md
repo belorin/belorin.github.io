@@ -45,3 +45,7 @@
 관련 글: [생존 작곡가와 정전](./orchestra-living-composers-canon.md), [2026년 세계 명문 악단](./world-orchestras-repertoire-2026.md), [공연장과 시즌 제도](./orchestra-halls-seasons.md).
 
 검토 상태: 외부 재조사 없음. 데이터 제공 조건·국가별 악단 수·연도별 공연 수는 대화 안의 제시값이며 정확한 분모 재확인이 필요하다. CAI는 제안 모형이다.
+
+## 2026년 가을 후속 조사
+
+[2026년 가을의 새 보고서와 재연 조사](./orchestra-repertoire-repeat-performance-autumn-2026.md)에 미국 423개 악단 보고서의 범위와 작품의 생애를 추적할 항목을 정리했다.
