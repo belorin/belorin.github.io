@@ -1,4 +1,4 @@
-# 분류 지도: AI와 사회 (29)
+# 분류 지도: AI와 사회 (31)
 
 > 자동 생성. 직접 수정하지 않는다. [전체 지도로](../index.md)
 
@@ -20,7 +20,7 @@
 - `hank-asher-data-fusion-ai` 행크 애셔에서 팔란티어까지: 데이터 융합이 AI의 판단 인프라가 되기까지 — 행크 쇼와 AI, Hank Asher, 행크 애셔, 팔란티어와 데이터 융합 · 12절 · 6.5천 자 · 장부 10건
 - `korea-personal-data-lifecycle` 한국 개인정보의 생애: 수집·결합·유출·재사용의 경로 — 한국 개인정보 유통, 개인정보의 생애, 개인정보 유출 이후, 한국 데이터 브로커 · 25절 · 11.0천 자 · 장부 21건
 - `ai-compute-scaling-inference` AI는 계산이 많아지면 무엇이 달라지는가: 데이터센터와 추론 스케일링 — AI 데이터센터와 추론, test-time scaling, 추론 컴퓨트, AI 계산 스케일링 · 12절 · 8.1천 자 · 장부 10건
-- `japan-physical-ai-skill-transfer` 사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승 — 일본 피지컬 AI, 손지능, 숙련 전승 로봇, Physical AI Japan · 12절 · 7.8천 자 · 장부 11건
+- `japan-physical-ai-skill-transfer` 사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승 — 일본 피지컬 AI, 손지능, 숙련 전승 로봇, Physical AI Japan · 13절 · 8.0천 자 · 장부 11건
 - `ai-transition-policy-gap` AI 이행기의 정책 공백: 재교육이 해결하지 못하는 구조적 노동 대체 — AI 재교육의 한계, AI 이행기 정책 실패, 국제기구와 AI 경제 · 8절 · 5.4천 자 · 장부 7건
 - `starcraft-pluto-ai` Pluto AI와 인간의 스타크래프트: 자가대전이 만든 다른 메타 — Pluto AI, 플루토 AI, 스타크래프트 플루토, tscmoo Pluto · 21절 · 10.3천 자 · 장부 17건
 - `ai-hidden-labor-feeding-machine-2026` 『AI는 인간을 먹고 자란다』 이후: 보이지 않는 노동은 사라졌는가, 분화했는가 — AI는 인간을 먹고 자란다 이후, Feeding the Machine 2026 · 10절 · 7.4천 자 · 장부 10건
@@ -32,4 +32,6 @@
 - `korea-data-center-local-economy` 한국 데이터센터 유치의 실익: GW보다 적은 일자리, 전력보다 중요한 지역 몫 — 해남 데이터센터 일자리, 울산 SK AWS 지역경제, 데이터센터 지역고용 · 8절 · 5.7천 자 · 장부 7건
 - `physical-cloud-reading-guide` 클라우드의 물질성: 데이터센터·해저케이블·현장노동을 읽는 책과 르포 — 클라우드 물리 인프라 책, 데이터센터 르포 읽기, 클라우드 다큐 추천 · 15절 · 5.2천 자 · 장부 3건
 - `african-ai-annotation-labor-2026` 케냐·우간다·나이지리아의 AI 데이터 주석 노동: 라벨링이 사라진 자리에 무엇이 남았나 — 아프리카 AI 데이터 주석 노동, 케냐 우간다 나이지리아 데이터 라벨러 · 9절 · 8.1천 자 · 장부 12건
-- `ai-layoffs-global-remote-restructuring` AI·해외 인력과 개발 조직의 재편: 레이오프에서 프로젝트 인수인계까지 — 글로벌 개발자 레이오프, 아프리카 원격 개발자와 EOR · 8절 · 3.8천 자 · 장부 4건
+- `ai-layoffs-global-remote-restructuring` AI·해외 인력과 개발 조직의 재편: 레이오프에서 프로젝트 인수인계까지 — 글로벌 개발자 레이오프, 아프리카 원격 개발자와 EOR · 9절 · 4.0천 자 · 장부 4건
+- `ai-youth-hiring-productivity-evidence-2026` AI는 경력의 입구를 먼저 바꾸는가: 2026년 청년 고용과 개발 생산성의 증거 — AI 청년고용 2026 실증, 개발자 생산성과 채용의 차이 · 6절 · 5.0천 자 · 장부 4건
+- `japan-skill-transfer-evidence-2026` 손동작을 남기면 숙련도 남는가: 일본 피지컬 AI의 2026년 실증과 빈칸 — 일본 손지능 실증 2026, 숙련 데이터와 로봇 평가 · 9절 · 5.2천 자 · 장부 6건

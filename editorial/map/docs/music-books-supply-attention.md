@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `music-books-supply-attention` · 분류: 문화 · 공개 · 원고: [wiki/music-books-supply-attention.md](../../../wiki/music-books-supply-attention.md) · 5,124자 · 절 9개
+- id: `music-books-supply-attention` · 분류: 문화 · 공개 · 원고: [wiki/music-books-supply-attention.md](../../../wiki/music-books-supply-attention.md) · 5,302자 · 절 10개
 - 별칭: 문화 공급 과잉, 음악과 책의 생산 소비 격차
 - 요약: 음악과 종이책의 역사적 생산량, 개인 소비시간, AI 공급, 차트 집중과 큐레이션을 비교하며 관측과 추정의 경계를 검토한다.
 - 태그: 음악 생산량, 출판, 독서, 청취시간, 주의력, 생성 AI
-- 수정일: 2026-10-26 · 실제 증보일: 2026-10-26 · 검토: needs_review
-- 관련 문서: `living-notes`, `mood-led-music-listening`, `information-hype-wow-index`
+- 수정일: 2026-11-10 · 실제 증보일: 2026-10-26 · 검토: needs_review
+- 관련 문서: `living-notes`, `mood-led-music-listening`, `information-hype-wow-index`, `music-upload-listening-gap-2026`
 
 ## 절 목차
 
@@ -22,6 +22,7 @@
 - 생성 AI 이후: 텍스트와 물리적 책의 분리 · L51–55 · 326자 · `939bd13e` — AI가 텍스트를 대량 생성하는 것과 그 텍스트가 종이책으로 인쇄·제본·보관·운송되는 것은 별개다.
 - 해석의 경계와 남은 질문 · L57–61 · 349자 · `e0b5eef4` — 공급량은 작품의 질이나 다양성을 측정하지 않는다.
 - 대화에서 언급된 자료의 확인 대기 목록 · L63–70 · 292자 · `a89e9a14` — IFPI, *Engaging with Music* 관련 2023년 주당 청취시간 20.7시간.
+- 후속 조사 · L72–74 · 166자 · `5cd22722` — 최근 원자료로 음악 공급·개인 청취 용량을 재산정하고 업로드와 재생 비중을 구분한 후속 조사가 별도로 이어진다.
 
 ## 장부에 기록된 반영 지식
 

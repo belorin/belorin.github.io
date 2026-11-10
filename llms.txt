@@ -105,6 +105,8 @@
 - [클라우드의 물질성: 데이터센터·해저케이블·현장노동을 읽는 책과 르포](https://belorin.github.io/notes/physical-cloud-reading-guide/): Tubes, Where Cloud Is Ground, The Undersea Network, The Cloud Is Material 등과 AWS 오리건 영상·지역 르포·한국어 보고서를 비교한 독서·시청 길잡이.
 - [케냐·우간다·나이지리아의 AI 데이터 주석 노동: 라벨링이 사라진 자리에 무엇이 남았나](https://belorin.github.io/notes/african-ai-annotation-labor-2026/): 케냐의 대형 하청·발주처 이동, 우간다의 업체 고용과 원격 모집, 나이지리아의 언어 특화 평가를 비교하고 구인공고와 실제 고용·임금의 증거 차이를 구별한다.
 - [AI·해외 인력과 개발 조직의 재편: 레이오프에서 프로젝트 인수인계까지](https://belorin.github.io/notes/ai-layoffs-global-remote-restructuring/): 세계 개발자 감원의 구조와 한계, 진행 중 프로젝트의 외주 이관, 아프리카 원격 개발자·EOR·한국 개발자의 해외시장 가능성을 검토한다.
+- [AI는 경력의 입구를 먼저 바꾸는가: 2026년 청년 고용과 개발 생산성의 증거](https://belorin.github.io/notes/ai-youth-hiring-productivity-evidence-2026/): 미국·한국의 2026년 청년고용 연구와 METR 개발 생산성 실험을 대조해 채용·고용 이탈·생산성의 측정 단위와 인과 추정의 한계를 설명한다.
+- [손동작을 남기면 숙련도 남는가: 일본 피지컬 AI의 2026년 실증과 빈칸](https://belorin.github.io/notes/japan-skill-transfer-evidence-2026/): Kawasaki·Toyota·Honda·H2L·AIST의 공식 자료로 원격조작, 접촉 하드웨어, 힘 데이터, 내부 실험과 현장 숙련 전승의 차이를 확인한다.
 
 ### 철학
 
@@ -152,6 +154,7 @@
 - [빵과 서커스에서 금본위까지: 로마·산업혁명을 한 줄로 꿰는 역사관의 함정](https://belorin.github.io/notes/roman-industry-gold-standard-history/): 로마의 곡물 배급과 주화 절하, 동로마와 중세 상업혁명, 영국 산업화, 1931·1933·1934·1971년 금본위 이탈의 차이를 통해 직선적 경제사 서사를 비판
 - [풍요 속에서 자리를 잃은 사람들: 세계 대공황의 생활 기록과 동시대 소설](https://belorin.github.io/notes/great-depression-lived-experience-literature/): 물건이 풍부해도 소득과 사회적 자리를 잃는 역사적 경험을 독일·미국·영국·프랑스어권·스페인어권·브라질·일본의 1930~40년대 소설과 당대 르포, 후대 구술사를 통해 구분하고 번역 확인 수준 및 독서 경로를 정리한다.
 - [영어권 사탄 패닉의 형성과 쇠퇴: 아동 보호의 각성은 어떻게 비밀 의례 범죄의 공포가 되었나](https://belorin.github.io/notes/satanic-panic-english-speaking-history/): 1980년대 사탄 의례 학대 공황의 토양과 Michelle Remembers, McMartin, 미국 TV·영국·호주·뉴질랜드로의 확산, 1990년대 제도적 반증과 기억 연구의 후과를 구분한다.
+- [AI가 다시 읽게 한 바빌론: 새 찬가와 구약 비교의 증거 수준](https://belorin.github.io/notes/babylon-hymn-digital-reconstruction-2026/): 2025년 바빌론 찬가 학술판과 eBL의 문헌 복원, 수메르 홍수·딜문 원전을 대조하며 사본·전승·역사적 사건의 증거 수준과 남은 결락을 설명한다.
 
 ### 언어
 
@@ -210,6 +213,7 @@
 ### 문화
 
 - [음악과 책의 공급 폭발: 한 사람의 귀와 눈은 얼마나 따라갈 수 있는가](https://belorin.github.io/notes/music-books-supply-attention/): 음악과 종이책의 역사적 생산량, 개인 소비시간, AI 공급, 차트 집중과 큐레이션을 비교하며 관측과 추정의 경계를 검토한다.
+- [매일 쌓이는 음악과 한 사람의 귀: 2026년 공급·청취·추천의 다른 숫자](https://belorin.github.io/notes/music-upload-listening-gap-2026/): Luminate·IFPI·Deezer의 원자료로 음악 공급과 개인 청취 용량을 다시 계산하고 AI 업로드·재생·추천·검색 정책의 서로 다른 분모를 구분한다.
 
 ### 정치경제
 
@@ -219,6 +223,7 @@
 - [돈은 부채이지만 왜 곧장 약탈이 되지 않는가: 『왜 그들만 부자가 되는가』의 화폐론 비평](https://belorin.github.io/notes/money-credit-seigniorage-critique/): 은행의 예금통화 창조, 세뇨리지, 칸티용 효과, 생산적·투기적 신용, 통화정책과 불평등을 구별하며 『왜 그들만 부자가 되는가』의 논리적 비약을 검토
 - [에마뉘엘 토드와 『서방의 패배』: 프랑스의 논쟁적 지식인, 이란전 해석, 예언의 검증](https://belorin.github.io/notes/emmanuel-todd-western-defeat/): 에마뉘엘 토드의 프랑스 내 수용, 2024년 『서방의 패배』에 대한 상반된 서평, 2025년 핵무장론과 2026년 이란전 관련 주장, 자료 검증의 경계를 구분한다.
 - [부동산 국가가 무너질 때: 11개 시장의 폭락과 5년·10년의 후과](https://belorin.github.io/notes/housing-busts-global-korea/): 일본·홍콩·미국·유럽·태국·두바이·중국의 부동산 붕괴 사례를 정점, 5년·10년 후과, 신용·은행·고용·주거 접근성으로 비교하고 한국 붕괴론의 성립 조건을 검토한다.
+- [지갑은 빠듯한데 여행은 늘어난다: 2026년 한국의 소비와 자산 격차](https://belorin.github.io/notes/korea-household-consumption-divergence-2026/): 2026년 가계소득·실질소비·자산 양극화와 2025년 여행 통계를 구별하고, 생활 압박과 선택적 소비가 공존하는 경로 및 세대 비교의 조건을 검토한다.
 
 ### 기술·지식 아카이브
 

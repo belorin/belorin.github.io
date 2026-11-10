@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 685,
+  "edge_count": 697,
   "edges": [
     {
       "from": "living-notes",
@@ -1698,6 +1698,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "sumer-bible-primeval-history",
+      "to": "babylon-hymn-digital-reconstruction-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "europe-russia-escalation-signals-2026",
       "to": "war-escalation-local-to-world",
       "type": "related_to",
@@ -2088,6 +2094,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "japan-physical-ai-skill-transfer",
+      "to": "japan-skill-transfer-evidence-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "ai-transition-policy-gap",
       "to": "ai-economic-transition",
       "type": "related_to",
@@ -2132,6 +2144,12 @@
     {
       "from": "music-books-supply-attention",
       "to": "information-hype-wow-index",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "music-books-supply-attention",
+      "to": "music-upload-listening-gap-2026",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -3708,6 +3726,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "housing-busts-global-korea",
+      "to": "korea-household-consumption-divergence-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "african-ai-annotation-labor-2026",
       "to": "global-bpo-labor-geography",
       "type": "related_to",
@@ -3842,6 +3866,54 @@
     {
       "from": "ai-layoffs-global-remote-restructuring",
       "to": "african-ai-annotation-labor-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-layoffs-global-remote-restructuring",
+      "to": "ai-youth-hiring-productivity-evidence-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-youth-hiring-productivity-evidence-2026",
+      "to": "ai-layoffs-global-remote-restructuring",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-youth-hiring-productivity-evidence-2026",
+      "to": "korea-household-consumption-divergence-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "korea-household-consumption-divergence-2026",
+      "to": "housing-busts-global-korea",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "korea-household-consumption-divergence-2026",
+      "to": "ai-youth-hiring-productivity-evidence-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "japan-skill-transfer-evidence-2026",
+      "to": "japan-physical-ai-skill-transfer",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "music-upload-listening-gap-2026",
+      "to": "music-books-supply-attention",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "babylon-hymn-digital-reconstruction-2026",
+      "to": "sumer-bible-primeval-history",
       "type": "related_to",
       "basis": "manifest.related"
     },

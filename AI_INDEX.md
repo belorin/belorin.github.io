@@ -196,7 +196,7 @@
 - **[AI는 계산이 많아지면 무엇이 달라지는가: 데이터센터와 추론 스케일링](wiki/ai-compute-scaling-inference.md)** · 별칭: AI 데이터센터와 추론, test-time scaling, 추론 컴퓨트, AI 계산 스케일링 · 수정: 2026-11-03 · 검토: 대화 내 확인 자료 총합 · 데이터센터 규모·기업 계획·추론 연구 세부 외부 재검증 필요
   - AI 데이터센터 증설을 단순한 더 큰 사전학습이 아니라 test-time compute, 병렬 탐색·검증, 과학·코딩·피지컬 AI 계산의 확대로 읽고 계산량의 한계를 함께 정리한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-compute-scaling-inference/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-compute-scaling-inference.md)
-- **[사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승](wiki/japan-physical-ai-skill-transfer.md)** · 별칭: 일본 피지컬 AI, 손지능, 숙련 전승 로봇, Physical AI Japan · 수정: 2026-10-30 · 검토: 대화 내 확인 자료 총합 · 기업 발표·정부 목표·국가 비교 해석 외부 재검증 필요
+- **[사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승](wiki/japan-physical-ai-skill-transfer.md)** · 별칭: 일본 피지컬 AI, 손지능, 숙련 전승 로봇, Physical AI Japan · 수정: 2026-11-10 · 검토: 대화 내 확인 자료 총합 · 기업 발표·정부 목표·국가 비교 해석 외부 재검증 필요
   - 가와사키 Successor와 Honda 다지 핸드부터 Toyota·Yaskawa·FANUC·AIST까지, 일본이 숙련자의 손동작·힘 조절을 로봇 학습 데이터로 옮기려는 흐름을 정리한다.
   - [문서 페이지](https://belorin.github.io/notes/japan-physical-ai-skill-transfer/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japan-physical-ai-skill-transfer.md)
 - **[AI 이행기의 정책 공백: 재교육이 해결하지 못하는 구조적 노동 대체](wiki/ai-transition-policy-gap.md)** · 별칭: AI 재교육의 한계, AI 이행기 정책 실패, 국제기구와 AI 경제 · 수정: 2026-10-30 · 검토: 조건부 정책 시뮬레이션·외부 미검증
@@ -232,9 +232,15 @@
 - **[케냐·우간다·나이지리아의 AI 데이터 주석 노동: 라벨링이 사라진 자리에 무엇이 남았나](wiki/african-ai-annotation-labor-2026.md)** · 별칭: 아프리카 AI 데이터 주석 노동, 케냐 우간다 나이지리아 데이터 라벨러 · 수정: 2026-11-03 · 검토: 대화 기반 총합·고용 추세·공고 조건 외부 재검증 필요
   - 케냐의 대형 하청·발주처 이동, 우간다의 업체 고용과 원격 모집, 나이지리아의 언어 특화 평가를 비교하고 구인공고와 실제 고용·임금의 증거 차이를 구별한다.
   - [문서 페이지](https://belorin.github.io/notes/african-ai-annotation-labor-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/african-ai-annotation-labor-2026.md)
-- **[AI·해외 인력과 개발 조직의 재편: 레이오프에서 프로젝트 인수인계까지](wiki/ai-layoffs-global-remote-restructuring.md)** · 별칭: 글로벌 개발자 레이오프, 아프리카 원격 개발자와 EOR · 수정: 2026-11-04 · 검토: 산업·노동 분석
+- **[AI·해외 인력과 개발 조직의 재편: 레이오프에서 프로젝트 인수인계까지](wiki/ai-layoffs-global-remote-restructuring.md)** · 별칭: 글로벌 개발자 레이오프, 아프리카 원격 개발자와 EOR · 수정: 2026-11-10 · 검토: 산업·노동 분석
   - 세계 개발자 감원의 구조와 한계, 진행 중 프로젝트의 외주 이관, 아프리카 원격 개발자·EOR·한국 개발자의 해외시장 가능성을 검토한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-layoffs-global-remote-restructuring/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-layoffs-global-remote-restructuring.md)
+- **[AI는 경력의 입구를 먼저 바꾸는가: 2026년 청년 고용과 개발 생산성의 증거](wiki/ai-youth-hiring-productivity-evidence-2026.md)** · 별칭: AI 청년고용 2026 실증, 개발자 생산성과 채용의 차이 · 수정: 2026-11-10 · 검토: 외부 후속 조사 · 관측·해석·미확정 범위 구분
+  - 미국·한국의 2026년 청년고용 연구와 METR 개발 생산성 실험을 대조해 채용·고용 이탈·생산성의 측정 단위와 인과 추정의 한계를 설명한다.
+  - [문서 페이지](https://belorin.github.io/notes/ai-youth-hiring-productivity-evidence-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-youth-hiring-productivity-evidence-2026.md)
+- **[손동작을 남기면 숙련도 남는가: 일본 피지컬 AI의 2026년 실증과 빈칸](wiki/japan-skill-transfer-evidence-2026.md)** · 별칭: 일본 손지능 실증 2026, 숙련 데이터와 로봇 평가 · 수정: 2026-11-10 · 검토: 외부 후속 조사 · 관측·해석·미확정 범위 구분
+  - Kawasaki·Toyota·Honda·H2L·AIST의 공식 자료로 원격조작, 접촉 하드웨어, 힘 데이터, 내부 실험과 현장 숙련 전승의 차이를 확인한다.
+  - [문서 페이지](https://belorin.github.io/notes/japan-skill-transfer-evidence-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japan-skill-transfer-evidence-2026.md)
 
 ## 철학
 
@@ -301,7 +307,7 @@
 - **[버닝맨은 무엇을 수출했나: 지역 번즈와 임시도시의 문화 프로토콜](wiki/burning-man-regional-network.md)** · 별칭: Regional Burn, Burning Man Regional Network, AfrikaBurn, Midburn, Kiwiburn, Burning Japan · 수정: 2026-10-23 · 검토: 지역 네트워크 수치·행사별 연혁 재검증 필요
   - AfrikaBurn·Midburn·Kiwiburn·Burning Japan을 통해 사막의 외형보다 참여·선물·자율운영·흔적 지우기라는 문화 프로토콜이 어떻게 현지화되는지 살핀다.
   - [문서 페이지](https://belorin.github.io/notes/burning-man-regional-network/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/burning-man-regional-network.md)
-- **[수메르 재발견과 구약 원초사의 역사화: 홍수·에덴·바벨탑은 어떻게 재배치되었나](wiki/sumer-bible-primeval-history.md)** · 별칭: 수메르와 구약, 창세기 원초사, 메소포타미아와 성경, 노아의 홍수와 수메르, 에덴과 딜문 · 수정: 2026-10-25 · 검토: 대화 중 확인된 고대근동·성서학 자료 요약 기반 · 세부 연대와 학계 견해 외부 재검증 필요
+- **[수메르 재발견과 구약 원초사의 역사화: 홍수·에덴·바벨탑은 어떻게 재배치되었나](wiki/sumer-bible-primeval-history.md)** · 별칭: 수메르와 구약, 창세기 원초사, 메소포타미아와 성경, 노아의 홍수와 수메르, 에덴과 딜문 · 수정: 2026-11-10 · 검토: 대화 중 확인된 고대근동·성서학 자료 요약 기반 · 세부 연대와 학계 견해 외부 재검증 필요
   - 수메르·아카드·바빌로니아 문헌의 재발견이 창세기 1~11장을 문자 그대로의 역사로 확정한 것이 아니라, 홍수·에덴·바벨탑을 고대 서아시아 원초사 전통과 실제 역사적 배경 속에 재배치한 과정을 설명한다.
   - [문서 페이지](https://belorin.github.io/notes/sumer-bible-primeval-history/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/sumer-bible-primeval-history.md)
 - **[국지전은 어떻게 세계전쟁이 되는가: 1754·1618·1914·1939·1950과 2026년 다중 전선](wiki/war-escalation-local-to-world.md)** · 별칭: 국지전에서 세계대전, 전쟁의 연결, 1914 확전 모형 · 수정: 2026-10-26 · 검토: 역사 사례와 2026년 정세 비교·대화 내 자료 기반·세부 재검증 필요
@@ -358,6 +364,9 @@
 - **[영어권 사탄 패닉의 형성과 쇠퇴: 아동 보호의 각성은 어떻게 비밀 의례 범죄의 공포가 되었나](wiki/satanic-panic-english-speaking-history.md)** · 별칭: 사탄 패닉 시대, Satanic Panic, 영어권 사탄 패닉, 사탄 의례 학대의 역사, 사탄 패닉의 역사, 사탄교 공황 · 수정: 2026-11-03 · 검토: 역사·사회적 공황과 수사방법의 대화 기반 종합 / 개별 주장·통계에 관해 외부 신규 재검증 없음
   - 1980년대 사탄 의례 학대 공황의 토양과 Michelle Remembers, McMartin, 미국 TV·영국·호주·뉴질랜드로의 확산, 1990년대 제도적 반증과 기억 연구의 후과를 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/satanic-panic-english-speaking-history/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/satanic-panic-english-speaking-history.md)
+- **[AI가 다시 읽게 한 바빌론: 새 찬가와 구약 비교의 증거 수준](wiki/babylon-hymn-digital-reconstruction-2026.md)** · 별칭: AI와 바빌론 찬가 복원, 메소포타미아 문헌 재발견 2026 · 수정: 2026-11-10 · 검토: 외부 후속 조사 · 관측·해석·미확정 범위 구분
+  - 2025년 바빌론 찬가 학술판과 eBL의 문헌 복원, 수메르 홍수·딜문 원전을 대조하며 사본·전승·역사적 사건의 증거 수준과 남은 결락을 설명한다.
+  - [문서 페이지](https://belorin.github.io/notes/babylon-hymn-digital-reconstruction-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/babylon-hymn-digital-reconstruction-2026.md)
 
 ## 언어
 
@@ -493,9 +502,12 @@
 
 ## 문화
 
-- **[음악과 책의 공급 폭발: 한 사람의 귀와 눈은 얼마나 따라갈 수 있는가](wiki/music-books-supply-attention.md)** · 별칭: 문화 공급 과잉, 음악과 책의 생산 소비 격차 · 수정: 2026-10-26 · 검토: 대화 내부 추정·검토 필요
+- **[음악과 책의 공급 폭발: 한 사람의 귀와 눈은 얼마나 따라갈 수 있는가](wiki/music-books-supply-attention.md)** · 별칭: 문화 공급 과잉, 음악과 책의 생산 소비 격차 · 수정: 2026-11-10 · 검토: 대화 내부 추정·검토 필요
   - 음악과 종이책의 역사적 생산량, 개인 소비시간, AI 공급, 차트 집중과 큐레이션을 비교하며 관측과 추정의 경계를 검토한다.
   - [문서 페이지](https://belorin.github.io/notes/music-books-supply-attention/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/music-books-supply-attention.md)
+- **[매일 쌓이는 음악과 한 사람의 귀: 2026년 공급·청취·추천의 다른 숫자](wiki/music-upload-listening-gap-2026.md)** · 별칭: 음악 업로드와 실제 청취, 하루치 신곡과 5년의 청취 · 수정: 2026-11-10 · 검토: 외부 후속 조사 · 관측·해석·미확정 범위 구분
+  - Luminate·IFPI·Deezer의 원자료로 음악 공급과 개인 청취 용량을 다시 계산하고 AI 업로드·재생·추천·검색 정책의 서로 다른 분모를 구분한다.
+  - [문서 페이지](https://belorin.github.io/notes/music-upload-listening-gap-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/music-upload-listening-gap-2026.md)
 
 ## 정치경제
 
@@ -514,9 +526,12 @@
 - **[에마뉘엘 토드와 『서방의 패배』: 프랑스의 논쟁적 지식인, 이란전 해석, 예언의 검증](wiki/emmanuel-todd-western-defeat.md)** · 별칭: Emmanuel Todd, La Défaite de l'Occident, 에마뉘엘 토드 서방의 패배 · 수정: 2026-11-02 · 검토: 대화 기반 총합·발언과 언론 평가의 원문 재검증 필요
   - 에마뉘엘 토드의 프랑스 내 수용, 2024년 『서방의 패배』에 대한 상반된 서평, 2025년 핵무장론과 2026년 이란전 관련 주장, 자료 검증의 경계를 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/emmanuel-todd-western-defeat/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/emmanuel-todd-western-defeat.md)
-- **[부동산 국가가 무너질 때: 11개 시장의 폭락과 5년·10년의 후과](wiki/housing-busts-global-korea.md)** · 별칭: 세계 부동산 폭락 비교, 부동산 버블 붕괴의 후과, 부동산 붕괴 5년 10년, 한국 부동산 붕괴론의 국제 비교 · 수정: 2026-11-03 · 검토: 대화 기반 국가별 부동산 붕괴와 금융 후과 비교 / 국가별 가격지수·연도·수치 외부 재검증 필요
+- **[부동산 국가가 무너질 때: 11개 시장의 폭락과 5년·10년의 후과](wiki/housing-busts-global-korea.md)** · 별칭: 세계 부동산 폭락 비교, 부동산 버블 붕괴의 후과, 부동산 붕괴 5년 10년, 한국 부동산 붕괴론의 국제 비교 · 수정: 2026-11-10 · 검토: 대화 기반 국가별 부동산 붕괴와 금융 후과 비교 / 국가별 가격지수·연도·수치 외부 재검증 필요
   - 일본·홍콩·미국·유럽·태국·두바이·중국의 부동산 붕괴 사례를 정점, 5년·10년 후과, 신용·은행·고용·주거 접근성으로 비교하고 한국 붕괴론의 성립 조건을 검토한다.
   - [문서 페이지](https://belorin.github.io/notes/housing-busts-global-korea/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/housing-busts-global-korea.md)
+- **[지갑은 빠듯한데 여행은 늘어난다: 2026년 한국의 소비와 자산 격차](wiki/korea-household-consumption-divergence-2026.md)** · 별칭: 불황과 여행 소비, 한국 가계 소비의 분화 2026 · 수정: 2026-11-10 · 검토: 외부 후속 조사 · 관측·해석·미확정 범위 구분
+  - 2026년 가계소득·실질소비·자산 양극화와 2025년 여행 통계를 구별하고, 생활 압박과 선택적 소비가 공존하는 경로 및 세대 비교의 조건을 검토한다.
+  - [문서 페이지](https://belorin.github.io/notes/korea-household-consumption-divergence-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-household-consumption-divergence-2026.md)
 
 ## 기술·지식 아카이브
 

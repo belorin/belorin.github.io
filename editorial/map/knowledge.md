@@ -3,9 +3,9 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1247개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1275개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
-## 보류 항목 (18)
+## 보류 항목 (21)
 
 - 경제 시뮬레이션의 기존 전제·수치·학파별 논증 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 해당 원자료를 확인하지 못해 기존 논증의 복원과 완전 보존 여부를 판정할 수 없음. 새 공개 자료의 보충 분석으로 대체 완료 처리하지 않음.
 - 기존 종합·수정 원고의 상세 내용 대조 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 본문이 아닌 참조 표시만 확인되어 기존 원고의 세부와 현재 증보 사이의 중복·차이를 검수할 수 없음.
@@ -25,8 +25,11 @@
 - 2015~2025 외국 장편 한국어 번역본의 서지 원본 대조 → 반영 위치 없음 · `ing-20261103-gpi-foreign-novels` · pending — 대화에 제시된 서점 검색 진술과 사용자의 정정만 확보되어, 실제 출판사·도서관의 최신 원본 확인은 보류
 - 운영 데이터 AI 코파일럿의 실제 구현 성능·비용·배포 검증 → 반영 위치 없음 · `ing-20261103-operations-ai-copilot-portfolio` · pending — 아이디어와 설계·예시만 있으며 배포 URL, 실제 DB, 평가 결과와 현재 과금 조건이 확인되지 않음
 - X 번역 아키텍처와 실제 GPU·캐시 운영 실측 → 반영 위치 없음 · `ing-20261103-x-auto-translation-serving` · pending — 현재 접근 가능한 제품 발표와 문헌만으로 내부 설계·캐시 적중률·모델·GPU 할당량과 기존 운영비 대비 증분을 확정할 수 없음
+- 한국 소비의 연령·소득·자산 교차 원자료와 동기 검증 → 반영 위치 없음 · `ing-20261110-selected-external-followups` · pending — 확인한 공식 집계만으로 세대별 여행비와 소비 동기의 인과관계를 추정할 수 없어 원자료 분석·면접은 미실시로 남김
+- 일본 숙련 전승 로봇의 독립 현장 재현과 총비용 효과 → 반영 위치 없음 · `ing-20261110-selected-external-followups` · pending — 공식 기능·자체 시험을 확인했으나 독립 장기 운전 자료를 확보하지 못함
+- 고대 홍수층 동시성과 구약 관련 교과서 수용사 → 반영 위치 없음 · `ing-20261110-selected-external-followups` · pending — 문헌·학술판의 확인 범위 밖이며 지질 자료와 교과서의 별도 조사가 필요함
 
-## AI와 사회 (222)
+## AI와 사회 (232)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -252,8 +255,18 @@
 - 진행 중 모바일 게임 프로젝트의 외주 이관 단계 → `ai-layoffs-global-remote-restructuring` § 끝나지 않은 프로젝트를 다른 팀에 넘기는 장면 · `ing-20261104-local-llm-global-developer-work`
 - 해외 인력·AI·업무 축소와 조직 감축의 구분 → `ai-layoffs-global-remote-restructuring` § 경영 성과와 사회적 성과의 다른 계산 · `ing-20261104-local-llm-global-developer-work`
 - 한국 개발자의 해외 원격 인력시장 진입 가능성 → `ai-layoffs-global-remote-restructuring` § 한국 개발자를 해외에 판매한다는 역전 · `ing-20261104-local-llm-global-developer-work`
+- 미국 AI 노출 청년고용의 상대 격차와 비인과 해석 → `ai-youth-hiring-productivity-evidence-2026` § 미국의 19%는 무엇의 감소인가 · `ing-20261110-selected-external-followups`
+- 한국 청년고용의 업종 집중과 채용·이탈 구분 → `ai-youth-hiring-productivity-evidence-2026` § 한국에서는 채용 감소와 고용 이탈이 함께 보인다 · `ing-20261110-selected-external-followups`
+- METR 초기 실험과 후속 연구의 선택 편향 → `ai-youth-hiring-productivity-evidence-2026` § 개발자는 빨라졌는가: 유명한 19% 실험의 유효기간 · `ing-20261110-selected-external-followups`
+- 과업 생산성과 노동수요·경력 형성의 구별 → `ai-youth-hiring-productivity-evidence-2026` § 세 연구를 같은 숫자로 합치지 않는 법 · `ing-20261110-selected-external-followups`
+- Plesio의 원격조작과 자율 운전 검증 구분 → `japan-skill-transfer-evidence-2026` § 가와사키: 위험한 자리에 사람이 서지 않아도 되는 단계 · `ing-20261110-selected-external-followups`
+- ELEY의 접촉 하드웨어와 역구동성 → `japan-skill-transfer-evidence-2026` § Toyota: 학습시킬 데이터 이전에 접촉을 견디는 몸이 필요하다 · `ing-20261110-selected-external-followups`
+- Honda 핸드 사양과 작업 자율성의 구별 → `japan-skill-transfer-evidence-2026` § Honda: 촉각 채널 수는 무엇을 증명하는가 · `ing-20261110-selected-external-followups`
+- H2L 내부 실험의 성공률과 조건 차이 → `japan-skill-transfer-evidence-2026` § H2L의 15분·95%를 읽는 방법 · `ing-20261110-selected-external-followups`
+- AIST 학습·데이터·평가 연구의 역할 → `japan-skill-transfer-evidence-2026` § AIST: 시범을 더 모으는 것과 실패 조건을 시험하는 것 · `ing-20261110-selected-external-followups`
+- 숙련 데이터의 상태·개입·복구 기록 제안 → `japan-skill-transfer-evidence-2026` § 숙련을 보존하려면 성공 동작 옆에 무엇을 남겨야 하는가 · `ing-20261110-selected-external-followups`
 
-## 문화와 역사 (184)
+## 문화와 역사 (189)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -441,6 +454,11 @@
 - 사탄 대음모의 비입증과 실제 아동학대의 존속 → `satanic-panic-english-speaking-history` § '사탄 패닉은 거짓이었다'라는 문장의 위험 · `ing-20261103-satanic-panic-teresa`
 - 1973~2022년 사탄 패닉의 확산·판결 교정 연대기 → `satanic-panic-english-speaking-history` § 연대기: 공포의 흥망과 사법적 후과 · `ing-20261103-satanic-panic-teresa`
 - 피해자 보호와 형사 입증의 서로 다른 기준 → `satanic-panic-english-speaking-history` § 남는 질문: 피해자를 믿는 것과 사실을 확인하는 것은 충돌해야 하는가 · `ing-20261103-satanic-panic-teresa`
+- 바빌론 찬가 학술판의 사본과 부분 복원 → `babylon-hymn-digital-reconstruction-2026` § 2025년에 발표된 것은 어떤 작품인가 · `ing-20261110-selected-external-followups`
+- AI 파편 탐색과 학술적 문헌 확정 구분 → `babylon-hymn-digital-reconstruction-2026` § AI가 한 일과 연구자가 확인한 일 · `ing-20261110-selected-external-followups`
+- 수메르 홍수 원전의 내용과 명시적 결락 → `babylon-hymn-digital-reconstruction-2026` § 홍수 전승에서는 실제로 어디까지 읽을 수 있는가 · `ing-20261110-selected-external-followups`
+- 딜문 모티프와 에덴 위치 입증의 차이 → `babylon-hymn-digital-reconstruction-2026` § 딜문을 읽는 것과 에덴의 좌표를 찾는 것은 다르다 · `ing-20261110-selected-external-followups`
+- 사본·전승·사건·해석의 증거 수준 → `babylon-hymn-digital-reconstruction-2026` § 사건·사본·전승·해석을 구별하는 증거표 · `ing-20261110-selected-external-followups`
 
 ## 사회와 제도 (138)
 
@@ -1013,7 +1031,7 @@
 - 국소적 열평형과 우주 열죽음의 구별 → `deleuze-thermodynamics-implication-equilibrium` § 그러나 결국 완전히 침묵한다면 · `ing-20261103-deleuze-entropy-implication`
 - 발생의 우선권과 최종 소멸의 양립 문제 → `deleuze-thermodynamics-implication-equilibrium` § 그러나 결국 완전히 침묵한다면 · `ing-20261103-deleuze-entropy-implication`
 
-## 정치경제 (45)
+## 정치경제 (50)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -1062,6 +1080,11 @@
 - 한국 부동산 붕괴론의 취약성·지역 분화와 조건부 경로 → `housing-busts-global-korea` § 한국의 붕괴론을 판단하는 법 · `ing-20261103-housing-busts-global`
 - 국제 비교 통계와 5년·10년 정량 자료의 검증 경계 → `housing-busts-global-korea` § 자료의 경계와 후속 검증 과제 · `ing-20261103-housing-busts-global`
 - 부동산 금융에서 생산·투기·연명 신용의 충격 경로 → `money-credit-seigniorage-critique` § 부동산의 담보가 부실해진 뒤에도 신용의 종류는 남는다 · `ing-20261103-housing-busts-global`
+- 2026년 2분기 가계소득과 실질소비의 다른 증가율 → `korea-household-consumption-divergence-2026` § 명목소득은 늘었지만 실질소비는 거의 제자리였다 · `ing-20261110-selected-external-followups`
+- 소득 분위별 소비성향과 과소비 판단의 차이 → `korea-household-consumption-divergence-2026` § 평균 69.2% 안에는 125.3%와 60.3%가 함께 있다 · `ing-20261110-selected-external-followups`
+- 자산·소득 하위 가구 내 청년 비중의 분모 → `korea-household-consumption-divergence-2026` § 세대 차이는 나이만의 문제가 아니라 자산 진입의 문제다 · `ing-20261110-selected-external-followups`
+- 2025년 국내여행 통계의 시점과 조사 범위 → `korea-household-consumption-divergence-2026` § 여행 통계가 보여주는 것과 보여주지 않는 것 · `ing-20261110-selected-external-followups`
+- 생활 압박과 선택적 소비를 설명하는 경쟁 가설 → `korea-household-consumption-divergence-2026` § 생활의 압박과 선택적 지출을 함께 설명하는 네 가지 가설 · `ing-20261110-selected-external-followups`
 
 ## 게임 (31)
 
@@ -1303,6 +1326,21 @@
 - 분변미생물 이식과 Vowst의 치료 맥락·정착 위험 → `gut-microbiome-colonization` § 분변미생물 이식: 단일 방문객이 아니라 생태계의 일부를 옮기기 · `ing-20261025-fruit-gut-horror`
 - 인간을 각기 다른 내부 생물권을 품은 행성으로 보는 유비 → `gut-microbiome-colonization` § 사람이 하나의 행성이라는 비유의 유효 범위 · `ing-20261025-fruit-gut-horror`
 
+## 문화 (10)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 음악과 책의 공급량과 개인 소비능력 → `music-books-supply-attention` § 생산량과 소비능력은 서로 다른 지표다 · `ing-20261025-music-books-attention`
+- 음악 생산량과 청취시간의 시나리오 → `music-books-supply-attention` § 인간의 귀: 음악 청취시간의 유한성 · `ing-20261025-music-books-attention`
+- 종이책 신간과 평생 독서량 → `music-books-supply-attention` § 책: 공급 과잉의 역사는 음악보다 오래되었다 · `ing-20261025-music-books-attention`
+- 취향 가설에 따른 큐레이션과 문화적 선택의 병목 → `music-books-supply-attention` § 서로 다른 두 과잉의 역사 · `ing-20261025-mood-led-music-listening`
+- 문화 공급 과잉에서 뉴스 중요도 판단으로의 확장 → `music-books-supply-attention` § 서로 다른 두 과잉의 역사 · `ing-20261026-information-hype-wow-index`
+- 2025년 ISRC 전달량과 작품 수의 차이 → `music-upload-listening-gap-2026` § 하루 10만 6천 개는 작곡된 노래의 수가 아니다 · `ing-20261110-selected-external-followups`
+- 음악 하루 공급과 개인 청취 용량의 명시적 산술 → `music-upload-listening-gap-2026` § 하루치 새 녹음을 듣는 데 약 5년이 걸리는 계산 · `ing-20261110-selected-external-followups`
+- Deezer AI 업로드·재생·부정재생 분모 구별 → `music-upload-listening-gap-2026` § Deezer에서는 절반 이상 들어와도 1~3%만 재생된다 · `ing-20261110-selected-external-followups`
+- 서로 다른 음악 플랫폼 수치의 합산 불가 → `music-upload-listening-gap-2026` § 9만과 10만 6천을 더하거나 나누면 왜 안 되는가 · `ing-20261110-selected-external-followups`
+- Deezer 검색 필터의 발표와 도입 완료 구별 → `music-upload-listening-gap-2026` § 추천을 넘어 검색에서도 걸러내는 정책 · `ing-20261110-selected-external-followups`
+
 ## 질문 (9)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -1341,16 +1379,6 @@
 - 수면 기억·정서·TMR·AI 꿈 보고 분석 → `freud-dreams-modern-science` § 기억, 정서, 창의성과 꿈 공학 · `ing-20261026-dreams-lacan-philosophy-power`
 - 악몽 치료와 정신역동적 꿈 작업 → `freud-dreams-modern-science` § 치료실의 꿈과 악몽 · `ing-20261026-dreams-lacan-philosophy-power`
 - 무의식·자아·초자아·원초아의 현대적 해석 → `freud-dreams-modern-science` § 이드·자아·초자아와 무의식은 지금 어디에 있는가 · `ing-20261026-dreams-lacan-philosophy-power`
-
-## 문화 (5)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 음악과 책의 공급량과 개인 소비능력 → `music-books-supply-attention` § 생산량과 소비능력은 서로 다른 지표다 · `ing-20261025-music-books-attention`
-- 음악 생산량과 청취시간의 시나리오 → `music-books-supply-attention` § 인간의 귀: 음악 청취시간의 유한성 · `ing-20261025-music-books-attention`
-- 종이책 신간과 평생 독서량 → `music-books-supply-attention` § 책: 공급 과잉의 역사는 음악보다 오래되었다 · `ing-20261025-music-books-attention`
-- 취향 가설에 따른 큐레이션과 문화적 선택의 병목 → `music-books-supply-attention` § 서로 다른 두 과잉의 역사 · `ing-20261025-mood-led-music-listening`
-- 문화 공급 과잉에서 뉴스 중요도 판단으로의 확장 → `music-books-supply-attention` § 서로 다른 두 과잉의 역사 · `ing-20261026-information-hype-wow-index`
 
 ## 창작 (5)
 

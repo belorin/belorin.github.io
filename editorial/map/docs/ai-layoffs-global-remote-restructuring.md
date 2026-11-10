@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `ai-layoffs-global-remote-restructuring` · 분류: AI와 사회 · 공개 · 원고: [wiki/ai-layoffs-global-remote-restructuring.md](../../../wiki/ai-layoffs-global-remote-restructuring.md) · 3,835자 · 절 8개
+- id: `ai-layoffs-global-remote-restructuring` · 분류: AI와 사회 · 공개 · 원고: [wiki/ai-layoffs-global-remote-restructuring.md](../../../wiki/ai-layoffs-global-remote-restructuring.md) · 4,015자 · 절 9개
 - 별칭: 글로벌 개발자 레이오프, 아프리카 원격 개발자와 EOR
 - 요약: 세계 개발자 감원의 구조와 한계, 진행 중 프로젝트의 외주 이관, 아프리카 원격 개발자·EOR·한국 개발자의 해외시장 가능성을 검토한다.
 - 태그: 레이오프, 개발자, 해외 원격 채용, EOR, 아프리카, 게임업계, AI 자동화
-- 수정일: 2026-11-04 · 실제 증보일: 2026-11-04 · 검토: needs_review
-- 관련 문서: `global-bpo-labor-geography`, `ai-economic-transition`, `african-ai-annotation-labor-2026`
+- 수정일: 2026-11-10 · 실제 증보일: 2026-11-04 · 검토: needs_review
+- 관련 문서: `global-bpo-labor-geography`, `ai-economic-transition`, `african-ai-annotation-labor-2026`, `ai-youth-hiring-productivity-evidence-2026`
 
 ## 절 목차
 
@@ -22,6 +22,7 @@
 - 한국 개발자를 해외에 판매한다는 역전 · L35–37 · 284자 · `dc3a6242` — 외국 개발자의 예상 원격 연봉이 한국 중소기업 저연차 급여보다 높다는 사실은 임금이 국적만으로 정해지지 않는다는 점을 드러낸다.
 - 경영 성과와 사회적 성과의 다른 계산 · L39–43 · 374자 · `091f6cc8` — 회사 차원에서는 인건비 절감과 매출 유지가 성공 지표가 될 수 있다.
 - 근거와 한계 · L45–47 · 171자 · `bd8d6812` — 2026년 감원 숫자와 기업 사례, EOR 요금, 해외 개발자 급여, 각국 개발자 수는 대화 내 보도·집계와 설명을 토대로 재구성했다.
+- 후속 조사 · L49–51 · 168자 · `e63f422f` — 2026년 미국·한국의 청년고용 연구와 개발 생산성 실험을 대조한 후속 조사가 별도로 이어진다.
 
 ## 장부에 기록된 반영 지식
 

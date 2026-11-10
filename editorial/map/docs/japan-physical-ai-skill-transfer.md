@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `japan-physical-ai-skill-transfer` · 분류: AI와 사회 · 공개 · 원고: [wiki/japan-physical-ai-skill-transfer.md](../../../wiki/japan-physical-ai-skill-transfer.md) · 7,813자 · 절 12개
+- id: `japan-physical-ai-skill-transfer` · 분류: AI와 사회 · 공개 · 원고: [wiki/japan-physical-ai-skill-transfer.md](../../../wiki/japan-physical-ai-skill-transfer.md) · 7,995자 · 절 13개
 - 별칭: 일본 피지컬 AI, 손지능, 숙련 전승 로봇, Physical AI Japan
 - 요약: 가와사키 Successor와 Honda 다지 핸드부터 Toyota·Yaskawa·FANUC·AIST까지, 일본이 숙련자의 손동작·힘 조절을 로봇 학습 데이터로 옮기려는 흐름을 정리한다.
 - 태그: 피지컬 AI, 로봇, 일본, 숙련 전승, 손지능, 모방학습, 촉각 센서
-- 수정일: 2026-10-30 · 실제 증보일: 2026-10-25 · 검토: needs_review
-- 관련 문서: `ai-compute-scaling-inference`, `ai-economic-transition`, `physical-ai-world-model-quantum-optimization`, `manufacturing-optimization-solo-business`
+- 수정일: 2026-11-10 · 실제 증보일: 2026-10-25 · 검토: needs_review
+- 관련 문서: `ai-compute-scaling-inference`, `ai-economic-transition`, `physical-ai-world-model-quantum-optimization`, `manufacturing-optimization-solo-business`, `japan-skill-transfer-evidence-2026`
 - 이 문서를 근거로 쓴 해석 원고: `replay-ladder-human-performance`
 
 ## 절 목차
@@ -27,6 +27,7 @@
 - 은퇴는 노동력 감소이자 데이터 소실이다 · L94–100 · 427자 · `8f7112b6` — 숙련공의 은퇴는 단순히 사람 수가 줄어드는 사건이 아니다.
 - 대규모 계산 인프라와 손지능의 접점 · L102–108 · 587자 · `43eef6a3` — 손지능의 데이터가 확보되어도 그것을 일반화하려면 많은 계산이 필요하다.
 - 검토 상태 · L110–114 · 446자 · `5ed38732` — 이 글은 현재 확인 가능한 논의에서 이미 제시된 기업·정부·연구기관의 공개 링크와 수치를 총합했다.
+- 후속 조사 · L116–118 · 170자 · `4631d28a` — 2026년 기업·연구기관 자료로 숙련 전승 기술의 도달 단계와 실증의 한계를 확인한 후속 조사가 별도로 이어진다.
 
 ## 장부에 기록된 반영 지식
 
