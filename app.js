@@ -48,49 +48,24 @@ function loadAllBodies() {
 function loadBody(note) {
   if (hasBody(note)) return Promise.resolve();
   note.loading = note.loading || getJson('data/notes/' + encodeURIComponent(note.id) + '.json')
-    .then(data => { if (typeof data.body === 'string') { note.body = data.body; note.knowledge = data.knowledge; } })
+    .then(data => { if (typeof data.body === 'string') note.body = data.body; })
     .catch(() => loadAllBodies())
     .then(() => { note.loading = null; });
   return note.loading;
 }
-// An address is #<document-id>, optionally followed by /<section number>.
-const rawHash = () => {
+const currentHash = () => {
   let raw = location.hash.slice(1);
   try { raw = decodeURIComponent(raw); } catch {}
-  return raw;
-};
-const currentHash = () => {
-  const raw = rawHash().replace(/\/\d+$/, '');
   // Preserve the original public permalink after the two silent-film articles were consolidated.
   return raw === 'silent-film' ? 'silent-film-musician-labor' : raw;
 };
-const currentSection = () => Number(/\/(\d+)$/.exec(rawHash())?.[1]) || 0;
-// The knowledge log (data/log.json, built at deploy from the editorial ledger):
-// every recorded piece of knowledge with its kind, date, document and section.
-const KINDS = {argument:'논증', concept:'개념', fact:'사실', example:'사례', curation:'선별',
-  counterargument:'반론', question:'질문', other:'기타'};
-const RELATIONS = {introduces:'소개', curates:'선별', illustrates:'사례', elaborates:'심화', contrasts:'대조', supports:'근거'};
-let log = null, logLoading = null, logKind = '전체';
-function loadLog() {
-  logLoading = logLoading || getJson('data/log.json', {cache: 'no-cache'})
-    .then(data => { log = Array.isArray(data) ? data.filter(e => byId(e.doc)) : []; })
-    .catch(() => { log = []; });
-  return logLoading;
-}
-const kindChip = kind => '<span class="kind kind-' + esc(kind) + '">' + esc(KINDS[kind] || KINDS.other) + '</span>';
-const sectionLink = (doc, section) => permalink(doc) + (section ? '/' + section : '');
 // Back and forward return to where the reader was: each history entry remembers its scroll.
 const historyState = () => { try { return window.history?.state || null; } catch { return null; } };
 function rememberScroll() {
   try { window.history?.replaceState({...historyState(), y: Math.round(window.scrollY || 0)}, ''); } catch {}
 }
 function restoreScroll() {
-  const y = historyState()?.y;
-  const heading = y === undefined && currentSection()
-    ? document.getElementById(currentHash() + '-section-' + currentSection()) : null;
-  if (!heading?.scrollIntoView) return window.scrollTo({top: y || 0, behavior: 'instant'});
-  heading.scrollIntoView({behavior: 'instant', block: 'start'});
-  heading.classList?.add('arrived');
+  window.scrollTo({top: historyState()?.y || 0, behavior: 'instant'});
 }
 
 function setExploreOpen(open) {
@@ -352,8 +327,6 @@ function home() {
     (notes.some(isSynthesis) ? ' · 종합 ' + notes.filter(isSynthesis).length + '편' : '') +
     (notes.some(isEssay) ? ' · AI의 글 ' + notes.filter(isEssay).length + '편' : '') + '</p></div>' +
     feature +
-    (notes.some(n => n.k) ? '<a class="log-card" href="#log"><span><strong>지식 일지</strong> 원고에 더한 지식 ' +
-      notes.reduce((sum, n) => sum + (n.k || 0), 0).toLocaleString('ko') + '건을 날짜와 유형으로 읽기</span><span>→</span></a>' : '') +
     '<section><div class="section-heading"><h2>최근 갱신</h2><a href="#all">모든 문서 →</a></div>' +
     '<ul class="compact-list">' + dateSorted.slice(0,8).map(n =>
       '<li><a href="' + permalink(n.id) + '"><span class="item-title">' + kindBadge(n) + esc(n.title) +
@@ -371,21 +344,11 @@ function listing() {
   if (q) matches.sort((a,b) => scores.get(b) - scores.get(a));
   const pending = q && !notes.every(hasBody);
   if (pending) loadAllBodies().then(() => { if (currentHash() === 'all' && search.value.trim() === q) listing(); });
-  if (q && !log) loadLog().then(() => { if (log.length && currentHash() === 'all' && search.value.trim() === q) listing(); });
-  // Recorded knowledge whose title has every word: a direct way into the section.
-  const known = q && log ? log.filter(e => (category === '전체' || byId(e.doc).category === category) &&
-    terms.every(term => normalized(e.t).includes(term))) : [];
-  const knowledgeHits = known.length
-    ? '<section class="knowledge-hits"><h2>지식 표제 ' + known.length + '건</h2><ul class="knowledge-list">' +
-      known.slice(0, 12).map(e => '<li>' + kindChip(e.k) + '<a href="' + sectionLink(e.doc, e.s) + '">' + marked(e.t, pattern) +
-        '</a><span class="knowledge-where">' + esc(byId(e.doc).title) + '</span></li>').join('') + '</ul>' +
-      (known.length > 12 ? '<p class="muted">나머지는 <a href="#log">지식 일지</a>에서 볼 수 있습니다.</p>' : '') + '</section>'
-    : '';
   view.innerHTML =
     '<div class="page-heading"><h1>' + (q ? '검색 결과' : category === '전체' ? '전체 문서' : esc(category)) +
     '</h1><p>' + matches.length + '개 문서' + (q ? ' · 검색어: ' + esc(q) : '') +
     (q && category !== '전체' ? ' · 주제: ' + esc(category) : '') +
-    (pending ? ' · 본문을 불러오는 중…' : '') + '</p></div>' + knowledgeHits +
+    (pending ? ' · 본문을 불러오는 중…' : '') + '</p></div>' +
     (matches.length
       ? matches.map(n => { const passage = snippet(n, pattern); return '<div class="list-item"><div class="meta">' + kindBadge(n) + esc(n.category) +
         ' · ' + esc(n.updated) + '</div><h2><a href="' + permalink(n.id) + '">' +
@@ -416,31 +379,10 @@ function article(note) {
   const connections = [...new Set([...(note.related || []), ...linksOf(note),
     ...notes.filter(n => (n.related || []).includes(note.id) || linksOf(n).includes(note.id)).map(n => n.id)])]
     .filter(id => id !== note.id && byId(id));
-  // A confirmed relation says how the two articles are connected and why (wiki/relations.json).
-  const typed = new Map((note.rel || []).filter(r => byId(r.id)).map(r => [r.id, r]));
-  const relationNote = r => r
-    ? '<span class="relation"><span class="relation-type">' + (r.dir === 'in' ? '← ' : '→ ') +
-      esc(RELATIONS[r.type] || '관계') + '</span>' + esc(r.reason) + '</span>'
-    : '';
-  const ordered = [...connections.filter(id => typed.has(id)), ...connections.filter(id => !typed.has(id))];
-  const related = ordered.length
+  const related = connections.length
     ? '<section class="reader-bottom"><h2>연결된 글</h2><div class="related-grid">' +
-      ordered.map(id => '<a href="' + permalink(id) + '"' + (typed.has(id) ? ' class="typed"' : '') + '>' +
-        esc(byId(id).title) + ' →' + relationNote(typed.get(id)) + '</a>').join('') +
+      connections.map(id => '<a href="' + permalink(id) + '">' + esc(byId(id).title) + ' →</a>').join('') +
       '</div></section>'
-    : '';
-  // What this article holds, piece by piece: the ledger's knowledge titles under their sections.
-  const pieces = note.knowledge || [];
-  const bySection = new Map();
-  for (const piece of pieces) bySection.set(piece.s || 0, [...(bySection.get(piece.s || 0) || []), piece]);
-  const knowledge = ready && pieces.length
-    ? '<details class="toc knowledge-map"><summary>이 글에 담긴 지식 · ' + pieces.length + '건</summary><div class="knowledge-sections">' +
-      [...bySection.keys()].sort((a,b) => a - b).map(number => '<div class="knowledge-section">' +
-        (number ? '<button type="button" class="knowledge-heading" data-jump="' + esc(note.id + '-section-' + number) + '">' +
-          esc(bySection.get(number)[0].h) + '</button>' : '<span class="knowledge-heading">글 전체</span>') +
-        '<ul class="knowledge-list">' + bySection.get(number).map(piece => '<li>' + kindChip(piece.k) + '<span>' + esc(piece.t) +
-          '</span><span class="knowledge-where">' + esc(piece.d) + '</span></li>').join('') + '</ul></div>').join('') +
-      '</div></details>'
     : '';
   const github = 'https://github.com/belorin/belorin.github.io/blob/main/wiki/' +
     encodeURIComponent(note.id) + '.md';
@@ -488,7 +430,7 @@ function article(note) {
     '<a href="' + commits + '" target="_blank" rel="noopener noreferrer">개정 이력 ↗</a>' +
     '<a href="' + edit + '" target="_blank" rel="noopener noreferrer">고치기 ✎</a>' +
     '<button type="button" data-random>무작위 글 ↝</button></div></header>' +
-    synthesisNote + essayNote + fictionNote + chapterNav + toc + knowledge + '<div class="prose">' + rendered.html + '</div>' + chapterNav +
+    synthesisNote + essayNote + fictionNote + chapterNav + toc + '<div class="prose">' + rendered.html + '</div>' + chapterNav +
     related +
     (note.source ? '<p class="reader-source">자료·검토 표기: ' + esc(note.source) + '</p>' : '') +
     (ready ? discussion : '') + '</article>';
@@ -506,37 +448,6 @@ function about() {
       '<li><a href="' + permalink(id) + '"><span class="item-title">' +
       esc(label) + ' — ' + esc(byId(id).title) + '</span>→</a></li>').join('') + '</ul>';
 }
-// The knowledge log: the wiki read along time instead of by document. Each day
-// lists what was added, by kind, and leads to the section that now holds it.
-function knowledgeLog() {
-  if (!log) {
-    view.innerHTML = '<div class="page-heading"><h1>지식 일지</h1><p>불러오는 중입니다.</p></div>';
-    loadLog().then(() => { if (currentHash() === 'log') knowledgeLog(); });
-    return;
-  }
-  const heading = '<div class="page-heading"><h1>지식 일지</h1><p>문서가 아니라 지식 단위로 읽는 위키입니다. ' +
-    '대화에서 얻어 원고에 더한 논증·개념·사실·반론·질문을 더한 날 순으로 싣고, 각 항목은 그 지식이 놓인 절로 이어집니다.</p></div>';
-  if (!log.length) { view.innerHTML = heading + '<div class="empty">지식 일지 자료가 없습니다. <a href="#all">전체 문서 보기 →</a></div>'; return; }
-  const counts = new Map();
-  for (const entry of log) counts.set(entry.k, (counts.get(entry.k) || 0) + 1);
-  const chips = ['전체', ...Object.keys(KINDS).filter(kind => counts.has(kind))].map(kind =>
-    '<button type="button" data-kind="' + esc(kind) + '" class="' + (kind === logKind ? 'active' : '') + '" aria-pressed="' + (kind === logKind) + '">' +
-    esc(kind === '전체' ? '전체' : KINDS[kind]) + ' <span class="filter-count">' + (kind === '전체' ? log.length : counts.get(kind)) + '</span></button>').join('');
-  const shown = log.filter(entry => logKind === '전체' || entry.k === logKind);
-  const days = new Map();
-  for (const entry of shown) {
-    if (!days.has(entry.d)) days.set(entry.d, new Map());
-    const docs = days.get(entry.d);
-    docs.set(entry.doc, [...(docs.get(entry.doc) || []), entry]);
-  }
-  view.innerHTML = heading + '<div class="kind-filter" role="group" aria-label="지식 유형">' + chips + '</div>' +
-    [...days].map(([day, docs], at) => '<details class="log-day"' + (at < 2 ? ' open' : '') + '><summary><strong>' + esc(day) +
-      '</strong><span>문서 ' + docs.size + '편 · 지식 ' + [...docs.values()].reduce((sum, list) => sum + list.length, 0) + '건</span></summary>' +
-      [...docs].map(([id, entries]) => '<div class="log-doc"><h2><a href="' + permalink(id) + '">' + kindBadge(byId(id)) + esc(byId(id).title) +
-        '</a></h2><ul class="knowledge-list">' + entries.map(entry => '<li>' + kindChip(entry.k) + '<a href="' + sectionLink(id, entry.s) + '">' +
-        esc(entry.t) + '</a>' + (entry.h ? '<span class="knowledge-where">' + esc(entry.h) + '</span>' : '') + '</li>').join('') +
-        '</ul></div>').join('') + '</details>').join('');
-}
 // The calendar lives in calendar.js and is drawn only on desktop screens.
 function calendar() {
   if (window.Calendar) window.Calendar.render(view, {byId, esc, permalink});
@@ -546,16 +457,15 @@ function render() {
   if (!notes.length) return;
   view.setAttribute('aria-busy','false');
   const hash = currentHash();
-  const heading = {all: '전체 문서', about: '소개', calendar: '달력', log: '지식 일지'}[hash] || byId(hash)?.title;
+  const heading = {all: '전체 문서', about: '소개', calendar: '달력'}[hash] || byId(hash)?.title;
   document.title = heading ? heading + ' · ' + siteTitle : siteTitle;
-  setExploreOpen(!byId(hash) && hash !== 'log');
+  setExploreOpen(!byId(hash));
   // The calendar takes the whole width; the search and topic sidebar step aside.
   document.body?.classList.toggle('wide', hash === 'calendar');
   if (!hash) home();
   else if (hash === 'all') listing();
   else if (hash === 'about') about();
   else if (hash === 'calendar') calendar();
-  else if (hash === 'log') knowledgeLog();
   else {
     const note = byId(hash);
     if (note) article(note);
@@ -569,14 +479,8 @@ view.addEventListener('click', event => {
   else if (target.hasAttribute('data-random')) goRandom();
   else if (target.hasAttribute('data-copy')) {
     copyLink(target);
-  } else if (target.hasAttribute('data-kind')) {
-    logKind = target.getAttribute('data-kind'); knowledgeLog();
   } else if (target.hasAttribute('data-jump')) {
-    const heading = target.getAttribute('data-jump');
-    document.getElementById(heading)?.scrollIntoView({behavior:'smooth',block:'start'});
-    // The address follows the section, so it can be copied or bookmarked.
-    const number = /-section-(\d+)$/.exec(heading)?.[1];
-    try { if (number) window.history?.replaceState(historyState(), '', permalink(currentHash()) + '/' + number); } catch {}
+    document.getElementById(target.getAttribute('data-jump'))?.scrollIntoView({behavior:'smooth',block:'start'});
   }
 });
 function copyLink(button) {
@@ -590,7 +494,7 @@ function copyLink(button) {
   else manual();
 }
 randomButton.addEventListener('click', goRandom);
-search.addEventListener('focus', () => { loadAllBodies(); loadLog(); });
+search.addEventListener('focus', loadAllBodies);
 search.addEventListener('input', () => {
   if (location.hash !== '#all') location.hash = '#all';
   else render();

@@ -6,8 +6,7 @@
  *   sitemap.xml            home, the index and every note page
  *   feed.xml               Atom feed of the most recently updated documents
  *   data/index.json        every note without its body (what the site loads first)
- *   data/notes/<id>.json   one note's body and knowledge items, fetched when its article is opened
- *   data/log.json          the knowledge log: every ledger item with kind, date, document, section
+ *   data/notes/<id>.json   one note's body, fetched when its article is opened
  * Pages are rendered by app.js's own article() in a sandbox, so they match the
  * interactive site exactly. Output is deployed only, never committed.
  *
@@ -25,16 +24,6 @@ const site = "https://belorin.github.io/";
 const siteName = "belorin · 열린 노트";
 const notes = JSON.parse(fs.readFileSync(path.join(root, "notes.json"), "utf8"));
 const ids = new Set(notes.map(n => n.id));
-const readJson = rel => JSON.parse(fs.readFileSync(path.join(root, rel), "utf8"));
-const manifest = readJson("wiki/manifest.json");
-const aliases = new Map(manifest.documents.map(d => [d.id, Array.isArray(d.aliases) ? d.aliases : []]));
-// Confirmed relations (wiki/relations.json), seen from both ends, between published notes.
-const relations = new Map();
-for (const r of readJson("wiki/relations.json").relations) {
-  if (!ids.has(r.from) || !ids.has(r.to)) continue;
-  relations.set(r.from, [...(relations.get(r.from) || []), { id: r.to, dir: "out", type: r.type, reason: r.reason }]);
-  relations.set(r.to, [...(relations.get(r.to) || []), { id: r.from, dir: "in", type: r.type, reason: r.reason }]);
-}
 const indexHtml = fs.readFileSync(path.join(root, "index.html"), "utf8");
 const cssVersion = (indexHtml.match(/style\.css\?v=([^"]+)/) || [])[1] || "1";
 const esc = value => String(value ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -56,29 +45,6 @@ const context = {
 vm.runInNewContext(fs.readFileSync(path.join(root, "app.js"), "utf8"), context, { filename: "app.js", timeout: 5000 });
 await new Promise(resolve => setImmediate(resolve));
 
-// The knowledge log: the editorial ledger's integrated items, newest first, each
-// with its kind, date, document, and the number and title of the section holding it.
-const renderMarkdown = vm.runInContext("renderMarkdown", context);
-const sectionNumbers = new Map(notes.map(n => [n.id, new Map(renderMarkdown(n.body, n.id).toc.map((item, i) => [item.title, i + 1]))]));
-const log = [];
-for (const batchId of readJson("editorial/ingestions/index.json").batches) {
-  const batch = readJson(`editorial/ingestions/${batchId}.json`);
-  for (const item of batch.items || []) {
-    if (item.status !== "integrated") continue;
-    for (const target of item.targets || []) {
-      if (!ids.has(target.doc_id)) continue;
-      const s = sectionNumbers.get(target.doc_id).get(target.section) || 0;
-      log.push({ d: batch.processed_on, k: item.kind, t: item.title, doc: target.doc_id, ...(s ? { s, h: target.section } : {}) });
-    }
-  }
-}
-log.reverse().sort((a, b) => b.d.localeCompare(a.d));
-for (const note of notes) {
-  const own = log.filter(e => e.doc === note.id).map(({ doc, ...piece }) => piece);
-  if (own.length) note.knowledge = own;
-  if (relations.has(note.id)) note.rel = relations.get(note.id);
-}
-
 // Comments: the same giscus thread as the interactive page, keyed by document id.
 const giscusAttributes = vm.runInContext("typeof giscusAttributes === 'function' ? giscusAttributes : null", context);
 const giscusScript = id => '<script ' + Object.entries(giscusAttributes(id))
@@ -90,7 +56,7 @@ function staticArticle(note) {
   return view.innerHTML
     .replace(/<div class="giscus" data-term="([a-z0-9-]+)"><\/div>/, (match, id) =>
       giscusAttributes ? '<div class="giscus">' + giscusScript(id) + '</div>' : '')
-    .replace(/<button type="button"( class="[^"]*")? data-jump="([^"]+)">([\s\S]*?)<\/button>/g, '<a$1 href="#$2">$3</a>')
+    .replace(/<button type="button" data-jump="([^"]+)">([\s\S]*?)<\/button>/g, '<a href="#$1">$2</a>')
     .replace(/<button type="button" data-random>[\s\S]*?<\/button>/g, "")
     .replace(/<button type="button" data-copy="[^"]+">[\s\S]*?<\/button>/g,
       `<a href="https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/${note.id}.md">원문 Markdown</a><a href="/#${note.id}">탐색 화면에서 보기</a>`)
@@ -126,7 +92,6 @@ ${jsonLd ? `  <script type="application/ld+json">${JSON.stringify(jsonLd).replac
       <a class="brand" href="/" aria-label="열린 노트 첫 화면">belorin <span>열린 노트</span></a>
       <nav class="top-nav" aria-label="주 메뉴">
         <a href="/notes/">전체 문서</a>
-        <a href="/#log">지식 일지</a>
         <a href="/#about">소개</a>
         <a href="https://github.com/belorin/belorin.github.io" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a>
       </nav>
@@ -209,16 +174,16 @@ ${urls.map(u => `  <url><loc>${u.loc}</loc><lastmod>${u.lastmod}</lastmod></url>
 `);
 // Site data: the index carries what lists, search-by-name and connections need
 // (aliases from the manifest, in-text links, length); bodies load one at a time.
-const index = notes.map(({ body, knowledge, ...meta }) => ({
+const manifest = JSON.parse(fs.readFileSync(path.join(root, "wiki", "manifest.json"), "utf8"));
+const aliases = new Map(manifest.documents.map(d => [d.id, Array.isArray(d.aliases) ? d.aliases : []]));
+const index = notes.map(({ body, ...meta }) => ({
   ...meta,
   ...(aliases.get(meta.id)?.length ? { aliases: aliases.get(meta.id) } : {}),
   links: [...new Set([...body.matchAll(/\]\(#([a-z0-9-]+)\)/g)].map(m => m[1]))].filter(id => ids.has(id) && id !== meta.id),
   chars: body.length,
-  ...(knowledge ? { k: knowledge.length } : {}),
 }));
 write("data/index.json", JSON.stringify(index));
-for (const note of notes) write(`data/notes/${note.id}.json`, JSON.stringify({ id: note.id, body: note.body, ...(note.knowledge ? { knowledge: note.knowledge } : {}) }));
-write("data/log.json", JSON.stringify(log));
+for (const note of notes) write(`data/notes/${note.id}.json`, JSON.stringify({ id: note.id, body: note.body }));
 
 // Atom feed: the documents a returning reader has not seen yet. Dates have no
 // time of day, so same-day entries keep the site's "최근 갱신" order.
@@ -243,5 +208,5 @@ ${recent.map(n => `  <entry>
   </entry>`).join("\n")}
 </feed>
 `);
-console.log(`Site data: index ${Math.round(JSON.stringify(index).length / 1024)}KB + ${notes.length} bodies, feed with ${recent.length} entries, knowledge log with ${log.length} items`);
+console.log(`Site data: index ${Math.round(JSON.stringify(index).length / 1024)}KB + ${notes.length} bodies, feed with ${recent.length} entries`);
 console.log(`Static pages: ${notes.length} notes + index, sitemap with ${urls.length} URLs → ${path.relative(root, outDir) || "."}`);
