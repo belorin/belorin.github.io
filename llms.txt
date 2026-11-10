@@ -73,6 +73,7 @@
 - [기분에서 곡으로: 열다섯 곡의 탐색형 청취 지도](https://belorin.github.io/notes/mood-led-music-listening/): 서늘한 밤, 낯설어진 세계, SF적 확장감, 절제된 우울함과 한국 음악으로 나눈 15곡의 추천 및 우선 청취 4곡을 취향 가설로 정리한다.
 - [교향곡은 영화 이전의 블록버스터였는가: 작곡가·지휘자 팬덤과 인물 신화](https://belorin.github.io/notes/orchestra-composer-conductor-myth/): 말러·쇼스타코비치 7번·토스카니니·카라얀·번스타인을 통해 교향악 작품과 인간을 함께 사랑하는 팬덤, 정전·전기·방송·지휘자의 몸을 분석한다.
 - [살아 있는 작곡가들을 여행하는 현대 교향악: 1977~2025 작품 연표와 12주 청취 지도](https://belorin.github.io/notes/living-orchestral-listening-journey/): 패르트·애덤스·진은숙·아데스·토르발스도티르·오르티스 등의 작품을 연도순으로 정리하고 미학적 다섯 갈래와 12주 청취 코스를 제안한다.
+- [살아 있는 작곡가의 22.5%: 2026년 가을 오케스트라 통계와 재연의 제도](https://belorin.github.io/notes/orchestra-repertoire-repeat-performance-autumn-2026/): 10월 공개된 미국 오케스트라 보고서에서 생존 작곡가 비중과 내부 구성의 차이를 읽고, Toulmin 신규 위촉 컨소시엄과 지역 재연 사례를 작품의 생애라는 질문에 연결한다.
 
 ### AI와 사회
 
@@ -107,6 +108,8 @@
 - [AI·해외 인력과 개발 조직의 재편: 레이오프에서 프로젝트 인수인계까지](https://belorin.github.io/notes/ai-layoffs-global-remote-restructuring/): 세계 개발자 감원의 구조와 한계, 진행 중 프로젝트의 외주 이관, 아프리카 원격 개발자·EOR·한국 개발자의 해외시장 가능성을 검토한다.
 - [AI는 경력의 입구를 먼저 바꾸는가: 2026년 청년 고용과 개발 생산성의 증거](https://belorin.github.io/notes/ai-youth-hiring-productivity-evidence-2026/): 미국·한국의 2026년 청년고용 연구와 METR 개발 생산성 실험을 대조해 채용·고용 이탈·생산성의 측정 단위와 인과 추정의 한계를 설명한다.
 - [손동작을 남기면 숙련도 남는가: 일본 피지컬 AI의 2026년 실증과 빈칸](https://belorin.github.io/notes/japan-skill-transfer-evidence-2026/): Kawasaki·Toyota·Honda·H2L·AIST의 공식 자료로 원격조작, 접촉 하드웨어, 힘 데이터, 내부 실험과 현장 숙련 전승의 차이를 확인한다.
+- [플루토는 그 뒤 어떻게 바뀌었나: v2.0 공개와 AIIDE 2026 출전 철회](https://belorin.github.io/notes/pluto-v2-release-aiide-withdrawal-2026/): 2026년 10월 Pluto v2.0의 공개와 AIIDE 참가 철회를 공식 릴리스·운영 기록으로 확인하고, 상대별 빌드 선택·신경망 재훈련·실행 시간 조건을 구별한다.
+- [AI 데이터센터는 누가 전기를 보장하는가: 2026년 가을의 접속 대기열과 비용 분담](https://belorin.github.io/notes/data-center-grid-contracts-autumn-2026/): IEA의 10월 전력망 통합 보고서와 ERCOT·FERC 절차를 통해 접속 신청의 신뢰도, 비상 감축과 취소 비용의 부담을 살피고 국내 유치 사업의 계약 조사 항목을 제안한다.
 
 ### 철학
 
@@ -155,6 +158,7 @@
 - [풍요 속에서 자리를 잃은 사람들: 세계 대공황의 생활 기록과 동시대 소설](https://belorin.github.io/notes/great-depression-lived-experience-literature/): 물건이 풍부해도 소득과 사회적 자리를 잃는 역사적 경험을 독일·미국·영국·프랑스어권·스페인어권·브라질·일본의 1930~40년대 소설과 당대 르포, 후대 구술사를 통해 구분하고 번역 확인 수준 및 독서 경로를 정리한다.
 - [영어권 사탄 패닉의 형성과 쇠퇴: 아동 보호의 각성은 어떻게 비밀 의례 범죄의 공포가 되었나](https://belorin.github.io/notes/satanic-panic-english-speaking-history/): 1980년대 사탄 의례 학대 공황의 토양과 Michelle Remembers, McMartin, 미국 TV·영국·호주·뉴질랜드로의 확산, 1990년대 제도적 반증과 기억 연구의 후과를 구분한다.
 - [AI가 다시 읽게 한 바빌론: 새 찬가와 구약 비교의 증거 수준](https://belorin.github.io/notes/babylon-hymn-digital-reconstruction-2026/): 2025년 바빌론 찬가 학술판과 eBL의 문헌 복원, 수메르 홍수·딜문 원전을 대조하며 사본·전승·역사적 사건의 증거 수준과 남은 결락을 설명한다.
+- [비엔날레의 평가자는 누구인가: 2026년 가을 비평과 관객상, 폐막 프로그램](https://belorin.github.io/notes/venice-biennale-autumn-criticism-2026/): 9~10월의 베니스 비엔날레 비평, 관객상 투표 조건과 11월 9일 발표된 폐막 프로그램을 대조해 평가 주체·국가관의 대표성·작가 조직의 지속성을 살핀다.
 
 ### 언어
 
@@ -209,6 +213,7 @@
 - [새소리는 어디까지 번역되었는가: 행동 신호에서 참새의 짹짹까지](https://belorin.github.io/notes/bird-vocalization-sparrow/): 종 인식·발성 유형·행동 신호·인간 언어 번역의 차이를 일본박새·금화조·한국 참새 연구로 검토하고, 참새 아홉 유형과 도시 소음 연구의 검증 경계를 정리한다.
 - [탄소예산과 인구 감축의 오류: 기후 디스토피아의 과학과 윤리](https://belorin.github.io/notes/climate-population-villain-logic/): 인구 감소와 탄소배출의 단순 비례 계산, 1.5도 예산의 불확실성, 학살 정당화의 논리적 비약
 - [물속의 인간과 공중의 새: 스트로크·날갯짓·가속·선회의 비례 생체역학](https://belorin.github.io/notes/swimming-bird-flight-biomechanics/): 인간 자유형과 참새·까치·비둘기 비행을 절대속도, 몸길이 대비 속도, 사이클당 이동거리, 추진 빈도, 출발·감속·선회·활공으로 분해해 비교한다.
+- [새의 노래가 인간과 닮은 자리: 2026년 10월의 음향 비교와 앵무새 신경 연구](https://belorin.github.io/notes/bird-vocal-patterns-neural-code-2026/): 10월 Science의 종간 음향 비교와 사랑앵무 신경 부호 프리프린트를 읽으며 발성 패턴·생산 제어·의미 결합의 증거를 구별하고 기존 참새 연구 질문과 연결한다.
 
 ### 문화
 

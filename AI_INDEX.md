@@ -115,16 +115,16 @@
 - **[한국에서 기다릴 대형 뮤지컬: 내한 전망과 춤·아크로바틱 취향의 선택법](wiki/korea-dance-musical-tours.md)** · 별칭: 한국 뮤지컬 내한, 춤 많은 뮤지컬, 아크로바틱 뮤지컬, 뮤지컬 내한 전망, 라이온 킹 같은 뮤지컬 · 수정: 2026-10-25 · 검토: 2026년 9월 대화 내 확인 일정·장기 전망 총합 · 이후 일정과 미확정 한국행 재검증 필요
   - 2026년 9월 확인 기준으로 한국 대형 뮤지컬의 확정 일정과 장기 내한 신호를 분리하고, 라이온 킹·노트르담 드 파리 같은 신체적 무대 언어를 좋아하는 관객에게 캣츠·MJ·물랑루즈·Some Like It Hot 등을 춤의 성격별로 비교한다.
   - [문서 페이지](https://belorin.github.io/notes/korea-dance-musical-tours/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-dance-musical-tours.md)
-- **[오케스트라를 세는 법: 세계 레퍼토리 데이터와 지역의 클래식 접근성](wiki/orchestra-repertoire-data-access.md)** · 별칭: 세계 오케스트라 통계, Classical Access Index · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
+- **[오케스트라를 세는 법: 세계 레퍼토리 데이터와 지역의 클래식 접근성](wiki/orchestra-repertoire-data-access.md)** · 별칭: 세계 오케스트라 통계, Classical Access Index · 수정: 2026-11-10 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
   - Bachtrack·Operabase·뉴욕 필 공연 DB의 범위, 나라별 오케스트라 수의 함정, 공연장과 30~120분 생활권 접근성 지수 및 2014~2025년 등록 콘서트 추이를 비교한다.
   - [문서 페이지](https://belorin.github.io/notes/orchestra-repertoire-data-access/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-repertoire-data-access.md)
-- **[클래식은 화석인가: 생존 작곡가의 연주와 정전이 자라는 속도](wiki/orchestra-living-composers-canon.md)** · 별칭: 살아 있는 작곡가, 현대 클래식 정전 · 수정: 2026-10-30 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
+- **[클래식은 화석인가: 생존 작곡가의 연주와 정전이 자라는 속도](wiki/orchestra-living-composers-canon.md)** · 별칭: 살아 있는 작곡가, 현대 클래식 정전 · 수정: 2026-11-10 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
   - Bachtrack 2022~2025년 생존 작곡가·여성 작곡가 통계, 패르트·윌리엄스와 신작 재연의 차이, 음악기관의 현재성을 분석한다.
   - [문서 페이지](https://belorin.github.io/notes/orchestra-living-composers-canon/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-living-composers-canon.md)
 - **[세계 5대 오케스트라의 2026년 프로그램: 전통, 실험, 계승, 세대교체](wiki/world-orchestras-repertoire-2026.md)** · 별칭: 세계 5대 교향악단, 세계 명문 악단 2026 · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
   - 빈·베를린·콘세르트헤바우·런던 심포니·시카고의 주요 작품·지휘자·시즌 전략을 대조하고 레퍼토리 기반 캐릭터 비평을 분리한다.
   - [문서 페이지](https://belorin.github.io/notes/world-orchestras-repertoire-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-orchestras-repertoire-2026.md)
-- **[한국 교향악단의 2026년 레퍼토리: 도시 이미지가 아니라 실제 선곡으로 구별하기](wiki/korean-orchestras-repertoire-2026.md)** · 별칭: 한국 오케스트라 캐릭터, 한국 교향악단 선곡 · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
+- **[한국 교향악단의 2026년 레퍼토리: 도시 이미지가 아니라 실제 선곡으로 구별하기](wiki/korean-orchestras-repertoire-2026.md)** · 별칭: 한국 오케스트라 캐릭터, 한국 교향악단 선곡 · 수정: 2026-11-10 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
   - 서울·KBS·국립·부산·인천·부천·대구·광주·대전·수원·경기필의 확인된 2026년 프로그램과 인상비평의 한계를 구별한다.
   - [문서 페이지](https://belorin.github.io/notes/korean-orchestras-repertoire-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korean-orchestras-repertoire-2026.md)
 - **[오케스트라라는 악기의 내부: 편성 비용, 협주곡, 새 음색의 역사](wiki/orchestration-instrument-history.md)** · 별칭: 오케스트레이션 역사, 새 어쿠스틱 악기 · 수정: 2026-10-25 · 검토: 내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요
@@ -145,6 +145,9 @@
 - **[살아 있는 작곡가들을 여행하는 현대 교향악: 1977~2025 작품 연표와 12주 청취 지도](wiki/living-orchestral-listening-journey.md)** · 별칭: 현대 교향악 여행, 살아 있는 작곡가 청취 코스, 현대 관현악 작품 연표 · 수정: 2026-10-30 · 검토: 대화 기반 총합 · 작곡·초연 연도와 2026년 수상·생존 여부 외부 검증 필요
   - 패르트·애덤스·진은숙·아데스·토르발스도티르·오르티스 등의 작품을 연도순으로 정리하고 미학적 다섯 갈래와 12주 청취 코스를 제안한다.
   - [문서 페이지](https://belorin.github.io/notes/living-orchestral-listening-journey/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/living-orchestral-listening-journey.md)
+- **[살아 있는 작곡가의 22.5%: 2026년 가을 오케스트라 통계와 재연의 제도](wiki/orchestra-repertoire-repeat-performance-autumn-2026.md)** · 별칭: 2026년 가을 미국 오케스트라 통계, 현대음악의 재연 컨소시엄 · 수정: 2026-11-10 · 검토: 2026년 가을 후속 조사
+  - 10월 공개된 미국 오케스트라 보고서에서 생존 작곡가 비중과 내부 구성의 차이를 읽고, Toulmin 신규 위촉 컨소시엄과 지역 재연 사례를 작품의 생애라는 질문에 연결한다.
+  - [문서 페이지](https://belorin.github.io/notes/orchestra-repertoire-repeat-performance-autumn-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-repertoire-repeat-performance-autumn-2026.md)
 
 ## AI와 사회
 
@@ -202,7 +205,7 @@
 - **[AI 이행기의 정책 공백: 재교육이 해결하지 못하는 구조적 노동 대체](wiki/ai-transition-policy-gap.md)** · 별칭: AI 재교육의 한계, AI 이행기 정책 실패, 국제기구와 AI 경제 · 수정: 2026-10-30 · 검토: 조건부 정책 시뮬레이션·외부 미검증
   - 국제기구가 위험을 인식해도 대응하지 못하는 조건, 재교육의 거시적 한계, 자동화·재정·조세·정치의 시차를 분석한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-transition-policy-gap/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-transition-policy-gap.md)
-- **[Pluto AI와 인간의 스타크래프트: 자가대전이 만든 다른 메타](wiki/starcraft-pluto-ai.md)** · 별칭: Pluto AI, 플루토 AI, 스타크래프트 플루토, tscmoo Pluto · 수정: 2026-10-26 · 검토: 대화 기반 집필 · 경기 전적·개발자 발언·세부 수치 외부 재검증 필요
+- **[Pluto AI와 인간의 스타크래프트: 자가대전이 만든 다른 메타](wiki/starcraft-pluto-ai.md)** · 별칭: Pluto AI, 플루토 AI, 스타크래프트 플루토, tscmoo Pluto · 수정: 2026-11-10 · 검토: 대화 기반 집필 · 경기 전적·개발자 발언·세부 수치 외부 재검증 필요
   - Pluto의 개발자와 구조, 자가대전 강화학습, 한국 프로 대인전, API 조작 우위와 인간 메타의 충돌, 드롭·치즈 등 취약점과 인간의 적응, 개발자의 공개 반응 경계를 총합한다.
   - [문서 페이지](https://belorin.github.io/notes/starcraft-pluto-ai/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/starcraft-pluto-ai.md)
 - **[『AI는 인간을 먹고 자란다』 이후: 보이지 않는 노동은 사라졌는가, 분화했는가](wiki/ai-hidden-labor-feeding-machine-2026.md)** · 별칭: AI는 인간을 먹고 자란다 이후, Feeding the Machine 2026 · 수정: 2026-11-03 · 검토: 대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요
@@ -220,10 +223,10 @@
 - **[AI 이행기의 화폐와 소유권: BIS의 통합장부에서 두 층 경제까지](wiki/ai-transition-monetary-order.md)** · 별칭: AI 이중화폐, BIS 통합장부와 AI, AI 이행기 금융질서 · 수정: 2026-10-30 · 검토: 대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요
   - 실업·채무·금융안정의 이행기 연쇄, BIS unified ledger와 Project Agorá의 실제 목표, 조건부 이중경제 사고실험, IMF 노동·재정정책의 분모를 구별한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-transition-monetary-order/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-transition-monetary-order.md)
-- **[세계 데이터센터의 연산 지리: GW·냉각·감가상각·투자 파이프라인](wiki/data-center-world-capacity.md)** · 별칭: 세계 데이터센터 GW, 데이터센터 세계 비중, 데이터센터 액랭 공랭, 데이터센터 감가상각 · 수정: 2026-11-03 · 검토: 대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요
+- **[세계 데이터센터의 연산 지리: GW·냉각·감가상각·투자 파이프라인](wiki/data-center-world-capacity.md)** · 별칭: 세계 데이터센터 GW, 데이터센터 세계 비중, 데이터센터 액랭 공랭, 데이터센터 감가상각 · 수정: 2026-11-10 · 검토: 대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요
   - 2025~2030년 지역별 GW·건설 파이프라인, 공실률의 모수, 공랭·액랭의 시설별 보급, 물리적 수명과 미국·중국·걸프·APAC 기업 생태계를 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/data-center-world-capacity/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/data-center-world-capacity.md)
-- **[한국 데이터센터 유치의 실익: GW보다 적은 일자리, 전력보다 중요한 지역 몫](wiki/korea-data-center-local-economy.md)** · 별칭: 해남 데이터센터 일자리, 울산 SK AWS 지역경제, 데이터센터 지역고용 · 수정: 2026-10-30 · 검토: 대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요
+- **[한국 데이터센터 유치의 실익: GW보다 적은 일자리, 전력보다 중요한 지역 몫](wiki/korea-data-center-local-economy.md)** · 별칭: 해남 데이터센터 일자리, 울산 SK AWS 지역경제, 데이터센터 지역고용 · 수정: 2026-11-10 · 검토: 대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요
   - 울산 SK–AWS·해남 솔라시도 등 한국 데이터센터의 계획과 상주인력, 건설기 효과, AWS 현장 직군, 전력·물·세수의 지역 순편익을 비교한다.
   - [문서 페이지](https://belorin.github.io/notes/korea-data-center-local-economy/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-data-center-local-economy.md)
 - **[클라우드의 물질성: 데이터센터·해저케이블·현장노동을 읽는 책과 르포](wiki/physical-cloud-reading-guide.md)** · 별칭: 클라우드 물리 인프라 책, 데이터센터 르포 읽기, 클라우드 다큐 추천 · 수정: 2026-10-30 · 검토: 대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요
@@ -241,6 +244,12 @@
 - **[손동작을 남기면 숙련도 남는가: 일본 피지컬 AI의 2026년 실증과 빈칸](wiki/japan-skill-transfer-evidence-2026.md)** · 별칭: 일본 손지능 실증 2026, 숙련 데이터와 로봇 평가 · 수정: 2026-11-10 · 검토: 외부 후속 조사 · 관측·해석·미확정 범위 구분
   - Kawasaki·Toyota·Honda·H2L·AIST의 공식 자료로 원격조작, 접촉 하드웨어, 힘 데이터, 내부 실험과 현장 숙련 전승의 차이를 확인한다.
   - [문서 페이지](https://belorin.github.io/notes/japan-skill-transfer-evidence-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/japan-skill-transfer-evidence-2026.md)
+- **[플루토는 그 뒤 어떻게 바뀌었나: v2.0 공개와 AIIDE 2026 출전 철회](wiki/pluto-v2-release-aiide-withdrawal-2026.md)** · 별칭: 플루토 2.0 후속 개발, Pluto AIIDE 2026 참가 철회 · 수정: 2026-11-10 · 검토: 2026년 가을 후속 조사
+  - 2026년 10월 Pluto v2.0의 공개와 AIIDE 참가 철회를 공식 릴리스·운영 기록으로 확인하고, 상대별 빌드 선택·신경망 재훈련·실행 시간 조건을 구별한다.
+  - [문서 페이지](https://belorin.github.io/notes/pluto-v2-release-aiide-withdrawal-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/pluto-v2-release-aiide-withdrawal-2026.md)
+- **[AI 데이터센터는 누가 전기를 보장하는가: 2026년 가을의 접속 대기열과 비용 분담](wiki/data-center-grid-contracts-autumn-2026.md)** · 별칭: 2026년 가을 데이터센터 전력 계약, AI 데이터센터 접속 대기열과 취소 비용 · 수정: 2026-11-10 · 검토: 2026년 가을 후속 조사
+  - IEA의 10월 전력망 통합 보고서와 ERCOT·FERC 절차를 통해 접속 신청의 신뢰도, 비상 감축과 취소 비용의 부담을 살피고 국내 유치 사업의 계약 조사 항목을 제안한다.
+  - [문서 페이지](https://belorin.github.io/notes/data-center-grid-contracts-autumn-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/data-center-grid-contracts-autumn-2026.md)
 
 ## 철학
 
@@ -334,7 +343,7 @@
 - **[자르디니와 아르세날레: 베니스 비엔날레의 두 공간과 국가관 지도](wiki/venice-biennale-sites-pavilions.md)** · 별칭: 자르디니, Giardini della Biennale, 아르세날레, Arsenale, 베니스 국가관 목록 · 수정: 2026-10-25 · 검토: 공간과 국가관 목록 대화 총합 · 2026 개관·참여 배치 확인 필요
   - 정원형 국가관 마을 자르디니와 옛 해군 공창 아르세날레의 체험 차이, 30개 국가명과 공동관·건물 수의 함정, 2026년 배치를 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/venice-biennale-sites-pavilions/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/venice-biennale-sites-pavilions.md)
-- **[2026 베니스 비엔날레: 'In Minor Keys'의 비평, 정치적 파열과 느린 평가](wiki/venice-biennale-2026-critical-reception.md)** · 별칭: 2026 베니스 비엔날레, In Minor Keys, 2026 Venice Biennale, 코요 쿠오 비엔날레 · 수정: 2026-10-25 · 검토: 대화에 제시된 비평·보도 정리 · 개별 원문·작품·사건 재검증 필요
+- **[2026 베니스 비엔날레: 'In Minor Keys'의 비평, 정치적 파열과 느린 평가](wiki/venice-biennale-2026-critical-reception.md)** · 별칭: 2026 베니스 비엔날레, In Minor Keys, 2026 Venice Biennale, 코요 쿠오 비엔날레 · 수정: 2026-11-10 · 검토: 대화에 제시된 비평·보도 정리 · 개별 원문·작품·사건 재검증 필요
   - 코요 쿠오의 사후 구현과 중앙전의 과밀·정치적 회피 논란, 대립하는 평론 및 주목받은 국가관·작품을 장기 평가의 문제와 연결한다.
   - [문서 페이지](https://belorin.github.io/notes/venice-biennale-2026-critical-reception/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/venice-biennale-2026-critical-reception.md)
 - **[유대교의 수많은 메시아들: 중세의 구원 운동에서 카발라와 샤브타이 츠비까지](wiki/jewish-messianic-claimants-kabbalah.md)** · 별칭: 중세 유대교 메시아, 유대 메시아 참칭자, 유대교의 메시아들, 카발라와 메시아주의, Pseudo-Messiahs · 수정: 2026-10-26 · 검토: 접근 가능한 개략 서술 기반 · 일부 전승·연대·메시아 자칭 여부 검토 필요
@@ -367,6 +376,9 @@
 - **[AI가 다시 읽게 한 바빌론: 새 찬가와 구약 비교의 증거 수준](wiki/babylon-hymn-digital-reconstruction-2026.md)** · 별칭: AI와 바빌론 찬가 복원, 메소포타미아 문헌 재발견 2026 · 수정: 2026-11-10 · 검토: 외부 후속 조사 · 관측·해석·미확정 범위 구분
   - 2025년 바빌론 찬가 학술판과 eBL의 문헌 복원, 수메르 홍수·딜문 원전을 대조하며 사본·전승·역사적 사건의 증거 수준과 남은 결락을 설명한다.
   - [문서 페이지](https://belorin.github.io/notes/babylon-hymn-digital-reconstruction-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/babylon-hymn-digital-reconstruction-2026.md)
+- **[비엔날레의 평가자는 누구인가: 2026년 가을 비평과 관객상, 폐막 프로그램](wiki/venice-biennale-autumn-criticism-2026.md)** · 별칭: 2026 베니스 비엔날레 가을 후속, Visitors Lions와 폐막 Assembly · 수정: 2026-11-10 · 검토: 2026년 가을 후속 조사
+  - 9~10월의 베니스 비엔날레 비평, 관객상 투표 조건과 11월 9일 발표된 폐막 프로그램을 대조해 평가 주체·국가관의 대표성·작가 조직의 지속성을 살핀다.
+  - [문서 페이지](https://belorin.github.io/notes/venice-biennale-autumn-criticism-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/venice-biennale-autumn-criticism-2026.md)
 
 ## 언어
 
@@ -490,7 +502,7 @@
 
 ## 자연과 과학
 
-- **[새소리는 어디까지 번역되었는가: 행동 신호에서 참새의 짹짹까지](wiki/bird-vocalization-sparrow.md)** · 별칭: 새소리 번역, 새의 언어, 참새 울음소리, 참새어, 조류 의사소통 · 수정: 2026-10-25 · 검토: 대화 내부의 연구 소개 총합 · 논문별 세부 분류·수치 재검증 필요
+- **[새소리는 어디까지 번역되었는가: 행동 신호에서 참새의 짹짹까지](wiki/bird-vocalization-sparrow.md)** · 별칭: 새소리 번역, 새의 언어, 참새 울음소리, 참새어, 조류 의사소통 · 수정: 2026-11-10 · 검토: 대화 내부의 연구 소개 총합 · 논문별 세부 분류·수치 재검증 필요
   - 종 인식·발성 유형·행동 신호·인간 언어 번역의 차이를 일본박새·금화조·한국 참새 연구로 검토하고, 참새 아홉 유형과 도시 소음 연구의 검증 경계를 정리한다.
   - [문서 페이지](https://belorin.github.io/notes/bird-vocalization-sparrow/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/bird-vocalization-sparrow.md)
 - **[탄소예산과 인구 감축의 오류: 기후 디스토피아의 과학과 윤리](wiki/climate-population-villain-logic.md)** · 별칭:  · 수정: 2026-10-26 · 검토: 대화 기반 집필
@@ -499,6 +511,9 @@
 - **[물속의 인간과 공중의 새: 스트로크·날갯짓·가속·선회의 비례 생체역학](wiki/swimming-bird-flight-biomechanics.md)** · 별칭: 수영과 새 비행 비교, 인간 수영 새 비행, 스트로크와 날갯짓, 몸길이 대비 속도 · 수정: 2026-11-03 · 검토: 대화 기반 비교 모델 · 대표값·근연종 대용값 외부 재검증 필요
   - 인간 자유형과 참새·까치·비둘기 비행을 절대속도, 몸길이 대비 속도, 사이클당 이동거리, 추진 빈도, 출발·감속·선회·활공으로 분해해 비교한다.
   - [문서 페이지](https://belorin.github.io/notes/swimming-bird-flight-biomechanics/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/swimming-bird-flight-biomechanics.md)
+- **[새의 노래가 인간과 닮은 자리: 2026년 10월의 음향 비교와 앵무새 신경 연구](wiki/bird-vocal-patterns-neural-code-2026.md)** · 별칭: 2026년 10월 새 발성 연구, 새의 음향 공통성과 앵무새 신경 부호 · 수정: 2026-11-10 · 검토: 2026년 가을 후속 조사
+  - 10월 Science의 종간 음향 비교와 사랑앵무 신경 부호 프리프린트를 읽으며 발성 패턴·생산 제어·의미 결합의 증거를 구별하고 기존 참새 연구 질문과 연결한다.
+  - [문서 페이지](https://belorin.github.io/notes/bird-vocal-patterns-neural-code-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/bird-vocal-patterns-neural-code-2026.md)
 
 ## 문화
 

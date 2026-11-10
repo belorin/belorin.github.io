@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 196,
+  "document_count": 201,
   "documents": [
     {
       "id": "living-notes",
@@ -2570,13 +2570,14 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
-      "last_updated_on": "2026-10-25",
+      "last_updated_on": "2026-11-10",
       "last_enriched_on": "2026-10-25",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "orchestra-living-composers-canon",
         "world-orchestras-repertoire-2026",
-        "orchestra-halls-seasons"
+        "orchestra-halls-seasons",
+        "orchestra-repertoire-repeat-performance-autumn-2026"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-repertoire-data-access.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/orchestra-repertoire-data-access.md",
@@ -2602,7 +2603,7 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
-      "last_updated_on": "2026-10-30",
+      "last_updated_on": "2026-11-10",
       "last_enriched_on": "2026-10-30",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
@@ -2610,7 +2611,8 @@
         "orchestra-repertoire-data-access",
         "world-orchestras-repertoire-2026",
         "orchestra-composer-conductor-myth",
-        "living-orchestral-listening-journey"
+        "living-orchestral-listening-journey",
+        "orchestra-repertoire-repeat-performance-autumn-2026"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-living-composers-canon.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/orchestra-living-composers-canon.md",
@@ -2672,13 +2674,14 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "내부 총합 · 수치·공연 일정·역사 세부 외부 재검증 필요",
-      "last_updated_on": "2026-10-25",
+      "last_updated_on": "2026-11-10",
       "last_enriched_on": "2026-10-25",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "world-orchestras-repertoire-2026",
         "orchestra-repertoire-data-access",
-        "orchestra-living-composers-canon"
+        "orchestra-living-composers-canon",
+        "orchestra-repertoire-repeat-performance-autumn-2026"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korean-orchestras-repertoire-2026.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/korean-orchestras-repertoire-2026.md",
@@ -2926,10 +2929,12 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "대화 내부의 연구 소개 총합 · 논문별 세부 분류·수치 재검증 필요",
-      "last_updated_on": "2026-10-25",
+      "last_updated_on": "2026-11-10",
       "last_enriched_on": "2026-10-25",
       "last_enriched_note": "explicitly_recorded",
-      "related_ids": [],
+      "related_ids": [
+        "bird-vocal-patterns-neural-code-2026"
+      ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/bird-vocalization-sparrow.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/bird-vocalization-sparrow.md",
       "page_url": "https://belorin.github.io/notes/bird-vocalization-sparrow/",
@@ -3356,12 +3361,13 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "대화에 제시된 비평·보도 정리 · 개별 원문·작품·사건 재검증 필요",
-      "last_updated_on": "2026-10-25",
+      "last_updated_on": "2026-11-10",
       "last_enriched_on": "2026-10-25",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "venice-biennale-history",
-        "venice-biennale-sites-pavilions"
+        "venice-biennale-sites-pavilions",
+        "venice-biennale-autumn-criticism-2026"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/venice-biennale-2026-critical-reception.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/venice-biennale-2026-critical-reception.md",
@@ -4361,10 +4367,12 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "대화 기반 집필 · 경기 전적·개발자 발언·세부 수치 외부 재검증 필요",
-      "last_updated_on": "2026-10-26",
+      "last_updated_on": "2026-11-10",
       "last_enriched_on": "2026-10-26",
       "last_enriched_note": "explicitly_recorded",
-      "related_ids": [],
+      "related_ids": [
+        "pluto-v2-release-aiide-withdrawal-2026"
+      ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/starcraft-pluto-ai.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/starcraft-pluto-ai.md",
       "page_url": "https://belorin.github.io/notes/starcraft-pluto-ai/",
@@ -5439,7 +5447,7 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요",
-      "last_updated_on": "2026-11-03",
+      "last_updated_on": "2026-11-10",
       "last_enriched_on": "2026-11-03",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
@@ -5450,7 +5458,8 @@
         "owner-aligned-automated-power",
         "space-data-center-thermal-economics",
         "world-electricity-capacity-generation-consumption",
-        "x-auto-translation-serving-cost"
+        "x-auto-translation-serving-cost",
+        "data-center-grid-contracts-autumn-2026"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/data-center-world-capacity.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/data-center-world-capacity.md",
@@ -5478,7 +5487,7 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "대화 기반 총합·외부 신규 조사 없음·수치와 사고실험의 경계 검토 필요",
-      "last_updated_on": "2026-10-30",
+      "last_updated_on": "2026-11-10",
       "last_enriched_on": "2026-10-30",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
@@ -5486,7 +5495,8 @@
         "ai-cloud-ownership-rent",
         "ai-hidden-labor-feeding-machine-2026",
         "physical-cloud-reading-guide",
-        "ai-capital-labor-distribution"
+        "ai-capital-labor-distribution",
+        "data-center-grid-contracts-autumn-2026"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-data-center-local-economy.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/korea-data-center-local-economy.md",
@@ -6823,6 +6833,166 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/babylon-hymn-digital-reconstruction-2026.md",
       "page_url": "https://belorin.github.io/notes/babylon-hymn-digital-reconstruction-2026/",
       "app_url": "https://belorin.github.io/#babylon-hymn-digital-reconstruction-2026"
+    },
+    {
+      "id": "pluto-v2-release-aiide-withdrawal-2026",
+      "title": "플루토는 그 뒤 어떻게 바뀌었나: v2.0 공개와 AIIDE 2026 출전 철회",
+      "aliases": [
+        "플루토 2.0 후속 개발",
+        "Pluto AIIDE 2026 참가 철회"
+      ],
+      "category": "AI와 사회",
+      "tags": [
+        "Pluto v2.0",
+        "스타크래프트",
+        "AIIDE 2026",
+        "강화학습",
+        "대회 규칙",
+        "CPU 추론"
+      ],
+      "summary": "2026년 10월 Pluto v2.0의 공개와 AIIDE 참가 철회를 공식 릴리스·운영 기록으로 확인하고, 상대별 빌드 선택·신경망 재훈련·실행 시간 조건을 구별한다.",
+      "published": true,
+      "review_state": "reviewed",
+      "review_label": "2026년 가을 후속 조사",
+      "last_updated_on": "2026-11-10",
+      "last_enriched_on": "2026-11-10",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "starcraft-pluto-ai"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/pluto-v2-release-aiide-withdrawal-2026.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/pluto-v2-release-aiide-withdrawal-2026.md",
+      "page_url": "https://belorin.github.io/notes/pluto-v2-release-aiide-withdrawal-2026/",
+      "app_url": "https://belorin.github.io/#pluto-v2-release-aiide-withdrawal-2026"
+    },
+    {
+      "id": "orchestra-repertoire-repeat-performance-autumn-2026",
+      "title": "살아 있는 작곡가의 22.5%: 2026년 가을 오케스트라 통계와 재연의 제도",
+      "aliases": [
+        "2026년 가을 미국 오케스트라 통계",
+        "현대음악의 재연 컨소시엄"
+      ],
+      "category": "음악",
+      "tags": [
+        "오케스트라",
+        "생존 작곡가",
+        "ICD",
+        "Toulmin",
+        "위촉",
+        "재연",
+        "레퍼토리 통계"
+      ],
+      "summary": "10월 공개된 미국 오케스트라 보고서에서 생존 작곡가 비중과 내부 구성의 차이를 읽고, Toulmin 신규 위촉 컨소시엄과 지역 재연 사례를 작품의 생애라는 질문에 연결한다.",
+      "published": true,
+      "review_state": "reviewed",
+      "review_label": "2026년 가을 후속 조사",
+      "last_updated_on": "2026-11-10",
+      "last_enriched_on": "2026-11-10",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "orchestra-living-composers-canon",
+        "orchestra-repertoire-data-access",
+        "korean-orchestras-repertoire-2026"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-repertoire-repeat-performance-autumn-2026.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/orchestra-repertoire-repeat-performance-autumn-2026.md",
+      "page_url": "https://belorin.github.io/notes/orchestra-repertoire-repeat-performance-autumn-2026/",
+      "app_url": "https://belorin.github.io/#orchestra-repertoire-repeat-performance-autumn-2026"
+    },
+    {
+      "id": "data-center-grid-contracts-autumn-2026",
+      "title": "AI 데이터센터는 누가 전기를 보장하는가: 2026년 가을의 접속 대기열과 비용 분담",
+      "aliases": [
+        "2026년 가을 데이터센터 전력 계약",
+        "AI 데이터센터 접속 대기열과 취소 비용"
+      ],
+      "category": "AI와 사회",
+      "tags": [
+        "데이터센터",
+        "전력망",
+        "IEA",
+        "ERCOT",
+        "FERC",
+        "접속 대기열",
+        "비용 분담"
+      ],
+      "summary": "IEA의 10월 전력망 통합 보고서와 ERCOT·FERC 절차를 통해 접속 신청의 신뢰도, 비상 감축과 취소 비용의 부담을 살피고 국내 유치 사업의 계약 조사 항목을 제안한다.",
+      "published": true,
+      "review_state": "reviewed",
+      "review_label": "2026년 가을 후속 조사",
+      "last_updated_on": "2026-11-10",
+      "last_enriched_on": "2026-11-10",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "data-center-world-capacity",
+        "korea-data-center-local-economy"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/data-center-grid-contracts-autumn-2026.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/data-center-grid-contracts-autumn-2026.md",
+      "page_url": "https://belorin.github.io/notes/data-center-grid-contracts-autumn-2026/",
+      "app_url": "https://belorin.github.io/#data-center-grid-contracts-autumn-2026"
+    },
+    {
+      "id": "venice-biennale-autumn-criticism-2026",
+      "title": "비엔날레의 평가자는 누구인가: 2026년 가을 비평과 관객상, 폐막 프로그램",
+      "aliases": [
+        "2026 베니스 비엔날레 가을 후속",
+        "Visitors Lions와 폐막 Assembly"
+      ],
+      "category": "문화와 역사",
+      "tags": [
+        "베니스 비엔날레",
+        "In Minor Keys",
+        "관객상",
+        "Walid Raad",
+        "작가 공동체",
+        "미술 비평"
+      ],
+      "summary": "9~10월의 베니스 비엔날레 비평, 관객상 투표 조건과 11월 9일 발표된 폐막 프로그램을 대조해 평가 주체·국가관의 대표성·작가 조직의 지속성을 살핀다.",
+      "published": true,
+      "review_state": "reviewed",
+      "review_label": "2026년 가을 후속 조사",
+      "last_updated_on": "2026-11-10",
+      "last_enriched_on": "2026-11-10",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "venice-biennale-2026-critical-reception"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/venice-biennale-autumn-criticism-2026.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/venice-biennale-autumn-criticism-2026.md",
+      "page_url": "https://belorin.github.io/notes/venice-biennale-autumn-criticism-2026/",
+      "app_url": "https://belorin.github.io/#venice-biennale-autumn-criticism-2026"
+    },
+    {
+      "id": "bird-vocal-patterns-neural-code-2026",
+      "title": "새의 노래가 인간과 닮은 자리: 2026년 10월의 음향 비교와 앵무새 신경 연구",
+      "aliases": [
+        "2026년 10월 새 발성 연구",
+        "새의 음향 공통성과 앵무새 신경 부호"
+      ],
+      "category": "자연과 과학",
+      "tags": [
+        "새소리",
+        "사랑앵무",
+        "음향 패턴",
+        "발성 학습",
+        "신경 부호",
+        "동물 의사소통"
+      ],
+      "summary": "10월 Science의 종간 음향 비교와 사랑앵무 신경 부호 프리프린트를 읽으며 발성 패턴·생산 제어·의미 결합의 증거를 구별하고 기존 참새 연구 질문과 연결한다.",
+      "published": true,
+      "review_state": "reviewed",
+      "review_label": "2026년 가을 후속 조사",
+      "last_updated_on": "2026-11-10",
+      "last_enriched_on": "2026-11-10",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "bird-vocalization-sparrow"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/bird-vocal-patterns-neural-code-2026.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/bird-vocal-patterns-neural-code-2026.md",
+      "page_url": "https://belorin.github.io/notes/bird-vocal-patterns-neural-code-2026/",
+      "app_url": "https://belorin.github.io/#bird-vocal-patterns-neural-code-2026"
     }
   ]
 }

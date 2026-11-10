@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `korea-data-center-local-economy` · 분류: AI와 사회 · 공개 · 원고: [wiki/korea-data-center-local-economy.md](../../../wiki/korea-data-center-local-economy.md) · 5,708자 · 절 8개
+- id: `korea-data-center-local-economy` · 분류: AI와 사회 · 공개 · 원고: [wiki/korea-data-center-local-economy.md](../../../wiki/korea-data-center-local-economy.md) · 5,868자 · 절 9개
 - 별칭: 해남 데이터센터 일자리, 울산 SK AWS 지역경제, 데이터센터 지역고용
 - 요약: 울산 SK–AWS·해남 솔라시도 등 한국 데이터센터의 계획과 상주인력, 건설기 효과, AWS 현장 직군, 전력·물·세수의 지역 순편익을 비교한다.
 - 태그: 한국 데이터센터, 해남 솔라시도, 울산 AWS, 데이터센터 일자리, 지역경제, 전력망
-- 수정일: 2026-10-30 · 실제 증보일: 2026-10-30 · 검토: needs_review
-- 관련 문서: `data-center-world-capacity`, `ai-cloud-ownership-rent`, `ai-hidden-labor-feeding-machine-2026`, `physical-cloud-reading-guide`, `ai-capital-labor-distribution`
+- 수정일: 2026-11-10 · 실제 증보일: 2026-10-30 · 검토: needs_review
+- 관련 문서: `data-center-world-capacity`, `ai-cloud-ownership-rent`, `ai-hidden-labor-feeding-machine-2026`, `physical-cloud-reading-guide`, `ai-capital-labor-distribution`, `data-center-grid-contracts-autumn-2026`
 
 ## 절 목차
 
@@ -22,6 +22,7 @@
 - 지역이 부담하는 비용과 돌려받는 몫 · L60–64 · 405자 · `266f2a68` — 지역경제의 순효과에는 재산세·지방세·전력망 투자와 지역 구매계약뿐 아니라, 송전·배전 증설비, 전력요금 구조, 공사 소음·경관·대기환경·냉각용수·폐열 처리 및 주민의 수용성 비용이 포함된다.
 - ‘좋은 유치’의 기준을 크기나 액랭 하나로 고정하지 않는다 · L66–77 · 597자 · `1533e026` — 고밀도 AI에 대응하는 설계, 액체냉각, 장기 전력계약, 검증된 앵커 고객과 국내 기술 생태계의 결합은 전략적 가치가 높은 경우가 많다.
 - 자료의 성격과 검증할 질문 · L79–83 · 495자 · `6825b5a1` — 울산·해남·국내 시장 수치와 AWS 근로자 설명은 기존 대화에 인용된 한국 언론·Cushman & Wakefield·CBRE·IDC Korea·Amazon Jobs의 설명 범위에서 정리했다.
+- 2026년 가을 후속 조사 · L85–87 · 139자 · `852c4756` — 2026년 가을 전력망·계약 후속 조사에 해외의 접속·감축·비용 회수 논의를 정리했다.
 
 ## 장부에 기록된 반영 지식
 

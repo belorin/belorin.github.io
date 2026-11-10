@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `venice-biennale-2026-critical-reception` · 분류: 문화와 역사 · 공개 · 원고: [wiki/venice-biennale-2026-critical-reception.md](../../../wiki/venice-biennale-2026-critical-reception.md) · 5,327자 · 절 8개
+- id: `venice-biennale-2026-critical-reception` · 분류: 문화와 역사 · 공개 · 원고: [wiki/venice-biennale-2026-critical-reception.md](../../../wiki/venice-biennale-2026-critical-reception.md) · 5,505자 · 절 9개
 - 별칭: 2026 베니스 비엔날레, In Minor Keys, 2026 Venice Biennale, 코요 쿠오 비엔날레
 - 요약: 코요 쿠오의 사후 구현과 중앙전의 과밀·정치적 회피 논란, 대립하는 평론 및 주목받은 국가관·작품을 장기 평가의 문제와 연결한다.
 - 태그: 2026 베니스 비엔날레, In Minor Keys, Koyo Kouoh, 비평, 전시 기획, 정치와 예술, 국가관, 동시대미술
-- 수정일: 2026-10-25 · 실제 증보일: 2026-10-25 · 검토: needs_review
-- 관련 문서: `venice-biennale-history`, `venice-biennale-sites-pavilions`
+- 수정일: 2026-11-10 · 실제 증보일: 2026-10-25 · 검토: needs_review
+- 관련 문서: `venice-biennale-history`, `venice-biennale-sites-pavilions`, `venice-biennale-autumn-criticism-2026`
 
 ## 절 목차
 
@@ -21,6 +21,7 @@
 - 강하게 회자된 작품과 국가관 · L37–45 · 729자 · `79415007` — 중앙전 관련 비평에서 언급된 작업에는 Alfredo Jaar의 붉은 방과 희귀 광물 큐브, Theo Eshetu의 회전하는 올리브나무, Kader Attia, S…
 - 평가는 언제 굳어지는가: 개막 주간과 이후의 여섯 달 · L47–53 · 505자 · `77ffb2b3` — 베니스 비엔날레에서는 개막 직후 기자와 비평가, 미술관 관계자, 컬렉터의 이동이 한곳에 집중한다.
 - 참고로 거론된 평론과 보도 · L55–66 · 1,559자 · `d5ac0e1f` — 비엔날레 공식 2026 미술전 안내, 쿠오의 기획 소개
+- 2026년 가을 후속 조사 · L68–70 · 157자 · `00e689be` — 2026년 가을 비평과 관객상·폐막 프로그램은 9~10월 평론과 10월 29일·11월 9일 공식 안내를 잇는다.
 
 ## 장부에 기록된 반영 지식
 

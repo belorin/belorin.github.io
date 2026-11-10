@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `orchestra-living-composers-canon` · 분류: 음악 · 공개 · 원고: [wiki/orchestra-living-composers-canon.md](../../../wiki/orchestra-living-composers-canon.md) · 4,157자 · 절 6개
+- id: `orchestra-living-composers-canon` · 분류: 음악 · 공개 · 원고: [wiki/orchestra-living-composers-canon.md](../../../wiki/orchestra-living-composers-canon.md) · 4,352자 · 절 7개
 - 별칭: 살아 있는 작곡가, 현대 클래식 정전
 - 요약: Bachtrack 2022~2025년 생존 작곡가·여성 작곡가 통계, 패르트·윌리엄스와 신작 재연의 차이, 음악기관의 현재성을 분석한다.
 - 태그: 생존 작곡가, 현대 클래식, 정전, 초연, 재연
-- 수정일: 2026-10-30 · 실제 증보일: 2026-10-30 · 검토: needs_review
-- 관련 문서: `classical-canon-mauceri`, `orchestra-repertoire-data-access`, `world-orchestras-repertoire-2026`, `orchestra-composer-conductor-myth`, `living-orchestral-listening-journey`
+- 수정일: 2026-11-10 · 실제 증보일: 2026-10-30 · 검토: needs_review
+- 관련 문서: `classical-canon-mauceri`, `orchestra-repertoire-data-access`, `world-orchestras-repertoire-2026`, `orchestra-composer-conductor-myth`, `living-orchestral-listening-journey`, `orchestra-repertoire-repeat-performance-autumn-2026`
 
 ## 절 목차
 
@@ -20,6 +20,7 @@
 - 비중은 커져도 이름을 외우기 어려운 이유 · L25–29 · 542자 · `b81148b1` — 앞서 소개된 통계에서는 Bachtrack의 생존 작곡가 작품 연주 비중이 2016년 약 7%에서 2025년 약 14%로 늘었다고 설명되었다.
 - 14%는 실제로 얼마나 새로운가 · L31–40 · 432자 · `fecc6e4c` — 생존 작곡가 작품이 많이 연주되는 것과 다양한 신작이 정착하는 것은 서로 다른 명제다.
 - 프로그램의 문장을 읽는 감상법 · L42–50 · 677자 · `8e44d2e2` — 공연의 작품명만 아니라 'world premiere', 'commission', 'composer-in-residence', 'UK/Korean premiere'…
+- 2026년 가을 후속 조사 · L52–54 · 174자 · `2805a097` — 2026년 가을 오케스트라 후속 조사는 10월 공개된 미국의 2025–26 시즌 보고서와 신규 위촉 컨소시엄을 다룬다.
 
 ## 장부에 기록된 반영 지식
 

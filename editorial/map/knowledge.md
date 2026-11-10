@@ -3,9 +3,9 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1275개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1303개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
-## 보류 항목 (21)
+## 보류 항목 (25)
 
 - 경제 시뮬레이션의 기존 전제·수치·학파별 논증 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 해당 원자료를 확인하지 못해 기존 논증의 복원과 완전 보존 여부를 판정할 수 없음. 새 공개 자료의 보충 분석으로 대체 완료 처리하지 않음.
 - 기존 종합·수정 원고의 상세 내용 대조 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 본문이 아닌 참조 표시만 확인되어 기존 원고의 세부와 현재 증보 사이의 중복·차이를 검수할 수 없음.
@@ -28,8 +28,12 @@
 - 한국 소비의 연령·소득·자산 교차 원자료와 동기 검증 → 반영 위치 없음 · `ing-20261110-selected-external-followups` · pending — 확인한 공식 집계만으로 세대별 여행비와 소비 동기의 인과관계를 추정할 수 없어 원자료 분석·면접은 미실시로 남김
 - 일본 숙련 전승 로봇의 독립 현장 재현과 총비용 효과 → 반영 위치 없음 · `ing-20261110-selected-external-followups` · pending — 공식 기능·자체 시험을 확인했으나 독립 장기 운전 자료를 확보하지 못함
 - 고대 홍수층 동시성과 구약 관련 교과서 수용사 → 반영 위치 없음 · `ing-20261110-selected-external-followups` · pending — 문헌·학술판의 확인 범위 밖이며 지질 자료와 교과서의 별도 조사가 필요함
+- 새 플루토의 한국 대인전·약점 개선과 개발자의 직접 설명 → 반영 위치 없음 · `ing-20261110-autumn-other-followups` · pending — 공식 릴리스와 참가 철회는 확인했으나 버전을 고정한 대인전 실험 및 개선 근거는 이번 공개 자료에서 확보하지 못했다.
+- 국내 데이터센터 개별 사업의 비용 약정과 실제 가동 → 반영 위치 없음 · `ing-20261110-autumn-other-followups` · pending — 최근 해외 제도의 후속 조사에 한정했으며 국내 프로젝트별 계약 원문·실가동·순세수는 추가 자료가 필요하다.
+- 비엔날레 관객상 결과와 폐막 프로그램의 실제 성과 → 반영 위치 없음 · `ing-20261110-autumn-other-followups` · pending — 기준일인 2026-11-10 이후의 투표·행사 결과는 아직 이 조사에서 확정할 수 없다.
+- 조류 논문 상세 방법과 기존 참새 분류의 원문 대조 → 반영 위치 없음 · `ing-20261110-autumn-other-followups` · pending — 최근 두 연구는 공개 초록·서지와 대학 발표 범위로 확인했다. 본문의 세부 통제·효과 크기와 기존 한국 참새 자료의 재검증은 남아 있다.
 
-## AI와 사회 (232)
+## AI와 사회 (242)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -265,8 +269,18 @@
 - H2L 내부 실험의 성공률과 조건 차이 → `japan-skill-transfer-evidence-2026` § H2L의 15분·95%를 읽는 방법 · `ing-20261110-selected-external-followups`
 - AIST 학습·데이터·평가 연구의 역할 → `japan-skill-transfer-evidence-2026` § AIST: 시범을 더 모으는 것과 실패 조건을 시험하는 것 · `ing-20261110-selected-external-followups`
 - 숙련 데이터의 상태·개입·복구 기록 제안 → `japan-skill-transfer-evidence-2026` § 숙련을 보존하려면 성공 동작 옆에 무엇을 남겨야 하는가 · `ing-20261110-selected-external-followups`
+- Pluto v2.0의 공개일·모델 세대와 CPU 실행 조건 → `pluto-v2-release-aiide-withdrawal-2026` § 10월의 새 모델은 실제로 배포됐다 · `ing-20261110-autumn-other-followups`
+- 상대별 초반 빌드 선택과 신경망 재훈련의 구분 → `pluto-v2-release-aiide-withdrawal-2026` § 상대를 기억하는 것과 신경망을 다시 훈련하는 것 · `ing-20261110-autumn-other-followups`
+- 추론 지연 처리 방식에 따라 달라지는 경기력 비교 → `pluto-v2-release-aiide-withdrawal-2026` § 같은 플루토라도 시간을 어떻게 주는지가 다르다 · `ing-20261110-autumn-other-followups`
+- 공식 대회 메모와 등록표에서 확인한 AIIDE 참가 철회 → `pluto-v2-release-aiide-withdrawal-2026` § AIIDE 2026은 참가 철회로 확인된다 · `ing-20261110-autumn-other-followups`
+- 동일 조건에서 구판과 신판의 약점을 비교하는 후속 설계 → `pluto-v2-release-aiide-withdrawal-2026` § 다음 대결에서는 무엇을 비교할까 · `ing-20261110-autumn-other-followups`
+- IEA 10월 보고서의 정책 범위와 접속 대기열의 중복 가능성 → `data-center-grid-contracts-autumn-2026` § 접속 신청이 전력 수요를 과장할 수 있다 · `ing-20261110-autumn-other-followups`
+- ERCOT의 대규모 부하 감축 운영 틀에 관한 9월 공지 → `data-center-grid-contracts-autumn-2026` § 전기가 부족할 때 줄일 수 있는 사업자인가 · `ing-20261110-autumn-other-followups`
+- FERC 비용 공개·회수 논의와 11월 응답 기한의 진행 상태 → `data-center-grid-contracts-autumn-2026` § 취소된 캠퍼스의 송전선은 누가 갚는가 · `ing-20261110-autumn-other-followups`
+- 데이터센터 유치의 순편익에 취소 위험의 부담자를 포함하는 관점 → `data-center-grid-contracts-autumn-2026` § 취소된 캠퍼스의 송전선은 누가 갚는가 · `ing-20261110-autumn-other-followups`
+- 국내 개별 유치 사업의 전력·감축·취소 약정 조사 항목 → `data-center-grid-contracts-autumn-2026` § 지역이 받아야 할 것은 숫자보다 확인 가능한 약정이다 · `ing-20261110-autumn-other-followups`
 
-## 문화와 역사 (189)
+## 문화와 역사 (194)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -459,6 +473,11 @@
 - 수메르 홍수 원전의 내용과 명시적 결락 → `babylon-hymn-digital-reconstruction-2026` § 홍수 전승에서는 실제로 어디까지 읽을 수 있는가 · `ing-20261110-selected-external-followups`
 - 딜문 모티프와 에덴 위치 입증의 차이 → `babylon-hymn-digital-reconstruction-2026` § 딜문을 읽는 것과 에덴의 좌표를 찾는 것은 다르다 · `ing-20261110-selected-external-followups`
 - 사본·전승·사건·해석의 증거 수준 → `babylon-hymn-digital-reconstruction-2026` § 사건·사본·전승·해석을 구별하는 증거표 · `ing-20261110-selected-external-followups`
+- 가을 공식 안내에서 확인한 Visitors Lions 투표 자격과 시간 범위 → `venice-biennale-autumn-criticism-2026` § 관객상은 누구의 판단을 모으는가 · `ing-20261110-autumn-other-followups`
+- 전문가 심사와 방문객 투표가 생산하는 판단의 차이 → `venice-biennale-autumn-criticism-2026` § 관객상은 누구의 판단을 모으는가 · `ing-20261110-autumn-other-followups`
+- Walid Raad를 미국관으로 옮기는 NERO의 비평적 사고실험 → `venice-biennale-autumn-criticism-2026` § 국가관의 벽을 옮겨 보는 비평 · `ing-20261110-autumn-other-followups`
+- Arte Al Día와 Afterall의 정원·돌봄에 관한 가을 독해 → `venice-biennale-autumn-criticism-2026` § 정원과 돌봄을 두고 생기는 다른 독해 · `ing-20261110-autumn-other-followups`
+- 11월 13~22일 폐막 프로그램과 열 개 작가 조직의 Assembly 계획 → `venice-biennale-autumn-criticism-2026` § 폐막 직전에는 작품보다 그것을 지속시키는 조직이 모인다 · `ing-20261110-autumn-other-followups`
 
 ## 사회와 제도 (138)
 
@@ -603,7 +622,7 @@
 - 소프트웨어 개발 외주·EOR·프리랜서 계약 구별 → `global-bpo-labor-geography` § 개발자 아웃소싱의 새로운 연결층: EOR와 인력 플랫폼 · `ing-20261104-local-llm-global-developer-work`
 - 아프리카 개발자 다핵 네트워크와 원격 급여의 함정 → `global-bpo-labor-geography` § 아프리카 개발자 시장: 단일한 값싼 예비군이 아닌 다핵 구조 · `ing-20261104-local-llm-global-developer-work`
 
-## 음악 (125)
+## 음악 (130)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -732,6 +751,11 @@
 - 수상 위촉 상주작곡가 초연과 정전의 구별 → `living-orchestral-listening-journey` § 현재성을 확인하는 두 번째 축: 작품이 아니라 기관이 움직인다 · `ing-20261030-contemporary-symphonic-journey`
 - 초연 개정 시점과 2026년 수상 생존 여부의 재검증 경계 → `living-orchestral-listening-journey` § 자료 범위와 추가 확인 지점 · `ing-20261030-contemporary-symphonic-journey`
 - 청취기록으로 작품 반복과 해석자 팬덤을 관찰하기 → `living-orchestral-listening-journey` § 청취 기록: 사람의 이름이 되는 순간을 관찰하기 · `ing-20261030-contemporary-symphonic-journey`
+- 2025–26 미국 편성 작품의 생존 작곡가 비중과 내부 구성 → `orchestra-repertoire-repeat-performance-autumn-2026` § 전체 비중이 같아도 구성은 달라졌다 · `ing-20261110-autumn-other-followups`
+- 생존 작곡가 통계와 새 작품·진입 기회의 다른 의미 → `orchestra-repertoire-repeat-performance-autumn-2026` § ‘현대음악이 늘었다’만으로는 남는 질문 · `ing-20261110-autumn-other-followups`
+- 10월 27일 발표된 30개 악단의 Toulmin 신규 위촉 계획 → `orchestra-repertoire-repeat-performance-autumn-2026` § 초연 뒤 네 악단을 더 연결하는 방식 · `ing-20261110-autumn-other-followups`
+- TESTIFY!의 10월 지역별 공연 안내와 재연 추적 → `orchestra-repertoire-repeat-performance-autumn-2026` § 초연 뒤 네 악단을 더 연결하는 방식 · `ing-20261110-autumn-other-followups`
+- 초연 이후 작품 생애와 컨소시엄 밖 재연을 추적하는 지표 제안 → `orchestra-repertoire-repeat-performance-autumn-2026` § 다음 통계는 작품의 생애를 세어야 한다 · `ing-20261110-autumn-other-followups`
 
 ## 과학과 기술 (79)
 
@@ -1155,6 +1179,39 @@
 - 저자별 독서 목적 강점 주의점과 입문 경로 → `global-south-critical-reading-guide` § 어떤 책부터 읽어야 하나: 충격과 신뢰도의 교환 · `ing-20261102-todd-global-south-critical-reading`
 - 호들갑과 음모론을 피하는 여섯 가지 증거 검토 질문 → `global-south-critical-reading-guide` § 호들갑과 음모론을 거르는 여섯 가지 독서 질문 · `ing-20261102-todd-global-south-critical-reading`
 
+## 자연과 과학 (28)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 종 식별·발성 분류·기능 해석·언어 번역의 네 단계 구분 → `bird-vocalization-sparrow` § 식별과 번역 사이에는 몇 단계가 있는가 · `ing-20261025-bird-vocalization-sparrow`
+- 경고음의 기능적 지시성과 집단 대응의 관찰 한계 → `bird-vocalization-sparrow` § 경고음은 단순한 감정 표현을 넘어서는가 · `ing-20261025-bird-vocalization-sparrow`
+- 일본박새의 제한적인 조합적 의미 → `bird-vocalization-sparrow` § 일본박새의 조합적 신호가 갖는 의미 · `ing-20261025-bird-vocalization-sparrow`
+- 금화조 호출 유형과 사회적 맥락의 분석 → `bird-vocalization-sparrow` § 금화조의 호출 유형과 사회적 맥락 · `ing-20261025-bird-vocalization-sparrow`
+- 한국 참새와 집참새의 구별 및 현장 발성의 종류 → `bird-vocalization-sparrow` § 한국의 참새: 무엇을 듣고 있는가 · `ing-20261025-bird-vocalization-sparrow`
+- 참새 아홉 발성 유형 소개 및 A1~A9 매핑의 검증 유보 → `bird-vocalization-sparrow` § 아홉 가지 울음이라는 분류는 무엇을 뜻하는가 · `ing-20261025-bird-vocalization-sparrow`
+- 광주·나주·담양 도시 소음과 참새 발성 변화의 연구 소개 → `bird-vocalization-sparrow` § 도시의 소음은 참새의 발성을 바꾸는가 · `ing-20261025-bird-vocalization-sparrow`
+- 새소리 AI 분석을 행동 맥락 및 재생 실험으로 검증해야 할 이유 → `bird-vocalization-sparrow` § 현장에서 해석하려면 무엇을 함께 기록해야 하는가 · `ing-20261025-bird-vocalization-sparrow`
+- 전쟁 사망자와 탄소배출 감소의 비례 계산 한계 → `climate-population-villain-logic` § 출발점: 전쟁 사망자와 배출량의 잘못된 등식 · `ing-20261026-climate-dystopia`
+- 1.5도 탄소예산과 인구 감소 시나리오의 전제 → `climate-population-villain-logic` § 1.5°C와 탄소예산 · `ing-20261026-climate-dystopia`
+- 기후위기 악역의 계산주의와 도덕적 비약 → `climate-population-villain-logic` § 계산에서 명령으로 건너뛰는 순간 · `ing-20261026-climate-dystopia`
+- 절대속도·몸길이 대비 속도·사이클당 이동거리의 구분 → `swimming-bird-flight-biomechanics` § 비교를 위한 세 가지 척도 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 작은 새의 몸길이 비례속도와 인간 크기 환산 → `swimming-bird-flight-biomechanics` § 절대속도와 몸길이 속도 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 수영 스트로크와 조류 날갯짓의 사이클 분해 → `swimming-bird-flight-biomechanics` § 자유형의 한 사이클과 새의 한 날갯짓 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 팔 당기기와 하강타의 추진 동작 빈도 비교 → `swimming-bird-flight-biomechanics` § 팔 당기기와 하강타: 추진 동작의 빈도 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 자유형 킥과 조류 상승타의 보조·회수·자세 제어 역할 → `swimming-bird-flight-biomechanics` § 다리차기와 상승타: 추진의 빈틈을 어떻게 메우는가 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 수영 블록 출발과 비둘기 네 번 날갯짓 가속의 대비 → `swimming-bird-flight-biomechanics` § 출발: 벽을 미는 인간과 네 번의 날갯짓을 쓰는 비둘기 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 비둘기 착지 감속과 수영의 항력·벽 턴 대비 → `swimming-bird-flight-biomechanics` § 감속과 착지: 공기 중에서 스스로 벽을 만드는 법 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 날갯짓 빈도를 추진과 자세 제어의 갱신 기회로 보는 비교 → `swimming-bird-flight-biomechanics` § 선회와 제어 빈도 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 수중 글라이드와 조류 활공의 에너지·운동량 구조 차이 → `swimming-bird-flight-biomechanics` § 활공: 운동량을 소모하는 시간과 고도를 쓰는 시간 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 속도와 에너지 비용을 동일시할 수 없다는 한계 → `swimming-bird-flight-biomechanics` § 에너지 비용은 속도만으로 판단할 수 없다 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 몸길이 지표의 소형동물 편향과 까치 꼬리·종별 조건의 한계 → `swimming-bird-flight-biomechanics` § 왜 참새가 가장 극적으로 보이는가 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 한국 참새와 집참새 대용 자료의 구분 → `swimming-bird-flight-biomechanics` § 왜 참새가 가장 극적으로 보이는가 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 긴 저빈도 스트로크와 고빈도 날갯짓이라는 운동 전략의 대비 → `swimming-bird-flight-biomechanics` § 인간 수영과 새 비행을 한 문장으로 비교하면 · `ing-20261103-swimming-bird-flight-biomechanics`
+- 367종 새와 52개 인간 언어의 음향 패턴 비교 연구 → `bird-vocal-patterns-neural-code-2026` § 배우지 않는 새도 인간과 닮은 패턴을 보인다 · `ing-20261110-autumn-other-followups`
+- 사랑앵무의 음향 요소 재사용과 희소 신경 부호 프리프린트 → `bird-vocal-patterns-neural-code-2026` § 앵무새는 소리의 작은 조각을 어떻게 다시 쓰는가 · `ing-20261110-autumn-other-followups`
+- 음향 분포·발성 생산·의미 결합의 서로 다른 증거 → `bird-vocal-patterns-neural-code-2026` § 두 연구가 만나는 지점과 갈라지는 지점 · `ing-20261110-autumn-other-followups`
+- 새 연구를 참새 현장 기록에 연결할 때 필요한 종·맥락 구분 → `bird-vocal-patterns-neural-code-2026` § 길에서 듣는 참새에게 적용하려면 · `ing-20261110-autumn-other-followups`
+
 ## 철학·사상사 (27)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -1247,35 +1304,6 @@
 - 다성적 증언·보고서·정책 해설로 구성한 기후소설 형식 → `ministry-for-the-future-reading` § 7. 왜 이렇게 많은 화자가 필요한가: 형식이 세계를 닮는다 · `ing-20261103-gpi-foreign-novels`
 - 미래부의 결말과 피해의 불가역성 → `ministry-for-the-future-reading` § 8. 결말: 회복은 이미 치른 손실을 없애 주지 않는다 · `ing-20261103-gpi-foreign-novels`
 - 기후 재난소설에서 정책 과정이 서사를 이루는 방식 → `ministry-for-the-future-reading` § 9. 기후소설의 두 관습을 벗어나기 · `ing-20261103-gpi-foreign-novels`
-
-## 자연과 과학 (24)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 종 식별·발성 분류·기능 해석·언어 번역의 네 단계 구분 → `bird-vocalization-sparrow` § 식별과 번역 사이에는 몇 단계가 있는가 · `ing-20261025-bird-vocalization-sparrow`
-- 경고음의 기능적 지시성과 집단 대응의 관찰 한계 → `bird-vocalization-sparrow` § 경고음은 단순한 감정 표현을 넘어서는가 · `ing-20261025-bird-vocalization-sparrow`
-- 일본박새의 제한적인 조합적 의미 → `bird-vocalization-sparrow` § 일본박새의 조합적 신호가 갖는 의미 · `ing-20261025-bird-vocalization-sparrow`
-- 금화조 호출 유형과 사회적 맥락의 분석 → `bird-vocalization-sparrow` § 금화조의 호출 유형과 사회적 맥락 · `ing-20261025-bird-vocalization-sparrow`
-- 한국 참새와 집참새의 구별 및 현장 발성의 종류 → `bird-vocalization-sparrow` § 한국의 참새: 무엇을 듣고 있는가 · `ing-20261025-bird-vocalization-sparrow`
-- 참새 아홉 발성 유형 소개 및 A1~A9 매핑의 검증 유보 → `bird-vocalization-sparrow` § 아홉 가지 울음이라는 분류는 무엇을 뜻하는가 · `ing-20261025-bird-vocalization-sparrow`
-- 광주·나주·담양 도시 소음과 참새 발성 변화의 연구 소개 → `bird-vocalization-sparrow` § 도시의 소음은 참새의 발성을 바꾸는가 · `ing-20261025-bird-vocalization-sparrow`
-- 새소리 AI 분석을 행동 맥락 및 재생 실험으로 검증해야 할 이유 → `bird-vocalization-sparrow` § 현장에서 해석하려면 무엇을 함께 기록해야 하는가 · `ing-20261025-bird-vocalization-sparrow`
-- 전쟁 사망자와 탄소배출 감소의 비례 계산 한계 → `climate-population-villain-logic` § 출발점: 전쟁 사망자와 배출량의 잘못된 등식 · `ing-20261026-climate-dystopia`
-- 1.5도 탄소예산과 인구 감소 시나리오의 전제 → `climate-population-villain-logic` § 1.5°C와 탄소예산 · `ing-20261026-climate-dystopia`
-- 기후위기 악역의 계산주의와 도덕적 비약 → `climate-population-villain-logic` § 계산에서 명령으로 건너뛰는 순간 · `ing-20261026-climate-dystopia`
-- 절대속도·몸길이 대비 속도·사이클당 이동거리의 구분 → `swimming-bird-flight-biomechanics` § 비교를 위한 세 가지 척도 · `ing-20261103-swimming-bird-flight-biomechanics`
-- 작은 새의 몸길이 비례속도와 인간 크기 환산 → `swimming-bird-flight-biomechanics` § 절대속도와 몸길이 속도 · `ing-20261103-swimming-bird-flight-biomechanics`
-- 수영 스트로크와 조류 날갯짓의 사이클 분해 → `swimming-bird-flight-biomechanics` § 자유형의 한 사이클과 새의 한 날갯짓 · `ing-20261103-swimming-bird-flight-biomechanics`
-- 팔 당기기와 하강타의 추진 동작 빈도 비교 → `swimming-bird-flight-biomechanics` § 팔 당기기와 하강타: 추진 동작의 빈도 · `ing-20261103-swimming-bird-flight-biomechanics`
-- 자유형 킥과 조류 상승타의 보조·회수·자세 제어 역할 → `swimming-bird-flight-biomechanics` § 다리차기와 상승타: 추진의 빈틈을 어떻게 메우는가 · `ing-20261103-swimming-bird-flight-biomechanics`
-- 수영 블록 출발과 비둘기 네 번 날갯짓 가속의 대비 → `swimming-bird-flight-biomechanics` § 출발: 벽을 미는 인간과 네 번의 날갯짓을 쓰는 비둘기 · `ing-20261103-swimming-bird-flight-biomechanics`
-- 비둘기 착지 감속과 수영의 항력·벽 턴 대비 → `swimming-bird-flight-biomechanics` § 감속과 착지: 공기 중에서 스스로 벽을 만드는 법 · `ing-20261103-swimming-bird-flight-biomechanics`
-- 날갯짓 빈도를 추진과 자세 제어의 갱신 기회로 보는 비교 → `swimming-bird-flight-biomechanics` § 선회와 제어 빈도 · `ing-20261103-swimming-bird-flight-biomechanics`
-- 수중 글라이드와 조류 활공의 에너지·운동량 구조 차이 → `swimming-bird-flight-biomechanics` § 활공: 운동량을 소모하는 시간과 고도를 쓰는 시간 · `ing-20261103-swimming-bird-flight-biomechanics`
-- 속도와 에너지 비용을 동일시할 수 없다는 한계 → `swimming-bird-flight-biomechanics` § 에너지 비용은 속도만으로 판단할 수 없다 · `ing-20261103-swimming-bird-flight-biomechanics`
-- 몸길이 지표의 소형동물 편향과 까치 꼬리·종별 조건의 한계 → `swimming-bird-flight-biomechanics` § 왜 참새가 가장 극적으로 보이는가 · `ing-20261103-swimming-bird-flight-biomechanics`
-- 한국 참새와 집참새 대용 자료의 구분 → `swimming-bird-flight-biomechanics` § 왜 참새가 가장 극적으로 보이는가 · `ing-20261103-swimming-bird-flight-biomechanics`
-- 긴 저빈도 스트로크와 고빈도 날갯짓이라는 운동 전략의 대비 → `swimming-bird-flight-biomechanics` § 인간 수영과 새 비행을 한 문장으로 비교하면 · `ing-20261103-swimming-bird-flight-biomechanics`
 
 ## 정보와 미디어 (24)
 

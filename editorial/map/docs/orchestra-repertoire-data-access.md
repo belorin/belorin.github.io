@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `orchestra-repertoire-data-access` · 분류: 음악 · 공개 · 원고: [wiki/orchestra-repertoire-data-access.md](../../../wiki/orchestra-repertoire-data-access.md) · 4,054자 · 절 4개
+- id: `orchestra-repertoire-data-access` · 분류: 음악 · 공개 · 원고: [wiki/orchestra-repertoire-data-access.md](../../../wiki/orchestra-repertoire-data-access.md) · 4,200자 · 절 5개
 - 별칭: 세계 오케스트라 통계, Classical Access Index
 - 요약: Bachtrack·Operabase·뉴욕 필 공연 DB의 범위, 나라별 오케스트라 수의 함정, 공연장과 30~120분 생활권 접근성 지수 및 2014~2025년 등록 콘서트 추이를 비교한다.
 - 태그: 오케스트라 통계, 레퍼토리 데이터, Bachtrack, KOPIS, 접근성 지수
-- 수정일: 2026-10-25 · 실제 증보일: 2026-10-25 · 검토: needs_review
-- 관련 문서: `orchestra-living-composers-canon`, `world-orchestras-repertoire-2026`, `orchestra-halls-seasons`
+- 수정일: 2026-11-10 · 실제 증보일: 2026-10-25 · 검토: needs_review
+- 관련 문서: `orchestra-living-composers-canon`, `world-orchestras-repertoire-2026`, `orchestra-halls-seasons`, `orchestra-repertoire-repeat-performance-autumn-2026`
 
 ## 절 목차
 
@@ -18,6 +18,7 @@
 - 미국 오케스트라 2,218개라는 숫자의 함정 · L15–23 · 974자 · `ef62fa3c` — 미국 2,218개라는 넓은 통계에는 professional, community, youth orchestra 등이 섞인다.
 - 공연장 수와 음악을 들을 가능성은 다르다 · L25–31 · 823자 · `bac3ce2e` — 전용 콘서트홀 수, 오페라하우스·극장 수, 대형 복합 공연장 수, 상주 악단, 연간 오케스트라 공연 횟수, 정기공연·대관 비율은 별개의 축이다.
 - Bachtrack의 '콘서트' 10개 연례 통계 · L33–47 · 929자 · `47ad7a6f` — 오페라·무용을 제외하고 concerts만 남긴 수치로 소개된 연도별 건수는 다음과 같다.
+- 2026년 가을 후속 조사 · L49–51 · 125자 · `6225669a` — 2026년 가을의 새 보고서와 재연 조사에 미국 423개 악단 보고서의 범위와 작품의 생애를 추적할 항목을 정리했다.
 
 ## 장부에 기록된 반영 지식
 

@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `data-center-world-capacity` · 분류: AI와 사회 · 공개 · 원고: [wiki/data-center-world-capacity.md](../../../wiki/data-center-world-capacity.md) · 9,009자 · 절 14개
+- id: `data-center-world-capacity` · 분류: AI와 사회 · 공개 · 원고: [wiki/data-center-world-capacity.md](../../../wiki/data-center-world-capacity.md) · 9,190자 · 절 15개
 - 별칭: 세계 데이터센터 GW, 데이터센터 세계 비중, 데이터센터 액랭 공랭, 데이터센터 감가상각
 - 요약: 2025~2030년 지역별 GW·건설 파이프라인, 공실률의 모수, 공랭·액랭의 시설별 보급, 물리적 수명과 미국·중국·걸프·APAC 기업 생태계를 구분한다.
 - 태그: 데이터센터, GW, 액체냉각, 전력, GPU 감가상각, 하이퍼스케일, 클라우드
-- 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: needs_review
-- 관련 문서: `ai-compute-scaling-inference`, `ai-cloud-ownership-rent`, `korea-data-center-local-economy`, `physical-cloud-reading-guide`, `owner-aligned-automated-power`, `space-data-center-thermal-economics`, `world-electricity-capacity-generation-consumption`, `x-auto-translation-serving-cost`
+- 수정일: 2026-11-10 · 실제 증보일: 2026-11-03 · 검토: needs_review
+- 관련 문서: `ai-compute-scaling-inference`, `ai-cloud-ownership-rent`, `korea-data-center-local-economy`, `physical-cloud-reading-guide`, `owner-aligned-automated-power`, `space-data-center-thermal-economics`, `world-electricity-capacity-generation-consumption`, `x-auto-translation-serving-cost`, `data-center-grid-contracts-autumn-2026`
 
 ## 절 목차
 
@@ -28,6 +28,7 @@
 - 투자자를 따라가면 누구를 만나는가 · L107–120 · 819자 · `e04374b9` — AI 모델 회사가 전력선을 직접 놓는 것은 아니다.
 - 어디에 투자지가 생기고 어디에서 폐품이 생기는가 · L122–128 · 587자 · `36bb8b2d` — 투자 관점에서 세 부류를 구별할 수 있다.
 - 근거 범위와 남는 질문 · L130–132 · 304자 · `7cbbead1` — 이 글의 GW·공실률·시설 수와 PUE·냉각 비율은 대화에서 인용된 JLL, Cushman & Wakefield, Synergy Research, IEA, Upt…
+- 2026년 가을 후속 조사 · L134–136 · 160자 · `8b36bd88` — 2026년 가을 전력망·계약 후속 조사는 IEA의 10월 보고서와 ERCOT·FERC 절차를 대조해 접속 대기열, 비상 감축과 취소 비용을 다룬다.
 
 ## 장부에 기록된 반영 지식
 

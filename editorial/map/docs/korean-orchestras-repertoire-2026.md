@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `korean-orchestras-repertoire-2026` · 분류: 음악 · 공개 · 원고: [wiki/korean-orchestras-repertoire-2026.md](../../../wiki/korean-orchestras-repertoire-2026.md) · 5,119자 · 절 12개
+- id: `korean-orchestras-repertoire-2026` · 분류: 음악 · 공개 · 원고: [wiki/korean-orchestras-repertoire-2026.md](../../../wiki/korean-orchestras-repertoire-2026.md) · 5,301자 · 절 13개
 - 별칭: 한국 오케스트라 캐릭터, 한국 교향악단 선곡
 - 요약: 서울·KBS·국립·부산·인천·부천·대구·광주·대전·수원·경기필의 확인된 2026년 프로그램과 인상비평의 한계를 구별한다.
 - 태그: 한국 교향악단, 2026 시즌, 서울시향, 인천시향, 부천필, 큐레이션
-- 수정일: 2026-10-25 · 실제 증보일: 2026-10-25 · 검토: needs_review
-- 관련 문서: `world-orchestras-repertoire-2026`, `orchestra-repertoire-data-access`, `orchestra-living-composers-canon`
+- 수정일: 2026-11-10 · 실제 증보일: 2026-10-25 · 검토: needs_review
+- 관련 문서: `world-orchestras-repertoire-2026`, `orchestra-repertoire-data-access`, `orchestra-living-composers-canon`, `orchestra-repertoire-repeat-performance-autumn-2026`
 
 ## 절 목차
 
@@ -26,6 +26,7 @@
 - 수원시립교향악단: 전통을 중량급 레퍼토리로 확장하는 도전자 · L66–68 · 218자 · `1ecdf894` — 수원시향의 2026년 소개에는 '전통과 도전', '말러·쇼스타코비치·브루크너로 확장되는 세계'라는 방향이 언급되었다.
 - 경기필하모닉: 캐릭터를 보류할 용기 · L70–72 · 198자 · `52081d69` — 경기필에서는 2026년 마스터피스 시리즈의 몇몇 공연 일정을 확인했다는 설명은 있었으나 작품명이 충분히 제시되지 않았다.
 - 한국 악단을 캐릭터로 그릴 때 지켜야 할 선 · L74–84 · 899자 · `3a936309` — 2026년의 곡목·시리즈 명칭에 근거한 캐릭터를 요약하면 서울시향의 말러·모차르트 설계자, KBS의 70주년 말러 정통파, 국립심포니의 표준작 번역자, 부산의 대…
+- 2026년 가을 후속 조사 · L86–88 · 161자 · `3369bbb1` — 2026년 가을 미국 보고서와 재연 제도는 생존 작곡가 비중 안에서 달라진 기회 배분과 작품의 재연을 살핀다.
 
 ## 장부에 기록된 반영 지식
 

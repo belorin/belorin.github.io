@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 697,
+  "edge_count": 713,
   "edges": [
     {
       "from": "living-notes",
@@ -1878,6 +1878,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "orchestra-repertoire-data-access",
+      "to": "orchestra-repertoire-repeat-performance-autumn-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "orchestra-living-composers-canon",
       "to": "classical-canon-mauceri",
       "type": "related_to",
@@ -1904,6 +1910,12 @@
     {
       "from": "orchestra-living-composers-canon",
       "to": "living-orchestral-listening-journey",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-living-composers-canon",
+      "to": "orchestra-repertoire-repeat-performance-autumn-2026",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1952,6 +1964,12 @@
     {
       "from": "korean-orchestras-repertoire-2026",
       "to": "orchestra-living-composers-canon",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "korean-orchestras-repertoire-2026",
+      "to": "orchestra-repertoire-repeat-performance-autumn-2026",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2126,6 +2144,12 @@
     {
       "from": "ai-transition-policy-gap",
       "to": "ai-transition-monetary-order",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bird-vocalization-sparrow",
+      "to": "bird-vocal-patterns-neural-code-2026",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2330,6 +2354,12 @@
     {
       "from": "venice-biennale-2026-critical-reception",
       "to": "venice-biennale-sites-pavilions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "venice-biennale-2026-critical-reception",
+      "to": "venice-biennale-autumn-criticism-2026",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2738,6 +2768,12 @@
     {
       "from": "gpt-wiki-zero-prototype",
       "to": "local-llm-novel-agent-m1",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "starcraft-pluto-ai",
+      "to": "pluto-v2-release-aiide-withdrawal-2026",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -3402,6 +3438,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "data-center-world-capacity",
+      "to": "data-center-grid-contracts-autumn-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "korea-data-center-local-economy",
       "to": "data-center-world-capacity",
       "type": "related_to",
@@ -3428,6 +3470,12 @@
     {
       "from": "korea-data-center-local-economy",
       "to": "ai-capital-labor-distribution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "korea-data-center-local-economy",
+      "to": "data-center-grid-contracts-autumn-2026",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -3914,6 +3962,54 @@
     {
       "from": "babylon-hymn-digital-reconstruction-2026",
       "to": "sumer-bible-primeval-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "pluto-v2-release-aiide-withdrawal-2026",
+      "to": "starcraft-pluto-ai",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-repertoire-repeat-performance-autumn-2026",
+      "to": "orchestra-living-composers-canon",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-repertoire-repeat-performance-autumn-2026",
+      "to": "orchestra-repertoire-data-access",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-repertoire-repeat-performance-autumn-2026",
+      "to": "korean-orchestras-repertoire-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "data-center-grid-contracts-autumn-2026",
+      "to": "data-center-world-capacity",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "data-center-grid-contracts-autumn-2026",
+      "to": "korea-data-center-local-economy",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "venice-biennale-autumn-criticism-2026",
+      "to": "venice-biennale-2026-critical-reception",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bird-vocal-patterns-neural-code-2026",
+      "to": "bird-vocalization-sparrow",
       "type": "related_to",
       "basis": "manifest.related"
     },
