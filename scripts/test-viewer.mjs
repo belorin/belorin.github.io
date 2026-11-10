@@ -218,7 +218,10 @@ assert.match(html(), /연결된 글[\s\S]*href="#viewer-test-novel"/, 'A linked 
 // Deployed data: the index has no bodies; an article fetches its own, search fetches all.
 {
   const requests = [];
-  const slim = notes.map(({body, ...meta}) => ({...meta, chars: body.length, aliases: meta.id === basisB.id ? ['별칭시험어'] : []}));
+  const slim = notes.map(({body, ...meta}) => ({...meta, chars: body.length, aliases: meta.id === basisB.id ? ['별칭시험어'] : [],
+    ...(meta.id === basisA.id ? {k: 2, rel: [{id: basisB.id, dir: 'out', type: 'elaborates', reason: '시험 관계의 이유'}]} : {})}));
+  const pieces = [{d: '2026-01-02', k: 'counterargument', t: '시험 반론 표제', s: 2, h: '둘째 절'}, {d: '2026-01-01', k: 'fact', t: '시험 사실 표제'}];
+  const logData = [...pieces.map(piece => ({...piece, doc: basisA.id})), {d: '2026-01-01', k: 'fact', t: '없는 문서', doc: 'gone'}];
   const view2 = element(), search2 = element(), events2 = new Map();
   const nodes2 = new Map([['#view', view2], ['#search', search2], ['#filters', element()], ['#sidebar-random', element()], ['#explore-toggle', element()]]);
   const location2 = {hash: '#' + basisA.id};
@@ -232,8 +235,9 @@ assert.match(html(), /연결된 글[\s\S]*href="#viewer-test-novel"/, 'A linked 
       requests.push(url);
       if (url === 'data/index.json') return {ok: true, json: async () => slim};
       if (url === 'notes.json') return {ok: true, json: async () => notes};
+      if (url === 'data/log.json') return {ok: true, json: async () => logData};
       const id = /^data\/notes\/([a-z0-9-]+)\.json$/.exec(url)?.[1];
-      return id ? {ok: true, json: async () => ({id, body: notes.find(n => n.id === id).body})} : {ok: false};
+      return id ? {ok: true, json: async () => ({id, body: notes.find(n => n.id === id).body, ...(id === basisA.id ? {knowledge: pieces} : {})})} : {ok: false};
     }
   }, {filename: 'app.js', timeout: 5000});
   const settle = async () => { for (let i = 0; i < 5; i++) await new Promise(resolve => setImmediate(resolve)); };
@@ -241,13 +245,28 @@ assert.match(html(), /연결된 글[\s\S]*href="#viewer-test-novel"/, 'A linked 
   assert.deepEqual(requests, ['data/index.json', 'data/notes/' + basisA.id + '.json'], 'An article loads the index and its own body only');
   assert.ok(view2.innerHTML.includes('class="prose"') && !view2.innerHTML.includes('불러오는 중'), 'Body did not render');
   assert.equal(state.top, 321, 'Back/forward restores the remembered scroll position');
+  assert.match(view2.innerHTML, /이 글에 담긴 지식 · 2건/);
+  assert.match(view2.innerHTML, new RegExp('data-jump="' + basisA.id + '-section-2">둘째 절</button>'));
+  assert.match(view2.innerHTML, /class="kind kind-counterargument">반론<\/span><span>시험 반론 표제/);
+  assert.match(view2.innerHTML, /class="typed">[^<]* →<span class="relation"><span class="relation-type">→ 심화<\/span>시험 관계의 이유/);
+  const go = async fragment => { location2.hash = fragment; events2.get('hashchange')(); await settle(); return view2.innerHTML; };
+  assert.match(await go('#log'), /<h1>지식 일지<\/h1>/);
+  assert.match(view2.innerHTML, /data-kind="counterargument"[^>]*>반론 <span class="filter-count">1</);
+  assert.ok(view2.innerHTML.includes('href="#' + basisA.id + '/2">시험 반론 표제</a>'), 'A log item leads to its section');
+  assert.ok(!view2.innerHTML.includes('없는 문서'), 'Items of unknown documents stay out');
+  assert.ok((await go('#' + basisA.id + '/2')).includes('class="prose"'), 'A section address opens its article');
+  assert.match(await go('#' + basisA.id + '/999'), /class="prose"/);
   search2.value = '별칭시험어';
   location2.hash = '#all';
   events2.get('hashchange')();
   assert.ok(view2.innerHTML.includes(esc(basisB.title)), 'Aliases from the index are searchable before bodies arrive');
   assert.match(view2.innerHTML, /본문을 불러오는 중/);
   await settle();
-  assert.equal(requests.at(-1), 'notes.json', 'Search loads every body once');
+  assert.equal(requests.filter(url => url === 'notes.json').length, 1, 'Search loads every body once');
+  search2.value = '반론 시험';
+  events2.get('hashchange')();
+  assert.match(view2.innerHTML, /지식 표제 1건/, 'Knowledge titles are searchable');
+  assert.ok(view2.innerHTML.includes('href="#' + basisA.id + '/2">'), 'A knowledge hit leads to its section');
   assert.ok(!view2.innerHTML.includes('본문을 불러오는 중'));
 }
 console.log('OK: viewer routes, mobile navigation, Markdown tables, alignment, escaping and ' + tableDocuments + ' published table documents');
