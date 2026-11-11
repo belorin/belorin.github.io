@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 713,
+  "edge_count": 727,
   "edges": [
     {
       "from": "living-notes",
@@ -1104,6 +1104,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "llm-disempowerment-patterns",
+      "to": "ai-mediated-human-change",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "conversational-ai-persuasion",
       "to": "ai-human-control-guide",
       "type": "related_to",
@@ -1680,6 +1686,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "ai-domination-gradient",
+      "to": "ai-mediated-human-change",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "stalking-harm-and-autonomy",
       "to": "excellent-victim-kwak-aram",
       "type": "related_to",
@@ -2084,6 +2096,12 @@
     {
       "from": "ai-compute-scaling-inference",
       "to": "x-auto-translation-serving-cost",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-compute-scaling-inference",
+      "to": "ai-agent-knowledge-ecology",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -3900,6 +3918,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "local-llm-industrial-operations",
+      "to": "ai-agent-knowledge-ecology",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "ai-layoffs-global-remote-restructuring",
       "to": "global-bpo-labor-geography",
       "type": "related_to",
@@ -4010,6 +4034,66 @@
     {
       "from": "bird-vocal-patterns-neural-code-2026",
       "to": "bird-vocalization-sparrow",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-mediated-human-change",
+      "to": "ai-domination-gradient",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-mediated-human-change",
+      "to": "ai-human-control-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-mediated-human-change",
+      "to": "llm-disempowerment-patterns",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-mediated-human-change",
+      "to": "disempowerment-measurement",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-mediated-human-change",
+      "to": "gradual-disempowerment",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-mediated-human-change",
+      "to": "conversational-ai-persuasion",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-mediated-human-change",
+      "to": "ai-agent-knowledge-ecology",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-agent-knowledge-ecology",
+      "to": "ai-mediated-human-change",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-agent-knowledge-ecology",
+      "to": "ai-compute-scaling-inference",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-agent-knowledge-ecology",
+      "to": "local-llm-industrial-operations",
       "type": "related_to",
       "basis": "manifest.related"
     },

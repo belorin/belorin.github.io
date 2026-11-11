@@ -4,7 +4,7 @@
 > 사용 순서: ① 채팅에서 추출한 지식 항목마다 제목·별칭으로 후보를 찾는다 → ② 후보의 문서 카드 `editorial/map/docs/<id>.md`에서 절 목차와 장부 기록을 본다 → ③ 해당 절 본문을 읽고 대조한다. 전문으로 넓히는 조건은 WIKI_PROTOCOL §4를 따른다.
 > 지도와 카드는 후보를 찾는 도구일 뿐이다. 중복·반영 여부는 원고 본문을 읽고 판정한다.
 
-원고 202개 (미게시 3, 소설 2편 포함) · 종합 2편 · AI의 글 1편 · 절 2,145개 · 장부 지식 항목 1303개
+원고 203개 (미게시 2, 소설 2편 포함) · 종합 2편 · AI의 글 1편 · 절 2,157개 · 장부 지식 항목 1318개
 
 특정 논점이 이미 처리되었는지는 [지식 표제 역색인](knowledge.md)에서 낱말로 **검색**한다(통째로 읽지 않는다). 장부가 없는 원고는 문서 카드의 절 목차로 찾는다.
 
@@ -14,9 +14,9 @@
 
 `jazz-to-ai` · `double-bass` · `electric-bass` · `rhythm-section` · `big-band` · `brass-band` · `drum-kit` · `jazz-dialogue` · `jazz-listening` · `circus-music-questions` · `circus-music-concepts` · `circus-music-research-ledger` · `jazz-history-plural` · `jazz-ensemble-labor` · `jazz-live-quartet-case` · `jazz-chronological-listening` · `jazz-current-ecosystem` · `jazz-career-path` · `silent-film-musician-labor` · `classical-canon-mauceri` · `daisuke-soga-conductor-career` · `long-running-music-broadcasts` · `japanese-classical-tv-conductor-image` · `woodwind-reeds-material-history` · `instrument-consumables-organic-materials` · `orchestra-instrument-stereotypes` · `korea-dance-musical-tours` · `orchestra-repertoire-data-access` · `orchestra-living-composers-canon` · `world-orchestras-repertoire-2026` · `korean-orchestras-repertoire-2026` · `orchestration-instrument-history` · `conductors-career-encores` · `orchestra-halls-seasons` · `mood-led-music-listening` · `orchestra-composer-conductor-myth` · `living-orchestral-listening-journey` · `orchestra-repertoire-repeat-performance-autumn-2026`
 
-## AI와 사회 (33) → [분류 지도](categories/AI%EC%99%80-%EC%82%AC%ED%9A%8C.md)
+## AI와 사회 (35) → [분류 지도](categories/AI%EC%99%80-%EC%82%AC%ED%9A%8C.md)
 
-`ai-human-control-guide` · `ai-takeover-human-recourse` · `ai-goals-hostage-and-bait` · `gradual-disempowerment` · `disempowerment-measurement` · `llm-disempowerment-patterns` · `conversational-ai-persuasion` · `ai-conversation-data-access` · `ai-democracy-narrow-corridor` · `ai-economic-transition` · `ai-capital-labor-distribution` · `ai-class-fiction` · `ai-domination-gradient` · `hank-asher-data-fusion-ai` · `korea-personal-data-lifecycle` · `ai-compute-scaling-inference` · `japan-physical-ai-skill-transfer` · `ai-transition-policy-gap` · `starcraft-pluto-ai` · `ai-hidden-labor-feeding-machine-2026` · `ai-cloud-ownership-rent` · `ai-adoption-ceiling-floor` · `owner-aligned-automated-power` · `ai-transition-monetary-order` · `data-center-world-capacity` · `korea-data-center-local-economy` · `physical-cloud-reading-guide` · `african-ai-annotation-labor-2026` · `ai-layoffs-global-remote-restructuring` · `ai-youth-hiring-productivity-evidence-2026` · `japan-skill-transfer-evidence-2026` · `pluto-v2-release-aiide-withdrawal-2026` · `data-center-grid-contracts-autumn-2026`
+`ai-mediated-human-change` · `ai-human-control-guide` · `ai-takeover-human-recourse` · `ai-goals-hostage-and-bait` · `gradual-disempowerment` · `disempowerment-measurement` · `llm-disempowerment-patterns` · `conversational-ai-persuasion` · `ai-conversation-data-access` · `ai-democracy-narrow-corridor` · `ai-economic-transition` · `ai-capital-labor-distribution` · `ai-class-fiction` · `ai-domination-gradient` · `hank-asher-data-fusion-ai` · `korea-personal-data-lifecycle` · `ai-compute-scaling-inference` · `japan-physical-ai-skill-transfer` · `ai-transition-policy-gap` · `starcraft-pluto-ai` · `ai-hidden-labor-feeding-machine-2026` · `ai-cloud-ownership-rent` · `ai-adoption-ceiling-floor` · `owner-aligned-automated-power` · `ai-transition-monetary-order` · `data-center-world-capacity` · `korea-data-center-local-economy` · `physical-cloud-reading-guide` · `african-ai-annotation-labor-2026` · `ai-layoffs-global-remote-restructuring` · `ai-youth-hiring-productivity-evidence-2026` · `japan-skill-transfer-evidence-2026` · `pluto-v2-release-aiide-withdrawal-2026` · `data-center-grid-contracts-autumn-2026` · `ai-agent-knowledge-ecology`
 
 ## 사회와 제도 (28) → [분류 지도](categories/%EC%82%AC%ED%9A%8C%EC%99%80-%EC%A0%9C%EB%8F%84.md)
 
@@ -82,9 +82,9 @@
 
 `music-books-supply-attention` · `music-upload-listening-gap-2026`
 
-## 미분류 (2) → [분류 지도](categories/%EB%AF%B8%EB%B6%84%EB%A5%98.md)
+## 미분류 (1) → [분류 지도](categories/%EB%AF%B8%EB%B6%84%EB%A5%98.md)
 
-`ai-mediated-human-change` · `circus-music-history`
+`circus-music-history`
 
 ## 언어 (1) → [분류 지도](categories/%EC%96%B8%EC%96%B4.md)
 

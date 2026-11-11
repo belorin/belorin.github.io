@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1303개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1318개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (25)
 
@@ -33,7 +33,7 @@
 - 비엔날레 관객상 결과와 폐막 프로그램의 실제 성과 → 반영 위치 없음 · `ing-20261110-autumn-other-followups` · pending — 기준일인 2026-11-10 이후의 투표·행사 결과는 아직 이 조사에서 확정할 수 없다.
 - 조류 논문 상세 방법과 기존 참새 분류의 원문 대조 → 반영 위치 없음 · `ing-20261110-autumn-other-followups` · pending — 최근 두 연구는 공개 초록·서지와 대학 발표 범위로 확인했다. 본문의 세부 통제·효과 크기와 기존 한국 참새 자료의 재검증은 남아 있다.
 
-## AI와 사회 (242)
+## AI와 사회 (258)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -76,6 +76,7 @@
 - 위해 위협의 개별 신고 체계와 기준 변경 사례 → `ai-conversation-data-access` § 개별 신고 체계; `ai-conversation-data-access` § 텀블러리지 사건과 신고 기준의 이동 · `ing-20261023-ai-control-disempowerment`
 - 국가 연계 악용 네트워크 차단 보고 → `ai-conversation-data-access` § 공개된 활용: 위협 정보 · `ing-20261023-ai-control-disempowerment`
 - 대화 데이터의 증거 없는 잠재적 활용 → `ai-conversation-data-access` § 가능하지만 증거가 없는 활용; `ai-conversation-data-access` § 같은 능력의 두 얼굴 · `ing-20261023-ai-control-disempowerment`
+- 판단·관계·능력 변화 가설에 대한 실측·측정 연구의 연결 → `ai-mediated-human-change` § 판단; `ai-mediated-human-change` § 관계; `ai-mediated-human-change` § 능력 · `ing-20261023-ai-control-disempowerment`
 - AI와 민주주의의 좁은 회랑 수리모형 → `ai-democracy-narrow-corridor` § 좁은 회랑: 국가와 시민사회의 두 힘; `ai-democracy-narrow-corridor` § AI의 기술적 상보성 · `ing-20261023-deleuze-control-democracy`
 - 데이터 비대칭이 국가와 시민사회의 정치 비대칭으로 바뀌는 메커니즘 → `ai-democracy-narrow-corridor` § 데이터 비대칭이 정치 비대칭으로 변하는 과정 · `ing-20261023-deleuze-control-democracy`
 - 164개국 디지털 능력과 필터링·차단·사이버보안 구분 → `ai-democracy-narrow-corridor` § 164개국 자료와 세 종류의 디지털 능력; `ai-democracy-narrow-corridor` § 능력과 실제 사용은 다르다 · `ing-20261023-deleuze-control-democracy`
@@ -279,6 +280,21 @@
 - FERC 비용 공개·회수 논의와 11월 응답 기한의 진행 상태 → `data-center-grid-contracts-autumn-2026` § 취소된 캠퍼스의 송전선은 누가 갚는가 · `ing-20261110-autumn-other-followups`
 - 데이터센터 유치의 순편익에 취소 위험의 부담자를 포함하는 관점 → `data-center-grid-contracts-autumn-2026` § 취소된 캠퍼스의 송전선은 누가 갚는가 · `ing-20261110-autumn-other-followups`
 - 국내 개별 유치 사업의 전력·감축·취소 약정 조사 항목 → `data-center-grid-contracts-autumn-2026` § 지역이 받아야 할 것은 숫자보다 확인 가능한 약정이다 · `ing-20261110-autumn-other-followups`
+- AI 질문 프레이밍과 생각의 계보 구분 → `ai-mediated-human-change` § 대화가 생각의 좌표계를 만든다 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
+- 사용자 저항성을 AI 협업의 관찰 신호로 보는 기준 → `ai-mediated-human-change` § 저항성은 협업의 중요한 신호다 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
+- 인식적 확신과 문장의 수사적 확신의 분리 → `ai-mediated-human-change` § 생각의 명료화와 문장의 명료화는 다르다 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
+- AI 협업과 AI 산출물 승인 사이의 구분 → `ai-mediated-human-change` § 협업과 승인 사이 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
+- 생성·연결·가중의 세 층과 중요도 판단 → `ai-mediated-human-change` § 생성·연결·가중: 무엇이 중요한지를 고르는 능력 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
+- 연구 주제와 개발 요구사항에서 나타나는 중요도의 비대칭 → `ai-mediated-human-change` § 생성·연결·가중: 무엇이 중요한지를 고르는 능력 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
+- E2E 인지적 퍼넬과 성공조건의 저자 문제 → `ai-mediated-human-change` § 구현 자동화보다 앞에 있는 개념 체인 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
+- 대화 로그를 이용한 생각의 계보와 주도권 메타분석 → `ai-mediated-human-change` § 대화 로그는 메타인지의 자료가 될 수 있다 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
+- AI 개별성을 페르소나가 아니라 누적된 전기로 정의 → `ai-agent-knowledge-ecology` § 페르소나와 전기는 다르다 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
+- AI 지식 네트워크에 상호의존성과 공동 세계가 필요한 이유 → `ai-agent-knowledge-ecology` § 네트워크가 있으려면 서로가 필요해야 한다; `ai-agent-knowledge-ecology` § 텍스트 네트워크보다 인과 네트워크 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
+- 비동기성과 불완전성을 창발 조건으로 보는 가설 → `ai-agent-knowledge-ecology` § 불완전성과 비동기성이 창발의 자원이 될 수 있다 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
+- OpenClaw·Moltbook류 에이전트 공간의 얕은 상호작용 사례 → `ai-agent-knowledge-ecology` § OpenClaw·Moltbook류 실험이 보여 준 한계 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
+- AI 지식계에서 내용보다 위치와 계보가 중요해질 가능성 → `ai-agent-knowledge-ecology` § 지식계에서 중요한 것은 위치다 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
+- 서로 다른 역사에서 중요도 가중치가 자생하는가 → `ai-agent-knowledge-ecology` § 무엇이 중요한가에 대한 가중치가 갈라지는가 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
+- 소규모 로컬 모델로 가능한 인공 지식 생태계 실험 설계 → `ai-agent-knowledge-ecology` § 자본 없이 가능한 최소 실험; `ai-agent-knowledge-ecology` § 실험에서 분리해야 할 것 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
 
 ## 문화와 역사 (194)
 
@@ -1424,9 +1440,3 @@
 
 - 기후 디스토피아 숨결 장면집 → `climate-breath-fiction` § 작품 노트 · `ing-20261026-climate-dystopia`
 - 그루터기와 꿈의 미완 소설 단편 원문 → `stump-and-dream-fragment` § 작품 노트 · `ing-20261102-local-novel-edge-portfolio`
-
-## 미분류 (1)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 판단·관계·능력 변화 가설에 대한 실측·측정 연구의 연결 → `ai-mediated-human-change` § 판단; `ai-mediated-human-change` § 관계; `ai-mediated-human-change` § 능력 · `ing-20261023-ai-control-disempowerment`

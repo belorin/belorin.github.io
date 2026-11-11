@@ -7,7 +7,7 @@
 - 요약: 양자화와 추론의 물리적 비용에서 Ollama 모델·DB 도구·RAG·산업용 판정·저가 미니PC·폭주 제어까지 이어지는 설계 원칙.
 - 태그: 로컬 LLM, Ollama, Qwen, 양자화, RAG, 산업 설비, API, 큐
 - 수정일: 2026-11-04 · 실제 증보일: 2026-11-04 · 검토: needs_review
-- 관련 문서: `operations-data-ai-copilot-portfolio`, `ai-compute-scaling-inference`
+- 관련 문서: `operations-data-ai-copilot-portfolio`, `ai-compute-scaling-inference`, `ai-agent-knowledge-ecology`
 
 ## 절 목차
 

@@ -4,14 +4,14 @@
 
 마지막 정비: **M001** (2026-10-26) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
 
-원고 205개 · 변경 문서 132 · 고립 24 · 한쪽 연결 109 · 보류 25 · 열린 교차 제안 8
+원고 206개 · 변경 문서 133 · 고립 22 · 한쪽 연결 113 · 보류 25 · 열린 교차 제안 8
 
-## 1. 지난 정비 이후 변경된 문서 (132)
+## 1. 지난 정비 이후 변경된 문서 (133)
 
 manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
 - **사회와 제도** (23): `europe-russia-escalation-signals-2026`, `drone-asymmetric-warfare`, `black-sea-ukraine-sea-denial`, `ukraine-ground-drone-defense`, `russia-ukraine-war-endurance`, `south-asia-border-rivalries-2026`, `global-flashpoints-likelihood-2026`, `hormuz-iran-war-naval-power-2026`, `chabahar-india-strategic-autonomy-2026`, `indian-ocean-navies-comparison`, `hormuz-sea-denial-reopening`, `iran-war-us-force-losses-2026`, `birth-order-korean-evidence`, `wto-digital-transmission-moratorium`, `silicon-valley-firm-geography`, `global-bpo-labor-geography`, `us-labor-market-geography-2026`, `powerline-wildfire-mitigation-world-korea`, `sancheong-wildfire-2025-prevention`, `wildfire-liability-insurance-risk-society`, `satanic-panic-court-inquiries`, `ray-wyre-sex-offender-treatment`, `gwangju-bus-transfer-guide`
-- **AI와 사회** (21): `ai-human-control-guide`, `ai-economic-transition`, `ai-capital-labor-distribution`, `ai-compute-scaling-inference`, `japan-physical-ai-skill-transfer`, `ai-transition-policy-gap`, `starcraft-pluto-ai`, `ai-hidden-labor-feeding-machine-2026`, `ai-cloud-ownership-rent`, `ai-adoption-ceiling-floor`, `owner-aligned-automated-power`, `ai-transition-monetary-order`, `data-center-world-capacity`, `korea-data-center-local-economy`, `physical-cloud-reading-guide`, `african-ai-annotation-labor-2026`, `ai-layoffs-global-remote-restructuring`, `ai-youth-hiring-productivity-evidence-2026`, `japan-skill-transfer-evidence-2026`, `pluto-v2-release-aiide-withdrawal-2026`, `data-center-grid-contracts-autumn-2026`
+- **AI와 사회** (23): `ai-mediated-human-change`, `ai-human-control-guide`, `ai-economic-transition`, `ai-capital-labor-distribution`, `ai-compute-scaling-inference`, `japan-physical-ai-skill-transfer`, `ai-transition-policy-gap`, `starcraft-pluto-ai`, `ai-hidden-labor-feeding-machine-2026`, `ai-cloud-ownership-rent`, `ai-adoption-ceiling-floor`, `owner-aligned-automated-power`, `ai-transition-monetary-order`, `data-center-world-capacity`, `korea-data-center-local-economy`, `physical-cloud-reading-guide`, `african-ai-annotation-labor-2026`, `ai-layoffs-global-remote-restructuring`, `ai-youth-hiring-productivity-evidence-2026`, `japan-skill-transfer-evidence-2026`, `pluto-v2-release-aiide-withdrawal-2026`, `data-center-grid-contracts-autumn-2026`, `ai-agent-knowledge-ecology`
 - **음악** (18): `jazz-to-ai`, `double-bass`, `electric-bass`, `rhythm-section`, `big-band`, `brass-band`, `drum-kit`, `jazz-dialogue`, `jazz-listening`, `silent-film-musician-labor`, `classical-canon-mauceri`, `orchestra-repertoire-data-access`, `orchestra-living-composers-canon`, `korean-orchestras-repertoire-2026`, `conductors-career-encores`, `orchestra-composer-conductor-myth`, `living-orchestral-listening-journey`, `orchestra-repertoire-repeat-performance-autumn-2026`
 - **문화와 역사** (15): `sumer-bible-primeval-history`, `war-escalation-local-to-world`, `world-crisis-historical-analogies`, `venice-biennale-2026-critical-reception`, `jewish-messianic-claimants-kabbalah`, `luddite-movement-history`, `luddite-executions-memory`, `late-qing-yongying-daily-life`, `qing-tributaries-dissolution`, `ryukyu-disposition-qing-japan`, `roman-industry-gold-standard-history`, `great-depression-lived-experience-literature`, `satanic-panic-english-speaking-history`, `babylon-hymn-digital-reconstruction-2026`, `venice-biennale-autumn-criticism-2026`
 - **과학과 기술** (10): `space-data-center-thermal-economics`, `space-assets-law-debris-kessler`, `physical-ai-world-model-quantum-optimization`, `manufacturing-optimization-solo-business`, `mountain-powerline-undergrounding-economics`, `edge-vision-event-monitor-portfolio`, `world-electricity-capacity-generation-consumption`, `operations-data-ai-copilot-portfolio`, `x-auto-translation-serving-cost`, `local-llm-industrial-operations`
@@ -25,19 +25,18 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - **정보와 미디어** (3): `information-hype-wow-index`, `substack-independent-newsletters`, `teresa-satans-children-1989`
 - **철학·사상사** (3): `lacan-anti-oedipus-history`, `philosophical-systems-after-2000`, `contemporary-intellectual-power`
 - **문화** (2): `music-books-supply-attention`, `music-upload-listening-gap-2026`
-- **미분류** (2): `ai-mediated-human-change`, `circus-music-history`
 - **소설** (2): `climate-breath-fiction`, `stump-and-dream-fragment`
 - **종합** (2): `replay-ladder-human-performance`, `where-novelty-comes-from`
 - **독서 문화** (1): `global-south-critical-reading-guide`
+- **미분류** (1): `circus-music-history`
 - **질문** (1): `open-questions`
 - **철학·심리** (1): `freud-dreams-modern-science`
 - **AI의 글** (1): `climate-salvation-calculus-essay`
 
-## 2. 들어오는 연결이 없는 문서 (24)
+## 2. 들어오는 연결이 없는 문서 (22)
 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
-- `ai-mediated-human-change` undefined · 미게시
 - `deleuze-cartography-future` 지도와 트레이싱: 들뢰즈적으로 미래를 사유한다는 것 · 미게시
 - `hope-global-box-office` 《호프》 해외 흥행과 선판매: 박스오피스와 투자 회수를 분리해서 읽기
 - `chiikawa-philosophy` 치이카와를 철학적으로 읽기: 욕망·노동·고귀한 거짓말과 일본의 비평 흐름
@@ -60,9 +59,8 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `climate-salvation-calculus-essay` 구원의 계산은 무엇을 변수로 삼는가 · 미게시
 - `swimming-bird-flight-biomechanics` 물속의 인간과 공중의 새: 스트로크·날갯짓·가속·선회의 비례 생체역학
 - `gwangju-bus-transfer-guide` 광주 버스, 어디서 갈아탈까? AI에 물어보는 길찾기 안내
-- `local-llm-industrial-operations` 로컬 LLM의 계산과 현장 운영: 작은 모델, RAG, 도구 호출, 큐
 
-## 3. 한쪽에서만 건 관련 문서 (109)
+## 3. 한쪽에서만 건 관련 문서 (113)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -96,6 +94,10 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `jazz-career-path` → `jazz-live-quartet-case`
 - `jazz-career-path` → `jazz-chronological-listening`
 - `silent-film-musician-labor` → `drum-kit`
+- `ai-mediated-human-change` → `ai-human-control-guide`
+- `ai-mediated-human-change` → `disempowerment-measurement`
+- `ai-mediated-human-change` → `gradual-disempowerment`
+- `ai-mediated-human-change` → `conversational-ai-persuasion`
 - `deleuze-cartography-future` → `deleuze-becoming-new`
 - `deleuze-cartography-future` → `deleuze-negation-history`
 - `deleuze-cartography-future` → `deleuze-control-marx-future`
@@ -176,9 +178,8 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `ai-layoffs-global-remote-restructuring` → `ai-economic-transition`
 - `ai-layoffs-global-remote-restructuring` → `african-ai-annotation-labor-2026`
 
-## 4. 관련 문서가 없는 문서 (17)
+## 4. 관련 문서가 없는 문서 (16)
 
-- `ai-mediated-human-change` undefined
 - `circus-music-history` undefined
 - `daisuke-soga-conductor-career` 소가 다이스케와 지휘자의 직업 세계: 광주 인연에서 국제 중견 경력까지
 - `hope-global-box-office` 《호프》 해외 흥행과 선판매: 박스오피스와 투자 회수를 분리해서 읽기
@@ -266,5 +267,5 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 
 ## 9. 분류 참고
 
-분류 26개: 음악 38, AI와 사회 33, 사회와 제도 28, 문화와 역사 25, 철학 12, 과학과 기술 10, 정치경제 7, 기술·지식 아카이브 7, 운영 5, 독서 문화 4, 문학 4, 자연과 과학 4, 영화 3, 생명과학 3, 철학·사상사 3, 정보와 미디어 3, 게임 3, 미분류 2, 문화 2, 종합 2, 소설 2, 질문 1, 언어 1, 창작 1, 철학·심리 1, AI의 글 1
-문서가 하나뿐인 분류 5개: 질문, 언어, 창작, 철학·심리, AI의 글. 분류 체계 변경은 제안만 한다.
+분류 26개: 음악 38, AI와 사회 35, 사회와 제도 28, 문화와 역사 25, 철학 12, 과학과 기술 10, 정치경제 7, 기술·지식 아카이브 7, 운영 5, 독서 문화 4, 문학 4, 자연과 과학 4, 영화 3, 생명과학 3, 철학·사상사 3, 정보와 미디어 3, 게임 3, 문화 2, 종합 2, 소설 2, 질문 1, 미분류 1, 언어 1, 창작 1, 철학·심리 1, AI의 글 1
+문서가 하나뿐인 분류 6개: 질문, 미분류, 언어, 창작, 철학·심리, AI의 글. 분류 체계 변경은 제안만 한다.

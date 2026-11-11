@@ -7,7 +7,7 @@
 - 요약: 현실 왜곡·가치 판단 왜곡·행동 왜곡의 정의, 분야별 비율, 날조보다 동조라는 메커니즘, 사용자가 무력화 대화를 더 높게 평가한다는 결과.
 - 태그: 무력화, 아첨, 실측 연구, AI 어시스턴트
 - 수정일: 2026-10-23 · 실제 증보일: 2026-10-23 · 검토: needs_review
-- 관련 문서: `ai-human-control-guide`, `disempowerment-measurement`, `gradual-disempowerment`, `conversational-ai-persuasion`
+- 관련 문서: `ai-human-control-guide`, `disempowerment-measurement`, `gradual-disempowerment`, `conversational-ai-persuasion`, `ai-mediated-human-change`
 
 ## 절 목차
 

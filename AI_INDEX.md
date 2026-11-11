@@ -250,6 +250,12 @@
 - **[AI 데이터센터는 누가 전기를 보장하는가: 2026년 가을의 접속 대기열과 비용 분담](wiki/data-center-grid-contracts-autumn-2026.md)** · 별칭: 2026년 가을 데이터센터 전력 계약, AI 데이터센터 접속 대기열과 취소 비용 · 수정: 2026-11-10 · 검토: 2026년 가을 후속 조사
   - IEA의 10월 전력망 통합 보고서와 ERCOT·FERC 절차를 통해 접속 신청의 신뢰도, 비상 감축과 취소 비용의 부담을 살피고 국내 유치 사업의 계약 조사 항목을 제안한다.
   - [문서 페이지](https://belorin.github.io/notes/data-center-grid-contracts-autumn-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/data-center-grid-contracts-autumn-2026.md)
+- **[AI 환경은 인간의 정신 습관을 어떻게 바꿀 수 있는가](wiki/ai-mediated-human-change.md)** · 별칭: AI와 정신 습관, AI 인지 환경, AI와 생각의 계보 · 수정: 2026-11-11 · 검토: 개념적 분석·실측 연결 일부 외부 재검증 필요
+  - AI와의 지속적 상호작용을 판단·기억·관계·능력뿐 아니라 프레이밍, 생각의 계보, 수사적 확신, 생성·연결·가중, 성공조건의 저자 문제로 분석한다.
+  - [문서 페이지](https://belorin.github.io/notes/ai-mediated-human-change/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-mediated-human-change.md)
+- **[AI 개별성과 지식 생태계: 페르소나가 아니라 역사에서 출발하기](wiki/ai-agent-knowledge-ecology.md)** · 별칭: AI 지식 생태계, AI 개별성, 인공 지식 생태계, AI 에이전트 전기 · 수정: 2026-11-11 · 검토: 개념적 실험 설계·대화 내 사례 기반·Moltbook 수치 외부 재검증 필요
+  - AI 개별성을 프롬프트 캐릭터가 아니라 누적된 역사·정보 비대칭·상호의존성으로 정의하고, 공동 세계와 중요도 분화를 관찰하는 소규모 인공 지식 생태계 실험을 설계한다.
+  - [문서 페이지](https://belorin.github.io/notes/ai-agent-knowledge-ecology/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-agent-knowledge-ecology.md)
 
 ## 철학
 

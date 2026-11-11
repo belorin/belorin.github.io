@@ -110,6 +110,8 @@
 - [손동작을 남기면 숙련도 남는가: 일본 피지컬 AI의 2026년 실증과 빈칸](https://belorin.github.io/notes/japan-skill-transfer-evidence-2026/): Kawasaki·Toyota·Honda·H2L·AIST의 공식 자료로 원격조작, 접촉 하드웨어, 힘 데이터, 내부 실험과 현장 숙련 전승의 차이를 확인한다.
 - [플루토는 그 뒤 어떻게 바뀌었나: v2.0 공개와 AIIDE 2026 출전 철회](https://belorin.github.io/notes/pluto-v2-release-aiide-withdrawal-2026/): 2026년 10월 Pluto v2.0의 공개와 AIIDE 참가 철회를 공식 릴리스·운영 기록으로 확인하고, 상대별 빌드 선택·신경망 재훈련·실행 시간 조건을 구별한다.
 - [AI 데이터센터는 누가 전기를 보장하는가: 2026년 가을의 접속 대기열과 비용 분담](https://belorin.github.io/notes/data-center-grid-contracts-autumn-2026/): IEA의 10월 전력망 통합 보고서와 ERCOT·FERC 절차를 통해 접속 신청의 신뢰도, 비상 감축과 취소 비용의 부담을 살피고 국내 유치 사업의 계약 조사 항목을 제안한다.
+- [AI 환경은 인간의 정신 습관을 어떻게 바꿀 수 있는가](https://belorin.github.io/notes/ai-mediated-human-change/): AI와의 지속적 상호작용을 판단·기억·관계·능력뿐 아니라 프레이밍, 생각의 계보, 수사적 확신, 생성·연결·가중, 성공조건의 저자 문제로 분석한다.
+- [AI 개별성과 지식 생태계: 페르소나가 아니라 역사에서 출발하기](https://belorin.github.io/notes/ai-agent-knowledge-ecology/): AI 개별성을 프롬프트 캐릭터가 아니라 누적된 역사·정보 비대칭·상호의존성으로 정의하고, 공동 세계와 중요도 분화를 관찰하는 소규모 인공 지식 생태계 실험을 설계한다.
 
 ### 철학
 

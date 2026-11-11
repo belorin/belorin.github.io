@@ -7,7 +7,7 @@
 - 요약: AI 지배를 미래의 쿠데타가 아니라 현재부터 짙어질 수 있는 농도로 보고, 매개·의존·지배를 구분하며 맥락적 경사, 여덟 층, 사고 출처, p(doom), 카산드라식 조기 탐지를 검토한다.
 - 태그: AI 지배, 인지 인프라, 맥락적 경사, 주변화, p(doom), 카산드라
 - 수정일: 2026-10-24 · 실제 증보일: 2026-10-24 · 검토: needs_review
-- 관련 문서: `ai-human-control-guide`, `gradual-disempowerment`, `disempowerment-measurement`, `llm-disempowerment-patterns`, `conversational-ai-persuasion`
+- 관련 문서: `ai-human-control-guide`, `gradual-disempowerment`, `disempowerment-measurement`, `llm-disempowerment-patterns`, `conversational-ai-persuasion`, `ai-mediated-human-change`
 
 ## 절 목차
 

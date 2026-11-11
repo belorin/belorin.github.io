@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 201,
+  "document_count": 203,
   "documents": [
     {
       "id": "living-notes",
@@ -996,7 +996,8 @@
         "ai-human-control-guide",
         "disempowerment-measurement",
         "gradual-disempowerment",
-        "conversational-ai-persuasion"
+        "conversational-ai-persuasion",
+        "ai-mediated-human-change"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/llm-disempowerment-patterns.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/llm-disempowerment-patterns.md",
@@ -1854,7 +1855,8 @@
         "gradual-disempowerment",
         "disempowerment-measurement",
         "llm-disempowerment-patterns",
-        "conversational-ai-persuasion"
+        "conversational-ai-persuasion",
+        "ai-mediated-human-change"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-domination-gradient.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-domination-gradient.md",
@@ -2822,7 +2824,8 @@
         "ai-hidden-labor-feeding-machine-2026",
         "data-center-world-capacity",
         "owner-aligned-automated-power",
-        "x-auto-translation-serving-cost"
+        "x-auto-translation-serving-cost",
+        "ai-agent-knowledge-ecology"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-compute-scaling-inference.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-compute-scaling-inference.md",
@@ -6628,7 +6631,8 @@
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "operations-data-ai-copilot-portfolio",
-        "ai-compute-scaling-inference"
+        "ai-compute-scaling-inference",
+        "ai-agent-knowledge-ecology"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/local-llm-industrial-operations.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/local-llm-industrial-operations.md",
@@ -6993,6 +6997,79 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/bird-vocal-patterns-neural-code-2026.md",
       "page_url": "https://belorin.github.io/notes/bird-vocal-patterns-neural-code-2026/",
       "app_url": "https://belorin.github.io/#bird-vocal-patterns-neural-code-2026"
+    },
+    {
+      "id": "ai-mediated-human-change",
+      "title": "AI 환경은 인간의 정신 습관을 어떻게 바꿀 수 있는가",
+      "aliases": [
+        "AI와 정신 습관",
+        "AI 인지 환경",
+        "AI와 생각의 계보"
+      ],
+      "category": "AI와 사회",
+      "tags": [
+        "AI 인지 환경",
+        "프레이밍",
+        "인지적 외주화",
+        "중요도 가중",
+        "AI 협업",
+        "메타대화"
+      ],
+      "summary": "AI와의 지속적 상호작용을 판단·기억·관계·능력뿐 아니라 프레이밍, 생각의 계보, 수사적 확신, 생성·연결·가중, 성공조건의 저자 문제로 분석한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "개념적 분석·실측 연결 일부 외부 재검증 필요",
+      "last_updated_on": "2026-11-11",
+      "last_enriched_on": "2026-11-11",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "ai-domination-gradient",
+        "ai-human-control-guide",
+        "llm-disempowerment-patterns",
+        "disempowerment-measurement",
+        "gradual-disempowerment",
+        "conversational-ai-persuasion",
+        "ai-agent-knowledge-ecology"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-mediated-human-change.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-mediated-human-change.md",
+      "page_url": "https://belorin.github.io/notes/ai-mediated-human-change/",
+      "app_url": "https://belorin.github.io/#ai-mediated-human-change"
+    },
+    {
+      "id": "ai-agent-knowledge-ecology",
+      "title": "AI 개별성과 지식 생태계: 페르소나가 아니라 역사에서 출발하기",
+      "aliases": [
+        "AI 지식 생태계",
+        "AI 개별성",
+        "인공 지식 생태계",
+        "AI 에이전트 전기"
+      ],
+      "category": "AI와 사회",
+      "tags": [
+        "AI 에이전트",
+        "개별성",
+        "지식 생태계",
+        "멀티에이전트",
+        "창발",
+        "장기 기억"
+      ],
+      "summary": "AI 개별성을 프롬프트 캐릭터가 아니라 누적된 역사·정보 비대칭·상호의존성으로 정의하고, 공동 세계와 중요도 분화를 관찰하는 소규모 인공 지식 생태계 실험을 설계한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "개념적 실험 설계·대화 내 사례 기반·Moltbook 수치 외부 재검증 필요",
+      "last_updated_on": "2026-11-11",
+      "last_enriched_on": "2026-11-11",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "ai-mediated-human-change",
+        "ai-compute-scaling-inference",
+        "local-llm-industrial-operations"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-agent-knowledge-ecology.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-agent-knowledge-ecology.md",
+      "page_url": "https://belorin.github.io/notes/ai-agent-knowledge-ecology/",
+      "app_url": "https://belorin.github.io/#ai-agent-knowledge-ecology"
     }
   ]
 }

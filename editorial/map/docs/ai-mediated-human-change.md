@@ -1,10 +1,13 @@
-# undefined
+# AI 환경은 인간의 정신 습관을 어떻게 바꿀 수 있는가
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `ai-mediated-human-change` · 분류: 미분류 · **미게시** · 원고: [wiki/ai-mediated-human-change.md](../../../wiki/ai-mediated-human-change.md) · 9,415자 · 절 17개
-- 별칭: AI와 정신 습관
-- 수정일: 없음 · 실제 증보일: 2026-10-23 · 검토: unassessed
+- id: `ai-mediated-human-change` · 분류: AI와 사회 · 공개 · 원고: [wiki/ai-mediated-human-change.md](../../../wiki/ai-mediated-human-change.md) · 9,344자 · 절 17개
+- 별칭: AI와 정신 습관, AI 인지 환경, AI와 생각의 계보
+- 요약: AI와의 지속적 상호작용을 판단·기억·관계·능력뿐 아니라 프레이밍, 생각의 계보, 수사적 확신, 생성·연결·가중, 성공조건의 저자 문제로 분석한다.
+- 태그: AI 인지 환경, 프레이밍, 인지적 외주화, 중요도 가중, AI 협업, 메타대화
+- 수정일: 2026-11-11 · 실제 증보일: 2026-11-11 · 검토: needs_review
+- 관련 문서: `ai-domination-gradient`, `ai-human-control-guide`, `llm-disempowerment-patterns`, `disempowerment-measurement`, `gradual-disempowerment`, `conversational-ai-persuasion`, `ai-agent-knowledge-ecology`
 
 ## 절 목차
 
@@ -26,8 +29,8 @@
 - 정체성 · L149–155 · 319자 · `277d3fef` — 오랜 기간 AI가 문장, 선택, 취향, 작업방식, 판단을 보조한다면 ‘이 사람은 어디까지 스스로 만들어진 사람인가?’라는 질문이 생길 수 있다.
 - 정신적 이질감 · L157–163 · 290자 · `f48181fc` — 강한 미래 이질감은 새로운 기계의 외형보다 정상성의 역전에서 나온다.
 - 사실과 가설의 경계 · L165–172 · 503자 · `0ba0ed15` — 분석 틀: 판단, 기억, 내면, 관계, 능력, 정체성에 더해 프레이밍, 생각의 계보, 중요도 가중을 관찰한다.
-- 관련 문서 · L174–184 · 542자 · `e633a25e` — AI 지배는 이미 시작되었는가: 사건이 아니라 농도로 보는 통제
-- 출처와 상태 · L186–192 · 381자 · `3a30fdd7` — 이 글은 2026년 10월부터 11월까지 내부 대화에서 실제로 접근 가능한 논의와 기존 위키 원고를 총합해 구성했다.
+- 관련 문서 · L174–183 · 471자 · `204c3e47` — AI 지배는 이미 시작되었는가: 사건이 아니라 농도로 보는 통제
+- 출처와 상태 · L185–191 · 381자 · `3a30fdd7` — 이 글은 2026년 10월부터 11월까지 내부 대화에서 실제로 접근 가능한 논의와 기존 위키 원고를 총합해 구성했다.
 
 ## 장부에 기록된 반영 지식
 
@@ -37,6 +40,21 @@
   - 판단·관계·능력 변화 가설에 대한 실측·측정 연구의 연결 · `ing-20261023-ai-control-disempowerment`
 - **능력**
   - 판단·관계·능력 변화 가설에 대한 실측·측정 연구의 연결 · `ing-20261023-ai-control-disempowerment`
+- **대화가 생각의 좌표계를 만든다**
+  - AI 질문 프레이밍과 생각의 계보 구분 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
+- **저항성은 협업의 중요한 신호다**
+  - 사용자 저항성을 AI 협업의 관찰 신호로 보는 기준 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
+- **생각의 명료화와 문장의 명료화는 다르다**
+  - 인식적 확신과 문장의 수사적 확신의 분리 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
+- **협업과 승인 사이**
+  - AI 협업과 AI 산출물 승인 사이의 구분 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
+- **생성·연결·가중: 무엇이 중요한지를 고르는 능력**
+  - 생성·연결·가중의 세 층과 중요도 판단 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
+  - 연구 주제와 개발 요구사항에서 나타나는 중요도의 비대칭 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
+- **구현 자동화보다 앞에 있는 개념 체인**
+  - E2E 인지적 퍼넬과 성공조건의 저자 문제 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
+- **대화 로그는 메타인지의 자료가 될 수 있다**
+  - 대화 로그를 이용한 생각의 계보와 주도권 메타분석 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
 
 ## 교차 편집 제안 (확정 아님)
 

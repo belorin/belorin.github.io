@@ -7,7 +7,7 @@
 - 요약: AI 데이터센터 증설을 단순한 더 큰 사전학습이 아니라 test-time compute, 병렬 탐색·검증, 과학·코딩·피지컬 AI 계산의 확대로 읽고 계산량의 한계를 함께 정리한다.
 - 태그: AI 데이터센터, 추론 스케일링, test-time compute, AI 인프라, 병렬 탐색, verifier
 - 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: needs_review
-- 관련 문서: `japan-physical-ai-skill-transfer`, `wto-digital-transmission-moratorium`, `ai-cloud-ownership-rent`, `ai-hidden-labor-feeding-machine-2026`, `data-center-world-capacity`, `owner-aligned-automated-power`, `x-auto-translation-serving-cost`
+- 관련 문서: `japan-physical-ai-skill-transfer`, `wto-digital-transmission-moratorium`, `ai-cloud-ownership-rent`, `ai-hidden-labor-feeding-machine-2026`, `data-center-world-capacity`, `owner-aligned-automated-power`, `x-auto-translation-serving-cost`, `ai-agent-knowledge-ecology`
 
 ## 절 목차
 
