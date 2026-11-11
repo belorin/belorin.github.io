@@ -180,7 +180,6 @@ AI 사용을 관찰하기 위해 매번 일기를 쓰거나 행동을 수동 기
 - [점진적 무력화](./gradual-disempowerment.md)
 - [대화형 AI의 설득력과 민주주의](./conversational-ai-persuasion.md)
 - [AI 개별성과 지식 생태계: 페르소나가 아니라 역사에서 출발하기](./ai-agent-knowledge-ecology.md)
-- [근미래 SF: 미래인의 정상성으로 정신적 이질감을 설계하기](./near-future-sf-estrangement.md)
 - [들뢰즈: 생성과 새로운 것의 철학](./deleuze-becoming-new.md)
 
 ## 출처와 상태
