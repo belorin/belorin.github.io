@@ -6502,8 +6502,8 @@
       "title": "매일 쌓이는 음악과 한 사람의 귀: 2026년 공급·청취·추천의 다른 숫자",
       "category": "문화",
       "status": "외부 후속 조사 · 관측·해석·미확정 범위 구분",
-      "updated": "2026-11-10",
-      "summary": "Luminate·IFPI·Deezer의 원자료로 음악 공급과 개인 청취 용량을 다시 계산하고 AI 업로드·재생·추천·검색 정책의 서로 다른 분모를 구분한다.",
+      "updated": "2026-11-11",
+      "summary": "2025년 음악 녹음물 공급과 재생 집중, 2026년 Deezer의 AI 유입·추천·검색·정산 분리를 근거로 생산량과 실제 청취의 관계를 분석한다.",
       "tags": [
         "음악 공급",
         "청취시간",
@@ -6514,7 +6514,7 @@
         "AI 음악",
         "추천"
       ],
-      "source": "2026-11-10 공개 원자료 대조 · 자료별 관측일과 확인 한계는 본문에 명시",
+      "source": "2026-11-11 Luminate·Deezer 원자료 추가 대조 · 통계의 범위와 한계는 본문에 명시",
       "related": [
         "music-books-supply-attention"
       ],
@@ -6523,7 +6523,7 @@
         "하루치 신곡과 5년의 청취"
       ],
       "review_state": "reviewed",
-      "last_enriched_on": "2026-11-10"
+      "last_enriched_on": "2026-11-11"
     },
     {
       "id": "babylon-hymn-digital-reconstruction-2026",
