@@ -220,7 +220,7 @@
 ### 문화
 
 - [음악과 책의 공급 폭발: 한 사람의 귀와 눈은 얼마나 따라갈 수 있는가](https://belorin.github.io/notes/music-books-supply-attention/): 음악과 종이책의 역사적 생산량, 개인 소비시간, AI 공급, 차트 집중과 큐레이션을 비교하며 관측과 추정의 경계를 검토한다.
-- [매일 쌓이는 음악과 한 사람의 귀: 2026년 공급·청취·추천의 다른 숫자](https://belorin.github.io/notes/music-upload-listening-gap-2026/): Luminate·IFPI·Deezer의 원자료로 음악 공급과 개인 청취 용량을 다시 계산하고 AI 업로드·재생·추천·검색 정책의 서로 다른 분모를 구분한다.
+- [매일 쌓이는 음악과 한 사람의 귀: 2026년 공급·청취·추천의 다른 숫자](https://belorin.github.io/notes/music-upload-listening-gap-2026/): 2025년 음악 녹음물 공급과 재생 집중, 2026년 Deezer의 AI 유입·추천·검색·정산 분리를 근거로 생산량과 실제 청취의 관계를 분석한다.
 
 ### 정치경제
 

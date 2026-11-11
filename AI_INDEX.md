@@ -526,8 +526,8 @@
 - **[음악과 책의 공급 폭발: 한 사람의 귀와 눈은 얼마나 따라갈 수 있는가](wiki/music-books-supply-attention.md)** · 별칭: 문화 공급 과잉, 음악과 책의 생산 소비 격차 · 수정: 2026-11-10 · 검토: 대화 내부 추정·검토 필요
   - 음악과 종이책의 역사적 생산량, 개인 소비시간, AI 공급, 차트 집중과 큐레이션을 비교하며 관측과 추정의 경계를 검토한다.
   - [문서 페이지](https://belorin.github.io/notes/music-books-supply-attention/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/music-books-supply-attention.md)
-- **[매일 쌓이는 음악과 한 사람의 귀: 2026년 공급·청취·추천의 다른 숫자](wiki/music-upload-listening-gap-2026.md)** · 별칭: 음악 업로드와 실제 청취, 하루치 신곡과 5년의 청취 · 수정: 2026-11-10 · 검토: 외부 후속 조사 · 관측·해석·미확정 범위 구분
-  - Luminate·IFPI·Deezer의 원자료로 음악 공급과 개인 청취 용량을 다시 계산하고 AI 업로드·재생·추천·검색 정책의 서로 다른 분모를 구분한다.
+- **[매일 쌓이는 음악과 한 사람의 귀: 2026년 공급·청취·추천의 다른 숫자](wiki/music-upload-listening-gap-2026.md)** · 별칭: 음악 업로드와 실제 청취, 하루치 신곡과 5년의 청취 · 수정: 2026-11-11 · 검토: 외부 후속 조사 · 관측·해석·미확정 범위 구분
+  - 2025년 음악 녹음물 공급과 재생 집중, 2026년 Deezer의 AI 유입·추천·검색·정산 분리를 근거로 생산량과 실제 청취의 관계를 분석한다.
   - [문서 페이지](https://belorin.github.io/notes/music-upload-listening-gap-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/music-upload-listening-gap-2026.md)
 
 ## 정치경제

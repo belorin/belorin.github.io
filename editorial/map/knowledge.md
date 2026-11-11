@@ -1379,11 +1379,11 @@
 - 종이책 신간과 평생 독서량 → `music-books-supply-attention` § 책: 공급 과잉의 역사는 음악보다 오래되었다 · `ing-20261025-music-books-attention`
 - 취향 가설에 따른 큐레이션과 문화적 선택의 병목 → `music-books-supply-attention` § 서로 다른 두 과잉의 역사 · `ing-20261025-mood-led-music-listening`
 - 문화 공급 과잉에서 뉴스 중요도 판단으로의 확장 → `music-books-supply-attention` § 서로 다른 두 과잉의 역사 · `ing-20261026-information-hype-wow-index`
-- 2025년 ISRC 전달량과 작품 수의 차이 → `music-upload-listening-gap-2026` § 하루 10만 6천 개는 작곡된 노래의 수가 아니다 · `ing-20261110-selected-external-followups`
-- 음악 하루 공급과 개인 청취 용량의 명시적 산술 → `music-upload-listening-gap-2026` § 하루치 새 녹음을 듣는 데 약 5년이 걸리는 계산 · `ing-20261110-selected-external-followups`
-- Deezer AI 업로드·재생·부정재생 분모 구별 → `music-upload-listening-gap-2026` § Deezer에서는 절반 이상 들어와도 1~3%만 재생된다 · `ing-20261110-selected-external-followups`
-- 서로 다른 음악 플랫폼 수치의 합산 불가 → `music-upload-listening-gap-2026` § 9만과 10만 6천을 더하거나 나누면 왜 안 되는가 · `ing-20261110-selected-external-followups`
-- Deezer 검색 필터의 발표와 도입 완료 구별 → `music-upload-listening-gap-2026` § 추천을 넘어 검색에서도 걸러내는 정책 · `ing-20261110-selected-external-followups`
+- 2025년 ISRC 전달량과 작품 수의 차이 → `music-upload-listening-gap-2026` § 하루 10만 6천 개의 녹음물이 쌓이는 곳 · `ing-20261110-selected-external-followups`
+- 음악 하루 공급과 개인 청취 용량의 명시적 산술 → `music-upload-listening-gap-2026` § 한 사람이 하루치 신곡을 듣는 데 걸리는 시간 · `ing-20261110-selected-external-followups`
+- Deezer AI 업로드·재생·부정재생 분모 구별 → `music-upload-listening-gap-2026` § Deezer에서 공급의 절반은 어떻게 재생의 1~3%가 되었나 · `ing-20261110-selected-external-followups`
+- 서로 다른 음악 플랫폼 수치의 합산 불가 → `music-upload-listening-gap-2026` § 어떤 숫자에서 취향과 품질을 읽을 수 있는가 · `ing-20261110-selected-external-followups`
+- Deezer 검색 필터의 발표와 도입 완료 구별 → `music-upload-listening-gap-2026` § 음악이 존재한다는 것과 찾을 수 있다는 것 · `ing-20261110-selected-external-followups`
 
 ## 질문 (9)
 
