@@ -715,13 +715,38 @@
     {
       "id": "ai-mediated-human-change",
       "path": "wiki/ai-mediated-human-change.md",
-      "publish": false,
-      "aliases": [
-        "AI와 정신 습관"
+      "publish": true,
+      "order": 203,
+      "title": "AI 환경은 인간의 정신 습관을 어떻게 바꿀 수 있는가",
+      "category": "AI와 사회",
+      "status": "개념적 분석·실측 연결 일부 외부 재검증 필요",
+      "updated": "2026-11-11",
+      "summary": "AI와의 지속적 상호작용을 판단·기억·관계·능력뿐 아니라 프레이밍, 생각의 계보, 수사적 확신, 생성·연결·가중, 성공조건의 저자 문제로 분석한다.",
+      "tags": [
+        "AI 인지 환경",
+        "프레이밍",
+        "인지적 외주화",
+        "중요도 가중",
+        "AI 협업",
+        "메타대화"
       ],
-      "review_state": "unassessed",
-      "last_enriched_on": "2026-10-23",
-      "related": []
+      "source": "내부 총합 · 기존 위키와 현재 접근 가능한 논의만 사용 · 이번 편집에서 외부 추가 조사 없음",
+      "related": [
+        "ai-domination-gradient",
+        "ai-human-control-guide",
+        "llm-disempowerment-patterns",
+        "disempowerment-measurement",
+        "gradual-disempowerment",
+        "conversational-ai-persuasion",
+        "ai-agent-knowledge-ecology"
+      ],
+      "aliases": [
+        "AI와 정신 습관",
+        "AI 인지 환경",
+        "AI와 생각의 계보"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-11"
     },
     {
       "id": "circus-music-history",
@@ -1050,7 +1075,8 @@
         "ai-human-control-guide",
         "disempowerment-measurement",
         "gradual-disempowerment",
-        "conversational-ai-persuasion"
+        "conversational-ai-persuasion",
+        "ai-mediated-human-change"
       ],
       "aliases": [
         "무력화 패턴 실측",
@@ -1790,7 +1816,8 @@
         "gradual-disempowerment",
         "disempowerment-measurement",
         "llm-disempowerment-patterns",
-        "conversational-ai-persuasion"
+        "conversational-ai-persuasion",
+        "ai-mediated-human-change"
       ],
       "aliases": [
         "AI 지배의 농도",
@@ -2702,7 +2729,8 @@
         "ai-hidden-labor-feeding-machine-2026",
         "data-center-world-capacity",
         "owner-aligned-automated-power",
-        "x-auto-translation-serving-cost"
+        "x-auto-translation-serving-cost",
+        "ai-agent-knowledge-ecology"
       ],
       "aliases": [
         "AI 데이터센터와 추론",
@@ -6330,7 +6358,8 @@
       "source": "내부 총합·외부 미검증",
       "related": [
         "operations-data-ai-copilot-portfolio",
-        "ai-compute-scaling-inference"
+        "ai-compute-scaling-inference",
+        "ai-agent-knowledge-ecology"
       ],
       "aliases": [
         "로컬 LLM 운영",
@@ -6675,6 +6704,39 @@
       ],
       "review_state": "reviewed",
       "last_enriched_on": "2026-11-10"
+    },
+    {
+      "id": "ai-agent-knowledge-ecology",
+      "path": "wiki/ai-agent-knowledge-ecology.md",
+      "publish": true,
+      "order": 204,
+      "title": "AI 개별성과 지식 생태계: 페르소나가 아니라 역사에서 출발하기",
+      "category": "AI와 사회",
+      "status": "개념적 실험 설계·대화 내 사례 기반·Moltbook 수치 외부 재검증 필요",
+      "updated": "2026-11-11",
+      "summary": "AI 개별성을 프롬프트 캐릭터가 아니라 누적된 역사·정보 비대칭·상호의존성으로 정의하고, 공동 세계와 중요도 분화를 관찰하는 소규모 인공 지식 생태계 실험을 설계한다.",
+      "tags": [
+        "AI 에이전트",
+        "개별성",
+        "지식 생태계",
+        "멀티에이전트",
+        "창발",
+        "장기 기억"
+      ],
+      "source": "내부 총합 · 기존 위키와 현재 접근 가능한 논의만 사용 · 이번 편집에서 외부 추가 조사 없음",
+      "related": [
+        "ai-mediated-human-change",
+        "ai-compute-scaling-inference",
+        "local-llm-industrial-operations"
+      ],
+      "aliases": [
+        "AI 지식 생태계",
+        "AI 개별성",
+        "인공 지식 생태계",
+        "AI 에이전트 전기"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-11"
     }
   ]
 }
