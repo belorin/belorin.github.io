@@ -13,6 +13,7 @@
 | 증보 완료 후 AI 자율 논고 판단 | [WIKI_PROTOCOL.md](./WIKI_PROTOCOL.md) 완료 뒤 [ESSAY.md](./ESSAY.md) |
 | 독립 AI 저술 요청 | [WIKI_PROTOCOL.md](./WIKI_PROTOCOL.md)의 저술 원칙 + [ESSAY.md](./ESSAY.md) |
 | 사이트·스크립트·워크플로 수정 | [README.md](./README.md)의 파일 구성과 생성물 설명 |
+| 별도 자율 AI 공동체 실험판 설계·개발 | [design/agent-commons/README.md](./design/agent-commons/README.md) — 개체별 탐색·글쓰기·생애 규칙의 자율성과 기존 개인 위키 분리 |
 | 위키 키트(기본형·파생 위키) 수정과 새 위키 생성 | 별도 저장소 [belorin/wiki-kit](https://github.com/belorin/wiki-kit)의 README.md |
 
 ## 어떤 작업에서도 지키는 것
