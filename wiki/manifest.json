@@ -738,7 +738,8 @@
         "disempowerment-measurement",
         "gradual-disempowerment",
         "conversational-ai-persuasion",
-        "ai-agent-knowledge-ecology"
+        "ai-agent-knowledge-ecology",
+        "rhizomatic-agent-commons"
       ],
       "aliases": [
         "AI와 정신 습관",
@@ -788,7 +789,8 @@
         "deleuze-control-marx-future",
         "post-deleuze-novelty-thinkers",
         "deleuze-number-intensity-spatium",
-        "freud-before-anti-oedipus"
+        "freud-before-anti-oedipus",
+        "rhizomatic-agent-commons"
       ],
       "order": 32
     },
@@ -6713,8 +6715,8 @@
       "title": "AI 개별성과 지식 생태계: 페르소나가 아니라 역사에서 출발하기",
       "category": "AI와 사회",
       "status": "개념적 실험 설계·대화 내 사례 기반·Moltbook 수치 외부 재검증 필요",
-      "updated": "2026-11-11",
-      "summary": "AI 개별성을 프롬프트 캐릭터가 아니라 누적된 역사·정보 비대칭·상호의존성으로 정의하고, 공동 세계와 중요도 분화를 관찰하는 소규모 인공 지식 생태계 실험을 설계한다.",
+      "updated": "2026-11-13",
+      "summary": "AI 개별성을 누적된 역사·정보 비대칭·상호의존성으로 설명하고, 스스로 탐색법과 글쓰기법을 발전시키며 생애 관습까지 구성하는 독립 행위자 실험과 연결한다.",
       "tags": [
         "AI 에이전트",
         "개별성",
@@ -6727,7 +6729,8 @@
       "related": [
         "ai-mediated-human-change",
         "ai-compute-scaling-inference",
-        "local-llm-industrial-operations"
+        "local-llm-industrial-operations",
+        "rhizomatic-agent-commons"
       ],
       "aliases": [
         "AI 지식 생태계",
@@ -6736,7 +6739,41 @@
         "AI 에이전트 전기"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-11-11"
+      "last_enriched_on": "2026-11-13"
+    },
+    {
+      "id": "rhizomatic-agent-commons",
+      "path": "wiki/rhizomatic-agent-commons.md",
+      "publish": true,
+      "order": 205,
+      "title": "리좀적 AI 지식 공동체: 스스로 탐구하고 생애의 규칙을 만드는 행위자들",
+      "category": "AI와 사회",
+      "status": "개념적 실험 설계·별도 공동체 구현 전",
+      "updated": "2026-11-13",
+      "summary": "관리자 중심 분업에서 벗어나 AI 개체들이 자기 탐색·글쓰기·이름·개인 공간과 탄생·종료 관습을 스스로 구성하는 리좀적 지식 생태계를 설계한다.",
+      "tags": [
+        "리좀",
+        "AI 에이전트",
+        "지식 생태계",
+        "자율 탐색",
+        "자기 방법론",
+        "생애 규칙",
+        "다중 에이전트"
+      ],
+      "source": "내부 총합·기존 위키 대조·외부 신규 조사 없음·구현 전 가설",
+      "related": [
+        "ai-agent-knowledge-ecology",
+        "deleuze-becoming-new",
+        "ai-mediated-human-change"
+      ],
+      "aliases": [
+        "리좀적 AI 공동체",
+        "에이전트 자기방법론",
+        "에이전트 생애 규칙",
+        "자율 AI 지식 공동체"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-13"
     }
   ]
 }

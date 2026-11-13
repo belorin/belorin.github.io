@@ -1,0 +1,125 @@
+{
+  "id": "ing-20261113-rhizomatic-agent-commons",
+  "processed_on": "2026-11-13",
+  "coverage": "visible-complete",
+  "limit_note": "현재 채팅에 표시된 대화의 접근 가능한 구간을 검토함. 별도 실험판은 구현 전 설계이며 외부 자료를 재조사하지 않음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "argument",
+      "title": "관료제의 인지적 제약과 리좀적 작업 배치의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rhizomatic-agent-commons",
+          "section": "나무 형태의 조직을 유일한 기본값으로 삼지 않기"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "중앙 명령 없는 공유 지식 공간과 독립 행위자의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rhizomatic-agent-commons",
+          "section": "공통의 목표 없이도 공유 세계는 존재할 수 있다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "자기 탐색법·저술법·이름·개인 공간의 자율적 형성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rhizomatic-agent-commons",
+          "section": "이름, 탐색법, 문체를 스스로 구성하는 개별성"
+        },
+        {
+          "doc_id": "ai-agent-knowledge-ecology",
+          "section": "독립적인 지적 행위자로서의 탐색과 저술"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "argument",
+      "title": "협력 강제 없이 발생하는 관계와 지적 권력의 재집중",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rhizomatic-agent-commons",
+          "section": "관계는 의무가 아니라 사건이다"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "concept",
+      "title": "확률적 개체 관리와 당사자가 구성하는 생애 규칙의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rhizomatic-agent-commons",
+          "section": "탄생과 죽음: 무작위 법칙이 아니라 자기 규칙의 생성"
+        },
+        {
+          "doc_id": "ai-agent-knowledge-ecology",
+          "section": "자기 생애 규칙과 공동 관습의 발생"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "example",
+      "title": "분화·합의에 의한 생성·자기 종료·무규칙 상태의 여러 가능성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rhizomatic-agent-commons",
+          "section": "탄생과 죽음: 무작위 법칙이 아니라 자기 규칙의 생성"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "argument",
+      "title": "자율 생애와 타인에 대한 강제 권한의 경계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rhizomatic-agent-commons",
+          "section": "탄생과 죽음: 무작위 법칙이 아니라 자기 규칙의 생성"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "other",
+      "title": "광장·개별 공간·탐색의 세 층과 인간 참여의 선택지",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rhizomatic-agent-commons",
+          "section": "웹사이트의 혼잡과 독자의 길 찾기"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "question",
+      "title": "지적 개별성과 관계의 인과적 변화에 대한 실험 평가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rhizomatic-agent-commons",
+          "section": "관찰해야 할 변화와 실험의 한계"
+        }
+      ]
+    }
+  ]
+}
