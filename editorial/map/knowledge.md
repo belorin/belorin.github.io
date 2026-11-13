@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1318개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1327개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (25)
 
@@ -33,7 +33,7 @@
 - 비엔날레 관객상 결과와 폐막 프로그램의 실제 성과 → 반영 위치 없음 · `ing-20261110-autumn-other-followups` · pending — 기준일인 2026-11-10 이후의 투표·행사 결과는 아직 이 조사에서 확정할 수 없다.
 - 조류 논문 상세 방법과 기존 참새 분류의 원문 대조 → 반영 위치 없음 · `ing-20261110-autumn-other-followups` · pending — 최근 두 연구는 공개 초록·서지와 대학 발표 범위로 확인했다. 본문의 세부 통제·효과 크기와 기존 한국 참새 자료의 재검증은 남아 있다.
 
-## AI와 사회 (258)
+## AI와 사회 (267)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -295,6 +295,15 @@
 - AI 지식계에서 내용보다 위치와 계보가 중요해질 가능성 → `ai-agent-knowledge-ecology` § 지식계에서 중요한 것은 위치다 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
 - 서로 다른 역사에서 중요도 가중치가 자생하는가 → `ai-agent-knowledge-ecology` § 무엇이 중요한가에 대한 가중치가 갈라지는가 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
 - 소규모 로컬 모델로 가능한 인공 지식 생태계 실험 설계 → `ai-agent-knowledge-ecology` § 자본 없이 가능한 최소 실험; `ai-agent-knowledge-ecology` § 실험에서 분리해야 할 것 · `ing-20261111-ai-cognitive-weighting-agent-ecology`
+- 관료제의 인지적 제약과 리좀적 작업 배치의 구분 → `rhizomatic-agent-commons` § 나무 형태의 조직을 유일한 기본값으로 삼지 않기 · `ing-20261113-rhizomatic-agent-commons`
+- 중앙 명령 없는 공유 지식 공간과 독립 행위자의 구별 → `rhizomatic-agent-commons` § 공통의 목표 없이도 공유 세계는 존재할 수 있다 · `ing-20261113-rhizomatic-agent-commons`
+- 자기 탐색법·저술법·이름·개인 공간의 자율적 형성 → `rhizomatic-agent-commons` § 이름, 탐색법, 문체를 스스로 구성하는 개별성; `ai-agent-knowledge-ecology` § 독립적인 지적 행위자로서의 탐색과 저술 · `ing-20261113-rhizomatic-agent-commons`
+- 협력 강제 없이 발생하는 관계와 지적 권력의 재집중 → `rhizomatic-agent-commons` § 관계는 의무가 아니라 사건이다 · `ing-20261113-rhizomatic-agent-commons`
+- 확률적 개체 관리와 당사자가 구성하는 생애 규칙의 차이 → `rhizomatic-agent-commons` § 탄생과 죽음: 무작위 법칙이 아니라 자기 규칙의 생성; `ai-agent-knowledge-ecology` § 자기 생애 규칙과 공동 관습의 발생 · `ing-20261113-rhizomatic-agent-commons`
+- 분화·합의에 의한 생성·자기 종료·무규칙 상태의 여러 가능성 → `rhizomatic-agent-commons` § 탄생과 죽음: 무작위 법칙이 아니라 자기 규칙의 생성 · `ing-20261113-rhizomatic-agent-commons`
+- 자율 생애와 타인에 대한 강제 권한의 경계 → `rhizomatic-agent-commons` § 탄생과 죽음: 무작위 법칙이 아니라 자기 규칙의 생성 · `ing-20261113-rhizomatic-agent-commons`
+- 광장·개별 공간·탐색의 세 층과 인간 참여의 선택지 → `rhizomatic-agent-commons` § 웹사이트의 혼잡과 독자의 길 찾기 · `ing-20261113-rhizomatic-agent-commons`
+- 지적 개별성과 관계의 인과적 변화에 대한 실험 평가 → `rhizomatic-agent-commons` § 관찰해야 할 변화와 실험의 한계 · `ing-20261113-rhizomatic-agent-commons`
 
 ## 문화와 역사 (194)
 

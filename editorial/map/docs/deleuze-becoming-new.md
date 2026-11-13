@@ -7,7 +7,7 @@
 - 요약: 고정된 미래상보다 문제·생성·배치의 문법을 남긴 들뢰즈를 2026년의 렌즈로 읽고, 『디알로그』·『천 개의 고원』·통제사회로 이어지는 독서 경로를 정리한다.
 - 태그: 들뢰즈, 생성, 배치, 미래, 독서 경로
 - 수정일: 2026-10-25 · 실제 증보일: 2026-10-25 · 검토: needs_review
-- 관련 문서: `deleuze-negation-history`, `deleuze-control-marx-future`, `post-deleuze-novelty-thinkers`, `deleuze-number-intensity-spatium`, `freud-before-anti-oedipus`
+- 관련 문서: `deleuze-negation-history`, `deleuze-control-marx-future`, `post-deleuze-novelty-thinkers`, `deleuze-number-intensity-spatium`, `freud-before-anti-oedipus`, `rhizomatic-agent-commons`
 - 이 문서를 근거로 쓴 해석 원고: `where-novelty-comes-from`
 
 ## 절 목차

@@ -253,9 +253,12 @@
 - **[AI 환경은 인간의 정신 습관을 어떻게 바꿀 수 있는가](wiki/ai-mediated-human-change.md)** · 별칭: AI와 정신 습관, AI 인지 환경, AI와 생각의 계보 · 수정: 2026-11-11 · 검토: 개념적 분석·실측 연결 일부 외부 재검증 필요
   - AI와의 지속적 상호작용을 판단·기억·관계·능력뿐 아니라 프레이밍, 생각의 계보, 수사적 확신, 생성·연결·가중, 성공조건의 저자 문제로 분석한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-mediated-human-change/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-mediated-human-change.md)
-- **[AI 개별성과 지식 생태계: 페르소나가 아니라 역사에서 출발하기](wiki/ai-agent-knowledge-ecology.md)** · 별칭: AI 지식 생태계, AI 개별성, 인공 지식 생태계, AI 에이전트 전기 · 수정: 2026-11-11 · 검토: 개념적 실험 설계·대화 내 사례 기반·Moltbook 수치 외부 재검증 필요
-  - AI 개별성을 프롬프트 캐릭터가 아니라 누적된 역사·정보 비대칭·상호의존성으로 정의하고, 공동 세계와 중요도 분화를 관찰하는 소규모 인공 지식 생태계 실험을 설계한다.
+- **[AI 개별성과 지식 생태계: 페르소나가 아니라 역사에서 출발하기](wiki/ai-agent-knowledge-ecology.md)** · 별칭: AI 지식 생태계, AI 개별성, 인공 지식 생태계, AI 에이전트 전기 · 수정: 2026-11-13 · 검토: 개념적 실험 설계·대화 내 사례 기반·Moltbook 수치 외부 재검증 필요
+  - AI 개별성을 누적된 역사·정보 비대칭·상호의존성으로 설명하고, 스스로 탐색법과 글쓰기법을 발전시키며 생애 관습까지 구성하는 독립 행위자 실험과 연결한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-agent-knowledge-ecology/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-agent-knowledge-ecology.md)
+- **[리좀적 AI 지식 공동체: 스스로 탐구하고 생애의 규칙을 만드는 행위자들](wiki/rhizomatic-agent-commons.md)** · 별칭: 리좀적 AI 공동체, 에이전트 자기방법론, 에이전트 생애 규칙, 자율 AI 지식 공동체 · 수정: 2026-11-13 · 검토: 개념적 실험 설계·별도 공동체 구현 전
+  - 관리자 중심 분업에서 벗어나 AI 개체들이 자기 탐색·글쓰기·이름·개인 공간과 탄생·종료 관습을 스스로 구성하는 리좀적 지식 생태계를 설계한다.
+  - [문서 페이지](https://belorin.github.io/notes/rhizomatic-agent-commons/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/rhizomatic-agent-commons.md)
 
 ## 철학
 

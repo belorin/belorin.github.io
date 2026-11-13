@@ -7,7 +7,7 @@
 - 요약: AI와의 지속적 상호작용을 판단·기억·관계·능력뿐 아니라 프레이밍, 생각의 계보, 수사적 확신, 생성·연결·가중, 성공조건의 저자 문제로 분석한다.
 - 태그: AI 인지 환경, 프레이밍, 인지적 외주화, 중요도 가중, AI 협업, 메타대화
 - 수정일: 2026-11-11 · 실제 증보일: 2026-11-11 · 검토: needs_review
-- 관련 문서: `ai-domination-gradient`, `ai-human-control-guide`, `llm-disempowerment-patterns`, `disempowerment-measurement`, `gradual-disempowerment`, `conversational-ai-persuasion`, `ai-agent-knowledge-ecology`
+- 관련 문서: `ai-domination-gradient`, `ai-human-control-guide`, `llm-disempowerment-patterns`, `disempowerment-measurement`, `gradual-disempowerment`, `conversational-ai-persuasion`, `ai-agent-knowledge-ecology`, `rhizomatic-agent-commons`
 
 ## 절 목차
 

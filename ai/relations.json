@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 727,
+  "edge_count": 733,
   "edges": [
     {
       "from": "living-notes",
@@ -1172,6 +1172,12 @@
     {
       "from": "deleuze-becoming-new",
       "to": "freud-before-anti-oedipus",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-becoming-new",
+      "to": "rhizomatic-agent-commons",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -4080,6 +4086,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "ai-mediated-human-change",
+      "to": "rhizomatic-agent-commons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "ai-agent-knowledge-ecology",
       "to": "ai-mediated-human-change",
       "type": "related_to",
@@ -4094,6 +4106,30 @@
     {
       "from": "ai-agent-knowledge-ecology",
       "to": "local-llm-industrial-operations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-agent-knowledge-ecology",
+      "to": "rhizomatic-agent-commons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rhizomatic-agent-commons",
+      "to": "ai-agent-knowledge-ecology",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rhizomatic-agent-commons",
+      "to": "deleuze-becoming-new",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rhizomatic-agent-commons",
+      "to": "ai-mediated-human-change",
       "type": "related_to",
       "basis": "manifest.related"
     },
