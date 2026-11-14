@@ -3,9 +3,9 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1341개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1360개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
-## 보류 항목 (25)
+## 보류 항목 (26)
 
 - 경제 시뮬레이션의 기존 전제·수치·학파별 논증 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 해당 원자료를 확인하지 못해 기존 논증의 복원과 완전 보존 여부를 판정할 수 없음. 새 공개 자료의 보충 분석으로 대체 완료 처리하지 않음.
 - 기존 종합·수정 원고의 상세 내용 대조 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 본문이 아닌 참조 표시만 확인되어 기존 원고의 세부와 현재 증보 사이의 중복·차이를 검수할 수 없음.
@@ -32,6 +32,7 @@
 - 국내 데이터센터 개별 사업의 비용 약정과 실제 가동 → 반영 위치 없음 · `ing-20261110-autumn-other-followups` · pending — 최근 해외 제도의 후속 조사에 한정했으며 국내 프로젝트별 계약 원문·실가동·순세수는 추가 자료가 필요하다.
 - 비엔날레 관객상 결과와 폐막 프로그램의 실제 성과 → 반영 위치 없음 · `ing-20261110-autumn-other-followups` · pending — 기준일인 2026-11-10 이후의 투표·행사 결과는 아직 이 조사에서 확정할 수 없다.
 - 조류 논문 상세 방법과 기존 참새 분류의 원문 대조 → 반영 위치 없음 · `ing-20261110-autumn-other-followups` · pending — 최근 두 연구는 공개 초록·서지와 대학 발표 범위로 확인했다. 본문의 세부 통제·효과 크기와 기존 한국 참새 자료의 재검증은 남아 있다.
+- 저작권 보호 원문의 전체 한국어 번역 재게재 → 반영 위치 없음 · `ing-20261115-todd-dislocation` · pending — 전체 전문 번역 재게재는 저작권상 진행하지 않고, 원문 연결과 독립적 한국어 상세 해설로 대체
 
 ## AI와 사회 (267)
 
@@ -949,6 +950,79 @@
 - 전략 수익과 시장 기준선 대비 상대 성과의 구별 → `upbit-small-capital-trading-experiment` § 수익 판단: 한 번의 흑자보다 반증 가능한 증거 · `ing-20261102-upbit-small-capital-trading`
 - 실패한 전략과 운영 장애를 구분하는 검증 기록 → `upbit-small-capital-trading-experiment` § 중단해야 할 신호와 남겨야 할 증거 · `ing-20261102-upbit-small-capital-trading`
 
+## 정치경제 (68)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- AI 구원론 없이 구성하는 비극적 완충론 → `critical-optimism-fragile-order` § 낙관이 훨씬 어려운 시대 · `ing-20261025-state-hollowing-critical-optimism`
+- 비용 피드백이 자동 감속을 보장하지 않는 조건 → `critical-optimism-fragile-order` § 비관식에 빠져 있는 반작용 · `ing-20261025-state-hollowing-critical-optimism`
+- 핵 억지·금융 안정화·에너지 전환의 조건부 완충 → `critical-optimism-fragile-order` § 전쟁의 브레이크: 비싼 전면전과 잔혹한 제한전 · `ing-20261025-state-hollowing-critical-optimism`
+- 제도적 완충장치의 불균등한 분포와 이미 도착한 디스토피아 → `critical-optimism-fragile-order` § 완충장치가 먼저 사망한 곳에서의 낙관 · `ing-20261025-state-hollowing-critical-optimism`
+- 법적 주권과 실제 국가기능을 분리하는 국가 형해화 개념 → `state-hollowing-index` § 국가는 있는데 국가는 작동하지 않는다 · `ing-20261025-state-hollowing-critical-optimism`
+- 폭력·행정·화폐·재생산·탈출·비공식망·법치·외부 의존·투자의 아홉 층 → `state-hollowing-index` § 100점 개념 설계와 중간 단계 · `ing-20261025-state-hollowing-critical-optimism`
+- 토드 영아사망률과 미확인 대리모 지표의 구분 → `state-hollowing-index` § 네 번째 층: 사회적 재생산의 붕괴 · `ing-20261025-state-hollowing-critical-optimism`
+- 빈곤 낙인·중복지표·평균값 편향을 피하는 보정 → `state-hollowing-index` § 비교의 함정과 보정 원칙 · `ing-20261025-state-hollowing-critical-optimism`
+- GPI·FSI·물가·정부부채 네 지표 코어 산식 → `state-hollowing-country-pilot` § 모형과 정규화 · `ing-20261025-state-hollowing-critical-optimism`
+- 20개국 코어 측정 입력값과 단계 분포 → `state-hollowing-country-pilot` § 20개국 입력값: 서로 다른 시대를 한 행에 놓은 한계 · `ing-20261025-state-hollowing-critical-optimism`
+- 이란·레바논·베네수엘라와 선진국의 서로 다른 압력 → `state-hollowing-country-pilot` § 유형은 점수보다 중요한 정보를 제공한다 · `ing-20261025-state-hollowing-critical-optimism`
+- 레바논·베네수엘라의 과거 부채값 대체와 민감도 한계 → `state-hollowing-country-pilot` § 민감도와 자료 문제 · `ing-20261025-state-hollowing-critical-optimism`
+- 화폐창출 사실과 약탈적 분배 판정의 구분 → `money-credit-seigniorage-critique` § 좋은 질문과 지나치게 쉬운 답 · `ing-20261030-money-credit-economic-history`
+- 중앙은행 세뇨리지와 상업은행 신용창조의 차이 → `money-credit-seigniorage-critique` § 세뇨리지와 은행 신용창조는 같은 수익이 아니다 · `ing-20261030-money-credit-economic-history`
+- 대출·예금 100의 대차대조표 및 원금 상환 → `money-credit-seigniorage-critique` § 신용은 부채다: 은행의 장부를 펴면 보이는 것 · `ing-20261030-money-credit-economic-history`
+- 칸티용 효과의 진입 경로와 통화완화의 고용 효과 → `money-credit-seigniorage-critique` § 칸티용 효과: 먼저 받은 사람의 이익은 어디까지인가 · `ing-20261030-money-credit-economic-history`
+- 생산·투기·연명 신용의 구분 → `money-credit-seigniorage-critique` § 생산적 신용, 자산투기 신용, 연명 신용을 분리한다 · `ing-20261030-money-credit-economic-history`
+- 화폐원인론과 불평등의 다른 제도적 원인 → `money-credit-seigniorage-critique` § 화폐원인론이 불평등의 다른 기제를 지울 때 · `ing-20261030-money-credit-economic-history`
+- 분데스방크와 스위스 주권화폐 국민투표 논쟁 → `money-credit-seigniorage-critique` § 경제학자들은 침묵했는가: 독일과 스위스의 공개 논쟁 · `ing-20261030-money-credit-economic-history`
+- 금본위의 규율과 금융위기 대응의 충돌 → `money-credit-seigniorage-critique` § 금본위로 모든 문제가 해결되는가 · `ing-20261030-money-credit-economic-history`
+- 토드의 프랑스 내 대중적 위상과 학문적·정치적 수용의 분리 → `emmanuel-todd-western-defeat` § 유명하지만 합의의 중심에는 있지 않은 사람 · `ing-20261102-todd-global-south-critical-reading`
+- 르몽드와 르몽드 디플로마티크의 상반된 서평 논리 → `emmanuel-todd-western-defeat` § 같은 책을 두고 갈리는 프랑스의 평가 · `ing-20261102-todd-global-south-critical-reading`
+- 서방 쇠퇴 주장과 개별 전쟁의 인과·책임 검증을 구분 → `emmanuel-todd-western-defeat` § 『서방의 패배』의 논리와 비판의 마찰 · `ing-20261102-todd-global-south-critical-reading`
+- 토드의 2025년 이란 핵억지 균형 주장과 반론 → `emmanuel-todd-western-defeat` § 2025년 이란 핵무장에 관한 발언 · `ing-20261102-todd-global-south-critical-reading`
+- 2026년 이란전을 미국 패권의 연쇄 전선으로 해석하는 주장과 근거의 한계 → `emmanuel-todd-western-defeat` § 2026년 이란전: 우크라이나 이후의 다른 전선인가 · `ing-20261102-todd-global-south-critical-reading`
+- 토드의 출판사 서평 프랑스어 언론과 인터뷰 추적 경로 → `emmanuel-todd-western-defeat` § 출판사와 매체, 독립 채널을 분리하기 · `ing-20261102-todd-global-south-critical-reading`
+- 토드 문명론의 통찰과 예측을 따로 검증하는 독법 → `emmanuel-todd-western-defeat` § 토드를 읽는 데 필요한 이중 장부 · `ing-20261102-todd-global-south-critical-reading`
+- 부동산 비중과 붕괴 위험의 서로 다른 네 척도 → `housing-busts-global-korea` § 무엇이 높았고 무엇이 무너졌는가 · `ing-20261103-housing-busts-global`
+- 가격지수와 금융 부실지표를 같은 낙폭으로 비교하는 오류 → `housing-busts-global-korea` § 정점에서 5년, 10년: 먼저 펼쳐 보는 비교 · `ing-20261103-housing-busts-global`
+- 일본 토지거품과 은행 부실의 장기화 → `housing-busts-global-korea` § 일본: 가격 붕괴와 손실 인식의 지연 · `ing-20261103-housing-busts-global`
+- 홍콩 주택가격 붕괴와 역자산·불균등한 회복 → `housing-busts-global-korea` § 홍콩: 가장 가파른 폭락과 이후의 불균등한 회복 · `ing-20261103-housing-busts-global`
+- 미국 모기지 전파와 2008년 금융위기의 후과 → `housing-busts-global-korea` § 미국: 주택대출이 금융시장 전체의 위험이 되었을 때 · `ing-20261103-housing-busts-global`
+- 아일랜드 주택가격 붕괴와 공급부족의 귀환 → `housing-busts-global-korea` § 아일랜드: 붕괴를 통과한 뒤 주거난이 다시 온 역설 · `ing-20261103-housing-busts-global`
+- 스페인 건설금융 붕괴와 장기 고용 충격 → `housing-busts-global-korea` § 스페인: 건설업의 충격이 청년과 노동시장에 남긴 시간 · `ing-20261103-housing-busts-global`
+- 핀란드의 은행위기와 대외충격 → `housing-busts-global-korea` § 핀란드와 스웨덴: 비슷한 금융위기, 다른 회복의 속도 · `ing-20261103-housing-busts-global`
+- 스웨덴 은행정리와 회복의 분기 → `housing-busts-global-korea` § 핀란드와 스웨덴: 비슷한 금융위기, 다른 회복의 속도 · `ing-20261103-housing-busts-global`
+- 태국 외화차입·개발금융과 부실채권 → `housing-busts-global-korea` § 태국: 집값 지수보다 외채와 개발금융이 먼저 문제인 사례 · `ing-20261103-housing-busts-global`
+- 아이슬란드 은행위기와 통화조정·관광 회복 → `housing-busts-global-korea` § 아이슬란드: 집값을 넘어 은행 전체가 국가 규모를 압도했을 때 · `ing-20261103-housing-busts-global`
+- 두바이 개발금융과 거래액 붕괴의 구분 → `housing-busts-global-korea` § 두바이: 개발 프로젝트와 국제 유동성에 묶인 순환 · `ing-20261103-housing-busts-global`
+- 중국 부동산 조정의 5년 관측과 아직 없는 10년 결과 → `housing-busts-global-korea` § 중국: 아직 닫히지 않은 10년의 결과 · `ing-20261103-housing-busts-global`
+- 부동산 충격의 거래·담보·금융·실물 전파 → `housing-busts-global-korea` § 폭락의 전개: 거래 마비에서 은행과 일자리까지 · `ing-20261103-housing-busts-global`
+- 명목가격 회복과 주거 접근성 회복의 구분 → `housing-busts-global-korea` § 회복을 판정하는 다섯 가지 서로 다른 기준 · `ing-20261103-housing-busts-global`
+- 한국 부동산 붕괴론의 취약성·지역 분화와 조건부 경로 → `housing-busts-global-korea` § 한국의 붕괴론을 판단하는 법 · `ing-20261103-housing-busts-global`
+- 국제 비교 통계와 5년·10년 정량 자료의 검증 경계 → `housing-busts-global-korea` § 자료의 경계와 후속 검증 과제 · `ing-20261103-housing-busts-global`
+- 부동산 금융에서 생산·투기·연명 신용의 충격 경로 → `money-credit-seigniorage-critique` § 부동산의 담보가 부실해진 뒤에도 신용의 종류는 남는다 · `ing-20261103-housing-busts-global`
+- 2026년 2분기 가계소득과 실질소비의 다른 증가율 → `korea-household-consumption-divergence-2026` § 명목소득은 늘었지만 실질소비는 거의 제자리였다 · `ing-20261110-selected-external-followups`
+- 소득 분위별 소비성향과 과소비 판단의 차이 → `korea-household-consumption-divergence-2026` § 평균 69.2% 안에는 125.3%와 60.3%가 함께 있다 · `ing-20261110-selected-external-followups`
+- 자산·소득 하위 가구 내 청년 비중의 분모 → `korea-household-consumption-divergence-2026` § 세대 차이는 나이만의 문제가 아니라 자산 진입의 문제다 · `ing-20261110-selected-external-followups`
+- 2025년 국내여행 통계의 시점과 조사 범위 → `korea-household-consumption-divergence-2026` § 여행 통계가 보여주는 것과 보여주지 않는 것 · `ing-20261110-selected-external-followups`
+- 생활 압박과 선택적 소비를 설명하는 경쟁 가설 → `korea-household-consumption-divergence-2026` § 생활의 압박과 선택적 지출을 함께 설명하는 네 가지 가설 · `ing-20261110-selected-external-followups`
+- 『La Dislocation』 2026년 출판과 대담집의 성격 → `todd-dislocation-2026` § 새 책 『La Dislocation』의 위치와 성격 · `ing-20261115-todd-dislocation`
+- 패배·쇠퇴·해체의 구분과 국가 형해화와의 차이 → `todd-dislocation-2026` § 패배, 쇠퇴, 해체는 서로 다른 수준의 명제다 · `ing-20261115-todd-dislocation`
+- 소련 붕괴의 신념 상실과 해체 이후 예측 한계 → `todd-budapest-2025-reading` § 소련 붕괴의 성공적인 예언과 실패한 이해 · `ing-20261115-todd-dislocation`
+- 교육 확대와 민주주의 내부의 위계 분열 → `todd-dislocation-2026` § 사회 내부의 해체: 교육 확대와 새로운 위계 · `ing-20261115-todd-dislocation`
+- 미국의 달러 패권·산업 복귀 사이의 구조적 딜레마 → `todd-dislocation-2026` § 미국의 역설: 제국에서 벗어나야 하지만 제국 없이는 유지되지 않는다 · `ing-20261115-todd-dislocation`
+- 미국 패권 약화와 동맹 내 위계적 압박 → `todd-dislocation-threats-2025-reading` § '위계적 분열'의 논리 · `ing-20261115-todd-dislocation`
+- EU의 정치적·기능적·법적 해체 구분과 반론 → `todd-dislocation-2026` § EU는 해체되는가: 세 가지 서로 다른 의미 · `ing-20261115-todd-dislocation`
+- 독일 재무장과 프랑스 세대 갈등 및 국가 재건의 구분 → `todd-dislocation-2026` § 독일·프랑스: 하나의 유럽이라는 생각을 흔드는 내부 차이 · `ing-20261115-todd-dislocation`
+- 2027년 우크라이나 전망의 검증 단위 → `todd-dislocation-2026` § 2027년을 둘러싼 전망과 예측의 검증 · `ing-20261115-todd-dislocation`
+- 한중일 산업집중과 인구 감소의 동시성 → `todd-dislocation-2026` § 동아시아: 생산능력의 집중과 인구 감소가 함께 나타나는 곳 · `ing-20261115-todd-dislocation`
+- 상상적 민족주의와 일본의 주권·대만 자기결정권 → `todd-asahi-2026-reading` § 상상적 민족주의(nationalisme imaginaire) · `ing-20261115-todd-dislocation`
+- 이란 외부 압력과 권위주의의 조건부 인과 및 공학 역량 → `todd-dislocation-2026` § 이란: 기술적 발전과 정치적 자유화는 같은 예측이 아니다 · `ing-20261115-todd-dislocation`
+- 중동에서 미국·이스라엘·이란 관계의 토드식 해석 → `todd-world-war-interview-2026-reading` § 이스라엘을 '위성국'으로 규정하는 주장 · `ing-20261115-todd-dislocation`
+- 브라질·베네수엘라와 라틴아메리카 지역별 차이 → `todd-dislocation-2026` § 중동·라틴아메리카·아프리카: 전망의 밀도가 다르다 · `ing-20261115-todd-dislocation`
+- 아프리카와 프랑스 식민지 관계의 한정적 전망 → `todd-dislocation-2026` § 중동·라틴아메리카·아프리카: 전망의 밀도가 다르다 · `ing-20261115-todd-dislocation`
+- 중국 일극 체제 대신 국민국가 다양성의 재등장과 한계 → `todd-dislocation-2026` § 서구 이후는 중국 제국인가, 서로 다른 국가들의 세계인가 · `ing-20261115-todd-dislocation`
+- 토드 프랑스어 원전 3편과 아사히 인터뷰의 한국어 독해 → `todd-dislocation-2026` § 원전별 한국어 독해 · `ing-20261115-todd-dislocation`
+- 예측을 관측 지표별로 나누는 이중 장부 → `todd-dislocation-2026` § 검증을 위한 두 장부 · `ing-20261115-todd-dislocation`
+
 ## 운영 (64)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -1086,61 +1160,6 @@
 - 작가 홍보 노동과 인간성의 상품화 가능성 → `human-authorship-creator-preference` § 저자의 죽음 뒤에 돌아온 작가의 얼굴 · `ing-20261114-taste-slop-human-authorship-search-costs`
 - 개인화된 작품과 공동 문화의 두 방향 → `human-authorship-creator-preference` § AI가 가져간 것은 공통의 작품인가, 공통의 청중인가 · `ing-20261114-taste-slop-human-authorship-search-costs`
 - 인간 창작자 선호의 장·단기 분화와 관찰 조건 → `human-authorship-creator-preference` § 긴 싸움일 수도, 짧은 싸움일 수도 있다 · `ing-20261114-taste-slop-human-authorship-search-costs`
-
-## 정치경제 (50)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- AI 구원론 없이 구성하는 비극적 완충론 → `critical-optimism-fragile-order` § 낙관이 훨씬 어려운 시대 · `ing-20261025-state-hollowing-critical-optimism`
-- 비용 피드백이 자동 감속을 보장하지 않는 조건 → `critical-optimism-fragile-order` § 비관식에 빠져 있는 반작용 · `ing-20261025-state-hollowing-critical-optimism`
-- 핵 억지·금융 안정화·에너지 전환의 조건부 완충 → `critical-optimism-fragile-order` § 전쟁의 브레이크: 비싼 전면전과 잔혹한 제한전 · `ing-20261025-state-hollowing-critical-optimism`
-- 제도적 완충장치의 불균등한 분포와 이미 도착한 디스토피아 → `critical-optimism-fragile-order` § 완충장치가 먼저 사망한 곳에서의 낙관 · `ing-20261025-state-hollowing-critical-optimism`
-- 법적 주권과 실제 국가기능을 분리하는 국가 형해화 개념 → `state-hollowing-index` § 국가는 있는데 국가는 작동하지 않는다 · `ing-20261025-state-hollowing-critical-optimism`
-- 폭력·행정·화폐·재생산·탈출·비공식망·법치·외부 의존·투자의 아홉 층 → `state-hollowing-index` § 100점 개념 설계와 중간 단계 · `ing-20261025-state-hollowing-critical-optimism`
-- 토드 영아사망률과 미확인 대리모 지표의 구분 → `state-hollowing-index` § 네 번째 층: 사회적 재생산의 붕괴 · `ing-20261025-state-hollowing-critical-optimism`
-- 빈곤 낙인·중복지표·평균값 편향을 피하는 보정 → `state-hollowing-index` § 비교의 함정과 보정 원칙 · `ing-20261025-state-hollowing-critical-optimism`
-- GPI·FSI·물가·정부부채 네 지표 코어 산식 → `state-hollowing-country-pilot` § 모형과 정규화 · `ing-20261025-state-hollowing-critical-optimism`
-- 20개국 코어 측정 입력값과 단계 분포 → `state-hollowing-country-pilot` § 20개국 입력값: 서로 다른 시대를 한 행에 놓은 한계 · `ing-20261025-state-hollowing-critical-optimism`
-- 이란·레바논·베네수엘라와 선진국의 서로 다른 압력 → `state-hollowing-country-pilot` § 유형은 점수보다 중요한 정보를 제공한다 · `ing-20261025-state-hollowing-critical-optimism`
-- 레바논·베네수엘라의 과거 부채값 대체와 민감도 한계 → `state-hollowing-country-pilot` § 민감도와 자료 문제 · `ing-20261025-state-hollowing-critical-optimism`
-- 화폐창출 사실과 약탈적 분배 판정의 구분 → `money-credit-seigniorage-critique` § 좋은 질문과 지나치게 쉬운 답 · `ing-20261030-money-credit-economic-history`
-- 중앙은행 세뇨리지와 상업은행 신용창조의 차이 → `money-credit-seigniorage-critique` § 세뇨리지와 은행 신용창조는 같은 수익이 아니다 · `ing-20261030-money-credit-economic-history`
-- 대출·예금 100의 대차대조표 및 원금 상환 → `money-credit-seigniorage-critique` § 신용은 부채다: 은행의 장부를 펴면 보이는 것 · `ing-20261030-money-credit-economic-history`
-- 칸티용 효과의 진입 경로와 통화완화의 고용 효과 → `money-credit-seigniorage-critique` § 칸티용 효과: 먼저 받은 사람의 이익은 어디까지인가 · `ing-20261030-money-credit-economic-history`
-- 생산·투기·연명 신용의 구분 → `money-credit-seigniorage-critique` § 생산적 신용, 자산투기 신용, 연명 신용을 분리한다 · `ing-20261030-money-credit-economic-history`
-- 화폐원인론과 불평등의 다른 제도적 원인 → `money-credit-seigniorage-critique` § 화폐원인론이 불평등의 다른 기제를 지울 때 · `ing-20261030-money-credit-economic-history`
-- 분데스방크와 스위스 주권화폐 국민투표 논쟁 → `money-credit-seigniorage-critique` § 경제학자들은 침묵했는가: 독일과 스위스의 공개 논쟁 · `ing-20261030-money-credit-economic-history`
-- 금본위의 규율과 금융위기 대응의 충돌 → `money-credit-seigniorage-critique` § 금본위로 모든 문제가 해결되는가 · `ing-20261030-money-credit-economic-history`
-- 토드의 프랑스 내 대중적 위상과 학문적·정치적 수용의 분리 → `emmanuel-todd-western-defeat` § 유명하지만 합의의 중심에는 있지 않은 사람 · `ing-20261102-todd-global-south-critical-reading`
-- 르몽드와 르몽드 디플로마티크의 상반된 서평 논리 → `emmanuel-todd-western-defeat` § 같은 책을 두고 갈리는 프랑스의 평가 · `ing-20261102-todd-global-south-critical-reading`
-- 서방 쇠퇴 주장과 개별 전쟁의 인과·책임 검증을 구분 → `emmanuel-todd-western-defeat` § 『서방의 패배』의 논리와 비판의 마찰 · `ing-20261102-todd-global-south-critical-reading`
-- 토드의 2025년 이란 핵억지 균형 주장과 반론 → `emmanuel-todd-western-defeat` § 2025년 이란 핵무장에 관한 발언 · `ing-20261102-todd-global-south-critical-reading`
-- 2026년 이란전을 미국 패권의 연쇄 전선으로 해석하는 주장과 근거의 한계 → `emmanuel-todd-western-defeat` § 2026년 이란전: 우크라이나 이후의 다른 전선인가 · `ing-20261102-todd-global-south-critical-reading`
-- 토드의 출판사 서평 프랑스어 언론과 인터뷰 추적 경로 → `emmanuel-todd-western-defeat` § 출판사와 매체, 독립 채널을 분리하기 · `ing-20261102-todd-global-south-critical-reading`
-- 토드 문명론의 통찰과 예측을 따로 검증하는 독법 → `emmanuel-todd-western-defeat` § 토드를 읽는 데 필요한 이중 장부 · `ing-20261102-todd-global-south-critical-reading`
-- 부동산 비중과 붕괴 위험의 서로 다른 네 척도 → `housing-busts-global-korea` § 무엇이 높았고 무엇이 무너졌는가 · `ing-20261103-housing-busts-global`
-- 가격지수와 금융 부실지표를 같은 낙폭으로 비교하는 오류 → `housing-busts-global-korea` § 정점에서 5년, 10년: 먼저 펼쳐 보는 비교 · `ing-20261103-housing-busts-global`
-- 일본 토지거품과 은행 부실의 장기화 → `housing-busts-global-korea` § 일본: 가격 붕괴와 손실 인식의 지연 · `ing-20261103-housing-busts-global`
-- 홍콩 주택가격 붕괴와 역자산·불균등한 회복 → `housing-busts-global-korea` § 홍콩: 가장 가파른 폭락과 이후의 불균등한 회복 · `ing-20261103-housing-busts-global`
-- 미국 모기지 전파와 2008년 금융위기의 후과 → `housing-busts-global-korea` § 미국: 주택대출이 금융시장 전체의 위험이 되었을 때 · `ing-20261103-housing-busts-global`
-- 아일랜드 주택가격 붕괴와 공급부족의 귀환 → `housing-busts-global-korea` § 아일랜드: 붕괴를 통과한 뒤 주거난이 다시 온 역설 · `ing-20261103-housing-busts-global`
-- 스페인 건설금융 붕괴와 장기 고용 충격 → `housing-busts-global-korea` § 스페인: 건설업의 충격이 청년과 노동시장에 남긴 시간 · `ing-20261103-housing-busts-global`
-- 핀란드의 은행위기와 대외충격 → `housing-busts-global-korea` § 핀란드와 스웨덴: 비슷한 금융위기, 다른 회복의 속도 · `ing-20261103-housing-busts-global`
-- 스웨덴 은행정리와 회복의 분기 → `housing-busts-global-korea` § 핀란드와 스웨덴: 비슷한 금융위기, 다른 회복의 속도 · `ing-20261103-housing-busts-global`
-- 태국 외화차입·개발금융과 부실채권 → `housing-busts-global-korea` § 태국: 집값 지수보다 외채와 개발금융이 먼저 문제인 사례 · `ing-20261103-housing-busts-global`
-- 아이슬란드 은행위기와 통화조정·관광 회복 → `housing-busts-global-korea` § 아이슬란드: 집값을 넘어 은행 전체가 국가 규모를 압도했을 때 · `ing-20261103-housing-busts-global`
-- 두바이 개발금융과 거래액 붕괴의 구분 → `housing-busts-global-korea` § 두바이: 개발 프로젝트와 국제 유동성에 묶인 순환 · `ing-20261103-housing-busts-global`
-- 중국 부동산 조정의 5년 관측과 아직 없는 10년 결과 → `housing-busts-global-korea` § 중국: 아직 닫히지 않은 10년의 결과 · `ing-20261103-housing-busts-global`
-- 부동산 충격의 거래·담보·금융·실물 전파 → `housing-busts-global-korea` § 폭락의 전개: 거래 마비에서 은행과 일자리까지 · `ing-20261103-housing-busts-global`
-- 명목가격 회복과 주거 접근성 회복의 구분 → `housing-busts-global-korea` § 회복을 판정하는 다섯 가지 서로 다른 기준 · `ing-20261103-housing-busts-global`
-- 한국 부동산 붕괴론의 취약성·지역 분화와 조건부 경로 → `housing-busts-global-korea` § 한국의 붕괴론을 판단하는 법 · `ing-20261103-housing-busts-global`
-- 국제 비교 통계와 5년·10년 정량 자료의 검증 경계 → `housing-busts-global-korea` § 자료의 경계와 후속 검증 과제 · `ing-20261103-housing-busts-global`
-- 부동산 금융에서 생산·투기·연명 신용의 충격 경로 → `money-credit-seigniorage-critique` § 부동산의 담보가 부실해진 뒤에도 신용의 종류는 남는다 · `ing-20261103-housing-busts-global`
-- 2026년 2분기 가계소득과 실질소비의 다른 증가율 → `korea-household-consumption-divergence-2026` § 명목소득은 늘었지만 실질소비는 거의 제자리였다 · `ing-20261110-selected-external-followups`
-- 소득 분위별 소비성향과 과소비 판단의 차이 → `korea-household-consumption-divergence-2026` § 평균 69.2% 안에는 125.3%와 60.3%가 함께 있다 · `ing-20261110-selected-external-followups`
-- 자산·소득 하위 가구 내 청년 비중의 분모 → `korea-household-consumption-divergence-2026` § 세대 차이는 나이만의 문제가 아니라 자산 진입의 문제다 · `ing-20261110-selected-external-followups`
-- 2025년 국내여행 통계의 시점과 조사 범위 → `korea-household-consumption-divergence-2026` § 여행 통계가 보여주는 것과 보여주지 않는 것 · `ing-20261110-selected-external-followups`
-- 생활 압박과 선택적 소비를 설명하는 경쟁 가설 → `korea-household-consumption-divergence-2026` § 생활의 압박과 선택적 지출을 함께 설명하는 네 가지 가설 · `ing-20261110-selected-external-followups`
 
 ## 게임 (31)
 
