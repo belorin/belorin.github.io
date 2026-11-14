@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 744,
+  "edge_count": 762,
   "edges": [
     {
       "from": "living-notes",
@@ -2340,6 +2340,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "state-hollowing-index",
+      "to": "todd-dislocation-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "state-hollowing-country-pilot",
       "to": "state-hollowing-index",
       "type": "related_to",
@@ -3732,6 +3738,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "emmanuel-todd-western-defeat",
+      "to": "todd-dislocation-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "global-south-critical-reading-guide",
       "to": "emmanuel-todd-western-defeat",
       "type": "related_to",
@@ -3740,6 +3752,12 @@
     {
       "from": "global-south-critical-reading-guide",
       "to": "information-hype-wow-index",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "global-south-critical-reading-guide",
+      "to": "todd-dislocation-2026",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -4196,6 +4214,96 @@
     {
       "from": "human-authorship-creator-preference",
       "to": "ai-mediated-human-change",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "todd-dislocation-2026",
+      "to": "emmanuel-todd-western-defeat",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "todd-dislocation-2026",
+      "to": "todd-budapest-2025-reading",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "todd-dislocation-2026",
+      "to": "todd-dislocation-threats-2025-reading",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "todd-dislocation-2026",
+      "to": "todd-world-war-interview-2026-reading",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "todd-dislocation-2026",
+      "to": "todd-asahi-2026-reading",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "todd-dislocation-2026",
+      "to": "global-south-critical-reading-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "todd-dislocation-2026",
+      "to": "state-hollowing-index",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "todd-budapest-2025-reading",
+      "to": "todd-dislocation-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "todd-budapest-2025-reading",
+      "to": "todd-dislocation-threats-2025-reading",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "todd-dislocation-threats-2025-reading",
+      "to": "todd-dislocation-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "todd-dislocation-threats-2025-reading",
+      "to": "todd-budapest-2025-reading",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "todd-world-war-interview-2026-reading",
+      "to": "todd-dislocation-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "todd-world-war-interview-2026-reading",
+      "to": "emmanuel-todd-western-defeat",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "todd-asahi-2026-reading",
+      "to": "todd-dislocation-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "todd-asahi-2026-reading",
+      "to": "emmanuel-todd-western-defeat",
       "type": "related_to",
       "basis": "manifest.related"
     },

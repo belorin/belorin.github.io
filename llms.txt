@@ -234,6 +234,11 @@
 - [에마뉘엘 토드와 『서방의 패배』: 프랑스의 논쟁적 지식인, 이란전 해석, 예언의 검증](https://belorin.github.io/notes/emmanuel-todd-western-defeat/): 에마뉘엘 토드의 프랑스 내 수용, 2024년 『서방의 패배』에 대한 상반된 서평, 2025년 핵무장론과 2026년 이란전 관련 주장, 자료 검증의 경계를 구분한다.
 - [부동산 국가가 무너질 때: 11개 시장의 폭락과 5년·10년의 후과](https://belorin.github.io/notes/housing-busts-global-korea/): 일본·홍콩·미국·유럽·태국·두바이·중국의 부동산 붕괴 사례를 정점, 5년·10년 후과, 신용·은행·고용·주거 접근성으로 비교하고 한국 붕괴론의 성립 조건을 검토한다.
 - [지갑은 빠듯한데 여행은 늘어난다: 2026년 한국의 소비와 자산 격차](https://belorin.github.io/notes/korea-household-consumption-divergence-2026/): 2026년 가계소득·실질소비·자산 양극화와 2025년 여행 통계를 구별하고, 생활 압박과 선택적 소비가 공존하는 경로 및 세대 비교의 조건을 검토한다.
+- [『La Dislocation』과 서구의 해체: 에마뉘엘 토드의 2026년 전망](https://belorin.github.io/notes/todd-dislocation-2026/): 서구의 패배·쇠퇴·해체를 구분하고 미국·EU·프랑스·독일·동아시아·이란·중동·중남미·아프리카의 미래 가설과 반례를 비교한다.
+- [부다페스트에서 '패배 이후'를 말하다: 토드의 2025년 강연 한국어 독해](https://belorin.github.io/notes/todd-budapest-2025-reading/): 소련 붕괴의 경험, 교육·계층 분리, EU 해체 발언과 국민국가 재등장의 가설을 프랑스어 강연의 순서에 따라 해설한다.
+- [서구의 해체와 위계적 분열: 토드의 2025년 10월 기고 한국어 독해](https://belorin.github.io/notes/todd-dislocation-threats-2025-reading/): 토드의 슬로베니아어판 신서문을 바탕으로 미국의 제국·재산업화 딜레마와 위계적 분열, 비서구 자율성을 해설한다.
+- [「세계대전의 시작」: 토드의 2026년 독일·중동 전망 인터뷰 한국어 독해](https://belorin.github.io/notes/todd-world-war-interview-2026-reading/): 우크라이나·미국의 생산 역량·독일의 군사적 전환·이스라엘·이란·베네수엘라에 관한 토드의 인터뷰를 비판적으로 해설한다.
+- [상상적 민족주의와 일본의 선택: 토드의 2026년 아사히신문 인터뷰 한국어 독해](https://belorin.github.io/notes/todd-asahi-2026-reading/): 일본의 주권·대중국 정책·대만, 한국·일본·중국의 인구 감소와 생산 능력에 관한 인터뷰를 해설하고 한국의 미제시 과제를 구분한다.
 
 ### 기술·지식 아카이브
 

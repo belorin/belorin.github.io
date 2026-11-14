@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 206,
+  "document_count": 211,
   "documents": [
     {
       "id": "living-notes",
@@ -3199,7 +3199,8 @@
         "state-hollowing-country-pilot",
         "critical-optimism-fragile-order",
         "world-crisis-historical-analogies",
-        "emmanuel-todd-western-defeat"
+        "emmanuel-todd-western-defeat",
+        "todd-dislocation-2026"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/state-hollowing-index.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/state-hollowing-index.md",
@@ -5967,13 +5968,14 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "대화 기반 총합·발언과 언론 평가의 원문 재검증 필요",
-      "last_updated_on": "2026-11-02",
-      "last_enriched_on": "2026-11-02",
+      "last_updated_on": "2026-11-15",
+      "last_enriched_on": "2026-11-15",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "state-hollowing-index",
         "global-south-critical-reading-guide",
-        "substack-independent-newsletters"
+        "substack-independent-newsletters",
+        "todd-dislocation-2026"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/emmanuel-todd-western-defeat.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/emmanuel-todd-western-defeat.md",
@@ -6008,7 +6010,8 @@
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "emmanuel-todd-western-defeat",
-        "information-hype-wow-index"
+        "information-hype-wow-index",
+        "todd-dislocation-2026"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/global-south-critical-reading-guide.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/global-south-critical-reading-guide.md",
@@ -7189,6 +7192,176 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/human-authorship-creator-preference.md",
       "page_url": "https://belorin.github.io/notes/human-authorship-creator-preference/",
       "app_url": "https://belorin.github.io/#human-authorship-creator-preference"
+    },
+    {
+      "id": "todd-dislocation-2026",
+      "title": "『La Dislocation』과 서구의 해체: 에마뉘엘 토드의 2026년 전망",
+      "aliases": [
+        "토드 해체론 2026",
+        "La Dislocation 에마뉘엘 토드"
+      ],
+      "category": "정치경제",
+      "tags": [
+        "에마뉘엘 토드",
+        "서구 해체",
+        "미국 패권",
+        "유럽연합",
+        "다극화",
+        "국제정치",
+        "미래 예측"
+      ],
+      "summary": "서구의 패배·쇠퇴·해체를 구분하고 미국·EU·프랑스·독일·동아시아·이란·중동·중남미·아프리카의 미래 가설과 반례를 비교한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 총합·공개 원문 해설 및 외부 사실 검증 경계",
+      "last_updated_on": "2026-11-15",
+      "last_enriched_on": "2026-11-15",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "emmanuel-todd-western-defeat",
+        "todd-budapest-2025-reading",
+        "todd-dislocation-threats-2025-reading",
+        "todd-world-war-interview-2026-reading",
+        "todd-asahi-2026-reading",
+        "global-south-critical-reading-guide",
+        "state-hollowing-index"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/todd-dislocation-2026.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/todd-dislocation-2026.md",
+      "page_url": "https://belorin.github.io/notes/todd-dislocation-2026/",
+      "app_url": "https://belorin.github.io/#todd-dislocation-2026"
+    },
+    {
+      "id": "todd-budapest-2025-reading",
+      "title": "부다페스트에서 '패배 이후'를 말하다: 토드의 2025년 강연 한국어 독해",
+      "aliases": [
+        "에마뉘엘 토드 부다페스트 강연",
+        "Todd Budapest 2025"
+      ],
+      "category": "정치경제",
+      "tags": [
+        "에마뉘엘 토드",
+        "서구 해체",
+        "미국 패권",
+        "유럽연합",
+        "다극화",
+        "국제정치",
+        "미래 예측"
+      ],
+      "summary": "소련 붕괴의 경험, 교육·계층 분리, EU 해체 발언과 국민국가 재등장의 가설을 프랑스어 강연의 순서에 따라 해설한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 총합·공개 원문 해설 및 외부 사실 검증 경계",
+      "last_updated_on": "2026-11-15",
+      "last_enriched_on": "2026-11-15",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "todd-dislocation-2026",
+        "todd-dislocation-threats-2025-reading"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/todd-budapest-2025-reading.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/todd-budapest-2025-reading.md",
+      "page_url": "https://belorin.github.io/notes/todd-budapest-2025-reading/",
+      "app_url": "https://belorin.github.io/#todd-budapest-2025-reading"
+    },
+    {
+      "id": "todd-dislocation-threats-2025-reading",
+      "title": "서구의 해체와 위계적 분열: 토드의 2025년 10월 기고 한국어 독해",
+      "aliases": [
+        "Dislocation de l'Occident les menaces 한국어 해설",
+        "토드 위계적 분열"
+      ],
+      "category": "정치경제",
+      "tags": [
+        "에마뉘엘 토드",
+        "서구 해체",
+        "미국 패권",
+        "유럽연합",
+        "다극화",
+        "국제정치",
+        "미래 예측"
+      ],
+      "summary": "토드의 슬로베니아어판 신서문을 바탕으로 미국의 제국·재산업화 딜레마와 위계적 분열, 비서구 자율성을 해설한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 총합·공개 원문 해설 및 외부 사실 검증 경계",
+      "last_updated_on": "2026-11-15",
+      "last_enriched_on": "2026-11-15",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "todd-dislocation-2026",
+        "todd-budapest-2025-reading"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/todd-dislocation-threats-2025-reading.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/todd-dislocation-threats-2025-reading.md",
+      "page_url": "https://belorin.github.io/notes/todd-dislocation-threats-2025-reading/",
+      "app_url": "https://belorin.github.io/#todd-dislocation-threats-2025-reading"
+    },
+    {
+      "id": "todd-world-war-interview-2026-reading",
+      "title": "「세계대전의 시작」: 토드의 2026년 독일·중동 전망 인터뷰 한국어 독해",
+      "aliases": [
+        "Le début d'une guerre mondiale 토드 해설",
+        "토드 2026 세계대전 인터뷰"
+      ],
+      "category": "정치경제",
+      "tags": [
+        "에마뉘엘 토드",
+        "서구 해체",
+        "미국 패권",
+        "유럽연합",
+        "다극화",
+        "국제정치",
+        "미래 예측"
+      ],
+      "summary": "우크라이나·미국의 생산 역량·독일의 군사적 전환·이스라엘·이란·베네수엘라에 관한 토드의 인터뷰를 비판적으로 해설한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 총합·공개 원문 해설 및 외부 사실 검증 경계",
+      "last_updated_on": "2026-11-15",
+      "last_enriched_on": "2026-11-15",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "todd-dislocation-2026",
+        "emmanuel-todd-western-defeat"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/todd-world-war-interview-2026-reading.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/todd-world-war-interview-2026-reading.md",
+      "page_url": "https://belorin.github.io/notes/todd-world-war-interview-2026-reading/",
+      "app_url": "https://belorin.github.io/#todd-world-war-interview-2026-reading"
+    },
+    {
+      "id": "todd-asahi-2026-reading",
+      "title": "상상적 민족주의와 일본의 선택: 토드의 2026년 아사히신문 인터뷰 한국어 독해",
+      "aliases": [
+        "Todd Asahi Shimbun 2026 해설",
+        "토드 상상적 민족주의"
+      ],
+      "category": "정치경제",
+      "tags": [
+        "에마뉘엘 토드",
+        "동아시아",
+        "일본",
+        "한중일",
+        "인구 감소",
+        "주권",
+        "원문 해설"
+      ],
+      "summary": "일본의 주권·대중국 정책·대만, 한국·일본·중국의 인구 감소와 생산 능력에 관한 인터뷰를 해설하고 한국의 미제시 과제를 구분한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 총합·공개 원문 해설 및 외부 사실 검증 경계",
+      "last_updated_on": "2026-11-15",
+      "last_enriched_on": "2026-11-15",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "todd-dislocation-2026",
+        "emmanuel-todd-western-defeat"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/todd-asahi-2026-reading.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/todd-asahi-2026-reading.md",
+      "page_url": "https://belorin.github.io/notes/todd-asahi-2026-reading/",
+      "app_url": "https://belorin.github.io/#todd-asahi-2026-reading"
     }
   ]
 }

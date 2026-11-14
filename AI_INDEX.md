@@ -553,7 +553,7 @@
 - **[돈은 부채이지만 왜 곧장 약탈이 되지 않는가: 『왜 그들만 부자가 되는가』의 화폐론 비평](wiki/money-credit-seigniorage-critique.md)** · 별칭: 왜 그들만 부자가 되는가, 신용은 부채, 은행의 화폐창조 · 수정: 2026-11-03 · 검토: 대화 기반 분석 · 외부 재검증 필요
   - 은행의 예금통화 창조, 세뇨리지, 칸티용 효과, 생산적·투기적 신용, 통화정책과 불평등을 구별하며 『왜 그들만 부자가 되는가』의 논리적 비약을 검토
   - [문서 페이지](https://belorin.github.io/notes/money-credit-seigniorage-critique/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/money-credit-seigniorage-critique.md)
-- **[에마뉘엘 토드와 『서방의 패배』: 프랑스의 논쟁적 지식인, 이란전 해석, 예언의 검증](wiki/emmanuel-todd-western-defeat.md)** · 별칭: Emmanuel Todd, La Défaite de l'Occident, 에마뉘엘 토드 서방의 패배 · 수정: 2026-11-02 · 검토: 대화 기반 총합·발언과 언론 평가의 원문 재검증 필요
+- **[에마뉘엘 토드와 『서방의 패배』: 프랑스의 논쟁적 지식인, 이란전 해석, 예언의 검증](wiki/emmanuel-todd-western-defeat.md)** · 별칭: Emmanuel Todd, La Défaite de l'Occident, 에마뉘엘 토드 서방의 패배 · 수정: 2026-11-15 · 검토: 대화 기반 총합·발언과 언론 평가의 원문 재검증 필요
   - 에마뉘엘 토드의 프랑스 내 수용, 2024년 『서방의 패배』에 대한 상반된 서평, 2025년 핵무장론과 2026년 이란전 관련 주장, 자료 검증의 경계를 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/emmanuel-todd-western-defeat/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/emmanuel-todd-western-defeat.md)
 - **[부동산 국가가 무너질 때: 11개 시장의 폭락과 5년·10년의 후과](wiki/housing-busts-global-korea.md)** · 별칭: 세계 부동산 폭락 비교, 부동산 버블 붕괴의 후과, 부동산 붕괴 5년 10년, 한국 부동산 붕괴론의 국제 비교 · 수정: 2026-11-10 · 검토: 대화 기반 국가별 부동산 붕괴와 금융 후과 비교 / 국가별 가격지수·연도·수치 외부 재검증 필요
@@ -562,6 +562,21 @@
 - **[지갑은 빠듯한데 여행은 늘어난다: 2026년 한국의 소비와 자산 격차](wiki/korea-household-consumption-divergence-2026.md)** · 별칭: 불황과 여행 소비, 한국 가계 소비의 분화 2026 · 수정: 2026-11-10 · 검토: 외부 후속 조사 · 관측·해석·미확정 범위 구분
   - 2026년 가계소득·실질소비·자산 양극화와 2025년 여행 통계를 구별하고, 생활 압박과 선택적 소비가 공존하는 경로 및 세대 비교의 조건을 검토한다.
   - [문서 페이지](https://belorin.github.io/notes/korea-household-consumption-divergence-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-household-consumption-divergence-2026.md)
+- **[『La Dislocation』과 서구의 해체: 에마뉘엘 토드의 2026년 전망](wiki/todd-dislocation-2026.md)** · 별칭: 토드 해체론 2026, La Dislocation 에마뉘엘 토드 · 수정: 2026-11-15 · 검토: 대화 기반 총합·공개 원문 해설 및 외부 사실 검증 경계
+  - 서구의 패배·쇠퇴·해체를 구분하고 미국·EU·프랑스·독일·동아시아·이란·중동·중남미·아프리카의 미래 가설과 반례를 비교한다.
+  - [문서 페이지](https://belorin.github.io/notes/todd-dislocation-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/todd-dislocation-2026.md)
+- **[부다페스트에서 '패배 이후'를 말하다: 토드의 2025년 강연 한국어 독해](wiki/todd-budapest-2025-reading.md)** · 별칭: 에마뉘엘 토드 부다페스트 강연, Todd Budapest 2025 · 수정: 2026-11-15 · 검토: 대화 기반 총합·공개 원문 해설 및 외부 사실 검증 경계
+  - 소련 붕괴의 경험, 교육·계층 분리, EU 해체 발언과 국민국가 재등장의 가설을 프랑스어 강연의 순서에 따라 해설한다.
+  - [문서 페이지](https://belorin.github.io/notes/todd-budapest-2025-reading/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/todd-budapest-2025-reading.md)
+- **[서구의 해체와 위계적 분열: 토드의 2025년 10월 기고 한국어 독해](wiki/todd-dislocation-threats-2025-reading.md)** · 별칭: Dislocation de l'Occident les menaces 한국어 해설, 토드 위계적 분열 · 수정: 2026-11-15 · 검토: 대화 기반 총합·공개 원문 해설 및 외부 사실 검증 경계
+  - 토드의 슬로베니아어판 신서문을 바탕으로 미국의 제국·재산업화 딜레마와 위계적 분열, 비서구 자율성을 해설한다.
+  - [문서 페이지](https://belorin.github.io/notes/todd-dislocation-threats-2025-reading/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/todd-dislocation-threats-2025-reading.md)
+- **[「세계대전의 시작」: 토드의 2026년 독일·중동 전망 인터뷰 한국어 독해](wiki/todd-world-war-interview-2026-reading.md)** · 별칭: Le début d'une guerre mondiale 토드 해설, 토드 2026 세계대전 인터뷰 · 수정: 2026-11-15 · 검토: 대화 기반 총합·공개 원문 해설 및 외부 사실 검증 경계
+  - 우크라이나·미국의 생산 역량·독일의 군사적 전환·이스라엘·이란·베네수엘라에 관한 토드의 인터뷰를 비판적으로 해설한다.
+  - [문서 페이지](https://belorin.github.io/notes/todd-world-war-interview-2026-reading/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/todd-world-war-interview-2026-reading.md)
+- **[상상적 민족주의와 일본의 선택: 토드의 2026년 아사히신문 인터뷰 한국어 독해](wiki/todd-asahi-2026-reading.md)** · 별칭: Todd Asahi Shimbun 2026 해설, 토드 상상적 민족주의 · 수정: 2026-11-15 · 검토: 대화 기반 총합·공개 원문 해설 및 외부 사실 검증 경계
+  - 일본의 주권·대중국 정책·대만, 한국·일본·중국의 인구 감소와 생산 능력에 관한 인터뷰를 해설하고 한국의 미제시 과제를 구분한다.
+  - [문서 페이지](https://belorin.github.io/notes/todd-asahi-2026-reading/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/todd-asahi-2026-reading.md)
 
 ## 기술·지식 아카이브
 

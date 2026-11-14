@@ -7,7 +7,7 @@
 - 요약: 아프리카·아시아·라틴아메리카의 개발·식민주의·국제정치·인식론 비판 저자와 서방 내부의 반론가를 구분하고 음모론적 서사를 피하는 독서법을 제안한다.
 - 태그: 글로벌 사우스, 비서구 세계관, 국제정치, 탈식민주의, 개발경제, 독서 지도, 악마의 변호인, 음모론 검증
 - 수정일: 2026-11-02 · 실제 증보일: 2026-11-02 · 검토: needs_review
-- 관련 문서: `emmanuel-todd-western-defeat`, `information-hype-wow-index`
+- 관련 문서: `emmanuel-todd-western-defeat`, `information-hype-wow-index`, `todd-dislocation-2026`
 
 ## 절 목차
 
