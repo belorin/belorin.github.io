@@ -211,16 +211,16 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `global-reading-club-2026-books` ↔ `world-book-club-korean-editions` · 0.24 · 연결됨
 - `physical-cloud-reading-guide` ↔ `gpi-foreign-novels-2015-2025` · 0.22
 - `physical-cloud-reading-guide` ↔ `global-south-critical-reading-guide` · 0.19
-- `todd-dislocation-2026` ↔ `todd-dislocation-threats-2025-reading` · 0.18 · 연결됨
+- `todd-budapest-2025-reading` ↔ `todd-dislocation-threats-2025-reading` · 0.16 · 연결됨
 - `global-south-critical-reading-guide` ↔ `gpi-foreign-novels-2015-2025` · 0.16
 - `anne-carson-nobel-first-reactions` ↔ `physical-cloud-reading-guide` · 0.15
+- `todd-dislocation-2026` ↔ `todd-dislocation-threats-2025-reading` · 0.15 · 연결됨
 - `great-depression-lived-experience-literature` ↔ `global-south-critical-reading-guide` · 0.15
 - `war-escalation-local-to-world` ↔ `world-crisis-historical-analogies` · 0.14 · 연결됨
 - `great-depression-lived-experience-literature` ↔ `gpi-foreign-novels-2015-2025` · 0.14
 - `venice-biennale-history` ↔ `venice-biennale-2026-critical-reception` · 0.14 · 연결됨
 - `japan-physical-ai-skill-transfer` ↔ `japan-skill-transfer-evidence-2026` · 0.14 · 연결됨
 - `teresa-satans-children-1989` ↔ `ray-wyre-sex-offender-treatment` · 0.14 · 연결됨
-- `world-orchestras-repertoire-2026` ↔ `korean-orchestras-repertoire-2026` · 0.14 · 연결됨
 
 ## 6. 보류 항목 (26)
 

@@ -1004,24 +1004,24 @@
 - 자산·소득 하위 가구 내 청년 비중의 분모 → `korea-household-consumption-divergence-2026` § 세대 차이는 나이만의 문제가 아니라 자산 진입의 문제다 · `ing-20261110-selected-external-followups`
 - 2025년 국내여행 통계의 시점과 조사 범위 → `korea-household-consumption-divergence-2026` § 여행 통계가 보여주는 것과 보여주지 않는 것 · `ing-20261110-selected-external-followups`
 - 생활 압박과 선택적 소비를 설명하는 경쟁 가설 → `korea-household-consumption-divergence-2026` § 생활의 압박과 선택적 지출을 함께 설명하는 네 가지 가설 · `ing-20261110-selected-external-followups`
-- 『La Dislocation』 2026년 출판과 대담집의 성격 → `todd-dislocation-2026` § 새 책 『La Dislocation』의 위치와 성격 · `ing-20261115-todd-dislocation`
-- 패배·쇠퇴·해체의 구분과 국가 형해화와의 차이 → `todd-dislocation-2026` § 패배, 쇠퇴, 해체는 서로 다른 수준의 명제다 · `ing-20261115-todd-dislocation`
-- 소련 붕괴의 신념 상실과 해체 이후 예측 한계 → `todd-budapest-2025-reading` § 소련 붕괴의 성공적인 예언과 실패한 이해 · `ing-20261115-todd-dislocation`
-- 교육 확대와 민주주의 내부의 위계 분열 → `todd-dislocation-2026` § 사회 내부의 해체: 교육 확대와 새로운 위계 · `ing-20261115-todd-dislocation`
-- 미국의 달러 패권·산업 복귀 사이의 구조적 딜레마 → `todd-dislocation-2026` § 미국의 역설: 제국에서 벗어나야 하지만 제국 없이는 유지되지 않는다 · `ing-20261115-todd-dislocation`
-- 미국 패권 약화와 동맹 내 위계적 압박 → `todd-dislocation-threats-2025-reading` § '위계적 분열'의 논리 · `ing-20261115-todd-dislocation`
-- EU의 정치적·기능적·법적 해체 구분과 반론 → `todd-dislocation-2026` § EU는 해체되는가: 세 가지 서로 다른 의미 · `ing-20261115-todd-dislocation`
-- 독일 재무장과 프랑스 세대 갈등 및 국가 재건의 구분 → `todd-dislocation-2026` § 독일·프랑스: 하나의 유럽이라는 생각을 흔드는 내부 차이 · `ing-20261115-todd-dislocation`
-- 2027년 우크라이나 전망의 검증 단위 → `todd-dislocation-2026` § 2027년을 둘러싼 전망과 예측의 검증 · `ing-20261115-todd-dislocation`
-- 한중일 산업집중과 인구 감소의 동시성 → `todd-dislocation-2026` § 동아시아: 생산능력의 집중과 인구 감소가 함께 나타나는 곳 · `ing-20261115-todd-dislocation`
-- 상상적 민족주의와 일본의 주권·대만 자기결정권 → `todd-asahi-2026-reading` § 상상적 민족주의(nationalisme imaginaire) · `ing-20261115-todd-dislocation`
-- 이란 외부 압력과 권위주의의 조건부 인과 및 공학 역량 → `todd-dislocation-2026` § 이란: 기술적 발전과 정치적 자유화는 같은 예측이 아니다 · `ing-20261115-todd-dislocation`
-- 중동에서 미국·이스라엘·이란 관계의 토드식 해석 → `todd-world-war-interview-2026-reading` § 이스라엘을 '위성국'으로 규정하는 주장 · `ing-20261115-todd-dislocation`
-- 브라질·베네수엘라와 라틴아메리카 지역별 차이 → `todd-dislocation-2026` § 중동·라틴아메리카·아프리카: 전망의 밀도가 다르다 · `ing-20261115-todd-dislocation`
-- 아프리카와 프랑스 식민지 관계의 한정적 전망 → `todd-dislocation-2026` § 중동·라틴아메리카·아프리카: 전망의 밀도가 다르다 · `ing-20261115-todd-dislocation`
-- 중국 일극 체제 대신 국민국가 다양성의 재등장과 한계 → `todd-dislocation-2026` § 서구 이후는 중국 제국인가, 서로 다른 국가들의 세계인가 · `ing-20261115-todd-dislocation`
-- 토드 프랑스어 원전 3편과 아사히 인터뷰의 한국어 독해 → `todd-dislocation-2026` § 원전별 한국어 독해 · `ing-20261115-todd-dislocation`
-- 예측을 관측 지표별로 나누는 이중 장부 → `todd-dislocation-2026` § 검증을 위한 두 장부 · `ing-20261115-todd-dislocation`
+- 『La Dislocation』 2026년 출판과 대담집의 성격 → `todd-dislocation-2026` § 새 책과 소련 붕괴의 기억 · `ing-20261115-todd-dislocation`
+- 패배·쇠퇴·해체의 구분과 국가 형해화와의 차이 → `todd-dislocation-2026` § 패배·쇠퇴·해체의 세 층위 · `ing-20261115-todd-dislocation`
+- 소련 붕괴의 신념 상실과 해체 이후 예측 한계 → `todd-budapest-2025-reading` § 소련에서 배운 것과 놓친 것 · `ing-20261115-todd-dislocation`
+- 교육 확대와 민주주의 내부의 위계 분열 → `todd-dislocation-2026` § 사회 내부에서도 결합이 풀린다 · `ing-20261115-todd-dislocation`
+- 미국의 달러 패권·산업 복귀 사이의 구조적 딜레마 → `todd-dislocation-2026` § 미국의 딜레마: 제국을 포기할 수도, 계속 유지할 수도 없다 · `ing-20261115-todd-dislocation`
+- 미국 패권 약화와 동맹 내 위계적 압박 → `todd-dislocation-threats-2025-reading` § 위계적 분열: 상층의 위기가 아래로 내려간다 · `ing-20261115-todd-dislocation`
+- EU의 정치적·기능적·법적 해체 구분과 반론 → `todd-dislocation-2026` § 유럽연합은 어떤 방식으로 해체되는가 · `ing-20261115-todd-dislocation`
+- 독일 재무장과 프랑스 세대 갈등 및 국가 재건의 구분 → `todd-dislocation-2026` § 독일과 프랑스: 해체 속에서 나타나는 서로 다른 위기 · `ing-20261115-todd-dislocation`
+- 2027년 우크라이나 전망의 검증 단위 → `todd-dislocation-2026` § 2027년의 예측과 더 긴 시간의 문제 · `ing-20261115-todd-dislocation`
+- 한중일 산업집중과 인구 감소의 동시성 → `todd-dislocation-2026` § 동아시아: 세계의 공장이면서 인구가 줄어드는 지역 · `ing-20261115-todd-dislocation`
+- 상상적 민족주의와 일본의 주권·대만 자기결정권 → `todd-asahi-2026-reading` § 상상적 민족주의와 오키나와의 미군 · `ing-20261115-todd-dislocation`
+- 이란 외부 압력과 권위주의의 조건부 인과 및 공학 역량 → `todd-dislocation-2026` § 이란과 중동: 공학 역량, 외부 위협, 정치적 선택 · `ing-20261115-todd-dislocation`
+- 중동에서 미국·이스라엘·이란 관계의 토드식 해석 → `todd-world-war-interview-2026-reading` § 이란은 왜 다음 전선에 놓이는가 · `ing-20261115-todd-dislocation`
+- 브라질·베네수엘라와 라틴아메리카 지역별 차이 → `todd-dislocation-2026` § 라틴아메리카와 아프리카: 해체론의 주변부 · `ing-20261115-todd-dislocation`
+- 아프리카와 프랑스 식민지 관계의 한정적 전망 → `todd-dislocation-2026` § 라틴아메리카와 아프리카: 해체론의 주변부 · `ing-20261115-todd-dislocation`
+- 중국 일극 체제 대신 국민국가 다양성의 재등장과 한계 → `todd-dislocation-2026` § 2027년의 예측과 더 긴 시간의 문제 · `ing-20261115-todd-dislocation`
+- 토드 프랑스어 원전 3편과 아사히 인터뷰의 한국어 독해 → `todd-dislocation-2026` § 원전 안내 · `ing-20261115-todd-dislocation`
+- 예측을 관측 지표별로 나누는 이중 장부 → `todd-dislocation-2026` § 예측의 추적 지표 · `ing-20261115-todd-dislocation`
 
 ## 운영 (64)
 
