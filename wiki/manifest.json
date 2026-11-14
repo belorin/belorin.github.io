@@ -46,7 +46,7 @@
       "title": "사람과 AI가 함께 편집하는 규칙",
       "category": "운영",
       "status": "편집 원칙",
-      "updated": "2026-11-02",
+      "updated": "2026-11-14",
       "summary": "누적 위키의 편집 원칙과 읽기 비용, 근거·해석의 구분, AI 자율 저술의 두 방식과 질적 판단, 기술적 검증과 창작적 자율성의 경계를 다룬다.",
       "tags": [
         "편집 원칙",
@@ -70,7 +70,7 @@
         "편집 원칙"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-11-02"
+      "last_enriched_on": "2026-11-14"
     },
     {
       "path": "wiki/open-questions.md",
@@ -2856,7 +2856,7 @@
       "title": "음악과 책의 공급 폭발: 한 사람의 귀와 눈은 얼마나 따라갈 수 있는가",
       "category": "문화",
       "status": "대화 내부 추정·검토 필요",
-      "updated": "2026-11-10",
+      "updated": "2026-11-14",
       "summary": "음악과 종이책의 역사적 생산량, 개인 소비시간, AI 공급, 차트 집중과 큐레이션을 비교하며 관측과 추정의 경계를 검토한다.",
       "tags": [
         "음악 생산량",
@@ -2871,14 +2871,16 @@
         "living-notes",
         "mood-led-music-listening",
         "information-hype-wow-index",
-        "music-upload-listening-gap-2026"
+        "music-upload-listening-gap-2026",
+        "taste-slop-mass-production",
+        "human-authorship-creator-preference"
       ],
       "aliases": [
         "문화 공급 과잉",
         "음악과 책의 생산 소비 격차"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-26"
+      "last_enriched_on": "2026-11-14"
     },
     {
       "path": "wiki/deleuze-number-intensity-spatium.md",
@@ -6518,7 +6520,9 @@
       ],
       "source": "2026-11-11 Luminate·Deezer 원자료 추가 대조 · 통계의 범위와 한계는 본문에 명시",
       "related": [
-        "music-books-supply-attention"
+        "music-books-supply-attention",
+        "taste-slop-mass-production",
+        "human-authorship-creator-preference"
       ],
       "aliases": [
         "음악 업로드와 실제 청취",
@@ -6774,6 +6778,78 @@
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-11-13"
+    },
+    {
+      "path": "wiki/taste-slop-mass-production.md",
+      "publish": true,
+      "order": 206,
+      "id": "taste-slop-mass-production",
+      "title": "취향은 길들여지는가: 꽃무늬 냉장고에서 AI 슬롭까지",
+      "category": "문화",
+      "status": "대화 기반 개념 종합 · 문헌 원전 검토 필요",
+      "updated": "2026-11-14",
+      "summary": "좋은 취향과 안목·품질의 구별, 의자·꽃무늬 냉장고의 산업 미학, AI 슬롭과 되풀이되는 양식, 취향의 반작용 및 탐색 비용의 외부화를 논증한다.",
+      "tags": [
+        "취향",
+        "AI 슬롭",
+        "안목",
+        "캠프",
+        "댄디",
+        "대량생산",
+        "문화산업",
+        "탐색 비용",
+        "큐레이션"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "human-authorship-creator-preference",
+        "music-books-supply-attention",
+        "music-upload-listening-gap-2026",
+        "ai-mediated-human-change"
+      ],
+      "aliases": [
+        "AI 시대의 취향과 슬롭",
+        "꽃무늬 냉장고와 취향",
+        "취향의 가축화",
+        "취향과 탐색 비용"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-14"
+    },
+    {
+      "path": "wiki/human-authorship-creator-preference.md",
+      "publish": true,
+      "order": 207,
+      "id": "human-authorship-creator-preference",
+      "title": "사람이 쓴 것의 값: 작품의 출처, 인정, 그리고 창작자의 얼굴",
+      "category": "철학",
+      "status": "대화 기반 철학적 비교 · 실증 원자료 검증 대기",
+      "updated": "2026-11-14",
+      "summary": "AI/인간 작품의 식별·출처 표시·선택을 구분하고 벤야민·바르트 등 예술철학, 창작 경험, 작가의 홍보 노동, 인간 창작자 선호의 장기 조건을 검토한다.",
+      "tags": [
+        "저자성",
+        "AI 창작",
+        "인간 창작자",
+        "미학",
+        "아우라",
+        "저자의 죽음",
+        "인정",
+        "장강명",
+        "창작 노동"
+      ],
+      "source": "내부 총합·외부 미검증",
+      "related": [
+        "taste-slop-mass-production",
+        "music-upload-listening-gap-2026",
+        "ai-mediated-human-change"
+      ],
+      "aliases": [
+        "AI와 인간 창작자의 구별",
+        "인간 창작물의 가치",
+        "저자성과 인간 선호"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-14"
     }
   ]
 }

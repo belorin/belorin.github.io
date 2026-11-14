@@ -1,0 +1,177 @@
+{
+  "id": "ing-20261114-taste-slop-human-authorship-search-costs",
+  "processed_on": "2026-11-14",
+  "coverage": "visible-complete",
+  "limit_note": "현재 접근 가능한 대화와 부속 회의록의 관련 구간을 읽어 통합했다. 원문 대화의 외부 이전 구간은 포함하지 않았으며, 철학 원전과 2026년 출처 표시 실험 원자료를 새로 확인하지 않았다. 기존 위키 관련 원고와 중복을 대조했다.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "선호·안목·완성도·문화적 권위의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-slop-mass-production",
+          "section": "좋은 취향이라는 말이 섞어 놓은 것"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "example",
+      "title": "의자와 꽃무늬 냉장고의 대량생산 미학",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-slop-mass-production",
+          "section": "의자와 꽃무늬 냉장고: 산업의 오래된 미학"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "AI 슬롭의 하우스 스타일과 맥락 없는 디자인 관습",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-slop-mass-production",
+          "section": "슬롭은 무엇을 비판하는 말인가"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "counterargument",
+      "title": "취향이 변하는 문화적 반작용과 그 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-slop-mass-production",
+          "section": "사람의 취향이 변하면 산업도 변한다"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "argument",
+      "title": "생성 비용과 독자의 탐색 비용의 비대칭",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-slop-mass-production",
+          "section": "취향이 있어도 발견할 수 없다면"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "concept",
+      "title": "미학·관계·문화적 접근 조건의 세 층 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-slop-mass-production",
+          "section": "좋아할 자유를 유지하려면 무엇을 살펴야 하나"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "concept",
+      "title": "감각적 동일성과 예술적 출처의 별개 문제",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "human-authorship-creator-preference",
+          "section": "감각적 동일성과 창작자의 동일성"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "question",
+      "title": "AI와 인간 작품의 식별·평가·지불 행동 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "human-authorship-creator-preference",
+          "section": "알아맞히는 능력과 지불하려는 마음"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "argument",
+      "title": "완성품과 창작 과정의 경험적 가치 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "human-authorship-creator-preference",
+          "section": "만드는 사람의 경험과 관객의 경험"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "example",
+      "title": "작가 홍보 노동과 인간성의 상품화 가능성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "human-authorship-creator-preference",
+          "section": "저자의 죽음 뒤에 돌아온 작가의 얼굴"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "counterargument",
+      "title": "개인화된 작품과 공동 문화의 두 방향",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "human-authorship-creator-preference",
+          "section": "AI가 가져간 것은 공통의 작품인가, 공통의 청중인가"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "question",
+      "title": "인간 창작자 선호의 장·단기 분화와 관찰 조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "human-authorship-creator-preference",
+          "section": "긴 싸움일 수도, 짧은 싸움일 수도 있다"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "argument",
+      "title": "AI 편집의 문장 치환과 실질적 개고 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "editing-principles",
+          "section": "문장 치환이 개고를 흉내 낼 때"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "argument",
+      "title": "문화 공급 증가와 독자 탐색 비용의 외부화",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "music-books-supply-attention",
+          "section": "공급이 늘어난 뒤에는 누가 골라내는가"
+        }
+      ]
+    }
+  ]
+}
