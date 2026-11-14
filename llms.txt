@@ -127,6 +127,7 @@
 - [사유의 중심에 접혀 있는 불가능자: 생각할 수 없음이 생각을 움직일 때](https://belorin.github.io/notes/deleuze-unthinkable-fold-thought/): 사유의 내부에 안-주름잡힌 불가능성을 죽음·자기인식·사랑의 비유와 사유에 대한 강제라는 문제로 구별해 설명한다.
 - [『안티 오이디푸스』 전에 읽는 프로이트: 한 권과 두 권의 선택](https://belorin.github.io/notes/freud-before-anti-oedipus/): 한 권은 『정신분석 입문』, 두 권은 『꿈의 해석』과 『성욕에 관한 세 편의 에세이』로 읽는 목적과 선택 근거를 구분한다.
 - [결국 침묵한다면: 들뢰즈의 열역학적 가상, 안·밖 주름운동과 강도의 깊이](https://belorin.github.io/notes/deleuze-thermodynamics-implication-equilibrium/): 엔트로피와 열평형을 인정하면서도 차이의 발생을 묻는 들뢰즈의 논점을 안·밖 주름, 강도의 깊이, 포텐셜 에너지와 최종 침묵의 반론으로 해설한다.
+- [사람이 쓴 것의 값: 작품의 출처, 인정, 그리고 창작자의 얼굴](https://belorin.github.io/notes/human-authorship-creator-preference/): AI/인간 작품의 식별·출처 표시·선택을 구분하고 벤야민·바르트 등 예술철학, 창작 경험, 작가의 홍보 노동, 인간 창작자 선호의 장기 조건을 검토한다.
 
 ### 독서 문화
 
@@ -222,6 +223,7 @@
 
 - [음악과 책의 공급 폭발: 한 사람의 귀와 눈은 얼마나 따라갈 수 있는가](https://belorin.github.io/notes/music-books-supply-attention/): 음악과 종이책의 역사적 생산량, 개인 소비시간, AI 공급, 차트 집중과 큐레이션을 비교하며 관측과 추정의 경계를 검토한다.
 - [매일 쌓이는 음악과 한 사람의 귀: 2026년 공급·청취·추천의 다른 숫자](https://belorin.github.io/notes/music-upload-listening-gap-2026/): 2025년 음악 녹음물 공급과 재생 집중, 2026년 Deezer의 AI 유입·추천·검색·정산 분리를 근거로 생산량과 실제 청취의 관계를 분석한다.
+- [취향은 길들여지는가: 꽃무늬 냉장고에서 AI 슬롭까지](https://belorin.github.io/notes/taste-slop-mass-production/): 좋은 취향과 안목·품질의 구별, 의자·꽃무늬 냉장고의 산업 미학, AI 슬롭과 되풀이되는 양식, 취향의 반작용 및 탐색 비용의 외부화를 논증한다.
 
 ### 정치경제
 

@@ -4,9 +4,9 @@
 
 마지막 정비: **M001** (2026-10-26) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
 
-원고 207개 · 변경 문서 134 · 고립 22 · 한쪽 연결 113 · 보류 25 · 열린 교차 제안 8
+원고 209개 · 변경 문서 136 · 고립 22 · 한쪽 연결 116 · 보류 25 · 열린 교차 제안 8
 
-## 1. 지난 정비 이후 변경된 문서 (134)
+## 1. 지난 정비 이후 변경된 문서 (136)
 
 manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
@@ -16,15 +16,15 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - **문화와 역사** (15): `sumer-bible-primeval-history`, `war-escalation-local-to-world`, `world-crisis-historical-analogies`, `venice-biennale-2026-critical-reception`, `jewish-messianic-claimants-kabbalah`, `luddite-movement-history`, `luddite-executions-memory`, `late-qing-yongying-daily-life`, `qing-tributaries-dissolution`, `ryukyu-disposition-qing-japan`, `roman-industry-gold-standard-history`, `great-depression-lived-experience-literature`, `satanic-panic-english-speaking-history`, `babylon-hymn-digital-reconstruction-2026`, `venice-biennale-autumn-criticism-2026`
 - **과학과 기술** (10): `space-data-center-thermal-economics`, `space-assets-law-debris-kessler`, `physical-ai-world-model-quantum-optimization`, `manufacturing-optimization-solo-business`, `mountain-powerline-undergrounding-economics`, `edge-vision-event-monitor-portfolio`, `world-electricity-capacity-generation-consumption`, `operations-data-ai-copilot-portfolio`, `x-auto-translation-serving-cost`, `local-llm-industrial-operations`
 - **기술·지식 아카이브** (5): `east-asia-telegraph-network-1880s`, `great-northern-telegraph-east-asia`, `book-translation-pipeline-local-llm`, `local-llm-novel-agent-m1`, `upbit-small-capital-trading-experiment`
+- **철학** (5): `deleuze-negation-history`, `deleuze-number-intensity-spatium`, `freud-before-anti-oedipus`, `deleuze-thermodynamics-implication-equilibrium`, `human-authorship-creator-preference`
 - **운영** (4): `editing-principles`, `wiki-building-history`, `wiki-operations-pipeline`, `gpt-wiki-zero-prototype`
 - **자연과 과학** (4): `bird-vocalization-sparrow`, `climate-population-villain-logic`, `swimming-bird-flight-biomechanics`, `bird-vocal-patterns-neural-code-2026`
 - **정치경제** (4): `money-credit-seigniorage-critique`, `emmanuel-todd-western-defeat`, `housing-busts-global-korea`, `korea-household-consumption-divergence-2026`
-- **철학** (4): `deleuze-negation-history`, `deleuze-number-intensity-spatium`, `freud-before-anti-oedipus`, `deleuze-thermodynamics-implication-equilibrium`
 - **게임** (3): `china-anime-game-industry`, `anime-urban-live-service-nte-tof`, `ps5-storage-anime-live-games`
 - **문학** (3): `grand-prix-imaginaire-awards`, `gpi-foreign-novels-2015-2025`, `ministry-for-the-future-reading`
+- **문화** (3): `music-books-supply-attention`, `music-upload-listening-gap-2026`, `taste-slop-mass-production`
 - **정보와 미디어** (3): `information-hype-wow-index`, `substack-independent-newsletters`, `teresa-satans-children-1989`
 - **철학·사상사** (3): `lacan-anti-oedipus-history`, `philosophical-systems-after-2000`, `contemporary-intellectual-power`
-- **문화** (2): `music-books-supply-attention`, `music-upload-listening-gap-2026`
 - **소설** (2): `climate-breath-fiction`, `stump-and-dream-fragment`
 - **종합** (2): `replay-ladder-human-performance`, `where-novelty-comes-from`
 - **독서 문화** (1): `global-south-critical-reading-guide`
@@ -60,7 +60,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `swimming-bird-flight-biomechanics` 물속의 인간과 공중의 새: 스트로크·날갯짓·가속·선회의 비례 생체역학
 - `gwangju-bus-transfer-guide` 광주 버스, 어디서 갈아탈까? AI에 물어보는 길찾기 안내
 
-## 3. 한쪽에서만 건 관련 문서 (113)
+## 3. 한쪽에서만 건 관련 문서 (116)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -134,6 +134,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `conductors-career-encores` → `orchestra-living-composers-canon`
 - `ai-compute-scaling-inference` → `owner-aligned-automated-power`
 - `japan-physical-ai-skill-transfer` → `ai-economic-transition`
+- `music-books-supply-attention` → `human-authorship-creator-preference`
 - `ancient-philosophy-beyond-greece` → `deleuze-becoming-new`
 - `book-preview-credit-sourcing` → `korea-personal-data-lifecycle`
 - `gut-cosmic-horror-worldbuilding` → `gut-fiber-fermentation`
@@ -177,6 +178,8 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `local-llm-industrial-operations` → `ai-compute-scaling-inference`
 - `ai-layoffs-global-remote-restructuring` → `ai-economic-transition`
 - `ai-layoffs-global-remote-restructuring` → `african-ai-annotation-labor-2026`
+- `taste-slop-mass-production` → `ai-mediated-human-change`
+- `human-authorship-creator-preference` → `ai-mediated-human-change`
 
 ## 4. 관련 문서가 없는 문서 (16)
 
@@ -267,5 +270,5 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 
 ## 9. 분류 참고
 
-분류 26개: 음악 38, AI와 사회 36, 사회와 제도 28, 문화와 역사 25, 철학 12, 과학과 기술 10, 정치경제 7, 기술·지식 아카이브 7, 운영 5, 독서 문화 4, 문학 4, 자연과 과학 4, 영화 3, 생명과학 3, 철학·사상사 3, 정보와 미디어 3, 게임 3, 문화 2, 종합 2, 소설 2, 질문 1, 미분류 1, 언어 1, 창작 1, 철학·심리 1, AI의 글 1
+분류 26개: 음악 38, AI와 사회 36, 사회와 제도 28, 문화와 역사 25, 철학 13, 과학과 기술 10, 정치경제 7, 기술·지식 아카이브 7, 운영 5, 독서 문화 4, 문학 4, 자연과 과학 4, 영화 3, 문화 3, 생명과학 3, 철학·사상사 3, 정보와 미디어 3, 게임 3, 종합 2, 소설 2, 질문 1, 미분류 1, 언어 1, 창작 1, 철학·심리 1, AI의 글 1
 문서가 하나뿐인 분류 6개: 질문, 미분류, 언어, 창작, 철학·심리, AI의 글. 분류 체계 변경은 제안만 한다.

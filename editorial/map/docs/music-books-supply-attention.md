@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `music-books-supply-attention` · 분류: 문화 · 공개 · 원고: [wiki/music-books-supply-attention.md](../../../wiki/music-books-supply-attention.md) · 5,302자 · 절 10개
+- id: `music-books-supply-attention` · 분류: 문화 · 공개 · 원고: [wiki/music-books-supply-attention.md](../../../wiki/music-books-supply-attention.md) · 5,921자 · 절 11개
 - 별칭: 문화 공급 과잉, 음악과 책의 생산 소비 격차
 - 요약: 음악과 종이책의 역사적 생산량, 개인 소비시간, AI 공급, 차트 집중과 큐레이션을 비교하며 관측과 추정의 경계를 검토한다.
 - 태그: 음악 생산량, 출판, 독서, 청취시간, 주의력, 생성 AI
-- 수정일: 2026-11-10 · 실제 증보일: 2026-10-26 · 검토: needs_review
-- 관련 문서: `living-notes`, `mood-led-music-listening`, `information-hype-wow-index`, `music-upload-listening-gap-2026`
+- 수정일: 2026-11-14 · 실제 증보일: 2026-11-14 · 검토: needs_review
+- 관련 문서: `living-notes`, `mood-led-music-listening`, `information-hype-wow-index`, `music-upload-listening-gap-2026`, `taste-slop-mass-production`, `human-authorship-creator-preference`
 
 ## 절 목차
 
@@ -21,8 +21,9 @@
 - 서로 다른 두 과잉의 역사 · L41–49 · 804자 · `3f229e92` — 음악의 공급과 개인 청취 능력의 격차는 디지털 유통 이후 급격히 확대되었다는 가설을 세울 수 있다.
 - 생성 AI 이후: 텍스트와 물리적 책의 분리 · L51–55 · 326자 · `939bd13e` — AI가 텍스트를 대량 생성하는 것과 그 텍스트가 종이책으로 인쇄·제본·보관·운송되는 것은 별개다.
 - 해석의 경계와 남은 질문 · L57–61 · 349자 · `e0b5eef4` — 공급량은 작품의 질이나 다양성을 측정하지 않는다.
-- 대화에서 언급된 자료의 확인 대기 목록 · L63–70 · 292자 · `a89e9a14` — IFPI, *Engaging with Music* 관련 2023년 주당 청취시간 20.7시간.
-- 후속 조사 · L72–74 · 166자 · `5cd22722` — 최근 원자료로 음악 공급·개인 청취 용량을 재산정하고 업로드와 재생 비중을 구분한 후속 조사가 별도로 이어진다.
+- 공급이 늘어난 뒤에는 누가 골라내는가 · L63–69 · 592자 · `0a6e756c` — 음악이 수만 개 더 만들어졌다는 사실만으로 감상의 다양성이 어느 정도 커졌는지 알 수는 없다.
+- 대화에서 언급된 자료의 확인 대기 목록 · L71–78 · 292자 · `a89e9a14` — IFPI, *Engaging with Music* 관련 2023년 주당 청취시간 20.7시간.
+- 후속 조사 · L80–82 · 166자 · `5cd22722` — 최근 원자료로 음악 공급·개인 청취 용량을 재산정하고 업로드와 재생 비중을 구분한 후속 조사가 별도로 이어진다.
 
 ## 장부에 기록된 반영 지식
 
@@ -35,6 +36,8 @@
 - **서로 다른 두 과잉의 역사**
   - 취향 가설에 따른 큐레이션과 문화적 선택의 병목 · `ing-20261025-mood-led-music-listening`
   - 문화 공급 과잉에서 뉴스 중요도 판단으로의 확장 · `ing-20261026-information-hype-wow-index`
+- **공급이 늘어난 뒤에는 누가 골라내는가**
+  - 문화 공급 증가와 독자 탐색 비용의 외부화 · `ing-20261114-taste-slop-human-authorship-search-costs`
 
 ## 확인된 의미 관계
 

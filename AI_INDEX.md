@@ -13,7 +13,7 @@
 - **[대화가 끝난 뒤에도 자라는 노트](wiki/living-notes.md)** · 별칭: 열린 노트 · 수정: 2026-10-23 · 검토: 운영 방향
   - 새로움과 생성, 중요도를 판단하는 능력, 음악·철학·AI·역사를 가로지르는 지식의 축적을 설명하는 열린 노트의 선언.
   - [문서 페이지](https://belorin.github.io/notes/living-notes/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/living-notes.md)
-- **[사람과 AI가 함께 편집하는 규칙](wiki/editing-principles.md)** · 별칭: 편집 원칙 · 수정: 2026-11-02 · 검토: 편집 원칙
+- **[사람과 AI가 함께 편집하는 규칙](wiki/editing-principles.md)** · 별칭: 편집 원칙 · 수정: 2026-11-14 · 검토: 편집 원칙
   - 누적 위키의 편집 원칙과 읽기 비용, 근거·해석의 구분, AI 자율 저술의 두 방식과 질적 판단, 기술적 검증과 창작적 자율성의 경계를 다룬다.
   - [문서 페이지](https://belorin.github.io/notes/editing-principles/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/editing-principles.md)
 - **[누적형 지식백과 구축사: 총합·증보를 위한 설계와 구현](wiki/wiki-building-history.md)** · 별칭: 위키 구축 이력, 위키 아키텍처, 위키 구성사, 총합형 지식백과, 위키 증보 과부하, 계층 편집 설계 · 수정: 2026-10-26 · 검토: 구축 이력·계층 편집 후속 설계 포함
@@ -295,6 +295,9 @@
 - **[결국 침묵한다면: 들뢰즈의 열역학적 가상, 안·밖 주름운동과 강도의 깊이](wiki/deleuze-thermodynamics-implication-equilibrium.md)** · 별칭: 들뢰즈와 엔트로피, 안 주름운동과 밖 주름운동, 열역학적 파성추, 차이의 최종 침묵, 초월론적 물리학적 가상 · 수정: 2026-11-03 · 검토: 내부 총합에 따른 개념 해석 · 원전 원어·번역 대응 및 우주론적 단정 미검증
   - 엔트로피와 열평형을 인정하면서도 차이의 발생을 묻는 들뢰즈의 논점을 안·밖 주름, 강도의 깊이, 포텐셜 에너지와 최종 침묵의 반론으로 해설한다.
   - [문서 페이지](https://belorin.github.io/notes/deleuze-thermodynamics-implication-equilibrium/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-thermodynamics-implication-equilibrium.md)
+- **[사람이 쓴 것의 값: 작품의 출처, 인정, 그리고 창작자의 얼굴](wiki/human-authorship-creator-preference.md)** · 별칭: AI와 인간 창작자의 구별, 인간 창작물의 가치, 저자성과 인간 선호 · 수정: 2026-11-14 · 검토: 대화 기반 철학적 비교 · 실증 원자료 검증 대기
+  - AI/인간 작품의 식별·출처 표시·선택을 구분하고 벤야민·바르트 등 예술철학, 창작 경험, 작가의 홍보 노동, 인간 창작자 선호의 장기 조건을 검토한다.
+  - [문서 페이지](https://belorin.github.io/notes/human-authorship-creator-preference/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/human-authorship-creator-preference.md)
 
 ## 독서 문화
 
@@ -526,12 +529,15 @@
 
 ## 문화
 
-- **[음악과 책의 공급 폭발: 한 사람의 귀와 눈은 얼마나 따라갈 수 있는가](wiki/music-books-supply-attention.md)** · 별칭: 문화 공급 과잉, 음악과 책의 생산 소비 격차 · 수정: 2026-11-10 · 검토: 대화 내부 추정·검토 필요
+- **[음악과 책의 공급 폭발: 한 사람의 귀와 눈은 얼마나 따라갈 수 있는가](wiki/music-books-supply-attention.md)** · 별칭: 문화 공급 과잉, 음악과 책의 생산 소비 격차 · 수정: 2026-11-14 · 검토: 대화 내부 추정·검토 필요
   - 음악과 종이책의 역사적 생산량, 개인 소비시간, AI 공급, 차트 집중과 큐레이션을 비교하며 관측과 추정의 경계를 검토한다.
   - [문서 페이지](https://belorin.github.io/notes/music-books-supply-attention/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/music-books-supply-attention.md)
 - **[매일 쌓이는 음악과 한 사람의 귀: 2026년 공급·청취·추천의 다른 숫자](wiki/music-upload-listening-gap-2026.md)** · 별칭: 음악 업로드와 실제 청취, 하루치 신곡과 5년의 청취 · 수정: 2026-11-11 · 검토: 외부 후속 조사 · 관측·해석·미확정 범위 구분
   - 2025년 음악 녹음물 공급과 재생 집중, 2026년 Deezer의 AI 유입·추천·검색·정산 분리를 근거로 생산량과 실제 청취의 관계를 분석한다.
   - [문서 페이지](https://belorin.github.io/notes/music-upload-listening-gap-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/music-upload-listening-gap-2026.md)
+- **[취향은 길들여지는가: 꽃무늬 냉장고에서 AI 슬롭까지](wiki/taste-slop-mass-production.md)** · 별칭: AI 시대의 취향과 슬롭, 꽃무늬 냉장고와 취향, 취향의 가축화, 취향과 탐색 비용 · 수정: 2026-11-14 · 검토: 대화 기반 개념 종합 · 문헌 원전 검토 필요
+  - 좋은 취향과 안목·품질의 구별, 의자·꽃무늬 냉장고의 산업 미학, AI 슬롭과 되풀이되는 양식, 취향의 반작용 및 탐색 비용의 외부화를 논증한다.
+  - [문서 페이지](https://belorin.github.io/notes/taste-slop-mass-production/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/taste-slop-mass-production.md)
 
 ## 정치경제
 

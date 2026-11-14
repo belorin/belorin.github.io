@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 204,
+  "document_count": 206,
   "documents": [
     {
       "id": "living-notes",
@@ -63,8 +63,8 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "편집 원칙",
-      "last_updated_on": "2026-11-02",
-      "last_enriched_on": "2026-11-02",
+      "last_updated_on": "2026-11-14",
+      "last_enriched_on": "2026-11-14",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "living-notes",
@@ -2964,14 +2964,16 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "대화 내부 추정·검토 필요",
-      "last_updated_on": "2026-11-10",
-      "last_enriched_on": "2026-10-26",
+      "last_updated_on": "2026-11-14",
+      "last_enriched_on": "2026-11-14",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "living-notes",
         "mood-led-music-listening",
         "information-hype-wow-index",
-        "music-upload-listening-gap-2026"
+        "music-upload-listening-gap-2026",
+        "taste-slop-mass-production",
+        "human-authorship-creator-preference"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/music-books-supply-attention.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/music-books-supply-attention.md",
@@ -6800,7 +6802,9 @@
       "last_enriched_on": "2026-11-11",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
-        "music-books-supply-attention"
+        "music-books-supply-attention",
+        "taste-slop-mass-production",
+        "human-authorship-creator-preference"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/music-upload-listening-gap-2026.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/music-upload-listening-gap-2026.md",
@@ -7109,6 +7113,82 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/rhizomatic-agent-commons.md",
       "page_url": "https://belorin.github.io/notes/rhizomatic-agent-commons/",
       "app_url": "https://belorin.github.io/#rhizomatic-agent-commons"
+    },
+    {
+      "id": "taste-slop-mass-production",
+      "title": "취향은 길들여지는가: 꽃무늬 냉장고에서 AI 슬롭까지",
+      "aliases": [
+        "AI 시대의 취향과 슬롭",
+        "꽃무늬 냉장고와 취향",
+        "취향의 가축화",
+        "취향과 탐색 비용"
+      ],
+      "category": "문화",
+      "tags": [
+        "취향",
+        "AI 슬롭",
+        "안목",
+        "캠프",
+        "댄디",
+        "대량생산",
+        "문화산업",
+        "탐색 비용",
+        "큐레이션"
+      ],
+      "summary": "좋은 취향과 안목·품질의 구별, 의자·꽃무늬 냉장고의 산업 미학, AI 슬롭과 되풀이되는 양식, 취향의 반작용 및 탐색 비용의 외부화를 논증한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 개념 종합 · 문헌 원전 검토 필요",
+      "last_updated_on": "2026-11-14",
+      "last_enriched_on": "2026-11-14",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "human-authorship-creator-preference",
+        "music-books-supply-attention",
+        "music-upload-listening-gap-2026",
+        "ai-mediated-human-change"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/taste-slop-mass-production.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/taste-slop-mass-production.md",
+      "page_url": "https://belorin.github.io/notes/taste-slop-mass-production/",
+      "app_url": "https://belorin.github.io/#taste-slop-mass-production"
+    },
+    {
+      "id": "human-authorship-creator-preference",
+      "title": "사람이 쓴 것의 값: 작품의 출처, 인정, 그리고 창작자의 얼굴",
+      "aliases": [
+        "AI와 인간 창작자의 구별",
+        "인간 창작물의 가치",
+        "저자성과 인간 선호"
+      ],
+      "category": "철학",
+      "tags": [
+        "저자성",
+        "AI 창작",
+        "인간 창작자",
+        "미학",
+        "아우라",
+        "저자의 죽음",
+        "인정",
+        "장강명",
+        "창작 노동"
+      ],
+      "summary": "AI/인간 작품의 식별·출처 표시·선택을 구분하고 벤야민·바르트 등 예술철학, 창작 경험, 작가의 홍보 노동, 인간 창작자 선호의 장기 조건을 검토한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "대화 기반 철학적 비교 · 실증 원자료 검증 대기",
+      "last_updated_on": "2026-11-14",
+      "last_enriched_on": "2026-11-14",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "taste-slop-mass-production",
+        "music-upload-listening-gap-2026",
+        "ai-mediated-human-change"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/human-authorship-creator-preference.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/human-authorship-creator-preference.md",
+      "page_url": "https://belorin.github.io/notes/human-authorship-creator-preference/",
+      "app_url": "https://belorin.github.io/#human-authorship-creator-preference"
     }
   ]
 }

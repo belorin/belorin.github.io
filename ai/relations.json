@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 733,
+  "edge_count": 744,
   "edges": [
     {
       "from": "living-notes",
@@ -2202,6 +2202,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "music-books-supply-attention",
+      "to": "taste-slop-mass-production",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "music-books-supply-attention",
+      "to": "human-authorship-creator-preference",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "deleuze-number-intensity-spatium",
       "to": "deleuze-becoming-new",
       "type": "related_to",
@@ -3990,6 +4002,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "music-upload-listening-gap-2026",
+      "to": "taste-slop-mass-production",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "music-upload-listening-gap-2026",
+      "to": "human-authorship-creator-preference",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "babylon-hymn-digital-reconstruction-2026",
       "to": "sumer-bible-primeval-history",
       "type": "related_to",
@@ -4129,6 +4153,48 @@
     },
     {
       "from": "rhizomatic-agent-commons",
+      "to": "ai-mediated-human-change",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "taste-slop-mass-production",
+      "to": "human-authorship-creator-preference",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "taste-slop-mass-production",
+      "to": "music-books-supply-attention",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "taste-slop-mass-production",
+      "to": "music-upload-listening-gap-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "taste-slop-mass-production",
+      "to": "ai-mediated-human-change",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "human-authorship-creator-preference",
+      "to": "taste-slop-mass-production",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "human-authorship-creator-preference",
+      "to": "music-upload-listening-gap-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "human-authorship-creator-preference",
       "to": "ai-mediated-human-change",
       "type": "related_to",
       "basis": "manifest.related"

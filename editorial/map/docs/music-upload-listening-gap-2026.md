@@ -7,7 +7,7 @@
 - 요약: 2025년 음악 녹음물 공급과 재생 집중, 2026년 Deezer의 AI 유입·추천·검색·정산 분리를 근거로 생산량과 실제 청취의 관계를 분석한다.
 - 태그: 음악 공급, 청취시간, Deezer, Luminate, IFPI, ISRC, AI 음악, 추천
 - 수정일: 2026-11-11 · 실제 증보일: 2026-11-11 · 검토: reviewed
-- 관련 문서: `music-books-supply-attention`
+- 관련 문서: `music-books-supply-attention`, `taste-slop-mass-production`, `human-authorship-creator-preference`
 
 ## 절 목차
 

@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1327개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1341개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (25)
 
@@ -949,7 +949,7 @@
 - 전략 수익과 시장 기준선 대비 상대 성과의 구별 → `upbit-small-capital-trading-experiment` § 수익 판단: 한 번의 흑자보다 반증 가능한 증거 · `ing-20261102-upbit-small-capital-trading`
 - 실패한 전략과 운영 장애를 구분하는 검증 기록 → `upbit-small-capital-trading-experiment` § 중단해야 할 신호와 남겨야 할 증거 · `ing-20261102-upbit-small-capital-trading`
 
-## 운영 (63)
+## 운영 (64)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -1016,8 +1016,9 @@
 - AI의 상투적 문장과 기계적 글쓰기 습관을 자기비판으로 개고 → `editing-principles` § AI 특유의 글쓰기 습관을 줄이는 일 · `ing-20261102-ai-autonomous-essays`
 - 기술적 무결성 검증과 저술의 질적 판단을 분리 → `editing-principles` § 검증은 무엇을 위해 존재하는가 · `ing-20261102-ai-autonomous-essays`
 - 생성량 목표보다 AI의 저술 선택과 폐기 권한을 존중 → `editing-principles` § 축적 이후의 저술: AI에게 맡기는 판단 · `ing-20261102-ai-autonomous-essays`
+- AI 편집의 문장 치환과 실질적 개고 구별 → `editing-principles` § 문장 치환이 개고를 흉내 낼 때 · `ing-20261114-taste-slop-human-authorship-search-costs`
 
-## 철학 (58)
+## 철학 (64)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -1079,6 +1080,12 @@
 - 최종 열평형과 완전한 침묵의 반론 → `deleuze-thermodynamics-implication-equilibrium` § 그러나 결국 완전히 침묵한다면 · `ing-20261103-deleuze-entropy-implication`
 - 국소적 열평형과 우주 열죽음의 구별 → `deleuze-thermodynamics-implication-equilibrium` § 그러나 결국 완전히 침묵한다면 · `ing-20261103-deleuze-entropy-implication`
 - 발생의 우선권과 최종 소멸의 양립 문제 → `deleuze-thermodynamics-implication-equilibrium` § 그러나 결국 완전히 침묵한다면 · `ing-20261103-deleuze-entropy-implication`
+- 감각적 동일성과 예술적 출처의 별개 문제 → `human-authorship-creator-preference` § 감각적 동일성과 창작자의 동일성 · `ing-20261114-taste-slop-human-authorship-search-costs`
+- AI와 인간 작품의 식별·평가·지불 행동 분리 → `human-authorship-creator-preference` § 알아맞히는 능력과 지불하려는 마음 · `ing-20261114-taste-slop-human-authorship-search-costs`
+- 완성품과 창작 과정의 경험적 가치 구별 → `human-authorship-creator-preference` § 만드는 사람의 경험과 관객의 경험 · `ing-20261114-taste-slop-human-authorship-search-costs`
+- 작가 홍보 노동과 인간성의 상품화 가능성 → `human-authorship-creator-preference` § 저자의 죽음 뒤에 돌아온 작가의 얼굴 · `ing-20261114-taste-slop-human-authorship-search-costs`
+- 개인화된 작품과 공동 문화의 두 방향 → `human-authorship-creator-preference` § AI가 가져간 것은 공통의 작품인가, 공통의 청중인가 · `ing-20261114-taste-slop-human-authorship-search-costs`
+- 인간 창작자 선호의 장·단기 분화와 관찰 조건 → `human-authorship-creator-preference` § 긴 싸움일 수도, 짧은 싸움일 수도 있다 · `ing-20261114-taste-slop-human-authorship-search-costs`
 
 ## 정치경제 (50)
 
@@ -1359,6 +1366,28 @@
 - 의학적 학대 증거와 별개의 영아살해·식인 주장 → `teresa-satans-children-1989` § 의료 기록의 존재와 극단적 살해 주장 사이의 도약 · `ing-20261103-satanic-panic-teresa`
 - 원방송·기소장·탈출 기록의 추후 검증 필요성 → `teresa-satans-children-1989` § 남은 공백과 재확인이 필요한 질문 · `ing-20261103-satanic-panic-teresa`
 
+## 문화 (17)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 음악과 책의 공급량과 개인 소비능력 → `music-books-supply-attention` § 생산량과 소비능력은 서로 다른 지표다 · `ing-20261025-music-books-attention`
+- 음악 생산량과 청취시간의 시나리오 → `music-books-supply-attention` § 인간의 귀: 음악 청취시간의 유한성 · `ing-20261025-music-books-attention`
+- 종이책 신간과 평생 독서량 → `music-books-supply-attention` § 책: 공급 과잉의 역사는 음악보다 오래되었다 · `ing-20261025-music-books-attention`
+- 취향 가설에 따른 큐레이션과 문화적 선택의 병목 → `music-books-supply-attention` § 서로 다른 두 과잉의 역사 · `ing-20261025-mood-led-music-listening`
+- 문화 공급 과잉에서 뉴스 중요도 판단으로의 확장 → `music-books-supply-attention` § 서로 다른 두 과잉의 역사 · `ing-20261026-information-hype-wow-index`
+- 2025년 ISRC 전달량과 작품 수의 차이 → `music-upload-listening-gap-2026` § 하루 10만 6천 개의 녹음물이 쌓이는 곳 · `ing-20261110-selected-external-followups`
+- 음악 하루 공급과 개인 청취 용량의 명시적 산술 → `music-upload-listening-gap-2026` § 한 사람이 하루치 신곡을 듣는 데 걸리는 시간 · `ing-20261110-selected-external-followups`
+- Deezer AI 업로드·재생·부정재생 분모 구별 → `music-upload-listening-gap-2026` § Deezer에서 공급의 절반은 어떻게 재생의 1~3%가 되었나 · `ing-20261110-selected-external-followups`
+- 서로 다른 음악 플랫폼 수치의 합산 불가 → `music-upload-listening-gap-2026` § 어떤 숫자에서 취향과 품질을 읽을 수 있는가 · `ing-20261110-selected-external-followups`
+- Deezer 검색 필터의 발표와 도입 완료 구별 → `music-upload-listening-gap-2026` § 음악이 존재한다는 것과 찾을 수 있다는 것 · `ing-20261110-selected-external-followups`
+- 선호·안목·완성도·문화적 권위의 구별 → `taste-slop-mass-production` § 좋은 취향이라는 말이 섞어 놓은 것 · `ing-20261114-taste-slop-human-authorship-search-costs`
+- 의자와 꽃무늬 냉장고의 대량생산 미학 → `taste-slop-mass-production` § 의자와 꽃무늬 냉장고: 산업의 오래된 미학 · `ing-20261114-taste-slop-human-authorship-search-costs`
+- AI 슬롭의 하우스 스타일과 맥락 없는 디자인 관습 → `taste-slop-mass-production` § 슬롭은 무엇을 비판하는 말인가 · `ing-20261114-taste-slop-human-authorship-search-costs`
+- 취향이 변하는 문화적 반작용과 그 한계 → `taste-slop-mass-production` § 사람의 취향이 변하면 산업도 변한다 · `ing-20261114-taste-slop-human-authorship-search-costs`
+- 생성 비용과 독자의 탐색 비용의 비대칭 → `taste-slop-mass-production` § 취향이 있어도 발견할 수 없다면 · `ing-20261114-taste-slop-human-authorship-search-costs`
+- 미학·관계·문화적 접근 조건의 세 층 구별 → `taste-slop-mass-production` § 좋아할 자유를 유지하려면 무엇을 살펴야 하나 · `ing-20261114-taste-slop-human-authorship-search-costs`
+- 문화 공급 증가와 독자 탐색 비용의 외부화 → `music-books-supply-attention` § 공급이 늘어난 뒤에는 누가 골라내는가 · `ing-20261114-taste-slop-human-authorship-search-costs`
+
 ## 생명과학 (15)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -1378,21 +1407,6 @@
 - 프로바이오틱스 생존·일시적 체류·영구 정착의 분리 → `gut-microbiome-colonization` § 가루 속 수십억 개체는 왜 영구 주민이 아닌가 · `ing-20261025-fruit-gut-horror`
 - 분변미생물 이식과 Vowst의 치료 맥락·정착 위험 → `gut-microbiome-colonization` § 분변미생물 이식: 단일 방문객이 아니라 생태계의 일부를 옮기기 · `ing-20261025-fruit-gut-horror`
 - 인간을 각기 다른 내부 생물권을 품은 행성으로 보는 유비 → `gut-microbiome-colonization` § 사람이 하나의 행성이라는 비유의 유효 범위 · `ing-20261025-fruit-gut-horror`
-
-## 문화 (10)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 음악과 책의 공급량과 개인 소비능력 → `music-books-supply-attention` § 생산량과 소비능력은 서로 다른 지표다 · `ing-20261025-music-books-attention`
-- 음악 생산량과 청취시간의 시나리오 → `music-books-supply-attention` § 인간의 귀: 음악 청취시간의 유한성 · `ing-20261025-music-books-attention`
-- 종이책 신간과 평생 독서량 → `music-books-supply-attention` § 책: 공급 과잉의 역사는 음악보다 오래되었다 · `ing-20261025-music-books-attention`
-- 취향 가설에 따른 큐레이션과 문화적 선택의 병목 → `music-books-supply-attention` § 서로 다른 두 과잉의 역사 · `ing-20261025-mood-led-music-listening`
-- 문화 공급 과잉에서 뉴스 중요도 판단으로의 확장 → `music-books-supply-attention` § 서로 다른 두 과잉의 역사 · `ing-20261026-information-hype-wow-index`
-- 2025년 ISRC 전달량과 작품 수의 차이 → `music-upload-listening-gap-2026` § 하루 10만 6천 개의 녹음물이 쌓이는 곳 · `ing-20261110-selected-external-followups`
-- 음악 하루 공급과 개인 청취 용량의 명시적 산술 → `music-upload-listening-gap-2026` § 한 사람이 하루치 신곡을 듣는 데 걸리는 시간 · `ing-20261110-selected-external-followups`
-- Deezer AI 업로드·재생·부정재생 분모 구별 → `music-upload-listening-gap-2026` § Deezer에서 공급의 절반은 어떻게 재생의 1~3%가 되었나 · `ing-20261110-selected-external-followups`
-- 서로 다른 음악 플랫폼 수치의 합산 불가 → `music-upload-listening-gap-2026` § 어떤 숫자에서 취향과 품질을 읽을 수 있는가 · `ing-20261110-selected-external-followups`
-- Deezer 검색 필터의 발표와 도입 완료 구별 → `music-upload-listening-gap-2026` § 음악이 존재한다는 것과 찾을 수 있다는 것 · `ing-20261110-selected-external-followups`
 
 ## 질문 (9)
 
