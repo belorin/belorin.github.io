@@ -40,7 +40,7 @@
 
 이 후속 논의에서 토드는 서구의 탈산업화, 달러 국제질서에 대한 미국의 의존, 학력집단 간 분리, 국민국가의 재등장을 함께 설명한다. 동시에 부다페스트 강연에서는 소련 붕괴 뒤의 사회적 파장을 예측하지 못했던 자신의 한계를 상기하며, 서구 해체 이후의 구체적 경로를 자신도 온전히 알지 못한다고 인정했다.
 
-해당 원전의 한국어 주제별 독해는 [부다페스트 강연](./todd-budapest-2025-reading.md), [2025년 10월 기고](./todd-dislocation-threats-2025-reading.md), [2026년 2월 인터뷰](./todd-world-war-interview-2026-reading.md), [동아시아를 다룬 아사히신문 인터뷰](./todd-asahi-2026-reading.md)에 있다. 네 글은 원문 전체 번역이 아니라 상세한 해설·의역이며, 토드의 판단을 사실로 승인하지 않는다.
+이후의 자료는 [부다페스트 강연](./todd-budapest-2025-reading.md), [2025년 10월 기고](./todd-dislocation-threats-2025-reading.md), [2026년 2월 인터뷰](./todd-world-war-interview-2026-reading.md), [동아시아를 다룬 아사히신문 인터뷰](./todd-asahi-2026-reading.md)의 한국어 독해로 이어진다.
 
 ## 2025년 이란 핵무장에 관한 발언
 
