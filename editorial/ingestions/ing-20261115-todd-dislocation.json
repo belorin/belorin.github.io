@@ -1,0 +1,233 @@
+{
+  "id": "ing-20261115-todd-dislocation",
+  "processed_on": "2026-11-15",
+  "coverage": "visible-complete",
+  "limit_note": "접근 가능한 현재 대화만 반영했다. 원문 해설은 별도 요청으로 공개된 원문 URL 네 건을 대조했으나 신간 전문은 미열람했다.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "『La Dislocation』 2026년 출판과 대담집의 성격",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "todd-dislocation-2026",
+          "section": "새 책 『La Dislocation』의 위치와 성격"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "패배·쇠퇴·해체의 구분과 국가 형해화와의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "todd-dislocation-2026",
+          "section": "패배, 쇠퇴, 해체는 서로 다른 수준의 명제다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "소련 붕괴의 신념 상실과 해체 이후 예측 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "todd-budapest-2025-reading",
+          "section": "소련 붕괴의 성공적인 예언과 실패한 이해"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "argument",
+      "title": "교육 확대와 민주주의 내부의 위계 분열",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "todd-dislocation-2026",
+          "section": "사회 내부의 해체: 교육 확대와 새로운 위계"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "argument",
+      "title": "미국의 달러 패권·산업 복귀 사이의 구조적 딜레마",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "todd-dislocation-2026",
+          "section": "미국의 역설: 제국에서 벗어나야 하지만 제국 없이는 유지되지 않는다"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "concept",
+      "title": "미국 패권 약화와 동맹 내 위계적 압박",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "todd-dislocation-threats-2025-reading",
+          "section": "'위계적 분열'의 논리"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "argument",
+      "title": "EU의 정치적·기능적·법적 해체 구분과 반론",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "todd-dislocation-2026",
+          "section": "EU는 해체되는가: 세 가지 서로 다른 의미"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "argument",
+      "title": "독일 재무장과 프랑스 세대 갈등 및 국가 재건의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "todd-dislocation-2026",
+          "section": "독일·프랑스: 하나의 유럽이라는 생각을 흔드는 내부 차이"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "question",
+      "title": "2027년 우크라이나 전망의 검증 단위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "todd-dislocation-2026",
+          "section": "2027년을 둘러싼 전망과 예측의 검증"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "argument",
+      "title": "한중일 산업집중과 인구 감소의 동시성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "todd-dislocation-2026",
+          "section": "동아시아: 생산능력의 집중과 인구 감소가 함께 나타나는 곳"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "counterargument",
+      "title": "상상적 민족주의와 일본의 주권·대만 자기결정권",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "todd-asahi-2026-reading",
+          "section": "상상적 민족주의(nationalisme imaginaire)"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "argument",
+      "title": "이란 외부 압력과 권위주의의 조건부 인과 및 공학 역량",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "todd-dislocation-2026",
+          "section": "이란: 기술적 발전과 정치적 자유화는 같은 예측이 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "argument",
+      "title": "중동에서 미국·이스라엘·이란 관계의 토드식 해석",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "todd-world-war-interview-2026-reading",
+          "section": "이스라엘을 '위성국'으로 규정하는 주장"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "argument",
+      "title": "브라질·베네수엘라와 라틴아메리카 지역별 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "todd-dislocation-2026",
+          "section": "중동·라틴아메리카·아프리카: 전망의 밀도가 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "argument",
+      "title": "아프리카와 프랑스 식민지 관계의 한정적 전망",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "todd-dislocation-2026",
+          "section": "중동·라틴아메리카·아프리카: 전망의 밀도가 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "counterargument",
+      "title": "중국 일극 체제 대신 국민국가 다양성의 재등장과 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "todd-dislocation-2026",
+          "section": "서구 이후는 중국 제국인가, 서로 다른 국가들의 세계인가"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "curation",
+      "title": "토드 프랑스어 원전 3편과 아사히 인터뷰의 한국어 독해",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "todd-dislocation-2026",
+          "section": "원전별 한국어 독해"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "counterargument",
+      "title": "예측을 관측 지표별로 나누는 이중 장부",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "todd-dislocation-2026",
+          "section": "검증을 위한 두 장부"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "curation",
+      "title": "저작권 보호 원문의 전체 한국어 번역 재게재",
+      "status": "pending",
+      "targets": [],
+      "reason": "전체 전문 번역 재게재는 저작권상 진행하지 않고, 원문 연결과 독립적 한국어 상세 해설로 대체"
+    }
+  ]
+}
