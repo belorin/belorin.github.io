@@ -420,6 +420,14 @@ function article(note) {
     ? '<aside class="fiction-note"><strong>개고본</strong> 원문을 고쳐 다듬은 판본입니다. ' +
       '"개고 전 원본 보기"를 펼치면 고치기 전의 원문을 확인할 수 있습니다.</aside>'
     : '';
+  // Embedded experiment is intentionally part of the viewer, not arbitrary raw HTML from Markdown.
+  const tasteLab = note.id === 'taste-calculator-adapter'
+    ? '<section class="taste-lab-panel" aria-label="취향 실험실">' +
+      '<details><summary>취향 실험실 0.2 — 이 문서 안에서 직접 경험하기</summary>' +
+      '<p>여섯 작품을 감상하고 자유롭게 반응해 보세요. 다음 라운드에서는 두 가설의 사전 예측도 확인할 수 있습니다. 기록은 현재 브라우저에 보존됩니다.</p>' +
+      '<iframe src="/taste-lab/" title="취향 실험실 0.2" loading="lazy" referrerpolicy="same-origin" sandbox="allow-scripts allow-same-origin allow-downloads"></iframe>' +
+      '</details><p class="taste-lab-fullscreen"><a href="/taste-lab/" target="_blank" rel="noopener noreferrer">실험실 전체 화면에서 열기 ↗</a></p></section>'
+    : '';
   view.innerHTML = '<article class="reader' + (isSynthesis(note) ? ' is-synthesis' : isEssay(note) ? ' is-essay' : isFiction(note) ? ' is-fiction' : '') + '"><a class="back" href="#all">← 문서 목록</a>' +
     '<header class="reader-header"><div class="meta">' + kindBadge(note) + esc(note.category) +
     ' · ' + esc(note.updated) + ' · ' + esc(note.status) + ' · 약 ' + readingMinutes(note) + '분</div>' +
@@ -430,7 +438,7 @@ function article(note) {
     '<a href="' + commits + '" target="_blank" rel="noopener noreferrer">개정 이력 ↗</a>' +
     '<a href="' + edit + '" target="_blank" rel="noopener noreferrer">고치기 ✎</a>' +
     '<button type="button" data-random>무작위 글 ↝</button></div></header>' +
-    synthesisNote + essayNote + fictionNote + chapterNav + toc + '<div class="prose">' + rendered.html + '</div>' + chapterNav +
+    synthesisNote + essayNote + fictionNote + chapterNav + toc + tasteLab + '<div class="prose">' + rendered.html + '</div>' + chapterNav +
     related +
     (note.source ? '<p class="reader-source">자료·검토 표기: ' + esc(note.source) + '</p>' : '') +
     (ready ? discussion : '') + '</article>';
