@@ -4,7 +4,7 @@
 
 - id: `taste-calculator-adapter` · 분류: 철학 · 공개 · 원고: [wiki/taste-calculator-adapter.md](../../../wiki/taste-calculator-adapter.md) · 12,018자 · 절 15개
 - 별칭: 취향 계산기 어댑터, Taste Calculator Adapter, 취향월드 실험 설계, Taste Calculator 0.2
-- 요약: 서로 먼 완성품의 생성과 자유 감상을 중심으로, 객체·스타일·취향 공간을 구별하고 복수의 사전 예측을 작품 공개 전에 기록해 반응 이후 대조하는 LLM 어댑터 명세.
+- 요약: 완성품 전시와 자유 반응, 사전 예측의 봉인·사후 대조를 다루는 어댑터 설계와 직접 실행 가능한 SVG 취향 실험실. 생성형 이미지 LLM 연동은 후속 단계다.
 - 태그: 취향 계산기, 스타일, LLM 어댑터, 다양성 생성, 상층 중층 하층, 이미지 생성, 취향 지형, 데이터 계약, 실험 설계
 - 수정일: 2026-11-16 · 실제 증보일: 2026-11-16 · 검토: needs_review
 - 관련 문서: `taste-calculator-foundations`, `taste-slop-mass-production`, `mathematical-theory-of-taste`, `taste-calculator-style-algebra`

@@ -301,8 +301,8 @@
 - **[취향 계산기: 미적 우주상수가 없는 세계의 형식 설계](wiki/taste-calculator-foundations.md)** · 별칭: 취향 계산기, Taste Calculator, 취향계산기, 미적 우주상수의 부재, 취향 공간의 다양체 가설 · 수정: 2026-11-16 · 검토: 독립 설계 논문 초안 v0.1 · 사고실험·미검증
   - 완전 계산과 미적 우주상수의 부재를 출발점으로 객체의 하층·중층·상층, 이를 가로지르는 스타일, 객체·스타일·취향·반응의 네 공간, 취향체의 동역학과 과포화·차원 생성 가설을 정리한 이론 기준 문서.
   - [문서 페이지](https://belorin.github.io/notes/taste-calculator-foundations/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/taste-calculator-foundations.md)
-- **[취향 계산기 0.2: 생성형 취향 공간의 LLM 어댑터](wiki/taste-calculator-adapter.md)** · 별칭: 취향 계산기 어댑터, Taste Calculator Adapter, 취향월드 실험 설계, Taste Calculator 0.2 · 수정: 2026-11-16 · 검토: 실무 프로토타입 설계 초안 0.2 · 미구현
-  - 서로 먼 완성품의 생성과 자유 감상을 중심으로, 객체·스타일·취향 공간을 구별하고 복수의 사전 예측을 작품 공개 전에 기록해 반응 이후 대조하는 LLM 어댑터 명세.
+- **[취향 계산기 0.2: 생성형 취향 공간의 LLM 어댑터](wiki/taste-calculator-adapter.md)** · 별칭: 취향 계산기 어댑터, Taste Calculator Adapter, 취향월드 실험 설계, Taste Calculator 0.2 · 수정: 2026-11-16 · 검토: 브라우저 실험판 0.2 공개 · 생성형 이미지 API 미연결
+  - 완성품 전시와 자유 반응, 사전 예측의 봉인·사후 대조를 다루는 어댑터 설계와 직접 실행 가능한 SVG 취향 실험실. 생성형 이미지 LLM 연동은 후속 단계다.
   - [문서 페이지](https://belorin.github.io/notes/taste-calculator-adapter/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/taste-calculator-adapter.md)
 - **[수리취향학 0.1: 기록적 취향체의 기하학과 동역학](wiki/mathematical-theory-of-taste.md)** · 별칭: 수리취향학, 취향역학, 취향기하학, 기록적 취향체, Mathematical Theory of Taste · 수정: 2026-11-16 · 검토: 수학적 사고실험과 내부 전이 모형 초안 v0.1 · 외부 실증 미검증
   - 객체·스타일·취향 상태·반응 공간을 구별하고 취향체를 기록을 포함한 한 점으로 정식화한 뒤, 역사 동치류·비가환 전이·유도 계량·곡률·방향별 도달 비용 및 차원 식별을 다룬다.

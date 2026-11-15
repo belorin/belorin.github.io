@@ -129,7 +129,7 @@
 - [결국 침묵한다면: 들뢰즈의 열역학적 가상, 안·밖 주름운동과 강도의 깊이](https://belorin.github.io/notes/deleuze-thermodynamics-implication-equilibrium/): 엔트로피와 열평형을 인정하면서도 차이의 발생을 묻는 들뢰즈의 논점을 안·밖 주름, 강도의 깊이, 포텐셜 에너지와 최종 침묵의 반론으로 해설한다.
 - [사람이 쓴 것의 값: 작품의 출처, 인정, 그리고 창작자의 얼굴](https://belorin.github.io/notes/human-authorship-creator-preference/): AI/인간 작품의 식별·출처 표시·선택을 구분하고 벤야민·바르트 등 예술철학, 창작 경험, 작가의 홍보 노동, 인간 창작자 선호의 장기 조건을 검토한다.
 - [취향 계산기: 미적 우주상수가 없는 세계의 형식 설계](https://belorin.github.io/notes/taste-calculator-foundations/): 완전 계산과 미적 우주상수의 부재를 출발점으로 객체의 하층·중층·상층, 이를 가로지르는 스타일, 객체·스타일·취향·반응의 네 공간, 취향체의 동역학과 과포화·차원 생성 가설을 정리한 이론 기준 문서.
-- [취향 계산기 0.2: 생성형 취향 공간의 LLM 어댑터](https://belorin.github.io/notes/taste-calculator-adapter/): 서로 먼 완성품의 생성과 자유 감상을 중심으로, 객체·스타일·취향 공간을 구별하고 복수의 사전 예측을 작품 공개 전에 기록해 반응 이후 대조하는 LLM 어댑터 명세.
+- [취향 계산기 0.2: 생성형 취향 공간의 LLM 어댑터](https://belorin.github.io/notes/taste-calculator-adapter/): 완성품 전시와 자유 반응, 사전 예측의 봉인·사후 대조를 다루는 어댑터 설계와 직접 실행 가능한 SVG 취향 실험실. 생성형 이미지 LLM 연동은 후속 단계다.
 - [수리취향학 0.1: 기록적 취향체의 기하학과 동역학](https://belorin.github.io/notes/mathematical-theory-of-taste/): 객체·스타일·취향 상태·반응 공간을 구별하고 취향체를 기록을 포함한 한 점으로 정식화한 뒤, 역사 동치류·비가환 전이·유도 계량·곡률·방향별 도달 비용 및 차원 식별을 다룬다.
 - [취향 계산기의 스타일 대수: 생성 가능한 양식과 가상 취향체](https://belorin.github.io/notes/taste-calculator-style-algebra/): 객체의 하층·중층·상층과 이를 가로지르는 스타일을 구분하고 판정 대수와 별도의 생성 규칙, 선형독립 판정과 자유도의 차이, 관찰·가능 동치, 가상 취향체를 연구하는 형식 설계 문서.
 
