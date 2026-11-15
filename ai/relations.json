@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 762,
+  "edge_count": 768,
   "edges": [
     {
       "from": "living-notes",
@@ -4200,6 +4200,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "taste-slop-mass-production",
+      "to": "taste-calculator-foundations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "human-authorship-creator-preference",
       "to": "taste-slop-mass-production",
       "type": "related_to",
@@ -4214,6 +4220,12 @@
     {
       "from": "human-authorship-creator-preference",
       "to": "ai-mediated-human-change",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "human-authorship-creator-preference",
+      "to": "taste-calculator-foundations",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -4304,6 +4316,30 @@
     {
       "from": "todd-asahi-2026-reading",
       "to": "emmanuel-todd-western-defeat",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "taste-calculator-foundations",
+      "to": "taste-slop-mass-production",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "taste-calculator-foundations",
+      "to": "human-authorship-creator-preference",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "taste-calculator-foundations",
+      "to": "music-books-supply-attention",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "taste-calculator-foundations",
+      "to": "ai-mediated-human-change",
       "type": "related_to",
       "basis": "manifest.related"
     },

@@ -7,7 +7,7 @@
 - 요약: AI/인간 작품의 식별·출처 표시·선택을 구분하고 벤야민·바르트 등 예술철학, 창작 경험, 작가의 홍보 노동, 인간 창작자 선호의 장기 조건을 검토한다.
 - 태그: 저자성, AI 창작, 인간 창작자, 미학, 아우라, 저자의 죽음, 인정, 장강명, 창작 노동
 - 수정일: 2026-11-14 · 실제 증보일: 2026-11-14 · 검토: needs_review
-- 관련 문서: `taste-slop-mass-production`, `music-upload-listening-gap-2026`, `ai-mediated-human-change`
+- 관련 문서: `taste-slop-mass-production`, `music-upload-listening-gap-2026`, `ai-mediated-human-change`, `taste-calculator-foundations`
 
 ## 절 목차
 

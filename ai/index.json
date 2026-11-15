@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 211,
+  "document_count": 212,
   "documents": [
     {
       "id": "living-notes",
@@ -7149,7 +7149,8 @@
         "human-authorship-creator-preference",
         "music-books-supply-attention",
         "music-upload-listening-gap-2026",
-        "ai-mediated-human-change"
+        "ai-mediated-human-change",
+        "taste-calculator-foundations"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/taste-slop-mass-production.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/taste-slop-mass-production.md",
@@ -7186,7 +7187,8 @@
       "related_ids": [
         "taste-slop-mass-production",
         "music-upload-listening-gap-2026",
-        "ai-mediated-human-change"
+        "ai-mediated-human-change",
+        "taste-calculator-foundations"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/human-authorship-creator-preference.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/human-authorship-creator-preference.md",
@@ -7362,6 +7364,47 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/todd-asahi-2026-reading.md",
       "page_url": "https://belorin.github.io/notes/todd-asahi-2026-reading/",
       "app_url": "https://belorin.github.io/#todd-asahi-2026-reading"
+    },
+    {
+      "id": "taste-calculator-foundations",
+      "title": "취향 계산기: 미적 우주상수가 없는 세계의 형식 설계",
+      "aliases": [
+        "취향 계산기",
+        "Taste Calculator",
+        "취향계산기",
+        "미적 우주상수의 부재",
+        "취향 공간의 다양체 가설"
+      ],
+      "category": "철학",
+      "tags": [
+        "취향 계산기",
+        "스타일",
+        "미학",
+        "완전 계산",
+        "다양체",
+        "비선형",
+        "과포화",
+        "차이 생성",
+        "동역학",
+        "연구 설계"
+      ],
+      "summary": "완전 계산과 취향의 비불변성이라는 두 가정에서 출발해, 하층·중층·상층 스타일, 과포화, 취향 다양체 가설, 차원 발생, 내부 명제와 실험 설계를 정식화한 차기 대화용 기준 문서.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "독립 설계 논문 초안 v0.1 · 사고실험·미검증",
+      "last_updated_on": "2026-11-15",
+      "last_enriched_on": "2026-11-15",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "taste-slop-mass-production",
+        "human-authorship-creator-preference",
+        "music-books-supply-attention",
+        "ai-mediated-human-change"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/taste-calculator-foundations.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/taste-calculator-foundations.md",
+      "page_url": "https://belorin.github.io/notes/taste-calculator-foundations/",
+      "app_url": "https://belorin.github.io/#taste-calculator-foundations"
     }
   ]
 }

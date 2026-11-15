@@ -298,6 +298,9 @@
 - **[사람이 쓴 것의 값: 작품의 출처, 인정, 그리고 창작자의 얼굴](wiki/human-authorship-creator-preference.md)** · 별칭: AI와 인간 창작자의 구별, 인간 창작물의 가치, 저자성과 인간 선호 · 수정: 2026-11-14 · 검토: 대화 기반 철학적 비교 · 실증 원자료 검증 대기
   - AI/인간 작품의 식별·출처 표시·선택을 구분하고 벤야민·바르트 등 예술철학, 창작 경험, 작가의 홍보 노동, 인간 창작자 선호의 장기 조건을 검토한다.
   - [문서 페이지](https://belorin.github.io/notes/human-authorship-creator-preference/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/human-authorship-creator-preference.md)
+- **[취향 계산기: 미적 우주상수가 없는 세계의 형식 설계](wiki/taste-calculator-foundations.md)** · 별칭: 취향 계산기, Taste Calculator, 취향계산기, 미적 우주상수의 부재, 취향 공간의 다양체 가설 · 수정: 2026-11-15 · 검토: 독립 설계 논문 초안 v0.1 · 사고실험·미검증
+  - 완전 계산과 취향의 비불변성이라는 두 가정에서 출발해, 하층·중층·상층 스타일, 과포화, 취향 다양체 가설, 차원 발생, 내부 명제와 실험 설계를 정식화한 차기 대화용 기준 문서.
+  - [문서 페이지](https://belorin.github.io/notes/taste-calculator-foundations/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/taste-calculator-foundations.md)
 
 ## 독서 문화
 

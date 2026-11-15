@@ -7,7 +7,7 @@
 - 요약: 좋은 취향과 안목·품질의 구별, 의자·꽃무늬 냉장고의 산업 미학, AI 슬롭과 되풀이되는 양식, 취향의 반작용 및 탐색 비용의 외부화를 논증한다.
 - 태그: 취향, AI 슬롭, 안목, 캠프, 댄디, 대량생산, 문화산업, 탐색 비용, 큐레이션
 - 수정일: 2026-11-14 · 실제 증보일: 2026-11-14 · 검토: needs_review
-- 관련 문서: `human-authorship-creator-preference`, `music-books-supply-attention`, `music-upload-listening-gap-2026`, `ai-mediated-human-change`
+- 관련 문서: `human-authorship-creator-preference`, `music-books-supply-attention`, `music-upload-listening-gap-2026`, `ai-mediated-human-change`, `taste-calculator-foundations`
 
 ## 절 목차
 
