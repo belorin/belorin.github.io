@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1383개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1386개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (26)
 
@@ -783,7 +783,7 @@
 - TESTIFY!의 10월 지역별 공연 안내와 재연 추적 → `orchestra-repertoire-repeat-performance-autumn-2026` § 초연 뒤 네 악단을 더 연결하는 방식 · `ing-20261110-autumn-other-followups`
 - 초연 이후 작품 생애와 컨소시엄 밖 재연을 추적하는 지표 제안 → `orchestra-repertoire-repeat-performance-autumn-2026` § 다음 통계는 작품의 생애를 세어야 한다 · `ing-20261110-autumn-other-followups`
 
-## 철학 (87)
+## 철학 (90)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -874,6 +874,9 @@
 - 새 작품 C의 도달 가능성 변화와 원래 경로의 보존 → `mathematical-theory-of-taste` § 9. C의 등장: 다음 연구의 출발점 · `ing-20261115-mathematical-taste-dynamics`
 - 수리취향학과 취향역학의 명명 → `mathematical-theory-of-taste` § 10. 명칭과 연구의 경계 · `ing-20261115-mathematical-taste-dynamics`
 - 기존 취향 계산기 기초 이론과 수리취향학 정식화 연결 → `taste-calculator-foundations` § 후속 수학적 정식화: 기록적 취향체와 도달 가능성 · `ing-20261115-mathematical-taste-dynamics`
+- 감상 이전에 경쟁 가설의 반응 예측을 기록하고 이후 공개하는 절차 → `taste-calculator-adapter` § 두 예측을 먼저 보관하고 작품을 보여주기 · `ing-20261116-taste-prediction`
+- 복수 예측의 불일치를 다음 작품 탐색의 선택 기준으로 활용 → `taste-calculator-adapter` § 두 예측을 먼저 보관하고 작품을 보여주기 · `ing-20261116-taste-prediction`
+- 현재 반응 예측과 경험 후 기존 작품 재평가 예측의 분리 → `taste-calculator-adapter` § 두 예측을 먼저 보관하고 작품을 보여주기 · `ing-20261116-taste-prediction`
 
 ## 과학과 기술 (79)
 

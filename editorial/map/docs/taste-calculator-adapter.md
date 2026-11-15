@@ -4,7 +4,7 @@
 
 - id: `taste-calculator-adapter` · 분류: 철학 · 공개 · 원고: [wiki/taste-calculator-adapter.md](../../../wiki/taste-calculator-adapter.md) · 11,772자 · 절 15개
 - 별칭: 취향 계산기 어댑터, Taste Calculator Adapter, 취향월드 실험 설계, Taste Calculator 0.2
-- 요약: 생성형 이미지의 객체·스타일 거리와 취향체 반응 거리를 구별하고 완성품 전시, 스타일 판정·생성의 구분, 자유 반응, 취향 상태 추정 및 전이를 연결하는 LLM 어댑터 계약.
+- 요약: 서로 먼 완성품의 생성과 자유 감상을 중심으로, 객체·스타일·취향 공간을 구별하고 복수의 사전 예측을 작품 공개 전에 기록해 반응 이후 대조하는 LLM 어댑터 명세.
 - 태그: 취향 계산기, 스타일, LLM 어댑터, 다양성 생성, 상층 중층 하층, 이미지 생성, 취향 지형, 데이터 계약, 실험 설계
 - 수정일: 2026-11-16 · 실제 증보일: 2026-11-16 · 검토: needs_review
 - 관련 문서: `taste-calculator-foundations`, `taste-slop-mass-production`, `mathematical-theory-of-taste`, `taste-calculator-style-algebra`
@@ -50,3 +50,7 @@
   - LLM 내부 모드와 Python 외부 모드의 분리 · `ing-20261115-taste-calculator-adapter-design`
 - **10. 과포화는 초기 라운드에서 판정하지 않는다**
   - 과포화의 추정 이전에 노출 이력 보존 · `ing-20261115-taste-calculator-adapter-design`
+- **두 예측을 먼저 보관하고 작품을 보여주기**
+  - 감상 이전에 경쟁 가설의 반응 예측을 기록하고 이후 공개하는 절차 · `ing-20261116-taste-prediction`
+  - 복수 예측의 불일치를 다음 작품 탐색의 선택 기준으로 활용 · `ing-20261116-taste-prediction`
+  - 현재 반응 예측과 경험 후 기존 작품 재평가 예측의 분리 · `ing-20261116-taste-prediction`
