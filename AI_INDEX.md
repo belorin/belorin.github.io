@@ -301,6 +301,9 @@
 - **[취향 계산기: 미적 우주상수가 없는 세계의 형식 설계](wiki/taste-calculator-foundations.md)** · 별칭: 취향 계산기, Taste Calculator, 취향계산기, 미적 우주상수의 부재, 취향 공간의 다양체 가설 · 수정: 2026-11-15 · 검토: 독립 설계 논문 초안 v0.1 · 사고실험·미검증
   - 완전 계산과 취향의 비불변성이라는 두 가정에서 출발해, 하층·중층·상층 스타일, 과포화, 취향 다양체 가설, 차원 발생, 내부 명제와 실험 설계를 정식화한 차기 대화용 기준 문서.
   - [문서 페이지](https://belorin.github.io/notes/taste-calculator-foundations/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/taste-calculator-foundations.md)
+- **[취향 계산기 0.2: 생성형 취향 공간의 LLM 어댑터](wiki/taste-calculator-adapter.md)** · 별칭: 취향 계산기 어댑터, Taste Calculator Adapter, 취향월드 실험 설계, Taste Calculator 0.2 · 수정: 2026-11-15 · 검토: 실무 프로토타입 설계 초안 0.2 · 미구현
+  - 서로 멀리 떨어진 완성품을 먼저 생성하고 개인별 미적 차원을 발견하는 첫 실험, 위키 명세와 이미지 생성 LLM 및 선택적 Python 계산층을 잇는 어댑터 입출력 계약.
+  - [문서 페이지](https://belorin.github.io/notes/taste-calculator-adapter/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/taste-calculator-adapter.md)
 
 ## 독서 문화
 

@@ -129,6 +129,7 @@
 - [결국 침묵한다면: 들뢰즈의 열역학적 가상, 안·밖 주름운동과 강도의 깊이](https://belorin.github.io/notes/deleuze-thermodynamics-implication-equilibrium/): 엔트로피와 열평형을 인정하면서도 차이의 발생을 묻는 들뢰즈의 논점을 안·밖 주름, 강도의 깊이, 포텐셜 에너지와 최종 침묵의 반론으로 해설한다.
 - [사람이 쓴 것의 값: 작품의 출처, 인정, 그리고 창작자의 얼굴](https://belorin.github.io/notes/human-authorship-creator-preference/): AI/인간 작품의 식별·출처 표시·선택을 구분하고 벤야민·바르트 등 예술철학, 창작 경험, 작가의 홍보 노동, 인간 창작자 선호의 장기 조건을 검토한다.
 - [취향 계산기: 미적 우주상수가 없는 세계의 형식 설계](https://belorin.github.io/notes/taste-calculator-foundations/): 완전 계산과 취향의 비불변성이라는 두 가정에서 출발해, 하층·중층·상층 스타일, 과포화, 취향 다양체 가설, 차원 발생, 내부 명제와 실험 설계를 정식화한 차기 대화용 기준 문서.
+- [취향 계산기 0.2: 생성형 취향 공간의 LLM 어댑터](https://belorin.github.io/notes/taste-calculator-adapter/): 서로 멀리 떨어진 완성품을 먼저 생성하고 개인별 미적 차원을 발견하는 첫 실험, 위키 명세와 이미지 생성 LLM 및 선택적 Python 계산층을 잇는 어댑터 입출력 계약.
 
 ### 독서 문화
 

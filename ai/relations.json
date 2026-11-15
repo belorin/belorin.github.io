@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 768,
+  "edge_count": 772,
   "edges": [
     {
       "from": "living-notes",
@@ -4206,6 +4206,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "taste-slop-mass-production",
+      "to": "taste-calculator-adapter",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "human-authorship-creator-preference",
       "to": "taste-slop-mass-production",
       "type": "related_to",
@@ -4340,6 +4346,24 @@
     {
       "from": "taste-calculator-foundations",
       "to": "ai-mediated-human-change",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "taste-calculator-foundations",
+      "to": "taste-calculator-adapter",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "taste-calculator-adapter",
+      "to": "taste-calculator-foundations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "taste-calculator-adapter",
+      "to": "taste-slop-mass-production",
       "type": "related_to",
       "basis": "manifest.related"
     },
