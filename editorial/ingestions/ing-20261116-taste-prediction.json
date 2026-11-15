@@ -1,0 +1,45 @@
+{
+  "id": "ing-20261116-taste-prediction",
+  "processed_on": "2026-11-16",
+  "coverage": "visible-partial",
+  "limit_note": "사전 예측 기능과 그 승인에 관한 접근 가능한 대화 논의만 반영",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "감상 이전에 경쟁 가설의 반응 예측을 기록하고 이후 공개하는 절차",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-calculator-adapter",
+          "section": "두 예측을 먼저 보관하고 작품을 보여주기"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "복수 예측의 불일치를 다음 작품 탐색의 선택 기준으로 활용",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-calculator-adapter",
+          "section": "두 예측을 먼저 보관하고 작품을 보여주기"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "현재 반응 예측과 경험 후 기존 작품 재평가 예측의 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-calculator-adapter",
+          "section": "두 예측을 먼저 보관하고 작품을 보여주기"
+        }
+      ]
+    }
+  ]
+}
