@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1390개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1393개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (26)
 
@@ -783,7 +783,7 @@
 - TESTIFY!의 10월 지역별 공연 안내와 재연 추적 → `orchestra-repertoire-repeat-performance-autumn-2026` § 초연 뒤 네 악단을 더 연결하는 방식 · `ing-20261110-autumn-other-followups`
 - 초연 이후 작품 생애와 컨소시엄 밖 재연을 추적하는 지표 제안 → `orchestra-repertoire-repeat-performance-autumn-2026` § 다음 통계는 작품의 생애를 세어야 한다 · `ing-20261110-autumn-other-followups`
 
-## 철학 (94)
+## 철학 (97)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -881,6 +881,9 @@
 - 취향 상태 몫공간과 도달 집합의 기호 충돌 해소 → `mathematical-theory-of-taste` § 5. 과거를 모두 저장하지 않고 역사에 충실할 수 있는가; `mathematical-theory-of-taste` § 6. 기하학적 거리, 이동 비용, 도달 가능성 · `ing-20261116-taste-lab-site-integration`
 - 객체 생성과 취향 상태 전이를 구분하는 기호 정정 → `taste-calculator-foundations` § 5. 두 시간의 계산: 지금 맞히기와 나중을 바꾸기 · `ing-20261116-taste-lab-site-integration`
 - 스타일 판정 예시와 유한 대수 예제의 함수 명칭 구분 → `taste-calculator-style-algebra` § 4. 스타일의 판정과 생성은 다른 방향의 계산이다 · `ing-20261116-taste-lab-site-integration`
+- 원본과 파생 실험의 제작 목적과 구현 한계 → `taste-calculator-adapter` § 원본과 파생 실험: 무엇을 경험하게 하려 했는가 · `ing-20261116-taste-experiment-rationales`
+- 객체 변형 합성을 위한 생성 실험의 범위 → `taste-calculator-style-algebra` § 생성 연산을 눈으로 확인하기 위한 구현 · `ing-20261116-taste-experiment-rationales`
+- 경험 순서와 C 전이의 실행 예제 및 감상과의 간극 → `mathematical-theory-of-taste` § 순서와 C의 역할을 실행해 보는 실험 · `ing-20261116-taste-experiment-rationales`
 
 ## 과학과 기술 (79)
 
