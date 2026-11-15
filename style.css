@@ -262,3 +262,13 @@ mark{background:var(--mark);color:inherit;border-radius:2px;padding:0 1px}
  .prose .table-scroll{overflow:visible}
  .prose th,.prose td{min-width:0;padding:6px}
 }
+
+
+/* Interactive taste experiment in the adapter document (standalone source: /taste-lab/). */
+.taste-lab-panel{margin:24px 0;padding:18px;border:1px solid var(--line);background:var(--paper);border-radius:14px}
+.taste-lab-panel details>summary{font-weight:700;color:var(--accent);cursor:pointer;line-height:1.55}
+.taste-lab-panel details>p{margin:12px 0;color:var(--muted);font-size:13px;line-height:1.7}
+.taste-lab-panel iframe{display:block;width:100%;height:min(86vh,960px);min-height:500px;border:1px solid var(--line);background:#101016;border-radius:10px}
+.taste-lab-fullscreen{margin:12px 0 0;font-size:13px;font-weight:650;color:var(--accent)}
+@media(max-width:620px){.taste-lab-panel{padding:12px}.taste-lab-panel iframe{min-height:620px;height:80vh}}
+@media print{.taste-lab-panel{display:none}}
