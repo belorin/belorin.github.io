@@ -213,9 +213,9 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `world-reading-groups` ↔ `global-reading-club-2026-books` · 0.35 · 연결됨
 - `global-reading-club-2026-books` ↔ `world-book-club-korean-editions` · 0.24 · 연결됨
 - `physical-cloud-reading-guide` ↔ `gpi-foreign-novels-2015-2025` · 0.22
+- `taste-calculator-adapter` ↔ `taste-calculator-style-algebra` · 0.21 · 연결됨
 - `taste-calculator-foundations` ↔ `taste-calculator-style-algebra` · 0.20 · 연결됨
 - `taste-calculator-foundations` ↔ `taste-calculator-adapter` · 0.19 · 연결됨
-- `taste-calculator-adapter` ↔ `taste-calculator-style-algebra` · 0.19 · 연결됨
 - `physical-cloud-reading-guide` ↔ `global-south-critical-reading-guide` · 0.19
 - `mathematical-theory-of-taste` ↔ `taste-calculator-style-algebra` · 0.17 · 연결됨
 - `todd-budapest-2025-reading` ↔ `todd-dislocation-threats-2025-reading` · 0.16 · 연결됨
@@ -271,7 +271,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
-- 긴 문서 (22): `taste-calculator-foundations` 16,306자, `wiki-building-history` 15,142자, `upbit-small-capital-trading-experiment` 14,973자, `taste-calculator-style-algebra` 14,757자, `ai-capital-labor-distribution` 13,156자, `great-depression-lived-experience-literature` 12,392자, `housing-busts-global-korea` 12,187자, `wiki-operations-pipeline` 12,147자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `living-orchestral-listening-journey` 10,782자, `book-translation-pipeline-local-llm` 10,701자, `starcraft-pluto-ai` 10,465자, `korea-dance-musical-tours` 10,337자, `wto-digital-transmission-moratorium` 10,289자, `ai-economic-transition` 10,205자, `great-northern-telegraph-east-asia` 10,147자, `where-novelty-comes-from` 10,125자, `satanic-panic-court-inquiries` 10,082자, `stalking-harm-and-autonomy` 10,033자
+- 긴 문서 (22): `taste-calculator-style-algebra` 16,737자, `taste-calculator-foundations` 16,306자, `wiki-building-history` 15,142자, `upbit-small-capital-trading-experiment` 14,973자, `ai-capital-labor-distribution` 13,156자, `great-depression-lived-experience-literature` 12,392자, `housing-busts-global-korea` 12,187자, `wiki-operations-pipeline` 12,147자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `living-orchestral-listening-journey` 10,782자, `book-translation-pipeline-local-llm` 10,701자, `starcraft-pluto-ai` 10,465자, `korea-dance-musical-tours` 10,337자, `wto-digital-transmission-moratorium` 10,289자, `ai-economic-transition` 10,205자, `great-northern-telegraph-east-asia` 10,147자, `where-novelty-comes-from` 10,125자, `satanic-panic-court-inquiries` 10,082자, `stalking-harm-and-autonomy` 10,033자
 - 짧은 문서 (2): `stump-and-dream-fragment` 861자, `deleuze-cartography-future` 1,291자
 
 ## 9. 분류 참고
