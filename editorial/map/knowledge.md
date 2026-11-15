@@ -860,8 +860,8 @@
 - 작품·반응·개인 상태를 위한 데이터 계약 → `taste-calculator-adapter` § 7. 어댑터의 최소 데이터 계약 · `ing-20261115-taste-calculator-adapter-design`
 - LLM 내부 모드와 Python 외부 모드의 분리 → `taste-calculator-adapter` § 8. 계산 영역: 내부 모드와 외부 모드 · `ing-20261115-taste-calculator-adapter-design`
 - 과포화의 추정 이전에 노출 이력 보존 → `taste-calculator-adapter` § 10. 과포화는 초기 라운드에서 판정하지 않는다 · `ing-20261115-taste-calculator-adapter-design`
-- 반응 출력과 작품·취향·반응 공간의 구별 → `mathematical-theory-of-taste` § 1. 세 공간과 계산의 출력 · `ing-20261115-mathematical-taste-dynamics`
-- 스타일 불변성과 형식 조직 → `mathematical-theory-of-taste` § 2. 스타일은 점수보다 형식적 조직에 가깝다 · `ing-20261115-mathematical-taste-dynamics`
+- 반응 출력과 작품·취향·반응 공간의 구별 → `mathematical-theory-of-taste` § 1. 네 공간과 계산의 출력 · `ing-20261115-mathematical-taste-dynamics`
+- 스타일 불변성과 형식 조직 → `mathematical-theory-of-taste` § 2. 스타일은 상층도 객체도 아닌 가로지르는 형식이다 · `ing-20261115-mathematical-taste-dynamics`
 - 반응 거리에 의한 의사거리와 국소 계량 → `mathematical-theory-of-taste` § 3. 두 사람의 취향 거리는 어떻게 정의되는가 · `ing-20261115-mathematical-taste-dynamics`
 - 비선형 반응 곡면의 음의 곡률 → `mathematical-theory-of-taste` § 반응의 비선형성이 만드는 곡률 · `ing-20261115-mathematical-taste-dynamics`
 - 두 작품과 기록 변수의 전이 규칙 → `mathematical-theory-of-taste` § 4. 역사적 존재: A와 B밖에 없는 작은 세계 · `ing-20261115-mathematical-taste-dynamics`

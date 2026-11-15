@@ -298,17 +298,17 @@
 - **[사람이 쓴 것의 값: 작품의 출처, 인정, 그리고 창작자의 얼굴](wiki/human-authorship-creator-preference.md)** · 별칭: AI와 인간 창작자의 구별, 인간 창작물의 가치, 저자성과 인간 선호 · 수정: 2026-11-14 · 검토: 대화 기반 철학적 비교 · 실증 원자료 검증 대기
   - AI/인간 작품의 식별·출처 표시·선택을 구분하고 벤야민·바르트 등 예술철학, 창작 경험, 작가의 홍보 노동, 인간 창작자 선호의 장기 조건을 검토한다.
   - [문서 페이지](https://belorin.github.io/notes/human-authorship-creator-preference/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/human-authorship-creator-preference.md)
-- **[취향 계산기: 미적 우주상수가 없는 세계의 형식 설계](wiki/taste-calculator-foundations.md)** · 별칭: 취향 계산기, Taste Calculator, 취향계산기, 미적 우주상수의 부재, 취향 공간의 다양체 가설 · 수정: 2026-11-15 · 검토: 독립 설계 논문 초안 v0.1 · 사고실험·미검증
-  - 완전 계산과 취향의 비불변성이라는 두 가정에서 출발해, 하층·중층·상층 스타일, 과포화, 취향 다양체 가설, 차원 발생, 내부 명제와 실험 설계를 정식화한 차기 대화용 기준 문서.
+- **[취향 계산기: 미적 우주상수가 없는 세계의 형식 설계](wiki/taste-calculator-foundations.md)** · 별칭: 취향 계산기, Taste Calculator, 취향계산기, 미적 우주상수의 부재, 취향 공간의 다양체 가설 · 수정: 2026-11-16 · 검토: 독립 설계 논문 초안 v0.1 · 사고실험·미검증
+  - 완전 계산과 미적 우주상수의 부재를 출발점으로 객체의 하층·중층·상층, 이를 가로지르는 스타일, 객체·스타일·취향·반응의 네 공간, 취향체의 동역학과 과포화·차원 생성 가설을 정리한 이론 기준 문서.
   - [문서 페이지](https://belorin.github.io/notes/taste-calculator-foundations/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/taste-calculator-foundations.md)
-- **[취향 계산기 0.2: 생성형 취향 공간의 LLM 어댑터](wiki/taste-calculator-adapter.md)** · 별칭: 취향 계산기 어댑터, Taste Calculator Adapter, 취향월드 실험 설계, Taste Calculator 0.2 · 수정: 2026-11-15 · 검토: 실무 프로토타입 설계 초안 0.2 · 미구현
-  - 서로 멀리 떨어진 완성품을 먼저 생성하고 개인별 미적 차원을 발견하는 첫 실험, 위키 명세와 이미지 생성 LLM 및 선택적 Python 계산층을 잇는 어댑터 입출력 계약.
+- **[취향 계산기 0.2: 생성형 취향 공간의 LLM 어댑터](wiki/taste-calculator-adapter.md)** · 별칭: 취향 계산기 어댑터, Taste Calculator Adapter, 취향월드 실험 설계, Taste Calculator 0.2 · 수정: 2026-11-16 · 검토: 실무 프로토타입 설계 초안 0.2 · 미구현
+  - 생성형 이미지의 객체·스타일 거리와 취향체 반응 거리를 구별하고 완성품 전시, 스타일 판정·생성의 구분, 자유 반응, 취향 상태 추정 및 전이를 연결하는 LLM 어댑터 계약.
   - [문서 페이지](https://belorin.github.io/notes/taste-calculator-adapter/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/taste-calculator-adapter.md)
-- **[수리취향학 0.1: 기록적 취향체의 기하학과 동역학](wiki/mathematical-theory-of-taste.md)** · 별칭: 수리취향학, 취향역학, 취향기하학, 기록적 취향체, Mathematical Theory of Taste · 수정: 2026-11-15 · 검토: 수학적 사고실험과 내부 전이 모형 초안 v0.1 · 외부 실증 미검증
-  - 취향 상태를 미래 반응으로 구별되는 역사의 동치류로 정식화하고 두 작품 A·B의 전이, 비가환성, 관측 지평, 유도 계량과 곡률, 방향별 도달 비용과 세 번째 작품 C의 연구 과제를 설명한다.
+- **[수리취향학 0.1: 기록적 취향체의 기하학과 동역학](wiki/mathematical-theory-of-taste.md)** · 별칭: 수리취향학, 취향역학, 취향기하학, 기록적 취향체, Mathematical Theory of Taste · 수정: 2026-11-16 · 검토: 수학적 사고실험과 내부 전이 모형 초안 v0.1 · 외부 실증 미검증
+  - 객체·스타일·취향 상태·반응 공간을 구별하고 취향체를 기록을 포함한 한 점으로 정식화한 뒤, 역사 동치류·비가환 전이·유도 계량·곡률·방향별 도달 비용 및 차원 식별을 다룬다.
   - [문서 페이지](https://belorin.github.io/notes/mathematical-theory-of-taste/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/mathematical-theory-of-taste.md)
-- **[취향 계산기의 스타일 대수: 생성 가능한 중층과 가상 취향체](wiki/taste-calculator-style-algebra.md)** · 별칭: 스타일 대수, 취향체 중층구조, Style Algebra, Taste Calculator Style Algebra, 생성 가능한 스타일 공간 · 수정: 2026-11-16 · 검토: 독립 설계 기초 논문 0.1 · 수학적 내부 예제 제시 · 실증 미검증
-  - 요소–스타일–객체의 잠정적 절단, 스타일 판정 함수와 생성 대수, 관찰·가능 동치, 가상 취향체의 독립적 선호와 식별 불가능성, 계산 가능한 작은 세계를 정식화한 후속 대화의 기준 문서.
+- **[취향 계산기의 스타일 대수: 생성 가능한 양식과 가상 취향체](wiki/taste-calculator-style-algebra.md)** · 별칭: 스타일 대수, 취향체 중층구조, Style Algebra, Taste Calculator Style Algebra, 생성 가능한 스타일 공간 · 수정: 2026-11-16 · 검토: 독립 설계 기초 논문 0.1 · 수학적 내부 예제 제시 · 실증 미검증
+  - 객체의 하층·중층·상층과 이를 가로지르는 스타일을 구분하고 판정 대수와 별도의 생성 규칙, 선형독립 판정과 자유도의 차이, 관찰·가능 동치, 가상 취향체를 연구하는 형식 설계 문서.
   - [문서 페이지](https://belorin.github.io/notes/taste-calculator-style-algebra/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/taste-calculator-style-algebra.md)
 
 ## 독서 문화

@@ -4,9 +4,9 @@
 
 - id: `taste-calculator-foundations` · 분류: 철학 · 공개 · 원고: [wiki/taste-calculator-foundations.md](../../../wiki/taste-calculator-foundations.md) · 16,306자 · 절 28개
 - 별칭: 취향 계산기, Taste Calculator, 취향계산기, 미적 우주상수의 부재, 취향 공간의 다양체 가설
-- 요약: 완전 계산과 취향의 비불변성이라는 두 가정에서 출발해, 하층·중층·상층 스타일, 과포화, 취향 다양체 가설, 차원 발생, 내부 명제와 실험 설계를 정식화한 차기 대화용 기준 문서.
+- 요약: 완전 계산과 미적 우주상수의 부재를 출발점으로 객체의 하층·중층·상층, 이를 가로지르는 스타일, 객체·스타일·취향·반응의 네 공간, 취향체의 동역학과 과포화·차원 생성 가설을 정리한 이론 기준 문서.
 - 태그: 취향 계산기, 스타일, 미학, 완전 계산, 다양체, 비선형, 과포화, 차이 생성, 동역학, 연구 설계
-- 수정일: 2026-11-15 · 실제 증보일: 2026-11-15 · 검토: needs_review
+- 수정일: 2026-11-16 · 실제 증보일: 2026-11-16 · 검토: needs_review
 - 관련 문서: `taste-slop-mass-production`, `human-authorship-creator-preference`, `music-books-supply-attention`, `ai-mediated-human-change`, `taste-calculator-adapter`, `mathematical-theory-of-taste`, `taste-calculator-style-algebra`
 
 ## 절 목차
