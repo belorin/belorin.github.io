@@ -1,0 +1,60 @@
+{
+  "id": "ing-20261116-taste-lab-site-integration",
+  "processed_on": "2026-11-16",
+  "coverage": "visible-complete",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "위키 안에서 취향 실험실 0.2를 직접 실행하고 전체화면으로 열 수 있는 연결",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-calculator-adapter",
+          "section": "설계의 중심"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "other",
+      "title": "취향 상태 몫공간과 도달 집합의 기호 충돌 해소",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mathematical-theory-of-taste",
+          "section": "5. 과거를 모두 저장하지 않고 역사에 충실할 수 있는가"
+        },
+        {
+          "doc_id": "mathematical-theory-of-taste",
+          "section": "6. 기하학적 거리, 이동 비용, 도달 가능성"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "other",
+      "title": "객체 생성과 취향 상태 전이를 구분하는 기호 정정",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-calculator-foundations",
+          "section": "5. 두 시간의 계산: 지금 맞히기와 나중을 바꾸기"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "other",
+      "title": "스타일 판정 예시와 유한 대수 예제의 함수 명칭 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-calculator-style-algebra",
+          "section": "4. 스타일의 판정과 생성은 다른 방향의 계산이다"
+        }
+      ]
+    }
+  ]
+}
