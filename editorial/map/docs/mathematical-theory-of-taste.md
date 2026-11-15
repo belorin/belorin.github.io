@@ -42,10 +42,12 @@
   - 감상 순서의 비가환성 · `ing-20261115-mathematical-taste-dynamics`
 - **5. 과거를 모두 저장하지 않고 역사에 충실할 수 있는가**
   - 미래 실험을 기준으로 한 역사 동치류 · `ing-20261115-mathematical-taste-dynamics`
+  - 취향 상태 몫공간과 도달 집합의 기호 충돌 해소 · `ing-20261116-taste-lab-site-integration`
 - **미래를 더 물어보면 차원이 드러난다**
   - 미래 관측 지평에 따른 식별 차원 · `ing-20261115-mathematical-taste-dynamics`
 - **6. 기하학적 거리, 이동 비용, 도달 가능성**
   - 취향 전이 비용과 방향별 도달 가능성 · `ing-20261115-mathematical-taste-dynamics`
+  - 취향 상태 몫공간과 도달 집합의 기호 충돌 해소 · `ing-20261116-taste-lab-site-integration`
 - **7. 순서쌍의 두 의미: 경험의 순서와 취향체의 방향 관계**
   - 취향체 순서쌍과 경험 순서쌍의 구별 · `ing-20261115-mathematical-taste-dynamics`
 - **8. 관측 가능한 차원과 새로 생성된 차원은 다르다**
