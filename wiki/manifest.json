@@ -6808,7 +6808,8 @@
         "human-authorship-creator-preference",
         "music-books-supply-attention",
         "music-upload-listening-gap-2026",
-        "ai-mediated-human-change"
+        "ai-mediated-human-change",
+        "taste-calculator-foundations"
       ],
       "aliases": [
         "AI 시대의 취향과 슬롭",
@@ -6844,7 +6845,8 @@
       "related": [
         "taste-slop-mass-production",
         "music-upload-listening-gap-2026",
-        "ai-mediated-human-change"
+        "ai-mediated-human-change",
+        "taste-calculator-foundations"
       ],
       "aliases": [
         "AI와 인간 창작자의 구별",
@@ -7010,6 +7012,45 @@
       "aliases": [
         "Todd Asahi Shimbun 2026 해설",
         "토드 상상적 민족주의"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-15"
+    },
+    {
+      "path": "wiki/taste-calculator-foundations.md",
+      "publish": true,
+      "order": 213,
+      "id": "taste-calculator-foundations",
+      "title": "취향 계산기: 미적 우주상수가 없는 세계의 형식 설계",
+      "category": "철학",
+      "status": "독립 설계 논문 초안 v0.1 · 사고실험·미검증",
+      "updated": "2026-11-15",
+      "summary": "완전 계산과 취향의 비불변성이라는 두 가정에서 출발해, 하층·중층·상층 스타일, 과포화, 취향 다양체 가설, 차원 발생, 내부 명제와 실험 설계를 정식화한 차기 대화용 기준 문서.",
+      "tags": [
+        "취향 계산기",
+        "스타일",
+        "미학",
+        "완전 계산",
+        "다양체",
+        "비선형",
+        "과포화",
+        "차이 생성",
+        "동역학",
+        "연구 설계"
+      ],
+      "source": "내부 독립 설계 초안 · 외부 실증 미검증",
+      "related": [
+        "taste-slop-mass-production",
+        "human-authorship-creator-preference",
+        "music-books-supply-attention",
+        "ai-mediated-human-change"
+      ],
+      "aliases": [
+        "취향 계산기",
+        "Taste Calculator",
+        "취향계산기",
+        "미적 우주상수의 부재",
+        "취향 공간의 다양체 가설"
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-11-15"
