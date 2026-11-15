@@ -1,0 +1,117 @@
+{
+  "id": "ing-20261115-taste-calculator-adapter-design",
+  "processed_on": "2026-11-15",
+  "coverage": "visible-complete",
+  "limit_note": "직접 확인 가능한 취향 계산기 설계 구간의 실무 방향을 별도 명세로 정리. 실증, 외부 조사, 실제 그림 생성은 수행하지 않았으며 이전 이론 원고는 링크만 추가했다.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "서로 먼 완성품 우선 제시와 분류 이전의 생성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-calculator-adapter",
+          "section": "1. 먼저 완성품을, 다음에 취향의 차원을"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "삼층 스타일 거리의 임시성 및 개인별 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-calculator-adapter",
+          "section": "2. 거리는 생성기의 초기 가설일 뿐이다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "생성기 주도 차원 발견과 N1~N4 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-calculator-adapter",
+          "section": "3. 생성기는 차원을 발견해야 한다"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "argument",
+      "title": "티어메이커와 월드컵을 넘는 자유 반응 방식",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-calculator-adapter",
+          "section": "4. 전시와 반응: 설문지가 되지 않는 티어메이커"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "concept",
+      "title": "이미지 생성 한도에 따른 N과 회차 구성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-calculator-adapter",
+          "section": "5. 첫 라운드: 이미지 수는 LLM 인터페이스가 결정한다"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "concept",
+      "title": "위키 명세·생성 LLM·계산 영역의 어댑터 역할",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-calculator-adapter",
+          "section": "6. 위키 기반 LLM 어댑터: 구성요소별 경계"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "concept",
+      "title": "작품·반응·개인 상태를 위한 데이터 계약",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-calculator-adapter",
+          "section": "7. 어댑터의 최소 데이터 계약"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "concept",
+      "title": "LLM 내부 모드와 Python 외부 모드의 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-calculator-adapter",
+          "section": "8. 계산 영역: 내부 모드와 외부 모드"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "argument",
+      "title": "과포화의 추정 이전에 노출 이력 보존",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-calculator-adapter",
+          "section": "10. 과포화는 초기 라운드에서 판정하지 않는다"
+        }
+      ]
+    }
+  ]
+}

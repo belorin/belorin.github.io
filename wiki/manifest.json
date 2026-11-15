@@ -6809,7 +6809,8 @@
         "music-books-supply-attention",
         "music-upload-listening-gap-2026",
         "ai-mediated-human-change",
-        "taste-calculator-foundations"
+        "taste-calculator-foundations",
+        "taste-calculator-adapter"
       ],
       "aliases": [
         "AI 시대의 취향과 슬롭",
@@ -7043,7 +7044,8 @@
         "taste-slop-mass-production",
         "human-authorship-creator-preference",
         "music-books-supply-attention",
-        "ai-mediated-human-change"
+        "ai-mediated-human-change",
+        "taste-calculator-adapter"
       ],
       "aliases": [
         "취향 계산기",
@@ -7051,6 +7053,41 @@
         "취향계산기",
         "미적 우주상수의 부재",
         "취향 공간의 다양체 가설"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-15"
+    },
+    {
+      "path": "wiki/taste-calculator-adapter.md",
+      "publish": true,
+      "order": 214,
+      "id": "taste-calculator-adapter",
+      "title": "취향 계산기 0.2: 생성형 취향 공간의 LLM 어댑터",
+      "category": "철학",
+      "status": "실무 프로토타입 설계 초안 0.2 · 미구현",
+      "updated": "2026-11-15",
+      "summary": "서로 멀리 떨어진 완성품을 먼저 생성하고 개인별 미적 차원을 발견하는 첫 실험, 위키 명세와 이미지 생성 LLM 및 선택적 Python 계산층을 잇는 어댑터 입출력 계약.",
+      "tags": [
+        "취향 계산기",
+        "스타일",
+        "LLM 어댑터",
+        "다양성 생성",
+        "상층 중층 하층",
+        "이미지 생성",
+        "취향 지형",
+        "데이터 계약",
+        "실험 설계"
+      ],
+      "source": "내부 설계 기록 · 구현 및 실증 미검증",
+      "related": [
+        "taste-calculator-foundations",
+        "taste-slop-mass-production"
+      ],
+      "aliases": [
+        "취향 계산기 어댑터",
+        "Taste Calculator Adapter",
+        "취향월드 실험 설계",
+        "Taste Calculator 0.2"
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-11-15"

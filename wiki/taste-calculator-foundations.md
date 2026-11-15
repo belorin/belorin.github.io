@@ -292,6 +292,9 @@ B4는 초기에 구현을 약속하는 기능이 아니라 장기 목표다. B0~
 
 ## 관련 기반 문서
 
+- [취향 계산기 ADAPTER 0.2: 첫 생성 실험과 LLM 어댑터 명세](./taste-calculator-adapter.md) — 서로 멀리 떨어진 완성품 전시, 생성기 주도 차원 발견, 사용자 반응과 계산층의 계약을 정의한다.
+
+
 - [취향은 길들여지는가: 꽃무늬 냉장고에서 AI 슬롭까지](./taste-slop-mass-production.md) — 이 설계를 필요하게 만든 문화적 배경과 산업·취향의 문제.
 - [사람이 쓴 것의 값](./human-authorship-creator-preference.md) — 창작의 출처, 인간에 대한 선호와 감각적 선호가 다른 차원이라는 문제.
 - [음악과 책의 공급 폭발](./music-books-supply-attention.md) — 생성량·노출·선택을 구별해야 하는 이유.
