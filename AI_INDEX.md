@@ -304,6 +304,9 @@
 - **[취향 계산기 0.2: 생성형 취향 공간의 LLM 어댑터](wiki/taste-calculator-adapter.md)** · 별칭: 취향 계산기 어댑터, Taste Calculator Adapter, 취향월드 실험 설계, Taste Calculator 0.2 · 수정: 2026-11-15 · 검토: 실무 프로토타입 설계 초안 0.2 · 미구현
   - 서로 멀리 떨어진 완성품을 먼저 생성하고 개인별 미적 차원을 발견하는 첫 실험, 위키 명세와 이미지 생성 LLM 및 선택적 Python 계산층을 잇는 어댑터 입출력 계약.
   - [문서 페이지](https://belorin.github.io/notes/taste-calculator-adapter/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/taste-calculator-adapter.md)
+- **[수리취향학 0.1: 기록적 취향체의 기하학과 동역학](wiki/mathematical-theory-of-taste.md)** · 별칭: 수리취향학, 취향역학, 취향기하학, 기록적 취향체, Mathematical Theory of Taste · 수정: 2026-11-15 · 검토: 수학적 사고실험과 내부 전이 모형 초안 v0.1 · 외부 실증 미검증
+  - 취향 상태를 미래 반응으로 구별되는 역사의 동치류로 정식화하고 두 작품 A·B의 전이, 비가환성, 관측 지평, 유도 계량과 곡률, 방향별 도달 비용과 세 번째 작품 C의 연구 과제를 설명한다.
+  - [문서 페이지](https://belorin.github.io/notes/mathematical-theory-of-taste/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/mathematical-theory-of-taste.md)
 
 ## 독서 문화
 

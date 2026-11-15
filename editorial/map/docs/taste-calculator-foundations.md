@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `taste-calculator-foundations` · 분류: 철학 · 공개 · 원고: [wiki/taste-calculator-foundations.md](../../../wiki/taste-calculator-foundations.md) · 13,779자 · 절 26개
+- id: `taste-calculator-foundations` · 분류: 철학 · 공개 · 원고: [wiki/taste-calculator-foundations.md](../../../wiki/taste-calculator-foundations.md) · 14,884자 · 절 27개
 - 별칭: 취향 계산기, Taste Calculator, 취향계산기, 미적 우주상수의 부재, 취향 공간의 다양체 가설
 - 요약: 완전 계산과 취향의 비불변성이라는 두 가정에서 출발해, 하층·중층·상층 스타일, 과포화, 취향 다양체 가설, 차원 발생, 내부 명제와 실험 설계를 정식화한 차기 대화용 기준 문서.
 - 태그: 취향 계산기, 스타일, 미학, 완전 계산, 다양체, 비선형, 과포화, 차이 생성, 동역학, 연구 설계
 - 수정일: 2026-11-15 · 실제 증보일: 2026-11-15 · 검토: needs_review
-- 관련 문서: `taste-slop-mass-production`, `human-authorship-creator-preference`, `music-books-supply-attention`, `ai-mediated-human-change`, `taste-calculator-adapter`
+- 관련 문서: `taste-slop-mass-production`, `human-authorship-creator-preference`, `music-books-supply-attention`, `ai-mediated-human-change`, `taste-calculator-adapter`, `mathematical-theory-of-taste`
 
 ## 절 목차
 
@@ -37,9 +37,10 @@
 - 9. 반례와 실패 조건: 무엇이 틀리면 모델을 고쳐야 하는가 · L218–229 · 728자 · `4095fa50` — 이론적 사고실험을 실제 연구로 옮기려면 스스로 반박당할 수 있도록 만들어야 한다.
 - 10. 첫 실험은 작고 닫혀 있어야 한다 · L231–251 · 879자 · `3f6f48b6` — 전체 문화사의 진화를 처음부터 구현할 필요는 없다.
 - 11. 다음 대화에서 반드시 결정할 설계 질문 · L253–271 · 878자 · `a23ae094` — 이 문서는 대답을 모두 내리는 완성 원고가 아니라 다음 설계의 기준면이다.
-- 12. 다시 시작하기 위한 압축 명세 · L273–291 · 782자 · `c47ccb74` — 이 문서가 다음 설계 대화에서 공유되어야 할 최소 전제는 다음과 같다.
-- 관련 기반 문서 · L293–301 · 516자 · `ccb5dd19` — 취향 계산기 ADAPTER 0.2: 첫 생성 실험과 LLM 어댑터 명세 — 서로 멀리 떨어진 완성품 전시, 생성기 주도 차원 발견, 사용자 반응과 계산층의 계약을 정의한다.
-- 출처와 한계 · L303–305 · 267자 · `32366e43` — 이 문서는 기존 위키의 문화·철학 논의와 내부적으로 정식화된 사고실험을 기반으로 한 독립 설계 원고다.
+  - 후속 수학적 정식화: 기록적 취향체와 도달 가능성 · L273–281 · 942자 · `ac75e3ff` — 후속 연구에서는 출력, 스타일, 공간을 구별했다.
+- 12. 다시 시작하기 위한 압축 명세 · L283–301 · 782자 · `c47ccb74` — 이 문서가 다음 설계 대화에서 공유되어야 할 최소 전제는 다음과 같다.
+- 관련 기반 문서 · L303–312 · 644자 · `4d3133fa` — 수리취향학 0.1: 기록적 취향체의 기하학과 동역학 — 반응 거리, 관측 지평, 전이의 비가환성, 순서쌍, 도달 집합, 작품 C의 출현을 위한 수학적 기준면.
+- 출처와 한계 · L314–316 · 267자 · `32366e43` — 이 문서는 기존 위키의 문화·철학 논의와 내부적으로 정식화된 사고실험을 기반으로 한 독립 설계 원고다.
 
 ## 장부에 기록된 반영 지식
 
