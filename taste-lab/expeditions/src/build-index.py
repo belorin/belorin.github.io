@@ -1,0 +1,23 @@
+from pathlib import Path
+import json,hashlib
+root=Path(__file__).resolve().parent.parent
+repo='https://github.com/belorin/belorin.github.io'
+versions=[
+ ('algebra-v1','A1 · 첫 조합 전시','58b60b4ef0430954faf2b18efc01940ea7852da0','64개 합성 중 첫 6개. 열거 순서가 전시를 편향시켰다.','첫 생성 문법과 분기.'),
+ ('algebra-v2','A2 · 전시의 거리','c8b8fd4cc42d3604b10c393eb704fae3819da993','최소 형식 거리 0.08479 → 0.26760 (씨앗 117). 여전히 같은 기하적 포스터 체제.','후보 전체에서 최원점 선택.'),
+ ('algebra-v3','A3 · 계속 갈라지는 정원','d763fd9e9ed4dd7c20e08fb30f6ade192f8514b6','재귀 접기의 요소 수 폭증을 발견해 예산을 설정했다.','연산 8회·요소 384개 분기 예산.'),
+ ('history-v1','H1 · 순서의 기억','330e43910d1807d91d1a2ad6f8bd7261049d9cf1','첫 난수와 씨앗 증분의 상관, 경로마다 다른 작품이라는 혼입을 발견했다.','기준작 재감상과 정확한 A·B 모형.'),
+ ('history-v2','H2 · 같은 작품과 새로운 C','d763fd9e9ed4dd7c20e08fb30f6ade192f8514b6','동일 작품의 AB/BA 체험. C 추가 시 6회 도달 상태 68 → 117.','짝 경로와 C의 도달 장벽 통과.')]
+items=[]
+for id,title,commit,observation,change in versions:
+ text=(root/'versions'/f'{id}.html').read_text()
+ items.append(dict(id=id,title=title,commit=commit,observation=observation,change=change,sha256=hashlib.sha256(text.encode()).hexdigest(),html=text))
+(root/'versions.json').write_text(json.dumps([{k:v for k,v in x.items() if k!='html'} for x in items],ensure_ascii=False,indent=2))
+css=(root/'src/style.css').read_text()
+head='''<!doctype html><html lang="ko"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>취향 탐험 · 발전 과정의 전시</title><style>'''+css+'''iframe{width:100%;height:1650px;border:1px solid var(--line);background:var(--bg);border-radius:10px}.versions{display:flex;flex-wrap:wrap;gap:10px}.versions button{flex:1;min-width:170px}.intro{max-width:850px}.number{font-size:40px;color:var(--accent)}@media(max-width:600px){iframe{height:2300px}}</style><main><header><div class="eyebrow">TASTE EXPEDITIONS / 2026.11.16</div><h1>정답 대신,<br>탐험의 경로를 남기다.</h1><p class="intro">조합의 순서가 작품을 바꾸고, 경험의 순서가 도착을 바꿉니다. 두 실험의 다섯 판본을 오가며 무엇을 만들었고 어디서 막혔는지 직접 살펴보세요.</p><p class="muted">새 브랜치에 보존 · main 수정 없음 · 공개 실행 호스팅 미배포<br>이 HTML 한 파일에 다섯 실행판이 들어 있습니다. 내려받아 오프라인으로 열 수 있습니다.</p></header><div class="toolbar"><span class="number">02</span> 실험 계보 <span class="number">05</span> 독립 판본</div><div id="versions" class="versions"></div><section class="box"><h2 id="title"></h2><p id="change"></p><p id="observation"></p><nav><a id="commit" target="_blank" rel="noopener">해당 GitHub 커밋 ↗</a><button id="download">이 판본 HTML 내려받기</button></nav><small>판본을 전환하면 아래 체험의 미보관 감상은 사라집니다. 전환 전에 실험 안의 보관 버튼을 사용하세요.</small></section><iframe id="frame" title="선택한 취향 생성 실험" sandbox="allow-scripts allow-downloads"></iframe><section class="box"><h2>무엇을 확인했나</h2><p>생성 대수의 순서 의존성, 동일 씨앗의 재현성, 30개 씨앗의 형식 거리 변화, 가상 취향체의 A·B 비가환성, C 추가 시 기존 도달 경로 보존을 검증했습니다. DOM 환경에서 전 판본의 생성·감상·분기·내보내기 핸들러도 실행했습니다.</p><p>SVG를 렌더링해 작품의 격자·대칭·밀집·분산을 관찰했습니다. 브라우저 실행은 환경 제한으로 확인하지 못했습니다. 인간의 실제 취향 변화, 새 인식 차원, 모바일 레이아웃과 실제 다운로드 저장은 검증하지 않았습니다.</p><h2>관찰에서 나온 다음 질문</h2><p>형식 거리가 커져도 전부 같은 기하적 인쇄물로 보일 수 있습니다. 다음 계보는 생성 문법 자체를 바꾸고, 사람이 느끼는 동일성과 계산 거리의 충돌을 보존해야 합니다. C는 지금은 가정한 전이 규칙입니다. 실제 작품이 그런 전이를 만드는지는 별도의 연구입니다.</p><nav><a href="'''+repo+'''/tree/research/taste-expeditions-20261116/taste-lab/expeditions" target="_blank" rel="noopener">전체 코드·짧은 관찰 기록 ↗</a><a href="https://belorin.github.io/taste-lab/" target="_blank" rel="noopener">기존 취향 실험실 ↗</a></nav></section><footer>기반: 취향 계산기 FOUNDATIONS · 스타일 대수 · 수리취향학 · ADAPTER. 기존 구상의 국소적인 생성 실험이며 전체 이론을 대체하지 않습니다. 외부 서비스·API 키 없이 실행됩니다.</footer></main><script>const versions='''
+# Embedded copies hide their filesystem navigation; immutable originals remain untouched.
+embedded=[]
+for item in items:
+ x=dict(item);x['html']=x['html'].replace('<a href="../index.html">← 탐험 지도</a>','<span>판본 전환은 위의 탐험 지도에서</span>');embedded.append(x)
+script=''';const $=id=>document.getElementById(id);let active;for(const v of versions){const b=document.createElement('button');b.textContent=v.title;b.dataset.id=v.id;b.onclick=()=>show(v);$('versions').append(b)}function show(v){active=v;$('title').textContent=v.title;$('change').textContent='변경: '+v.change;$('observation').textContent='관찰: '+v.observation;$('commit').href='https://github.com/belorin/belorin.github.io/commit/'+v.commit;$('frame').srcdoc=v.html;document.querySelectorAll('.versions button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.id===v.id))}$('download').onclick=()=>{const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([active.html],{type:'text/html;charset=utf-8'}));a.download=active.id+'.html';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000)};show(versions[2]);</script></html>'''
+(root/'index.html').write_text(head+json.dumps(embedded,ensure_ascii=False).replace('</','<\\/')+script)

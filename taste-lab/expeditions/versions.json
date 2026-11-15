@@ -1,0 +1,42 @@
+[
+  {
+    "id": "algebra-v1",
+    "title": "A1 · 첫 조합 전시",
+    "commit": "58b60b4ef0430954faf2b18efc01940ea7852da0",
+    "observation": "64개 합성 중 첫 6개. 열거 순서가 전시를 편향시켰다.",
+    "change": "첫 생성 문법과 분기.",
+    "sha256": "df4855cb4507f0021753c79f36bb18cb69ddbbcf1aba8a42bf6f063212769728"
+  },
+  {
+    "id": "algebra-v2",
+    "title": "A2 · 전시의 거리",
+    "commit": "c8b8fd4cc42d3604b10c393eb704fae3819da993",
+    "observation": "최소 형식 거리 0.08479 → 0.26760 (씨앗 117). 여전히 같은 기하적 포스터 체제.",
+    "change": "후보 전체에서 최원점 선택.",
+    "sha256": "eb422bd010a3d896af67f9af7642effa5d1c912f82b84e539abc8368e11d562d"
+  },
+  {
+    "id": "algebra-v3",
+    "title": "A3 · 계속 갈라지는 정원",
+    "commit": "d763fd9e9ed4dd7c20e08fb30f6ade192f8514b6",
+    "observation": "재귀 접기의 요소 수 폭증을 발견해 예산을 설정했다.",
+    "change": "연산 8회·요소 384개 분기 예산.",
+    "sha256": "132003efe5b6997d36f60ced11b4d9edebd8584c92df2b9a9df2b83f3dde9421"
+  },
+  {
+    "id": "history-v1",
+    "title": "H1 · 순서의 기억",
+    "commit": "330e43910d1807d91d1a2ad6f8bd7261049d9cf1",
+    "observation": "첫 난수와 씨앗 증분의 상관, 경로마다 다른 작품이라는 혼입을 발견했다.",
+    "change": "기준작 재감상과 정확한 A·B 모형.",
+    "sha256": "4e4a9dee6783c8ae390a4c598015393acc203c1e6b73623feb061b6bb6d1baff"
+  },
+  {
+    "id": "history-v2",
+    "title": "H2 · 같은 작품과 새로운 C",
+    "commit": "d763fd9e9ed4dd7c20e08fb30f6ade192f8514b6",
+    "observation": "동일 작품의 AB/BA 체험. C 추가 시 6회 도달 상태 68 → 117.",
+    "change": "짝 경로와 C의 도달 장벽 통과.",
+    "sha256": "e7071221478cd5ef8641b0ade47d93d6ea28735efdcf8cc96dae63ef2cb2fc04"
+  }
+]
