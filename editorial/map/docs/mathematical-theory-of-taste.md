@@ -29,4 +29,28 @@
 
 ## 장부에 기록된 반영 지식
 
-- 없음 (장부 도입 이전 원고이거나 아직 기록이 없다. 기록이 없다는 것은 내용이 없다는 뜻이 아니다.)
+- **1. 세 공간과 계산의 출력**
+  - 반응 출력과 작품·취향·반응 공간의 구별 · `ing-20261115-mathematical-taste-dynamics`
+- **2. 스타일은 점수보다 형식적 조직에 가깝다**
+  - 스타일 불변성과 형식 조직 · `ing-20261115-mathematical-taste-dynamics`
+- **3. 두 사람의 취향 거리는 어떻게 정의되는가**
+  - 반응 거리에 의한 의사거리와 국소 계량 · `ing-20261115-mathematical-taste-dynamics`
+- **반응의 비선형성이 만드는 곡률**
+  - 비선형 반응 곡면의 음의 곡률 · `ing-20261115-mathematical-taste-dynamics`
+- **4. 역사적 존재: A와 B밖에 없는 작은 세계**
+  - 두 작품과 기록 변수의 전이 규칙 · `ing-20261115-mathematical-taste-dynamics`
+  - 감상 순서의 비가환성 · `ing-20261115-mathematical-taste-dynamics`
+- **5. 과거를 모두 저장하지 않고 역사에 충실할 수 있는가**
+  - 미래 실험을 기준으로 한 역사 동치류 · `ing-20261115-mathematical-taste-dynamics`
+- **미래를 더 물어보면 차원이 드러난다**
+  - 미래 관측 지평에 따른 식별 차원 · `ing-20261115-mathematical-taste-dynamics`
+- **6. 기하학적 거리, 이동 비용, 도달 가능성**
+  - 취향 전이 비용과 방향별 도달 가능성 · `ing-20261115-mathematical-taste-dynamics`
+- **7. 순서쌍의 두 의미: 경험의 순서와 취향체의 방향 관계**
+  - 취향체 순서쌍과 경험 순서쌍의 구별 · `ing-20261115-mathematical-taste-dynamics`
+- **8. 관측 가능한 차원과 새로 생성된 차원은 다르다**
+  - 관측 차원과 구조적 새 차원 구분 · `ing-20261115-mathematical-taste-dynamics`
+- **9. C의 등장: 다음 연구의 출발점**
+  - 새 작품 C의 도달 가능성 변화와 원래 경로의 보존 · `ing-20261115-mathematical-taste-dynamics`
+- **10. 명칭과 연구의 경계**
+  - 수리취향학과 취향역학의 명명 · `ing-20261115-mathematical-taste-dynamics`
