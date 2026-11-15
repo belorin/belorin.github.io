@@ -7,7 +7,7 @@
 - 요약: 취향 상태를 미래 반응으로 구별되는 역사의 동치류로 정식화하고 두 작품 A·B의 전이, 비가환성, 관측 지평, 유도 계량과 곡률, 방향별 도달 비용과 세 번째 작품 C의 연구 과제를 설명한다.
 - 태그: 수리취향학, 취향역학, 취향기하학, 취향체, 기록적 존재, 의사거리, 계량 텐서, 이력현상, 비가환성, 도달 가능성, 동역학, 취향 계산기
 - 수정일: 2026-11-15 · 실제 증보일: 2026-11-15 · 검토: needs_review
-- 관련 문서: `taste-calculator-foundations`, `taste-calculator-adapter`
+- 관련 문서: `taste-calculator-foundations`, `taste-calculator-adapter`, `taste-calculator-style-algebra`
 
 ## 절 목차
 

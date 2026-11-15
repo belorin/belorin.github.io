@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 776,
+  "edge_count": 783,
   "edges": [
     {
       "from": "living-notes",
@@ -4362,6 +4362,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "taste-calculator-foundations",
+      "to": "taste-calculator-style-algebra",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "taste-calculator-adapter",
       "to": "taste-calculator-foundations",
       "type": "related_to",
@@ -4380,6 +4386,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "taste-calculator-adapter",
+      "to": "taste-calculator-style-algebra",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "mathematical-theory-of-taste",
       "to": "taste-calculator-foundations",
       "type": "related_to",
@@ -4388,6 +4400,36 @@
     {
       "from": "mathematical-theory-of-taste",
       "to": "taste-calculator-adapter",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mathematical-theory-of-taste",
+      "to": "taste-calculator-style-algebra",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "taste-calculator-style-algebra",
+      "to": "taste-calculator-foundations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "taste-calculator-style-algebra",
+      "to": "mathematical-theory-of-taste",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "taste-calculator-style-algebra",
+      "to": "taste-calculator-adapter",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "taste-calculator-style-algebra",
+      "to": "taste-slop-mass-production",
       "type": "related_to",
       "basis": "manifest.related"
     },

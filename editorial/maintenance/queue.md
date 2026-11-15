@@ -4,9 +4,9 @@
 
 마지막 정비: **M001** (2026-10-26) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
 
-원고 217개 · 변경 문서 144 · 고립 22 · 한쪽 연결 120 · 보류 26 · 열린 교차 제안 8
+원고 218개 · 변경 문서 145 · 고립 22 · 한쪽 연결 121 · 보류 26 · 열린 교차 제안 8
 
-## 1. 지난 정비 이후 변경된 문서 (144)
+## 1. 지난 정비 이후 변경된 문서 (145)
 
 manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
@@ -16,7 +16,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - **문화와 역사** (15): `sumer-bible-primeval-history`, `war-escalation-local-to-world`, `world-crisis-historical-analogies`, `venice-biennale-2026-critical-reception`, `jewish-messianic-claimants-kabbalah`, `luddite-movement-history`, `luddite-executions-memory`, `late-qing-yongying-daily-life`, `qing-tributaries-dissolution`, `ryukyu-disposition-qing-japan`, `roman-industry-gold-standard-history`, `great-depression-lived-experience-literature`, `satanic-panic-english-speaking-history`, `babylon-hymn-digital-reconstruction-2026`, `venice-biennale-autumn-criticism-2026`
 - **과학과 기술** (10): `space-data-center-thermal-economics`, `space-assets-law-debris-kessler`, `physical-ai-world-model-quantum-optimization`, `manufacturing-optimization-solo-business`, `mountain-powerline-undergrounding-economics`, `edge-vision-event-monitor-portfolio`, `world-electricity-capacity-generation-consumption`, `operations-data-ai-copilot-portfolio`, `x-auto-translation-serving-cost`, `local-llm-industrial-operations`
 - **정치경제** (9): `money-credit-seigniorage-critique`, `emmanuel-todd-western-defeat`, `housing-busts-global-korea`, `korea-household-consumption-divergence-2026`, `todd-dislocation-2026`, `todd-budapest-2025-reading`, `todd-dislocation-threats-2025-reading`, `todd-world-war-interview-2026-reading`, `todd-asahi-2026-reading`
-- **철학** (8): `deleuze-negation-history`, `deleuze-number-intensity-spatium`, `freud-before-anti-oedipus`, `deleuze-thermodynamics-implication-equilibrium`, `human-authorship-creator-preference`, `taste-calculator-foundations`, `taste-calculator-adapter`, `mathematical-theory-of-taste`
+- **철학** (9): `deleuze-negation-history`, `deleuze-number-intensity-spatium`, `freud-before-anti-oedipus`, `deleuze-thermodynamics-implication-equilibrium`, `human-authorship-creator-preference`, `taste-calculator-foundations`, `taste-calculator-adapter`, `mathematical-theory-of-taste`, `taste-calculator-style-algebra`
 - **기술·지식 아카이브** (5): `east-asia-telegraph-network-1880s`, `great-northern-telegraph-east-asia`, `book-translation-pipeline-local-llm`, `local-llm-novel-agent-m1`, `upbit-small-capital-trading-experiment`
 - **운영** (4): `editing-principles`, `wiki-building-history`, `wiki-operations-pipeline`, `gpt-wiki-zero-prototype`
 - **자연과 과학** (4): `bird-vocalization-sparrow`, `climate-population-villain-logic`, `swimming-bird-flight-biomechanics`, `bird-vocal-patterns-neural-code-2026`
@@ -60,7 +60,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `swimming-bird-flight-biomechanics` 물속의 인간과 공중의 새: 스트로크·날갯짓·가속·선회의 비례 생체역학
 - `gwangju-bus-transfer-guide` 광주 버스, 어디서 갈아탈까? AI에 물어보는 길찾기 안내
 
-## 3. 한쪽에서만 건 관련 문서 (120)
+## 3. 한쪽에서만 건 관련 문서 (121)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -184,6 +184,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `todd-asahi-2026-reading` → `emmanuel-todd-western-defeat`
 - `taste-calculator-foundations` → `music-books-supply-attention`
 - `taste-calculator-foundations` → `ai-mediated-human-change`
+- `taste-calculator-style-algebra` → `taste-slop-mass-production`
 
 ## 4. 관련 문서가 없는 문서 (16)
 
@@ -212,17 +213,17 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `world-reading-groups` ↔ `global-reading-club-2026-books` · 0.35 · 연결됨
 - `global-reading-club-2026-books` ↔ `world-book-club-korean-editions` · 0.24 · 연결됨
 - `physical-cloud-reading-guide` ↔ `gpi-foreign-novels-2015-2025` · 0.22
+- `taste-calculator-foundations` ↔ `taste-calculator-style-algebra` · 0.21 · 연결됨
 - `taste-calculator-foundations` ↔ `taste-calculator-adapter` · 0.20 · 연결됨
+- `taste-calculator-adapter` ↔ `taste-calculator-style-algebra` · 0.19 · 연결됨
 - `physical-cloud-reading-guide` ↔ `global-south-critical-reading-guide` · 0.19
+- `mathematical-theory-of-taste` ↔ `taste-calculator-style-algebra` · 0.17 · 연결됨
 - `todd-budapest-2025-reading` ↔ `todd-dislocation-threats-2025-reading` · 0.16 · 연결됨
 - `global-south-critical-reading-guide` ↔ `gpi-foreign-novels-2015-2025` · 0.16
 - `anne-carson-nobel-first-reactions` ↔ `physical-cloud-reading-guide` · 0.15
 - `taste-calculator-foundations` ↔ `mathematical-theory-of-taste` · 0.15 · 연결됨
 - `todd-dislocation-2026` ↔ `todd-dislocation-threats-2025-reading` · 0.15 · 연결됨
 - `great-depression-lived-experience-literature` ↔ `global-south-critical-reading-guide` · 0.15
-- `war-escalation-local-to-world` ↔ `world-crisis-historical-analogies` · 0.14 · 연결됨
-- `great-depression-lived-experience-literature` ↔ `gpi-foreign-novels-2015-2025` · 0.14
-- `venice-biennale-history` ↔ `venice-biennale-2026-critical-reception` · 0.14 · 연결됨
 
 ## 6. 보류 항목 (26)
 
@@ -270,10 +271,10 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
-- 긴 문서 (21): `wiki-building-history` 15,142자, `upbit-small-capital-trading-experiment` 14,973자, `taste-calculator-foundations` 14,884자, `ai-capital-labor-distribution` 13,156자, `great-depression-lived-experience-literature` 12,392자, `housing-busts-global-korea` 12,187자, `wiki-operations-pipeline` 12,147자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `living-orchestral-listening-journey` 10,782자, `book-translation-pipeline-local-llm` 10,701자, `starcraft-pluto-ai` 10,465자, `korea-dance-musical-tours` 10,337자, `wto-digital-transmission-moratorium` 10,289자, `ai-economic-transition` 10,205자, `great-northern-telegraph-east-asia` 10,147자, `where-novelty-comes-from` 10,125자, `satanic-panic-court-inquiries` 10,082자, `stalking-harm-and-autonomy` 10,033자
+- 긴 문서 (22): `wiki-building-history` 15,142자, `upbit-small-capital-trading-experiment` 14,973자, `taste-calculator-foundations` 14,884자, `taste-calculator-style-algebra` 14,757자, `ai-capital-labor-distribution` 13,156자, `great-depression-lived-experience-literature` 12,392자, `housing-busts-global-korea` 12,187자, `wiki-operations-pipeline` 12,147자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `living-orchestral-listening-journey` 10,782자, `book-translation-pipeline-local-llm` 10,701자, `starcraft-pluto-ai` 10,465자, `korea-dance-musical-tours` 10,337자, `wto-digital-transmission-moratorium` 10,289자, `ai-economic-transition` 10,205자, `great-northern-telegraph-east-asia` 10,147자, `where-novelty-comes-from` 10,125자, `satanic-panic-court-inquiries` 10,082자, `stalking-harm-and-autonomy` 10,033자
 - 짧은 문서 (2): `stump-and-dream-fragment` 861자, `deleuze-cartography-future` 1,291자
 
 ## 9. 분류 참고
 
-분류 26개: 음악 38, AI와 사회 36, 사회와 제도 28, 문화와 역사 25, 철학 16, 정치경제 12, 과학과 기술 10, 기술·지식 아카이브 7, 운영 5, 독서 문화 4, 문학 4, 자연과 과학 4, 영화 3, 문화 3, 생명과학 3, 철학·사상사 3, 정보와 미디어 3, 게임 3, 종합 2, 소설 2, 질문 1, 미분류 1, 언어 1, 창작 1, 철학·심리 1, AI의 글 1
+분류 26개: 음악 38, AI와 사회 36, 사회와 제도 28, 문화와 역사 25, 철학 17, 정치경제 12, 과학과 기술 10, 기술·지식 아카이브 7, 운영 5, 독서 문화 4, 문학 4, 자연과 과학 4, 영화 3, 문화 3, 생명과학 3, 철학·사상사 3, 정보와 미디어 3, 게임 3, 종합 2, 소설 2, 질문 1, 미분류 1, 언어 1, 창작 1, 철학·심리 1, AI의 글 1
 문서가 하나뿐인 분류 6개: 질문, 미분류, 언어, 창작, 철학·심리, AI의 글. 분류 체계 변경은 제안만 한다.

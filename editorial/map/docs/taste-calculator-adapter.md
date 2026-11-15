@@ -7,7 +7,7 @@
 - 요약: 서로 멀리 떨어진 완성품을 먼저 생성하고 개인별 미적 차원을 발견하는 첫 실험, 위키 명세와 이미지 생성 LLM 및 선택적 Python 계산층을 잇는 어댑터 입출력 계약.
 - 태그: 취향 계산기, 스타일, LLM 어댑터, 다양성 생성, 상층 중층 하층, 이미지 생성, 취향 지형, 데이터 계약, 실험 설계
 - 수정일: 2026-11-15 · 실제 증보일: 2026-11-15 · 검토: needs_review
-- 관련 문서: `taste-calculator-foundations`, `taste-slop-mass-production`, `mathematical-theory-of-taste`
+- 관련 문서: `taste-calculator-foundations`, `taste-slop-mass-production`, `mathematical-theory-of-taste`, `taste-calculator-style-algebra`
 
 ## 절 목차
 

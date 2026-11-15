@@ -307,6 +307,9 @@
 - **[수리취향학 0.1: 기록적 취향체의 기하학과 동역학](wiki/mathematical-theory-of-taste.md)** · 별칭: 수리취향학, 취향역학, 취향기하학, 기록적 취향체, Mathematical Theory of Taste · 수정: 2026-11-15 · 검토: 수학적 사고실험과 내부 전이 모형 초안 v0.1 · 외부 실증 미검증
   - 취향 상태를 미래 반응으로 구별되는 역사의 동치류로 정식화하고 두 작품 A·B의 전이, 비가환성, 관측 지평, 유도 계량과 곡률, 방향별 도달 비용과 세 번째 작품 C의 연구 과제를 설명한다.
   - [문서 페이지](https://belorin.github.io/notes/mathematical-theory-of-taste/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/mathematical-theory-of-taste.md)
+- **[취향 계산기의 스타일 대수: 생성 가능한 중층과 가상 취향체](wiki/taste-calculator-style-algebra.md)** · 별칭: 스타일 대수, 취향체 중층구조, Style Algebra, Taste Calculator Style Algebra, 생성 가능한 스타일 공간 · 수정: 2026-11-16 · 검토: 독립 설계 기초 논문 0.1 · 수학적 내부 예제 제시 · 실증 미검증
+  - 요소–스타일–객체의 잠정적 절단, 스타일 판정 함수와 생성 대수, 관찰·가능 동치, 가상 취향체의 독립적 선호와 식별 불가능성, 계산 가능한 작은 세계를 정식화한 후속 대화의 기준 문서.
+  - [문서 페이지](https://belorin.github.io/notes/taste-calculator-style-algebra/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/taste-calculator-style-algebra.md)
 
 ## 독서 문화
 

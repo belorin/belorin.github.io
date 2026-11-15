@@ -7,7 +7,7 @@
 - 요약: 완전 계산과 취향의 비불변성이라는 두 가정에서 출발해, 하층·중층·상층 스타일, 과포화, 취향 다양체 가설, 차원 발생, 내부 명제와 실험 설계를 정식화한 차기 대화용 기준 문서.
 - 태그: 취향 계산기, 스타일, 미학, 완전 계산, 다양체, 비선형, 과포화, 차이 생성, 동역학, 연구 설계
 - 수정일: 2026-11-15 · 실제 증보일: 2026-11-15 · 검토: needs_review
-- 관련 문서: `taste-slop-mass-production`, `human-authorship-creator-preference`, `music-books-supply-attention`, `ai-mediated-human-change`, `taste-calculator-adapter`, `mathematical-theory-of-taste`
+- 관련 문서: `taste-slop-mass-production`, `human-authorship-creator-preference`, `music-books-supply-attention`, `ai-mediated-human-change`, `taste-calculator-adapter`, `mathematical-theory-of-taste`, `taste-calculator-style-algebra`
 
 ## 절 목차
 

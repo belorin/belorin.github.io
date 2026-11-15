@@ -131,6 +131,7 @@
 - [취향 계산기: 미적 우주상수가 없는 세계의 형식 설계](https://belorin.github.io/notes/taste-calculator-foundations/): 완전 계산과 취향의 비불변성이라는 두 가정에서 출발해, 하층·중층·상층 스타일, 과포화, 취향 다양체 가설, 차원 발생, 내부 명제와 실험 설계를 정식화한 차기 대화용 기준 문서.
 - [취향 계산기 0.2: 생성형 취향 공간의 LLM 어댑터](https://belorin.github.io/notes/taste-calculator-adapter/): 서로 멀리 떨어진 완성품을 먼저 생성하고 개인별 미적 차원을 발견하는 첫 실험, 위키 명세와 이미지 생성 LLM 및 선택적 Python 계산층을 잇는 어댑터 입출력 계약.
 - [수리취향학 0.1: 기록적 취향체의 기하학과 동역학](https://belorin.github.io/notes/mathematical-theory-of-taste/): 취향 상태를 미래 반응으로 구별되는 역사의 동치류로 정식화하고 두 작품 A·B의 전이, 비가환성, 관측 지평, 유도 계량과 곡률, 방향별 도달 비용과 세 번째 작품 C의 연구 과제를 설명한다.
+- [취향 계산기의 스타일 대수: 생성 가능한 중층과 가상 취향체](https://belorin.github.io/notes/taste-calculator-style-algebra/): 요소–스타일–객체의 잠정적 절단, 스타일 판정 함수와 생성 대수, 관찰·가능 동치, 가상 취향체의 독립적 선호와 식별 불가능성, 계산 가능한 작은 세계를 정식화한 후속 대화의 기준 문서.
 
 ### 독서 문화
 
