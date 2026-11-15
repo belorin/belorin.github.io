@@ -156,6 +156,10 @@ visit('#state-hollowing-country-pilot');
 assert.equal((html().match(/<table>/g) || []).length, 2);
 assert.equal((html().match(/<tbody>/g) || []).length, 2);
 assert.equal((html().match(/<tr>/g) || []).length, 42);
+assert.match(html(), /<th scope="col" class="align-right">GPI<\/th>/);
+assert.match(html(), /<td class="align-right"><strong>18\.6<\/strong><\/td>/);
+assert.ok(!html().includes('| ---'), 'Table delimiter leaked into article');
+
 // The Taste Calculator adapter opens an embedded, fully local HTML experiment.
 assert.ok(fs.existsSync('taste-lab/index.html'), 'Taste lab standalone HTML is missing');
 const tasteLabSource = fs.readFileSync('taste-lab/index.html','utf8');
@@ -166,9 +170,7 @@ visit('#taste-calculator-adapter');
 assert.match(html(), /class="taste-lab-panel"/, 'Taste lab should be available in the adapter article');
 assert.match(html(), /<iframe src="\/taste-lab\/"[^>]*title="취향 실험실 0\.2"/);
 assert.match(html(), /실험실 전체 화면에서 열기/);
-assert.match(html(), /<th scope="col" class="align-right">GPI<\/th>/);
-assert.match(html(), /<td class="align-right"><strong>18\.6<\/strong><\/td>/);
-assert.ok(!html().includes('| ---'), 'Table delimiter leaked into article');
+
 
 const markdown = text => context.renderMarkdown(text, 'table-test').html;
 const table = markdown('앞 문단\n\n항목 | 수치 | 설명\n:--- | ---: | :---:\n**강조** | 42 | [링크](#all)\n빈 칸 | 7\n추가 칸 | 8 | `코드` | 무시\n\n## 다음 절\n- 목록');
