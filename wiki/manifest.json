@@ -7045,7 +7045,8 @@
         "human-authorship-creator-preference",
         "music-books-supply-attention",
         "ai-mediated-human-change",
-        "taste-calculator-adapter"
+        "taste-calculator-adapter",
+        "mathematical-theory-of-taste"
       ],
       "aliases": [
         "취향 계산기",
@@ -7081,13 +7082,53 @@
       "source": "내부 설계 기록 · 구현 및 실증 미검증",
       "related": [
         "taste-calculator-foundations",
-        "taste-slop-mass-production"
+        "taste-slop-mass-production",
+        "mathematical-theory-of-taste"
       ],
       "aliases": [
         "취향 계산기 어댑터",
         "Taste Calculator Adapter",
         "취향월드 실험 설계",
         "Taste Calculator 0.2"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-15"
+    },
+    {
+      "id": "mathematical-theory-of-taste",
+      "path": "wiki/mathematical-theory-of-taste.md",
+      "publish": true,
+      "order": 215,
+      "title": "수리취향학 0.1: 기록적 취향체의 기하학과 동역학",
+      "category": "철학",
+      "status": "수학적 사고실험과 내부 전이 모형 초안 v0.1 · 외부 실증 미검증",
+      "updated": "2026-11-15",
+      "summary": "취향 상태를 미래 반응으로 구별되는 역사의 동치류로 정식화하고 두 작품 A·B의 전이, 비가환성, 관측 지평, 유도 계량과 곡률, 방향별 도달 비용과 세 번째 작품 C의 연구 과제를 설명한다.",
+      "tags": [
+        "수리취향학",
+        "취향역학",
+        "취향기하학",
+        "취향체",
+        "기록적 존재",
+        "의사거리",
+        "계량 텐서",
+        "이력현상",
+        "비가환성",
+        "도달 가능성",
+        "동역학",
+        "취향 계산기"
+      ],
+      "source": "내부 총합·수학적 구성·외부 실증 미검증",
+      "related": [
+        "taste-calculator-foundations",
+        "taste-calculator-adapter"
+      ],
+      "aliases": [
+        "수리취향학",
+        "취향역학",
+        "취향기하학",
+        "기록적 취향체",
+        "Mathematical Theory of Taste"
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-11-15"
