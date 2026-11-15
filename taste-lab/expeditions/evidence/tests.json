@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-16",
+  "checks": [
+    "Exact wiki AB and BA counterexample",
+    "Current equal response, different future record",
+    "C adds reachability, never removes AB paths",
+    "Object transformations really depend on order",
+    "Minimum feature distance improved on 30/30 seeds (not human judgment)",
+    "Deterministic generation across 30 seeds; diversity compared to baseline",
+    "Algebra v1 DOM generation, notes, branching, exports",
+    "Algebra v2 DOM generation, notes, branching, exports",
+    "Algebra v3 DOM generation, notes, branching, exports",
+    "History v1 identical probe, complete run, paired order and export",
+    "History v2 identical probe, complete run, paired order and export"
+  ],
+  "passed": true,
+  "scope": "Node exact model + jsdom interactions; no browser layout assertion"
+}
