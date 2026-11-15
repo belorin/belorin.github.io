@@ -14,6 +14,18 @@
 
 **직접 경험하기:** [취향 실험실 0.2 — 브라우저에서 실행](https://belorin.github.io/taste-lab/). 위키의 이 문서를 열면 접어 놓은 실험판을 본문에서 펼칠 수 있다. 현재의 실행판은 10가지 SVG 양식으로 포스터를 만들며, 사용자의 반응에 따른 다음 생성과 두 모형의 **사전 예측·감상 후 대조**를 시험한다. 작품과 반응 기록은 사용 중인 브라우저에 보존되며 JSON으로 내보낼 수 있다. 완성형 이미지 생성 LLM과의 직접 연결은 이후 단계다.
 
+### 원본과 파생 실험: 무엇을 경험하게 하려 했는가
+
+[원본 취향 실험실 0.2](https://belorin.github.io/taste-lab/)는 서로 다른 완성품을 먼저 펼치고, 자유로운 반응을 다음 생성에 연결하기 위해 만들었다. 취향을 묻는 설문부터 시작하면 아직 본 적 없는 작품을 좋아할 가능성이 빠진다. 첫 전시를 앞세운 이유다. 현재 구현은 미리 정의한 10가지 SVG 양식에서 작품을 만들고 두 예측 모형을 비교한다. 새로운 미적 체제 자체를 발명하는 생성기는 아직 갖추지 못했다.
+
+[파생 실험의 탐험 지도 — 다섯 판본을 포함한 HTML](https://github.com/belorin/belorin.github.io/blob/81fcef3c9f895c792d508b48fe88ac6bc3bd693e/taste-lab/expeditions/index.html)은 생성 연산과 경험의 순서를 직접 다뤄보기 위해 만들었다. 최종판만 남기면 선택의 편향이나 잘못된 실험 조건이 사라지므로, 초기판과 수정판을 각각 보존했다. **이 링크는 GitHub 파일이며 공개 실행 페이지가 아니다.** 파일 화면에서 원본을 내려받아 HTML로 저장한 뒤 브라우저에서 열면 다섯 판본을 전환할 수 있다. 원본 실험실은 그대로 유지한다.
+
+**「아직 없었던 정원」**은 정해진 양식을 선택하는 단계에서 한 걸음 더 나아가, 조형 요소의 관계를 변형하는 연산으로 작품을 만들려는 시도다. 접고, 회전시키고, 파열시키고, 엮는 순서를 바꿔 같은 씨앗에서 다른 구성을 만든다. 첫 판본의 후보 선택은 열거 순서에 치우쳤고, 다음 판본에서는 형식적으로 먼 후보를 골랐다. 그러나 모두 같은 기하적 포스터 체제에 머물렀다. 생성 문법의 작동은 보였지만, 처음 목표였던 이질적인 완성품의 발견을 충분히 경험하게 하지는 못했다. [A1](https://github.com/belorin/belorin.github.io/blob/81fcef3c9f895c792d508b48fe88ac6bc3bd693e/taste-lab/expeditions/versions/algebra-v1.html) · [A2](https://github.com/belorin/belorin.github.io/blob/81fcef3c9f895c792d508b48fe88ac6bc3bd693e/taste-lab/expeditions/versions/algebra-v2.html) · [A3](https://github.com/belorin/belorin.github.io/blob/81fcef3c9f895c792d508b48fe88ac6bc3bd693e/taste-lab/expeditions/versions/algebra-v3.html).
+
+**「같은 작품, 다른 도착」**은 작품 목록이 같아도 경험 순서와 기록에 따라 다음 반응이 달라질 수 있다는 수리취향학의 문제를 감상 절차로 옮기려는 시도다. 기준작을 본 뒤 A와 B를 지나 같은 기준작으로 돌아와 인상을 남긴다. 수정판은 동일한 작품을 AB와 BA 순서로 제공하며, 별도 계산 패널에서 가상 상태의 전이를 보여준다. 다만 감상 기록과 전이 모형 사이에는 아직 추정·검증의 연결이 없다. 화면의 작품이 실제로 그 전이를 일으킨다는 근거도 없다. 체험 부분과 수학 예제를 나란히 배치한 단계에 머물렀다. [H1](https://github.com/belorin/belorin.github.io/blob/81fcef3c9f895c792d508b48fe88ac6bc3bd693e/taste-lab/expeditions/versions/history-v1.html) · [H2](https://github.com/belorin/belorin.github.io/blob/81fcef3c9f895c792d508b48fe88ac6bc3bd693e/taste-lab/expeditions/versions/history-v2.html).
+
+파생 실험의 보존 목적은 성공한 구현의 전시보다 **어떤 질문을 실행하려 했고, 구현이 그 질문의 어디에 못 미쳤는지 확인할 수 있게 하는 것**이다. [짧은 관찰 기록](https://github.com/belorin/belorin.github.io/blob/81fcef3c9f895c792d508b48fe88ac6bc3bd693e/taste-lab/expeditions/OBSERVATIONS.md)에는 후보 선택 편향, 순서와 작품 변화의 혼입, 재귀 분기의 자원 문제를 남겼다. 수학 계산과 DOM 동작을 검사하고 SVG를 렌더링했으나, 실제 브라우저와 모바일 동작은 확인하지 못했다.
+
 ## 1. 먼저 완성품을, 다음에 취향의 차원을
 
 최초 구상은 작은 그림을 보여주고 사용자가 도형을 수정하거나 색상을 바꾸며 발생하는 선택을 관찰하는 도구였다. 그러나 이 방식은 너무 빨리 **정해진 요소 안에서 점진적으로 편집하는 작업**으로 수렴한다. 생성기 자신이 놀라운 미적 체제를 발견하는 문제를 뒤로 미룬다.

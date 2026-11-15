@@ -1,0 +1,45 @@
+{
+  "id": "ing-20261116-taste-experiment-rationales",
+  "processed_on": "2026-11-16",
+  "coverage": "visible-complete",
+  "limit_note": "기존 명세와 보존된 구현의 목적·링크·한계에 대한 국소 편집. 외부 조사 없음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "other",
+      "title": "원본과 파생 실험의 제작 목적과 구현 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-calculator-adapter",
+          "section": "원본과 파생 실험: 무엇을 경험하게 하려 했는가"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "other",
+      "title": "객체 변형 합성을 위한 생성 실험의 범위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "taste-calculator-style-algebra",
+          "section": "생성 연산을 눈으로 확인하기 위한 구현"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "other",
+      "title": "경험 순서와 C 전이의 실행 예제 및 감상과의 간극",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mathematical-theory-of-taste",
+          "section": "순서와 C의 역할을 실행해 보는 실험"
+        }
+      ]
+    }
+  ]
+}
