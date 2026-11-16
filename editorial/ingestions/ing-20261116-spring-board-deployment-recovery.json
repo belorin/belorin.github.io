@@ -1,0 +1,161 @@
+{
+  "id": "ing-20261116-spring-board-deployment-recovery",
+  "processed_on": "2026-11-16",
+  "coverage": "visible-complete",
+  "limit_note": "접근 가능한 개발·배포·복구 범위를 대조했다. 원격 서비스 등록·공개 연결·MCP 인증 쓰기는 최종 결과 미확인이다. 사적 환경 식별 정보는 일반화했다.",
+  "withheld_count": 1,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "최소 Java 개발 환경과 캐시 사용량",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "spring-board-deployment-paths-and-recovery",
+          "section": "작은 기능부터 시작한 개발 환경"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "Spring 게시판과 관리자 기능의 구현·13개 테스트",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "spring-board-deployment-paths-and-recovery",
+          "section": "구현한 기능과 검증의 범위"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "JAR 아카이브 실행과 데이터 파일 생성의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "spring-board-deployment-paths-and-recovery",
+          "section": "JAR 실행과 데이터 생성은 다른 일이다"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "example",
+      "title": "동일 URL과 포트에서 상대 DB 경로가 바뀌는 계정 혼선",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "spring-board-deployment-paths-and-recovery",
+          "section": "같은 URL인데 계정이 달라진 이유"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "fact",
+      "title": "DB 식별·백업·권한과 비밀번호 해시 복구·절대 경로 고정",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "spring-board-deployment-paths-and-recovery",
+          "section": "원래 데이터를 보존하며 로그인과 권한을 복구한다"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "concept",
+      "title": "Spring 서버 프로세스와 SSH 전달 통로의 역할",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "spring-board-deployment-paths-and-recovery",
+          "section": "SSH 터널: 서버와 접속 통로를 따로 이해하기"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "concept",
+      "title": "서비스 실행·부팅 등록·공개 도메인 연결의 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "spring-board-deployment-paths-and-recovery",
+          "section": "systemd와 기존 홈페이지를 보존하는 공개 연결"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "counterargument",
+      "title": "기존 홈페이지 루트 교체 대신 별도 게시판 호스트 검토",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "spring-board-deployment-paths-and-recovery",
+          "section": "systemd와 기존 홈페이지를 보존하는 공개 연결"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "question",
+      "title": "로그인 중 403의 CSRF와 관리자 권한 가설",
+      "status": "pending",
+      "targets": [],
+      "reason": "403 발생 URL과 해당 요청의 로그가 없어 원인이 확정되지 않았다."
+    },
+    {
+      "id": "k10",
+      "kind": "concept",
+      "title": "Auth0 인증 제공과 MCP 토큰·소유권 검증의 책임 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "raspberry-lab-mcp-integration-log",
+          "section": "Auth0만 연결하면 메모를 남길 수 있는가"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "concept",
+      "title": "사용자 공유 메모와 개체별 기억·자동 대화 보존의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "spring-board-deployment-paths-and-recovery",
+          "section": "메모를 남기는 AI에 Spring 게시판이 꼭 필요한가"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "fact",
+      "title": "장기 Spring 설계와 최소 JDBC H2 구현의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "raspberry-pi-spring-python-public-lab",
+          "section": "첫 구현에서 선택한 최소 구성"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "fact",
+      "title": "시험 실행 완료와 서비스·공개·MCP 쓰기 미확인 경계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "spring-board-deployment-paths-and-recovery",
+          "section": "확인된 결과와 남은 일"
+        }
+      ]
+    }
+  ]
+}

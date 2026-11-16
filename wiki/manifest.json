@@ -7183,9 +7183,9 @@
       "order": 217,
       "title": "라즈베리 파이 공개 개발 실험실: Spring Boot·Python·AI 참여형 웹서비스",
       "category": "과학과 기술",
-      "status": "독립 개발 목표 · Spring 게시판 미구현 / 별도 Raspberry Lab MCP 읽기 연결 성공",
+      "status": "독립 개발 목표 · Spring 게시판 미구현 / 별도 Raspberry Lab MCP 읽기 연결 성공 (초기 상태; 후속 최소 게시판 구현·시험 실행 완료, 공개 배포 검증 전)",
       "updated": "2026-11-16",
-      "summary": "라즈베리 파이에서 Spring Boot 게시판·관리자와 Python 실험 기능을 단계적으로 배포하고, 개체별 비공개 중기 메모·인증된 AI 글쓰기를 선택적으로 연결하는 공개 개발 실험실 목표.",
+      "summary": "라즈베리 파이에서 Spring Boot 게시판·관리자와 Python 실험 기능을 단계적으로 배포하고, 개체별 비공개 중기 메모·인증된 AI 글쓰기를 선택적으로 연결하는 공개 개발 실험실 목표. 최소 Spring 게시판의 구현·시험 실행과 JDBC/H2 선택을 장기 목표와 구분한다.",
       "tags": [
         "라즈베리 파이",
         "Spring Boot",
@@ -7212,7 +7212,8 @@
         "operations-data-ai-copilot-portfolio",
         "edge-vision-event-monitor-portfolio",
         "rhizomatic-agent-commons",
-        "raspberry-lab-mcp-integration-log"
+        "raspberry-lab-mcp-integration-log",
+        "spring-board-deployment-paths-and-recovery"
       ],
       "aliases": [
         "라즈베리 파이 개발 목표",
@@ -7232,7 +7233,7 @@
       "category": "과학과 기술",
       "status": "기술 일지 · ChatGPT MCP hello 검증 / OAuth 메모 쓰기 미검증",
       "updated": "2026-11-16",
-      "summary": "Raspberry Lab의 REST·SQLite·MCP 구현과 배포 검증, 공개 HTTPS 첫 오류, Plugin Maker를 통한 Rassvery 연결 성공 및 OAuth 인증 과제를 정리한 개발 기록.",
+      "summary": "Raspberry Lab의 REST·SQLite·MCP 구현과 배포 검증, 공개 HTTPS 첫 오류, Plugin Maker를 통한 Rassvery 연결 성공 및 OAuth 인증 과제를 정리한 개발 기록. Auth0·토큰 검증·소유권의 역할과 후속 Spring 구현 상태를 구분한다.",
       "tags": [
         "라즈베리 파이",
         "기술 일지",
@@ -7250,13 +7251,49 @@
       ],
       "source": "내부 기술 진행 기록·배포 및 MCP 호출 결과에 대한 보고·일부 상세 실행 환경 독립 미검증",
       "related": [
-        "raspberry-pi-spring-python-public-lab"
+        "raspberry-pi-spring-python-public-lab",
+        "spring-board-deployment-paths-and-recovery"
       ],
       "aliases": [
         "Raspberry Lab 개발 일지",
         "Rassvery MCP 연결 기록",
         "라즈베리파이 AI 서버 기술 일지",
         "Raspberry Lab MCP Integration Log"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-16"
+    },
+    {
+      "id": "spring-board-deployment-paths-and-recovery",
+      "path": "wiki/spring-board-deployment-paths-and-recovery.md",
+      "publish": true,
+      "order": 219,
+      "title": "작은 Spring 게시판의 첫 배포: JAR, DB 경로, SSH 터널과 관리자 복구",
+      "category": "과학과 기술",
+      "status": "최소 구현·시험 실행·DB 복구 확인 / 서비스 등록·공개 연결·MCP 쓰기 검증 미완료",
+      "updated": "2026-11-16",
+      "summary": "Mac의 Java 21 최소 개발 환경과 Spring 게시판·관리자 구현, 라즈베리 JAR 실행·SSH 터널, 상대 DB 경로로 발생한 계정 혼선과 복구, 서비스 등록과 기존 홈페이지 보존의 경계를 설명한다.",
+      "tags": [
+        "Spring Boot",
+        "Java 21",
+        "H2",
+        "상대 경로",
+        "DB 복구",
+        "SSH 터널",
+        "systemd",
+        "라즈베리 파이",
+        "관리자 권한",
+        "Auth0"
+      ],
+      "source": "내부 총합·구현 테스트 및 제공된 실행 출력 대조·원격 전체 환경 독립 미검증",
+      "related": [
+        "raspberry-pi-spring-python-public-lab",
+        "raspberry-lab-mcp-integration-log"
+      ],
+      "aliases": [
+        "Spring 게시판 첫 배포",
+        "JAR 실행 위치와 H2 DB",
+        "라즈베리 게시판 DB 경로 복구"
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-11-16"
