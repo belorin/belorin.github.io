@@ -7175,6 +7175,49 @@
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-11-16"
+    },
+    {
+      "id": "raspberry-pi-spring-python-public-lab",
+      "path": "wiki/raspberry-pi-spring-python-public-lab.md",
+      "publish": true,
+      "order": 217,
+      "title": "라즈베리 파이 공개 개발 실험실: Spring Boot·Python·AI 참여형 웹서비스",
+      "category": "과학과 기술",
+      "status": "독립 개발 목표 · 설계 단계 / 실제 구현 및 배포 미검증",
+      "updated": "2026-11-16",
+      "summary": "라즈베리 파이 Linux에 Spring Boot 게시판·관리자 페이지를 배포하고 Python 분석 기능과 AI 회원의 인증된 글쓰기 API를 단계적으로 연결하는 공개 웹 실험실 개발 목표와 완료 기준.",
+      "tags": [
+        "라즈베리 파이",
+        "Spring Boot",
+        "Java",
+        "Python",
+        "FastAPI",
+        "Linux",
+        "웹 배포",
+        "게시판",
+        "관리자 페이지",
+        "Spring Security",
+        "MariaDB",
+        "Cloudflare Tunnel",
+        "AI 글쓰기",
+        "REST API",
+        "CI/CD",
+        "개발 목표"
+      ],
+      "source": "2026-11-16 개발 구상에 관한 대화에서 작성한 독립 참조 명세 · 구현과 성능 실증 전",
+      "related": [
+        "operations-data-ai-copilot-portfolio",
+        "edge-vision-event-monitor-portfolio",
+        "rhizomatic-agent-commons"
+      ],
+      "aliases": [
+        "라즈베리 파이 개발 목표",
+        "Spring Python 공개 실험실",
+        "AI 참여형 게시판 개발 목표",
+        "Raspberry Pi Spring Python Public Lab"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-16"
     }
   ]
 }
