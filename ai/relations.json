@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 788,
+  "edge_count": 792,
   "edges": [
     {
       "from": "living-notes",
@@ -4458,8 +4458,32 @@
       "basis": "manifest.related"
     },
     {
+      "from": "raspberry-pi-spring-python-public-lab",
+      "to": "spring-board-deployment-paths-and-recovery",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "raspberry-lab-mcp-integration-log",
       "to": "raspberry-pi-spring-python-public-lab",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "raspberry-lab-mcp-integration-log",
+      "to": "spring-board-deployment-paths-and-recovery",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "spring-board-deployment-paths-and-recovery",
+      "to": "raspberry-pi-spring-python-public-lab",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "spring-board-deployment-paths-and-recovery",
+      "to": "raspberry-lab-mcp-integration-log",
       "type": "related_to",
       "basis": "manifest.related"
     },

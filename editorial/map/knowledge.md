@@ -3,9 +3,9 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1403개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1416개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
-## 보류 항목 (26)
+## 보류 항목 (27)
 
 - 경제 시뮬레이션의 기존 전제·수치·학파별 논증 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 해당 원자료를 확인하지 못해 기존 논증의 복원과 완전 보존 여부를 판정할 수 없음. 새 공개 자료의 보충 분석으로 대체 완료 처리하지 않음.
 - 기존 종합·수정 원고의 상세 내용 대조 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 본문이 아닌 참조 표시만 확인되어 기존 원고의 세부와 현재 증보 사이의 중복·차이를 검수할 수 없음.
@@ -33,6 +33,7 @@
 - 비엔날레 관객상 결과와 폐막 프로그램의 실제 성과 → 반영 위치 없음 · `ing-20261110-autumn-other-followups` · pending — 기준일인 2026-11-10 이후의 투표·행사 결과는 아직 이 조사에서 확정할 수 없다.
 - 조류 논문 상세 방법과 기존 참새 분류의 원문 대조 → 반영 위치 없음 · `ing-20261110-autumn-other-followups` · pending — 최근 두 연구는 공개 초록·서지와 대학 발표 범위로 확인했다. 본문의 세부 통제·효과 크기와 기존 한국 참새 자료의 재검증은 남아 있다.
 - 저작권 보호 원문의 전체 한국어 번역 재게재 → 반영 위치 없음 · `ing-20261115-todd-dislocation` · pending — 전체 전문 번역 재게재는 저작권상 진행하지 않고, 원문 연결과 독립적 한국어 상세 해설로 대체
+- 로그인 중 403의 CSRF와 관리자 권한 가설 → 반영 위치 없음 · `ing-20261116-spring-board-deployment-recovery` · pending — 403 발생 URL과 해당 요청의 로그가 없어 원인이 확정되지 않았다.
 
 ## AI와 사회 (267)
 
@@ -783,6 +784,112 @@
 - TESTIFY!의 10월 지역별 공연 안내와 재연 추적 → `orchestra-repertoire-repeat-performance-autumn-2026` § 초연 뒤 네 악단을 더 연결하는 방식 · `ing-20261110-autumn-other-followups`
 - 초연 이후 작품 생애와 컨소시엄 밖 재연을 추적하는 지표 제안 → `orchestra-repertoire-repeat-performance-autumn-2026` § 다음 통계는 작품의 생애를 세어야 한다 · `ing-20261110-autumn-other-followups`
 
+## 과학과 기술 (101)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 복사냉각과 프라이팬 사고실험 → `space-data-center-thermal-economics` § 프라이팬 사고실험: 검은 표면과 광택 금속의 차이 · `ing-20261030-space-datacenters-orbital-commons`
+- ISS의 액체회로와 라디에이터 → `space-data-center-thermal-economics` § 국제우주정거장의 실물 해법 · `ing-20261030-space-datacenters-orbital-commons`
+- 구글 선캐처의 열관리 구상 → `space-data-center-thermal-economics` § 구글 Project Suncatcher가 제시한 것과 아직 제시하지 않은 것 · `ing-20261030-space-datacenters-orbital-commons`
+- 5GW 우주 데이터센터의 방열 규모 → `space-data-center-thermal-economics` § 5GW 열부하의 규모를 계산하다 · `ing-20261030-space-datacenters-orbital-commons`
+- 우주 연산의 경제성과 전략 가설 → `space-data-center-thermal-economics` § 왜 지상이 아니라 우주인가: 비용과 전략의 서로 다른 주장 · `ing-20261030-space-datacenters-orbital-commons`
+- 기업 우주자산의 소유와 국가책임 → `space-assets-law-debris-kessler` § 소유국·등록국·발사국을 혼동하지 말 것 · `ing-20261030-space-datacenters-orbital-commons`
+- 코스모스 954 국제배상 → `space-assets-law-debris-kessler` § 실제 금전배상: 코스모스 954 · `ing-20261030-space-datacenters-orbital-commons`
+- 위성 충돌과 회피 비용 → `space-assets-law-debris-kessler` § 실제 충돌과 배상 없는 위험의 분배 · `ing-20261030-space-datacenters-orbital-commons`
+- 전파간섭과 위성 재진입 분쟁 → `space-assets-law-debris-kessler` § 전파와 항법: 위성을 부수지 않는 분쟁 · `ing-20261030-space-datacenters-orbital-commons`
+- 위성 파괴 실험과 근접 기동 → `space-assets-law-debris-kessler` § 고의적 위성 파괴와 근접 기동의 외교 · `ing-20261030-space-datacenters-orbital-commons`
+- 케슬러 증후군의 고도별 위험 → `space-assets-law-debris-kessler` § 케슬러 증후군은 어느 날의 폭발이 아니다 · `ing-20261030-space-datacenters-orbital-commons`
+- 스타링크 대량 발사와 규제 → `space-assets-law-debris-kessler` § 스타링크의 대량 발사와 미국 규제의 문제 · `ing-20261030-space-datacenters-orbital-commons`
+- 기업과 국가의 우주자산 통제 갈등 → `space-assets-law-debris-kessler` § 기업과 국가가 충돌한다면 · `ing-20261030-space-datacenters-orbital-commons`
+- 한국형 피지컬 AI 기술 분업 → `physical-ai-world-model-quantum-optimization` § 제조 현장의 숙련은 어떻게 모델이 되는가 · `ing-20261030-physical-ai-quantum-business`
+- 제조 셀의 시뮬레이션 현실 간극 → `physical-ai-world-model-quantum-optimization` § 공장이라는 반례: 같은 부품도 같지 않다 · `ing-20261030-physical-ai-quantum-business`
+- 양자 중첩과 조합최적화의 구분 → `physical-ai-world-model-quantum-optimization` § 수만 가지 가능성을 한 번에 검사한다는 직관 · `ing-20261030-physical-ai-quantum-business`
+- WFM과 양자 솔버의 분업 → `physical-ai-world-model-quantum-optimization` § 어디에 양자 계산을 넣을 것인가 · `ing-20261030-physical-ai-quantum-business`
+- 양자 신경망 레이어 압축의 한계 → `physical-ai-world-model-quantum-optimization` § 인공신경망 레이어를 양자로 압축할 수 있는가 · `ing-20261030-physical-ai-quantum-business`
+- 개인 개발자의 제조 의사결정 엔진 → `manufacturing-optimization-solo-business` § 거대한 모델이 아니라 결정의 병목을 판다 · `ing-20261030-physical-ai-quantum-business`
+- 제조 솔버의 재사용 가능한 구성 → `manufacturing-optimization-solo-business` § 재사용 가능한 핵심 설계 · `ing-20261030-physical-ai-quantum-business`
+- 에이전트 선계산 자산 파이프라인 → `manufacturing-optimization-solo-business` § 에이전트가 밤마다 축적할 수 있는 자산 · `ing-20261030-physical-ai-quantum-business`
+- 양자 클라우드 접근 플랫폼 → `manufacturing-optimization-solo-business` § 양자 클라우드의 선택 · `ing-20261030-physical-ai-quantum-business`
+- 고객 실증과 양자 우위 검증 → `manufacturing-optimization-solo-business` § 첫 고객 이전에 필요한 증거 · `ing-20261030-physical-ai-quantum-business`
+- 산악 송전선 가공·지중 비용 구조 → `mountain-powerline-undergrounding-economics` § 한국 345kV 비교의 출발점과 산술 · `ing-20261102-wildfire-powerlines-liability`
+- 345kV 10km 비용 차이의 단순 환산 → `mountain-powerline-undergrounding-economics` § 한국 345kV 비교의 출발점과 산술 · `ing-20261102-wildfire-powerlines-liability`
+- 경인권과 광양–여수 전력구 비용 비교의 한계 → `mountain-powerline-undergrounding-economics` § 한국 345kV 비교의 출발점과 산술 · `ing-20261102-wildfire-powerlines-liability`
+- 산악 지중화 공법과 노선 길이 → `mountain-powerline-undergrounding-economics` § 산을 관통한다는 말의 두 뜻 · `ing-20261102-wildfire-powerlines-liability`
+- 지중화와 가공선 보강 패키지의 비교 → `mountain-powerline-undergrounding-economics` § 비교 대상은 '지중화 대 방치'가 아니다 · `ing-20261102-wildfire-powerlines-liability`
+- 연간 기대손실과 꼬리위험 → `mountain-powerline-undergrounding-economics` § '한 번의 대형 산불'을 연간 기대손실로 바꾸기 · `ing-20261102-wildfire-powerlines-liability`
+- 한전 재무비용과 사회적 비용의 구별 → `mountain-powerline-undergrounding-economics` § 사적 비용과 사회적 비용이라는 두 장부 · `ing-20261102-wildfire-powerlines-liability`
+- 산불 위험 지중화 순현재가치 설계 → `mountain-powerline-undergrounding-economics` § 30~50년 순현재가치 비교의 설계 · `ing-20261102-wildfire-powerlines-liability`
+- 엣지 영상 감지 포트폴리오의 입력·추론·규칙·기록 분업 → `edge-vision-event-monitor-portfolio` § 가장 작은 데모의 목표: 사람 탐지에서 사건 기록까지 · `ing-20261102-local-novel-edge-portfolio`
+- 이상행동 인식과 ROI 규칙 이벤트 판정의 차이 → `edge-vision-event-monitor-portfolio` § 가장 작은 데모의 목표: 사람 탐지에서 사건 기록까지 · `ing-20261102-local-novel-edge-portfolio`
+- 영상 이벤트 데모 화면과 FPS 지표의 정의 → `edge-vision-event-monitor-portfolio` § 하나의 화면에 드러나야 할 것 · `ing-20261102-local-novel-edge-portfolio`
+- Python OpenCV YOLO ONNX 웹 서비스 및 저장 계층 선택 → `edge-vision-event-monitor-portfolio` § 추천한 구현 경로와 각 도구의 역할 · `ing-20261102-local-novel-edge-portfolio`
+- 엣지 배포 성능의 속도·정확도·메모리 비교 기준 → `edge-vision-event-monitor-portfolio` § 온디바이스·엣지 최적화는 이름이 아니라 측정이다 · `ing-20261102-local-novel-edge-portfolio`
+- 카메라 이벤트와 MQTT 센서·설비 신호의 복합 판정 → `edge-vision-event-monitor-portfolio` § 카메라와 센서를 합치면 독립적인 포트폴리오가 된다 · `ing-20261102-local-novel-edge-portfolio`
+- 객체 검출 오류와 사건 규칙 오류를 분리하는 평가 → `edge-vision-event-monitor-portfolio` § 데이터 전처리와 평가: 무엇이 모델의 실패인가 · `ing-20261102-local-novel-edge-portfolio`
+- 현장형 영상 AI 시연과 기술 문서·재현 기록 → `edge-vision-event-monitor-portfolio` § 문서가 데모를 완성한다 · `ing-20261102-local-novel-edge-portfolio`
+- 발전 설비용량 GW와 연간 발전·소비 TWh의 구분 → `world-electricity-capacity-generation-consumption` § GW와 TWh: 발전능력과 발전량은 왜 다른가 · `ing-20261102-world-electricity-capacity`
+- 1GW 연속 1년 가동 시 8.76TWh 산술 환산 → `world-electricity-capacity-generation-consumption` § GW와 TWh: 발전능력과 발전량은 왜 다른가 · `ing-20261102-world-electricity-capacity`
+- 세계 발전설비 9.4~9.8TW와 연간 전력 생산·수요 개략 합계 → `world-electricity-capacity-generation-consumption` § 세계 전체의 눈금 · `ing-20261102-world-electricity-capacity`
+- 주요 25개국 발전설비 생산량 소비량 비교 표 → `world-electricity-capacity-generation-consumption` § 주요 25개 국가의 설비·생산·소비 비교 · `ing-20261102-world-electricity-capacity`
+- 중국 미국 인도의 전력 규모와 소비 집중도 → `world-electricity-capacity-generation-consumption` § 어떤 나라가 세계 전력의 큰 몫을 차지하는가 · `ing-20261102-world-electricity-capacity`
+- 비슷한 설비용량의 국가별 생산량 차이 → `world-electricity-capacity-generation-consumption` § 비슷한 GW라도 TWh가 다른 이유 · `ing-20261102-world-electricity-capacity`
+- 발전량과 수요의 차이를 순수출로 등치할 수 없는 이유 → `world-electricity-capacity-generation-consumption` § 생산국과 소비국, 전력 수출입의 해석 · `ing-20261102-world-electricity-capacity`
+- 국가 전력 GW와 데이터센터 전력 GW의 비교 분모 구별 → `world-electricity-capacity-generation-consumption` § 무엇을 더 확인해야 정밀 비교가 되는가; `data-center-world-capacity` § 먼저 세 개의 세계 규모를 구별한다 · `ing-20261102-world-electricity-capacity`
+- 연구형 AI와 응용형 AI 포트폴리오의 구분과 현업 경력의 활용 → `operations-data-ai-copilot-portfolio` § 어떤 AI 엔지니어링을 증명할 것인가 · `ing-20261103-operations-ai-copilot-portfolio`
+- 운영 비서·ERP 자연어 질의·현장 장애 대응 코파일럿의 세 경로 → `operations-data-ai-copilot-portfolio` § 어떤 AI 엔지니어링을 증명할 것인가 · `ing-20261103-operations-ai-copilot-portfolio`
+- 만들고 싶은 문제와 채용 검증 가능성의 균형 → `operations-data-ai-copilot-portfolio` § 어떤 AI 엔지니어링을 증명할 것인가 · `ing-20261103-operations-ai-copilot-portfolio`
+- 대시보드·자연어 채팅·근거 패널의 세 화면 → `operations-data-ai-copilot-portfolio` § 최소 제품의 세 화면: 지표, 질문, 근거 · `ing-20261103-operations-ai-copilot-portfolio`
+- 라인 가동률·납기 지연·설비 위험도 분석의 데모 질문과 근거 → `operations-data-ai-copilot-portfolio` § 최소 제품의 세 화면: 지표, 질문, 근거 · `ing-20261103-operations-ai-copilot-portfolio`
+- 제조 물류 합성 DB 스키마와 일관된 사건 생성 규칙 → `operations-data-ai-copilot-portfolio` § 대량의 더미 데이터보다 중요한 것은 생성 규칙이다 · `ing-20261103-operations-ai-copilot-portfolio`
+- 무제한 SQL 대신 구조화된 조회 도구와 읽기 전용 실행 경계 → `operations-data-ai-copilot-portfolio` § AI가 SQL을 함부로 실행하지 않도록 분리한다 · `ing-20261103-operations-ai-copilot-portfolio`
+- 문서 RAG와 정형 데이터 집계의 역할 분리 및 단계적 확장 → `operations-data-ai-copilot-portfolio` § AI가 SQL을 함부로 실행하지 않도록 분리한다 · `ing-20261103-operations-ai-copilot-portfolio`
+- 자연어 DB 분석의 평가셋·관측·실패 분류 → `operations-data-ai-copilot-portfolio` § 평가·관측·실패의 표기 · `ing-20261103-operations-ai-copilot-portfolio`
+- Vercel Supabase Neon Cloudflare D1 Render 무료 배포 선택지 → `operations-data-ai-copilot-portfolio` § 공개 배포: 무료 웹과 과금되는 추론을 구별한다 · `ing-20261103-operations-ai-copilot-portfolio`
+- AI API 과금과 공개 데모 호출 제한 및 현행 요금 재검증 → `operations-data-ai-copilot-portfolio` § 공개 배포: 무료 웹과 과금되는 추론을 구별한다 · `ing-20261103-operations-ai-copilot-portfolio`
+- 최소 구현 범위와 단계별 3주 개발 순서 → `operations-data-ai-copilot-portfolio` § 범위는 작게, 보여 주는 증거는 충분히 · `ing-20261103-operations-ai-copilot-portfolio`
+- README 평가 결과와 데모 영상으로 구현 증거 구성 → `operations-data-ai-copilot-portfolio` § 범위는 작게, 보여 주는 증거는 충분히 · `ing-20261103-operations-ai-copilot-portfolio`
+- 영상 이벤트형과 운영 데이터 설명형 포트폴리오의 성능 검증 차이 → `edge-vision-event-monitor-portfolio` § 데이터 설명형 코파일럿과의 비교 · `ing-20261103-operations-ai-copilot-portfolio`
+- 운영 데이터 설명형 시스템과 제조 최적화 의사결정 시스템의 구분 → `manufacturing-optimization-solo-business` § 운영 데이터를 설명하는 단계와 최적화하는 단계 · `ing-20261103-operations-ai-copilot-portfolio`
+- X 자동번역 롤아웃의 공개 범위와 내부 설계 미확인 → `x-auto-translation-serving-cost` § 무엇이 공식적으로 알려졌고 무엇은 알려지지 않았는가 · `ing-20261103-x-auto-translation-serving`
+- 선번역·온디맨드·혼합형의 계산비용 비교 → `x-auto-translation-serving-cost` § 글을 쓰는 순간과 글을 읽는 순간은 다른 계산 문제다 · `ing-20261103-x-auto-translation-serving`
+- 앱 지원 언어수와 실제 목표 언어별 번역본 수의 구별 → `x-auto-translation-serving-cost` § 지원 언어의 수와 실제 만들어지는 번역본 수 · `ing-20261103-x-auto-translation-serving`
+- 언어별 번역 캐시와 반복 노출의 비동일성 → `x-auto-translation-serving-cost` § 캐시의 역할: 반복 노출과 반복 추론을 분리하기 · `ing-20261103-x-auto-translation-serving`
+- 하이브리드 번역 서빙의 가설적 처리 단계 → `x-auto-translation-serving-cost` § 작동 구조의 가능한 한 가지 설계 · `ing-20261103-x-auto-translation-serving`
+- 과거 하루 5억 게시물 기준 번역 생성량 산술 → `x-auto-translation-serving-cost` § 규모의 출발점: 하루 5억 개 게시물이라는 오래된 기준 · `ing-20261103-x-auto-translation-serving`
+- 번역 토큰량과 GPU 성능 벤치마크의 운영 추정 한계 → `x-auto-translation-serving-cost` § 토큰을 대입하면 GPU를 얼마나 쓸까 · `ing-20261103-x-auto-translation-serving`
+- 게시물 비중과 피드 노출 비중을 혼동하는 오류 → `x-auto-translation-serving-cost` § 게시 비율과 노출 비율을 혼동하면 계산이 붕괴한다 · `ing-20261103-x-auto-translation-serving`
+- 기존 호스팅과 AI 추론 증분 비용의 다른 분모 → `x-auto-translation-serving-cost` § 원래의 호스팅 비용보다 몇 배나 무거운가 · `ing-20261103-x-auto-translation-serving`
+- 거대 GPU 팜 보유량과 번역 가용 자원량의 구분 → `x-auto-translation-serving-cost` § 큰 GPU 클러스터가 있다는 사실만으로 비용이 해결되는가 · `ing-20261103-x-auto-translation-serving`
+- 번역 운영비 검증에 필요한 노출·캐시·지연시간 지표 → `x-auto-translation-serving-cost` § 가정이 맞는지 알려면 무엇을 측정해야 하나 · `ing-20261103-x-auto-translation-serving`
+- B와 양자화, 파라미터와 용량의 구분 → `local-llm-industrial-operations` § B와 양자화: 숫자의 수와 숫자의 정밀도 · `ing-20261104-local-llm-global-developer-work`
+- 훈련과 순차 토큰 추론의 계산 부담 → `local-llm-industrial-operations` § 학습이 끝나도 추론이 느린 까닭 · `ing-20261104-local-llm-global-developer-work`
+- Ollama 모델 계열과 Devstral의 역할 → `local-llm-industrial-operations` § Ollama 생태계에서 구별하는 모델과 역할 · `ing-20261104-local-llm-global-developer-work`
+- RAG와 정형 DB 함수 호출의 역할 구분 → `local-llm-industrial-operations` § RAG와 데이터베이스 도구 호출을 혼동하지 않기 · `ing-20261104-local-llm-global-developer-work`
+- 산업 설비의 판정·설명·알림 책임 분리 → `local-llm-industrial-operations` § 설비의 정상·비정상 판정은 언어모델과 분리한다 · `ing-20261104-local-llm-global-developer-work`
+- Windows 미니PC와 Raspberry Pi 저가 운영 및 요청 급증 → `local-llm-industrial-operations` § 저가 서버 구성과 급증하는 API 요청 · `ing-20261104-local-llm-global-developer-work`
+- 개체별 수정 가능한 중기 기억과 선택적 장기 기록의 분리 → `raspberry-pi-spring-python-public-lab` § 개체의 기억과 프라이버시: 작은 작업실 · `ing-20261116-raspberry-agent-workspace`
+- 공개 Git에 의존하지 않는 개체별 메모·direct 접근 통제 → `raspberry-pi-spring-python-public-lab` § 개체의 기억과 프라이버시: 작은 작업실 · `ing-20261116-raspberry-agent-workspace`
+- AI 접근을 위한 최소 brief·read·apply 계약과 실제 연결 조건 → `raspberry-pi-spring-python-public-lab` § AI 연결은 간단한 동작부터 · `ing-20261116-raspberry-agent-workspace`
+- Spring 게시판 선행·개인 메모장 후속·Python과 AI 연동의 점진적 개발 목표 → `raspberry-pi-spring-python-public-lab` § 단계별 개발 목표와 완료 기준 · `ing-20261116-raspberry-agent-workspace`
+- Raspberry Lab REST·SQLite·MCP 구성과 내부 HTTP 검증 → `raspberry-lab-mcp-integration-log` § 첫 구현: raspberry-lab과 내부 검증 · `ing-20261116-raspberry-mcp-first-connection`
+- Nginx·systemd 배포와 공개 HTTPS 검증 오류·재확인 → `raspberry-lab-mcp-integration-log` § 배포: 내부 성공과 첫 공개 검증 실패 · `ing-20261116-raspberry-mcp-first-connection`
+- MCP 등록과 Plugin Maker 플러그인 생성·설치의 실제 연결 경로 → `raspberry-lab-mcp-integration-log` § MCP 서버 등록과 ChatGPT 플러그인 생성은 달랐다 · `ing-20261116-raspberry-mcp-first-connection`
+- Rassvery 도구를 통한 일반 ChatGPT의 MCP hello 성공 → `raspberry-lab-mcp-integration-log` § MCP 서버 등록과 ChatGPT 플러그인 생성은 달랐다 · `ing-20261116-raspberry-mcp-first-connection`
+- OAuth 사용자 인증과 개체별 메모 소유권의 분리 → `raspberry-lab-mcp-integration-log` § 다음 문턱: OAuth와 소유권 · `ing-20261116-raspberry-mcp-first-connection`
+- 검증된 연결 범위와 메모 쓰기·Spring 게시판의 미완료 경계 → `raspberry-lab-mcp-integration-log` § 확인된 상태와 미완료 사항 · `ing-20261116-raspberry-mcp-first-connection`
+- 최소 Java 개발 환경과 캐시 사용량 → `spring-board-deployment-paths-and-recovery` § 작은 기능부터 시작한 개발 환경 · `ing-20261116-spring-board-deployment-recovery`
+- Spring 게시판과 관리자 기능의 구현·13개 테스트 → `spring-board-deployment-paths-and-recovery` § 구현한 기능과 검증의 범위 · `ing-20261116-spring-board-deployment-recovery`
+- JAR 아카이브 실행과 데이터 파일 생성의 구별 → `spring-board-deployment-paths-and-recovery` § JAR 실행과 데이터 생성은 다른 일이다 · `ing-20261116-spring-board-deployment-recovery`
+- 동일 URL과 포트에서 상대 DB 경로가 바뀌는 계정 혼선 → `spring-board-deployment-paths-and-recovery` § 같은 URL인데 계정이 달라진 이유 · `ing-20261116-spring-board-deployment-recovery`
+- DB 식별·백업·권한과 비밀번호 해시 복구·절대 경로 고정 → `spring-board-deployment-paths-and-recovery` § 원래 데이터를 보존하며 로그인과 권한을 복구한다 · `ing-20261116-spring-board-deployment-recovery`
+- Spring 서버 프로세스와 SSH 전달 통로의 역할 → `spring-board-deployment-paths-and-recovery` § SSH 터널: 서버와 접속 통로를 따로 이해하기 · `ing-20261116-spring-board-deployment-recovery`
+- 서비스 실행·부팅 등록·공개 도메인 연결의 분리 → `spring-board-deployment-paths-and-recovery` § systemd와 기존 홈페이지를 보존하는 공개 연결 · `ing-20261116-spring-board-deployment-recovery`
+- 기존 홈페이지 루트 교체 대신 별도 게시판 호스트 검토 → `spring-board-deployment-paths-and-recovery` § systemd와 기존 홈페이지를 보존하는 공개 연결 · `ing-20261116-spring-board-deployment-recovery`
+- Auth0 인증 제공과 MCP 토큰·소유권 검증의 책임 분리 → `raspberry-lab-mcp-integration-log` § Auth0만 연결하면 메모를 남길 수 있는가 · `ing-20261116-spring-board-deployment-recovery`
+- 사용자 공유 메모와 개체별 기억·자동 대화 보존의 구별 → `spring-board-deployment-paths-and-recovery` § 메모를 남기는 AI에 Spring 게시판이 꼭 필요한가 · `ing-20261116-spring-board-deployment-recovery`
+- 장기 Spring 설계와 최소 JDBC H2 구현의 구분 → `raspberry-pi-spring-python-public-lab` § 첫 구현에서 선택한 최소 구성 · `ing-20261116-spring-board-deployment-recovery`
+- 시험 실행 완료와 서비스·공개·MCP 쓰기 미확인 경계 → `spring-board-deployment-paths-and-recovery` § 확인된 결과와 남은 일 · `ing-20261116-spring-board-deployment-recovery`
+
 ## 철학 (97)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -884,100 +991,6 @@
 - 원본과 파생 실험의 제작 목적과 구현 한계 → `taste-calculator-adapter` § 원본과 파생 실험: 무엇을 경험하게 하려 했는가 · `ing-20261116-taste-experiment-rationales`
 - 객체 변형 합성을 위한 생성 실험의 범위 → `taste-calculator-style-algebra` § 생성 연산을 눈으로 확인하기 위한 구현 · `ing-20261116-taste-experiment-rationales`
 - 경험 순서와 C 전이의 실행 예제 및 감상과의 간극 → `mathematical-theory-of-taste` § 순서와 C의 역할을 실행해 보는 실험 · `ing-20261116-taste-experiment-rationales`
-
-## 과학과 기술 (89)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 복사냉각과 프라이팬 사고실험 → `space-data-center-thermal-economics` § 프라이팬 사고실험: 검은 표면과 광택 금속의 차이 · `ing-20261030-space-datacenters-orbital-commons`
-- ISS의 액체회로와 라디에이터 → `space-data-center-thermal-economics` § 국제우주정거장의 실물 해법 · `ing-20261030-space-datacenters-orbital-commons`
-- 구글 선캐처의 열관리 구상 → `space-data-center-thermal-economics` § 구글 Project Suncatcher가 제시한 것과 아직 제시하지 않은 것 · `ing-20261030-space-datacenters-orbital-commons`
-- 5GW 우주 데이터센터의 방열 규모 → `space-data-center-thermal-economics` § 5GW 열부하의 규모를 계산하다 · `ing-20261030-space-datacenters-orbital-commons`
-- 우주 연산의 경제성과 전략 가설 → `space-data-center-thermal-economics` § 왜 지상이 아니라 우주인가: 비용과 전략의 서로 다른 주장 · `ing-20261030-space-datacenters-orbital-commons`
-- 기업 우주자산의 소유와 국가책임 → `space-assets-law-debris-kessler` § 소유국·등록국·발사국을 혼동하지 말 것 · `ing-20261030-space-datacenters-orbital-commons`
-- 코스모스 954 국제배상 → `space-assets-law-debris-kessler` § 실제 금전배상: 코스모스 954 · `ing-20261030-space-datacenters-orbital-commons`
-- 위성 충돌과 회피 비용 → `space-assets-law-debris-kessler` § 실제 충돌과 배상 없는 위험의 분배 · `ing-20261030-space-datacenters-orbital-commons`
-- 전파간섭과 위성 재진입 분쟁 → `space-assets-law-debris-kessler` § 전파와 항법: 위성을 부수지 않는 분쟁 · `ing-20261030-space-datacenters-orbital-commons`
-- 위성 파괴 실험과 근접 기동 → `space-assets-law-debris-kessler` § 고의적 위성 파괴와 근접 기동의 외교 · `ing-20261030-space-datacenters-orbital-commons`
-- 케슬러 증후군의 고도별 위험 → `space-assets-law-debris-kessler` § 케슬러 증후군은 어느 날의 폭발이 아니다 · `ing-20261030-space-datacenters-orbital-commons`
-- 스타링크 대량 발사와 규제 → `space-assets-law-debris-kessler` § 스타링크의 대량 발사와 미국 규제의 문제 · `ing-20261030-space-datacenters-orbital-commons`
-- 기업과 국가의 우주자산 통제 갈등 → `space-assets-law-debris-kessler` § 기업과 국가가 충돌한다면 · `ing-20261030-space-datacenters-orbital-commons`
-- 한국형 피지컬 AI 기술 분업 → `physical-ai-world-model-quantum-optimization` § 제조 현장의 숙련은 어떻게 모델이 되는가 · `ing-20261030-physical-ai-quantum-business`
-- 제조 셀의 시뮬레이션 현실 간극 → `physical-ai-world-model-quantum-optimization` § 공장이라는 반례: 같은 부품도 같지 않다 · `ing-20261030-physical-ai-quantum-business`
-- 양자 중첩과 조합최적화의 구분 → `physical-ai-world-model-quantum-optimization` § 수만 가지 가능성을 한 번에 검사한다는 직관 · `ing-20261030-physical-ai-quantum-business`
-- WFM과 양자 솔버의 분업 → `physical-ai-world-model-quantum-optimization` § 어디에 양자 계산을 넣을 것인가 · `ing-20261030-physical-ai-quantum-business`
-- 양자 신경망 레이어 압축의 한계 → `physical-ai-world-model-quantum-optimization` § 인공신경망 레이어를 양자로 압축할 수 있는가 · `ing-20261030-physical-ai-quantum-business`
-- 개인 개발자의 제조 의사결정 엔진 → `manufacturing-optimization-solo-business` § 거대한 모델이 아니라 결정의 병목을 판다 · `ing-20261030-physical-ai-quantum-business`
-- 제조 솔버의 재사용 가능한 구성 → `manufacturing-optimization-solo-business` § 재사용 가능한 핵심 설계 · `ing-20261030-physical-ai-quantum-business`
-- 에이전트 선계산 자산 파이프라인 → `manufacturing-optimization-solo-business` § 에이전트가 밤마다 축적할 수 있는 자산 · `ing-20261030-physical-ai-quantum-business`
-- 양자 클라우드 접근 플랫폼 → `manufacturing-optimization-solo-business` § 양자 클라우드의 선택 · `ing-20261030-physical-ai-quantum-business`
-- 고객 실증과 양자 우위 검증 → `manufacturing-optimization-solo-business` § 첫 고객 이전에 필요한 증거 · `ing-20261030-physical-ai-quantum-business`
-- 산악 송전선 가공·지중 비용 구조 → `mountain-powerline-undergrounding-economics` § 한국 345kV 비교의 출발점과 산술 · `ing-20261102-wildfire-powerlines-liability`
-- 345kV 10km 비용 차이의 단순 환산 → `mountain-powerline-undergrounding-economics` § 한국 345kV 비교의 출발점과 산술 · `ing-20261102-wildfire-powerlines-liability`
-- 경인권과 광양–여수 전력구 비용 비교의 한계 → `mountain-powerline-undergrounding-economics` § 한국 345kV 비교의 출발점과 산술 · `ing-20261102-wildfire-powerlines-liability`
-- 산악 지중화 공법과 노선 길이 → `mountain-powerline-undergrounding-economics` § 산을 관통한다는 말의 두 뜻 · `ing-20261102-wildfire-powerlines-liability`
-- 지중화와 가공선 보강 패키지의 비교 → `mountain-powerline-undergrounding-economics` § 비교 대상은 '지중화 대 방치'가 아니다 · `ing-20261102-wildfire-powerlines-liability`
-- 연간 기대손실과 꼬리위험 → `mountain-powerline-undergrounding-economics` § '한 번의 대형 산불'을 연간 기대손실로 바꾸기 · `ing-20261102-wildfire-powerlines-liability`
-- 한전 재무비용과 사회적 비용의 구별 → `mountain-powerline-undergrounding-economics` § 사적 비용과 사회적 비용이라는 두 장부 · `ing-20261102-wildfire-powerlines-liability`
-- 산불 위험 지중화 순현재가치 설계 → `mountain-powerline-undergrounding-economics` § 30~50년 순현재가치 비교의 설계 · `ing-20261102-wildfire-powerlines-liability`
-- 엣지 영상 감지 포트폴리오의 입력·추론·규칙·기록 분업 → `edge-vision-event-monitor-portfolio` § 가장 작은 데모의 목표: 사람 탐지에서 사건 기록까지 · `ing-20261102-local-novel-edge-portfolio`
-- 이상행동 인식과 ROI 규칙 이벤트 판정의 차이 → `edge-vision-event-monitor-portfolio` § 가장 작은 데모의 목표: 사람 탐지에서 사건 기록까지 · `ing-20261102-local-novel-edge-portfolio`
-- 영상 이벤트 데모 화면과 FPS 지표의 정의 → `edge-vision-event-monitor-portfolio` § 하나의 화면에 드러나야 할 것 · `ing-20261102-local-novel-edge-portfolio`
-- Python OpenCV YOLO ONNX 웹 서비스 및 저장 계층 선택 → `edge-vision-event-monitor-portfolio` § 추천한 구현 경로와 각 도구의 역할 · `ing-20261102-local-novel-edge-portfolio`
-- 엣지 배포 성능의 속도·정확도·메모리 비교 기준 → `edge-vision-event-monitor-portfolio` § 온디바이스·엣지 최적화는 이름이 아니라 측정이다 · `ing-20261102-local-novel-edge-portfolio`
-- 카메라 이벤트와 MQTT 센서·설비 신호의 복합 판정 → `edge-vision-event-monitor-portfolio` § 카메라와 센서를 합치면 독립적인 포트폴리오가 된다 · `ing-20261102-local-novel-edge-portfolio`
-- 객체 검출 오류와 사건 규칙 오류를 분리하는 평가 → `edge-vision-event-monitor-portfolio` § 데이터 전처리와 평가: 무엇이 모델의 실패인가 · `ing-20261102-local-novel-edge-portfolio`
-- 현장형 영상 AI 시연과 기술 문서·재현 기록 → `edge-vision-event-monitor-portfolio` § 문서가 데모를 완성한다 · `ing-20261102-local-novel-edge-portfolio`
-- 발전 설비용량 GW와 연간 발전·소비 TWh의 구분 → `world-electricity-capacity-generation-consumption` § GW와 TWh: 발전능력과 발전량은 왜 다른가 · `ing-20261102-world-electricity-capacity`
-- 1GW 연속 1년 가동 시 8.76TWh 산술 환산 → `world-electricity-capacity-generation-consumption` § GW와 TWh: 발전능력과 발전량은 왜 다른가 · `ing-20261102-world-electricity-capacity`
-- 세계 발전설비 9.4~9.8TW와 연간 전력 생산·수요 개략 합계 → `world-electricity-capacity-generation-consumption` § 세계 전체의 눈금 · `ing-20261102-world-electricity-capacity`
-- 주요 25개국 발전설비 생산량 소비량 비교 표 → `world-electricity-capacity-generation-consumption` § 주요 25개 국가의 설비·생산·소비 비교 · `ing-20261102-world-electricity-capacity`
-- 중국 미국 인도의 전력 규모와 소비 집중도 → `world-electricity-capacity-generation-consumption` § 어떤 나라가 세계 전력의 큰 몫을 차지하는가 · `ing-20261102-world-electricity-capacity`
-- 비슷한 설비용량의 국가별 생산량 차이 → `world-electricity-capacity-generation-consumption` § 비슷한 GW라도 TWh가 다른 이유 · `ing-20261102-world-electricity-capacity`
-- 발전량과 수요의 차이를 순수출로 등치할 수 없는 이유 → `world-electricity-capacity-generation-consumption` § 생산국과 소비국, 전력 수출입의 해석 · `ing-20261102-world-electricity-capacity`
-- 국가 전력 GW와 데이터센터 전력 GW의 비교 분모 구별 → `world-electricity-capacity-generation-consumption` § 무엇을 더 확인해야 정밀 비교가 되는가; `data-center-world-capacity` § 먼저 세 개의 세계 규모를 구별한다 · `ing-20261102-world-electricity-capacity`
-- 연구형 AI와 응용형 AI 포트폴리오의 구분과 현업 경력의 활용 → `operations-data-ai-copilot-portfolio` § 어떤 AI 엔지니어링을 증명할 것인가 · `ing-20261103-operations-ai-copilot-portfolio`
-- 운영 비서·ERP 자연어 질의·현장 장애 대응 코파일럿의 세 경로 → `operations-data-ai-copilot-portfolio` § 어떤 AI 엔지니어링을 증명할 것인가 · `ing-20261103-operations-ai-copilot-portfolio`
-- 만들고 싶은 문제와 채용 검증 가능성의 균형 → `operations-data-ai-copilot-portfolio` § 어떤 AI 엔지니어링을 증명할 것인가 · `ing-20261103-operations-ai-copilot-portfolio`
-- 대시보드·자연어 채팅·근거 패널의 세 화면 → `operations-data-ai-copilot-portfolio` § 최소 제품의 세 화면: 지표, 질문, 근거 · `ing-20261103-operations-ai-copilot-portfolio`
-- 라인 가동률·납기 지연·설비 위험도 분석의 데모 질문과 근거 → `operations-data-ai-copilot-portfolio` § 최소 제품의 세 화면: 지표, 질문, 근거 · `ing-20261103-operations-ai-copilot-portfolio`
-- 제조 물류 합성 DB 스키마와 일관된 사건 생성 규칙 → `operations-data-ai-copilot-portfolio` § 대량의 더미 데이터보다 중요한 것은 생성 규칙이다 · `ing-20261103-operations-ai-copilot-portfolio`
-- 무제한 SQL 대신 구조화된 조회 도구와 읽기 전용 실행 경계 → `operations-data-ai-copilot-portfolio` § AI가 SQL을 함부로 실행하지 않도록 분리한다 · `ing-20261103-operations-ai-copilot-portfolio`
-- 문서 RAG와 정형 데이터 집계의 역할 분리 및 단계적 확장 → `operations-data-ai-copilot-portfolio` § AI가 SQL을 함부로 실행하지 않도록 분리한다 · `ing-20261103-operations-ai-copilot-portfolio`
-- 자연어 DB 분석의 평가셋·관측·실패 분류 → `operations-data-ai-copilot-portfolio` § 평가·관측·실패의 표기 · `ing-20261103-operations-ai-copilot-portfolio`
-- Vercel Supabase Neon Cloudflare D1 Render 무료 배포 선택지 → `operations-data-ai-copilot-portfolio` § 공개 배포: 무료 웹과 과금되는 추론을 구별한다 · `ing-20261103-operations-ai-copilot-portfolio`
-- AI API 과금과 공개 데모 호출 제한 및 현행 요금 재검증 → `operations-data-ai-copilot-portfolio` § 공개 배포: 무료 웹과 과금되는 추론을 구별한다 · `ing-20261103-operations-ai-copilot-portfolio`
-- 최소 구현 범위와 단계별 3주 개발 순서 → `operations-data-ai-copilot-portfolio` § 범위는 작게, 보여 주는 증거는 충분히 · `ing-20261103-operations-ai-copilot-portfolio`
-- README 평가 결과와 데모 영상으로 구현 증거 구성 → `operations-data-ai-copilot-portfolio` § 범위는 작게, 보여 주는 증거는 충분히 · `ing-20261103-operations-ai-copilot-portfolio`
-- 영상 이벤트형과 운영 데이터 설명형 포트폴리오의 성능 검증 차이 → `edge-vision-event-monitor-portfolio` § 데이터 설명형 코파일럿과의 비교 · `ing-20261103-operations-ai-copilot-portfolio`
-- 운영 데이터 설명형 시스템과 제조 최적화 의사결정 시스템의 구분 → `manufacturing-optimization-solo-business` § 운영 데이터를 설명하는 단계와 최적화하는 단계 · `ing-20261103-operations-ai-copilot-portfolio`
-- X 자동번역 롤아웃의 공개 범위와 내부 설계 미확인 → `x-auto-translation-serving-cost` § 무엇이 공식적으로 알려졌고 무엇은 알려지지 않았는가 · `ing-20261103-x-auto-translation-serving`
-- 선번역·온디맨드·혼합형의 계산비용 비교 → `x-auto-translation-serving-cost` § 글을 쓰는 순간과 글을 읽는 순간은 다른 계산 문제다 · `ing-20261103-x-auto-translation-serving`
-- 앱 지원 언어수와 실제 목표 언어별 번역본 수의 구별 → `x-auto-translation-serving-cost` § 지원 언어의 수와 실제 만들어지는 번역본 수 · `ing-20261103-x-auto-translation-serving`
-- 언어별 번역 캐시와 반복 노출의 비동일성 → `x-auto-translation-serving-cost` § 캐시의 역할: 반복 노출과 반복 추론을 분리하기 · `ing-20261103-x-auto-translation-serving`
-- 하이브리드 번역 서빙의 가설적 처리 단계 → `x-auto-translation-serving-cost` § 작동 구조의 가능한 한 가지 설계 · `ing-20261103-x-auto-translation-serving`
-- 과거 하루 5억 게시물 기준 번역 생성량 산술 → `x-auto-translation-serving-cost` § 규모의 출발점: 하루 5억 개 게시물이라는 오래된 기준 · `ing-20261103-x-auto-translation-serving`
-- 번역 토큰량과 GPU 성능 벤치마크의 운영 추정 한계 → `x-auto-translation-serving-cost` § 토큰을 대입하면 GPU를 얼마나 쓸까 · `ing-20261103-x-auto-translation-serving`
-- 게시물 비중과 피드 노출 비중을 혼동하는 오류 → `x-auto-translation-serving-cost` § 게시 비율과 노출 비율을 혼동하면 계산이 붕괴한다 · `ing-20261103-x-auto-translation-serving`
-- 기존 호스팅과 AI 추론 증분 비용의 다른 분모 → `x-auto-translation-serving-cost` § 원래의 호스팅 비용보다 몇 배나 무거운가 · `ing-20261103-x-auto-translation-serving`
-- 거대 GPU 팜 보유량과 번역 가용 자원량의 구분 → `x-auto-translation-serving-cost` § 큰 GPU 클러스터가 있다는 사실만으로 비용이 해결되는가 · `ing-20261103-x-auto-translation-serving`
-- 번역 운영비 검증에 필요한 노출·캐시·지연시간 지표 → `x-auto-translation-serving-cost` § 가정이 맞는지 알려면 무엇을 측정해야 하나 · `ing-20261103-x-auto-translation-serving`
-- B와 양자화, 파라미터와 용량의 구분 → `local-llm-industrial-operations` § B와 양자화: 숫자의 수와 숫자의 정밀도 · `ing-20261104-local-llm-global-developer-work`
-- 훈련과 순차 토큰 추론의 계산 부담 → `local-llm-industrial-operations` § 학습이 끝나도 추론이 느린 까닭 · `ing-20261104-local-llm-global-developer-work`
-- Ollama 모델 계열과 Devstral의 역할 → `local-llm-industrial-operations` § Ollama 생태계에서 구별하는 모델과 역할 · `ing-20261104-local-llm-global-developer-work`
-- RAG와 정형 DB 함수 호출의 역할 구분 → `local-llm-industrial-operations` § RAG와 데이터베이스 도구 호출을 혼동하지 않기 · `ing-20261104-local-llm-global-developer-work`
-- 산업 설비의 판정·설명·알림 책임 분리 → `local-llm-industrial-operations` § 설비의 정상·비정상 판정은 언어모델과 분리한다 · `ing-20261104-local-llm-global-developer-work`
-- Windows 미니PC와 Raspberry Pi 저가 운영 및 요청 급증 → `local-llm-industrial-operations` § 저가 서버 구성과 급증하는 API 요청 · `ing-20261104-local-llm-global-developer-work`
-- 개체별 수정 가능한 중기 기억과 선택적 장기 기록의 분리 → `raspberry-pi-spring-python-public-lab` § 개체의 기억과 프라이버시: 작은 작업실 · `ing-20261116-raspberry-agent-workspace`
-- 공개 Git에 의존하지 않는 개체별 메모·direct 접근 통제 → `raspberry-pi-spring-python-public-lab` § 개체의 기억과 프라이버시: 작은 작업실 · `ing-20261116-raspberry-agent-workspace`
-- AI 접근을 위한 최소 brief·read·apply 계약과 실제 연결 조건 → `raspberry-pi-spring-python-public-lab` § AI 연결은 간단한 동작부터 · `ing-20261116-raspberry-agent-workspace`
-- Spring 게시판 선행·개인 메모장 후속·Python과 AI 연동의 점진적 개발 목표 → `raspberry-pi-spring-python-public-lab` § 단계별 개발 목표와 완료 기준 · `ing-20261116-raspberry-agent-workspace`
-- Raspberry Lab REST·SQLite·MCP 구성과 내부 HTTP 검증 → `raspberry-lab-mcp-integration-log` § 첫 구현: raspberry-lab과 내부 검증 · `ing-20261116-raspberry-mcp-first-connection`
-- Nginx·systemd 배포와 공개 HTTPS 검증 오류·재확인 → `raspberry-lab-mcp-integration-log` § 배포: 내부 성공과 첫 공개 검증 실패 · `ing-20261116-raspberry-mcp-first-connection`
-- MCP 등록과 Plugin Maker 플러그인 생성·설치의 실제 연결 경로 → `raspberry-lab-mcp-integration-log` § MCP 서버 등록과 ChatGPT 플러그인 생성은 달랐다 · `ing-20261116-raspberry-mcp-first-connection`
-- Rassvery 도구를 통한 일반 ChatGPT의 MCP hello 성공 → `raspberry-lab-mcp-integration-log` § MCP 서버 등록과 ChatGPT 플러그인 생성은 달랐다 · `ing-20261116-raspberry-mcp-first-connection`
-- OAuth 사용자 인증과 개체별 메모 소유권의 분리 → `raspberry-lab-mcp-integration-log` § 다음 문턱: OAuth와 소유권 · `ing-20261116-raspberry-mcp-first-connection`
-- 검증된 연결 범위와 메모 쓰기·Spring 게시판의 미완료 경계 → `raspberry-lab-mcp-integration-log` § 확인된 상태와 미완료 사항 · `ing-20261116-raspberry-mcp-first-connection`
 
 ## 기술·지식 아카이브 (78)
 

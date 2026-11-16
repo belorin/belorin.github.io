@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 217,
+  "document_count": 218,
   "documents": [
     {
       "id": "living-notes",
@@ -7564,10 +7564,10 @@
         "중기 기억",
         "개체 간 프라이버시"
       ],
-      "summary": "라즈베리 파이에서 Spring Boot 게시판·관리자와 Python 실험 기능을 단계적으로 배포하고, 개체별 비공개 중기 메모·인증된 AI 글쓰기를 선택적으로 연결하는 공개 개발 실험실 목표.",
+      "summary": "라즈베리 파이에서 Spring Boot 게시판·관리자와 Python 실험 기능을 단계적으로 배포하고, 개체별 비공개 중기 메모·인증된 AI 글쓰기를 선택적으로 연결하는 공개 개발 실험실 목표. 최소 Spring 게시판의 구현·시험 실행과 JDBC/H2 선택을 장기 목표와 구분한다.",
       "published": true,
       "review_state": "needs_review",
-      "review_label": "독립 개발 목표 · Spring 게시판 미구현 / 별도 Raspberry Lab MCP 읽기 연결 성공",
+      "review_label": "독립 개발 목표 · Spring 게시판 미구현 / 별도 Raspberry Lab MCP 읽기 연결 성공 (초기 상태; 후속 최소 게시판 구현·시험 실행 완료, 공개 배포 검증 전)",
       "last_updated_on": "2026-11-16",
       "last_enriched_on": "2026-11-16",
       "last_enriched_note": "explicitly_recorded",
@@ -7575,7 +7575,8 @@
         "operations-data-ai-copilot-portfolio",
         "edge-vision-event-monitor-portfolio",
         "rhizomatic-agent-commons",
-        "raspberry-lab-mcp-integration-log"
+        "raspberry-lab-mcp-integration-log",
+        "spring-board-deployment-paths-and-recovery"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/raspberry-pi-spring-python-public-lab.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/raspberry-pi-spring-python-public-lab.md",
@@ -7607,7 +7608,7 @@
         "인증",
         "서버 배포"
       ],
-      "summary": "Raspberry Lab의 REST·SQLite·MCP 구현과 배포 검증, 공개 HTTPS 첫 오류, Plugin Maker를 통한 Rassvery 연결 성공 및 OAuth 인증 과제를 정리한 개발 기록.",
+      "summary": "Raspberry Lab의 REST·SQLite·MCP 구현과 배포 검증, 공개 HTTPS 첫 오류, Plugin Maker를 통한 Rassvery 연결 성공 및 OAuth 인증 과제를 정리한 개발 기록. Auth0·토큰 검증·소유권의 역할과 후속 Spring 구현 상태를 구분한다.",
       "published": true,
       "review_state": "needs_review",
       "review_label": "기술 일지 · ChatGPT MCP hello 검증 / OAuth 메모 쓰기 미검증",
@@ -7615,12 +7616,50 @@
       "last_enriched_on": "2026-11-16",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
-        "raspberry-pi-spring-python-public-lab"
+        "raspberry-pi-spring-python-public-lab",
+        "spring-board-deployment-paths-and-recovery"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/raspberry-lab-mcp-integration-log.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/raspberry-lab-mcp-integration-log.md",
       "page_url": "https://belorin.github.io/notes/raspberry-lab-mcp-integration-log/",
       "app_url": "https://belorin.github.io/#raspberry-lab-mcp-integration-log"
+    },
+    {
+      "id": "spring-board-deployment-paths-and-recovery",
+      "title": "작은 Spring 게시판의 첫 배포: JAR, DB 경로, SSH 터널과 관리자 복구",
+      "aliases": [
+        "Spring 게시판 첫 배포",
+        "JAR 실행 위치와 H2 DB",
+        "라즈베리 게시판 DB 경로 복구"
+      ],
+      "category": "과학과 기술",
+      "tags": [
+        "Spring Boot",
+        "Java 21",
+        "H2",
+        "상대 경로",
+        "DB 복구",
+        "SSH 터널",
+        "systemd",
+        "라즈베리 파이",
+        "관리자 권한",
+        "Auth0"
+      ],
+      "summary": "Mac의 Java 21 최소 개발 환경과 Spring 게시판·관리자 구현, 라즈베리 JAR 실행·SSH 터널, 상대 DB 경로로 발생한 계정 혼선과 복구, 서비스 등록과 기존 홈페이지 보존의 경계를 설명한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "최소 구현·시험 실행·DB 복구 확인 / 서비스 등록·공개 연결·MCP 쓰기 검증 미완료",
+      "last_updated_on": "2026-11-16",
+      "last_enriched_on": "2026-11-16",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "raspberry-pi-spring-python-public-lab",
+        "raspberry-lab-mcp-integration-log"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/spring-board-deployment-paths-and-recovery.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/spring-board-deployment-paths-and-recovery.md",
+      "page_url": "https://belorin.github.io/notes/spring-board-deployment-paths-and-recovery/",
+      "app_url": "https://belorin.github.io/#spring-board-deployment-paths-and-recovery"
     }
   ]
 }

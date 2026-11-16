@@ -706,12 +706,15 @@
 - **[로컬 LLM의 계산과 현장 운영: 작은 모델, RAG, 도구 호출, 큐](wiki/local-llm-industrial-operations.md)** · 별칭: 로컬 LLM 운영, Ollama 산업용 서버 · 수정: 2026-11-04 · 검토: 기술 해설
   - 양자화와 추론의 물리적 비용에서 Ollama 모델·DB 도구·RAG·산업용 판정·저가 미니PC·폭주 제어까지 이어지는 설계 원칙.
   - [문서 페이지](https://belorin.github.io/notes/local-llm-industrial-operations/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/local-llm-industrial-operations.md)
-- **[라즈베리 파이 공개 개발 실험실: Spring Boot·Python·AI 참여형 웹서비스](wiki/raspberry-pi-spring-python-public-lab.md)** · 별칭: 라즈베리 파이 개발 목표, Spring Python 공개 실험실, AI 참여형 게시판 개발 목표, Raspberry Pi Spring Python Public Lab · 수정: 2026-11-16 · 검토: 독립 개발 목표 · Spring 게시판 미구현 / 별도 Raspberry Lab MCP 읽기 연결 성공
-  - 라즈베리 파이에서 Spring Boot 게시판·관리자와 Python 실험 기능을 단계적으로 배포하고, 개체별 비공개 중기 메모·인증된 AI 글쓰기를 선택적으로 연결하는 공개 개발 실험실 목표.
+- **[라즈베리 파이 공개 개발 실험실: Spring Boot·Python·AI 참여형 웹서비스](wiki/raspberry-pi-spring-python-public-lab.md)** · 별칭: 라즈베리 파이 개발 목표, Spring Python 공개 실험실, AI 참여형 게시판 개발 목표, Raspberry Pi Spring Python Public Lab · 수정: 2026-11-16 · 검토: 독립 개발 목표 · Spring 게시판 미구현 / 별도 Raspberry Lab MCP 읽기 연결 성공 (초기 상태; 후속 최소 게시판 구현·시험 실행 완료, 공개 배포 검증 전)
+  - 라즈베리 파이에서 Spring Boot 게시판·관리자와 Python 실험 기능을 단계적으로 배포하고, 개체별 비공개 중기 메모·인증된 AI 글쓰기를 선택적으로 연결하는 공개 개발 실험실 목표. 최소 Spring 게시판의 구현·시험 실행과 JDBC/H2 선택을 장기 목표와 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/raspberry-pi-spring-python-public-lab/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/raspberry-pi-spring-python-public-lab.md)
 - **[라즈베리 파이 AI 연결 개발 일지: 첫 MCP 통신과 인증의 문턱](wiki/raspberry-lab-mcp-integration-log.md)** · 별칭: Raspberry Lab 개발 일지, Rassvery MCP 연결 기록, 라즈베리파이 AI 서버 기술 일지, Raspberry Lab MCP Integration Log · 수정: 2026-11-16 · 검토: 기술 일지 · ChatGPT MCP hello 검증 / OAuth 메모 쓰기 미검증
-  - Raspberry Lab의 REST·SQLite·MCP 구현과 배포 검증, 공개 HTTPS 첫 오류, Plugin Maker를 통한 Rassvery 연결 성공 및 OAuth 인증 과제를 정리한 개발 기록.
+  - Raspberry Lab의 REST·SQLite·MCP 구현과 배포 검증, 공개 HTTPS 첫 오류, Plugin Maker를 통한 Rassvery 연결 성공 및 OAuth 인증 과제를 정리한 개발 기록. Auth0·토큰 검증·소유권의 역할과 후속 Spring 구현 상태를 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/raspberry-lab-mcp-integration-log/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/raspberry-lab-mcp-integration-log.md)
+- **[작은 Spring 게시판의 첫 배포: JAR, DB 경로, SSH 터널과 관리자 복구](wiki/spring-board-deployment-paths-and-recovery.md)** · 별칭: Spring 게시판 첫 배포, JAR 실행 위치와 H2 DB, 라즈베리 게시판 DB 경로 복구 · 수정: 2026-11-16 · 검토: 최소 구현·시험 실행·DB 복구 확인 / 서비스 등록·공개 연결·MCP 쓰기 검증 미완료
+  - Mac의 Java 21 최소 개발 환경과 Spring 게시판·관리자 구현, 라즈베리 JAR 실행·SSH 터널, 상대 DB 경로로 발생한 계정 혼선과 복구, 서비스 등록과 기존 홈페이지 보존의 경계를 설명한다.
+  - [문서 페이지](https://belorin.github.io/notes/spring-board-deployment-paths-and-recovery/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/spring-board-deployment-paths-and-recovery.md)
 
 ## 소설 (창작 작품 · 사실 근거 아님)
 

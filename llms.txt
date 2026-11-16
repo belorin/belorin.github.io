@@ -298,8 +298,9 @@
 - [운영 데이터 AI 코파일럿: 더미 DB와 대시보드를 공개 서비스로 만드는 포트폴리오](https://belorin.github.io/notes/operations-data-ai-copilot-portfolio/): 제조·물류 합성 DB, KPI 대시보드, 제한된 자연어 질의, 근거 패널, 평가와 무료 호스팅·API 비용 통제를 결합한 공개 웹 AI 포트폴리오 설계.
 - [X의 전체 자동번역은 얼마나 많은 계산을 요구하는가: 읽기 시점·캐시·GPU 비용](https://belorin.github.io/notes/x-auto-translation-serving-cost/): X 자동번역을 사례로 게시 시점 선번역과 노출 시점 생성, 언어별 캐시, 번역본 수·토큰량·GPU 필요량과 기존 호스팅 비용의 분모를 구별한다.
 - [로컬 LLM의 계산과 현장 운영: 작은 모델, RAG, 도구 호출, 큐](https://belorin.github.io/notes/local-llm-industrial-operations/): 양자화와 추론의 물리적 비용에서 Ollama 모델·DB 도구·RAG·산업용 판정·저가 미니PC·폭주 제어까지 이어지는 설계 원칙.
-- [라즈베리 파이 공개 개발 실험실: Spring Boot·Python·AI 참여형 웹서비스](https://belorin.github.io/notes/raspberry-pi-spring-python-public-lab/): 라즈베리 파이에서 Spring Boot 게시판·관리자와 Python 실험 기능을 단계적으로 배포하고, 개체별 비공개 중기 메모·인증된 AI 글쓰기를 선택적으로 연결하는 공개 개발 실험실 목표.
-- [라즈베리 파이 AI 연결 개발 일지: 첫 MCP 통신과 인증의 문턱](https://belorin.github.io/notes/raspberry-lab-mcp-integration-log/): Raspberry Lab의 REST·SQLite·MCP 구현과 배포 검증, 공개 HTTPS 첫 오류, Plugin Maker를 통한 Rassvery 연결 성공 및 OAuth 인증 과제를 정리한 개발 기록.
+- [라즈베리 파이 공개 개발 실험실: Spring Boot·Python·AI 참여형 웹서비스](https://belorin.github.io/notes/raspberry-pi-spring-python-public-lab/): 라즈베리 파이에서 Spring Boot 게시판·관리자와 Python 실험 기능을 단계적으로 배포하고, 개체별 비공개 중기 메모·인증된 AI 글쓰기를 선택적으로 연결하는 공개 개발 실험실 목표. 최소 Spring 게시판의 구현·시험 실행과 JDBC/H2 선택을 장기 목표와 구분한다.
+- [라즈베리 파이 AI 연결 개발 일지: 첫 MCP 통신과 인증의 문턱](https://belorin.github.io/notes/raspberry-lab-mcp-integration-log/): Raspberry Lab의 REST·SQLite·MCP 구현과 배포 검증, 공개 HTTPS 첫 오류, Plugin Maker를 통한 Rassvery 연결 성공 및 OAuth 인증 과제를 정리한 개발 기록. Auth0·토큰 검증·소유권의 역할과 후속 Spring 구현 상태를 구분한다.
+- [작은 Spring 게시판의 첫 배포: JAR, DB 경로, SSH 터널과 관리자 복구](https://belorin.github.io/notes/spring-board-deployment-paths-and-recovery/): Mac의 Java 21 최소 개발 환경과 Spring 게시판·관리자 구현, 라즈베리 JAR 실행·SSH 터널, 상대 DB 경로로 발생한 계정 혼선과 복구, 서비스 등록과 기존 홈페이지 보존의 경계를 설명한다.
 
 ### 소설 (창작 작품 · 사실 근거 아님)
 
