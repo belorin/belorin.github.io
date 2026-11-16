@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 783,
+  "edge_count": 786,
   "edges": [
     {
       "from": "living-notes",
@@ -4430,6 +4430,24 @@
     {
       "from": "taste-calculator-style-algebra",
       "to": "taste-slop-mass-production",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "raspberry-pi-spring-python-public-lab",
+      "to": "operations-data-ai-copilot-portfolio",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "raspberry-pi-spring-python-public-lab",
+      "to": "edge-vision-event-monitor-portfolio",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "raspberry-pi-spring-python-public-lab",
+      "to": "rhizomatic-agent-commons",
       "type": "related_to",
       "basis": "manifest.related"
     },
