@@ -1,0 +1,81 @@
+{
+  "id": "ing-20261116-raspberry-mcp-first-connection",
+  "processed_on": "2026-11-16",
+  "coverage": "visible-complete",
+  "limit_note": "현재 대화에서 확인한 사용자 제공 테스트 출력과 호출 결과를 근거로 정리했으며 raspberry-lab 로컬 소스·공개 HTTPS CRUD 전체 결과는 직접 검증하지 못함",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "Raspberry Lab REST·SQLite·MCP 구성과 내부 HTTP 검증",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "raspberry-lab-mcp-integration-log",
+          "section": "첫 구현: raspberry-lab과 내부 검증"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "Nginx·systemd 배포와 공개 HTTPS 검증 오류·재확인",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "raspberry-lab-mcp-integration-log",
+          "section": "배포: 내부 성공과 첫 공개 검증 실패"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "fact",
+      "title": "MCP 등록과 Plugin Maker 플러그인 생성·설치의 실제 연결 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "raspberry-lab-mcp-integration-log",
+          "section": "MCP 서버 등록과 ChatGPT 플러그인 생성은 달랐다"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "fact",
+      "title": "Rassvery 도구를 통한 일반 ChatGPT의 MCP hello 성공",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "raspberry-lab-mcp-integration-log",
+          "section": "MCP 서버 등록과 ChatGPT 플러그인 생성은 달랐다"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "concept",
+      "title": "OAuth 사용자 인증과 개체별 메모 소유권의 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "raspberry-lab-mcp-integration-log",
+          "section": "다음 문턱: OAuth와 소유권"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "curation",
+      "title": "검증된 연결 범위와 메모 쓰기·Spring 게시판의 미완료 경계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "raspberry-lab-mcp-integration-log",
+          "section": "확인된 상태와 미완료 사항"
+        }
+      ]
+    }
+  ]
+}

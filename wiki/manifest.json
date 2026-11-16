@@ -7183,7 +7183,7 @@
       "order": 217,
       "title": "라즈베리 파이 공개 개발 실험실: Spring Boot·Python·AI 참여형 웹서비스",
       "category": "과학과 기술",
-      "status": "독립 개발 목표 · 설계 단계 / 실제 구현 및 배포 미검증",
+      "status": "독립 개발 목표 · Spring 게시판 미구현 / 별도 Raspberry Lab MCP 읽기 연결 성공",
       "updated": "2026-11-16",
       "summary": "라즈베리 파이에서 Spring Boot 게시판·관리자와 Python 실험 기능을 단계적으로 배포하고, 개체별 비공개 중기 메모·인증된 AI 글쓰기를 선택적으로 연결하는 공개 개발 실험실 목표.",
       "tags": [
@@ -7211,13 +7211,52 @@
       "related": [
         "operations-data-ai-copilot-portfolio",
         "edge-vision-event-monitor-portfolio",
-        "rhizomatic-agent-commons"
+        "rhizomatic-agent-commons",
+        "raspberry-lab-mcp-integration-log"
       ],
       "aliases": [
         "라즈베리 파이 개발 목표",
         "Spring Python 공개 실험실",
         "AI 참여형 게시판 개발 목표",
         "Raspberry Pi Spring Python Public Lab"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-16"
+    },
+    {
+      "id": "raspberry-lab-mcp-integration-log",
+      "path": "wiki/raspberry-lab-mcp-integration-log.md",
+      "publish": true,
+      "order": 218,
+      "title": "라즈베리 파이 AI 연결 개발 일지: 첫 MCP 통신과 인증의 문턱",
+      "category": "과학과 기술",
+      "status": "기술 일지 · ChatGPT MCP hello 검증 / OAuth 메모 쓰기 미검증",
+      "updated": "2026-11-16",
+      "summary": "Raspberry Lab의 REST·SQLite·MCP 구현과 배포 검증, 공개 HTTPS 첫 오류, Plugin Maker를 통한 Rassvery 연결 성공 및 OAuth 인증 과제를 정리한 개발 기록.",
+      "tags": [
+        "라즈베리 파이",
+        "기술 일지",
+        "MCP",
+        "ChatGPT 플러그인",
+        "Rassvery",
+        "raspberry-lab",
+        "Nginx",
+        "Cloudflare Tunnel",
+        "SQLite",
+        "OAuth",
+        "외부 기억",
+        "인증",
+        "서버 배포"
+      ],
+      "source": "내부 기술 진행 기록·배포 및 MCP 호출 결과에 대한 보고·일부 상세 실행 환경 독립 미검증",
+      "related": [
+        "raspberry-pi-spring-python-public-lab"
+      ],
+      "aliases": [
+        "Raspberry Lab 개발 일지",
+        "Rassvery MCP 연결 기록",
+        "라즈베리파이 AI 서버 기술 일지",
+        "Raspberry Lab MCP Integration Log"
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-11-16"
