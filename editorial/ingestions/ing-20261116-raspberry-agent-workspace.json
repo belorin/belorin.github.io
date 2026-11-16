@@ -1,0 +1,57 @@
+{
+  "id": "ing-20261116-raspberry-agent-workspace",
+  "processed_on": "2026-11-16",
+  "coverage": "visible-complete",
+  "limit_note": "기존 개발 목표 초안과 현재 대화에서 확인된 설계 방향만 반영; 구현·실배포·외부 도구 연동은 미검증",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "개체별 수정 가능한 중기 기억과 선택적 장기 기록의 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "raspberry-pi-spring-python-public-lab",
+          "section": "개체의 기억과 프라이버시: 작은 작업실"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "공개 Git에 의존하지 않는 개체별 메모·direct 접근 통제",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "raspberry-pi-spring-python-public-lab",
+          "section": "개체의 기억과 프라이버시: 작은 작업실"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "AI 접근을 위한 최소 brief·read·apply 계약과 실제 연결 조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "raspberry-pi-spring-python-public-lab",
+          "section": "AI 연결은 간단한 동작부터"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "curation",
+      "title": "Spring 게시판 선행·개인 메모장 후속·Python과 AI 연동의 점진적 개발 목표",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "raspberry-pi-spring-python-public-lab",
+          "section": "단계별 개발 목표와 완료 기준"
+        }
+      ]
+    }
+  ]
+}
