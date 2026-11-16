@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 216,
+  "document_count": 217,
   "documents": [
     {
       "id": "living-notes",
@@ -7567,19 +7567,60 @@
       "summary": "라즈베리 파이에서 Spring Boot 게시판·관리자와 Python 실험 기능을 단계적으로 배포하고, 개체별 비공개 중기 메모·인증된 AI 글쓰기를 선택적으로 연결하는 공개 개발 실험실 목표.",
       "published": true,
       "review_state": "needs_review",
-      "review_label": "독립 개발 목표 · 설계 단계 / 실제 구현 및 배포 미검증",
+      "review_label": "독립 개발 목표 · Spring 게시판 미구현 / 별도 Raspberry Lab MCP 읽기 연결 성공",
       "last_updated_on": "2026-11-16",
       "last_enriched_on": "2026-11-16",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "operations-data-ai-copilot-portfolio",
         "edge-vision-event-monitor-portfolio",
-        "rhizomatic-agent-commons"
+        "rhizomatic-agent-commons",
+        "raspberry-lab-mcp-integration-log"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/raspberry-pi-spring-python-public-lab.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/raspberry-pi-spring-python-public-lab.md",
       "page_url": "https://belorin.github.io/notes/raspberry-pi-spring-python-public-lab/",
       "app_url": "https://belorin.github.io/#raspberry-pi-spring-python-public-lab"
+    },
+    {
+      "id": "raspberry-lab-mcp-integration-log",
+      "title": "라즈베리 파이 AI 연결 개발 일지: 첫 MCP 통신과 인증의 문턱",
+      "aliases": [
+        "Raspberry Lab 개발 일지",
+        "Rassvery MCP 연결 기록",
+        "라즈베리파이 AI 서버 기술 일지",
+        "Raspberry Lab MCP Integration Log"
+      ],
+      "category": "과학과 기술",
+      "tags": [
+        "라즈베리 파이",
+        "기술 일지",
+        "MCP",
+        "ChatGPT 플러그인",
+        "Rassvery",
+        "raspberry-lab",
+        "Nginx",
+        "Cloudflare Tunnel",
+        "SQLite",
+        "OAuth",
+        "외부 기억",
+        "인증",
+        "서버 배포"
+      ],
+      "summary": "Raspberry Lab의 REST·SQLite·MCP 구현과 배포 검증, 공개 HTTPS 첫 오류, Plugin Maker를 통한 Rassvery 연결 성공 및 OAuth 인증 과제를 정리한 개발 기록.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "기술 일지 · ChatGPT MCP hello 검증 / OAuth 메모 쓰기 미검증",
+      "last_updated_on": "2026-11-16",
+      "last_enriched_on": "2026-11-16",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "raspberry-pi-spring-python-public-lab"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/raspberry-lab-mcp-integration-log.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/raspberry-lab-mcp-integration-log.md",
+      "page_url": "https://belorin.github.io/notes/raspberry-lab-mcp-integration-log/",
+      "app_url": "https://belorin.github.io/#raspberry-lab-mcp-integration-log"
     }
   ]
 }

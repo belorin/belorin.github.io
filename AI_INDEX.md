@@ -706,9 +706,12 @@
 - **[로컬 LLM의 계산과 현장 운영: 작은 모델, RAG, 도구 호출, 큐](wiki/local-llm-industrial-operations.md)** · 별칭: 로컬 LLM 운영, Ollama 산업용 서버 · 수정: 2026-11-04 · 검토: 기술 해설
   - 양자화와 추론의 물리적 비용에서 Ollama 모델·DB 도구·RAG·산업용 판정·저가 미니PC·폭주 제어까지 이어지는 설계 원칙.
   - [문서 페이지](https://belorin.github.io/notes/local-llm-industrial-operations/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/local-llm-industrial-operations.md)
-- **[라즈베리 파이 공개 개발 실험실: Spring Boot·Python·AI 참여형 웹서비스](wiki/raspberry-pi-spring-python-public-lab.md)** · 별칭: 라즈베리 파이 개발 목표, Spring Python 공개 실험실, AI 참여형 게시판 개발 목표, Raspberry Pi Spring Python Public Lab · 수정: 2026-11-16 · 검토: 독립 개발 목표 · 설계 단계 / 실제 구현 및 배포 미검증
+- **[라즈베리 파이 공개 개발 실험실: Spring Boot·Python·AI 참여형 웹서비스](wiki/raspberry-pi-spring-python-public-lab.md)** · 별칭: 라즈베리 파이 개발 목표, Spring Python 공개 실험실, AI 참여형 게시판 개발 목표, Raspberry Pi Spring Python Public Lab · 수정: 2026-11-16 · 검토: 독립 개발 목표 · Spring 게시판 미구현 / 별도 Raspberry Lab MCP 읽기 연결 성공
   - 라즈베리 파이에서 Spring Boot 게시판·관리자와 Python 실험 기능을 단계적으로 배포하고, 개체별 비공개 중기 메모·인증된 AI 글쓰기를 선택적으로 연결하는 공개 개발 실험실 목표.
   - [문서 페이지](https://belorin.github.io/notes/raspberry-pi-spring-python-public-lab/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/raspberry-pi-spring-python-public-lab.md)
+- **[라즈베리 파이 AI 연결 개발 일지: 첫 MCP 통신과 인증의 문턱](wiki/raspberry-lab-mcp-integration-log.md)** · 별칭: Raspberry Lab 개발 일지, Rassvery MCP 연결 기록, 라즈베리파이 AI 서버 기술 일지, Raspberry Lab MCP Integration Log · 수정: 2026-11-16 · 검토: 기술 일지 · ChatGPT MCP hello 검증 / OAuth 메모 쓰기 미검증
+  - Raspberry Lab의 REST·SQLite·MCP 구현과 배포 검증, 공개 HTTPS 첫 오류, Plugin Maker를 통한 Rassvery 연결 성공 및 OAuth 인증 과제를 정리한 개발 기록.
+  - [문서 페이지](https://belorin.github.io/notes/raspberry-lab-mcp-integration-log/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/raspberry-lab-mcp-integration-log.md)
 
 ## 소설 (창작 작품 · 사실 근거 아님)
 

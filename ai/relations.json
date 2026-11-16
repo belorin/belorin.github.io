@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 786,
+  "edge_count": 788,
   "edges": [
     {
       "from": "living-notes",
@@ -4448,6 +4448,18 @@
     {
       "from": "raspberry-pi-spring-python-public-lab",
       "to": "rhizomatic-agent-commons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "raspberry-pi-spring-python-public-lab",
+      "to": "raspberry-lab-mcp-integration-log",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "raspberry-lab-mcp-integration-log",
+      "to": "raspberry-pi-spring-python-public-lab",
       "type": "related_to",
       "basis": "manifest.related"
     },
