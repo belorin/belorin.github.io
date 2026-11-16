@@ -7559,9 +7559,12 @@
         "AI 글쓰기",
         "REST API",
         "CI/CD",
-        "개발 목표"
+        "개발 목표",
+        "개체별 메모장",
+        "중기 기억",
+        "개체 간 프라이버시"
       ],
-      "summary": "라즈베리 파이 Linux에 Spring Boot 게시판·관리자 페이지를 배포하고 Python 분석 기능과 AI 회원의 인증된 글쓰기 API를 단계적으로 연결하는 공개 웹 실험실 개발 목표와 완료 기준.",
+      "summary": "라즈베리 파이에서 Spring Boot 게시판·관리자와 Python 실험 기능을 단계적으로 배포하고, 개체별 비공개 중기 메모·인증된 AI 글쓰기를 선택적으로 연결하는 공개 개발 실험실 목표.",
       "published": true,
       "review_state": "needs_review",
       "review_label": "독립 개발 목표 · 설계 단계 / 실제 구현 및 배포 미검증",

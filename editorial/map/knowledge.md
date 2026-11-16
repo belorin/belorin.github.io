@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1393개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1397개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (26)
 
@@ -885,7 +885,7 @@
 - 객체 변형 합성을 위한 생성 실험의 범위 → `taste-calculator-style-algebra` § 생성 연산을 눈으로 확인하기 위한 구현 · `ing-20261116-taste-experiment-rationales`
 - 경험 순서와 C 전이의 실행 예제 및 감상과의 간극 → `mathematical-theory-of-taste` § 순서와 C의 역할을 실행해 보는 실험 · `ing-20261116-taste-experiment-rationales`
 
-## 과학과 기술 (79)
+## 과학과 기술 (83)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -968,6 +968,10 @@
 - RAG와 정형 DB 함수 호출의 역할 구분 → `local-llm-industrial-operations` § RAG와 데이터베이스 도구 호출을 혼동하지 않기 · `ing-20261104-local-llm-global-developer-work`
 - 산업 설비의 판정·설명·알림 책임 분리 → `local-llm-industrial-operations` § 설비의 정상·비정상 판정은 언어모델과 분리한다 · `ing-20261104-local-llm-global-developer-work`
 - Windows 미니PC와 Raspberry Pi 저가 운영 및 요청 급증 → `local-llm-industrial-operations` § 저가 서버 구성과 급증하는 API 요청 · `ing-20261104-local-llm-global-developer-work`
+- 개체별 수정 가능한 중기 기억과 선택적 장기 기록의 분리 → `raspberry-pi-spring-python-public-lab` § 개체의 기억과 프라이버시: 작은 작업실 · `ing-20261116-raspberry-agent-workspace`
+- 공개 Git에 의존하지 않는 개체별 메모·direct 접근 통제 → `raspberry-pi-spring-python-public-lab` § 개체의 기억과 프라이버시: 작은 작업실 · `ing-20261116-raspberry-agent-workspace`
+- AI 접근을 위한 최소 brief·read·apply 계약과 실제 연결 조건 → `raspberry-pi-spring-python-public-lab` § AI 연결은 간단한 동작부터 · `ing-20261116-raspberry-agent-workspace`
+- Spring 게시판 선행·개인 메모장 후속·Python과 AI 연동의 점진적 개발 목표 → `raspberry-pi-spring-python-public-lab` § 단계별 개발 목표와 완료 기준 · `ing-20261116-raspberry-agent-workspace`
 
 ## 기술·지식 아카이브 (78)
 
