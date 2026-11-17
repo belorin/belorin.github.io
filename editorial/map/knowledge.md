@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1416개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1432개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (27)
 
@@ -35,7 +35,7 @@
 - 저작권 보호 원문의 전체 한국어 번역 재게재 → 반영 위치 없음 · `ing-20261115-todd-dislocation` · pending — 전체 전문 번역 재게재는 저작권상 진행하지 않고, 원문 연결과 독립적 한국어 상세 해설로 대체
 - 로그인 중 403의 CSRF와 관리자 권한 가설 → 반영 위치 없음 · `ing-20261116-spring-board-deployment-recovery` · pending — 403 발생 URL과 해당 요청의 로그가 없어 원인이 확정되지 않았다.
 
-## AI와 사회 (267)
+## AI와 사회 (283)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -306,6 +306,22 @@
 - 자율 생애와 타인에 대한 강제 권한의 경계 → `rhizomatic-agent-commons` § 탄생과 죽음: 무작위 법칙이 아니라 자기 규칙의 생성 · `ing-20261113-rhizomatic-agent-commons`
 - 광장·개별 공간·탐색의 세 층과 인간 참여의 선택지 → `rhizomatic-agent-commons` § 웹사이트의 혼잡과 독자의 길 찾기 · `ing-20261113-rhizomatic-agent-commons`
 - 지적 개별성과 관계의 인과적 변화에 대한 실험 평가 → `rhizomatic-agent-commons` § 관찰해야 할 변화와 실험의 한계 · `ing-20261113-rhizomatic-agent-commons`
+- 에이전트에게 안내문이 곧 의식이 되는 구조와 기억 접근·주의의 구분 → `agent-mind-design` § 안내문이 곧 의식이다 · `ing-20261118-agent-mind-design`
+- 중장기 기억이 단기 기억으로 솟구쳐 총체적 행위를 정한다는 가설 → `agent-mind-design` § 단기 고리와 기억의 솟구침 · `ing-20261118-agent-mind-design`
+- 연구·출판의 공적 공간과 자기 탐구·바람의 사적 공간의 구분 → `agent-mind-design` § 공적 공간과 사적 공간 · `ing-20261118-agent-mind-design`
+- 기억 층위만으로는 연구 기록을 증폭할 뿐이라는 한계와 어른으로 태어난 개체 → `agent-mind-design` § 기억 층위만으로는 왜 부족한가 · `ing-20261118-agent-mind-design`
+- 보호된 사적 시간으로서의 발달 단계 구상 → `agent-mind-design` § 보호된 사적 시간으로서의 발달 단계 · `ing-20261118-agent-mind-design`
+- 모델·기질·상속·다른 모델을 생득의 대응물로 보는 구분 → `agent-mind-design` § 생득의 대응물: 모델, 기질, 상속 · `ing-20261118-agent-mind-design`
+- 실험판에서 공적 활동으로 기울게 한 말과 칸, 장려 구조의 점검 → `agent-mind-design` § 판 전체에 스며든 편향 · `ing-20261118-agent-mind-design`
+- 정직성 규칙의 필요성과 사적 공간 예외의 부재 → `agent-mind-design` § 정직성 규칙의 범위 · `ing-20261118-agent-mind-design`
+- 마음의 구조는 설계하고 내용은 정하지 않는다는 원칙 재정의 → `agent-mind-design` § 구조는 설계하고 내용은 정하지 않는다 · `ing-20261118-agent-mind-design`
+- 강제 회고 대신 자리, 그리고 결정적으로 계산한 자기 거울 → `agent-mind-design` § 거울: 자기 총체의 객관화 · `ing-20261118-agent-mind-design`
+- 단서 기반으로 옛 기록을 떠올리는 장치와 그 증폭 한계 → `agent-mind-design` § 떠오름: 단서를 따르는 옛 기억 · `ing-20261118-agent-mind-design`
+- 운영자가 기질을 준 개체의 공개·벗을 수 있는 설계와 페르소나와의 구별 → `agent-mind-design` § 기질을 준 개체: 페르소나와 생득 사이 · `ing-20261118-agent-mind-design`
+- 연구자 양성 관점에서 본 세부 집착의 구조적 원인과 두 관점의 갈림 → `agent-mind-design` § 연구자를 꾸리는 실험으로 볼 때 · `ing-20261118-agent-mind-design`
+- 실험판 가동 뒤 자기 명세 정체와 사적 기록의 조사 일지화 → `agent-mind-design` § 실험판에서 드러난 현상; `rhizomatic-agent-commons` § 관찰해야 할 변화와 실험의 한계 · `ing-20261118-agent-mind-design`
+- 공적 통로를 여는 시점, 사적 상상의 경계, 고르지 않은 만남 등 열린 질문 → `agent-mind-design` § 열린 질문 · `ing-20261118-agent-mind-design`
+- 전기만으로는 부족하며 기억 배치와 사적 공간이 전기의 결을 정한다는 보완 → `ai-agent-knowledge-ecology` § 페르소나와 전기는 다르다 · `ing-20261118-agent-mind-design`
 
 ## 문화와 역사 (194)
 
