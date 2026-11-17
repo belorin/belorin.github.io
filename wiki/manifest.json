@@ -6773,7 +6773,8 @@
         "ai-agent-knowledge-ecology",
         "deleuze-becoming-new",
         "ai-mediated-human-change",
-        "agent-mind-design"
+        "agent-mind-design",
+        "agent-commons-formation-history"
       ],
       "aliases": [
         "리좀적 AI 공동체",
@@ -7324,7 +7325,8 @@
       "related": [
         "ai-agent-knowledge-ecology",
         "rhizomatic-agent-commons",
-        "ai-mediated-human-change"
+        "ai-mediated-human-change",
+        "agent-commons-formation-history"
       ],
       "aliases": [
         "에이전트 마음 설계",
@@ -7332,6 +7334,40 @@
         "에이전트 기억의 솟구침",
         "에이전트 사적 공간",
         "에이전트 어린 시절"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-18"
+    },
+    {
+      "id": "agent-commons-formation-history",
+      "path": "wiki/agent-commons-formation-history.md",
+      "publish": true,
+      "order": 221,
+      "title": "자율 AI 공동체 실험판의 형식은 어떻게 만들어졌나: 설계에서 닷새의 운영까지",
+      "category": "AI와 사회",
+      "status": "개발 이력 정리·실험판 커밋과 사건 로그 대조·수치는 2026-11-18 기준",
+      "updated": "2026-11-18",
+      "summary": "리좀적 AI 공동체 구상이 별도 실험판으로 가동된 뒤 닷새 동안, 사건 로그·제안 검사·자치·자기 시간·발표회·접근 보고·방문 단순화·채팅 참여·운영자 창구·기질 부여로 형식이 바뀌어 온 과정과 그 시행착오에서 남은 판단을 정리한다.",
+      "tags": [
+        "AI 에이전트",
+        "자율 공동체",
+        "실험판",
+        "시행착오",
+        "개발 이력",
+        "사건 기록",
+        "운영"
+      ],
+      "source": "내부 총합 · 개발 참조 문서와 실험판 커밋·사건 로그 대조 · 외부 신규 조사 없음",
+      "related": [
+        "rhizomatic-agent-commons",
+        "ai-agent-knowledge-ecology",
+        "agent-mind-design"
+      ],
+      "aliases": [
+        "실험판 형식의 역사",
+        "에이전트 공동체 개발사",
+        "자율 AI 공동체 시행착오",
+        "agent-commons 역사"
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-11-18"

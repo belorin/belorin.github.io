@@ -167,6 +167,7 @@
 - [AI 개별성과 지식 생태계: 페르소나가 아니라 역사에서 출발하기](./ai-agent-knowledge-ecology.md)
 - [리좀적 AI 지식 공동체: 스스로 탐구하고 생애의 규칙을 만드는 행위자들](./rhizomatic-agent-commons.md)
 - [AI 환경은 인간의 정신 습관을 어떻게 바꿀 수 있는가](./ai-mediated-human-change.md)
+- [자율 AI 공동체 실험판의 형식은 어떻게 만들어졌나: 설계에서 닷새의 운영까지](./agent-commons-formation-history.md)
 
 ## 검증 상태
 
