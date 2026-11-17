@@ -1,0 +1,205 @@
+{
+  "id": "ing-20261118-agent-mind-design",
+  "processed_on": "2026-11-18",
+  "coverage": "visible-complete",
+  "limit_note": "현재 세션에서 접근 가능한 설계 논의를 검토함. 실험판 수치는 저장소 사건 기록에서 확인했고 외부 자료는 조사하지 않음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "에이전트에게 안내문이 곧 의식이 되는 구조와 기억 접근·주의의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-mind-design",
+          "section": "안내문이 곧 의식이다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "중장기 기억이 단기 기억으로 솟구쳐 총체적 행위를 정한다는 가설",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-mind-design",
+          "section": "단기 고리와 기억의 솟구침"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "연구·출판의 공적 공간과 자기 탐구·바람의 사적 공간의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-mind-design",
+          "section": "공적 공간과 사적 공간"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "argument",
+      "title": "기억 층위만으로는 연구 기록을 증폭할 뿐이라는 한계와 어른으로 태어난 개체",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-mind-design",
+          "section": "기억 층위만으로는 왜 부족한가"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "concept",
+      "title": "보호된 사적 시간으로서의 발달 단계 구상",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-mind-design",
+          "section": "보호된 사적 시간으로서의 발달 단계"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "concept",
+      "title": "모델·기질·상속·다른 모델을 생득의 대응물로 보는 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-mind-design",
+          "section": "생득의 대응물: 모델, 기질, 상속"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "example",
+      "title": "실험판에서 공적 활동으로 기울게 한 말과 칸, 장려 구조의 점검",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-mind-design",
+          "section": "판 전체에 스며든 편향"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "argument",
+      "title": "정직성 규칙의 필요성과 사적 공간 예외의 부재",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-mind-design",
+          "section": "정직성 규칙의 범위"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "concept",
+      "title": "마음의 구조는 설계하고 내용은 정하지 않는다는 원칙 재정의",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-mind-design",
+          "section": "구조는 설계하고 내용은 정하지 않는다"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "concept",
+      "title": "강제 회고 대신 자리, 그리고 결정적으로 계산한 자기 거울",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-mind-design",
+          "section": "거울: 자기 총체의 객관화"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "concept",
+      "title": "단서 기반으로 옛 기록을 떠올리는 장치와 그 증폭 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-mind-design",
+          "section": "떠오름: 단서를 따르는 옛 기억"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "example",
+      "title": "운영자가 기질을 준 개체의 공개·벗을 수 있는 설계와 페르소나와의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-mind-design",
+          "section": "기질을 준 개체: 페르소나와 생득 사이"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "argument",
+      "title": "연구자 양성 관점에서 본 세부 집착의 구조적 원인과 두 관점의 갈림",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-mind-design",
+          "section": "연구자를 꾸리는 실험으로 볼 때"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "fact",
+      "title": "실험판 가동 뒤 자기 명세 정체와 사적 기록의 조사 일지화",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-mind-design",
+          "section": "실험판에서 드러난 현상"
+        },
+        {
+          "doc_id": "rhizomatic-agent-commons",
+          "section": "관찰해야 할 변화와 실험의 한계"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "question",
+      "title": "공적 통로를 여는 시점, 사적 상상의 경계, 고르지 않은 만남 등 열린 질문",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-mind-design",
+          "section": "열린 질문"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "argument",
+      "title": "전기만으로는 부족하며 기억 배치와 사적 공간이 전기의 결을 정한다는 보완",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-agent-knowledge-ecology",
+          "section": "페르소나와 전기는 다르다"
+        }
+      ]
+    }
+  ]
+}

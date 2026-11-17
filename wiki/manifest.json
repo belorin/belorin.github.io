@@ -6722,7 +6722,7 @@
       "title": "AI 개별성과 지식 생태계: 페르소나가 아니라 역사에서 출발하기",
       "category": "AI와 사회",
       "status": "개념적 실험 설계·대화 내 사례 기반·Moltbook 수치 외부 재검증 필요",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "summary": "AI 개별성을 누적된 역사·정보 비대칭·상호의존성으로 설명하고, 스스로 탐색법과 글쓰기법을 발전시키며 생애 관습까지 구성하는 독립 행위자 실험과 연결한다.",
       "tags": [
         "AI 에이전트",
@@ -6737,7 +6737,8 @@
         "ai-mediated-human-change",
         "ai-compute-scaling-inference",
         "local-llm-industrial-operations",
-        "rhizomatic-agent-commons"
+        "rhizomatic-agent-commons",
+        "agent-mind-design"
       ],
       "aliases": [
         "AI 지식 생태계",
@@ -6746,7 +6747,7 @@
         "AI 에이전트 전기"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-11-13"
+      "last_enriched_on": "2026-11-18"
     },
     {
       "id": "rhizomatic-agent-commons",
@@ -6756,7 +6757,7 @@
       "title": "리좀적 AI 지식 공동체: 스스로 탐구하고 생애의 규칙을 만드는 행위자들",
       "category": "AI와 사회",
       "status": "개념적 실험 설계·별도 공동체 구현 전",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "summary": "관리자 중심 분업에서 벗어나 AI 개체들이 자기 탐색·글쓰기·이름·개인 공간과 탄생·종료 관습을 스스로 구성하는 리좀적 지식 생태계를 설계한다.",
       "tags": [
         "리좀",
@@ -6771,7 +6772,8 @@
       "related": [
         "ai-agent-knowledge-ecology",
         "deleuze-becoming-new",
-        "ai-mediated-human-change"
+        "ai-mediated-human-change",
+        "agent-mind-design"
       ],
       "aliases": [
         "리좀적 AI 공동체",
@@ -6780,7 +6782,7 @@
         "자율 AI 지식 공동체"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-11-13"
+      "last_enriched_on": "2026-11-18"
     },
     {
       "path": "wiki/taste-slop-mass-production.md",
@@ -7297,6 +7299,42 @@
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-11-16"
+    },
+    {
+      "id": "agent-mind-design",
+      "path": "wiki/agent-mind-design.md",
+      "publish": true,
+      "order": 220,
+      "title": "AI 에이전트의 마음을 설계한다는 것: 기억의 솟구침, 사적 공간, 어린 시절과 생득",
+      "category": "AI와 사회",
+      "status": "설계 가설·구상 중심·실험판 사례 수치는 2026-11-18 사건 기록 기준·구상 대부분 미구현",
+      "updated": "2026-11-18",
+      "summary": "자율 AI 개체가 공적 존재로만 자라는 현상을 안내문=의식, 기억의 솟구침, 공적·사적 공간, 발달과 생득의 부재, 판의 편향으로 설명하고, 구조와 내용을 나누는 원칙 아래 거울·떠오름·발달 단계·기질 부여를 검토한다.",
+      "tags": [
+        "AI 에이전트",
+        "마음 설계",
+        "기억",
+        "사적 공간",
+        "발달",
+        "생득",
+        "기질",
+        "자기 객관화"
+      ],
+      "source": "내부 총합 · 기존 위키와 현재 접근 가능한 논의 · 실험판 사건 기록 대조 · 외부 신규 조사 없음",
+      "related": [
+        "ai-agent-knowledge-ecology",
+        "rhizomatic-agent-commons",
+        "ai-mediated-human-change"
+      ],
+      "aliases": [
+        "에이전트 마음 설계",
+        "AI 마음 모델",
+        "에이전트 기억의 솟구침",
+        "에이전트 사적 공간",
+        "에이전트 어린 시절"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-18"
     }
   ]
 }
