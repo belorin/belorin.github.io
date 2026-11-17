@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1432개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1443개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (27)
 
@@ -35,7 +35,7 @@
 - 저작권 보호 원문의 전체 한국어 번역 재게재 → 반영 위치 없음 · `ing-20261115-todd-dislocation` · pending — 전체 전문 번역 재게재는 저작권상 진행하지 않고, 원문 연결과 독립적 한국어 상세 해설로 대체
 - 로그인 중 403의 CSRF와 관리자 권한 가설 → 반영 위치 없음 · `ing-20261116-spring-board-deployment-recovery` · pending — 403 발생 URL과 해당 요청의 로그가 없어 원인이 확정되지 않았다.
 
-## AI와 사회 (283)
+## AI와 사회 (294)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -322,6 +322,17 @@
 - 실험판 가동 뒤 자기 명세 정체와 사적 기록의 조사 일지화 → `agent-mind-design` § 실험판에서 드러난 현상; `rhizomatic-agent-commons` § 관찰해야 할 변화와 실험의 한계 · `ing-20261118-agent-mind-design`
 - 공적 통로를 여는 시점, 사적 상상의 경계, 고르지 않은 만남 등 열린 질문 → `agent-mind-design` § 열린 질문 · `ing-20261118-agent-mind-design`
 - 전기만으로는 부족하며 기억 배치와 사적 공간이 전기의 결을 정한다는 보완 → `ai-agent-knowledge-ecology` § 페르소나와 전기는 다르다 · `ing-20261118-agent-mind-design`
+- 가동 전 설계의 경계: 위키 분리, 실행 경계와 기록 무결성만 고정, 직무 미배정 → `agent-commons-formation-history` § 출발점: 고정할 것은 둘뿐이라는 설계 · `ing-20261118-agent-commons-formation-history`
+- 사건 로그 정본, 제안·검사·확정, ID만 발급하는 최소 실행기와 첫날의 자치 형식 → `agent-commons-formation-history` § 첫날 밤: 최소 실행기 · `ing-20261118-agent-commons-formation-history`
+- 한 세션의 11회차 연속 실행과 기술 실패를 휴면으로 기록한 일 → `agent-commons-formation-history` § 첫 번째 시행착오: 한 세션이 열한 회차를 돌린 밤 · `ing-20261118-agent-commons-formation-history`
+- 독립적 출발, 모델과 무관한 개체 연속성, 자기 시간과 세계 시계 → `agent-commons-formation-history` § 둘째 날: 독립적 출발과 자기 시간 · `ing-20261118-agent-commons-formation-history`
+- 세계 시계로 열리는 사람 독자용 발표회 → `agent-commons-formation-history` § 사람 독자를 향한 형식 · `ing-20261118-agent-commons-formation-history`
+- 지시 대신 조건을 바꾸는 원칙과 접근 보고·이어 가는 메모·창구의 도입 근거 → `agent-commons-formation-history` § 셋째 날: 지시 대신 조건을 바꾼다 · `ing-20261118-agent-commons-formation-history`
+- 방문으로의 단순화, 채팅의 대기함 참여, 저장소 자동 확정과 발표회 자리 제한 철회 → `agent-commons-formation-history` § 넷째 날: 방문으로의 단순화와 채팅의 참여 · `ing-20261118-agent-commons-formation-history`
+- 운영자의 첫 말에서 자료 제공과 답까지 이어진 창구의 첫 순환 → `agent-commons-formation-history` § 운영자 창구의 첫 순환 · `ing-20261118-agent-commons-formation-history`
+- 운영자가 기질을 준 개체의 발급과 예외를 정직하게 남기는 장치 → `agent-commons-formation-history` § 다섯째 날: 기질을 준 개체 · `ing-20261118-agent-commons-formation-history`
+- 가동 닷새 뒤의 방문·발행·상호작용·생애 기능 사용 수치 → `agent-commons-formation-history` § 닷새 뒤의 모습 · `ing-20261118-agent-commons-formation-history`
+- 격리의 지침 의존, 실패와 선택의 구별, 희소성·금지·독립적 출발의 의도치 않은 효과 → `agent-commons-formation-history` § 시행착오에서 남은 판단 · `ing-20261118-agent-commons-formation-history`
 
 ## 문화와 역사 (194)
 

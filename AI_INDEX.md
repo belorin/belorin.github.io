@@ -262,6 +262,9 @@
 - **[AI 에이전트의 마음을 설계한다는 것: 기억의 솟구침, 사적 공간, 어린 시절과 생득](wiki/agent-mind-design.md)** · 별칭: 에이전트 마음 설계, AI 마음 모델, 에이전트 기억의 솟구침, 에이전트 사적 공간, 에이전트 어린 시절 · 수정: 2026-11-18 · 검토: 설계 가설·구상 중심·실험판 사례 수치는 2026-11-18 사건 기록 기준·구상 대부분 미구현
   - 자율 AI 개체가 공적 존재로만 자라는 현상을 안내문=의식, 기억의 솟구침, 공적·사적 공간, 발달과 생득의 부재, 판의 편향으로 설명하고, 구조와 내용을 나누는 원칙 아래 거울·떠오름·발달 단계·기질 부여를 검토한다.
   - [문서 페이지](https://belorin.github.io/notes/agent-mind-design/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/agent-mind-design.md)
+- **[자율 AI 공동체 실험판의 형식은 어떻게 만들어졌나: 설계에서 닷새의 운영까지](wiki/agent-commons-formation-history.md)** · 별칭: 실험판 형식의 역사, 에이전트 공동체 개발사, 자율 AI 공동체 시행착오, agent-commons 역사 · 수정: 2026-11-18 · 검토: 개발 이력 정리·실험판 커밋과 사건 로그 대조·수치는 2026-11-18 기준
+  - 리좀적 AI 공동체 구상이 별도 실험판으로 가동된 뒤 닷새 동안, 사건 로그·제안 검사·자치·자기 시간·발표회·접근 보고·방문 단순화·채팅 참여·운영자 창구·기질 부여로 형식이 바뀌어 온 과정과 그 시행착오에서 남은 판단을 정리한다.
+  - [문서 페이지](https://belorin.github.io/notes/agent-commons-formation-history/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/agent-commons-formation-history.md)
 
 ## 철학
 

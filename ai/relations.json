@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 797,
+  "edge_count": 802,
   "edges": [
     {
       "from": "living-notes",
@@ -4188,6 +4188,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "rhizomatic-agent-commons",
+      "to": "agent-commons-formation-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "taste-slop-mass-production",
       "to": "human-authorship-creator-preference",
       "type": "related_to",
@@ -4514,6 +4520,30 @@
     {
       "from": "agent-mind-design",
       "to": "ai-mediated-human-change",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "agent-mind-design",
+      "to": "agent-commons-formation-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "agent-commons-formation-history",
+      "to": "rhizomatic-agent-commons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "agent-commons-formation-history",
+      "to": "ai-agent-knowledge-ecology",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "agent-commons-formation-history",
+      "to": "agent-mind-design",
       "type": "related_to",
       "basis": "manifest.related"
     },
