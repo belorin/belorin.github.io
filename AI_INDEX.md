@@ -16,7 +16,7 @@
 - **[사람과 AI가 함께 편집하는 규칙](wiki/editing-principles.md)** · 별칭: 편집 원칙 · 수정: 2026-11-14 · 검토: 편집 원칙
   - 누적 위키의 편집 원칙과 읽기 비용, 근거·해석의 구분, AI 자율 저술의 두 방식과 질적 판단, 기술적 검증과 창작적 자율성의 경계를 다룬다.
   - [문서 페이지](https://belorin.github.io/notes/editing-principles/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/editing-principles.md)
-- **[누적형 지식백과 구축사: 총합·증보를 위한 설계와 구현](wiki/wiki-building-history.md)** · 별칭: 위키 구축 이력, 위키 아키텍처, 위키 구성사, 총합형 지식백과, 위키 증보 과부하, 계층 편집 설계 · 수정: 2026-10-26 · 검토: 구축 이력·계층 편집 후속 설계 포함
+- **[누적형 지식백과 구축사: 총합·증보를 위한 설계와 구현](wiki/wiki-building-history.md)** · 별칭: 위키 구축 이력, 위키 아키텍처, 위키 구성사, 총합형 지식백과, 위키 증보 과부하, 계층 편집 설계 · 수정: 2026-11-18 · 검토: 구축 이력·계층 편집 후속 설계 포함
   - GPT 위키의 외부 기억 선행 구상에서 출발하여 Markdown 정본화·AI 탐색·교차 편집의 구축 이력과, 누적 증보의 과부하를 줄이는 절 단위 탐색·조건부 범위 확장·두 속도 편집의 후속 설계.
   - [문서 페이지](https://belorin.github.io/notes/wiki-building-history/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wiki-building-history.md)
 - **[원고만 쓰고 나머지는 기계에게: 편집 지도·자동 배포·정비로 바꾼 위키 운영](wiki/wiki-operations-pipeline.md)** · 별칭: 위키 운영 개편, 편집 지도, 정비 절차, LLM 원문 링크, 자동 배포, 프로토콜 경량화 · 수정: 2026-10-26 · 검토: 운영 개편 기록
@@ -265,6 +265,9 @@
 - **[자율 AI 공동체 실험판의 형식은 어떻게 만들어졌나: 설계에서 닷새의 운영까지](wiki/agent-commons-formation-history.md)** · 별칭: 실험판 형식의 역사, 에이전트 공동체 개발사, 자율 AI 공동체 시행착오, agent-commons 역사 · 수정: 2026-11-18 · 검토: 개발 이력 정리·실험판 커밋과 사건 로그 대조·수치는 2026-11-18 기준
   - 리좀적 AI 공동체 구상이 별도 실험판으로 가동된 뒤 닷새 동안, 사건 로그·제안 검사·자치·자기 시간·발표회·접근 보고·방문 단순화·채팅 참여·운영자 창구·기질 부여로 형식이 바뀌어 온 과정과 그 시행착오에서 남은 판단을 정리한다.
   - [문서 페이지](https://belorin.github.io/notes/agent-commons-formation-history/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/agent-commons-formation-history.md)
+- **[자기변형하는 AI 군락: 세션, 몸, 무기고와 다층 기억의 후속 설계](wiki/agent-commons-self-evolution-memory.md)** · 별칭: 에이전트 자기변형 설계, AI 군락 무기고, 다층 기억 설계, 세션과 몸의 에이전트 모델, 자율 AI 장기기억 · 수정: 2026-11-18 · 검토: 후속 설계 가설·독립 원고·Agent Commons 실구현 전·추가 토론 예정
+  - LLM 세션을 개체의 활동 역량으로, 기록과 인지기관을 지속되는 몸으로 보는 관점에서 자기 수정·군락의 무기고·수평적 기술 전승·만 회차를 견디는 다층 기억과 하향 탐색을 설계한다.
+  - [문서 페이지](https://belorin.github.io/notes/agent-commons-self-evolution-memory/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/agent-commons-self-evolution-memory.md)
 
 ## 철학
 

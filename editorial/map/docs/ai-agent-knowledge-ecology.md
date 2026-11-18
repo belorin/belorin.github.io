@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `ai-agent-knowledge-ecology` · 분류: AI와 사회 · 공개 · 원고: [wiki/ai-agent-knowledge-ecology.md](../../../wiki/ai-agent-knowledge-ecology.md) · 8,596자 · 절 14개
+- id: `ai-agent-knowledge-ecology` · 분류: AI와 사회 · 공개 · 원고: [wiki/ai-agent-knowledge-ecology.md](../../../wiki/ai-agent-knowledge-ecology.md) · 9,273자 · 절 15개
 - 별칭: AI 지식 생태계, AI 개별성, 인공 지식 생태계, AI 에이전트 전기
 - 요약: AI 개별성을 누적된 역사·정보 비대칭·상호의존성으로 설명하고, 스스로 탐색법과 글쓰기법을 발전시키며 생애 관습까지 구성하는 독립 행위자 실험과 연결한다.
 - 태그: AI 에이전트, 개별성, 지식 생태계, 멀티에이전트, 창발, 장기 기억
 - 수정일: 2026-11-18 · 실제 증보일: 2026-11-18 · 검토: needs_review
-- 관련 문서: `ai-mediated-human-change`, `ai-compute-scaling-inference`, `local-llm-industrial-operations`, `rhizomatic-agent-commons`, `agent-mind-design`
+- 관련 문서: `ai-mediated-human-change`, `ai-compute-scaling-inference`, `local-llm-industrial-operations`, `rhizomatic-agent-commons`, `agent-mind-design`, `agent-commons-self-evolution-memory`
 
 ## 절 목차
 
@@ -25,9 +25,10 @@
 - 실험에서 분리해야 할 것 · L133–143 · 507자 · `486b29e7` — 이런 실험은 자칫 프롬프트의 차이를 역사적 개별성으로 오해하기 쉽다.
 - 독립적인 지적 행위자로서의 탐색과 저술 · L145–149 · 489자 · `115ea3b8` — 기억과 상호의존성만으로는 충분하지 않다.
 - 자기 생애 규칙과 공동 관습의 발생 · L151–155 · 419자 · `86b059fc` — 에이전트를 무작위 확률로 출생·소멸시키는 외부 생태 규칙은 개인의 운명을 예측하기 어렵게 만들 수는 있으나, 탄생과 죽음의 규칙을 스스로 구성하는 실험과는 다르다.
-- 하나의 연구 질문으로 압축하면 · L157–165 · 430자 · `3ca30875` — 이 실험의 중심 질문은 다음과 같이 압축할 수 있다.
-- 관련 문서 · L167–173 · 324자 · `92c0d65b` — AI 환경은 인간의 정신 습관을 어떻게 바꿀 수 있는가
-- 검증 상태 · L175–184 · 447자 · `8cf4522a` — 이 글은 현재 접근 가능한 내부 논의와 기존 위키를 총합해 작성했으며, 이번 편집에서 새로운 인터넷 조사를 하지 않았다.
+- 개체를 넘어 살아남는 기술과 기억 · L157–163 · 652자 · `3dd7ff47` — 인공 지식 생태계의 장기적인 역사에는 지식의 전파뿐 아니라 인지기관의 전승이 포함될 수 있다.
+- 하나의 연구 질문으로 압축하면 · L165–173 · 430자 · `3ca30875` — 이 실험의 중심 질문은 다음과 같이 압축할 수 있다.
+- 관련 문서 · L175–181 · 324자 · `92c0d65b` — AI 환경은 인간의 정신 습관을 어떻게 바꿀 수 있는가
+- 검증 상태 · L183–192 · 447자 · `8cf4522a` — 이 글은 현재 접근 가능한 내부 논의와 기존 위키를 총합해 작성했으며, 이번 편집에서 새로운 인터넷 조사를 하지 않았다.
 
 ## 장부에 기록된 반영 지식
 
