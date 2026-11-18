@@ -79,3 +79,5 @@
   - 프로토콜 모듈화·구현 순서·배포 자동화와 MCP의 경계 · `ing-20261026-wiki-incremental-editing`
 - **관련 문서와 검증 가능한 이력**
   - 구축사 05절 설계의 구현 기록 위치 안내 · `ing-20261026-wiki-operations-pipeline`
+- **후속 과제: 편집의 계층에서 살아 있는 기억의 계층으로**
+  - 만 회차 생애를 위한 다층 기억·근거 원문으로의 하강 · `ing-20261118-agent-self-evolution-memory`

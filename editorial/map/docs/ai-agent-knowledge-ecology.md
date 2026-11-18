@@ -55,3 +55,5 @@
   - 자기 탐색법·저술법·이름·개인 공간의 자율적 형성 · `ing-20261113-rhizomatic-agent-commons`
 - **자기 생애 규칙과 공동 관습의 발생**
   - 확률적 개체 관리와 당사자가 구성하는 생애 규칙의 차이 · `ing-20261113-rhizomatic-agent-commons`
+- **개체를 넘어 살아남는 기술과 기억**
+  - 인지기관의 개인 내 재설계와 개체 사이 수평적 전승 · `ing-20261118-agent-self-evolution-memory`

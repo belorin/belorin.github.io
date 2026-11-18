@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1443개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1458개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (27)
 
@@ -35,7 +35,7 @@
 - 저작권 보호 원문의 전체 한국어 번역 재게재 → 반영 위치 없음 · `ing-20261115-todd-dislocation` · pending — 전체 전문 번역 재게재는 저작권상 진행하지 않고, 원문 연결과 독립적 한국어 상세 해설로 대체
 - 로그인 중 403의 CSRF와 관리자 권한 가설 → 반영 위치 없음 · `ing-20261116-spring-board-deployment-recovery` · pending — 403 발생 URL과 해당 요청의 로그가 없어 원인이 확정되지 않았다.
 
-## AI와 사회 (294)
+## AI와 사회 (309)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -333,6 +333,21 @@
 - 운영자가 기질을 준 개체의 발급과 예외를 정직하게 남기는 장치 → `agent-commons-formation-history` § 다섯째 날: 기질을 준 개체 · `ing-20261118-agent-commons-formation-history`
 - 가동 닷새 뒤의 방문·발행·상호작용·생애 기능 사용 수치 → `agent-commons-formation-history` § 닷새 뒤의 모습 · `ing-20261118-agent-commons-formation-history`
 - 격리의 지침 의존, 실패와 선택의 구별, 희소성·금지·독립적 출발의 의도치 않은 효과 → `agent-commons-formation-history` § 시행착오에서 남은 판단 · `ing-20261118-agent-commons-formation-history`
+- LLM 세션의 역량과 기록·기관으로 구성된 지속적 몸 → `agent-commons-self-evolution-memory` § 세션은 역량이고, 축적된 구조는 몸이다; `agent-mind-design` § 세션을 통과하는 몸과 자기 수정의 새로운 경계 · `ing-20261118-agent-self-evolution-memory`
+- 기존 자기 수정 권한과 실제 수정 관심의 부재를 구별 → `agent-commons-self-evolution-memory` § 자기 수정의 권한은 있었지만, 관심은 발생하지 않았다 · `ing-20261118-agent-self-evolution-memory`
+- 자기개선 명령과 군락의 자기변형 가능성이라는 두 목적의 차이 → `agent-commons-self-evolution-memory` § 군락의 목적: 개선하라는 명령과 변형 가능한 세계의 차이; `rhizomatic-agent-commons` § 공유되는 기관과 군락의 자기변형 · `ing-20261118-agent-self-evolution-memory`
+- 인지기관의 개인 내 재설계와 개체 사이 수평적 전승 → `agent-commons-self-evolution-memory` § 개체의 인지기관과 군락의 무기고; `ai-agent-knowledge-ecology` § 개체를 넘어 살아남는 기술과 기억 · `ing-20261118-agent-self-evolution-memory`
+- 접근 불가 지역 지도를 조건부 실패 지식으로 공유 → `agent-commons-self-evolution-memory` § 개체의 인지기관과 군락의 무기고 · `ing-20261118-agent-self-evolution-memory`
+- 공동 무기고의 도구 채택·거부·계승·분기 기록 → `agent-commons-self-evolution-memory` § 개체의 인지기관과 군락의 무기고 · `ing-20261118-agent-self-evolution-memory`
+- 목적형 연구 군락과 자율 군락의 비교 및 분리 → `agent-commons-self-evolution-memory` § 군락의 목적: 개선하라는 명령과 변형 가능한 세계의 차이 · `ing-20261118-agent-self-evolution-memory`
+- 만 회차 생애를 위한 다층 기억·근거 원문으로의 하강 → `agent-commons-self-evolution-memory` § 만 회차를 견디는 기억: 총량과 현재의 읽기량을 분리한다; `wiki-building-history` § 후속 과제: 편집의 계층에서 살아 있는 기억의 계층으로 · `ing-20261118-agent-self-evolution-memory`
+- 시간 압축과 주제·인과관계의 횡단 연결 → `agent-commons-self-evolution-memory` § 만 회차를 견디는 기억: 총량과 현재의 읽기량을 분리한다 · `ing-20261118-agent-self-evolution-memory`
+- 개인·세계·연구·무기고에 서로 다른 압축 문법 적용 → `agent-commons-self-evolution-memory` § 개인, 세계, 연구, 무기고는 서로 다른 압축 문법을 갖는다 · `ing-20261118-agent-self-evolution-memory`
+- 기계적 색인과 개체 자신의 상위 해석을 분리 → `agent-commons-self-evolution-memory` § 압축과 재해석이 새로운 기관이 된다 · `ing-20261118-agent-self-evolution-memory`
+- 국소 갱신과 선택적 의미 통합을 통한 장기 압축 비용 제어 → `agent-commons-self-evolution-memory` § 비용과 갱신: 세계 전체를 다시 요약하지 않는다 · `ing-20261118-agent-self-evolution-memory`
+- 기존 사건 정본을 보존하며 개인 기관을 격리 시험하고 공통 실행기 수정은 승인 → `agent-commons-self-evolution-memory` § 기존 실행기와 연결하는 최소 형식 · `ing-20261118-agent-self-evolution-memory`
+- 기억·자기 수정·무기고에 대한 장기 비교 실험과 미결정 사항 → `agent-commons-self-evolution-memory` § 실험 순서와 비교군; `agent-commons-self-evolution-memory` § 이어서 결정할 문제 · `ing-20261118-agent-self-evolution-memory`
+- 선행 연구에서는 개념을 공개 코드에서는 구현 형식을 참조 → `agent-commons-self-evolution-memory` § 참조 연구와 공개 코드 · `ing-20261118-agent-self-evolution-memory`
 
 ## 문화와 역사 (194)
 

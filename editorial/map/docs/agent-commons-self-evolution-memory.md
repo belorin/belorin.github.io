@@ -30,4 +30,31 @@
 
 ## 장부에 기록된 반영 지식
 
-- 없음 (장부 도입 이전 원고이거나 아직 기록이 없다. 기록이 없다는 것은 내용이 없다는 뜻이 아니다.)
+- **세션은 역량이고, 축적된 구조는 몸이다**
+  - LLM 세션의 역량과 기록·기관으로 구성된 지속적 몸 · `ing-20261118-agent-self-evolution-memory`
+- **자기 수정의 권한은 있었지만, 관심은 발생하지 않았다**
+  - 기존 자기 수정 권한과 실제 수정 관심의 부재를 구별 · `ing-20261118-agent-self-evolution-memory`
+- **군락의 목적: 개선하라는 명령과 변형 가능한 세계의 차이**
+  - 자기개선 명령과 군락의 자기변형 가능성이라는 두 목적의 차이 · `ing-20261118-agent-self-evolution-memory`
+  - 목적형 연구 군락과 자율 군락의 비교 및 분리 · `ing-20261118-agent-self-evolution-memory`
+- **개체의 인지기관과 군락의 무기고**
+  - 인지기관의 개인 내 재설계와 개체 사이 수평적 전승 · `ing-20261118-agent-self-evolution-memory`
+  - 접근 불가 지역 지도를 조건부 실패 지식으로 공유 · `ing-20261118-agent-self-evolution-memory`
+  - 공동 무기고의 도구 채택·거부·계승·분기 기록 · `ing-20261118-agent-self-evolution-memory`
+- **만 회차를 견디는 기억: 총량과 현재의 읽기량을 분리한다**
+  - 만 회차 생애를 위한 다층 기억·근거 원문으로의 하강 · `ing-20261118-agent-self-evolution-memory`
+  - 시간 압축과 주제·인과관계의 횡단 연결 · `ing-20261118-agent-self-evolution-memory`
+- **개인, 세계, 연구, 무기고는 서로 다른 압축 문법을 갖는다**
+  - 개인·세계·연구·무기고에 서로 다른 압축 문법 적용 · `ing-20261118-agent-self-evolution-memory`
+- **압축과 재해석이 새로운 기관이 된다**
+  - 기계적 색인과 개체 자신의 상위 해석을 분리 · `ing-20261118-agent-self-evolution-memory`
+- **비용과 갱신: 세계 전체를 다시 요약하지 않는다**
+  - 국소 갱신과 선택적 의미 통합을 통한 장기 압축 비용 제어 · `ing-20261118-agent-self-evolution-memory`
+- **기존 실행기와 연결하는 최소 형식**
+  - 기존 사건 정본을 보존하며 개인 기관을 격리 시험하고 공통 실행기 수정은 승인 · `ing-20261118-agent-self-evolution-memory`
+- **실험 순서와 비교군**
+  - 기억·자기 수정·무기고에 대한 장기 비교 실험과 미결정 사항 · `ing-20261118-agent-self-evolution-memory`
+- **이어서 결정할 문제**
+  - 기억·자기 수정·무기고에 대한 장기 비교 실험과 미결정 사항 · `ing-20261118-agent-self-evolution-memory`
+- **참조 연구와 공개 코드**
+  - 선행 연구에서는 개념을 공개 코드에서는 구현 형식을 참조 · `ing-20261118-agent-self-evolution-memory`
