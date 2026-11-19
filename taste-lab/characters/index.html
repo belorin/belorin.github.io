@@ -8,7 +8,7 @@
 <style>
 :root{color-scheme:dark;--bg:#111317;--ink:#f5f3ef;--muted:#95979c;--line:#34383e;--panel:#1b1e23;--good:#e6a0a2}
 *{box-sizing:border-box}html,body{margin:0;min-height:100%;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif}
-button,input{font:inherit}button{cursor:pointer;-webkit-tap-highlight-color:transparent}button:focus-visible,a:focus-visible{outline:2px solid #b4bdcd;outline-offset:4px}
+button,input,textarea{font:inherit}button{cursor:pointer;-webkit-tap-highlight-color:transparent}button:focus-visible,a:focus-visible{outline:2px solid #b4bdcd;outline-offset:4px}
 .shell{min-height:100dvh;display:flex;flex-direction:column;max-width:1024px;margin:auto;padding:max(14px,env(safe-area-inset-top)) 16px max(16px,env(safe-area-inset-bottom))}
 .top{display:flex;align-items:center;justify-content:space-between;height:43px;gap:12px}.wordmark{font-weight:670;letter-spacing:-.06em;font-size:17px}.right{display:flex;align-items:center;gap:10px}.count{font-variant-numeric:tabular-nums;color:#a1a4ac;font-size:12px;letter-spacing:.08em}.iconbtn{border:0;background:transparent;color:#c4c5c8;min-width:38px;min-height:38px;border-radius:50%;font-size:23px;display:grid;place-items:center}.iconbtn:hover{background:#262a31}
 .stage{display:grid;place-items:center;flex:1;min-height:0;padding:13px 0 8px}.card{position:relative;overflow:hidden;background:#202328;width:min(100%,440px);height:min(68dvh,670px);min-height:260px;border-radius:15px;box-shadow:0 22px 65px #0007;touch-action:pan-y;user-select:none;transform:translateX(0) rotate(0);transition:transform .2s ease,opacity .2s ease}
@@ -23,7 +23,8 @@ button,input{font:inherit}button{cursor:pointer;-webkit-tap-highlight-color:tran
 .sheet-top{display:flex;align-items:center;justify-content:space-between}.sheet h2{font-size:17px;letter-spacing:-.04em;margin:0}.sheet h3{font-size:13px;margin:22px 0 8px;color:#d9dadd}.sheet p{font-size:13px;color:#adb0b6;line-height:1.68;margin:9px 0}
 .menu{width:100%;text-align:left;background:transparent;border:0;border-top:1px solid #353941;color:#e3e4e7;padding:15px 3px;font-size:14px}.menu small{display:block;color:#9c9fa7;margin-top:5px;line-height:1.5}
 .utility{display:flex;flex-wrap:wrap;gap:9px;margin:11px 0}.small{padding:10px 12px;color:#e6e7e8;border:1px solid #50535c;background:#30343a;border-radius:9px;font-size:12px}.small:disabled{opacity:.4}
-#infoBox,#historyBox,#aboutBox,#importBox{display:none}#infoBox.on,#historyBox.on,#aboutBox.on,#importBox.on{display:block}
+#infoBox,#historyBox,#aboutBox,#importBox,#promptBox{display:none}#infoBox.on,#historyBox.on,#aboutBox.on,#importBox.on,#promptBox.on{display:block}
+#promptBox textarea{width:100%;height:170px;resize:vertical;border:1px solid #50535c;background:#171a1f;color:#e9e9ea;padding:12px;border-radius:9px;font-size:12px;line-height:1.6}
 #historyBox ol{padding-left:24px;max-height:210px;overflow:auto;color:#d0d3d9;font-size:12px;line-height:1.9}a{color:#b7c8ea}
 .message{font-size:12px;color:#bac0cd;line-height:1.7;margin:6px auto;max-width:400px;text-align:center}
 .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
@@ -51,6 +52,8 @@ button,input{font:inherit}button{cursor:pointer;-webkit-tap-highlight-color:tran
   <div id="infoBox"></div>
   <button class="menu" data-view="historyBox">지난 반응 <small>선택 기록을 열거나 내보내기</small></button>
   <div id="historyBox"><ol id="historyList"></ol><div class="utility"><button class="small" id="exportBtn">기록 내보내기</button><button class="small" id="resetBtn">처음부터</button></div></div>
+  <button class="menu" data-view="promptBox">새 캐릭터 생성 지시문 <small>지금까지의 반응을 토대로 다음 한 장을 제안하고 복사하기</small></button>
+  <div id="promptBox"><textarea id="promptText" aria-label="이미지 생성 지시문"></textarea><div class="utility"><button class="small" id="newPromptBtn">다른 제안</button><button class="small" id="copyPromptBtn">복사</button></div><p>이 지시문을 이미지 생성 대화에 사용하고 결과를 이곳에 넣을 수 있습니다. 자동 생성 연결은 아직 없습니다.</p></div>
   <button class="menu" data-view="importBox">내 이미지 넣기 <small>파일을 추가해 똑같은 탐색에서 감상하기</small></button>
   <div id="importBox"><input type="file" id="fileInput" accept="image/*" multiple><p>이미지는 이 브라우저에만 저장합니다. 파일을 자동으로 축소하며 저장 공간에 따라 일부 이미지가 보존되지 않을 수 있습니다.</p></div>
   <button class="menu" data-view="aboutBox">이 실험에 대하여 <small>선택 원리와 한계</small></button>
@@ -149,7 +152,7 @@ function paint(a){
   var shade=document.createElement('div');shade.className='shade';card.appendChild(shade);
   var mark=document.createElement('span');mark.className='watermark';mark.id='stamp';card.appendChild(mark);
  };
- image.onerror=function(){if(current!==a)return;card.className='card error';card.innerHTML='<div class="placeholder">이미지를 열 수 없어요.<br>⋯ 메뉴에서 다른 이미지를 추가하거나<br>아래에서 넘겨주세요.</div>';};
+ image.onerror=function(){if(current!==a)return;if(image.crossOrigin){var plain=new Image();plain.alt='인물 이미지';plain.onload=function(){if(current!==a)return;card.className='card';card.replaceChildren(plain);};plain.onerror=function(){if(current===a){card.className='card error';card.innerHTML='<div class="placeholder">이미지를 열 수 없어요.<br>⋯ 메뉴에서 다른 이미지를 추가하거나<br>아래에서 넘겨주세요.</div>';}};plain.src=imgSrc(a,843);return;}card.className='card error';card.innerHTML='<div class="placeholder">이미지를 열 수 없어요.<br>⋯ 메뉴에서 다른 이미지를 추가하거나<br>아래에서 넘겨주세요.</div>';};
  var src=imgSrc(a,843);
  if(src)image.src=src;else image.onerror();
 }
@@ -222,6 +225,35 @@ function addFiles(files){
   if(!current||!lookup(current.id))paint(choose());openMenu();
  });
 }
+var PORTRAIT_SEEDS=[
+ '이른 새벽 세탁소를 지키는 일흔 살 남성. 잘 맞지 않는 작업복, 단단한 등, 환한 형광등 아래의 사적인 정적. 투박한 목탄과 세밀한 색연필 혼합.',
+ '스무 살 안팎의 장거리 우편배달원. 헝클어진 곱슬머리와 선명한 다크서클, 헐렁한 방수복. 어색한 흑백 독립만화 펜화.',
+ '중년의 키 큰 도서관 수선공. 굽은 어깨, 옅은 웃음, 여러 번 기운 재킷, 퇴색한 초록 벽. 1970년대 동유럽 그림책 같은 과감한 평면색.',
+ '낡은 기차역을 통과하는 대머리 노년 여성 여행자. 고개를 기울인 자세, 잘 닳은 운동화, 크게 묶은 스카프. 거친 붓의 유화.',
+ '십 대 후반의 시골 극장 무대감독. 작고 다부진 체구, 큼지막한 작업용 조끼, 인상 깊은 코와 삐뚤어진 앞머리. 만화적인 3등신 실루엣.',
+ '수십 년째 선박을 수리하는 장년 남성. 커다란 손, 둥근 얼굴, 낡은 스웨터, 비 오는 부두. 목판화와 잉크 얼룩이 남는 표현.',
+ '무표정하지만 유난히 호기심 많은 성인 여성 식물 조사원. 작은 눈과 넓은 이마, 비대칭적으로 짧은 머리, 야전 기록장. 절제된 일본 수묵화.',
+ '독립 극단의 중년 배우. 길고 야윈 몸, 어긋난 이빨, 특이한 손동작, 기묘하게 호화로운 무대의상. 과장된 독일 표현주의 포스터.',
+ '몸집이 크고 어깨가 둥근 젊은 제빵사. 잔주름 있는 눈가, 드문드문 탄 밀가루 자국, 편안한 표정. 따뜻한 손그림 동화풍.',
+ '작은 도시의 밤 경비원인 남성. 얼굴에 선명한 비대칭, 무거운 눈꺼풀, 오래된 모자, 깊은 그림자. 명암만으로 인상을 구성한 석판화.',
+ '기차 안에서 일기를 쓰는 노년 여성. 의도치 않게 위엄 있어 보이는 구부정한 자세, 여러 겹의 옷. 포크아트와 낡은 엽서의 구성.',
+ '자신감 넘치지만 우스꽝스러운 성인 남성 마술사. 콧수염이 듬성듬성하고 옷은 너무 큼. 경쾌한 프랑스 희화화와 선명한 윤곽선.',
+ '야외 시장의 중년 여성 장난감 제작자. 거친 손가락, 짧은 목, 웃을 때만 생기는 깊은 주름. 두터운 색면과 비정상적인 원근감.',
+ '고요하고 깔끔하지만 쉽게 잊힐 것 같지 않은 젊은 남성 사서. 둥근 턱, 흔한 평상복, 강렬한 붓질 한두 개. 미니멀한 포스터와 초상화의 경계.',
+ '늦은 오후의 작은 항구를 지키는 성인 여성 등대관리인. 햇볕 탄 피부, 강한 어깨, 다친 장갑, 옆으로 흐르는 시선. 차가운 파스텔 텍스처.',
+ '장난스러운 중년의 여행 음유시인. 다리가 짧게 과장되고 얼굴보다 더 큰 코트, 지나치게 큰 부츠. 아주 단순한 2등신 목각인형풍.'
+];
+function generatedPrompt(){
+ var s=PORTRAIT_SEEDS[Math.floor(Math.random()*PORTRAIT_SEEDS.length)];
+ var liked=state.events.filter(function(e){return e.vote==='yes';}).slice(-3).map(function(e){var a=lookup(e.id);return a&&!a.local?a.title+' ('+a.medium+')':a?a.title:'';}).filter(Boolean);
+ var avoided=state.events.filter(function(e){return e.vote==='no';}).slice(-2).map(function(e){var a=lookup(e.id);return a&&!a.local?a.title:'';}).filter(Boolean);
+ return '사람 캐릭터 이미지 한 장을 만들어 주세요. 아래 설정은 인물의 전체적인 인상에 대한 출발점이지, 얼굴·표정·색을 한 항목씩 시험하라는 뜻이 아닙니다.\n\n'
+ +'인물과 장면: '+s+'\n\n'
+ +'목표: 상업적인 미형 얼굴에 자동 수렴하지 말고, 한 명의 독특하고 살아 있는 인간을 완성된 형상으로 만들어 주세요. 나이·몸·비례·선·표정·매체·복장·기질은 서로 유기적으로 관계맺게 하세요. 매끈한 AI 초상화, 같은 얼굴 반복, 패션 모델 포즈를 피하세요. 세로 초상화 3:4 비율. 글자, 콜라주, 비교표, 설명문 없이 이미지 하나만.\n\n'
+ +(liked.length?'최근 끌린 이미지의 전체 분위기를 참고하되 복제하지 말 것: '+liked.join(' / ')+'\n':'')
+ +(avoided.length?'최근 끌리지 않은 사례는 단순한 반대값으로 뒤집지 말 것: '+avoided.join(' / ')+'\n':'')
+ +'이전 선택에 맞는 것만 반복하지 말고 낯선 미적 봉우리도 탐색하세요.';
+}
 function exportHistory(){
  var blob=new Blob([JSON.stringify({format:'character-taste-v01',exportedAt:new Date().toISOString(),events:state.events,artworks:state.pool.map(function(a){return {id:a.id,title:a.title,artist:a.artist,medium:a.medium,year:a.year,visual:a.visual||null};}),local:state.local.map(function(a){return {id:a.id,title:a.title,visual:a.visual||null};})},null,2)],{type:'application/json'});
  var url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='character-taste-'+new Date().toISOString().slice(0,10)+'.json';a.click();setTimeout(function(){URL.revokeObjectURL(url);},500);
@@ -233,6 +265,9 @@ function bind(){
  document.querySelectorAll('[data-view]').forEach(function(b){b.addEventListener('click',function(){$(b.dataset.view).classList.toggle('on');});});
  $('fileInput').addEventListener('change',function(e){addFiles(e.target.files);e.target.value='';});
  $('exportBtn').addEventListener('click',exportHistory);
+ $('newPromptBtn').addEventListener('click',function(){$('promptText').value=generatedPrompt();});
+ $('copyPromptBtn').addEventListener('click',function(){var t=$('promptText');t.select();if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t.value).then(function(){notice('복사했어요.');}).catch(function(){notice('직접 선택해서 복사해 주세요.');});}else{notice('선택한 텍스트를 복사해 주세요.');}});
+ document.querySelector('[data-view="promptBox"]').addEventListener('click',function(){$('promptText').value=generatedPrompt();});
  $('resetBtn').addEventListener('click',function(){if(!confirm('반응 기록을 지울까요? 추가한 이미지도 초기화됩니다.'))return;state=fresh();inMemory={};pool=[];save();menu.classList.remove('on');boot();});
  document.addEventListener('keydown',function(e){if(menu.classList.contains('on')){if(e.key==='Escape')menu.classList.remove('on');return;}if(e.target instanceof HTMLInputElement)return;
   if(e.key==='ArrowLeft'){e.preventDefault();vote('no');}if(e.key==='ArrowRight'){e.preventDefault();vote('yes');}if(e.key==='ArrowUp'){e.preventDefault();vote('curious');}if(e.key==='Backspace'){e.preventDefault();undo();}});
