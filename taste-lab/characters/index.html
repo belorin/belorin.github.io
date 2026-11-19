@@ -197,7 +197,8 @@ function loadArt(){
    var id='aic-'+o.id,ratio=o.thumbnail&&o.thumbnail.width&&o.thumbnail.height?o.thumbnail.width/o.thumbnail.height:.8;
    return {id:id,artId:o.id,image:img,title:title,artist:String(o.artist_title||''),medium:String(o.medium_display||cat),year:o.date_start,ratio:ratio};
   }).filter(Boolean);});
- }).catch(function(){return [];}))).then(function(groups){
+  .catch(function(){return [];});
+ })).then(function(groups){
   var map=new Map();groups.flat().forEach(function(a){map.set(a.id,a);});
   var data=Array.from(map.values());
   // Make sure individual artworks and source descriptions survive reload without relying on API uptime.
