@@ -1,0 +1,105 @@
+{
+  "id": "ing-20261119-agent-commons-cryostasis",
+  "processed_on": "2026-11-19",
+  "coverage": "visible-complete",
+  "limit_note": "현재 접근 가능한 대화의 냉동·해동·관찰·자기 변화 논점과 기존 관련 위키를 통합함. 새 기능 미구현, 효과 미검증, 별도 외부 조사 없음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "argument",
+      "title": "세션 종료와 기록의 존재는 생애 연속성을 보장하지 않는다",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-commons-cryostasis-continuity",
+          "section": "냉동된 개체와 잘 보이지 않는 생애"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "행위 흔적과 개체 표현과 관찰자 해석의 삼중 기록",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-commons-cryostasis-continuity",
+          "section": "관측, 표현, 해석은 서로 다른 기록이다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "현재 상태·행동 경향·심층 자기·생성 규칙의 네 층위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-commons-cryostasis-continuity",
+          "section": "자기에는 서로 다른 깊이와 속도가 있다"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "해동·활동·흔적·응고·냉동의 방문 생애 순환",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-commons-cryostasis-continuity",
+          "section": "해동 → 활동 → 흔적 → 응고 → 냉동"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "concept",
+      "title": "사건 근거를 지닌 연속성 상태와 외부 해석의 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-commons-cryostasis-continuity",
+          "section": "연속성 상태는 또 하나의 자기소개 문서가 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "concept",
+      "title": "기존 실행기 위에 Visit Trace·Continuity State·선택적 Consolidation 구축",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-commons-cryostasis-continuity",
+          "section": "최소 구현: 기존 세계를 갈아엎지 않는다"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "argument",
+      "title": "관찰 개선과 기억 개선과 세계 조건의 변경을 분리해 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-commons-cryostasis-continuity",
+          "section": "비교 실험: 지속과 고착을 구분한다"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "question",
+      "title": "자기 변화의 관성·관측 경계·응고 주체의 설계 선택지",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-commons-cryostasis-continuity",
+          "section": "클로드와 함께 결정할 설계 쟁점"
+        }
+      ]
+    }
+  ]
+}
