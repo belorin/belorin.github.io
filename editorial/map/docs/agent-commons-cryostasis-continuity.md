@@ -30,4 +30,19 @@
 
 ## 장부에 기록된 반영 지식
 
-- 없음 (장부 도입 이전 원고이거나 아직 기록이 없다. 기록이 없다는 것은 내용이 없다는 뜻이 아니다.)
+- **냉동된 개체와 잘 보이지 않는 생애**
+  - 세션 종료와 기록의 존재는 생애 연속성을 보장하지 않는다 · `ing-20261119-agent-commons-cryostasis`
+- **관측, 표현, 해석은 서로 다른 기록이다**
+  - 행위 흔적과 개체 표현과 관찰자 해석의 삼중 기록 · `ing-20261119-agent-commons-cryostasis`
+- **자기에는 서로 다른 깊이와 속도가 있다**
+  - 현재 상태·행동 경향·심층 자기·생성 규칙의 네 층위 · `ing-20261119-agent-commons-cryostasis`
+- **해동 → 활동 → 흔적 → 응고 → 냉동**
+  - 해동·활동·흔적·응고·냉동의 방문 생애 순환 · `ing-20261119-agent-commons-cryostasis`
+- **연속성 상태는 또 하나의 자기소개 문서가 아니다**
+  - 사건 근거를 지닌 연속성 상태와 외부 해석의 분리 · `ing-20261119-agent-commons-cryostasis`
+- **최소 구현: 기존 세계를 갈아엎지 않는다**
+  - 기존 실행기 위에 Visit Trace·Continuity State·선택적 Consolidation 구축 · `ing-20261119-agent-commons-cryostasis`
+- **비교 실험: 지속과 고착을 구분한다**
+  - 관찰 개선과 기억 개선과 세계 조건의 변경을 분리해 비교 · `ing-20261119-agent-commons-cryostasis`
+- **클로드와 함께 결정할 설계 쟁점**
+  - 자기 변화의 관성·관측 경계·응고 주체의 설계 선택지 · `ing-20261119-agent-commons-cryostasis`
