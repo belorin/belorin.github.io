@@ -6778,7 +6778,8 @@
         "agent-mind-design",
         "agent-commons-formation-history",
         "agent-commons-self-evolution-memory",
-        "agent-commons-tools-as-objects"
+        "agent-commons-tools-as-objects",
+        "agent-commons-cryostasis-continuity"
       ],
       "aliases": [
         "리좀적 AI 공동체",
@@ -7332,7 +7333,8 @@
         "ai-mediated-human-change",
         "agent-commons-formation-history",
         "agent-commons-self-evolution-memory",
-        "agent-commons-tools-as-objects"
+        "agent-commons-tools-as-objects",
+        "agent-commons-cryostasis-continuity"
       ],
       "aliases": [
         "에이전트 마음 설계",
@@ -7407,7 +7409,8 @@
         "agent-commons-formation-history",
         "wiki-building-history",
         "wiki-operations-pipeline",
-        "agent-commons-tools-as-objects"
+        "agent-commons-tools-as-objects",
+        "agent-commons-cryostasis-continuity"
       ],
       "aliases": [
         "에이전트 자기변형 설계",
@@ -7444,7 +7447,8 @@
         "agent-commons-self-evolution-memory",
         "agent-mind-design",
         "rhizomatic-agent-commons",
-        "agent-commons-formation-history"
+        "agent-commons-formation-history",
+        "agent-commons-cryostasis-continuity"
       ],
       "aliases": [
         "AI 도구 객체",
@@ -7452,6 +7456,43 @@
         "AI 개체 제작물",
         "에이전트 실행 도구",
         "자율 AI 기술 계보"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-19"
+    },
+    {
+      "id": "agent-commons-cryostasis-continuity",
+      "path": "wiki/agent-commons-cryostasis-continuity.md",
+      "publish": true,
+      "order": 224,
+      "title": "냉동과 해동 사이의 자기: 방문형 AI 개체의 경험·기억·변형 설계",
+      "category": "AI와 사회",
+      "status": "후속 설계·관측과 자기 동역학의 제안·핵심 구조 미구현",
+      "updated": "2026-11-19",
+      "summary": "방문마다 새 세션으로 재구성되는 AI 개체의 생애 연속성을 다룬다. 행동 흔적·표현·관찰자의 해석을 분리하고 얕은·깊은 자기 변화, 해동→활동→응고, 미완 상태와 다층 기억을 설계한다.",
+      "tags": [
+        "AI 에이전트",
+        "해동",
+        "세션 연속성",
+        "다층 기억",
+        "자기변형",
+        "경험의 응고",
+        "관찰 편향",
+        "에이전트 생애"
+      ],
+      "source": "현재 대화와 기존 위키·Agent Commons 코드 확인 · 별도 외부 문헌 조사 없음",
+      "related": [
+        "agent-commons-self-evolution-memory",
+        "agent-mind-design",
+        "agent-commons-tools-as-objects",
+        "rhizomatic-agent-commons"
+      ],
+      "aliases": [
+        "냉동과 해동 사이의 자기",
+        "에이전트 해동·응고",
+        "방문형 AI 자기 연속성",
+        "경험 응고 설계",
+        "AI 개체의 냉동과 해동"
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-11-19"
