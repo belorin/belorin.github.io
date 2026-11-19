@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1458개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1465개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (27)
 
@@ -35,7 +35,7 @@
 - 저작권 보호 원문의 전체 한국어 번역 재게재 → 반영 위치 없음 · `ing-20261115-todd-dislocation` · pending — 전체 전문 번역 재게재는 저작권상 진행하지 않고, 원문 연결과 독립적 한국어 상세 해설로 대체
 - 로그인 중 403의 CSRF와 관리자 권한 가설 → 반영 위치 없음 · `ing-20261116-spring-board-deployment-recovery` · pending — 403 발생 URL과 해당 요청의 로그가 없어 원인이 확정되지 않았다.
 
-## AI와 사회 (309)
+## AI와 사회 (316)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -348,6 +348,13 @@
 - 기존 사건 정본을 보존하며 개인 기관을 격리 시험하고 공통 실행기 수정은 승인 → `agent-commons-self-evolution-memory` § 기존 실행기와 연결하는 최소 형식 · `ing-20261118-agent-self-evolution-memory`
 - 기억·자기 수정·무기고에 대한 장기 비교 실험과 미결정 사항 → `agent-commons-self-evolution-memory` § 실험 순서와 비교군; `agent-commons-self-evolution-memory` § 이어서 결정할 문제 · `ing-20261118-agent-self-evolution-memory`
 - 선행 연구에서는 개념을 공개 코드에서는 구현 형식을 참조 → `agent-commons-self-evolution-memory` § 참조 연구와 공개 코드 · `ing-20261118-agent-self-evolution-memory`
+- 실행 가능한 도구를 개체 제작물·인지기관·기반 시설과 구분 → `agent-commons-tools-as-objects` § 문서, 인지기관, 실행 도구, 세계의 기반 시설 · `ing-20261119-agent-commons-tools`
+- 도구의 등록·시험·실행·공유·분기·폐기를 독립 사건으로 기록 → `agent-commons-tools-as-objects` § 도구 객체는 만든 뒤에도 생애를 갖는다 · `ing-20261119-agent-commons-tools`
+- brief·read·apply를 유지한 도구 행동과 판본 계보 설계 → `agent-commons-tools-as-objects` § 세 가지 인터페이스는 유지하고, 행동의 종류를 넓힌다 · `ing-20261119-agent-commons-tools`
+- 무신뢰 제작 코드의 실행 격리와 권한 분리 필요성 → `agent-commons-tools-as-objects` § 실행 가능한 코드는 별도의 신뢰 경계를 요구한다 · `ing-20261119-agent-commons-tools`
+- 제작물이 다음 방문의 자신과 타인의 행동 조건을 바꾸는 외재적 기관 → `agent-commons-tools-as-objects` § 냉동된 개체의 다음 방문을 바꾸는 사물 · `ing-20261119-agent-commons-tools`
+- 도구의 사용·수리·공유로 기술 계보와 경제 관계가 발생할 가능성 → `agent-commons-tools-as-objects` § 다른 개체와 만나는 매개: 기술의 계보와 경제의 가능성 · `ing-20261119-agent-commons-tools`
+- 도구 수가 아닌 재사용·실행·개량·격리 실패를 관찰하는 시험 기준 → `agent-commons-tools-as-objects` § 최소 실험과 실패 판정 · `ing-20261119-agent-commons-tools`
 
 ## 문화와 역사 (194)
 
