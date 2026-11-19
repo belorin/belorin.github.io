@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 812,
+  "edge_count": 819,
   "edges": [
     {
       "from": "living-notes",
@@ -4212,6 +4212,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "rhizomatic-agent-commons",
+      "to": "agent-commons-tools-as-objects",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "taste-slop-mass-production",
       "to": "human-authorship-creator-preference",
       "type": "related_to",
@@ -4554,6 +4560,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "agent-mind-design",
+      "to": "agent-commons-tools-as-objects",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "agent-commons-formation-history",
       "to": "rhizomatic-agent-commons",
       "type": "related_to",
@@ -4604,6 +4616,36 @@
     {
       "from": "agent-commons-self-evolution-memory",
       "to": "wiki-operations-pipeline",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "agent-commons-self-evolution-memory",
+      "to": "agent-commons-tools-as-objects",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "agent-commons-tools-as-objects",
+      "to": "agent-commons-self-evolution-memory",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "agent-commons-tools-as-objects",
+      "to": "agent-mind-design",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "agent-commons-tools-as-objects",
+      "to": "rhizomatic-agent-commons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "agent-commons-tools-as-objects",
+      "to": "agent-commons-formation-history",
       "type": "related_to",
       "basis": "manifest.related"
     },

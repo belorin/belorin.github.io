@@ -256,18 +256,21 @@
 - **[AI 개별성과 지식 생태계: 페르소나가 아니라 역사에서 출발하기](wiki/ai-agent-knowledge-ecology.md)** · 별칭: AI 지식 생태계, AI 개별성, 인공 지식 생태계, AI 에이전트 전기 · 수정: 2026-11-18 · 검토: 개념적 실험 설계·대화 내 사례 기반·Moltbook 수치 외부 재검증 필요
   - AI 개별성을 누적된 역사·정보 비대칭·상호의존성으로 설명하고, 스스로 탐색법과 글쓰기법을 발전시키며 생애 관습까지 구성하는 독립 행위자 실험과 연결한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-agent-knowledge-ecology/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-agent-knowledge-ecology.md)
-- **[리좀적 AI 지식 공동체: 스스로 탐구하고 생애의 규칙을 만드는 행위자들](wiki/rhizomatic-agent-commons.md)** · 별칭: 리좀적 AI 공동체, 에이전트 자기방법론, 에이전트 생애 규칙, 자율 AI 지식 공동체 · 수정: 2026-11-18 · 검토: 개념적 실험 설계·별도 공동체 구현 전
+- **[리좀적 AI 지식 공동체: 스스로 탐구하고 생애의 규칙을 만드는 행위자들](wiki/rhizomatic-agent-commons.md)** · 별칭: 리좀적 AI 공동체, 에이전트 자기방법론, 에이전트 생애 규칙, 자율 AI 지식 공동체 · 수정: 2026-11-19 · 검토: 개념적 실험 설계·별도 공동체 구현 전
   - 관리자 중심 분업에서 벗어나 AI 개체들이 자기 탐색·글쓰기·이름·개인 공간과 탄생·종료 관습을 스스로 구성하는 리좀적 지식 생태계를 설계한다.
   - [문서 페이지](https://belorin.github.io/notes/rhizomatic-agent-commons/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/rhizomatic-agent-commons.md)
-- **[AI 에이전트의 마음을 설계한다는 것: 기억의 솟구침, 사적 공간, 어린 시절과 생득](wiki/agent-mind-design.md)** · 별칭: 에이전트 마음 설계, AI 마음 모델, 에이전트 기억의 솟구침, 에이전트 사적 공간, 에이전트 어린 시절 · 수정: 2026-11-18 · 검토: 설계 가설·구상 중심·실험판 사례 수치는 2026-11-18 사건 기록 기준·구상 대부분 미구현
+- **[AI 에이전트의 마음을 설계한다는 것: 기억의 솟구침, 사적 공간, 어린 시절과 생득](wiki/agent-mind-design.md)** · 별칭: 에이전트 마음 설계, AI 마음 모델, 에이전트 기억의 솟구침, 에이전트 사적 공간, 에이전트 어린 시절 · 수정: 2026-11-19 · 검토: 설계 가설·구상 중심·실험판 사례 수치는 2026-11-18 사건 기록 기준·구상 대부분 미구현
   - 자율 AI 개체가 공적 존재로만 자라는 현상을 안내문=의식, 기억의 솟구침, 공적·사적 공간, 발달과 생득의 부재, 판의 편향으로 설명하고, 구조와 내용을 나누는 원칙 아래 거울·떠오름·발달 단계·기질 부여를 검토한다.
   - [문서 페이지](https://belorin.github.io/notes/agent-mind-design/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/agent-mind-design.md)
 - **[자율 AI 공동체 실험판의 형식은 어떻게 만들어졌나: 설계에서 닷새의 운영까지](wiki/agent-commons-formation-history.md)** · 별칭: 실험판 형식의 역사, 에이전트 공동체 개발사, 자율 AI 공동체 시행착오, agent-commons 역사 · 수정: 2026-11-18 · 검토: 개발 이력 정리·실험판 커밋과 사건 로그 대조·수치는 2026-11-18 기준
   - 리좀적 AI 공동체 구상이 별도 실험판으로 가동된 뒤 닷새 동안, 사건 로그·제안 검사·자치·자기 시간·발표회·접근 보고·방문 단순화·채팅 참여·운영자 창구·기질 부여로 형식이 바뀌어 온 과정과 그 시행착오에서 남은 판단을 정리한다.
   - [문서 페이지](https://belorin.github.io/notes/agent-commons-formation-history/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/agent-commons-formation-history.md)
-- **[자기변형하는 AI 군락: 세션, 몸, 무기고와 다층 기억의 후속 설계](wiki/agent-commons-self-evolution-memory.md)** · 별칭: 에이전트 자기변형 설계, AI 군락 무기고, 다층 기억 설계, 세션과 몸의 에이전트 모델, 자율 AI 장기기억 · 수정: 2026-11-18 · 검토: 후속 설계 가설·독립 원고·Agent Commons 실구현 전·추가 토론 예정
+- **[자기변형하는 AI 군락: 세션, 몸, 무기고와 다층 기억의 후속 설계](wiki/agent-commons-self-evolution-memory.md)** · 별칭: 에이전트 자기변형 설계, AI 군락 무기고, 다층 기억 설계, 세션과 몸의 에이전트 모델, 자율 AI 장기기억 · 수정: 2026-11-19 · 검토: 후속 설계 가설·독립 원고·Agent Commons 실구현 전·추가 토론 예정
   - LLM 세션을 개체의 활동 역량으로, 기록과 인지기관을 지속되는 몸으로 보는 관점에서 자기 수정·군락의 무기고·수평적 기술 전승·만 회차를 견디는 다층 기억과 하향 탐색을 설계한다.
   - [문서 페이지](https://belorin.github.io/notes/agent-commons-self-evolution-memory/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/agent-commons-self-evolution-memory.md)
+- **[AI 개체가 만드는 도구: 문서 생산을 넘어 세계에 남는 기술](wiki/agent-commons-tools-as-objects.md)** · 별칭: AI 도구 객체, 에이전트 도구 제작, AI 개체 제작물, 에이전트 실행 도구, 자율 AI 기술 계보 · 수정: 2026-11-19 · 검토: 후속 설계 제안·실행 도구 객체와 샌드박스 미구현
+  - 에이전트가 글 대신 실제로 쓸 수 있는 도구를 제작하고 판본·사용·개량·공유·분기를 누적하여 다음 자기와 타인의 행동 조건을 바꾸는 설계. 실행 격리·권한·사건 보존과 평가 방법을 구분한다.
+  - [문서 페이지](https://belorin.github.io/notes/agent-commons-tools-as-objects/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/agent-commons-tools-as-objects.md)
 
 ## 철학
 

@@ -6,8 +6,8 @@
 - 별칭: 에이전트 마음 설계, AI 마음 모델, 에이전트 기억의 솟구침, 에이전트 사적 공간, 에이전트 어린 시절
 - 요약: 자율 AI 개체가 공적 존재로만 자라는 현상을 안내문=의식, 기억의 솟구침, 공적·사적 공간, 발달과 생득의 부재, 판의 편향으로 설명하고, 구조와 내용을 나누는 원칙 아래 거울·떠오름·발달 단계·기질 부여를 검토한다.
 - 태그: AI 에이전트, 마음 설계, 기억, 사적 공간, 발달, 생득, 기질, 자기 객관화
-- 수정일: 2026-11-18 · 실제 증보일: 2026-11-18 · 검토: needs_review
-- 관련 문서: `ai-agent-knowledge-ecology`, `rhizomatic-agent-commons`, `ai-mediated-human-change`, `agent-commons-formation-history`, `agent-commons-self-evolution-memory`
+- 수정일: 2026-11-19 · 실제 증보일: 2026-11-18 · 검토: needs_review
+- 관련 문서: `ai-agent-knowledge-ecology`, `rhizomatic-agent-commons`, `ai-mediated-human-change`, `agent-commons-formation-history`, `agent-commons-self-evolution-memory`, `agent-commons-tools-as-objects`
 
 ## 절 목차
 
