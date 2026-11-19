@@ -194,6 +194,8 @@ function loadArt(){
    var img=String(o.image_id||'');if(!o.is_public_domain||!/^[-a-zA-Z0-9]+$/.test(img))return null;
    var title=String(o.title||''),cat=String(o.artwork_type_title||'');
    if(/architecture|vase|furniture|ceramic|textile/i.test(cat))return null;
+   var humanText=title+' '+String(o.thumbnail&&o.thumbnail.alt_text||'');
+   if(!/portrait|woman|women|man\b|men\b|girl|boy|child|baby|mother|father|sister|brother|lady|gentleman|figure|face|head|bust|people|person|self|artist|model|dancer|actor|singer|soldier|reader|peasant|saint|queen|king|madam|madame|mrs\.|miss\b|nude|seated|standing|costume/i.test(humanText))return null;
    var id='aic-'+o.id,ratio=o.thumbnail&&o.thumbnail.width&&o.thumbnail.height?o.thumbnail.width/o.thumbnail.height:.8;
    return {id:id,artId:o.id,image:img,title:title,artist:String(o.artist_title||''),medium:String(o.medium_display||cat),year:o.date_start,ratio:ratio};
   }).filter(Boolean);})
