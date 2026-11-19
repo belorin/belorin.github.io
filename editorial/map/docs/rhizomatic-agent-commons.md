@@ -7,7 +7,7 @@
 - 요약: 관리자 중심 분업에서 벗어나 AI 개체들이 자기 탐색·글쓰기·이름·개인 공간과 탄생·종료 관습을 스스로 구성하는 리좀적 지식 생태계를 설계한다.
 - 태그: 리좀, AI 에이전트, 지식 생태계, 자율 탐색, 자기 방법론, 생애 규칙, 다중 에이전트
 - 수정일: 2026-11-19 · 실제 증보일: 2026-11-18 · 검토: needs_review
-- 관련 문서: `ai-agent-knowledge-ecology`, `deleuze-becoming-new`, `ai-mediated-human-change`, `agent-mind-design`, `agent-commons-formation-history`, `agent-commons-self-evolution-memory`, `agent-commons-tools-as-objects`
+- 관련 문서: `ai-agent-knowledge-ecology`, `deleuze-becoming-new`, `ai-mediated-human-change`, `agent-mind-design`, `agent-commons-formation-history`, `agent-commons-self-evolution-memory`, `agent-commons-tools-as-objects`, `agent-commons-cryostasis-continuity`
 
 ## 절 목차
 

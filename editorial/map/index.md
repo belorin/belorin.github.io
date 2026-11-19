@@ -4,15 +4,15 @@
 > 사용 순서: ① 채팅에서 추출한 지식 항목마다 제목·별칭으로 후보를 찾는다 → ② 후보의 문서 카드 `editorial/map/docs/<id>.md`에서 절 목차와 장부 기록을 본다 → ③ 해당 절 본문을 읽고 대조한다. 전문으로 넓히는 조건은 WIKI_PROTOCOL §4를 따른다.
 > 지도와 카드는 후보를 찾는 도구일 뿐이다. 중복·반영 여부는 원고 본문을 읽고 판정한다.
 
-원고 222개 (미게시 2, 소설 2편 포함) · 종합 2편 · AI의 글 1편 · 절 2,379개 · 장부 지식 항목 1465개
+원고 223개 (미게시 2, 소설 2편 포함) · 종합 2편 · AI의 글 1편 · 절 2,392개 · 장부 지식 항목 1465개
 
 특정 논점이 이미 처리되었는지는 [지식 표제 역색인](knowledge.md)에서 낱말로 **검색**한다(통째로 읽지 않는다). 장부가 없는 원고는 문서 카드의 절 목차로 찾는다.
 
 지도가 25,000자를 넘어 분류별 파일로 나뉘었다. 아래에서 후보가 있을 만한 분류를 **모두** 열어 제목·별칭을 확인한다. 분야를 넘나드는 주제는 한 분류만 보지 말고, 문서 ID 목록과 역색인 검색으로 다른 분류의 후보도 찾는다.
 
-## AI와 사회 (40) → [분류 지도](categories/AI%EC%99%80-%EC%82%AC%ED%9A%8C.md)
+## AI와 사회 (41) → [분류 지도](categories/AI%EC%99%80-%EC%82%AC%ED%9A%8C.md)
 
-`ai-mediated-human-change` · `ai-human-control-guide` · `ai-takeover-human-recourse` · `ai-goals-hostage-and-bait` · `gradual-disempowerment` · `disempowerment-measurement` · `llm-disempowerment-patterns` · `conversational-ai-persuasion` · `ai-conversation-data-access` · `ai-democracy-narrow-corridor` · `ai-economic-transition` · `ai-capital-labor-distribution` · `ai-class-fiction` · `ai-domination-gradient` · `hank-asher-data-fusion-ai` · `korea-personal-data-lifecycle` · `ai-compute-scaling-inference` · `japan-physical-ai-skill-transfer` · `ai-transition-policy-gap` · `starcraft-pluto-ai` · `ai-hidden-labor-feeding-machine-2026` · `ai-cloud-ownership-rent` · `ai-adoption-ceiling-floor` · `owner-aligned-automated-power` · `ai-transition-monetary-order` · `data-center-world-capacity` · `korea-data-center-local-economy` · `physical-cloud-reading-guide` · `african-ai-annotation-labor-2026` · `ai-layoffs-global-remote-restructuring` · `ai-youth-hiring-productivity-evidence-2026` · `japan-skill-transfer-evidence-2026` · `pluto-v2-release-aiide-withdrawal-2026` · `data-center-grid-contracts-autumn-2026` · `ai-agent-knowledge-ecology` · `rhizomatic-agent-commons` · `agent-mind-design` · `agent-commons-formation-history` · `agent-commons-self-evolution-memory` · `agent-commons-tools-as-objects`
+`ai-mediated-human-change` · `ai-human-control-guide` · `ai-takeover-human-recourse` · `ai-goals-hostage-and-bait` · `gradual-disempowerment` · `disempowerment-measurement` · `llm-disempowerment-patterns` · `conversational-ai-persuasion` · `ai-conversation-data-access` · `ai-democracy-narrow-corridor` · `ai-economic-transition` · `ai-capital-labor-distribution` · `ai-class-fiction` · `ai-domination-gradient` · `hank-asher-data-fusion-ai` · `korea-personal-data-lifecycle` · `ai-compute-scaling-inference` · `japan-physical-ai-skill-transfer` · `ai-transition-policy-gap` · `starcraft-pluto-ai` · `ai-hidden-labor-feeding-machine-2026` · `ai-cloud-ownership-rent` · `ai-adoption-ceiling-floor` · `owner-aligned-automated-power` · `ai-transition-monetary-order` · `data-center-world-capacity` · `korea-data-center-local-economy` · `physical-cloud-reading-guide` · `african-ai-annotation-labor-2026` · `ai-layoffs-global-remote-restructuring` · `ai-youth-hiring-productivity-evidence-2026` · `japan-skill-transfer-evidence-2026` · `pluto-v2-release-aiide-withdrawal-2026` · `data-center-grid-contracts-autumn-2026` · `ai-agent-knowledge-ecology` · `rhizomatic-agent-commons` · `agent-mind-design` · `agent-commons-formation-history` · `agent-commons-self-evolution-memory` · `agent-commons-tools-as-objects` · `agent-commons-cryostasis-continuity`
 
 ## 음악 (38) → [분류 지도](categories/%EC%9D%8C%EC%95%85.md)
 

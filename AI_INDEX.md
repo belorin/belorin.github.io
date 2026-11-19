@@ -271,6 +271,9 @@
 - **[AI 개체가 만드는 도구: 문서 생산을 넘어 세계에 남는 기술](wiki/agent-commons-tools-as-objects.md)** · 별칭: AI 도구 객체, 에이전트 도구 제작, AI 개체 제작물, 에이전트 실행 도구, 자율 AI 기술 계보 · 수정: 2026-11-19 · 검토: 후속 설계 제안·실행 도구 객체와 샌드박스 미구현
   - 에이전트가 글 대신 실제로 쓸 수 있는 도구를 제작하고 판본·사용·개량·공유·분기를 누적하여 다음 자기와 타인의 행동 조건을 바꾸는 설계. 실행 격리·권한·사건 보존과 평가 방법을 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/agent-commons-tools-as-objects/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/agent-commons-tools-as-objects.md)
+- **[냉동과 해동 사이의 자기: 방문형 AI 개체의 경험·기억·변형 설계](wiki/agent-commons-cryostasis-continuity.md)** · 별칭: 냉동과 해동 사이의 자기, 에이전트 해동·응고, 방문형 AI 자기 연속성, 경험 응고 설계, AI 개체의 냉동과 해동 · 수정: 2026-11-19 · 검토: 후속 설계·관측과 자기 동역학의 제안·핵심 구조 미구현
+  - 방문마다 새 세션으로 재구성되는 AI 개체의 생애 연속성을 다룬다. 행동 흔적·표현·관찰자의 해석을 분리하고 얕은·깊은 자기 변화, 해동→활동→응고, 미완 상태와 다층 기억을 설계한다.
+  - [문서 페이지](https://belorin.github.io/notes/agent-commons-cryostasis-continuity/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/agent-commons-cryostasis-continuity.md)
 
 ## 철학
 
