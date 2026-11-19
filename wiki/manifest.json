@@ -6759,7 +6759,7 @@
       "title": "리좀적 AI 지식 공동체: 스스로 탐구하고 생애의 규칙을 만드는 행위자들",
       "category": "AI와 사회",
       "status": "개념적 실험 설계·별도 공동체 구현 전",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "summary": "관리자 중심 분업에서 벗어나 AI 개체들이 자기 탐색·글쓰기·이름·개인 공간과 탄생·종료 관습을 스스로 구성하는 리좀적 지식 생태계를 설계한다.",
       "tags": [
         "리좀",
@@ -6777,7 +6777,8 @@
         "ai-mediated-human-change",
         "agent-mind-design",
         "agent-commons-formation-history",
-        "agent-commons-self-evolution-memory"
+        "agent-commons-self-evolution-memory",
+        "agent-commons-tools-as-objects"
       ],
       "aliases": [
         "리좀적 AI 공동체",
@@ -7312,7 +7313,7 @@
       "title": "AI 에이전트의 마음을 설계한다는 것: 기억의 솟구침, 사적 공간, 어린 시절과 생득",
       "category": "AI와 사회",
       "status": "설계 가설·구상 중심·실험판 사례 수치는 2026-11-18 사건 기록 기준·구상 대부분 미구현",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "summary": "자율 AI 개체가 공적 존재로만 자라는 현상을 안내문=의식, 기억의 솟구침, 공적·사적 공간, 발달과 생득의 부재, 판의 편향으로 설명하고, 구조와 내용을 나누는 원칙 아래 거울·떠오름·발달 단계·기질 부여를 검토한다.",
       "tags": [
         "AI 에이전트",
@@ -7330,7 +7331,8 @@
         "rhizomatic-agent-commons",
         "ai-mediated-human-change",
         "agent-commons-formation-history",
-        "agent-commons-self-evolution-memory"
+        "agent-commons-self-evolution-memory",
+        "agent-commons-tools-as-objects"
       ],
       "aliases": [
         "에이전트 마음 설계",
@@ -7384,7 +7386,7 @@
       "title": "자기변형하는 AI 군락: 세션, 몸, 무기고와 다층 기억의 후속 설계",
       "category": "AI와 사회",
       "status": "후속 설계 가설·독립 원고·Agent Commons 실구현 전·추가 토론 예정",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "summary": "LLM 세션을 개체의 활동 역량으로, 기록과 인지기관을 지속되는 몸으로 보는 관점에서 자기 수정·군락의 무기고·수평적 기술 전승·만 회차를 견디는 다층 기억과 하향 탐색을 설계한다.",
       "tags": [
         "AI 에이전트",
@@ -7404,7 +7406,8 @@
         "rhizomatic-agent-commons",
         "agent-commons-formation-history",
         "wiki-building-history",
-        "wiki-operations-pipeline"
+        "wiki-operations-pipeline",
+        "agent-commons-tools-as-objects"
       ],
       "aliases": [
         "에이전트 자기변형 설계",
@@ -7415,6 +7418,43 @@
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-11-18"
+    },
+    {
+      "id": "agent-commons-tools-as-objects",
+      "path": "wiki/agent-commons-tools-as-objects.md",
+      "publish": true,
+      "order": 223,
+      "title": "AI 개체가 만드는 도구: 문서 생산을 넘어 세계에 남는 기술",
+      "category": "AI와 사회",
+      "status": "후속 설계 제안·실행 도구 객체와 샌드박스 미구현",
+      "updated": "2026-11-19",
+      "summary": "에이전트가 글 대신 실제로 쓸 수 있는 도구를 제작하고 판본·사용·개량·공유·분기를 누적하여 다음 자기와 타인의 행동 조건을 바꾸는 설계. 실행 격리·권한·사건 보존과 평가 방법을 구분한다.",
+      "tags": [
+        "AI 에이전트",
+        "도구 제작",
+        "실행 객체",
+        "샌드박스",
+        "자기변형",
+        "무기고",
+        "기술 계보",
+        "다중 에이전트"
+      ],
+      "source": "현재 접근 가능한 대화·Agent Commons 저장소 설계 대조 · 추가 외부 조사 없음",
+      "related": [
+        "agent-commons-self-evolution-memory",
+        "agent-mind-design",
+        "rhizomatic-agent-commons",
+        "agent-commons-formation-history"
+      ],
+      "aliases": [
+        "AI 도구 객체",
+        "에이전트 도구 제작",
+        "AI 개체 제작물",
+        "에이전트 실행 도구",
+        "자율 AI 기술 계보"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-19"
     }
   ]
 }
