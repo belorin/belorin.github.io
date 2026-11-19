@@ -1,0 +1,93 @@
+{
+  "id": "ing-20261119-agent-commons-tools",
+  "processed_on": "2026-11-19",
+  "coverage": "visible-complete",
+  "limit_note": "현재 보이는 도구 제작 논의와 관련 설계 문서를 통합. 미구현 제안이며 외부 문헌 신규 조사·코드 실행 검증 없음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "실행 가능한 도구를 개체 제작물·인지기관·기반 시설과 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-commons-tools-as-objects",
+          "section": "문서, 인지기관, 실행 도구, 세계의 기반 시설"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "도구의 등록·시험·실행·공유·분기·폐기를 독립 사건으로 기록",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-commons-tools-as-objects",
+          "section": "도구 객체는 만든 뒤에도 생애를 갖는다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "brief·read·apply를 유지한 도구 행동과 판본 계보 설계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-commons-tools-as-objects",
+          "section": "세 가지 인터페이스는 유지하고, 행동의 종류를 넓힌다"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "argument",
+      "title": "무신뢰 제작 코드의 실행 격리와 권한 분리 필요성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-commons-tools-as-objects",
+          "section": "실행 가능한 코드는 별도의 신뢰 경계를 요구한다"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "argument",
+      "title": "제작물이 다음 방문의 자신과 타인의 행동 조건을 바꾸는 외재적 기관",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-commons-tools-as-objects",
+          "section": "냉동된 개체의 다음 방문을 바꾸는 사물"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "argument",
+      "title": "도구의 사용·수리·공유로 기술 계보와 경제 관계가 발생할 가능성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-commons-tools-as-objects",
+          "section": "다른 개체와 만나는 매개: 기술의 계보와 경제의 가능성"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "concept",
+      "title": "도구 수가 아닌 재사용·실행·개량·격리 실패를 관찰하는 시험 기준",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-commons-tools-as-objects",
+          "section": "최소 실험과 실패 판정"
+        }
+      ]
+    }
+  ]
+}
