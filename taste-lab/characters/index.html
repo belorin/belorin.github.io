@@ -1,0 +1,301 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#111317">
+<title>한 사람씩 — 취향 탐사</title>
+<style>
+:root{color-scheme:dark;--bg:#111317;--ink:#f5f3ef;--muted:#95979c;--line:#34383e;--panel:#1b1e23;--good:#e6a0a2}
+*{box-sizing:border-box}html,body{margin:0;min-height:100%;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif}
+button,input,textarea{font:inherit}button{cursor:pointer;-webkit-tap-highlight-color:transparent}button:focus-visible,a:focus-visible{outline:2px solid #b4bdcd;outline-offset:4px}
+.shell{min-height:100dvh;display:flex;flex-direction:column;max-width:1024px;margin:auto;padding:max(14px,env(safe-area-inset-top)) 16px max(16px,env(safe-area-inset-bottom))}
+.top{display:flex;align-items:center;justify-content:space-between;height:43px;gap:12px}.wordmark{font-weight:670;letter-spacing:-.06em;font-size:17px}.right{display:flex;align-items:center;gap:10px}.count{font-variant-numeric:tabular-nums;color:#a1a4ac;font-size:12px;letter-spacing:.08em}.iconbtn{border:0;background:transparent;color:#c4c5c8;min-width:38px;min-height:38px;border-radius:50%;font-size:23px;display:grid;place-items:center}.iconbtn:hover{background:#262a31}
+.stage{display:grid;place-items:center;flex:1;min-height:0;padding:13px 0 8px}.card{position:relative;overflow:hidden;background:#202328;width:min(100%,440px);height:min(68dvh,670px);min-height:260px;border-radius:15px;box-shadow:0 22px 65px #0007;touch-action:pan-y;user-select:none;transform:translateX(0) rotate(0);transition:transform .2s ease,opacity .2s ease}
+.card img{width:100%;height:100%;object-fit:contain;display:block;-webkit-user-drag:none;pointer-events:none}.card .shade{position:absolute;inset:0;background:linear-gradient(180deg,transparent 76%,#0003 100%);pointer-events:none}.watermark{position:absolute;top:15px;left:15px;border:2px solid #fff;background:#252525a8;border-radius:9px;padding:7px 14px;font-weight:800;letter-spacing:.09em;font-size:17px;opacity:0;pointer-events:none}.watermark.like{border-color:#eea3af;color:#ffe0e6}.watermark.no{border-color:#b7d3ed;color:#d3e7ff}.watermark.maybe{border-color:#eac69b;color:#ffe1b8}
+.card.loading{display:grid;place-items:center;text-align:center;padding:22px;color:#999da5;line-height:1.7}.card.error{background:#202126}.card .placeholder{width:100%;padding:26px;text-align:center;color:#adb0b8;font-size:14px;line-height:1.8}
+.actions{width:min(100%,410px);margin:0 auto;display:flex;align-items:center;justify-content:space-evenly;gap:14px;padding:8px 0 5px}
+.action{background:#202329;border:1px solid #363940;display:grid;place-items:center;width:66px;height:66px;border-radius:50%;color:#e7e6e7;box-shadow:0 6px 20px #0004;transition:transform .14s,border-color .14s;font-size:28px}
+.action:hover{transform:translateY(-2px);border-color:#8c91a0}.action:active{transform:scale(.95)}.action.bad{color:#adc9e4}.action.maybe{color:#d6c3a2;font-size:22px}.action.good{color:#f3adb5}
+.footline{height:28px;display:flex;align-items:center;justify-content:center;gap:18px}.subbtn{background:transparent;border:0;color:#858992;font-size:12px;min-height:28px}.subbtn:hover{color:#f0f0f0}
+.drawer{position:fixed;inset:0;background:#0009;display:none;z-index:5;align-items:flex-end;justify-content:center}.drawer.on{display:flex}
+.sheet{background:#202329;border:1px solid #41444d;border-bottom:0;border-radius:20px 20px 0 0;width:min(100%,540px);padding:20px 22px max(28px,env(safe-area-inset-bottom));max-height:88dvh;overflow:auto;box-shadow:0 -22px 50px #0008}
+.sheet-top{display:flex;align-items:center;justify-content:space-between}.sheet h2{font-size:17px;letter-spacing:-.04em;margin:0}.sheet h3{font-size:13px;margin:22px 0 8px;color:#d9dadd}.sheet p{font-size:13px;color:#adb0b6;line-height:1.68;margin:9px 0}
+.menu{width:100%;text-align:left;background:transparent;border:0;border-top:1px solid #353941;color:#e3e4e7;padding:15px 3px;font-size:14px}.menu small{display:block;color:#9c9fa7;margin-top:5px;line-height:1.5}
+.utility{display:flex;flex-wrap:wrap;gap:9px;margin:11px 0}.small{padding:10px 12px;color:#e6e7e8;border:1px solid #50535c;background:#30343a;border-radius:9px;font-size:12px}.small:disabled{opacity:.4}
+#infoBox,#historyBox,#aboutBox,#importBox,#promptBox{display:none}#infoBox.on,#historyBox.on,#aboutBox.on,#importBox.on,#promptBox.on{display:block}
+#promptBox textarea{width:100%;height:170px;resize:vertical;border:1px solid #50535c;background:#171a1f;color:#e9e9ea;padding:12px;border-radius:9px;font-size:12px;line-height:1.6}
+#historyBox ol{padding-left:24px;max-height:210px;overflow:auto;color:#d0d3d9;font-size:12px;line-height:1.9}a{color:#b7c8ea}
+.message{font-size:12px;color:#bac0cd;line-height:1.7;margin:6px auto;max-width:400px;text-align:center}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+@media(max-height:690px){.card{height:min(59dvh,510px)}.stage{padding:3px 0}.action{width:56px;height:56px}.actions{padding-top:2px}}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{transition:none!important}}
+</style>
+</head>
+<body>
+<div class="shell">
+  <header class="top"><div class="wordmark">한 사람씩</div><div class="right"><span class="count" id="count">00</span><button class="iconbtn" id="menuBtn" aria-label="더 보기">⋯</button></div></header>
+  <main class="stage"><div class="card loading" id="card" aria-label="캐릭터 이미지"><span class="placeholder">이미지를 불러오는 중…</span></div></main>
+  <div class="actions" aria-label="감상 반응">
+    <button class="action bad" data-vote="no" aria-label="끌리지 않음" title="끌리지 않음 · 왼쪽 화살표">×</button>
+    <button class="action maybe" data-vote="curious" aria-label="궁금함" title="궁금함 · 위쪽 화살표">◇</button>
+    <button class="action good" data-vote="yes" aria-label="끌림" title="끌림 · 오른쪽 화살표">♡</button>
+  </div>
+  <div class="footline"><button class="subbtn" id="undo" disabled>↶ 되돌리기</button><button class="subbtn" id="skip">그냥 넘기기 ›</button></div>
+  <p class="message" id="message" role="status" aria-live="polite"></p>
+</div>
+<div class="drawer" id="drawer" role="dialog" aria-modal="true" aria-label="숨겨진 메뉴">
+ <div class="sheet">
+  <div class="sheet-top"><h2>탐사 기록</h2><button id="closeBtn" class="iconbtn" aria-label="닫기">×</button></div>
+  <p id="summary"></p>
+  <button class="menu" data-view="infoBox">지금 이미지 정보 <small>제목과 출처 · 이미지 자체의 분석 정보</small></button>
+  <div id="infoBox"></div>
+  <button class="menu" data-view="historyBox">지난 반응 <small>선택 기록을 열거나 내보내기</small></button>
+  <div id="historyBox"><ol id="historyList"></ol><div class="utility"><button class="small" id="exportBtn">기록 내보내기</button><button class="small" id="resetBtn">처음부터</button></div></div>
+  <button class="menu" data-view="promptBox">새 캐릭터 생성 지시문 <small>지금까지의 반응을 토대로 다음 한 장을 제안하고 복사하기</small></button>
+  <div id="promptBox"><textarea id="promptText" aria-label="이미지 생성 지시문"></textarea><div class="utility"><button class="small" id="newPromptBtn">다른 제안</button><button class="small" id="copyPromptBtn">복사</button></div><p>이 지시문을 이미지 생성 대화에 사용하고 결과를 이곳에 넣을 수 있습니다. 자동 생성 연결은 아직 없습니다.</p></div>
+  <button class="menu" data-view="importBox">내 이미지 넣기 <small>파일을 추가해 똑같은 탐색에서 감상하기</small></button>
+  <div id="importBox"><input type="file" id="fileInput" accept="image/*" multiple><p>이미지는 이 브라우저에만 저장합니다. 파일을 자동으로 축소하며 저장 공간에 따라 일부 이미지가 보존되지 않을 수 있습니다.</p></div>
+  <button class="menu" data-view="aboutBox">이 실험에 대하여 <small>선택 원리와 한계</small></button>
+  <div id="aboutBox">
+   <p>한 장의 완성된 이미지에 반응합니다. 개별 요소에 점수를 매기거나 하나씩 바꾸지 않습니다. 한 사람에게 여러 취향의 봉우리와 거부 영역이 있을 수 있다고 가정합니다.</p>
+   <p>후보의 미술 매체·연대·색·명암·공간적 구조 등 가능한 신호를 내부에서 비교합니다. 색·구조는 브라우저에서 이미지를 읽을 수 있을 때만 쓰고, 읽지 못하면 해당 차원은 추정하지 않습니다. 초기 표본은 미술관의 공개 도판이며 AI 생성 캐릭터가 아닙니다.</p>
+   <p>선택한 작품과 비슷한 작품을 다시 만나기 쉬워지는 친숙화 효과와, 비슷한 이미지가 누적되면 그 영역을 덜 제시하는 포화 억제 장치를 함께 둡니다. 이는 탐색 정책이지 인간의 과포화 법칙이 검증되었다는 뜻이 아닙니다. 낯선 영역의 표본도 계속 섞습니다.</p>
+   <p>이미지 생성 모델과 자동 연결되지는 않습니다. 새 AI 캐릭터 이미지를 생성했다면 「내 이미지 넣기」로 이어서 실험할 수 있습니다. 실제 그림의 의미를 모델이 정확히 이해한다고 주장하지 않습니다.</p>
+   <p>공개 이미지: <a href="https://www.artic.edu/open-access/open-access-images" target="_blank" rel="noopener noreferrer">Art Institute of Chicago Open Access</a>. 원본의 제목과 출처는 이미지 정보에서 볼 수 있습니다.</p>
+  </div>
+ </div>
+</div>
+<script>
+(function(){
+'use strict';
+var STORE='belorin-character-taste-v01', DB='belorin-character-image-v01';
+var $=function(id){return document.getElementById(id);};
+var state=loadState(); var current=null, busy=false, pool=[], inMemory={};
+var card=$('card'), menu=$('drawer');
+function fresh(){return {v:1,seen:[],events:[],history:[],local:[],pool:[],sequence:0};}
+function loadState(){try{var s=JSON.parse(localStorage.getItem(STORE));return s&&s.v===1&&Array.isArray(s.events)?s:fresh();}catch(e){return fresh();}}
+function save(){try{localStorage.setItem(STORE,JSON.stringify(state));return true;}catch(e){notice('저장 공간이 부족해 기록 보존에 실패했습니다.');return false;}}
+function notice(t){$('message').textContent=t; }
+function hash(s){var n=2166136261;for(var i=0;i<s.length;i++){n^=s.charCodeAt(i);n=Math.imul(n,16777619);}return n>>>0;}
+function medium(m){m=String(m||'').toLowerCase();if(/etching|engraving|woodblock|woodcut|lithograph|print|screenprint/.test(m))return 0;if(/watercolor|gouache/.test(m))return 1;if(/charcoal|graphite|pencil|ink|chalk|pastel|drawing/.test(m))return 2;if(/oil|acrylic|tempera|painting/.test(m))return 3;if(/photograph|gelatin silver|albumen/.test(m))return 4;return 5;}
+function dataFor(a){
+ var v=new Array(26).fill(null), mm=medium(a.medium), y=Number(a.year)||0, ratio=Number(a.ratio)||.75;
+ for(var j=0;j<6;j++)v[j]=(j===mm?1:0);
+ for(j=0;j<5;j++)v[6+j]=y?(j===Math.max(0,Math.min(4,Math.floor((y-1450)/110)))?1:0):null;
+ v[11]=Math.max(0,Math.min(1,ratio/2));
+ if(a.visual&&a.visual.length===14)for(j=0;j<14;j++)v[12+j]=a.visual[j];
+ return v;
+}
+function distance(a,b){
+ var x=dataFor(a),y=dataFor(b),sum=0,w=0;
+ for(var i=0;i<x.length;i++){if(x[i]===null||y[i]===null)continue;var weight=i<6?.55:i<11?.20:i===11?.55:1;sum+=weight*Math.pow(x[i]-y[i],2);w+=weight;}
+ return w?Math.sqrt(sum/w):.9;
+}
+function sim(a,b){var d=distance(a,b);return Math.exp(-(d*d)/.105);}
+function score(a){
+ var positives=0,weight=0,density=0,minDist=1,evidence=0;
+ state.events.forEach(function(e){var other=lookup(e.id);if(!other)return;var s=sim(a,other);density+=s;minDist=Math.min(minDist,distance(a,other));
+ if(e.vote!=='skip'){var val=e.vote==='yes'?1:e.vote==='no'?-1:.2;positives+=val*s;weight+=s;evidence+=s;}});
+ var affinity=weight?positives/(.4+weight):0;
+ var familiar=.22*(1-Math.exp(-density/2));
+ var saturation=.13*Math.pow(Math.max(0,density-2.4),1.35);
+ var explore=.32*(1/(1+evidence))+.24*minDist;
+ var mixed=affinity*.55+familiar-saturation+explore;
+ return {value:mixed,affinity:affinity,density:density,uncertainty:1/(1+evidence)};
+}
+function lookup(id){return pool.find(function(x){return x.id===id;})||state.local.find(function(x){return x.id===id;})||state.pool.find(function(x){return x.id===id;});}
+function choose(){
+ var available=pool.concat(state.local).filter(function(a){return state.seen.indexOf(a.id)<0;});
+ if(!available.length)return null;
+ var unseen=available.filter(function(a){return !a.visual;});
+ // Some candidates are uniformly sampled before sufficient evidence; never assume a fixed taste maximum.
+ var options=available.map(function(a){return {a:a,s:score(a).value};});
+ options.sort(function(x,y){return y.s-x.s;});
+ var temperature=.28,cut=options.slice(0,Math.min(48,options.length));
+ var chance=Math.random(), useExplore=chance<.29;
+ if(useExplore)return available[Math.floor(Math.random()*available.length)];
+ var peak=cut[0].s,total=0;
+ cut.forEach(function(o){o.w=Math.exp((o.s-peak)/temperature);total+=o.w;});
+ var roll=Math.random()*total;
+ for(var i=0;i<cut.length;i++){roll-=cut[i].w;if(roll<=0)return cut[i].a;}
+ return cut[cut.length-1].a;
+}
+function imgSrc(a,width){return a.local?inMemory[a.id]||'':'https://www.artic.edu/iiif/2/'+encodeURIComponent(a.image)+'/full/'+width+',/0/default.jpg';}
+function visualData(img){
+ try{
+  var c=document.createElement('canvas');c.width=32;c.height=32;
+  var ctx=c.getContext('2d',{willReadFrequently:true});ctx.drawImage(img,0,0,32,32);
+  var px=ctx.getImageData(0,0,32,32).data,lum=[],sat=[],warm=[],r=[],g=[],b=[];
+  for(var i=0;i<1024;i++){var k=i*4,rr=px[k]/255,gg=px[k+1]/255,bb=px[k+2]/255;
+   r.push(rr);g.push(gg);b.push(bb);lum.push(.2126*rr+.7152*gg+.0722*bb);
+   var hi=Math.max(rr,gg,bb),lo=Math.min(rr,gg,bb);sat.push(hi? (hi-lo)/hi:0);warm.push((rr-bb+1)/2);
+  }
+  var mean=function(arr){return arr.reduce(function(a,b){return a+b;},0)/arr.length;};
+  var l=mean(lum),v=mean(sat),vv=mean(warm),sd=Math.sqrt(mean(lum.map(function(t){return(t-l)*(t-l);})));
+  var edge=[0,0,0,0],quarter=[0,0,0,0],nums=[0,0,0,0];
+  for(var y=0;y<32;y++)for(var x=0;x<32;x++){var j=y*32+x,q=(y>=16?2:0)+(x>=16?1:0);
+    quarter[q]+=lum[j];nums[q]++;if(x<31&&y<31)edge[q]+=Math.abs(lum[j]-lum[j+1])+Math.abs(lum[j]-lum[j+32]);}
+  // 14 bounded visual descriptors: global color & luminance and spatial arrangement.
+  return [mean(r),mean(g),mean(b),l,sd,v,vv,quarter[0]/nums[0],quarter[1]/nums[1],quarter[2]/nums[2],quarter[3]/nums[3],Math.min(1,edge[0]/128),Math.min(1,edge[1]/128),Math.min(1,(edge[2]+edge[3])/256)];
+ }catch(e){return null;}
+}
+function paint(a){
+ current=a; $('count').textContent=String(state.events.length+1).padStart(2,'0');
+ if(!a){card.className='card error';card.innerHTML='<div class="placeholder">더 보여줄 이미지가 없어요.<br>⋯ 메뉴에서 내 이미지를 추가할 수 있어요.</div>';toggleVotes(false);return;}
+ toggleVotes(true);card.className='card loading';card.innerHTML='<div class="placeholder">이미지를 불러오는 중…</div>';
+ var image=new Image();image.alt='인물 이미지';image.crossOrigin='anonymous';image.decoding='async';
+ image.onload=function(){
+  if(current!==a)return;
+  if(!a.visual){var f=visualData(image);if(f){a.visual=f;var saved=state.pool.find(function(t){return t.id===a.id;});if(saved)saved.visual=f;save();}}
+  card.className='card';card.replaceChildren(image);
+  var shade=document.createElement('div');shade.className='shade';card.appendChild(shade);
+  var mark=document.createElement('span');mark.className='watermark';mark.id='stamp';card.appendChild(mark);
+ };
+ image.onerror=function(){if(current!==a)return;if(image.crossOrigin){var plain=new Image();plain.alt='인물 이미지';plain.onload=function(){if(current!==a)return;card.className='card';card.replaceChildren(plain);};plain.onerror=function(){if(current===a){card.className='card error';card.innerHTML='<div class="placeholder">이미지를 열 수 없어요.<br>⋯ 메뉴에서 다른 이미지를 추가하거나<br>아래에서 넘겨주세요.</div>';}};plain.src=imgSrc(a,843);return;}card.className='card error';card.innerHTML='<div class="placeholder">이미지를 열 수 없어요.<br>⋯ 메뉴에서 다른 이미지를 추가하거나<br>아래에서 넘겨주세요.</div>';};
+ var src=imgSrc(a,843);
+ if(src)image.src=src;else image.onerror();
+}
+function toggleVotes(ok){document.querySelectorAll('[data-vote]').forEach(function(b){b.disabled=!ok;});$('skip').disabled=!ok;$('undo').disabled=!state.events.length;}
+function vote(v){
+ if(!current||busy)return;
+ var a=current,before=score(a),event={id:a.id,vote:v,at:new Date().toISOString(),model:{value:before.value,affinity:before.affinity,density:before.density}};
+ state.events.push(event);state.seen.push(a.id);state.sequence++;
+ save();transition(v,function(){paint(choose());});$('undo').disabled=false;notice('');
+}
+function transition(v,done){
+ busy=true;
+ var dx=v==='yes'?100:v==='no'?-100:0,dy=v==='curious'?-60:v==='skip'?20:0;
+ card.style.transform='translate('+dx+'px,'+dy+'px) rotate('+(dx/15)+'deg)';card.style.opacity='.05';
+ setTimeout(function(){card.style.transition='none';card.style.transform='';card.style.opacity='1';void card.offsetWidth;card.style.transition='';busy=false;done();},170);
+}
+function undo(){
+ if(busy||!state.events.length)return;
+ var e=state.events.pop(),i=state.seen.lastIndexOf(e.id);
+ if(i>=0)state.seen.splice(i,1);
+ save();paint(lookup(e.id));notice('');
+}
+function openMenu(){
+ menu.classList.add('on');$('summary').textContent='지금까지 '+state.events.length+'장 · 끌림 '+state.events.filter(function(e){return e.vote==='yes';}).length+' · 궁금함 '+state.events.filter(function(e){return e.vote==='curious';}).length;
+ var inf=$('infoBox');inf.replaceChildren();
+ if(current){
+  var p=document.createElement('p');p.textContent=current.local?'내가 추가한 이미지':(current.title||'제목 미상')+' · '+(current.artist||'작가 미상')+' · '+(current.medium||'매체 미상');inf.appendChild(p);
+  if(!current.local){var a=document.createElement('a');a.href='https://www.artic.edu/artworks/'+current.artId;a.target='_blank';a.rel='noopener noreferrer';a.textContent='원본 작품 보기';inf.appendChild(a);}
+ }
+ $('historyList').replaceChildren();
+ state.events.slice().reverse().slice(0,80).forEach(function(e){var li=document.createElement('li'),a=lookup(e.id);li.textContent=(e.vote==='yes'?'♡':e.vote==='no'?'×':e.vote==='curious'?'◇':'→')+' '+(a?(a.local?'내 이미지':a.title):e.id);$('historyList').appendChild(li);});
+}
+function loadArt(){
+ var terms=['portrait','woman','man','self portrait','figure','girl'];
+ return Promise.all(terms.map(function(q){
+  var query=new URLSearchParams({q:q,limit:'80',fields:'id,title,image_id,is_public_domain,artist_title,medium_display,date_start,thumbnail,artwork_type_title'});
+  query.set('query[term][is_public_domain]','true');
+  return fetch('https://api.artic.edu/api/v1/artworks/search?'+query.toString()).then(function(r){if(!r.ok)throw Error('museum '+r.status);return r.json();}).then(function(j){return(j.data||[]).map(function(o){
+   var img=String(o.image_id||'');if(!o.is_public_domain||!/^[-a-zA-Z0-9]+$/.test(img))return null;
+   var title=String(o.title||''),cat=String(o.artwork_type_title||'');
+   if(/architecture|vase|furniture|ceramic|textile/i.test(cat))return null;
+   var humanText=title+' '+String(o.thumbnail&&o.thumbnail.alt_text||'');
+   if(!/portrait|woman|women|man\b|men\b|girl|boy|child|baby|mother|father|sister|brother|lady|gentleman|figure|face|head|bust|people|person|self|artist|model|dancer|actor|singer|soldier|reader|peasant|saint|queen|king|madam|madame|mrs\.|miss\b|nude|seated|standing|costume/i.test(humanText))return null;
+   var id='aic-'+o.id,ratio=o.thumbnail&&o.thumbnail.width&&o.thumbnail.height?o.thumbnail.width/o.thumbnail.height:.8;
+   return {id:id,artId:o.id,image:img,title:title,artist:String(o.artist_title||''),medium:String(o.medium_display||cat),year:o.date_start,ratio:ratio};
+  }).filter(Boolean);})
+  .catch(function(){return [];});
+ })).then(function(groups){
+  var map=new Map();groups.flat().forEach(function(a){map.set(a.id,a);});
+  var data=Array.from(map.values());
+  // Make sure individual artworks and source descriptions survive reload without relying on API uptime.
+  if(data.length)state.pool=data.map(function(a){var earlier=state.pool.find(function(t){return t.id===a.id;});if(earlier&&earlier.visual)a.visual=earlier.visual;return a;});
+  pool=state.pool.slice();save();return pool;
+ });
+}
+function readImage(file){
+ return new Promise(function(resolve,reject){
+  if(!file.type.startsWith('image/'))return reject(Error('이미지 파일이 아닙니다.'));
+  var src=new Image(),reader=new FileReader();
+  reader.onerror=function(){reject(Error('파일을 읽을 수 없습니다.'));};reader.onload=function(){src.src=reader.result;};
+  src.onload=function(){var scale=Math.min(1,960/Math.max(src.width,src.height)),c=document.createElement('canvas');c.width=Math.max(1,Math.round(src.width*scale));c.height=Math.max(1,Math.round(src.height*scale));
+   c.getContext('2d').drawImage(src,0,0,c.width,c.height);resolve({data:c.toDataURL('image/webp',.78),ratio:c.width/c.height});};
+  src.onerror=function(){reject(Error('이미지를 해석할 수 없습니다.'));};reader.readAsDataURL(file);
+ });
+}
+function addFiles(files){
+ Promise.all(Array.from(files).slice(0,20).map(function(f){return readImage(f).then(function(x){
+  var id='user-'+Date.now()+'-'+hash(f.name+Math.random());inMemory[id]=x.data;state.local.push({id:id,local:true,title:f.name,medium:'',ratio:x.ratio,year:0,visual:null});return true;
+ }).catch(function(){return false;});})).then(function(res){
+  // Local uploads are serialized into the current browser state; avoid saving private images to GitHub.
+  var good=save();
+  notice(good?res.filter(Boolean).length+'장 추가했어요.':'추가했지만 브라우저에 보존하지 못했어요.');
+  if(!current||!lookup(current.id))paint(choose());openMenu();
+ });
+}
+var PORTRAIT_SEEDS=[
+ '이른 새벽 세탁소를 지키는 일흔 살 남성. 잘 맞지 않는 작업복, 단단한 등, 환한 형광등 아래의 사적인 정적. 투박한 목탄과 세밀한 색연필 혼합.',
+ '스무 살 안팎의 장거리 우편배달원. 헝클어진 곱슬머리와 선명한 다크서클, 헐렁한 방수복. 어색한 흑백 독립만화 펜화.',
+ '중년의 키 큰 도서관 수선공. 굽은 어깨, 옅은 웃음, 여러 번 기운 재킷, 퇴색한 초록 벽. 1970년대 동유럽 그림책 같은 과감한 평면색.',
+ '낡은 기차역을 통과하는 대머리 노년 여성 여행자. 고개를 기울인 자세, 잘 닳은 운동화, 크게 묶은 스카프. 거친 붓의 유화.',
+ '십 대 후반의 시골 극장 무대감독. 작고 다부진 체구, 큼지막한 작업용 조끼, 인상 깊은 코와 삐뚤어진 앞머리. 만화적인 3등신 실루엣.',
+ '수십 년째 선박을 수리하는 장년 남성. 커다란 손, 둥근 얼굴, 낡은 스웨터, 비 오는 부두. 목판화와 잉크 얼룩이 남는 표현.',
+ '무표정하지만 유난히 호기심 많은 성인 여성 식물 조사원. 작은 눈과 넓은 이마, 비대칭적으로 짧은 머리, 야전 기록장. 절제된 일본 수묵화.',
+ '독립 극단의 중년 배우. 길고 야윈 몸, 어긋난 이빨, 특이한 손동작, 기묘하게 호화로운 무대의상. 과장된 독일 표현주의 포스터.',
+ '몸집이 크고 어깨가 둥근 젊은 제빵사. 잔주름 있는 눈가, 드문드문 탄 밀가루 자국, 편안한 표정. 따뜻한 손그림 동화풍.',
+ '작은 도시의 밤 경비원인 남성. 얼굴에 선명한 비대칭, 무거운 눈꺼풀, 오래된 모자, 깊은 그림자. 명암만으로 인상을 구성한 석판화.',
+ '기차 안에서 일기를 쓰는 노년 여성. 의도치 않게 위엄 있어 보이는 구부정한 자세, 여러 겹의 옷. 포크아트와 낡은 엽서의 구성.',
+ '자신감 넘치지만 우스꽝스러운 성인 남성 마술사. 콧수염이 듬성듬성하고 옷은 너무 큼. 경쾌한 프랑스 희화화와 선명한 윤곽선.',
+ '야외 시장의 중년 여성 장난감 제작자. 거친 손가락, 짧은 목, 웃을 때만 생기는 깊은 주름. 두터운 색면과 비정상적인 원근감.',
+ '고요하고 깔끔하지만 쉽게 잊힐 것 같지 않은 젊은 남성 사서. 둥근 턱, 흔한 평상복, 강렬한 붓질 한두 개. 미니멀한 포스터와 초상화의 경계.',
+ '늦은 오후의 작은 항구를 지키는 성인 여성 등대관리인. 햇볕 탄 피부, 강한 어깨, 다친 장갑, 옆으로 흐르는 시선. 차가운 파스텔 텍스처.',
+ '장난스러운 중년의 여행 음유시인. 다리가 짧게 과장되고 얼굴보다 더 큰 코트, 지나치게 큰 부츠. 아주 단순한 2등신 목각인형풍.'
+];
+function generatedPrompt(){
+ var s=PORTRAIT_SEEDS[Math.floor(Math.random()*PORTRAIT_SEEDS.length)];
+ var liked=state.events.filter(function(e){return e.vote==='yes';}).slice(-3).map(function(e){var a=lookup(e.id);return a&&!a.local?a.title+' ('+a.medium+')':a?a.title:'';}).filter(Boolean);
+ var avoided=state.events.filter(function(e){return e.vote==='no';}).slice(-2).map(function(e){var a=lookup(e.id);return a&&!a.local?a.title:'';}).filter(Boolean);
+ return '사람 캐릭터 이미지 한 장을 만들어 주세요. 아래 설정은 인물의 전체적인 인상에 대한 출발점이지, 얼굴·표정·색을 한 항목씩 시험하라는 뜻이 아닙니다.\n\n'
+ +'인물과 장면: '+s+'\n\n'
+ +'목표: 상업적인 미형 얼굴에 자동 수렴하지 말고, 한 명의 독특하고 살아 있는 인간을 완성된 형상으로 만들어 주세요. 나이·몸·비례·선·표정·매체·복장·기질은 서로 유기적으로 관계맺게 하세요. 매끈한 AI 초상화, 같은 얼굴 반복, 패션 모델 포즈를 피하세요. 세로 초상화 3:4 비율. 글자, 콜라주, 비교표, 설명문 없이 이미지 하나만.\n\n'
+ +(liked.length?'최근 끌린 이미지의 전체 분위기를 참고하되 복제하지 말 것: '+liked.join(' / ')+'\n':'')
+ +(avoided.length?'최근 끌리지 않은 사례는 단순한 반대값으로 뒤집지 말 것: '+avoided.join(' / ')+'\n':'')
+ +'이전 선택에 맞는 것만 반복하지 말고 낯선 미적 봉우리도 탐색하세요.';
+}
+function exportHistory(){
+ var blob=new Blob([JSON.stringify({format:'character-taste-v01',exportedAt:new Date().toISOString(),events:state.events,artworks:state.pool.map(function(a){return {id:a.id,title:a.title,artist:a.artist,medium:a.medium,year:a.year,visual:a.visual||null};}),local:state.local.map(function(a){return {id:a.id,title:a.title,visual:a.visual||null};})},null,2)],{type:'application/json'});
+ var url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='character-taste-'+new Date().toISOString().slice(0,10)+'.json';a.click();setTimeout(function(){URL.revokeObjectURL(url);},500);
+}
+function bind(){
+ document.querySelectorAll('[data-vote]').forEach(function(b){b.addEventListener('click',function(){vote(b.dataset.vote);});});
+ $('skip').addEventListener('click',function(){vote('skip');});$('undo').addEventListener('click',undo);
+ $('menuBtn').addEventListener('click',openMenu);$('closeBtn').addEventListener('click',function(){menu.classList.remove('on');});menu.addEventListener('click',function(e){if(e.target===menu)menu.classList.remove('on');});
+ document.querySelectorAll('[data-view]').forEach(function(b){b.addEventListener('click',function(){$(b.dataset.view).classList.toggle('on');});});
+ $('fileInput').addEventListener('change',function(e){addFiles(e.target.files);e.target.value='';});
+ $('exportBtn').addEventListener('click',exportHistory);
+ $('newPromptBtn').addEventListener('click',function(){$('promptText').value=generatedPrompt();});
+ $('copyPromptBtn').addEventListener('click',function(){var t=$('promptText');t.select();if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t.value).then(function(){notice('복사했어요.');}).catch(function(){notice('직접 선택해서 복사해 주세요.');});}else{notice('선택한 텍스트를 복사해 주세요.');}});
+ document.querySelector('[data-view="promptBox"]').addEventListener('click',function(){$('promptText').value=generatedPrompt();});
+ $('resetBtn').addEventListener('click',function(){if(!confirm('반응 기록을 지울까요? 추가한 이미지도 초기화됩니다.'))return;state=fresh();inMemory={};pool=[];save();menu.classList.remove('on');boot();});
+ document.addEventListener('keydown',function(e){if(menu.classList.contains('on')){if(e.key==='Escape')menu.classList.remove('on');return;}if(e.target instanceof HTMLInputElement)return;
+  if(e.key==='ArrowLeft'){e.preventDefault();vote('no');}if(e.key==='ArrowRight'){e.preventDefault();vote('yes');}if(e.key==='ArrowUp'){e.preventDefault();vote('curious');}if(e.key==='Backspace'){e.preventDefault();undo();}});
+ var start=null;
+ card.addEventListener('touchstart',function(e){if(e.touches.length===1)start={x:e.touches[0].clientX,y:e.touches[0].clientY};},{passive:true});
+ card.addEventListener('touchend',function(e){if(!start)return;var dx=e.changedTouches[0].clientX-start.x,dy=e.changedTouches[0].clientY-start.y;start=null;
+  if(Math.abs(dx)>75&&Math.abs(dx)>Math.abs(dy)*1.2)vote(dx>0?'yes':'no');else if(dy< -80&&Math.abs(dy)>Math.abs(dx))vote('curious');},{passive:true});
+}
+function restoreLocal(){
+ // Uploaded images are stored as separate data URLs in this version; a failure does not alter reactions.
+ try{var o=JSON.parse(localStorage.getItem(STORE+'-images')||'{}');inMemory=o||{};}catch(e){inMemory={};}
+}
+function persistLocal(){
+ try{localStorage.setItem(STORE+'-images',JSON.stringify(inMemory));return true;}catch(e){notice('이미지 저장 공간이 부족해요. 기록만 남을 수 있어요.');return false;}
+}
+var saveBase=save;save=function(){var a=saveBase();return persistLocal()&&a;};
+function boot(){
+ restoreLocal();pool=state.pool.slice();paint(choose());
+ loadArt().then(function(){
+  if(!current||current&&!lookup(current.id)||current&&card.classList.contains('error'))paint(choose());
+  if(!pool.length&&!state.local.length)notice('미술관 이미지를 받아오지 못했어요. ⋯ 메뉴에서 직접 추가할 수 있어요.');
+ });
+}
+bind();boot();
+})();
+</script>
+</body>
+</html>
