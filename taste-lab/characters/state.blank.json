@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.1.0",
+  "revision": 0,
+  "session": {
+    "last_updated": null,
+    "media": "single-character-image",
+    "description": "New longitudinal character image experiment; no personal observations yet."
+  },
+  "policy": {
+    "mode": "early-exploration",
+    "distance_priority": "far",
+    "explore_far_probability": 0.75,
+    "avoid_default_beauty_pose": true,
+    "notes": "These are starter exploration policy values, not user preference measurements."
+  },
+  "hypotheses": [],
+  "events": [],
+  "exposures": [],
+  "generator_failures": []
+}
