@@ -1,0 +1,16 @@
+name: Music taste continuation smoke test
+on:
+  push:
+    paths:
+      - "taste-lab/music/**"
+      - ".github/workflows/music-taste-smoke.yml"
+  pull_request:
+    paths:
+      - "taste-lab/music/**"
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate branching and 5/10-second handoff
+        run: node taste-lab/music/test.mjs
