@@ -99,6 +99,7 @@
     "ing-20261119-agent-commons-cryostasis",
     "ing-20261121-report-cross-literature-discovery",
     "ing-20261122-dual-track-discovery",
-    "ing-20261122-dependency-coverage"
+    "ing-20261122-dependency-coverage",
+    "ing-20261122-validation-debt"
   ]
 }
