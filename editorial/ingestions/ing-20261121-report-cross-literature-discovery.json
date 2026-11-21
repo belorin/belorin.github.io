@@ -1,0 +1,193 @@
+{
+  "id": "ing-20261121-report-cross-literature-discovery",
+  "processed_on": "2026-11-21",
+  "coverage": "visible-complete",
+  "limit_note": "현재 채팅에서 볼 수 있는 논의와 기존 위키만 대조했다. 외부 논문·서비스 원문 재확인 없음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "question",
+      "title": "국제기구 보고서의 교차 독해 부족 가설",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "cross-institutional-report-discovery",
+          "section": "읽히지 않은 지식이라는 연구 가설"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "웹 수집 제한과 적법한 공개 문헌 보존의 필요",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "cross-institutional-report-discovery",
+          "section": "읽히지 않은 지식이라는 연구 가설"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "스완슨의 미발견 공개 지식과 문헌 기반 발견",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "cross-institutional-report-discovery",
+          "section": "문헌 사이에 놓인 발견: 스완슨의 문제"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "발견 후보의 충돌·매개·시차·누락·예측·합치 유형",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "cross-institutional-report-discovery",
+          "section": "문헌 사이에 놓인 발견: 스완슨의 문제"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "example",
+      "title": "한국 생활 수준의 다기관 교차 독해 실험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "cross-institutional-report-discovery",
+          "section": "예시: 한 나라의 생활 수준을 서로 다른 관측계로 읽기"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "argument",
+      "title": "원문·주장·발견 계보의 다층적 저장과 하향 검증",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "cross-institutional-report-discovery",
+          "section": "장기 저장에서 발견의 계보까지"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "concept",
+      "title": "DDC·DDD·사건 기반 저장의 서로 다른 역할",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "cross-institutional-report-discovery",
+          "section": "장기 저장에서 발견의 계보까지"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "curation",
+      "title": "AI 기억과 구조 진화의 참고 기술",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "cross-institutional-report-discovery",
+          "section": "AI 기억 연구는 어디까지 참고할 수 있는가"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "concept",
+      "title": "MAPE의 기억 프로그램 설계 진화와 적용 범위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "cross-institutional-report-discovery",
+          "section": "AI 기억 연구는 어디까지 참고할 수 있는가"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "curation",
+      "title": "국제 정책 보고서 증거 종합과 문헌 발견의 사례",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "cross-institutional-report-discovery",
+          "section": "국제기구·정책연구에서의 유사 시도"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "curation",
+      "title": "한국 공공 연구보고서 수집처와 AI 비교 도구",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "cross-institutional-report-discovery",
+          "section": "한국의 자료 수집처와 선행 시도"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "argument",
+      "title": "문헌별 권리·수집 허가와 원문 접근 범위의 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "cross-institutional-report-discovery",
+          "section": "한국의 자료 수집처와 선행 시도"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "concept",
+      "title": "활동·수집·발행 주기와 문서량의 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "cross-institutional-report-discovery",
+          "section": "어떤 성과를 재야 하는가"
+        },
+        {
+          "doc_id": "wiki-building-history",
+          "section": "후속 과제: 편집의 계층에서 살아 있는 기억의 계층으로"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "concept",
+      "title": "교차성·근거 회수·기각 추적·비용의 평가 지표",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "cross-institutional-report-discovery",
+          "section": "어떤 성과를 재야 하는가"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "example",
+      "title": "소규모 보고서 집합의 발견·재검증 비교 실험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "cross-institutional-report-discovery",
+          "section": "작게 시작하는 실제 실험"
+        }
+      ]
+    }
+  ]
+}
