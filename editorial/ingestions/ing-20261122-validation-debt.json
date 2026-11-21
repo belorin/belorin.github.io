@@ -1,0 +1,32 @@
+{
+  "id": "ing-20261122-validation-debt",
+  "processed_on": "2026-11-22",
+  "coverage": "visible-complete",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "검증 지식 부채와 공개 자격의 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "cross-institutional-report-discovery",
+          "section": "검증 경고의 지식 부채: 결론의 공개 자격과 검토 대기열 (2026-11-22)"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "거짓 확정 노출 시간과 부당 철회율의 동시 평가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "cross-institutional-report-discovery",
+          "section": "검증 경고의 지식 부채: 결론의 공개 자격과 검토 대기열 (2026-11-22)"
+        }
+      ]
+    }
+  ]
+}
