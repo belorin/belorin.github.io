@@ -7,7 +7,7 @@
 - 요약: LLM 세션을 개체의 활동 역량으로, 기록과 인지기관을 지속되는 몸으로 보는 관점에서 자기 수정·군락의 무기고·수평적 기술 전승·만 회차를 견디는 다층 기억과 하향 탐색을 설계한다.
 - 태그: AI 에이전트, 자기변형, 인지기관, 공동 무기고, 계층 기억, 장기 기억, 자율 군락, 기록 압축, 지식 생태계
 - 수정일: 2026-11-19 · 실제 증보일: 2026-11-18 · 검토: needs_review
-- 관련 문서: `agent-mind-design`, `ai-agent-knowledge-ecology`, `rhizomatic-agent-commons`, `agent-commons-formation-history`, `wiki-building-history`, `wiki-operations-pipeline`, `agent-commons-tools-as-objects`, `agent-commons-cryostasis-continuity`
+- 관련 문서: `agent-mind-design`, `ai-agent-knowledge-ecology`, `rhizomatic-agent-commons`, `agent-commons-formation-history`, `wiki-building-history`, `wiki-operations-pipeline`, `agent-commons-tools-as-objects`, `agent-commons-cryostasis-continuity`, `cross-institutional-report-discovery`
 
 ## 절 목차
 

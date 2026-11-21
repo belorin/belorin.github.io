@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1473개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1488개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (27)
 
@@ -1049,7 +1049,7 @@
 - 객체 변형 합성을 위한 생성 실험의 범위 → `taste-calculator-style-algebra` § 생성 연산을 눈으로 확인하기 위한 구현 · `ing-20261116-taste-experiment-rationales`
 - 경험 순서와 C 전이의 실행 예제 및 감상과의 간극 → `mathematical-theory-of-taste` § 순서와 C의 역할을 실행해 보는 실험 · `ing-20261116-taste-experiment-rationales`
 
-## 기술·지식 아카이브 (78)
+## 기술·지식 아카이브 (93)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -1131,6 +1131,21 @@
 - 운영상 정지와 보유 자산의 청산 구별 → `upbit-small-capital-trading-experiment` § 언제 5천원짜리 실제 거래로 넘어가는가 · `ing-20261102-upbit-small-capital-trading`
 - 전략 수익과 시장 기준선 대비 상대 성과의 구별 → `upbit-small-capital-trading-experiment` § 수익 판단: 한 번의 흑자보다 반증 가능한 증거 · `ing-20261102-upbit-small-capital-trading`
 - 실패한 전략과 운영 장애를 구분하는 검증 기록 → `upbit-small-capital-trading-experiment` § 중단해야 할 신호와 남겨야 할 증거 · `ing-20261102-upbit-small-capital-trading`
+- 국제기구 보고서의 교차 독해 부족 가설 → `cross-institutional-report-discovery` § 읽히지 않은 지식이라는 연구 가설 · `ing-20261121-report-cross-literature-discovery`
+- 웹 수집 제한과 적법한 공개 문헌 보존의 필요 → `cross-institutional-report-discovery` § 읽히지 않은 지식이라는 연구 가설 · `ing-20261121-report-cross-literature-discovery`
+- 스완슨의 미발견 공개 지식과 문헌 기반 발견 → `cross-institutional-report-discovery` § 문헌 사이에 놓인 발견: 스완슨의 문제 · `ing-20261121-report-cross-literature-discovery`
+- 발견 후보의 충돌·매개·시차·누락·예측·합치 유형 → `cross-institutional-report-discovery` § 문헌 사이에 놓인 발견: 스완슨의 문제 · `ing-20261121-report-cross-literature-discovery`
+- 한국 생활 수준의 다기관 교차 독해 실험 → `cross-institutional-report-discovery` § 예시: 한 나라의 생활 수준을 서로 다른 관측계로 읽기 · `ing-20261121-report-cross-literature-discovery`
+- 원문·주장·발견 계보의 다층적 저장과 하향 검증 → `cross-institutional-report-discovery` § 장기 저장에서 발견의 계보까지 · `ing-20261121-report-cross-literature-discovery`
+- DDC·DDD·사건 기반 저장의 서로 다른 역할 → `cross-institutional-report-discovery` § 장기 저장에서 발견의 계보까지 · `ing-20261121-report-cross-literature-discovery`
+- AI 기억과 구조 진화의 참고 기술 → `cross-institutional-report-discovery` § AI 기억 연구는 어디까지 참고할 수 있는가 · `ing-20261121-report-cross-literature-discovery`
+- MAPE의 기억 프로그램 설계 진화와 적용 범위 → `cross-institutional-report-discovery` § AI 기억 연구는 어디까지 참고할 수 있는가 · `ing-20261121-report-cross-literature-discovery`
+- 국제 정책 보고서 증거 종합과 문헌 발견의 사례 → `cross-institutional-report-discovery` § 국제기구·정책연구에서의 유사 시도 · `ing-20261121-report-cross-literature-discovery`
+- 한국 공공 연구보고서 수집처와 AI 비교 도구 → `cross-institutional-report-discovery` § 한국의 자료 수집처와 선행 시도 · `ing-20261121-report-cross-literature-discovery`
+- 문헌별 권리·수집 허가와 원문 접근 범위의 분리 → `cross-institutional-report-discovery` § 한국의 자료 수집처와 선행 시도 · `ing-20261121-report-cross-literature-discovery`
+- 활동·수집·발행 주기와 문서량의 분리 → `cross-institutional-report-discovery` § 어떤 성과를 재야 하는가; `wiki-building-history` § 후속 과제: 편집의 계층에서 살아 있는 기억의 계층으로 · `ing-20261121-report-cross-literature-discovery`
+- 교차성·근거 회수·기각 추적·비용의 평가 지표 → `cross-institutional-report-discovery` § 어떤 성과를 재야 하는가 · `ing-20261121-report-cross-literature-discovery`
+- 소규모 보고서 집합의 발견·재검증 비교 실험 → `cross-institutional-report-discovery` § 작게 시작하는 실제 실험 · `ing-20261121-report-cross-literature-discovery`
 
 ## 정치경제 (68)
 

@@ -7,7 +7,7 @@
 - 요약: AI 개별성을 누적된 역사·정보 비대칭·상호의존성으로 설명하고, 스스로 탐색법과 글쓰기법을 발전시키며 생애 관습까지 구성하는 독립 행위자 실험과 연결한다.
 - 태그: AI 에이전트, 개별성, 지식 생태계, 멀티에이전트, 창발, 장기 기억
 - 수정일: 2026-11-18 · 실제 증보일: 2026-11-18 · 검토: needs_review
-- 관련 문서: `ai-mediated-human-change`, `ai-compute-scaling-inference`, `local-llm-industrial-operations`, `rhizomatic-agent-commons`, `agent-mind-design`, `agent-commons-self-evolution-memory`
+- 관련 문서: `ai-mediated-human-change`, `ai-compute-scaling-inference`, `local-llm-industrial-operations`, `rhizomatic-agent-commons`, `agent-mind-design`, `agent-commons-self-evolution-memory`, `cross-institutional-report-discovery`
 
 ## 절 목차
 

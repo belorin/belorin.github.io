@@ -7,7 +7,7 @@
 - 요약: 2026년 가계소득·실질소비·자산 양극화와 2025년 여행 통계를 구별하고, 생활 압박과 선택적 소비가 공존하는 경로 및 세대 비교의 조건을 검토한다.
 - 태그: 한국 소비, 생활경제, 가계 양극화, 자산 격차, 세대, 여행, 가계동향조사
 - 수정일: 2026-11-10 · 실제 증보일: 2026-11-10 · 검토: reviewed
-- 관련 문서: `housing-busts-global-korea`, `ai-youth-hiring-productivity-evidence-2026`
+- 관련 문서: `housing-busts-global-korea`, `ai-youth-hiring-productivity-evidence-2026`, `cross-institutional-report-discovery`
 
 ## 절 목차
 

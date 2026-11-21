@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `wiki-building-history` · 분류: 운영 · 공개 · 원고: [wiki/wiki-building-history.md](../../../wiki/wiki-building-history.md) · 15,804자 · 절 22개
+- id: `wiki-building-history` · 분류: 운영 · 공개 · 원고: [wiki/wiki-building-history.md](../../../wiki/wiki-building-history.md) · 16,428자 · 절 22개
 - 별칭: 위키 구축 이력, 위키 아키텍처, 위키 구성사, 총합형 지식백과, 위키 증보 과부하, 계층 편집 설계
 - 요약: GPT 위키의 외부 기억 선행 구상에서 출발하여 Markdown 정본화·AI 탐색·교차 편집의 구축 이력과, 누적 증보의 과부하를 줄이는 절 단위 탐색·조건부 범위 확장·두 속도 편집의 후속 설계.
 - 태그: 위키 구축, 아키텍처, Markdown, AI 편집, GitHub Pages, 변경 이력
 - 수정일: 2026-11-18 · 실제 증보일: 2026-11-18 · 검토: needs_review
-- 관련 문서: `living-notes`, `editing-principles`, `open-questions`, `wiki-operations-pipeline`, `gpt-wiki-zero-prototype`, `agent-commons-self-evolution-memory`
+- 관련 문서: `living-notes`, `editing-principles`, `open-questions`, `wiki-operations-pipeline`, `gpt-wiki-zero-prototype`, `agent-commons-self-evolution-memory`, `cross-institutional-report-discovery`
 
 ## 절 목차
 
@@ -34,8 +34,8 @@
   - 일상 증보와 정기 정비의 두 속도 · L169–175 · 486자 · `970a4a0c` — 일상 증보는 새 자료와 직접 영향을 받는 범위에 집중하고, 넓은 관계 재검토는 별도 정비 회차에서 수행하는 방식으로 설계한다.
   - 처리 경계와 승인된 지식의 환류 · L177–183 · 593자 · `8ccc1c47` — 편집 결과에는 실제로 확인한 범위와 확인하지 못한 범위가 구분되어야 한다.
   - 구현의 순서와 현재의 경계 · L185–193 · 687자 · `74ec20d0` — 우선 구현할 것은 절 개요 생성기와 지식 표제 역색인이다.
-- 후속 과제: 편집의 계층에서 살아 있는 기억의 계층으로 · L195–199 · 625자 · `ac6413d7` — 위키의 지도·문서 카드·절 원문은 보존량과 한 번의 읽기량을 분리한다는 설계를 이미 실용화했다.
-- 관련 문서와 검증 가능한 이력 · L201–215 · 1,126자 · `159d786b` — 열린 노트의 운영 방향
+- 후속 과제: 편집의 계층에서 살아 있는 기억의 계층으로 · L195–203 · 1,249자 · `763092b6` — 위키의 지도·문서 카드·절 원문은 보존량과 한 번의 읽기량을 분리한다는 설계를 이미 실용화했다.
+- 관련 문서와 검증 가능한 이력 · L205–219 · 1,126자 · `159d786b` — 열린 노트의 운영 방향
 
 ## 장부에 기록된 반영 지식
 
@@ -81,3 +81,4 @@
   - 구축사 05절 설계의 구현 기록 위치 안내 · `ing-20261026-wiki-operations-pipeline`
 - **후속 과제: 편집의 계층에서 살아 있는 기억의 계층으로**
   - 만 회차 생애를 위한 다층 기억·근거 원문으로의 하강 · `ing-20261118-agent-self-evolution-memory`
+  - 활동·수집·발행 주기와 문서량의 분리 · `ing-20261121-report-cross-literature-discovery`

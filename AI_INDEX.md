@@ -628,6 +628,9 @@
 - **[10만원으로 자동매매는 수익을 낼 수 있는가: 업비트·라즈베리파이·Codex 검증 설계](wiki/upbit-small-capital-trading-experiment.md)** · 별칭: 코인 자동매매 실험, 업비트 소액 봇, 라즈베리파이 코인 매매, 소액 알고리즘 트레이딩 · 수정: 2026-11-02 · 검토: 시스템·전략 검증 설계 단계·모의매매 및 실거래 성과 미확인
   - 약 10만원을 상한으로 업비트 자동매매의 수익 가능성을 검증하는 Raspberry Pi·Python 실험 설계. 거래소·공개 라이브러리 선택, 비용 모델과 세 전략, 백테스트·모의매매·실거래 전환, 12단계 Codex 개발 지시와 안전·복구 절차.
   - [문서 페이지](https://belorin.github.io/notes/upbit-small-capital-trading-experiment/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/upbit-small-capital-trading-experiment.md)
+- **[읽히지 않은 보고서들의 교차점: 국제기구 문헌에서 발견을 축적하는 연구 시스템](wiki/cross-institutional-report-discovery.md)** · 별칭: 문헌 기반 발견 시스템, 국제기구 보고서 교차 분석, 보고서 지식 탐사, Undiscovered Public Knowledge, AI 증거 종합, 국책연구 보고서 교차 독해 · 수정: 2026-11-21 · 검토: 탐사 시스템 연구 구상·선행 사례와 수치의 원문 재확인 필요
+  - 세계은행·IMF·WHO·ILO·OECD와 한국 국책연구기관의 보고서를 교차 독해해 숨은 관계·불일치·연구 공백과 예측 실패를 발견하고, 가설의 검증·기각 이력을 축적하는 장기 문헌 탐사 체계. LBD 선행연구, AI 기억 기술, 국제·국내 프로젝트와 평가 기준을 함께 비교한다.
+  - [문서 페이지](https://belorin.github.io/notes/cross-institutional-report-discovery/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/cross-institutional-report-discovery.md)
 
 ## 생명과학
 
