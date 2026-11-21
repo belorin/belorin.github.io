@@ -1,0 +1,21 @@
+{
+  "id": "ing-20261122-dependency-coverage",
+  "processed_on": "2026-11-22",
+  "coverage": "visible-complete",
+  "limit_note": "기존 위키 및 확인 가능한 선행연구를 토대로 한 설계; 실험 미실행",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "의존성 기록 범위와 거짓 안정 위험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "cross-institutional-report-discovery",
+          "section": "의존성 기록의 밀도: 빠진 연결을 '안정'으로 오인하지 않기 (2026-11-22)"
+        }
+      ]
+    }
+  ]
+}
