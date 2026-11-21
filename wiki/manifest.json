@@ -880,7 +880,8 @@
         "open-questions",
         "wiki-operations-pipeline",
         "gpt-wiki-zero-prototype",
-        "agent-commons-self-evolution-memory"
+        "agent-commons-self-evolution-memory",
+        "cross-institutional-report-discovery"
       ],
       "aliases": [
         "위키 구축 이력",
@@ -6462,7 +6463,8 @@
       "source": "2026-11-10 공개 원자료 대조 · 자료별 관측일과 확인 한계는 본문에 명시",
       "related": [
         "housing-busts-global-korea",
-        "ai-youth-hiring-productivity-evidence-2026"
+        "ai-youth-hiring-productivity-evidence-2026",
+        "cross-institutional-report-discovery"
       ],
       "aliases": [
         "불황과 여행 소비",
@@ -6740,7 +6742,8 @@
         "local-llm-industrial-operations",
         "rhizomatic-agent-commons",
         "agent-mind-design",
-        "agent-commons-self-evolution-memory"
+        "agent-commons-self-evolution-memory",
+        "cross-institutional-report-discovery"
       ],
       "aliases": [
         "AI 지식 생태계",
@@ -7410,7 +7413,8 @@
         "wiki-building-history",
         "wiki-operations-pipeline",
         "agent-commons-tools-as-objects",
-        "agent-commons-cryostasis-continuity"
+        "agent-commons-cryostasis-continuity",
+        "cross-institutional-report-discovery"
       ],
       "aliases": [
         "에이전트 자기변형 설계",
@@ -7496,6 +7500,45 @@
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-11-19"
+    },
+    {
+      "id": "cross-institutional-report-discovery",
+      "path": "wiki/cross-institutional-report-discovery.md",
+      "publish": true,
+      "order": 225,
+      "title": "읽히지 않은 보고서들의 교차점: 국제기구 문헌에서 발견을 축적하는 연구 시스템",
+      "category": "기술·지식 아카이브",
+      "status": "탐사 시스템 연구 구상·선행 사례와 수치의 원문 재확인 필요",
+      "updated": "2026-11-21",
+      "summary": "세계은행·IMF·WHO·ILO·OECD와 한국 국책연구기관의 보고서를 교차 독해해 숨은 관계·불일치·연구 공백과 예측 실패를 발견하고, 가설의 검증·기각 이력을 축적하는 장기 문헌 탐사 체계. LBD 선행연구, AI 기억 기술, 국제·국내 프로젝트와 평가 기준을 함께 비교한다.",
+      "tags": [
+        "국제기구 보고서",
+        "문헌 기반 발견",
+        "LBD",
+        "교차 문헌 분석",
+        "국책연구",
+        "장기 지식체계",
+        "AI 연구 자동화",
+        "증거 종합",
+        "지식베이스 진화"
+      ],
+      "source": "내부 총합·기존 위키 대조·대화에 소개된 외부 사례 원문 재검증 없음",
+      "related": [
+        "wiki-building-history",
+        "agent-commons-self-evolution-memory",
+        "ai-agent-knowledge-ecology",
+        "korea-household-consumption-divergence-2026"
+      ],
+      "aliases": [
+        "문헌 기반 발견 시스템",
+        "국제기구 보고서 교차 분석",
+        "보고서 지식 탐사",
+        "Undiscovered Public Knowledge",
+        "AI 증거 종합",
+        "국책연구 보고서 교차 독해"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-21"
     }
   ]
 }
