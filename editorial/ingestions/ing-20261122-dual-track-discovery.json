@@ -1,0 +1,45 @@
+{
+  "id": "ing-20261122-dual-track-discovery",
+  "processed_on": "2026-11-22",
+  "coverage": "visible-complete",
+  "limit_note": "현재 실행에서 접근한 위키 원고와 공개 문헌에 근거한 설계 증보; 파일럿 실험 미실시",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "이질적 연결의 탐사와 확정 비교를 분리하는 이중 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "cross-institutional-report-discovery",
+          "section": "이질적 연결을 보존하는 이중 탐사 경로: 발견과 검증의 비대칭"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "미래 문헌 공출현과 발견의 유용성은 다른 평가 대상",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "cross-institutional-report-discovery",
+          "section": "재현 가능한 평가: 발견을 미래 문헌의 등장과 동일시하지 않는다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "question",
+      "title": "탐사 가설 검증 자원의 편향 없는 배분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "cross-institutional-report-discovery",
+          "section": "다음 개방 문제"
+        }
+      ]
+    }
+  ]
+}
