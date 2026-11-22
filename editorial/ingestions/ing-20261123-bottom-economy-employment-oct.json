@@ -1,0 +1,45 @@
+{
+  "id": "ing-20261123-bottom-economy-employment-oct",
+  "processed_on": "2026-11-23",
+  "coverage": "visible-complete",
+  "limit_note": "국가데이터처 2026년 10월 고용동향과 공식 브리핑의 공개 수치를 검토; 연말 실적과 원인 추정은 미포함",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "2026년 10월 전체 고용률 상승과 청년 고용률 하락",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "2026년 10월 서비스·건설·보건 업종별 취업자 증감",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "고용률과 실업률의 분모 차이 및 노동시장 이탈 해석",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    }
+  ]
+}
