@@ -1,0 +1,45 @@
+{
+  "id": "ing-20261123-bottom-economy-youth-cohort-counterfactual",
+  "processed_on": "2026-11-23",
+  "coverage": "visible-complete",
+  "limit_note": "2026년 10월 공식 고용동향 원계열 연령별 표와 계절조정 전월비 대조. 인구 고정 비교는 계산상 반사실이며 원인·일자리 수 추정이 아님.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "20~24세 취업자 감소와 인구 감소의 크기 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "20~24세 인구 고정 비교로 본 취업 비중 하락",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "fact",
+      "title": "2026년 10월 계절조정 취업자 전월 감소와 전년동월 증가의 공존",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    }
+  ]
+}
