@@ -1,0 +1,45 @@
+{
+  "id": "ing-20261123-bottom-economy-lunar-wage-shift",
+  "processed_on": "2026-11-23",
+  "coverage": "visible-complete",
+  "limit_note": "2026년 1~2월 사업체 임금의 설 지급 시점과 특별급여 차이만 확인; 2026년 연간 실질임금 미확정",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "2026년 설 상여금 지급월 이동에 따른 1월 임금 하락과 2월 반등",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "2026년 1~2월 실질임금 증가와 사업체 규모별 명목임금 증가 격차",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "반도체 관련 특별급여 증가와 주가·노동소득 사이 인과 해석의 경계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    }
+  ]
+}
