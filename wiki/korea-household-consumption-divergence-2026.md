@@ -72,4 +72,4 @@
 
 조사 기준일은 2026-11-10이다. 가계 현황의 수치는 확인한 2026년 2분기 자료이며 연말 확정치가 아니다. 자산 격차에는 2025년, 여행에는 2025년 연간 관측이 사용되었다. 연령·소득·자산을 결합한 원자료 분석과 소비자의 면접은 수행하지 않았다. 따라서 세대별 여행비의 정확한 차이나 소비 동기의 인과관계는 미확정으로 남긴다.
 
-관련: [부동산 붕괴가 생활에 남기는 후과](./housing-busts-global-korea.md), [AI와 청년의 경력 사다리](./ai-youth-hiring-productivity-evidence-2026.md).
+관련: [《2026, 바닥의 경제》 — 금융의 시간과 생활의 시간](./korea-bottom-economy-2026.md), [부동산 붕괴가 생활에 남기는 후과](./housing-busts-global-korea.md), [AI와 청년의 경력 사다리](./ai-youth-hiring-productivity-evidence-2026.md).
