@@ -13,6 +13,18 @@
         "proposed": 0,
         "deferred": 2
       }
+    },
+    {
+      "version": "M002",
+      "date": "2026-11-23",
+      "scope": "대기열 1절 정치경제 변경 원고 10편 및 직접 연결·날짜·관련 신호",
+      "report": "editorial/maintenance/reports/M002.md",
+      "counts": {
+        "fixed": 9,
+        "reported": 3,
+        "proposed": 0,
+        "deferred": 4
+      }
     }
   ]
 }
