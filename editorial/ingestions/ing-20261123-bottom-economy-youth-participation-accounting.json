@@ -1,0 +1,33 @@
+{
+  "id": "ing-20261123-bottom-economy-youth-participation-accounting",
+  "processed_on": "2026-11-23",
+  "coverage": "visible-complete",
+  "limit_note": "2026년 10월 국가데이터처 고용동향 원계열의 연령별 참가율·고용률·쉬었음 인구를 대조. 인구 100명당 차이는 단면 간 비율 항등식이며 개인 이동·인과 추정이 아님.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "argument",
+      "title": "20~24세 고용률 하락을 참가율과 실업자 비중 변화로 분해",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "20대 쉬었음 인구 감소와 노동시장 참가율 하락의 공존",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    }
+  ]
+}
