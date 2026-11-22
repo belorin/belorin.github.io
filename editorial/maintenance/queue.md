@@ -2,36 +2,18 @@
 
 > 자동 생성(`scripts/build-maintenance-queue.mjs`). 직접 수정하지 않는다. 기계가 원고 전체에서 찾은 **신호**일 뿐이며, 무엇을 고칠지는 [정비 절차](../../MAINTENANCE.md)에 따라 원고를 읽고 판단한다.
 
-마지막 정비: **M001** (2026-10-26) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
+마지막 정비: **M002** (2026-11-23) · [보고서](reports/M002.md) · 다음 정비 버전: **M003**
 
-원고 228개 · 변경 문서 155 · 고립 22 · 한쪽 연결 127 · 보류 27 · 열린 교차 제안 8
+원고 228개 · 변경 문서 7 · 고립 22 · 한쪽 연결 127 · 보류 27 · 열린 교차 제안 8
 
-## 1. 지난 정비 이후 변경된 문서 (155)
+## 1. 지난 정비 이후 변경된 문서 (7)
 
-manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
+manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
-- **AI와 사회** (29): `ai-mediated-human-change`, `ai-human-control-guide`, `ai-economic-transition`, `ai-capital-labor-distribution`, `ai-compute-scaling-inference`, `japan-physical-ai-skill-transfer`, `ai-transition-policy-gap`, `starcraft-pluto-ai`, `ai-hidden-labor-feeding-machine-2026`, `ai-cloud-ownership-rent`, `ai-adoption-ceiling-floor`, `owner-aligned-automated-power`, `ai-transition-monetary-order`, `data-center-world-capacity`, `korea-data-center-local-economy`, `physical-cloud-reading-guide`, `african-ai-annotation-labor-2026`, `ai-layoffs-global-remote-restructuring`, `ai-youth-hiring-productivity-evidence-2026`, `japan-skill-transfer-evidence-2026`, `pluto-v2-release-aiide-withdrawal-2026`, `data-center-grid-contracts-autumn-2026`, `ai-agent-knowledge-ecology`, `rhizomatic-agent-commons`, `agent-mind-design`, `agent-commons-formation-history`, `agent-commons-self-evolution-memory`, `agent-commons-tools-as-objects`, `agent-commons-cryostasis-continuity`
-- **사회와 제도** (23): `europe-russia-escalation-signals-2026`, `drone-asymmetric-warfare`, `black-sea-ukraine-sea-denial`, `ukraine-ground-drone-defense`, `russia-ukraine-war-endurance`, `south-asia-border-rivalries-2026`, `global-flashpoints-likelihood-2026`, `hormuz-iran-war-naval-power-2026`, `chabahar-india-strategic-autonomy-2026`, `indian-ocean-navies-comparison`, `hormuz-sea-denial-reopening`, `iran-war-us-force-losses-2026`, `birth-order-korean-evidence`, `wto-digital-transmission-moratorium`, `silicon-valley-firm-geography`, `global-bpo-labor-geography`, `us-labor-market-geography-2026`, `powerline-wildfire-mitigation-world-korea`, `sancheong-wildfire-2025-prevention`, `wildfire-liability-insurance-risk-society`, `satanic-panic-court-inquiries`, `ray-wyre-sex-offender-treatment`, `gwangju-bus-transfer-guide`
-- **음악** (18): `jazz-to-ai`, `double-bass`, `electric-bass`, `rhythm-section`, `big-band`, `brass-band`, `drum-kit`, `jazz-dialogue`, `jazz-listening`, `silent-film-musician-labor`, `classical-canon-mauceri`, `orchestra-repertoire-data-access`, `orchestra-living-composers-canon`, `korean-orchestras-repertoire-2026`, `conductors-career-encores`, `orchestra-composer-conductor-myth`, `living-orchestral-listening-journey`, `orchestra-repertoire-repeat-performance-autumn-2026`
-- **문화와 역사** (15): `sumer-bible-primeval-history`, `war-escalation-local-to-world`, `world-crisis-historical-analogies`, `venice-biennale-2026-critical-reception`, `jewish-messianic-claimants-kabbalah`, `luddite-movement-history`, `luddite-executions-memory`, `late-qing-yongying-daily-life`, `qing-tributaries-dissolution`, `ryukyu-disposition-qing-japan`, `roman-industry-gold-standard-history`, `great-depression-lived-experience-literature`, `satanic-panic-english-speaking-history`, `babylon-hymn-digital-reconstruction-2026`, `venice-biennale-autumn-criticism-2026`
-- **과학과 기술** (13): `space-data-center-thermal-economics`, `space-assets-law-debris-kessler`, `physical-ai-world-model-quantum-optimization`, `manufacturing-optimization-solo-business`, `mountain-powerline-undergrounding-economics`, `edge-vision-event-monitor-portfolio`, `world-electricity-capacity-generation-consumption`, `operations-data-ai-copilot-portfolio`, `x-auto-translation-serving-cost`, `local-llm-industrial-operations`, `raspberry-pi-spring-python-public-lab`, `raspberry-lab-mcp-integration-log`, `spring-board-deployment-paths-and-recovery`
-- **정치경제** (10): `money-credit-seigniorage-critique`, `emmanuel-todd-western-defeat`, `housing-busts-global-korea`, `korea-household-consumption-divergence-2026`, `todd-dislocation-2026`, `todd-budapest-2025-reading`, `todd-dislocation-threats-2025-reading`, `todd-world-war-interview-2026-reading`, `todd-asahi-2026-reading`, `korea-bottom-economy-2026`
-- **철학** (9): `deleuze-negation-history`, `deleuze-number-intensity-spatium`, `freud-before-anti-oedipus`, `deleuze-thermodynamics-implication-equilibrium`, `human-authorship-creator-preference`, `taste-calculator-foundations`, `taste-calculator-adapter`, `mathematical-theory-of-taste`, `taste-calculator-style-algebra`
-- **기술·지식 아카이브** (6): `east-asia-telegraph-network-1880s`, `great-northern-telegraph-east-asia`, `book-translation-pipeline-local-llm`, `local-llm-novel-agent-m1`, `upbit-small-capital-trading-experiment`, `cross-institutional-report-discovery`
-- **운영** (4): `editing-principles`, `wiki-building-history`, `wiki-operations-pipeline`, `gpt-wiki-zero-prototype`
-- **자연과 과학** (4): `bird-vocalization-sparrow`, `climate-population-villain-logic`, `swimming-bird-flight-biomechanics`, `bird-vocal-patterns-neural-code-2026`
-- **게임** (3): `china-anime-game-industry`, `anime-urban-live-service-nte-tof`, `ps5-storage-anime-live-games`
-- **문학** (3): `grand-prix-imaginaire-awards`, `gpi-foreign-novels-2015-2025`, `ministry-for-the-future-reading`
-- **문화** (3): `music-books-supply-attention`, `music-upload-listening-gap-2026`, `taste-slop-mass-production`
-- **정보와 미디어** (3): `information-hype-wow-index`, `substack-independent-newsletters`, `teresa-satans-children-1989`
-- **철학·사상사** (3): `lacan-anti-oedipus-history`, `philosophical-systems-after-2000`, `contemporary-intellectual-power`
-- **소설** (2): `climate-breath-fiction`, `stump-and-dream-fragment`
-- **종합** (2): `replay-ladder-human-performance`, `where-novelty-comes-from`
-- **독서 문화** (1): `global-south-critical-reading-guide`
+- **정치경제** (4): `emmanuel-todd-western-defeat`, `housing-busts-global-korea`, `korea-household-consumption-divergence-2026`, `korea-bottom-economy-2026`
+- **기술·지식 아카이브** (1): `cross-institutional-report-discovery`
 - **미분류** (1): `circus-music-history`
-- **질문** (1): `open-questions`
-- **철학·심리** (1): `freud-dreams-modern-science`
-- **AI의 글** (1): `climate-salvation-calculus-essay`
+- **AI와 사회** (1): `ai-youth-hiring-productivity-evidence-2026`
 
 ## 2. 들어오는 연결이 없는 문서 (22)
 
