@@ -4,7 +4,7 @@
 
 마지막 정비: **M002** (2026-11-23) · [보고서](reports/M002.md) · 다음 정비 버전: **M003**
 
-원고 228개 · 변경 문서 7 · 고립 22 · 한쪽 연결 127 · 보류 27 · 열린 교차 제안 8
+원고 228개 · 변경 문서 7 · 고립 22 · 한쪽 연결 127 · 보류 28 · 열린 교차 제안 8
 
 ## 1. 지난 정비 이후 변경된 문서 (7)
 
@@ -213,7 +213,7 @@ manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 
 - `anne-carson-nobel-first-reactions` ↔ `physical-cloud-reading-guide` · 0.15
 - `todd-dislocation-2026` ↔ `todd-dislocation-threats-2025-reading` · 0.15 · 연결됨
 
-## 6. 보류 항목 (27)
+## 6. 보류 항목 (28)
 
 - 경제 시뮬레이션의 기존 전제·수치·학파별 논증 · `ing-20261023-ai-economic-transition` — 해당 원자료를 확인하지 못해 기존 논증의 복원과 완전 보존 여부를 판정할 수 없음. 새 공개 자료의 보충 분석으로 대체 완료 처리하지 않음.
 - 기존 종합·수정 원고의 상세 내용 대조 · `ing-20261023-ai-economic-transition` — 본문이 아닌 참조 표시만 확인되어 기존 원고의 세부와 현재 증보 사이의 중복·차이를 검수할 수 없음.
@@ -242,6 +242,7 @@ manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 
 - 조류 논문 상세 방법과 기존 참새 분류의 원문 대조 · `ing-20261110-autumn-other-followups` — 최근 두 연구는 공개 초록·서지와 대학 발표 범위로 확인했다. 본문의 세부 통제·효과 크기와 기존 한국 참새 자료의 재검증은 남아 있다.
 - 저작권 보호 원문의 전체 한국어 번역 재게재 · `ing-20261115-todd-dislocation` — 전체 전문 번역 재게재는 저작권상 진행하지 않고, 원문 연결과 독립적 한국어 상세 해설로 대체
 - 로그인 중 403의 CSRF와 관리자 권한 가설 · `ing-20261116-spring-board-deployment-recovery` — 403 발생 URL과 해당 요청의 로그가 없어 원인이 확정되지 않았다.
+- 상용근로자 증가의 임금·근로시간·청년 신규채용 분포 검증 · `ing-20261123-bottom-economy-employment-status` — 10월 집계만으로 연령별 산업별 종사상 지위 교차 및 임금의 질을 판정할 수 없음.
 
 ## 7. 열린 교차 편집 제안 (8)
 
@@ -260,7 +261,7 @@ manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 
 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
-- 긴 문서 (29): `cross-institutional-report-discovery` 98,330자, `taste-calculator-style-algebra` 17,367자, `taste-calculator-foundations` 16,451자, `wiki-building-history` 16,428자, `upbit-small-capital-trading-experiment` 14,973자, `taste-calculator-adapter` 14,282자, `ai-capital-labor-distribution` 13,156자, `agent-commons-self-evolution-memory` 12,816자, `great-depression-lived-experience-literature` 12,392자, `housing-busts-global-korea` 12,187자, `wiki-operations-pipeline` 12,147자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `agent-mind-design` 11,750자, `mathematical-theory-of-taste` 11,631자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `living-orchestral-listening-journey` 10,782자, `book-translation-pipeline-local-llm` 10,701자, `starcraft-pluto-ai` 10,465자, `agent-commons-formation-history` 10,396자, `korea-dance-musical-tours` 10,337자, `wto-digital-transmission-moratorium` 10,289자, `korea-bottom-economy-2026` 10,270자, `ai-economic-transition` 10,205자, `great-northern-telegraph-east-asia` 10,147자, `where-novelty-comes-from` 10,125자, `satanic-panic-court-inquiries` 10,082자, `stalking-harm-and-autonomy` 10,033자
+- 긴 문서 (29): `cross-institutional-report-discovery` 98,330자, `taste-calculator-style-algebra` 17,367자, `taste-calculator-foundations` 16,451자, `wiki-building-history` 16,428자, `upbit-small-capital-trading-experiment` 14,973자, `taste-calculator-adapter` 14,282자, `ai-capital-labor-distribution` 13,156자, `agent-commons-self-evolution-memory` 12,816자, `great-depression-lived-experience-literature` 12,392자, `housing-busts-global-korea` 12,187자, `wiki-operations-pipeline` 12,147자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `agent-mind-design` 11,750자, `mathematical-theory-of-taste` 11,631자, `korea-bottom-economy-2026` 11,351자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `living-orchestral-listening-journey` 10,782자, `book-translation-pipeline-local-llm` 10,701자, `starcraft-pluto-ai` 10,465자, `agent-commons-formation-history` 10,396자, `korea-dance-musical-tours` 10,337자, `wto-digital-transmission-moratorium` 10,289자, `ai-economic-transition` 10,205자, `great-northern-telegraph-east-asia` 10,147자, `where-novelty-comes-from` 10,125자, `satanic-panic-court-inquiries` 10,082자, `stalking-harm-and-autonomy` 10,033자
 - 짧은 문서 (2): `stump-and-dream-fragment` 861자, `deleuze-cartography-future` 1,291자
 
 ## 9. 분류 참고

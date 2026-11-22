@@ -3,9 +3,9 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1511개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1514개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
-## 보류 항목 (27)
+## 보류 항목 (28)
 
 - 경제 시뮬레이션의 기존 전제·수치·학파별 논증 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 해당 원자료를 확인하지 못해 기존 논증의 복원과 완전 보존 여부를 판정할 수 없음. 새 공개 자료의 보충 분석으로 대체 완료 처리하지 않음.
 - 기존 종합·수정 원고의 상세 내용 대조 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 본문이 아닌 참조 표시만 확인되어 기존 원고의 세부와 현재 증보 사이의 중복·차이를 검수할 수 없음.
@@ -34,6 +34,7 @@
 - 조류 논문 상세 방법과 기존 참새 분류의 원문 대조 → 반영 위치 없음 · `ing-20261110-autumn-other-followups` · pending — 최근 두 연구는 공개 초록·서지와 대학 발표 범위로 확인했다. 본문의 세부 통제·효과 크기와 기존 한국 참새 자료의 재검증은 남아 있다.
 - 저작권 보호 원문의 전체 한국어 번역 재게재 → 반영 위치 없음 · `ing-20261115-todd-dislocation` · pending — 전체 전문 번역 재게재는 저작권상 진행하지 않고, 원문 연결과 독립적 한국어 상세 해설로 대체
 - 로그인 중 403의 CSRF와 관리자 권한 가설 → 반영 위치 없음 · `ing-20261116-spring-board-deployment-recovery` · pending — 403 발생 URL과 해당 요청의 로그가 없어 원인이 확정되지 않았다.
+- 상용근로자 증가의 임금·근로시간·청년 신규채용 분포 검증 → 반영 위치 없음 · `ing-20261123-bottom-economy-employment-status` · pending — 10월 집계만으로 연령별 산업별 종사상 지위 교차 및 임금의 질을 판정할 수 없음.
 
 ## AI와 사회 (324)
 
@@ -1154,7 +1155,7 @@
 - 객체 변형 합성을 위한 생성 실험의 범위 → `taste-calculator-style-algebra` § 생성 연산을 눈으로 확인하기 위한 구현 · `ing-20261116-taste-experiment-rationales`
 - 경험 순서와 C 전이의 실행 예제 및 감상과의 간극 → `mathematical-theory-of-taste` § 순서와 C의 역할을 실행해 보는 실험 · `ing-20261116-taste-experiment-rationales`
 
-## 정치경제 (84)
+## 정치경제 (86)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -1242,6 +1243,8 @@
 - 2026년 10월 계절조정 취업자 전월 감소와 전년동월 증가의 공존 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-youth-cohort-counterfactual`
 - 20~24세 고용률 하락을 참가율과 실업자 비중 변화로 분해 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-youth-participation-accounting`
 - 20대 쉬었음 인구 감소와 노동시장 참가율 하락의 공존 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-youth-participation-accounting`
+- 2026년 10월 상용근로자 증가와 임시·일용근로자 감소의 동시 발생 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-employment-status`
+- 업종별 고용 변화와 종사상 지위별 변화의 중복집계 위험 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-employment-status`
 
 ## 운영 (64)
 
