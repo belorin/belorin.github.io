@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1500개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1503개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (27)
 
@@ -1154,7 +1154,7 @@
 - 객체 변형 합성을 위한 생성 실험의 범위 → `taste-calculator-style-algebra` § 생성 연산을 눈으로 확인하기 위한 구현 · `ing-20261116-taste-experiment-rationales`
 - 경험 순서와 C 전이의 실행 예제 및 감상과의 간극 → `mathematical-theory-of-taste` § 순서와 C의 역할을 실행해 보는 실험 · `ing-20261116-taste-experiment-rationales`
 
-## 정치경제 (73)
+## 정치경제 (76)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -1231,6 +1231,9 @@
 - 2026년 금융·실물·생활·지역의 시간축을 통한 경제사 집필 구조 → `korea-bottom-economy-2026` § 책의 전개: 위에서 아래로, 다시 시간의 흐름으로 · `ing-20261123-bottom-economy-book`
 - 바닥 경제의 금융·산업·노동·가계·생활비·상권·미래 선택 관측층 → `korea-bottom-economy-2026` § 바닥을 어디에서 관찰할 것인가 · `ing-20261123-bottom-economy-book`
 - 경제 변동의 관측·공표 시점, 명목·실질, 총량·분포를 분리하는 비교 → `korea-bottom-economy-2026` § 한 해를 제대로 읽기 위한 비교 방식 · `ing-20261123-bottom-economy-book`
+- 2026년 10월 전체 고용률 상승과 청년 고용률 하락 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-employment-oct`
+- 2026년 10월 서비스·건설·보건 업종별 취업자 증감 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-employment-oct`
+- 고용률과 실업률의 분모 차이 및 노동시장 이탈 해석 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-employment-oct`
 
 ## 운영 (64)
 
