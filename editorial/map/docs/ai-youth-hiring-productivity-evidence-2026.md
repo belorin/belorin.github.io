@@ -6,8 +6,8 @@
 - 별칭: AI 청년고용 2026 실증, 개발자 생산성과 채용의 차이
 - 요약: 미국·한국의 2026년 청년고용 연구와 METR 개발 생산성 실험을 대조해 채용·고용 이탈·생산성의 측정 단위와 인과 추정의 한계를 설명한다.
 - 태그: AI 고용, 청년 채용, 개발 생산성, Stanford, 한국은행, METR, 경력 사다리
-- 수정일: 2026-11-10 · 실제 증보일: 2026-11-10 · 검토: reviewed
-- 관련 문서: `ai-layoffs-global-remote-restructuring`, `korea-household-consumption-divergence-2026`
+- 수정일: 2026-11-23 · 실제 증보일: 2026-11-10 · 검토: reviewed
+- 관련 문서: `ai-layoffs-global-remote-restructuring`, `korea-household-consumption-divergence-2026`, `korea-bottom-economy-2026`
 
 ## 절 목차
 

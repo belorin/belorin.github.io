@@ -4,7 +4,7 @@
 > 사용 순서: ① 채팅에서 추출한 지식 항목마다 제목·별칭으로 후보를 찾는다 → ② 후보의 문서 카드 `editorial/map/docs/<id>.md`에서 절 목차와 장부 기록을 본다 → ③ 해당 절 본문을 읽고 대조한다. 전문으로 넓히는 조건은 WIKI_PROTOCOL §4를 따른다.
 > 지도와 카드는 후보를 찾는 도구일 뿐이다. 중복·반영 여부는 원고 본문을 읽고 판정한다.
 
-원고 224개 (미게시 2, 소설 2편 포함) · 종합 2편 · AI의 글 1편 · 절 2,408개 · 장부 지식 항목 1488개
+원고 225개 (미게시 2, 소설 2편 포함) · 종합 2편 · AI의 글 1편 · 절 2,541개 · 장부 지식 항목 1500개
 
 특정 논점이 이미 처리되었는지는 [지식 표제 역색인](knowledge.md)에서 낱말로 **검색**한다(통째로 읽지 않는다). 장부가 없는 원고는 문서 카드의 절 목차로 찾는다.
 
@@ -34,9 +34,9 @@
 
 `space-data-center-thermal-economics` · `space-assets-law-debris-kessler` · `physical-ai-world-model-quantum-optimization` · `manufacturing-optimization-solo-business` · `mountain-powerline-undergrounding-economics` · `edge-vision-event-monitor-portfolio` · `world-electricity-capacity-generation-consumption` · `operations-data-ai-copilot-portfolio` · `x-auto-translation-serving-cost` · `local-llm-industrial-operations` · `raspberry-pi-spring-python-public-lab` · `raspberry-lab-mcp-integration-log` · `spring-board-deployment-paths-and-recovery`
 
-## 정치경제 (12) → [분류 지도](categories/%EC%A0%95%EC%B9%98%EA%B2%BD%EC%A0%9C.md)
+## 정치경제 (13) → [분류 지도](categories/%EC%A0%95%EC%B9%98%EA%B2%BD%EC%A0%9C.md)
 
-`critical-optimism-fragile-order` · `state-hollowing-index` · `state-hollowing-country-pilot` · `money-credit-seigniorage-critique` · `emmanuel-todd-western-defeat` · `housing-busts-global-korea` · `korea-household-consumption-divergence-2026` · `todd-dislocation-2026` · `todd-budapest-2025-reading` · `todd-dislocation-threats-2025-reading` · `todd-world-war-interview-2026-reading` · `todd-asahi-2026-reading`
+`critical-optimism-fragile-order` · `state-hollowing-index` · `state-hollowing-country-pilot` · `money-credit-seigniorage-critique` · `emmanuel-todd-western-defeat` · `housing-busts-global-korea` · `korea-household-consumption-divergence-2026` · `todd-dislocation-2026` · `todd-budapest-2025-reading` · `todd-dislocation-threats-2025-reading` · `todd-world-war-interview-2026-reading` · `todd-asahi-2026-reading` · `korea-bottom-economy-2026`
 
 ## 기술·지식 아카이브 (8) → [분류 지도](categories/%EA%B8%B0%EC%88%A0%C2%B7%EC%A7%80%EC%8B%9D-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C.md)
 

@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `korea-household-consumption-divergence-2026` · 분류: 정치경제 · 공개 · 원고: [wiki/korea-household-consumption-divergence-2026.md](../../../wiki/korea-household-consumption-divergence-2026.md) · 5,549자 · 절 8개
+- id: `korea-household-consumption-divergence-2026` · 분류: 정치경제 · 공개 · 원고: [wiki/korea-household-consumption-divergence-2026.md](../../../wiki/korea-household-consumption-divergence-2026.md) · 5,616자 · 절 8개
 - 별칭: 불황과 여행 소비, 한국 가계 소비의 분화 2026
 - 요약: 2026년 가계소득·실질소비·자산 양극화와 2025년 여행 통계를 구별하고, 생활 압박과 선택적 소비가 공존하는 경로 및 세대 비교의 조건을 검토한다.
 - 태그: 한국 소비, 생활경제, 가계 양극화, 자산 격차, 세대, 여행, 가계동향조사
-- 수정일: 2026-11-10 · 실제 증보일: 2026-11-10 · 검토: reviewed
-- 관련 문서: `housing-busts-global-korea`, `ai-youth-hiring-productivity-evidence-2026`, `cross-institutional-report-discovery`
+- 수정일: 2026-11-23 · 실제 증보일: 2026-11-10 · 검토: reviewed
+- 관련 문서: `housing-busts-global-korea`, `ai-youth-hiring-productivity-evidence-2026`, `cross-institutional-report-discovery`, `korea-bottom-economy-2026`
 
 ## 절 목차
 
@@ -21,7 +21,7 @@
 - 여행 통계가 보여주는 것과 보여주지 않는 것 · L42–48 · 702자 · `bf4a454a` — 한국문화관광연구원의 2025년 국민여행조사 정리에서는 국내여행 경험률 97.0%, 여행횟수 약 3억 90만 회, 여행지출액 39.5조 원이 제시된다.
 - 생활의 압박과 선택적 지출을 함께 설명하는 네 가지 가설 · L50–63 · 799자 · `55898fa8` — 다음은 앞의 통계로 이미 확정된 심리 효과가 아니라, 추가 자료로 구분해야 하는 사회경제적 설명들이다.
 - 다음 조사는 어디까지 내려가야 하는가 · L65–69 · 441자 · `78422957` — 전국 평균 다음에는 연령만이 아니라 연령 × 소득 × 자산·주거 × 가구 형태로 내려가야 한다.
-- 자료의 시점과 남은 한계 · L71–75 · 317자 · `5eaff2d4` — 조사 기준일은 2026-11-10이다.
+- 자료의 시점과 남은 한계 · L71–75 · 384자 · `9876d12c` — 조사 기준일은 2026-11-10이다.
 
 ## 장부에 기록된 반영 지식
 

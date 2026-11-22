@@ -238,7 +238,7 @@
 - **[AI·해외 인력과 개발 조직의 재편: 레이오프에서 프로젝트 인수인계까지](wiki/ai-layoffs-global-remote-restructuring.md)** · 별칭: 글로벌 개발자 레이오프, 아프리카 원격 개발자와 EOR · 수정: 2026-11-10 · 검토: 산업·노동 분석
   - 세계 개발자 감원의 구조와 한계, 진행 중 프로젝트의 외주 이관, 아프리카 원격 개발자·EOR·한국 개발자의 해외시장 가능성을 검토한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-layoffs-global-remote-restructuring/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-layoffs-global-remote-restructuring.md)
-- **[AI는 경력의 입구를 먼저 바꾸는가: 2026년 청년 고용과 개발 생산성의 증거](wiki/ai-youth-hiring-productivity-evidence-2026.md)** · 별칭: AI 청년고용 2026 실증, 개발자 생산성과 채용의 차이 · 수정: 2026-11-10 · 검토: 외부 후속 조사 · 관측·해석·미확정 범위 구분
+- **[AI는 경력의 입구를 먼저 바꾸는가: 2026년 청년 고용과 개발 생산성의 증거](wiki/ai-youth-hiring-productivity-evidence-2026.md)** · 별칭: AI 청년고용 2026 실증, 개발자 생산성과 채용의 차이 · 수정: 2026-11-23 · 검토: 외부 후속 조사 · 관측·해석·미확정 범위 구분
   - 미국·한국의 2026년 청년고용 연구와 METR 개발 생산성 실험을 대조해 채용·고용 이탈·생산성의 측정 단위와 인과 추정의 한계를 설명한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-youth-hiring-productivity-evidence-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-youth-hiring-productivity-evidence-2026.md)
 - **[손동작을 남기면 숙련도 남는가: 일본 피지컬 AI의 2026년 실증과 빈칸](wiki/japan-skill-transfer-evidence-2026.md)** · 별칭: 일본 손지능 실증 2026, 숙련 데이터와 로봇 평가 · 수정: 2026-11-10 · 검토: 외부 후속 조사 · 관측·해석·미확정 범위 구분
@@ -583,10 +583,10 @@
 - **[에마뉘엘 토드와 『서방의 패배』: 프랑스의 논쟁적 지식인, 이란전 해석, 예언의 검증](wiki/emmanuel-todd-western-defeat.md)** · 별칭: Emmanuel Todd, La Défaite de l'Occident, 에마뉘엘 토드 서방의 패배 · 수정: 2026-11-15 · 검토: 대화 기반 총합·발언과 언론 평가의 원문 재검증 필요
   - 에마뉘엘 토드의 프랑스 내 수용, 2024년 『서방의 패배』에 대한 상반된 서평, 2025년 핵무장론과 2026년 이란전 관련 주장, 자료 검증의 경계를 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/emmanuel-todd-western-defeat/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/emmanuel-todd-western-defeat.md)
-- **[부동산 국가가 무너질 때: 11개 시장의 폭락과 5년·10년의 후과](wiki/housing-busts-global-korea.md)** · 별칭: 세계 부동산 폭락 비교, 부동산 버블 붕괴의 후과, 부동산 붕괴 5년 10년, 한국 부동산 붕괴론의 국제 비교 · 수정: 2026-11-10 · 검토: 대화 기반 국가별 부동산 붕괴와 금융 후과 비교 / 국가별 가격지수·연도·수치 외부 재검증 필요
+- **[부동산 국가가 무너질 때: 11개 시장의 폭락과 5년·10년의 후과](wiki/housing-busts-global-korea.md)** · 별칭: 세계 부동산 폭락 비교, 부동산 버블 붕괴의 후과, 부동산 붕괴 5년 10년, 한국 부동산 붕괴론의 국제 비교 · 수정: 2026-11-23 · 검토: 대화 기반 국가별 부동산 붕괴와 금융 후과 비교 / 국가별 가격지수·연도·수치 외부 재검증 필요
   - 일본·홍콩·미국·유럽·태국·두바이·중국의 부동산 붕괴 사례를 정점, 5년·10년 후과, 신용·은행·고용·주거 접근성으로 비교하고 한국 붕괴론의 성립 조건을 검토한다.
   - [문서 페이지](https://belorin.github.io/notes/housing-busts-global-korea/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/housing-busts-global-korea.md)
-- **[지갑은 빠듯한데 여행은 늘어난다: 2026년 한국의 소비와 자산 격차](wiki/korea-household-consumption-divergence-2026.md)** · 별칭: 불황과 여행 소비, 한국 가계 소비의 분화 2026 · 수정: 2026-11-10 · 검토: 외부 후속 조사 · 관측·해석·미확정 범위 구분
+- **[지갑은 빠듯한데 여행은 늘어난다: 2026년 한국의 소비와 자산 격차](wiki/korea-household-consumption-divergence-2026.md)** · 별칭: 불황과 여행 소비, 한국 가계 소비의 분화 2026 · 수정: 2026-11-23 · 검토: 외부 후속 조사 · 관측·해석·미확정 범위 구분
   - 2026년 가계소득·실질소비·자산 양극화와 2025년 여행 통계를 구별하고, 생활 압박과 선택적 소비가 공존하는 경로 및 세대 비교의 조건을 검토한다.
   - [문서 페이지](https://belorin.github.io/notes/korea-household-consumption-divergence-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-household-consumption-divergence-2026.md)
 - **[『La Dislocation』과 서구의 해체: 에마뉘엘 토드의 2026년 전망](wiki/todd-dislocation-2026.md)** · 별칭: 토드 해체론 2026, La Dislocation 에마뉘엘 토드 · 수정: 2026-11-15 · 검토: 대화 기반 총합·공개 원문 해설 및 외부 사실 검증 경계
@@ -604,6 +604,9 @@
 - **[상상적 민족주의와 일본의 선택: 토드의 2026년 아사히신문 인터뷰 한국어 독해](wiki/todd-asahi-2026-reading.md)** · 별칭: Todd Asahi Shimbun 2026 해설, 토드 상상적 민족주의 · 수정: 2026-11-15 · 검토: 대화 기반 총합·공개 원문 해설 및 외부 사실 검증 경계
   - 일본의 주권·대중국 정책·대만, 한국·일본·중국의 인구 감소와 생산 능력에 관한 인터뷰를 해설하고 한국의 미제시 과제를 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/todd-asahi-2026-reading/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/todd-asahi-2026-reading.md)
+- **[2026, 바닥의 경제: 금융의 시간과 생활의 시간](wiki/korea-bottom-economy-2026.md)** · 별칭: 바닥 경제, 2026년의 바닥 경제, 금융과 실물의 시간차, 2026 한국 생활경제 · 수정: 2026-11-23 · 검토: 장기 집필·개방형 연구 초고·2026년 연간 실측 미확정
+  - 금융시장의 변동과 수출 성장, 실물 생산·고용·소비·가계생활 사이의 시차와 분배를 2026년 월별·분기별로 추적하며 한국의 생활경제를 한 권의 책으로 집필한다.
+  - [문서 페이지](https://belorin.github.io/notes/korea-bottom-economy-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-bottom-economy-2026.md)
 
 ## 기술·지식 아카이브
 
@@ -628,7 +631,7 @@
 - **[10만원으로 자동매매는 수익을 낼 수 있는가: 업비트·라즈베리파이·Codex 검증 설계](wiki/upbit-small-capital-trading-experiment.md)** · 별칭: 코인 자동매매 실험, 업비트 소액 봇, 라즈베리파이 코인 매매, 소액 알고리즘 트레이딩 · 수정: 2026-11-02 · 검토: 시스템·전략 검증 설계 단계·모의매매 및 실거래 성과 미확인
   - 약 10만원을 상한으로 업비트 자동매매의 수익 가능성을 검증하는 Raspberry Pi·Python 실험 설계. 거래소·공개 라이브러리 선택, 비용 모델과 세 전략, 백테스트·모의매매·실거래 전환, 12단계 Codex 개발 지시와 안전·복구 절차.
   - [문서 페이지](https://belorin.github.io/notes/upbit-small-capital-trading-experiment/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/upbit-small-capital-trading-experiment.md)
-- **[읽히지 않은 보고서들의 교차점: 국제기구 문헌에서 발견을 축적하는 연구 시스템](wiki/cross-institutional-report-discovery.md)** · 별칭: 문헌 기반 발견 시스템, 국제기구 보고서 교차 분석, 보고서 지식 탐사, Undiscovered Public Knowledge, AI 증거 종합, 국책연구 보고서 교차 독해 · 수정: 2026-11-21 · 검토: 탐사 시스템 연구 구상·선행 사례와 수치의 원문 재확인 필요
+- **[읽히지 않은 보고서들의 교차점: 국제기구 문헌에서 발견을 축적하는 연구 시스템](wiki/cross-institutional-report-discovery.md)** · 별칭: 문헌 기반 발견 시스템, 국제기구 보고서 교차 분석, 보고서 지식 탐사, Undiscovered Public Knowledge, AI 증거 종합, 국책연구 보고서 교차 독해 · 수정: 2026-11-23 · 검토: 탐사 시스템 연구 구상·선행 사례와 수치의 원문 재확인 필요
   - 세계은행·IMF·WHO·ILO·OECD와 한국 국책연구기관의 보고서를 교차 독해해 숨은 관계·불일치·연구 공백과 예측 실패를 발견하고, 가설의 검증·기각 이력을 축적하는 장기 문헌 탐사 체계. LBD 선행연구, AI 기억 기술, 국제·국내 프로젝트와 평가 기준을 함께 비교한다.
   - [문서 페이지](https://belorin.github.io/notes/cross-institutional-report-discovery/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/cross-institutional-report-discovery.md)
 
