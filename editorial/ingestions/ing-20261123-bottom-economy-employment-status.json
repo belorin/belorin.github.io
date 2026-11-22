@@ -1,0 +1,41 @@
+{
+  "id": "ing-20261123-bottom-economy-employment-status",
+  "processed_on": "2026-11-23",
+  "coverage": "visible-complete",
+  "limit_note": "국가데이터처 2026년 10월 고용동향의 종사상 지위 원계열과 공식 브리핑을 대조. 고용계약 지위의 증감으로 임금·근로시간·산업별 교차분포 또는 개인 이동을 추정하지 않음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "2026년 10월 상용근로자 증가와 임시·일용근로자 감소의 동시 발생",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "업종별 고용 변화와 종사상 지위별 변화의 중복집계 위험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "question",
+      "title": "상용근로자 증가의 임금·근로시간·청년 신규채용 분포 검증",
+      "status": "pending",
+      "targets": [],
+      "reason": "10월 집계만으로 연령별 산업별 종사상 지위 교차 및 임금의 질을 판정할 수 없음."
+    }
+  ]
+}
