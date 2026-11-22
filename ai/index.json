@@ -5970,14 +5970,16 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "대화 기반 총합·발언과 언론 평가의 원문 재검증 필요",
-      "last_updated_on": "2026-11-15",
+      "last_updated_on": "2026-11-23",
       "last_enriched_on": "2026-11-15",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "state-hollowing-index",
         "global-south-critical-reading-guide",
         "substack-independent-newsletters",
-        "todd-dislocation-2026"
+        "todd-dislocation-2026",
+        "todd-world-war-interview-2026-reading",
+        "todd-asahi-2026-reading"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/emmanuel-todd-western-defeat.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/emmanuel-todd-western-defeat.md",

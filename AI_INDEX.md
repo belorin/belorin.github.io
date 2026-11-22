@@ -580,7 +580,7 @@
 - **[돈은 부채이지만 왜 곧장 약탈이 되지 않는가: 『왜 그들만 부자가 되는가』의 화폐론 비평](wiki/money-credit-seigniorage-critique.md)** · 별칭: 왜 그들만 부자가 되는가, 신용은 부채, 은행의 화폐창조 · 수정: 2026-11-03 · 검토: 대화 기반 분석 · 외부 재검증 필요
   - 은행의 예금통화 창조, 세뇨리지, 칸티용 효과, 생산적·투기적 신용, 통화정책과 불평등을 구별하며 『왜 그들만 부자가 되는가』의 논리적 비약을 검토
   - [문서 페이지](https://belorin.github.io/notes/money-credit-seigniorage-critique/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/money-credit-seigniorage-critique.md)
-- **[에마뉘엘 토드와 『서방의 패배』: 프랑스의 논쟁적 지식인, 이란전 해석, 예언의 검증](wiki/emmanuel-todd-western-defeat.md)** · 별칭: Emmanuel Todd, La Défaite de l'Occident, 에마뉘엘 토드 서방의 패배 · 수정: 2026-11-15 · 검토: 대화 기반 총합·발언과 언론 평가의 원문 재검증 필요
+- **[에마뉘엘 토드와 『서방의 패배』: 프랑스의 논쟁적 지식인, 이란전 해석, 예언의 검증](wiki/emmanuel-todd-western-defeat.md)** · 별칭: Emmanuel Todd, La Défaite de l'Occident, 에마뉘엘 토드 서방의 패배 · 수정: 2026-11-23 · 검토: 대화 기반 총합·발언과 언론 평가의 원문 재검증 필요
   - 에마뉘엘 토드의 프랑스 내 수용, 2024년 『서방의 패배』에 대한 상반된 서평, 2025년 핵무장론과 2026년 이란전 관련 주장, 자료 검증의 경계를 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/emmanuel-todd-western-defeat/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/emmanuel-todd-western-defeat.md)
 - **[부동산 국가가 무너질 때: 11개 시장의 폭락과 5년·10년의 후과](wiki/housing-busts-global-korea.md)** · 별칭: 세계 부동산 폭락 비교, 부동산 버블 붕괴의 후과, 부동산 붕괴 5년 10년, 한국 부동산 붕괴론의 국제 비교 · 수정: 2026-11-23 · 검토: 대화 기반 국가별 부동산 붕괴와 금융 후과 비교 / 국가별 가격지수·연도·수치 외부 재검증 필요

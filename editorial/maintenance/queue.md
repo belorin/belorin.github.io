@@ -4,7 +4,7 @@
 
 마지막 정비: **M001** (2026-10-26) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
 
-원고 228개 · 변경 문서 155 · 고립 22 · 한쪽 연결 129 · 보류 27 · 열린 교차 제안 8
+원고 228개 · 변경 문서 155 · 고립 22 · 한쪽 연결 127 · 보류 27 · 열린 교차 제안 8
 
 ## 1. 지난 정비 이후 변경된 문서 (155)
 
@@ -60,7 +60,7 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `swimming-bird-flight-biomechanics` 물속의 인간과 공중의 새: 스트로크·날갯짓·가속·선회의 비례 생체역학
 - `gwangju-bus-transfer-guide` 광주 버스, 어디서 갈아탈까? AI에 물어보는 길찾기 안내
 
-## 3. 한쪽에서만 건 관련 문서 (129)
+## 3. 한쪽에서만 건 관련 문서 (127)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -180,8 +180,6 @@ manifest의 수정일이 2026-10-26 이후(당일 포함)이거나 수정일이 
 - `ai-layoffs-global-remote-restructuring` → `african-ai-annotation-labor-2026`
 - `taste-slop-mass-production` → `ai-mediated-human-change`
 - `human-authorship-creator-preference` → `ai-mediated-human-change`
-- `todd-world-war-interview-2026-reading` → `emmanuel-todd-western-defeat`
-- `todd-asahi-2026-reading` → `emmanuel-todd-western-defeat`
 - `taste-calculator-foundations` → `music-books-supply-attention`
 - `taste-calculator-foundations` → `ai-mediated-human-change`
 - `taste-calculator-style-algebra` → `taste-slop-mass-production`

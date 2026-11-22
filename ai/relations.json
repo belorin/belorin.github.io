@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 843,
+  "edge_count": 845,
   "edges": [
     {
       "from": "living-notes",
@@ -3752,6 +3752,18 @@
     {
       "from": "emmanuel-todd-western-defeat",
       "to": "todd-dislocation-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "emmanuel-todd-western-defeat",
+      "to": "todd-world-war-interview-2026-reading",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "emmanuel-todd-western-defeat",
+      "to": "todd-asahi-2026-reading",
       "type": "related_to",
       "basis": "manifest.related"
     },

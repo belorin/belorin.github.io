@@ -6,8 +6,8 @@
 - 별칭: Emmanuel Todd, La Défaite de l'Occident, 에마뉘엘 토드 서방의 패배
 - 요약: 에마뉘엘 토드의 프랑스 내 수용, 2024년 『서방의 패배』에 대한 상반된 서평, 2025년 핵무장론과 2026년 이란전 관련 주장, 자료 검증의 경계를 구분한다.
 - 태그: 에마뉘엘 토드, 서방의 패배, 프랑스 지식인, 이란 전쟁, 문명론, 국제정치, 서평
-- 수정일: 2026-11-15 · 실제 증보일: 2026-11-15 · 검토: needs_review
-- 관련 문서: `state-hollowing-index`, `global-south-critical-reading-guide`, `substack-independent-newsletters`, `todd-dislocation-2026`
+- 수정일: 2026-11-23 · 실제 증보일: 2026-11-15 · 검토: needs_review
+- 관련 문서: `state-hollowing-index`, `global-south-critical-reading-guide`, `substack-independent-newsletters`, `todd-dislocation-2026`, `todd-world-war-interview-2026-reading`, `todd-asahi-2026-reading`
 
 ## 절 목차
 
