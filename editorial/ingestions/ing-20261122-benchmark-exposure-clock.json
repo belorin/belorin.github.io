@@ -1,0 +1,20 @@
+{
+  "id": "ing-20261122-benchmark-exposure-clock",
+  "processed_on": "2026-11-22",
+  "coverage": "visible-complete",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "평가 사례의 노출 이력과 시간 누출 관리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "cross-institutional-report-discovery",
+          "section": "평가 자료의 노출 이력: 맹검 이후에도 남는 오염과 시간 누출 (2026-11-22)"
+        }
+      ]
+    }
+  ]
+}
