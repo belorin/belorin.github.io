@@ -89,6 +89,8 @@
   - 건설업 생산의 전월·전년 및 공종별 분화와 고용 감소 · `ing-20261123-bottom-economy-september-construction-rebound`
   - 9월 건설기성 계절조정 전월비 5.8% 증가와 경상 금액 12.5% 증가의 구분 · `ing-20261123-bottom-economy-september-construction-real-nominal`
   - 건설기성 조사 대표업체 범위와 잠정·연간 보정의 해석 · `ing-20261123-bottom-economy-september-construction-real-nominal`
+  - 2026년 10월 건설 CBSI 하락과 9월 수주 반등의 시차 · `ing-20261124-bottom-economy-october-cbsi`
+  - 건설 수주에서 대금 회수와 근로일로 이어지는 전달 경로 · `ing-20261124-bottom-economy-october-cbsi`
 - **임금의 시간: 성과급의 반등과 정액급여의 구매력**
   - 고용 총량과 임금 구매력의 서로 다른 시간축 · `ing-20261123-bottom-economy-wage-structure-edit`
   - 정액급여와 기본급의 개념적 구분 · `ing-20261123-bottom-economy-wage-structure-edit`
