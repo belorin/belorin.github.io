@@ -1,0 +1,29 @@
+{
+  "id": "ing-20261123-bottom-economy-construction-baseline-synthesis",
+  "processed_on": "2026-11-23",
+  "coverage": "visible-complete",
+  "limit_note": "2024·2025 사업연보 보도자료 재대조; 연보 원표 및 수정 내역 미확보",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "argument",
+      "title": "건설 퇴직공제 2024년 기준인원 발표 불일치와 동일계열 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "question",
+      "title": "건설 퇴직공제 사업연보 간 집계 변경 원인",
+      "status": "pending",
+      "targets": [],
+      "reason": "두 연보의 원표와 정정 이력 미확보"
+    }
+  ]
+}
