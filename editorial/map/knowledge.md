@@ -3,9 +3,9 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1558개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1560개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
-## 보류 항목 (31)
+## 보류 항목 (32)
 
 - 경제 시뮬레이션의 기존 전제·수치·학파별 논증 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 해당 원자료를 확인하지 못해 기존 논증의 복원과 완전 보존 여부를 판정할 수 없음. 새 공개 자료의 보충 분석으로 대체 완료 처리하지 않음.
 - 기존 종합·수정 원고의 상세 내용 대조 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 본문이 아닌 참조 표시만 확인되어 기존 원고의 세부와 현재 증보 사이의 중복·차이를 검수할 수 없음.
@@ -38,6 +38,7 @@
 - 2026년 하반기 임금과 근로시간의 후속 추이 및 근로일수 보정 → 반영 위치 없음 · `ing-20261123-bottom-economy-wages-hours` · pending — 7월 임금과 4월 지역 근로시간은 10월 고용의 질을 직접 판정할 수 없음.
 - 2024년 퇴직공제 적립근로자 원표 변경 사유 확인 → 반영 위치 없음 · `ing-20261123-bottom-economy-construction-rounding-bounds` · pending — 2024·2025 연보 원표와 집계정의 직접 비교 미완료
 - 건설 퇴직공제 사업연보 간 집계 변경 원인 → 반영 위치 없음 · `ing-20261123-bottom-economy-construction-baseline-synthesis` · pending — 두 연보의 원표와 정정 이력 미확보
+- 공정위 공시와 후속 보도의 지연 지급 총액 불일치 → 반영 위치 없음 · `ing-20261124-bottom-economy-payment-disclosure` · pending — 1,389억 원과 1,203억 원의 집계 범위 및 정정 여부 원표 대조 필요
 
 ## AI와 사회 (324)
 
@@ -845,7 +846,7 @@
 - TESTIFY!의 10월 지역별 공연 안내와 재연 추적 → `orchestra-repertoire-repeat-performance-autumn-2026` § 초연 뒤 네 악단을 더 연결하는 방식 · `ing-20261110-autumn-other-followups`
 - 초연 이후 작품 생애와 컨소시엄 밖 재연을 추적하는 지표 제안 → `orchestra-repertoire-repeat-performance-autumn-2026` § 다음 통계는 작품의 생애를 세어야 한다 · `ing-20261110-autumn-other-followups`
 
-## 정치경제 (127)
+## 정치경제 (128)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -976,6 +977,7 @@
 - 건설 수주에서 대금 회수와 근로일로 이어지는 전달 경로 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261124-bottom-economy-october-cbsi`
 - 2026년 10월 전문건설업 하도급 수주 체감의 수도권·지방 차이 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261124-bottom-economy-subcontract-arrears`
 - 2026년 9월 누적 건설업 임금체불액과 집계기준 변경 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261124-bottom-economy-subcontract-arrears`
+- 2025년 하반기 하도급대금 60일 초과 지급의 규모와 집중 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261124-bottom-economy-payment-disclosure`
 
 ## 과학과 기술 (101)
 
