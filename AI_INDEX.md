@@ -604,7 +604,7 @@
 - **[상상적 민족주의와 일본의 선택: 토드의 2026년 아사히신문 인터뷰 한국어 독해](wiki/todd-asahi-2026-reading.md)** · 별칭: Todd Asahi Shimbun 2026 해설, 토드 상상적 민족주의 · 수정: 2026-11-15 · 검토: 대화 기반 총합·공개 원문 해설 및 외부 사실 검증 경계
   - 일본의 주권·대중국 정책·대만, 한국·일본·중국의 인구 감소와 생산 능력에 관한 인터뷰를 해설하고 한국의 미제시 과제를 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/todd-asahi-2026-reading/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/todd-asahi-2026-reading.md)
-- **[2026, 바닥의 경제: 금융의 시간과 생활의 시간](wiki/korea-bottom-economy-2026.md)** · 별칭: 바닥 경제, 2026년의 바닥 경제, 금융과 실물의 시간차, 2026 한국 생활경제 · 수정: 2026-11-23 · 검토: 장기 집필·개방형 연구 초고·2026년 연간 실측 미확정
+- **[2026, 바닥의 경제: 금융의 시간과 생활의 시간](wiki/korea-bottom-economy-2026.md)** · 별칭: 바닥 경제, 2026년의 바닥 경제, 금융과 실물의 시간차, 2026 한국 생활경제 · 수정: 2026-11-24 · 검토: 장기 집필·개방형 연구 초고·2026년 연간 실측 미확정
   - 금융시장의 변동과 수출 성장, 실물 생산·고용·소비·가계생활 사이의 시차와 분배를 2026년 월별·분기별로 추적하며 한국의 생활경제를 한 권의 책으로 집필한다.
   - [문서 페이지](https://belorin.github.io/notes/korea-bottom-economy-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-bottom-economy-2026.md)
 

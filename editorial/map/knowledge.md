@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1556개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1558개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (31)
 
@@ -845,7 +845,7 @@
 - TESTIFY!의 10월 지역별 공연 안내와 재연 추적 → `orchestra-repertoire-repeat-performance-autumn-2026` § 초연 뒤 네 악단을 더 연결하는 방식 · `ing-20261110-autumn-other-followups`
 - 초연 이후 작품 생애와 컨소시엄 밖 재연을 추적하는 지표 제안 → `orchestra-repertoire-repeat-performance-autumn-2026` § 다음 통계는 작품의 생애를 세어야 한다 · `ing-20261110-autumn-other-followups`
 
-## 정치경제 (125)
+## 정치경제 (127)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -974,6 +974,8 @@
 - 건설기성 조사 대표업체 범위와 잠정·연간 보정의 해석 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-september-construction-real-nominal`
 - 2026년 10월 건설 CBSI 하락과 9월 수주 반등의 시차 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261124-bottom-economy-october-cbsi`
 - 건설 수주에서 대금 회수와 근로일로 이어지는 전달 경로 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261124-bottom-economy-october-cbsi`
+- 2026년 10월 전문건설업 하도급 수주 체감의 수도권·지방 차이 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261124-bottom-economy-subcontract-arrears`
+- 2026년 9월 누적 건설업 임금체불액과 집계기준 변경 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261124-bottom-economy-subcontract-arrears`
 
 ## 과학과 기술 (101)
 
