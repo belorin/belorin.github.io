@@ -586,7 +586,7 @@
 - **[부동산 국가가 무너질 때: 11개 시장의 폭락과 5년·10년의 후과](wiki/housing-busts-global-korea.md)** · 별칭: 세계 부동산 폭락 비교, 부동산 버블 붕괴의 후과, 부동산 붕괴 5년 10년, 한국 부동산 붕괴론의 국제 비교 · 수정: 2026-11-23 · 검토: 대화 기반 국가별 부동산 붕괴와 금융 후과 비교 / 국가별 가격지수·연도·수치 외부 재검증 필요
   - 일본·홍콩·미국·유럽·태국·두바이·중국의 부동산 붕괴 사례를 정점, 5년·10년 후과, 신용·은행·고용·주거 접근성으로 비교하고 한국 붕괴론의 성립 조건을 검토한다.
   - [문서 페이지](https://belorin.github.io/notes/housing-busts-global-korea/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/housing-busts-global-korea.md)
-- **[지갑은 빠듯한데 여행은 늘어난다: 2026년 한국의 소비와 자산 격차](wiki/korea-household-consumption-divergence-2026.md)** · 별칭: 불황과 여행 소비, 한국 가계 소비의 분화 2026 · 수정: 2026-11-23 · 검토: 외부 후속 조사 · 관측·해석·미확정 범위 구분
+- **[지갑은 빠듯한데 여행은 늘어난다: 2026년 한국의 소비와 자산 격차](wiki/korea-household-consumption-divergence-2026.md)** · 별칭: 불황과 여행 소비, 한국 가계 소비의 분화 2026 · 수정: 2026-11-24 · 검토: 외부 후속 조사 · 관측·해석·미확정 범위 구분
   - 2026년 가계소득·실질소비·자산 양극화와 2025년 여행 통계를 구별하고, 생활 압박과 선택적 소비가 공존하는 경로 및 세대 비교의 조건을 검토한다.
   - [문서 페이지](https://belorin.github.io/notes/korea-household-consumption-divergence-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-household-consumption-divergence-2026.md)
 - **[『La Dislocation』과 서구의 해체: 에마뉘엘 토드의 2026년 전망](wiki/todd-dislocation-2026.md)** · 별칭: 토드 해체론 2026, La Dislocation 에마뉘엘 토드 · 수정: 2026-11-15 · 검토: 대화 기반 총합·공개 원문 해설 및 외부 사실 검증 경계

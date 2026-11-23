@@ -6738,10 +6738,10 @@
       ],
       "summary": "2026년 가계소득·실질소비·자산 양극화와 2025년 여행 통계를 구별하고, 생활 압박과 선택적 소비가 공존하는 경로 및 세대 비교의 조건을 검토한다.",
       "published": true,
-      "review_state": "reviewed",
+      "review_state": "needs_review",
       "review_label": "외부 후속 조사 · 관측·해석·미확정 범위 구분",
-      "last_updated_on": "2026-11-23",
-      "last_enriched_on": "2026-11-10",
+      "last_updated_on": "2026-11-24",
+      "last_enriched_on": "2026-11-24",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "housing-busts-global-korea",
