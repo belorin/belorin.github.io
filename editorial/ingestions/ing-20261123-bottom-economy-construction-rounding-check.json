@@ -1,0 +1,21 @@
+{
+  "id": "ing-20261123-bottom-economy-construction-rounding-check",
+  "processed_on": "2026-11-23",
+  "coverage": "visible-complete",
+  "limit_note": "2024·2025 사업연보 요약 발표의 반올림 수치를 재대조. 원표 및 사후보정 원인 미확인.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "2024년 적립근로자 166만·168만은 반올림 공표치이며 차이의 원인 미확정",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    }
+  ]
+}
