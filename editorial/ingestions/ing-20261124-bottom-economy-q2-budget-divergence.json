@@ -1,0 +1,33 @@
+{
+  "id": "ing-20261124-bottom-economy-q2-budget-divergence",
+  "processed_on": "2026-11-24",
+  "coverage": "visible-complete",
+  "limit_note": "2분기 공식 브리핑 재검토 및 반올림 수치 역산; 분위별 실질지출 미확인",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "공적 이전소득 증가와 고유가 피해지원금의 영향",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-household-consumption-divergence-2026",
+          "section": "명목소득은 늘었지만 실질소비는 거의 제자리였다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "1분위 적자 축소와 5분위 흑자 확대 및 식료품·주거비 부담",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-household-consumption-divergence-2026",
+          "section": "평균 69.2% 안에는 125.3%와 60.3%가 함께 있다"
+        }
+      ]
+    }
+  ]
+}
