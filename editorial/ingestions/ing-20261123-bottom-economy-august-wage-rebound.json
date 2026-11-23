@@ -1,0 +1,45 @@
+{
+  "id": "ing-20261123-bottom-economy-august-wage-rebound",
+  "processed_on": "2026-11-23",
+  "coverage": "visible-complete",
+  "limit_note": "2026년 10월 29일 공표된 8월 임금·근로시간과 9월 사업체조사 원문 및 기존 원고의 관련 절에 한정. 9월 임금과 4분기 실측은 미확인.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "2026년 4~7월 실질임금 감소 뒤 8월 전년동월 증가 전환",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "8월 상용근로자 임금 반등의 특별급여 집중과 사업체 규모별 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "fact",
+      "title": "2026년 8월 실질임금 증가와 동일 근로일수 아래 근로시간 감소",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    }
+  ]
+}
