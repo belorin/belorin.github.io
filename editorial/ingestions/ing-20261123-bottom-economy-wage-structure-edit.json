@@ -1,0 +1,33 @@
+{
+  "id": "ing-20261123-bottom-economy-wage-structure-edit",
+  "processed_on": "2026-11-23",
+  "coverage": "visible-partial",
+  "limit_note": "기존 임금·고용 원고의 구조 및 용어를 검토하고 재배열함. 신규 9월 임금 실측은 확인되지 않음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "argument",
+      "title": "고용 총량과 임금 구매력의 서로 다른 시간축",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "임금의 시간: 성과급의 반등과 정액급여의 구매력"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "정액급여와 기본급의 개념적 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "임금의 시간: 성과급의 반등과 정액급여의 구매력"
+        }
+      ]
+    }
+  ]
+}
