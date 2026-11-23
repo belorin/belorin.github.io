@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1543개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1545개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (29)
 
@@ -843,7 +843,7 @@
 - TESTIFY!의 10월 지역별 공연 안내와 재연 추적 → `orchestra-repertoire-repeat-performance-autumn-2026` § 초연 뒤 네 악단을 더 연결하는 방식 · `ing-20261110-autumn-other-followups`
 - 초연 이후 작품 생애와 컨소시엄 밖 재연을 추적하는 지표 제안 → `orchestra-repertoire-repeat-performance-autumn-2026` § 다음 통계는 작품의 생애를 세어야 한다 · `ing-20261110-autumn-other-followups`
 
-## 정치경제 (114)
+## 정치경제 (116)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -961,6 +961,8 @@
 - 건설업과 전자부품 제조업의 8월 고용 경로 대비 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-construction-electronics-aug`
 - 2024~2025년 건설 퇴직공제 적립일수의 근로자 수 대비 빠른 감소 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-construction-workdays`
 - 적립 근로자당 연간 일수와 개인별 취업일수의 구분 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-construction-workdays`
+- 2024년 퇴직공제 적립근로자 공식 발표 166만·168만 불일치 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-construction-baseline-revision`
+- 후행 연보 계열의 감소율과 근로자당 적립일수 비교 조건 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-construction-baseline-revision`
 
 ## 과학과 기술 (101)
 
