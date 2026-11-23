@@ -1,0 +1,45 @@
+{
+  "id": "ing-20261123-bottom-economy-september-churn-composition",
+  "processed_on": "2026-11-23",
+  "coverage": "visible-complete",
+  "limit_note": "2026-10-29 고용노동부 9월 사업체노동력조사 공식 보도자료의 사유별 입이직·채용형태를 교차 확인. 개인별 이동 추적은 불가능.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "9월 비자발적 이직 증가가 전체 이직 증가분의 약 3분의 2를 차지",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "9월 신규 채용 증가의 대부분이 임시일용직에서 발생",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "건설업 채용 증가와 비자발적 이직 증가의 동시 관측",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    }
+  ]
+}
