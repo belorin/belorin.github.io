@@ -3,9 +3,9 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1565개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1568개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
-## 보류 항목 (32)
+## 보류 항목 (33)
 
 - 경제 시뮬레이션의 기존 전제·수치·학파별 논증 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 해당 원자료를 확인하지 못해 기존 논증의 복원과 완전 보존 여부를 판정할 수 없음. 새 공개 자료의 보충 분석으로 대체 완료 처리하지 않음.
 - 기존 종합·수정 원고의 상세 내용 대조 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 본문이 아닌 참조 표시만 확인되어 기존 원고의 세부와 현재 증보 사이의 중복·차이를 검수할 수 없음.
@@ -39,6 +39,7 @@
 - 2024년 퇴직공제 적립근로자 원표 변경 사유 확인 → 반영 위치 없음 · `ing-20261123-bottom-economy-construction-rounding-bounds` · pending — 2024·2025 연보 원표와 집계정의 직접 비교 미완료
 - 건설 퇴직공제 사업연보 간 집계 변경 원인 → 반영 위치 없음 · `ing-20261123-bottom-economy-construction-baseline-synthesis` · pending — 두 연보의 원표와 정정 이력 미확보
 - 공정위 공시와 후속 보도의 지연 지급 총액 불일치 → 반영 위치 없음 · `ing-20261124-bottom-economy-payment-disclosure` · pending — 1,389억 원과 1,203억 원의 집계 범위 및 정정 여부 원표 대조 필요
+- 공시 정정 전후 집계범위와 지연 지급액 불일치의 원인 → 반영 위치 없음 · `ing-20261124-bottom-economy-payment-denominator-audit` · pending — 2026년 7월 발표와 9월 후속 보도의 공시 원표 및 정정 이력을 아직 직접 대조하지 못함
 
 ## AI와 사회 (324)
 
@@ -711,7 +712,7 @@
 - 소프트웨어 개발 외주·EOR·프리랜서 계약 구별 → `global-bpo-labor-geography` § 개발자 아웃소싱의 새로운 연결층: EOR와 인력 플랫폼 · `ing-20261104-local-llm-global-developer-work`
 - 아프리카 개발자 다핵 네트워크와 원격 급여의 함정 → `global-bpo-labor-geography` § 아프리카 개발자 시장: 단일한 값싼 예비군이 아닌 다핵 구조 · `ing-20261104-local-llm-global-developer-work`
 
-## 정치경제 (133)
+## 정치경제 (135)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -848,6 +849,8 @@
 - 2026년 추석 전 하도급대금 해결센터의 미지급액 회수와 전년 비교 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261124-bottom-economy-holiday-payment-recovery`
 - 타일 시공 미지급액 회수와 조경공사 지급 합의의 구분 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261124-bottom-economy-holiday-payment-recovery`
 - 미지급 회수액과 기한 전 조기 지급액의 통계적 차이 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261124-bottom-economy-holiday-payment-recovery`
+- 2025년 하반기 하도급 60일 초과 지급 총액의 두 공표치와 186억 원 차이 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261124-bottom-economy-payment-denominator-audit`
+- 18개 조사 대상 지급액의 분모 선택에 따른 집중도 84.4%와 73.1% → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261124-bottom-economy-payment-denominator-audit`
 
 ## 음악 (130)
 

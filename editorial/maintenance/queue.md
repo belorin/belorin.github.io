@@ -4,7 +4,7 @@
 
 마지막 정비: **M002** (2026-11-23) · [보고서](reports/M002.md) · 다음 정비 버전: **M003**
 
-원고 228개 · 변경 문서 7 · 고립 22 · 한쪽 연결 127 · 보류 32 · 열린 교차 제안 8
+원고 228개 · 변경 문서 7 · 고립 22 · 한쪽 연결 127 · 보류 33 · 열린 교차 제안 8
 
 ## 1. 지난 정비 이후 변경된 문서 (7)
 
@@ -213,7 +213,7 @@ manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 
 - `anne-carson-nobel-first-reactions` ↔ `physical-cloud-reading-guide` · 0.15
 - `todd-dislocation-2026` ↔ `todd-dislocation-threats-2025-reading` · 0.15 · 연결됨
 
-## 6. 보류 항목 (32)
+## 6. 보류 항목 (33)
 
 - 경제 시뮬레이션의 기존 전제·수치·학파별 논증 · `ing-20261023-ai-economic-transition` — 해당 원자료를 확인하지 못해 기존 논증의 복원과 완전 보존 여부를 판정할 수 없음. 새 공개 자료의 보충 분석으로 대체 완료 처리하지 않음.
 - 기존 종합·수정 원고의 상세 내용 대조 · `ing-20261023-ai-economic-transition` — 본문이 아닌 참조 표시만 확인되어 기존 원고의 세부와 현재 증보 사이의 중복·차이를 검수할 수 없음.
@@ -247,6 +247,7 @@ manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 
 - 2024년 퇴직공제 적립근로자 원표 변경 사유 확인 · `ing-20261123-bottom-economy-construction-rounding-bounds` — 2024·2025 연보 원표와 집계정의 직접 비교 미완료
 - 건설 퇴직공제 사업연보 간 집계 변경 원인 · `ing-20261123-bottom-economy-construction-baseline-synthesis` — 두 연보의 원표와 정정 이력 미확보
 - 공정위 공시와 후속 보도의 지연 지급 총액 불일치 · `ing-20261124-bottom-economy-payment-disclosure` — 1,389억 원과 1,203억 원의 집계 범위 및 정정 여부 원표 대조 필요
+- 공시 정정 전후 집계범위와 지연 지급액 불일치의 원인 · `ing-20261124-bottom-economy-payment-denominator-audit` — 2026년 7월 발표와 9월 후속 보도의 공시 원표 및 정정 이력을 아직 직접 대조하지 못함
 
 ## 7. 열린 교차 편집 제안 (8)
 
@@ -265,7 +266,7 @@ manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 
 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
-- 긴 문서 (29): `cross-institutional-report-discovery` 113,038자, `korea-bottom-economy-2026` 29,713자, `taste-calculator-style-algebra` 17,367자, `taste-calculator-foundations` 16,451자, `wiki-building-history` 16,428자, `upbit-small-capital-trading-experiment` 14,973자, `taste-calculator-adapter` 14,282자, `ai-capital-labor-distribution` 13,156자, `agent-commons-self-evolution-memory` 12,816자, `great-depression-lived-experience-literature` 12,392자, `housing-busts-global-korea` 12,187자, `wiki-operations-pipeline` 12,147자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `agent-mind-design` 11,750자, `mathematical-theory-of-taste` 11,631자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `living-orchestral-listening-journey` 10,782자, `book-translation-pipeline-local-llm` 10,701자, `starcraft-pluto-ai` 10,465자, `agent-commons-formation-history` 10,396자, `korea-dance-musical-tours` 10,337자, `wto-digital-transmission-moratorium` 10,289자, `ai-economic-transition` 10,205자, `great-northern-telegraph-east-asia` 10,147자, `where-novelty-comes-from` 10,125자, `satanic-panic-court-inquiries` 10,082자, `stalking-harm-and-autonomy` 10,033자
+- 긴 문서 (29): `cross-institutional-report-discovery` 113,038자, `korea-bottom-economy-2026` 30,239자, `taste-calculator-style-algebra` 17,367자, `taste-calculator-foundations` 16,451자, `wiki-building-history` 16,428자, `upbit-small-capital-trading-experiment` 14,973자, `taste-calculator-adapter` 14,282자, `ai-capital-labor-distribution` 13,156자, `agent-commons-self-evolution-memory` 12,816자, `great-depression-lived-experience-literature` 12,392자, `housing-busts-global-korea` 12,187자, `wiki-operations-pipeline` 12,147자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `agent-mind-design` 11,750자, `mathematical-theory-of-taste` 11,631자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `living-orchestral-listening-journey` 10,782자, `book-translation-pipeline-local-llm` 10,701자, `starcraft-pluto-ai` 10,465자, `agent-commons-formation-history` 10,396자, `korea-dance-musical-tours` 10,337자, `wto-digital-transmission-moratorium` 10,289자, `ai-economic-transition` 10,205자, `great-northern-telegraph-east-asia` 10,147자, `where-novelty-comes-from` 10,125자, `satanic-panic-court-inquiries` 10,082자, `stalking-harm-and-autonomy` 10,033자
 - 짧은 문서 (2): `stump-and-dream-fragment` 861자, `deleuze-cartography-future` 1,291자
 
 ## 9. 분류 참고
