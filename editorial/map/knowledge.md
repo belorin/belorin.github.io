@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1521개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1524개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (29)
 
@@ -1156,7 +1156,7 @@
 - 객체 변형 합성을 위한 생성 실험의 범위 → `taste-calculator-style-algebra` § 생성 연산을 눈으로 확인하기 위한 구현 · `ing-20261116-taste-experiment-rationales`
 - 경험 순서와 C 전이의 실행 예제 및 감상과의 간극 → `mathematical-theory-of-taste` § 순서와 C의 역할을 실행해 보는 실험 · `ing-20261116-taste-experiment-rationales`
 
-## 정치경제 (92)
+## 정치경제 (95)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -1252,6 +1252,9 @@
 - 2026년 설 상여금 지급월 이동에 따른 1월 임금 하락과 2월 반등 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-lunar-wage-shift`
 - 2026년 1~2월 실질임금 증가와 사업체 규모별 명목임금 증가 격차 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-lunar-wage-shift`
 - 반도체 관련 특별급여 증가와 주가·노동소득 사이 인과 해석의 경계 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-lunar-wage-shift`
+- 2026년 상반기 실질임금 증가율 둔화와 1~2월 비교 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-h1-wage-composition`
+- 정액급여 기여도 축소와 전자·금융 관련 특별급여 집중 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-h1-wage-composition`
+- 상반기 임시일용·중소규모 근로자의 시간당 상대임금 하락 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-h1-wage-composition`
 
 ## 운영 (64)
 
