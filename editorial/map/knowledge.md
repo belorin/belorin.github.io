@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1527개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1530개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (29)
 
@@ -949,6 +949,112 @@
 - 장기 Spring 설계와 최소 JDBC H2 구현의 구분 → `raspberry-pi-spring-python-public-lab` § 첫 구현에서 선택한 최소 구성 · `ing-20261116-spring-board-deployment-recovery`
 - 시험 실행 완료와 서비스·공개·MCP 쓰기 미확인 경계 → `spring-board-deployment-paths-and-recovery` § 확인된 결과와 남은 일 · `ing-20261116-spring-board-deployment-recovery`
 
+## 정치경제 (101)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- AI 구원론 없이 구성하는 비극적 완충론 → `critical-optimism-fragile-order` § 낙관이 훨씬 어려운 시대 · `ing-20261025-state-hollowing-critical-optimism`
+- 비용 피드백이 자동 감속을 보장하지 않는 조건 → `critical-optimism-fragile-order` § 비관식에 빠져 있는 반작용 · `ing-20261025-state-hollowing-critical-optimism`
+- 핵 억지·금융 안정화·에너지 전환의 조건부 완충 → `critical-optimism-fragile-order` § 전쟁의 브레이크: 비싼 전면전과 잔혹한 제한전 · `ing-20261025-state-hollowing-critical-optimism`
+- 제도적 완충장치의 불균등한 분포와 이미 도착한 디스토피아 → `critical-optimism-fragile-order` § 완충장치가 먼저 사망한 곳에서의 낙관 · `ing-20261025-state-hollowing-critical-optimism`
+- 법적 주권과 실제 국가기능을 분리하는 국가 형해화 개념 → `state-hollowing-index` § 국가는 있는데 국가는 작동하지 않는다 · `ing-20261025-state-hollowing-critical-optimism`
+- 폭력·행정·화폐·재생산·탈출·비공식망·법치·외부 의존·투자의 아홉 층 → `state-hollowing-index` § 100점 개념 설계와 중간 단계 · `ing-20261025-state-hollowing-critical-optimism`
+- 토드 영아사망률과 미확인 대리모 지표의 구분 → `state-hollowing-index` § 네 번째 층: 사회적 재생산의 붕괴 · `ing-20261025-state-hollowing-critical-optimism`
+- 빈곤 낙인·중복지표·평균값 편향을 피하는 보정 → `state-hollowing-index` § 비교의 함정과 보정 원칙 · `ing-20261025-state-hollowing-critical-optimism`
+- GPI·FSI·물가·정부부채 네 지표 코어 산식 → `state-hollowing-country-pilot` § 모형과 정규화 · `ing-20261025-state-hollowing-critical-optimism`
+- 20개국 코어 측정 입력값과 단계 분포 → `state-hollowing-country-pilot` § 20개국 입력값: 서로 다른 시대를 한 행에 놓은 한계 · `ing-20261025-state-hollowing-critical-optimism`
+- 이란·레바논·베네수엘라와 선진국의 서로 다른 압력 → `state-hollowing-country-pilot` § 유형은 점수보다 중요한 정보를 제공한다 · `ing-20261025-state-hollowing-critical-optimism`
+- 레바논·베네수엘라의 과거 부채값 대체와 민감도 한계 → `state-hollowing-country-pilot` § 민감도와 자료 문제 · `ing-20261025-state-hollowing-critical-optimism`
+- 화폐창출 사실과 약탈적 분배 판정의 구분 → `money-credit-seigniorage-critique` § 좋은 질문과 지나치게 쉬운 답 · `ing-20261030-money-credit-economic-history`
+- 중앙은행 세뇨리지와 상업은행 신용창조의 차이 → `money-credit-seigniorage-critique` § 세뇨리지와 은행 신용창조는 같은 수익이 아니다 · `ing-20261030-money-credit-economic-history`
+- 대출·예금 100의 대차대조표 및 원금 상환 → `money-credit-seigniorage-critique` § 신용은 부채다: 은행의 장부를 펴면 보이는 것 · `ing-20261030-money-credit-economic-history`
+- 칸티용 효과의 진입 경로와 통화완화의 고용 효과 → `money-credit-seigniorage-critique` § 칸티용 효과: 먼저 받은 사람의 이익은 어디까지인가 · `ing-20261030-money-credit-economic-history`
+- 생산·투기·연명 신용의 구분 → `money-credit-seigniorage-critique` § 생산적 신용, 자산투기 신용, 연명 신용을 분리한다 · `ing-20261030-money-credit-economic-history`
+- 화폐원인론과 불평등의 다른 제도적 원인 → `money-credit-seigniorage-critique` § 화폐원인론이 불평등의 다른 기제를 지울 때 · `ing-20261030-money-credit-economic-history`
+- 분데스방크와 스위스 주권화폐 국민투표 논쟁 → `money-credit-seigniorage-critique` § 경제학자들은 침묵했는가: 독일과 스위스의 공개 논쟁 · `ing-20261030-money-credit-economic-history`
+- 금본위의 규율과 금융위기 대응의 충돌 → `money-credit-seigniorage-critique` § 금본위로 모든 문제가 해결되는가 · `ing-20261030-money-credit-economic-history`
+- 토드의 프랑스 내 대중적 위상과 학문적·정치적 수용의 분리 → `emmanuel-todd-western-defeat` § 유명하지만 합의의 중심에는 있지 않은 사람 · `ing-20261102-todd-global-south-critical-reading`
+- 르몽드와 르몽드 디플로마티크의 상반된 서평 논리 → `emmanuel-todd-western-defeat` § 같은 책을 두고 갈리는 프랑스의 평가 · `ing-20261102-todd-global-south-critical-reading`
+- 서방 쇠퇴 주장과 개별 전쟁의 인과·책임 검증을 구분 → `emmanuel-todd-western-defeat` § 『서방의 패배』의 논리와 비판의 마찰 · `ing-20261102-todd-global-south-critical-reading`
+- 토드의 2025년 이란 핵억지 균형 주장과 반론 → `emmanuel-todd-western-defeat` § 2025년 이란 핵무장에 관한 발언 · `ing-20261102-todd-global-south-critical-reading`
+- 2026년 이란전을 미국 패권의 연쇄 전선으로 해석하는 주장과 근거의 한계 → `emmanuel-todd-western-defeat` § 2026년 이란전: 우크라이나 이후의 다른 전선인가 · `ing-20261102-todd-global-south-critical-reading`
+- 토드의 출판사 서평 프랑스어 언론과 인터뷰 추적 경로 → `emmanuel-todd-western-defeat` § 출판사와 매체, 독립 채널을 분리하기 · `ing-20261102-todd-global-south-critical-reading`
+- 토드 문명론의 통찰과 예측을 따로 검증하는 독법 → `emmanuel-todd-western-defeat` § 토드를 읽는 데 필요한 이중 장부 · `ing-20261102-todd-global-south-critical-reading`
+- 부동산 비중과 붕괴 위험의 서로 다른 네 척도 → `housing-busts-global-korea` § 무엇이 높았고 무엇이 무너졌는가 · `ing-20261103-housing-busts-global`
+- 가격지수와 금융 부실지표를 같은 낙폭으로 비교하는 오류 → `housing-busts-global-korea` § 정점에서 5년, 10년: 먼저 펼쳐 보는 비교 · `ing-20261103-housing-busts-global`
+- 일본 토지거품과 은행 부실의 장기화 → `housing-busts-global-korea` § 일본: 가격 붕괴와 손실 인식의 지연 · `ing-20261103-housing-busts-global`
+- 홍콩 주택가격 붕괴와 역자산·불균등한 회복 → `housing-busts-global-korea` § 홍콩: 가장 가파른 폭락과 이후의 불균등한 회복 · `ing-20261103-housing-busts-global`
+- 미국 모기지 전파와 2008년 금융위기의 후과 → `housing-busts-global-korea` § 미국: 주택대출이 금융시장 전체의 위험이 되었을 때 · `ing-20261103-housing-busts-global`
+- 아일랜드 주택가격 붕괴와 공급부족의 귀환 → `housing-busts-global-korea` § 아일랜드: 붕괴를 통과한 뒤 주거난이 다시 온 역설 · `ing-20261103-housing-busts-global`
+- 스페인 건설금융 붕괴와 장기 고용 충격 → `housing-busts-global-korea` § 스페인: 건설업의 충격이 청년과 노동시장에 남긴 시간 · `ing-20261103-housing-busts-global`
+- 핀란드의 은행위기와 대외충격 → `housing-busts-global-korea` § 핀란드와 스웨덴: 비슷한 금융위기, 다른 회복의 속도 · `ing-20261103-housing-busts-global`
+- 스웨덴 은행정리와 회복의 분기 → `housing-busts-global-korea` § 핀란드와 스웨덴: 비슷한 금융위기, 다른 회복의 속도 · `ing-20261103-housing-busts-global`
+- 태국 외화차입·개발금융과 부실채권 → `housing-busts-global-korea` § 태국: 집값 지수보다 외채와 개발금융이 먼저 문제인 사례 · `ing-20261103-housing-busts-global`
+- 아이슬란드 은행위기와 통화조정·관광 회복 → `housing-busts-global-korea` § 아이슬란드: 집값을 넘어 은행 전체가 국가 규모를 압도했을 때 · `ing-20261103-housing-busts-global`
+- 두바이 개발금융과 거래액 붕괴의 구분 → `housing-busts-global-korea` § 두바이: 개발 프로젝트와 국제 유동성에 묶인 순환 · `ing-20261103-housing-busts-global`
+- 중국 부동산 조정의 5년 관측과 아직 없는 10년 결과 → `housing-busts-global-korea` § 중국: 아직 닫히지 않은 10년의 결과 · `ing-20261103-housing-busts-global`
+- 부동산 충격의 거래·담보·금융·실물 전파 → `housing-busts-global-korea` § 폭락의 전개: 거래 마비에서 은행과 일자리까지 · `ing-20261103-housing-busts-global`
+- 명목가격 회복과 주거 접근성 회복의 구분 → `housing-busts-global-korea` § 회복을 판정하는 다섯 가지 서로 다른 기준 · `ing-20261103-housing-busts-global`
+- 한국 부동산 붕괴론의 취약성·지역 분화와 조건부 경로 → `housing-busts-global-korea` § 한국의 붕괴론을 판단하는 법 · `ing-20261103-housing-busts-global`
+- 국제 비교 통계와 5년·10년 정량 자료의 검증 경계 → `housing-busts-global-korea` § 자료의 경계와 후속 검증 과제 · `ing-20261103-housing-busts-global`
+- 부동산 금융에서 생산·투기·연명 신용의 충격 경로 → `money-credit-seigniorage-critique` § 부동산의 담보가 부실해진 뒤에도 신용의 종류는 남는다 · `ing-20261103-housing-busts-global`
+- 2026년 2분기 가계소득과 실질소비의 다른 증가율 → `korea-household-consumption-divergence-2026` § 명목소득은 늘었지만 실질소비는 거의 제자리였다 · `ing-20261110-selected-external-followups`
+- 소득 분위별 소비성향과 과소비 판단의 차이 → `korea-household-consumption-divergence-2026` § 평균 69.2% 안에는 125.3%와 60.3%가 함께 있다 · `ing-20261110-selected-external-followups`
+- 자산·소득 하위 가구 내 청년 비중의 분모 → `korea-household-consumption-divergence-2026` § 세대 차이는 나이만의 문제가 아니라 자산 진입의 문제다 · `ing-20261110-selected-external-followups`
+- 2025년 국내여행 통계의 시점과 조사 범위 → `korea-household-consumption-divergence-2026` § 여행 통계가 보여주는 것과 보여주지 않는 것 · `ing-20261110-selected-external-followups`
+- 생활 압박과 선택적 소비를 설명하는 경쟁 가설 → `korea-household-consumption-divergence-2026` § 생활의 압박과 선택적 지출을 함께 설명하는 네 가지 가설 · `ing-20261110-selected-external-followups`
+- 『La Dislocation』 2026년 출판과 대담집의 성격 → `todd-dislocation-2026` § 새 책과 소련 붕괴의 기억 · `ing-20261115-todd-dislocation`
+- 패배·쇠퇴·해체의 구분과 국가 형해화와의 차이 → `todd-dislocation-2026` § 패배·쇠퇴·해체의 세 층위 · `ing-20261115-todd-dislocation`
+- 소련 붕괴의 신념 상실과 해체 이후 예측 한계 → `todd-budapest-2025-reading` § 소련에서 배운 것과 놓친 것 · `ing-20261115-todd-dislocation`
+- 교육 확대와 민주주의 내부의 위계 분열 → `todd-dislocation-2026` § 사회 내부에서도 결합이 풀린다 · `ing-20261115-todd-dislocation`
+- 미국의 달러 패권·산업 복귀 사이의 구조적 딜레마 → `todd-dislocation-2026` § 미국의 딜레마: 제국을 포기할 수도, 계속 유지할 수도 없다 · `ing-20261115-todd-dislocation`
+- 미국 패권 약화와 동맹 내 위계적 압박 → `todd-dislocation-threats-2025-reading` § 위계적 분열: 상층의 위기가 아래로 내려간다 · `ing-20261115-todd-dislocation`
+- EU의 정치적·기능적·법적 해체 구분과 반론 → `todd-dislocation-2026` § 유럽연합은 어떤 방식으로 해체되는가 · `ing-20261115-todd-dislocation`
+- 독일 재무장과 프랑스 세대 갈등 및 국가 재건의 구분 → `todd-dislocation-2026` § 독일과 프랑스: 해체 속에서 나타나는 서로 다른 위기 · `ing-20261115-todd-dislocation`
+- 2027년 우크라이나 전망의 검증 단위 → `todd-dislocation-2026` § 2027년의 예측과 더 긴 시간의 문제 · `ing-20261115-todd-dislocation`
+- 한중일 산업집중과 인구 감소의 동시성 → `todd-dislocation-2026` § 동아시아: 세계의 공장이면서 인구가 줄어드는 지역 · `ing-20261115-todd-dislocation`
+- 상상적 민족주의와 일본의 주권·대만 자기결정권 → `todd-asahi-2026-reading` § 상상적 민족주의와 오키나와의 미군 · `ing-20261115-todd-dislocation`
+- 이란 외부 압력과 권위주의의 조건부 인과 및 공학 역량 → `todd-dislocation-2026` § 이란과 중동: 공학 역량, 외부 위협, 정치적 선택 · `ing-20261115-todd-dislocation`
+- 중동에서 미국·이스라엘·이란 관계의 토드식 해석 → `todd-world-war-interview-2026-reading` § 이란은 왜 다음 전선에 놓이는가 · `ing-20261115-todd-dislocation`
+- 브라질·베네수엘라와 라틴아메리카 지역별 차이 → `todd-dislocation-2026` § 라틴아메리카와 아프리카: 해체론의 주변부 · `ing-20261115-todd-dislocation`
+- 아프리카와 프랑스 식민지 관계의 한정적 전망 → `todd-dislocation-2026` § 라틴아메리카와 아프리카: 해체론의 주변부 · `ing-20261115-todd-dislocation`
+- 중국 일극 체제 대신 국민국가 다양성의 재등장과 한계 → `todd-dislocation-2026` § 2027년의 예측과 더 긴 시간의 문제 · `ing-20261115-todd-dislocation`
+- 토드 프랑스어 원전 3편과 아사히 인터뷰의 한국어 독해 → `todd-dislocation-2026` § 원전 안내 · `ing-20261115-todd-dislocation`
+- 예측을 관측 지표별로 나누는 이중 장부 → `todd-dislocation-2026` § 예측의 추적 지표 · `ing-20261115-todd-dislocation`
+- 바닥 경제를 금융·실물·생활의 전달 경로와 시간차로 연구하는 문제설정 → `korea-bottom-economy-2026` § 2026, 바닥의 경제: 금융의 시간과 생활의 시간 · `ing-20261123-bottom-economy-book`
+- 2026년 3분기 실질 GDP 증가와 민간소비 감소의 공존 → `korea-bottom-economy-2026` § 2026년에 이미 드러난 서로 다른 속도 · `ing-20261123-bottom-economy-book`
+- 2026년 금융·실물·생활·지역의 시간축을 통한 경제사 집필 구조 → `korea-bottom-economy-2026` § 책의 전개: 위에서 아래로, 다시 시간의 흐름으로 · `ing-20261123-bottom-economy-book`
+- 바닥 경제의 금융·산업·노동·가계·생활비·상권·미래 선택 관측층 → `korea-bottom-economy-2026` § 바닥을 어디에서 관찰할 것인가 · `ing-20261123-bottom-economy-book`
+- 경제 변동의 관측·공표 시점, 명목·실질, 총량·분포를 분리하는 비교 → `korea-bottom-economy-2026` § 한 해를 제대로 읽기 위한 비교 방식 · `ing-20261123-bottom-economy-book`
+- 2026년 10월 전체 고용률 상승과 청년 고용률 하락 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-employment-oct`
+- 2026년 10월 서비스·건설·보건 업종별 취업자 증감 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-employment-oct`
+- 고용률과 실업률의 분모 차이 및 노동시장 이탈 해석 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-employment-oct`
+- 2026년 10월 20~24세 경제활동참가율 하락과 청년 취업자 감소 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-youth-participation`
+- 청년 공식 실업률 하락과 확장실업률 상승의 동시 발생 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-youth-participation`
+- 비경제활동 증가를 청년 쉬었음 증가로 환원하는 해석의 한계 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-youth-participation`
+- 20~24세 취업자 감소와 인구 감소의 크기 차이 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-youth-cohort-counterfactual`
+- 20~24세 인구 고정 비교로 본 취업 비중 하락 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-youth-cohort-counterfactual`
+- 2026년 10월 계절조정 취업자 전월 감소와 전년동월 증가의 공존 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-youth-cohort-counterfactual`
+- 20~24세 고용률 하락을 참가율과 실업자 비중 변화로 분해 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-youth-participation-accounting`
+- 20대 쉬었음 인구 감소와 노동시장 참가율 하락의 공존 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-youth-participation-accounting`
+- 2026년 10월 상용근로자 증가와 임시·일용근로자 감소의 동시 발생 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-employment-status`
+- 업종별 고용 변화와 종사상 지위별 변화의 중복집계 위험 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-employment-status`
+- 2026년 7월 명목임금 증가와 실질임금 감소의 공존 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-wages-hours`
+- 사업체조사와 가구조사의 임시일용근로자 변화 비교 범위 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-wages-hours`
+- 2026년 4월 광주와 충북·충남의 월평균 근로시간 차이 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-wages-hours`
+- 2026년 설 상여금 지급월 이동에 따른 1월 임금 하락과 2월 반등 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-lunar-wage-shift`
+- 2026년 1~2월 실질임금 증가와 사업체 규모별 명목임금 증가 격차 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-lunar-wage-shift`
+- 반도체 관련 특별급여 증가와 주가·노동소득 사이 인과 해석의 경계 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-lunar-wage-shift`
+- 2026년 상반기 실질임금 증가율 둔화와 1~2월 비교 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-h1-wage-composition`
+- 정액급여 기여도 축소와 전자·금융 관련 특별급여 집중 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-h1-wage-composition`
+- 상반기 임시일용·중소규모 근로자의 시간당 상대임금 하락 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-h1-wage-composition`
+- 2026년 4~7월 실질임금 감소 뒤 8월 전년동월 증가 전환 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-august-wage-rebound`
+- 8월 상용근로자 임금 반등의 특별급여 집중과 사업체 규모별 차이 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-august-wage-rebound`
+- 2026년 8월 실질임금 증가와 동일 근로일수 아래 근로시간 감소 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-august-wage-rebound`
+- 2026년 8월 상용근로자 정액급여의 물가조정 구매력 감소 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-august-real-pay-components`
+- 2026년 8월 임시일용 월평균 임금의 물가조정 구매력 감소 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-august-real-pay-components`
+- 전체 실질임금 반등과 종사상 지위·사업체 규모별 구매력 분화 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-august-real-pay-components`
+
 ## 기술·지식 아카이브 (100)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -1053,109 +1159,6 @@
 - 검증 지식 부채와 공개 자격의 분리 → `cross-institutional-report-discovery` § 검증 경고의 지식 부채: 결론의 공개 자격과 검토 대기열 (2026-11-22) · `ing-20261122-validation-debt`
 - 거짓 확정 노출 시간과 부당 철회율의 동시 평가 → `cross-institutional-report-discovery` § 검증 경고의 지식 부채: 결론의 공개 자격과 검토 대기열 (2026-11-22) · `ing-20261122-validation-debt`
 - 평가 사례의 노출 이력과 시간 누출 관리 → `cross-institutional-report-discovery` § 평가 자료의 노출 이력: 맹검 이후에도 남는 오염과 시간 누출 (2026-11-22) · `ing-20261122-benchmark-exposure-clock`
-
-## 정치경제 (98)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- AI 구원론 없이 구성하는 비극적 완충론 → `critical-optimism-fragile-order` § 낙관이 훨씬 어려운 시대 · `ing-20261025-state-hollowing-critical-optimism`
-- 비용 피드백이 자동 감속을 보장하지 않는 조건 → `critical-optimism-fragile-order` § 비관식에 빠져 있는 반작용 · `ing-20261025-state-hollowing-critical-optimism`
-- 핵 억지·금융 안정화·에너지 전환의 조건부 완충 → `critical-optimism-fragile-order` § 전쟁의 브레이크: 비싼 전면전과 잔혹한 제한전 · `ing-20261025-state-hollowing-critical-optimism`
-- 제도적 완충장치의 불균등한 분포와 이미 도착한 디스토피아 → `critical-optimism-fragile-order` § 완충장치가 먼저 사망한 곳에서의 낙관 · `ing-20261025-state-hollowing-critical-optimism`
-- 법적 주권과 실제 국가기능을 분리하는 국가 형해화 개념 → `state-hollowing-index` § 국가는 있는데 국가는 작동하지 않는다 · `ing-20261025-state-hollowing-critical-optimism`
-- 폭력·행정·화폐·재생산·탈출·비공식망·법치·외부 의존·투자의 아홉 층 → `state-hollowing-index` § 100점 개념 설계와 중간 단계 · `ing-20261025-state-hollowing-critical-optimism`
-- 토드 영아사망률과 미확인 대리모 지표의 구분 → `state-hollowing-index` § 네 번째 층: 사회적 재생산의 붕괴 · `ing-20261025-state-hollowing-critical-optimism`
-- 빈곤 낙인·중복지표·평균값 편향을 피하는 보정 → `state-hollowing-index` § 비교의 함정과 보정 원칙 · `ing-20261025-state-hollowing-critical-optimism`
-- GPI·FSI·물가·정부부채 네 지표 코어 산식 → `state-hollowing-country-pilot` § 모형과 정규화 · `ing-20261025-state-hollowing-critical-optimism`
-- 20개국 코어 측정 입력값과 단계 분포 → `state-hollowing-country-pilot` § 20개국 입력값: 서로 다른 시대를 한 행에 놓은 한계 · `ing-20261025-state-hollowing-critical-optimism`
-- 이란·레바논·베네수엘라와 선진국의 서로 다른 압력 → `state-hollowing-country-pilot` § 유형은 점수보다 중요한 정보를 제공한다 · `ing-20261025-state-hollowing-critical-optimism`
-- 레바논·베네수엘라의 과거 부채값 대체와 민감도 한계 → `state-hollowing-country-pilot` § 민감도와 자료 문제 · `ing-20261025-state-hollowing-critical-optimism`
-- 화폐창출 사실과 약탈적 분배 판정의 구분 → `money-credit-seigniorage-critique` § 좋은 질문과 지나치게 쉬운 답 · `ing-20261030-money-credit-economic-history`
-- 중앙은행 세뇨리지와 상업은행 신용창조의 차이 → `money-credit-seigniorage-critique` § 세뇨리지와 은행 신용창조는 같은 수익이 아니다 · `ing-20261030-money-credit-economic-history`
-- 대출·예금 100의 대차대조표 및 원금 상환 → `money-credit-seigniorage-critique` § 신용은 부채다: 은행의 장부를 펴면 보이는 것 · `ing-20261030-money-credit-economic-history`
-- 칸티용 효과의 진입 경로와 통화완화의 고용 효과 → `money-credit-seigniorage-critique` § 칸티용 효과: 먼저 받은 사람의 이익은 어디까지인가 · `ing-20261030-money-credit-economic-history`
-- 생산·투기·연명 신용의 구분 → `money-credit-seigniorage-critique` § 생산적 신용, 자산투기 신용, 연명 신용을 분리한다 · `ing-20261030-money-credit-economic-history`
-- 화폐원인론과 불평등의 다른 제도적 원인 → `money-credit-seigniorage-critique` § 화폐원인론이 불평등의 다른 기제를 지울 때 · `ing-20261030-money-credit-economic-history`
-- 분데스방크와 스위스 주권화폐 국민투표 논쟁 → `money-credit-seigniorage-critique` § 경제학자들은 침묵했는가: 독일과 스위스의 공개 논쟁 · `ing-20261030-money-credit-economic-history`
-- 금본위의 규율과 금융위기 대응의 충돌 → `money-credit-seigniorage-critique` § 금본위로 모든 문제가 해결되는가 · `ing-20261030-money-credit-economic-history`
-- 토드의 프랑스 내 대중적 위상과 학문적·정치적 수용의 분리 → `emmanuel-todd-western-defeat` § 유명하지만 합의의 중심에는 있지 않은 사람 · `ing-20261102-todd-global-south-critical-reading`
-- 르몽드와 르몽드 디플로마티크의 상반된 서평 논리 → `emmanuel-todd-western-defeat` § 같은 책을 두고 갈리는 프랑스의 평가 · `ing-20261102-todd-global-south-critical-reading`
-- 서방 쇠퇴 주장과 개별 전쟁의 인과·책임 검증을 구분 → `emmanuel-todd-western-defeat` § 『서방의 패배』의 논리와 비판의 마찰 · `ing-20261102-todd-global-south-critical-reading`
-- 토드의 2025년 이란 핵억지 균형 주장과 반론 → `emmanuel-todd-western-defeat` § 2025년 이란 핵무장에 관한 발언 · `ing-20261102-todd-global-south-critical-reading`
-- 2026년 이란전을 미국 패권의 연쇄 전선으로 해석하는 주장과 근거의 한계 → `emmanuel-todd-western-defeat` § 2026년 이란전: 우크라이나 이후의 다른 전선인가 · `ing-20261102-todd-global-south-critical-reading`
-- 토드의 출판사 서평 프랑스어 언론과 인터뷰 추적 경로 → `emmanuel-todd-western-defeat` § 출판사와 매체, 독립 채널을 분리하기 · `ing-20261102-todd-global-south-critical-reading`
-- 토드 문명론의 통찰과 예측을 따로 검증하는 독법 → `emmanuel-todd-western-defeat` § 토드를 읽는 데 필요한 이중 장부 · `ing-20261102-todd-global-south-critical-reading`
-- 부동산 비중과 붕괴 위험의 서로 다른 네 척도 → `housing-busts-global-korea` § 무엇이 높았고 무엇이 무너졌는가 · `ing-20261103-housing-busts-global`
-- 가격지수와 금융 부실지표를 같은 낙폭으로 비교하는 오류 → `housing-busts-global-korea` § 정점에서 5년, 10년: 먼저 펼쳐 보는 비교 · `ing-20261103-housing-busts-global`
-- 일본 토지거품과 은행 부실의 장기화 → `housing-busts-global-korea` § 일본: 가격 붕괴와 손실 인식의 지연 · `ing-20261103-housing-busts-global`
-- 홍콩 주택가격 붕괴와 역자산·불균등한 회복 → `housing-busts-global-korea` § 홍콩: 가장 가파른 폭락과 이후의 불균등한 회복 · `ing-20261103-housing-busts-global`
-- 미국 모기지 전파와 2008년 금융위기의 후과 → `housing-busts-global-korea` § 미국: 주택대출이 금융시장 전체의 위험이 되었을 때 · `ing-20261103-housing-busts-global`
-- 아일랜드 주택가격 붕괴와 공급부족의 귀환 → `housing-busts-global-korea` § 아일랜드: 붕괴를 통과한 뒤 주거난이 다시 온 역설 · `ing-20261103-housing-busts-global`
-- 스페인 건설금융 붕괴와 장기 고용 충격 → `housing-busts-global-korea` § 스페인: 건설업의 충격이 청년과 노동시장에 남긴 시간 · `ing-20261103-housing-busts-global`
-- 핀란드의 은행위기와 대외충격 → `housing-busts-global-korea` § 핀란드와 스웨덴: 비슷한 금융위기, 다른 회복의 속도 · `ing-20261103-housing-busts-global`
-- 스웨덴 은행정리와 회복의 분기 → `housing-busts-global-korea` § 핀란드와 스웨덴: 비슷한 금융위기, 다른 회복의 속도 · `ing-20261103-housing-busts-global`
-- 태국 외화차입·개발금융과 부실채권 → `housing-busts-global-korea` § 태국: 집값 지수보다 외채와 개발금융이 먼저 문제인 사례 · `ing-20261103-housing-busts-global`
-- 아이슬란드 은행위기와 통화조정·관광 회복 → `housing-busts-global-korea` § 아이슬란드: 집값을 넘어 은행 전체가 국가 규모를 압도했을 때 · `ing-20261103-housing-busts-global`
-- 두바이 개발금융과 거래액 붕괴의 구분 → `housing-busts-global-korea` § 두바이: 개발 프로젝트와 국제 유동성에 묶인 순환 · `ing-20261103-housing-busts-global`
-- 중국 부동산 조정의 5년 관측과 아직 없는 10년 결과 → `housing-busts-global-korea` § 중국: 아직 닫히지 않은 10년의 결과 · `ing-20261103-housing-busts-global`
-- 부동산 충격의 거래·담보·금융·실물 전파 → `housing-busts-global-korea` § 폭락의 전개: 거래 마비에서 은행과 일자리까지 · `ing-20261103-housing-busts-global`
-- 명목가격 회복과 주거 접근성 회복의 구분 → `housing-busts-global-korea` § 회복을 판정하는 다섯 가지 서로 다른 기준 · `ing-20261103-housing-busts-global`
-- 한국 부동산 붕괴론의 취약성·지역 분화와 조건부 경로 → `housing-busts-global-korea` § 한국의 붕괴론을 판단하는 법 · `ing-20261103-housing-busts-global`
-- 국제 비교 통계와 5년·10년 정량 자료의 검증 경계 → `housing-busts-global-korea` § 자료의 경계와 후속 검증 과제 · `ing-20261103-housing-busts-global`
-- 부동산 금융에서 생산·투기·연명 신용의 충격 경로 → `money-credit-seigniorage-critique` § 부동산의 담보가 부실해진 뒤에도 신용의 종류는 남는다 · `ing-20261103-housing-busts-global`
-- 2026년 2분기 가계소득과 실질소비의 다른 증가율 → `korea-household-consumption-divergence-2026` § 명목소득은 늘었지만 실질소비는 거의 제자리였다 · `ing-20261110-selected-external-followups`
-- 소득 분위별 소비성향과 과소비 판단의 차이 → `korea-household-consumption-divergence-2026` § 평균 69.2% 안에는 125.3%와 60.3%가 함께 있다 · `ing-20261110-selected-external-followups`
-- 자산·소득 하위 가구 내 청년 비중의 분모 → `korea-household-consumption-divergence-2026` § 세대 차이는 나이만의 문제가 아니라 자산 진입의 문제다 · `ing-20261110-selected-external-followups`
-- 2025년 국내여행 통계의 시점과 조사 범위 → `korea-household-consumption-divergence-2026` § 여행 통계가 보여주는 것과 보여주지 않는 것 · `ing-20261110-selected-external-followups`
-- 생활 압박과 선택적 소비를 설명하는 경쟁 가설 → `korea-household-consumption-divergence-2026` § 생활의 압박과 선택적 지출을 함께 설명하는 네 가지 가설 · `ing-20261110-selected-external-followups`
-- 『La Dislocation』 2026년 출판과 대담집의 성격 → `todd-dislocation-2026` § 새 책과 소련 붕괴의 기억 · `ing-20261115-todd-dislocation`
-- 패배·쇠퇴·해체의 구분과 국가 형해화와의 차이 → `todd-dislocation-2026` § 패배·쇠퇴·해체의 세 층위 · `ing-20261115-todd-dislocation`
-- 소련 붕괴의 신념 상실과 해체 이후 예측 한계 → `todd-budapest-2025-reading` § 소련에서 배운 것과 놓친 것 · `ing-20261115-todd-dislocation`
-- 교육 확대와 민주주의 내부의 위계 분열 → `todd-dislocation-2026` § 사회 내부에서도 결합이 풀린다 · `ing-20261115-todd-dislocation`
-- 미국의 달러 패권·산업 복귀 사이의 구조적 딜레마 → `todd-dislocation-2026` § 미국의 딜레마: 제국을 포기할 수도, 계속 유지할 수도 없다 · `ing-20261115-todd-dislocation`
-- 미국 패권 약화와 동맹 내 위계적 압박 → `todd-dislocation-threats-2025-reading` § 위계적 분열: 상층의 위기가 아래로 내려간다 · `ing-20261115-todd-dislocation`
-- EU의 정치적·기능적·법적 해체 구분과 반론 → `todd-dislocation-2026` § 유럽연합은 어떤 방식으로 해체되는가 · `ing-20261115-todd-dislocation`
-- 독일 재무장과 프랑스 세대 갈등 및 국가 재건의 구분 → `todd-dislocation-2026` § 독일과 프랑스: 해체 속에서 나타나는 서로 다른 위기 · `ing-20261115-todd-dislocation`
-- 2027년 우크라이나 전망의 검증 단위 → `todd-dislocation-2026` § 2027년의 예측과 더 긴 시간의 문제 · `ing-20261115-todd-dislocation`
-- 한중일 산업집중과 인구 감소의 동시성 → `todd-dislocation-2026` § 동아시아: 세계의 공장이면서 인구가 줄어드는 지역 · `ing-20261115-todd-dislocation`
-- 상상적 민족주의와 일본의 주권·대만 자기결정권 → `todd-asahi-2026-reading` § 상상적 민족주의와 오키나와의 미군 · `ing-20261115-todd-dislocation`
-- 이란 외부 압력과 권위주의의 조건부 인과 및 공학 역량 → `todd-dislocation-2026` § 이란과 중동: 공학 역량, 외부 위협, 정치적 선택 · `ing-20261115-todd-dislocation`
-- 중동에서 미국·이스라엘·이란 관계의 토드식 해석 → `todd-world-war-interview-2026-reading` § 이란은 왜 다음 전선에 놓이는가 · `ing-20261115-todd-dislocation`
-- 브라질·베네수엘라와 라틴아메리카 지역별 차이 → `todd-dislocation-2026` § 라틴아메리카와 아프리카: 해체론의 주변부 · `ing-20261115-todd-dislocation`
-- 아프리카와 프랑스 식민지 관계의 한정적 전망 → `todd-dislocation-2026` § 라틴아메리카와 아프리카: 해체론의 주변부 · `ing-20261115-todd-dislocation`
-- 중국 일극 체제 대신 국민국가 다양성의 재등장과 한계 → `todd-dislocation-2026` § 2027년의 예측과 더 긴 시간의 문제 · `ing-20261115-todd-dislocation`
-- 토드 프랑스어 원전 3편과 아사히 인터뷰의 한국어 독해 → `todd-dislocation-2026` § 원전 안내 · `ing-20261115-todd-dislocation`
-- 예측을 관측 지표별로 나누는 이중 장부 → `todd-dislocation-2026` § 예측의 추적 지표 · `ing-20261115-todd-dislocation`
-- 바닥 경제를 금융·실물·생활의 전달 경로와 시간차로 연구하는 문제설정 → `korea-bottom-economy-2026` § 2026, 바닥의 경제: 금융의 시간과 생활의 시간 · `ing-20261123-bottom-economy-book`
-- 2026년 3분기 실질 GDP 증가와 민간소비 감소의 공존 → `korea-bottom-economy-2026` § 2026년에 이미 드러난 서로 다른 속도 · `ing-20261123-bottom-economy-book`
-- 2026년 금융·실물·생활·지역의 시간축을 통한 경제사 집필 구조 → `korea-bottom-economy-2026` § 책의 전개: 위에서 아래로, 다시 시간의 흐름으로 · `ing-20261123-bottom-economy-book`
-- 바닥 경제의 금융·산업·노동·가계·생활비·상권·미래 선택 관측층 → `korea-bottom-economy-2026` § 바닥을 어디에서 관찰할 것인가 · `ing-20261123-bottom-economy-book`
-- 경제 변동의 관측·공표 시점, 명목·실질, 총량·분포를 분리하는 비교 → `korea-bottom-economy-2026` § 한 해를 제대로 읽기 위한 비교 방식 · `ing-20261123-bottom-economy-book`
-- 2026년 10월 전체 고용률 상승과 청년 고용률 하락 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-employment-oct`
-- 2026년 10월 서비스·건설·보건 업종별 취업자 증감 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-employment-oct`
-- 고용률과 실업률의 분모 차이 및 노동시장 이탈 해석 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-employment-oct`
-- 2026년 10월 20~24세 경제활동참가율 하락과 청년 취업자 감소 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-youth-participation`
-- 청년 공식 실업률 하락과 확장실업률 상승의 동시 발생 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-youth-participation`
-- 비경제활동 증가를 청년 쉬었음 증가로 환원하는 해석의 한계 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-youth-participation`
-- 20~24세 취업자 감소와 인구 감소의 크기 차이 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-youth-cohort-counterfactual`
-- 20~24세 인구 고정 비교로 본 취업 비중 하락 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-youth-cohort-counterfactual`
-- 2026년 10월 계절조정 취업자 전월 감소와 전년동월 증가의 공존 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-youth-cohort-counterfactual`
-- 20~24세 고용률 하락을 참가율과 실업자 비중 변화로 분해 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-youth-participation-accounting`
-- 20대 쉬었음 인구 감소와 노동시장 참가율 하락의 공존 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-youth-participation-accounting`
-- 2026년 10월 상용근로자 증가와 임시·일용근로자 감소의 동시 발생 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-employment-status`
-- 업종별 고용 변화와 종사상 지위별 변화의 중복집계 위험 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-employment-status`
-- 2026년 7월 명목임금 증가와 실질임금 감소의 공존 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-wages-hours`
-- 사업체조사와 가구조사의 임시일용근로자 변화 비교 범위 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-wages-hours`
-- 2026년 4월 광주와 충북·충남의 월평균 근로시간 차이 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-wages-hours`
-- 2026년 설 상여금 지급월 이동에 따른 1월 임금 하락과 2월 반등 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-lunar-wage-shift`
-- 2026년 1~2월 실질임금 증가와 사업체 규모별 명목임금 증가 격차 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-lunar-wage-shift`
-- 반도체 관련 특별급여 증가와 주가·노동소득 사이 인과 해석의 경계 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-lunar-wage-shift`
-- 2026년 상반기 실질임금 증가율 둔화와 1~2월 비교 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-h1-wage-composition`
-- 정액급여 기여도 축소와 전자·금융 관련 특별급여 집중 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-h1-wage-composition`
-- 상반기 임시일용·중소규모 근로자의 시간당 상대임금 하락 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-h1-wage-composition`
-- 2026년 4~7월 실질임금 감소 뒤 8월 전년동월 증가 전환 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-august-wage-rebound`
-- 8월 상용근로자 임금 반등의 특별급여 집중과 사업체 규모별 차이 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-august-wage-rebound`
-- 2026년 8월 실질임금 증가와 동일 근로일수 아래 근로시간 감소 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261123-bottom-economy-august-wage-rebound`
 
 ## 철학 (97)
 
