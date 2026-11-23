@@ -1,0 +1,45 @@
+{
+  "id": "ing-20261123-bottom-economy-h1-wage-composition",
+  "processed_on": "2026-11-23",
+  "coverage": "visible-complete",
+  "limit_note": "2026년 상반기 사업체 임금의 구성과 상대임금 검증; 하반기 누계 및 가구 세후소득은 별도 검증 필요",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "2026년 상반기 실질임금 증가율 둔화와 1~2월 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "정액급여 기여도 축소와 전자·금융 관련 특별급여 집중",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "fact",
+      "title": "상반기 임시일용·중소규모 근로자의 시간당 상대임금 하락",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    }
+  ]
+}
