@@ -1,0 +1,32 @@
+{
+  "id": "ing-20261123-bottom-economy-september-construction-real-nominal",
+  "processed_on": "2026-11-23",
+  "coverage": "visible-complete",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "9월 건설기성 계절조정 전월비 5.8% 증가와 경상 금액 12.5% 증가의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "건설기성 조사 대표업체 범위와 잠정·연간 보정의 해석",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    }
+  ]
+}
