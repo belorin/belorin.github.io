@@ -1,0 +1,33 @@
+{
+  "id": "ing-20261123-bottom-economy-construction-baseline-revision",
+  "processed_on": "2026-11-23",
+  "coverage": "visible-complete",
+  "limit_note": "2024년 수치가 2025년 발표와 2026년 후행 발표에서 166만·168만으로 상이함을 공식 요약자료로 확인. 연보 세부 원표의 집계 변경 사유는 미확인.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "2024년 퇴직공제 적립근로자 공식 발표 166만·168만 불일치",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "후행 연보 계열의 감소율과 근로자당 적립일수 비교 조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    }
+  ]
+}
