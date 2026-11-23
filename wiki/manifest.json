@@ -6453,7 +6453,7 @@
       "title": "지갑은 빠듯한데 여행은 늘어난다: 2026년 한국의 소비와 자산 격차",
       "category": "정치경제",
       "status": "외부 후속 조사 · 관측·해석·미확정 범위 구분",
-      "updated": "2026-11-23",
+      "updated": "2026-11-24",
       "summary": "2026년 가계소득·실질소비·자산 양극화와 2025년 여행 통계를 구별하고, 생활 압박과 선택적 소비가 공존하는 경로 및 세대 비교의 조건을 검토한다.",
       "tags": [
         "한국 소비",
@@ -6475,8 +6475,8 @@
         "불황과 여행 소비",
         "한국 가계 소비의 분화 2026"
       ],
-      "review_state": "reviewed",
-      "last_enriched_on": "2026-11-10"
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-24"
     },
     {
       "id": "japan-skill-transfer-evidence-2026",
