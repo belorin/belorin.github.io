@@ -1,0 +1,40 @@
+{
+  "id": "ing-20261124-bottom-economy-payment-denominator-audit",
+  "processed_on": "2026-11-24",
+  "coverage": "visible-complete",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "2025년 하반기 하도급 60일 초과 지급 총액의 두 공표치와 186억 원 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "18개 조사 대상 지급액의 분모 선택에 따른 집중도 84.4%와 73.1%",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "question",
+      "title": "공시 정정 전후 집계범위와 지연 지급액 불일치의 원인",
+      "status": "pending",
+      "targets": [],
+      "reason": "2026년 7월 발표와 9월 후속 보도의 공시 원표 및 정정 이력을 아직 직접 대조하지 못함"
+    }
+  ]
+}
