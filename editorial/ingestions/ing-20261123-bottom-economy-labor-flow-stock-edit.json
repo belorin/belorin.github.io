@@ -1,0 +1,33 @@
+{
+  "id": "ing-20261123-bottom-economy-labor-flow-stock-edit",
+  "processed_on": "2026-11-23",
+  "coverage": "visible-complete",
+  "limit_note": "9월 사업체노동력조사 기존 공표치의 재고·유량 비교와 건설업 이직 사유 해석을 검토. 개인 단위 추적자료는 미확보.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "argument",
+      "title": "월별 입이직 유량과 전년동월 종사자 재고 차이의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "counterargument",
+      "title": "건설업 비자발적 이직을 개인의 반복 계약 종료로 단정하지 않는 해석",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    }
+  ]
+}
