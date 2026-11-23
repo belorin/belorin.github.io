@@ -1,0 +1,32 @@
+{
+  "id": "ing-20261124-bottom-economy-q2-income-composition",
+  "processed_on": "2026-11-24",
+  "coverage": "visible-complete",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "2026년 2분기 가계 근로소득 0.8%·사업소득 3.8%·이전소득 20.4% 증가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-household-consumption-divergence-2026",
+          "section": "명목소득은 늘었지만 실질소비는 거의 제자리였다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "2026년 2분기 이전소득 증가와 실질소비 0.4% 증가의 괴리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-household-consumption-divergence-2026",
+          "section": "명목소득은 늘었지만 실질소비는 거의 제자리였다"
+        }
+      ]
+    }
+  ]
+}
