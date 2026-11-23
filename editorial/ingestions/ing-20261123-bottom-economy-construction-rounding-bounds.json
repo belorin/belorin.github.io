@@ -1,0 +1,29 @@
+{
+  "id": "ing-20261123-bottom-economy-construction-rounding-bounds",
+  "processed_on": "2026-11-23",
+  "coverage": "visible-complete",
+  "limit_note": "두 연보의 원표 셀 값과 정정 원인은 미확인. 2024 연보 서지와 표 위치만 확인.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "argument",
+      "title": "2024년 적립근로자 166만·168만 발표의 반올림 구간은 겹치지 않음",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "question",
+      "title": "2024년 퇴직공제 적립근로자 원표 변경 사유 확인",
+      "status": "pending",
+      "targets": [],
+      "reason": "2024·2025 연보 원표와 집계정의 직접 비교 미완료"
+    }
+  ]
+}
