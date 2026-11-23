@@ -1,0 +1,28 @@
+{
+  "id": "ing-20261124-bottom-economy-payment-disclosure",
+  "processed_on": "2026-11-24",
+  "coverage": "visible-complete",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "2025년 하반기 하도급대금 60일 초과 지급의 규모와 집중",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "question",
+      "title": "공정위 공시와 후속 보도의 지연 지급 총액 불일치",
+      "status": "pending",
+      "targets": [],
+      "reason": "1,389억 원과 1,203억 원의 집계 범위 및 정정 여부 원표 대조 필요"
+    }
+  ]
+}
