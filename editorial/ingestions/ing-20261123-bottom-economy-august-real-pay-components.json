@@ -1,0 +1,45 @@
+{
+  "id": "ing-20261123-bottom-economy-august-real-pay-components",
+  "processed_on": "2026-11-23",
+  "coverage": "visible-complete",
+  "limit_note": "2026-10-29 공표 8월 사업체 임금 구성과 소비자물가지수의 실질환산 검산. 9월 임금은 아직 공표 확인되지 않았으며 동일 근로자 추적이나 시간당 임금 추정은 하지 않음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "2026년 8월 상용근로자 정액급여의 물가조정 구매력 감소",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "2026년 8월 임시일용 월평균 임금의 물가조정 구매력 감소",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "전체 실질임금 반등과 종사상 지위·사업체 규모별 구매력 분화",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    }
+  ]
+}
