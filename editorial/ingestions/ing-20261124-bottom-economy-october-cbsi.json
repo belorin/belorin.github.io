@@ -1,0 +1,32 @@
+{
+  "id": "ing-20261124-bottom-economy-october-cbsi",
+  "processed_on": "2026-11-24",
+  "coverage": "visible-complete",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "2026년 10월 건설 CBSI 하락과 9월 수주 반등의 시차",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "건설 수주에서 대금 회수와 근로일로 이어지는 전달 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "korea-bottom-economy-2026",
+          "section": "10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다"
+        }
+      ]
+    }
+  ]
+}
