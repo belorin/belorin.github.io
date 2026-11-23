@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1560개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1562개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (32)
 
@@ -846,7 +846,7 @@
 - TESTIFY!의 10월 지역별 공연 안내와 재연 추적 → `orchestra-repertoire-repeat-performance-autumn-2026` § 초연 뒤 네 악단을 더 연결하는 방식 · `ing-20261110-autumn-other-followups`
 - 초연 이후 작품 생애와 컨소시엄 밖 재연을 추적하는 지표 제안 → `orchestra-repertoire-repeat-performance-autumn-2026` § 다음 통계는 작품의 생애를 세어야 한다 · `ing-20261110-autumn-other-followups`
 
-## 정치경제 (128)
+## 정치경제 (130)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -978,6 +978,8 @@
 - 2026년 10월 전문건설업 하도급 수주 체감의 수도권·지방 차이 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261124-bottom-economy-subcontract-arrears`
 - 2026년 9월 누적 건설업 임금체불액과 집계기준 변경 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261124-bottom-economy-subcontract-arrears`
 - 2025년 하반기 하도급대금 60일 초과 지급의 규모와 집중 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261124-bottom-economy-payment-disclosure`
+- 2025년 상·하반기 하도급대금 60일 초과 지급액과 비율 증가 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261124-bottom-economy-payment-halfyear-comparison`
+- 하도급대금 30일 이내 지급 비중 및 현금결제 비중의 반기별 하락 → `korea-bottom-economy-2026` § 10월의 노동시장: 일자리는 늘었는데 청년의 입구는 좁아졌다 · `ing-20261124-bottom-economy-payment-halfyear-comparison`
 
 ## 과학과 기술 (101)
 
