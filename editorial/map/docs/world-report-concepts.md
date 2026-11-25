@@ -7,7 +7,7 @@
 - 요약: 서로 다른 보고서의 관측을 압축하고 교차 결합하여 설명과 가설을 형성하는 연구 공간.
 - 태그: 세계 보고서, 국제기구, 지식 압착, 교차 발견
 - 수정일: 2026-11-25 · 실제 증보일: 2026-11-25 · 검토: needs_review
-- 관련 문서: `world-report-evidence`, `world-report-reading`, `cross-institutional-report-discovery`
+- 관련 문서: `world-report-evidence`, `world-report-reading`, `cross-institutional-report-discovery`, `knowledge-press-machine-power`
 
 ## 절 목차
 

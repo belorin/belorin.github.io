@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 230,
+  "document_count": 231,
   "documents": [
     {
       "id": "living-notes",
@@ -7917,7 +7917,8 @@
         "korea-bottom-economy-2026",
         "world-report-evidence",
         "world-report-concepts",
-        "world-report-reading"
+        "world-report-reading",
+        "knowledge-press-machine-power"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/cross-institutional-report-discovery.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/cross-institutional-report-discovery.md",
@@ -7989,7 +7990,8 @@
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "korea-bottom-economy-2026",
-        "korea-bottom-economy-reading"
+        "korea-bottom-economy-reading",
+        "knowledge-press-machine-power"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-bottom-economy-concept-compression.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/korea-bottom-economy-concept-compression.md",
@@ -8078,7 +8080,8 @@
       "related_ids": [
         "world-report-evidence",
         "world-report-reading",
-        "cross-institutional-report-discovery"
+        "cross-institutional-report-discovery",
+        "knowledge-press-machine-power"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-report-concepts.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/world-report-concepts.md",
@@ -8114,6 +8117,44 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/world-report-reading.md",
       "page_url": "https://belorin.github.io/notes/world-report-reading/",
       "app_url": "https://belorin.github.io/#world-report-reading"
+    },
+    {
+      "id": "knowledge-press-machine-power",
+      "title": "기계력과 지식 압착 — 지속형 지식 생산 아키텍처 연구",
+      "aliases": [
+        "기계력 아키텍처",
+        "지속형 지식 압착 아키텍처"
+      ],
+      "category": "기술·지식 아카이브",
+      "tags": [
+        "기계력",
+        "지식 압착",
+        "Knowledge Press",
+        "개념 순환",
+        "장기 기억",
+        "자율 연구",
+        "독서 비용"
+      ],
+      "summary": "지속적으로 공급되는 기계력을 인간의 이해로 변환하는 다층 지식 상태와 개념 순환, 연구 연산의 배분, 독서 비용, 실제 실험 및 API 이행을 연구한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "장기 연구 허브·Knowledge Press v0.1 파일럿 설계",
+      "last_updated_on": "2026-11-25",
+      "last_enriched_on": "2026-11-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "cross-institutional-report-discovery",
+        "korea-bottom-economy-concept-compression",
+        "korea-bottom-economy-reading",
+        "world-report-concepts",
+        "world-report-reading",
+        "wiki-building-history",
+        "agent-commons-self-evolution-memory"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/knowledge-press-machine-power.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/knowledge-press-machine-power.md",
+      "page_url": "https://belorin.github.io/notes/knowledge-press-machine-power/",
+      "app_url": "https://belorin.github.io/#knowledge-press-machine-power"
     }
   ]
 }

@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 863,
+  "edge_count": 873,
   "edges": [
     {
       "from": "living-notes",
@@ -4800,6 +4800,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "cross-institutional-report-discovery",
+      "to": "knowledge-press-machine-power",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "korea-bottom-economy-2026",
       "to": "korea-household-consumption-divergence-2026",
       "type": "related_to",
@@ -4848,6 +4854,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "korea-bottom-economy-concept-compression",
+      "to": "knowledge-press-machine-power",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "korea-bottom-economy-reading",
       "to": "korea-bottom-economy-2026",
       "type": "related_to",
@@ -4896,6 +4908,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "world-report-concepts",
+      "to": "knowledge-press-machine-power",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "world-report-reading",
       "to": "world-report-evidence",
       "type": "related_to",
@@ -4910,6 +4928,48 @@
     {
       "from": "world-report-reading",
       "to": "cross-institutional-report-discovery",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "knowledge-press-machine-power",
+      "to": "cross-institutional-report-discovery",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "knowledge-press-machine-power",
+      "to": "korea-bottom-economy-concept-compression",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "knowledge-press-machine-power",
+      "to": "korea-bottom-economy-reading",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "knowledge-press-machine-power",
+      "to": "world-report-concepts",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "knowledge-press-machine-power",
+      "to": "world-report-reading",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "knowledge-press-machine-power",
+      "to": "wiki-building-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "knowledge-press-machine-power",
+      "to": "agent-commons-self-evolution-memory",
       "type": "related_to",
       "basis": "manifest.related"
     },

@@ -649,6 +649,9 @@
 - **[읽히지 않은 보고서들의 교차점: 국제기구 문헌에서 발견을 축적하는 연구 시스템](wiki/cross-institutional-report-discovery.md)** · 별칭: 문헌 기반 발견 시스템, 국제기구 보고서 교차 분석, 보고서 지식 탐사, Undiscovered Public Knowledge, AI 증거 종합, 국책연구 보고서 교차 독해 · 수정: 2026-11-23 · 검토: 탐사 시스템 연구 구상·선행 사례와 수치의 원문 재확인 필요
   - 세계은행·IMF·WHO·ILO·OECD와 한국 국책연구기관의 보고서를 교차 독해해 숨은 관계·불일치·연구 공백과 예측 실패를 발견하고, 가설의 검증·기각 이력을 축적하는 장기 문헌 탐사 체계. LBD 선행연구, AI 기억 기술, 국제·국내 프로젝트와 평가 기준을 함께 비교한다.
   - [문서 페이지](https://belorin.github.io/notes/cross-institutional-report-discovery/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/cross-institutional-report-discovery.md)
+- **[기계력과 지식 압착 — 지속형 지식 생산 아키텍처 연구](wiki/knowledge-press-machine-power.md)** · 별칭: 기계력 아키텍처, 지속형 지식 압착 아키텍처 · 수정: 2026-11-25 · 검토: 장기 연구 허브·Knowledge Press v0.1 파일럿 설계
+  - 지속적으로 공급되는 기계력을 인간의 이해로 변환하는 다층 지식 상태와 개념 순환, 연구 연산의 배분, 독서 비용, 실제 실험 및 API 이행을 연구한다.
+  - [문서 페이지](https://belorin.github.io/notes/knowledge-press-machine-power/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/knowledge-press-machine-power.md)
 
 ## 생명과학
 
