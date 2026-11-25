@@ -7533,7 +7533,10 @@
         "agent-commons-self-evolution-memory",
         "ai-agent-knowledge-ecology",
         "korea-household-consumption-divergence-2026",
-        "korea-bottom-economy-2026"
+        "korea-bottom-economy-2026",
+        "world-report-evidence",
+        "world-report-concepts",
+        "world-report-reading"
       ],
       "aliases": [
         "문헌 기반 발견 시스템",
@@ -7640,6 +7643,90 @@
       ],
       "review_state": "needs_review",
       "last_enriched_on": null
+    },
+    {
+      "id": "world-report-evidence",
+      "path": "wiki/world-report-evidence.md",
+      "publish": true,
+      "order": 229,
+      "title": "세계 보고서 교차 탐사: 근거 원고",
+      "category": "정치경제",
+      "status": "세계 보고서 지식 압착 실험·초기판",
+      "updated": "2026-11-25",
+      "summary": "공식 보고서에서 확인된 금융·사회보장·보건 등 근거와 비교의 경계.",
+      "tags": [
+        "세계 보고서",
+        "국제기구",
+        "지식 압착",
+        "교차 발견"
+      ],
+      "source": "세계은행 IDR 2026 공식 발표문, ILO 사회보장보고서 2024–26 요약, WHO·세계은행 UHC 2025 공식 발표문. 개념 결합은 미검증 연구 가설.",
+      "related": [
+        "world-report-concepts",
+        "world-report-reading",
+        "cross-institutional-report-discovery"
+      ],
+      "aliases": [
+        "세계 보고서 근거"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-25"
+    },
+    {
+      "id": "world-report-concepts",
+      "path": "wiki/world-report-concepts.md",
+      "publish": true,
+      "order": 230,
+      "title": "세계 보고서: 개념 압축과 교차 발견",
+      "category": "정치경제",
+      "status": "세계 보고서 지식 압착 실험·초기판",
+      "updated": "2026-11-25",
+      "summary": "서로 다른 보고서의 관측을 압축하고 교차 결합하여 설명과 가설을 형성하는 연구 공간.",
+      "tags": [
+        "세계 보고서",
+        "국제기구",
+        "지식 압착",
+        "교차 발견"
+      ],
+      "source": "세계은행 IDR 2026 공식 발표문, ILO 사회보장보고서 2024–26 요약, WHO·세계은행 UHC 2025 공식 발표문. 개념 결합은 미검증 연구 가설.",
+      "related": [
+        "world-report-evidence",
+        "world-report-reading",
+        "cross-institutional-report-discovery"
+      ],
+      "aliases": [
+        "세계 보고서 개념 지도"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-25"
+    },
+    {
+      "id": "world-report-reading",
+      "path": "wiki/world-report-reading.md",
+      "publish": true,
+      "order": 231,
+      "title": "세계를 다시 읽다 — 보고서 사이에서 발견한 것",
+      "category": "정치경제",
+      "status": "세계 보고서 지식 압착 실험·초기판",
+      "updated": "2026-11-25",
+      "summary": "국제기구 보고서들의 교차점에서 세계에 대한 새로운 이해를 형성하는 독서용 원고.",
+      "tags": [
+        "세계 보고서",
+        "국제기구",
+        "지식 압착",
+        "교차 발견"
+      ],
+      "source": "세계은행 IDR 2026 공식 발표문, ILO 사회보장보고서 2024–26 요약, WHO·세계은행 UHC 2025 공식 발표문. 개념 결합은 미검증 연구 가설.",
+      "related": [
+        "world-report-evidence",
+        "world-report-concepts",
+        "cross-institutional-report-discovery"
+      ],
+      "aliases": [
+        "세계 보고서 독서본"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-25"
     }
   ]
 }
