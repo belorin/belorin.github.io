@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `world-report-evidence` · 분류: 정치경제 · 공개 · 원고: [wiki/world-report-evidence.md](../../../wiki/world-report-evidence.md) · 1,967자 · 절 4개
+- id: `world-report-evidence` · 분류: 정치경제 · 공개 · 원고: [wiki/world-report-evidence.md](../../../wiki/world-report-evidence.md) · 2,906자 · 절 5개
 - 별칭: 세계 보고서 근거
 - 요약: 공식 보고서에서 확인된 금융·사회보장·보건 등 근거와 비교의 경계.
 - 태그: 세계 보고서, 국제기구, 지식 압착, 교차 발견
@@ -17,7 +17,8 @@
 - E01. 국제금융의 재개와 자금의 가격 · L5–9 · 459자 · `a02bc139` — 세계은행, International Debt Report 2026.
 - E02. 기후위험과 사회보장의 역분포 · L11–15 · 442자 · `672b58f9` — ILO, World Social Protection Report 2024–26.
 - E03. 보건서비스의 확대와 비용 부담 · L17–21 · 574자 · `d53348ac` — WHO·세계은행, Tracking Universal Health Coverage: 2025 Global Monitoring Report.
-- 교차 비교의 경계 · L23–25 · 236자 · `d820cf2c` — E01은 채무자 국가 집계, E02는 인구가중 사회보장 추정치, E03은 보건서비스·가계비용의 세계 추정치다.
+- E04. 열량과 건강한 식단의 가격 · L23–27 · 913자 · `4c1e6d43` — FAO 등 유엔 5개 기관, The State of Food Security and Nutrition in the World 2026.
+- 교차 비교의 경계 · L29–31 · 236자 · `d820cf2c` — E01은 채무자 국가 집계, E02는 인구가중 사회보장 추정치, E03은 보건서비스·가계비용의 세계 추정치다.
 
 ## 장부에 기록된 반영 지식
 
