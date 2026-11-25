@@ -4,7 +4,7 @@
 > 사용 순서: ① 채팅에서 추출한 지식 항목마다 제목·별칭으로 후보를 찾는다 → ② 후보의 문서 카드 `editorial/map/docs/<id>.md`에서 절 목차와 장부 기록을 본다 → ③ 해당 절 본문을 읽고 대조한다. 전문으로 넓히는 조건은 WIKI_PROTOCOL §4를 따른다.
 > 지도와 카드는 후보를 찾는 도구일 뿐이다. 중복·반영 여부는 원고 본문을 읽고 판정한다.
 
-원고 227개 (미게시 2, 소설 2편 포함) · 종합 2편 · AI의 글 1편 · 절 2,612개 · 장부 지식 항목 1573개
+원고 230개 (미게시 2, 소설 2편 포함) · 종합 2편 · AI의 글 1편 · 절 2,625개 · 장부 지식 항목 1573개
 
 특정 논점이 이미 처리되었는지는 [지식 표제 역색인](knowledge.md)에서 낱말로 **검색**한다(통째로 읽지 않는다). 장부가 없는 원고는 문서 카드의 절 목차로 찾는다.
 
@@ -26,13 +26,13 @@
 
 `burning-man-community` · `global-festival-streaming` · `burning-man-institutions` · `burning-man-regional-network` · `sumer-bible-primeval-history` · `war-escalation-local-to-world` · `hate-escalation-brakes-history` · `gwangju-building-art-network` · `ancient-philosophy-beyond-greece` · `dreyfus-affair-intellectuals` · `world-crisis-historical-analogies` · `venice-biennale-history` · `venice-biennale-sites-pavilions` · `venice-biennale-2026-critical-reception` · `jewish-messianic-claimants-kabbalah` · `luddite-movement-history` · `luddite-executions-memory` · `late-qing-yongying-daily-life` · `qing-tributaries-dissolution` · `ryukyu-disposition-qing-japan` · `roman-industry-gold-standard-history` · `great-depression-lived-experience-literature` · `satanic-panic-english-speaking-history` · `babylon-hymn-digital-reconstruction-2026` · `venice-biennale-autumn-criticism-2026`
 
+## 정치경제 (18) → [분류 지도](categories/%EC%A0%95%EC%B9%98%EA%B2%BD%EC%A0%9C.md)
+
+`critical-optimism-fragile-order` · `state-hollowing-index` · `state-hollowing-country-pilot` · `money-credit-seigniorage-critique` · `emmanuel-todd-western-defeat` · `housing-busts-global-korea` · `korea-household-consumption-divergence-2026` · `todd-dislocation-2026` · `todd-budapest-2025-reading` · `todd-dislocation-threats-2025-reading` · `todd-world-war-interview-2026-reading` · `todd-asahi-2026-reading` · `korea-bottom-economy-2026` · `korea-bottom-economy-concept-compression` · `korea-bottom-economy-reading` · `world-report-evidence` · `world-report-concepts` · `world-report-reading`
+
 ## 철학 (17) → [분류 지도](categories/%EC%B2%A0%ED%95%99.md)
 
 `deleuze-becoming-new` · `deleuze-cartography-future` · `post-deleuze-novelty-thinkers` · `deleuze-negation-history` · `deleuze-control-marx-future` · `contemporary-governing-philosophies` · `chiikawa-philosophy` · `deleuze-number-intensity-spatium` · `hegel-fichte-schelling-difference` · `deleuze-unthinkable-fold-thought` · `freud-before-anti-oedipus` · `deleuze-thermodynamics-implication-equilibrium` · `human-authorship-creator-preference` · `taste-calculator-foundations` · `taste-calculator-adapter` · `mathematical-theory-of-taste` · `taste-calculator-style-algebra`
-
-## 정치경제 (15) → [분류 지도](categories/%EC%A0%95%EC%B9%98%EA%B2%BD%EC%A0%9C.md)
-
-`critical-optimism-fragile-order` · `state-hollowing-index` · `state-hollowing-country-pilot` · `money-credit-seigniorage-critique` · `emmanuel-todd-western-defeat` · `housing-busts-global-korea` · `korea-household-consumption-divergence-2026` · `todd-dislocation-2026` · `todd-budapest-2025-reading` · `todd-dislocation-threats-2025-reading` · `todd-world-war-interview-2026-reading` · `todd-asahi-2026-reading` · `korea-bottom-economy-2026` · `korea-bottom-economy-concept-compression` · `korea-bottom-economy-reading`
 
 ## 과학과 기술 (13) → [분류 지도](categories/%EA%B3%BC%ED%95%99%EA%B3%BC-%EA%B8%B0%EC%88%A0.md)
 

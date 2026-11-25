@@ -613,6 +613,15 @@
 - **[바닥경제 — 생활을 지속할 수 있는 시간](wiki/korea-bottom-economy-reading.md)** · 별칭: 바닥경제 독서본 · 수정: 2026-11-25 · 검토: 지식 압착 실험·독서용 살아 있는 원고·잠정 설명
   - 소득의 도착 시기, 고용의 지속성, 신용 접근성과 경제활동 이탈을 연결해 생활의 회복을 설명하는 독서용 원고.
   - [문서 페이지](https://belorin.github.io/notes/korea-bottom-economy-reading/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-bottom-economy-reading.md)
+- **[세계 보고서 교차 탐사: 근거 원고](wiki/world-report-evidence.md)** · 별칭: 세계 보고서 근거 · 수정: 2026-11-25 · 검토: 세계 보고서 지식 압착 실험·초기판
+  - 공식 보고서에서 확인된 금융·사회보장·보건 등 근거와 비교의 경계.
+  - [문서 페이지](https://belorin.github.io/notes/world-report-evidence/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-report-evidence.md)
+- **[세계 보고서: 개념 압축과 교차 발견](wiki/world-report-concepts.md)** · 별칭: 세계 보고서 개념 지도 · 수정: 2026-11-25 · 검토: 세계 보고서 지식 압착 실험·초기판
+  - 서로 다른 보고서의 관측을 압축하고 교차 결합하여 설명과 가설을 형성하는 연구 공간.
+  - [문서 페이지](https://belorin.github.io/notes/world-report-concepts/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-report-concepts.md)
+- **[세계를 다시 읽다 — 보고서 사이에서 발견한 것](wiki/world-report-reading.md)** · 별칭: 세계 보고서 독서본 · 수정: 2026-11-25 · 검토: 세계 보고서 지식 압착 실험·초기판
+  - 국제기구 보고서들의 교차점에서 세계에 대한 새로운 이해를 형성하는 독서용 원고.
+  - [문서 페이지](https://belorin.github.io/notes/world-report-reading/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-report-reading.md)
 
 ## 기술·지식 아카이브
 

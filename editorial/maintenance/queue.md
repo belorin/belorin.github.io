@@ -4,13 +4,13 @@
 
 마지막 정비: **M002** (2026-11-23) · [보고서](reports/M002.md) · 다음 정비 버전: **M003**
 
-원고 230개 · 변경 문서 9 · 고립 22 · 한쪽 연결 127 · 보류 33 · 열린 교차 제안 8
+원고 233개 · 변경 문서 12 · 고립 22 · 한쪽 연결 127 · 보류 33 · 열린 교차 제안 8
 
-## 1. 지난 정비 이후 변경된 문서 (9)
+## 1. 지난 정비 이후 변경된 문서 (12)
 
 manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
-- **정치경제** (6): `emmanuel-todd-western-defeat`, `housing-busts-global-korea`, `korea-household-consumption-divergence-2026`, `korea-bottom-economy-2026`, `korea-bottom-economy-concept-compression`, `korea-bottom-economy-reading`
+- **정치경제** (9): `emmanuel-todd-western-defeat`, `housing-busts-global-korea`, `korea-household-consumption-divergence-2026`, `korea-bottom-economy-2026`, `korea-bottom-economy-concept-compression`, `korea-bottom-economy-reading`, `world-report-evidence`, `world-report-concepts`, `world-report-reading`
 - **기술·지식 아카이브** (1): `cross-institutional-report-discovery`
 - **미분류** (1): `circus-music-history`
 - **AI와 사회** (1): `ai-youth-hiring-productivity-evidence-2026`
@@ -203,6 +203,7 @@ manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 
 - `physical-cloud-reading-guide` ↔ `gpi-foreign-novels-2015-2025` · 0.22
 - `taste-calculator-foundations` ↔ `taste-calculator-style-algebra` · 0.21 · 연결됨
 - `taste-calculator-adapter` ↔ `taste-calculator-style-algebra` · 0.20 · 연결됨
+- `korea-bottom-economy-concept-compression` ↔ `world-report-concepts` · 0.19
 - `taste-calculator-foundations` ↔ `taste-calculator-adapter` · 0.19 · 연결됨
 - `physical-cloud-reading-guide` ↔ `global-south-critical-reading-guide` · 0.19
 - `taste-calculator-foundations` ↔ `mathematical-theory-of-taste` · 0.18 · 연결됨
@@ -211,7 +212,6 @@ manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 
 - `agent-commons-self-evolution-memory` ↔ `agent-commons-cryostasis-continuity` · 0.16 · 연결됨
 - `global-south-critical-reading-guide` ↔ `gpi-foreign-novels-2015-2025` · 0.16
 - `anne-carson-nobel-first-reactions` ↔ `physical-cloud-reading-guide` · 0.15
-- `korea-bottom-economy-concept-compression` ↔ `korea-bottom-economy-reading` · 0.15 · 연결됨
 
 ## 6. 보류 항목 (33)
 
@@ -267,9 +267,9 @@ manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
 - 긴 문서 (29): `cross-institutional-report-discovery` 113,038자, `korea-bottom-economy-2026` 30,460자, `taste-calculator-style-algebra` 17,367자, `taste-calculator-foundations` 16,451자, `wiki-building-history` 16,428자, `upbit-small-capital-trading-experiment` 14,973자, `taste-calculator-adapter` 14,282자, `ai-capital-labor-distribution` 13,156자, `agent-commons-self-evolution-memory` 12,816자, `great-depression-lived-experience-literature` 12,392자, `housing-busts-global-korea` 12,187자, `wiki-operations-pipeline` 12,147자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `agent-mind-design` 11,750자, `mathematical-theory-of-taste` 11,631자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `living-orchestral-listening-journey` 10,782자, `book-translation-pipeline-local-llm` 10,701자, `starcraft-pluto-ai` 10,465자, `agent-commons-formation-history` 10,396자, `korea-dance-musical-tours` 10,337자, `wto-digital-transmission-moratorium` 10,289자, `ai-economic-transition` 10,205자, `great-northern-telegraph-east-asia` 10,147자, `where-novelty-comes-from` 10,125자, `satanic-panic-court-inquiries` 10,082자, `stalking-harm-and-autonomy` 10,033자
-- 짧은 문서 (2): `stump-and-dream-fragment` 861자, `deleuze-cartography-future` 1,291자
+- 짧은 문서 (3): `stump-and-dream-fragment` 861자, `deleuze-cartography-future` 1,291자, `world-report-reading` 1,475자
 
 ## 9. 분류 참고
 
-분류 26개: AI와 사회 41, 음악 38, 사회와 제도 28, 문화와 역사 25, 철학 17, 정치경제 15, 과학과 기술 13, 기술·지식 아카이브 8, 운영 5, 독서 문화 4, 문학 4, 자연과 과학 4, 영화 3, 문화 3, 생명과학 3, 철학·사상사 3, 정보와 미디어 3, 게임 3, 종합 2, 소설 2, 질문 1, 미분류 1, 언어 1, 창작 1, 철학·심리 1, AI의 글 1
+분류 26개: AI와 사회 41, 음악 38, 사회와 제도 28, 문화와 역사 25, 정치경제 18, 철학 17, 과학과 기술 13, 기술·지식 아카이브 8, 운영 5, 독서 문화 4, 문학 4, 자연과 과학 4, 영화 3, 문화 3, 생명과학 3, 철학·사상사 3, 정보와 미디어 3, 게임 3, 종합 2, 소설 2, 질문 1, 미분류 1, 언어 1, 창작 1, 철학·심리 1, AI의 글 1
 문서가 하나뿐인 분류 6개: 질문, 미분류, 언어, 창작, 철학·심리, AI의 글. 분류 체계 변경은 제안만 한다.

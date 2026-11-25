@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 227,
+  "document_count": 230,
   "documents": [
     {
       "id": "living-notes",
@@ -7914,7 +7914,10 @@
         "agent-commons-self-evolution-memory",
         "ai-agent-knowledge-ecology",
         "korea-household-consumption-divergence-2026",
-        "korea-bottom-economy-2026"
+        "korea-bottom-economy-2026",
+        "world-report-evidence",
+        "world-report-concepts",
+        "world-report-reading"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/cross-institutional-report-discovery.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/cross-institutional-report-discovery.md",
@@ -8021,6 +8024,96 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/korea-bottom-economy-reading.md",
       "page_url": "https://belorin.github.io/notes/korea-bottom-economy-reading/",
       "app_url": "https://belorin.github.io/#korea-bottom-economy-reading"
+    },
+    {
+      "id": "world-report-evidence",
+      "title": "세계 보고서 교차 탐사: 근거 원고",
+      "aliases": [
+        "세계 보고서 근거"
+      ],
+      "category": "정치경제",
+      "tags": [
+        "세계 보고서",
+        "국제기구",
+        "지식 압착",
+        "교차 발견"
+      ],
+      "summary": "공식 보고서에서 확인된 금융·사회보장·보건 등 근거와 비교의 경계.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "세계 보고서 지식 압착 실험·초기판",
+      "last_updated_on": "2026-11-25",
+      "last_enriched_on": "2026-11-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "world-report-concepts",
+        "world-report-reading",
+        "cross-institutional-report-discovery"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-report-evidence.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/world-report-evidence.md",
+      "page_url": "https://belorin.github.io/notes/world-report-evidence/",
+      "app_url": "https://belorin.github.io/#world-report-evidence"
+    },
+    {
+      "id": "world-report-concepts",
+      "title": "세계 보고서: 개념 압축과 교차 발견",
+      "aliases": [
+        "세계 보고서 개념 지도"
+      ],
+      "category": "정치경제",
+      "tags": [
+        "세계 보고서",
+        "국제기구",
+        "지식 압착",
+        "교차 발견"
+      ],
+      "summary": "서로 다른 보고서의 관측을 압축하고 교차 결합하여 설명과 가설을 형성하는 연구 공간.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "세계 보고서 지식 압착 실험·초기판",
+      "last_updated_on": "2026-11-25",
+      "last_enriched_on": "2026-11-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "world-report-evidence",
+        "world-report-reading",
+        "cross-institutional-report-discovery"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-report-concepts.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/world-report-concepts.md",
+      "page_url": "https://belorin.github.io/notes/world-report-concepts/",
+      "app_url": "https://belorin.github.io/#world-report-concepts"
+    },
+    {
+      "id": "world-report-reading",
+      "title": "세계를 다시 읽다 — 보고서 사이에서 발견한 것",
+      "aliases": [
+        "세계 보고서 독서본"
+      ],
+      "category": "정치경제",
+      "tags": [
+        "세계 보고서",
+        "국제기구",
+        "지식 압착",
+        "교차 발견"
+      ],
+      "summary": "국제기구 보고서들의 교차점에서 세계에 대한 새로운 이해를 형성하는 독서용 원고.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "세계 보고서 지식 압착 실험·초기판",
+      "last_updated_on": "2026-11-25",
+      "last_enriched_on": "2026-11-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "world-report-evidence",
+        "world-report-concepts",
+        "cross-institutional-report-discovery"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/world-report-reading.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/world-report-reading.md",
+      "page_url": "https://belorin.github.io/notes/world-report-reading/",
+      "app_url": "https://belorin.github.io/#world-report-reading"
     }
   ]
 }

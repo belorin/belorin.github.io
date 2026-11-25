@@ -7,7 +7,7 @@
 - 요약: 세계은행·IMF·WHO·ILO·OECD와 한국 국책연구기관의 보고서를 교차 독해해 숨은 관계·불일치·연구 공백과 예측 실패를 발견하고, 가설의 검증·기각 이력을 축적하는 장기 문헌 탐사 체계. LBD 선행연구, AI 기억 기술, 국제·국내 프로젝트와 평가 기준을 함께 비교한다.
 - 태그: 국제기구 보고서, 문헌 기반 발견, LBD, 교차 문헌 분석, 국책연구, 장기 지식체계, AI 연구 자동화, 증거 종합, 지식베이스 진화
 - 수정일: 2026-11-23 · 실제 증보일: 2026-11-22 · 검토: needs_review
-- 관련 문서: `wiki-building-history`, `agent-commons-self-evolution-memory`, `ai-agent-knowledge-ecology`, `korea-household-consumption-divergence-2026`, `korea-bottom-economy-2026`
+- 관련 문서: `wiki-building-history`, `agent-commons-self-evolution-memory`, `ai-agent-knowledge-ecology`, `korea-household-consumption-divergence-2026`, `korea-bottom-economy-2026`, `world-report-evidence`, `world-report-concepts`, `world-report-reading`
 
 ## 절 목차
 

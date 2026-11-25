@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 851,
+  "edge_count": 863,
   "edges": [
     {
       "from": "living-notes",
@@ -4782,6 +4782,24 @@
       "basis": "manifest.related"
     },
     {
+      "from": "cross-institutional-report-discovery",
+      "to": "world-report-evidence",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "cross-institutional-report-discovery",
+      "to": "world-report-concepts",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "cross-institutional-report-discovery",
+      "to": "world-report-reading",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "korea-bottom-economy-2026",
       "to": "korea-household-consumption-divergence-2026",
       "type": "related_to",
@@ -4838,6 +4856,60 @@
     {
       "from": "korea-bottom-economy-reading",
       "to": "korea-bottom-economy-concept-compression",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-report-evidence",
+      "to": "world-report-concepts",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-report-evidence",
+      "to": "world-report-reading",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-report-evidence",
+      "to": "cross-institutional-report-discovery",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-report-concepts",
+      "to": "world-report-evidence",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-report-concepts",
+      "to": "world-report-reading",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-report-concepts",
+      "to": "cross-institutional-report-discovery",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-report-reading",
+      "to": "world-report-evidence",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-report-reading",
+      "to": "world-report-concepts",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "world-report-reading",
+      "to": "cross-institutional-report-discovery",
       "type": "related_to",
       "basis": "manifest.related"
     },
