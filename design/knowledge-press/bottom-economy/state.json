@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "project": "bottom-economy",
+  "phase": "pilot",
+  "revision": 0,
+  "limit": 20,
+  "paths": {
+    "evidence": "wiki/korea-bottom-economy-2026.md",
+    "concepts": "wiki/korea-bottom-economy-concept-compression.md",
+    "reading": "wiki/korea-bottom-economy-reading.md"
+  },
+  "current_question": "소득과 생산의 회복에도 생활 지속성이 약해지는 조건은 무엇이며, 금융 접근성과 지역 차이가 그 경로를 어떻게 바꾸는가?",
+  "current_thesis": "총량의 회복과 생활 지속성의 회복은 다르다. 소득의 도착 시기, 고용 연속성, 완충자산과 신용 접근성, 경제활동 진입 조건을 함께 보아야 한다.",
+  "recent": [],
+  "retired_ids": [],
+  "review": null,
+  "baseline": {
+    "concept_commit": "71d847cf59065df0587ebaf603aec740fe612711",
+    "note": "독서용 초판은 아키텍처 초기화 커밋에서 생성. 초기화 자체는 20회에 포함하지 않는다."
+  }
+}
