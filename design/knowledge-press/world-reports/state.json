@@ -2,15 +2,15 @@
   "schema": 1,
   "project": "world-reports",
   "phase": "pilot",
-  "revision": 3,
+  "revision": 4,
   "limit": 20,
   "paths": {
     "evidence": "wiki/world-report-evidence.md",
     "concepts": "wiki/world-report-concepts.md",
     "reading": "wiki/world-report-reading.md"
   },
-  "current_question": "지역 공동 충격에서 사전 확보된 재원과 위험 분산 범위가 실제 급여 지급 지속성을 높이는가?",
-  "current_thesis": "충격의 비용은 현재 지출·미래 상환·이용 포기로 이동할 수 있으며, 위험의 동시 발생과 재원 분산 범위가 보호의 지속성을 좌우할 수 있다는 가설이다.",
+  "current_question": "동일한 총지원액에서도 지급 지연과 가계의 자체 완충 여력에 따라 치료 포기·고비용 차입이 달라지는가?",
+  "current_thesis": "충격의 비용은 현재 지출·미래 상환·이용 포기로 이동할 수 있으며, 위험 분산 범위와 재원의 도착 시점이 보호의 지속성을 좌우할 수 있다는 가설이다.",
   "recent": [
     {
       "run": 1,
@@ -39,6 +39,17 @@
       "op": "combine",
       "external": false,
       "result": "기후 취약국의 보호 격차와 외부 조달비용을 결합해 동일한 급여 적용률도 위험의 동시 발생과 사전 확보된 재원에 따라 위기 시 지급 지속성이 달라질 수 있다는 가설을 도출했다.",
+      "changed": [
+        "wiki/world-report-concepts.md",
+        "wiki/world-report-reading.md"
+      ],
+      "outcome": "changed"
+    },
+    {
+      "run": 4,
+      "op": "synthesize",
+      "external": false,
+      "result": "위험 분산과 비용 이연·이용 포기를 총합해 같은 지원액도 돌이키기 어려운 손실 전에 도착하는지에 따라 보호 효과가 달라질 수 있다는 가설을 도출했다.",
       "changed": [
         "wiki/world-report-concepts.md",
         "wiki/world-report-reading.md"
