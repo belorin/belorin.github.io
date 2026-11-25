@@ -2,7 +2,7 @@
   "schema": 1,
   "project": "bottom-economy",
   "phase": "pilot",
-  "revision": 1,
+  "revision": 2,
   "limit": 20,
   "paths": {
     "evidence": "wiki/korea-bottom-economy-2026.md",
@@ -10,13 +10,24 @@
     "reading": "wiki/korea-bottom-economy-reading.md"
   },
   "current_question": "소득과 생산의 회복에도 생활 지속성이 약해지는 조건은 무엇이며, 금융 접근성과 지역 차이가 그 경로를 어떻게 바꾸는가?",
-  "current_thesis": "총량의 회복과 생활 지속성의 회복은 다르다. 소득의 도착 시기, 고용 연속성, 완충자산과 신용 접근성, 경제활동 진입 조건을 함께 보아야 한다. 신용 접근성은 현금 부족이 채무 또는 활동 축소로 나타나는 경로를 가를 수 있다.",
+  "current_thesis": "총량의 회복과 생활 지속성의 회복은 다르다. 소득의 도착 시기, 고용 연속성, 완충자산과 신용 접근성, 경제활동 진입 조건을 함께 보아야 한다. 신용 접근성은 현금 부족이 채무 또는 활동 축소로 나타나는 경로를 가를 수 있다. 소득 회복 이후에도 공백기의 채무와 완충자산 손실에 따라 생활 기반의 복구가 늦어질 수 있다.",
   "recent": [
     {
       "run": 1,
       "op": "combine",
       "external": false,
       "result": "시간의 부채화와 분모의 이탈을 결합하면 신용 접근성이 낮은 집단은 연체 증가보다 소비·활동 축소로 먼저 나타날 수 있어 연체율만으로 생활 지속성의 악화를 비교할 수 없다는 가설이 생긴다.",
+      "changed": [
+        "wiki/korea-bottom-economy-concept-compression.md",
+        "wiki/korea-bottom-economy-reading.md"
+      ],
+      "outcome": "changed"
+    },
+    {
+      "run": 2,
+      "op": "synthesize",
+      "external": false,
+      "result": "소득의 회복과 생활 기반의 복구 사이의 시차는 공백기 자금조달 방식과 이후 순현금흐름에 따라 달라질 수 있다.",
       "changed": [
         "wiki/korea-bottom-economy-concept-compression.md",
         "wiki/korea-bottom-economy-reading.md"
