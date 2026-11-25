@@ -2,15 +2,15 @@
   "schema": 1,
   "project": "world-reports",
   "phase": "pilot",
-  "revision": 4,
+  "revision": 5,
   "limit": 20,
   "paths": {
     "evidence": "wiki/world-report-evidence.md",
     "concepts": "wiki/world-report-concepts.md",
     "reading": "wiki/world-report-reading.md"
   },
-  "current_question": "동일한 총지원액에서도 지급 지연과 가계의 자체 완충 여력에 따라 치료 포기·고비용 차입이 달라지는가?",
-  "current_thesis": "충격의 비용은 현재 지출·미래 상환·이용 포기로 이동할 수 있으며, 위험 분산 범위와 재원의 도착 시점이 보호의 지속성을 좌우할 수 있다는 가설이다.",
+  "current_question": "식품 가격이나 소득 충격 뒤 식사량이 유지되는 가구에서도 식단 다양성과 영양 적정성이 악화되는가?",
+  "current_thesis": "충격의 비용은 현재 지출·미래 상환·이용 포기로 이동할 수 있으며, 위험 분산 범위와 재원의 도착 시점이 보호의 지속성을 좌우할 수 있다는 가설이다. 식량에서는 이용 포기뿐 아니라 소비의 질 저하가 비용을 은폐할 수 있다는 전이 가설을 추가한다.",
   "recent": [
     {
       "run": 1,
@@ -50,6 +50,17 @@
       "op": "synthesize",
       "external": false,
       "result": "위험 분산과 비용 이연·이용 포기를 총합해 같은 지원액도 돌이키기 어려운 손실 전에 도착하는지에 따라 보호 효과가 달라질 수 있다는 가설을 도출했다.",
+      "changed": [
+        "wiki/world-report-concepts.md",
+        "wiki/world-report-reading.md"
+      ],
+      "outcome": "changed"
+    },
+    {
+      "run": 5,
+      "op": "transfer",
+      "external": false,
+      "result": "보건의 이용 포기와 비용 이연을 식량으로 전이해, 식사 횟수와 식비가 유지되어도 영양의 질을 낮추는 방식으로 충격이 은폐될 수 있다는 판별 가설을 도출했다.",
       "changed": [
         "wiki/world-report-concepts.md",
         "wiki/world-report-reading.md"
