@@ -7,7 +7,7 @@
 - 요약: 금융시장의 변동과 수출 성장, 실물 생산·고용·소비·가계생활 사이의 시차와 분배를 2026년 월별·분기별로 추적하며 한국의 생활경제를 한 권의 책으로 집필한다.
 - 태그: 2026 한국경제, 바닥경제, 실물경제, 가계생활, 금융시장, 체감경기, 지역경제, 경제사
 - 수정일: 2026-11-24 · 실제 증보일: 2026-11-24 · 검토: needs_review
-- 관련 문서: `korea-household-consumption-divergence-2026`, `housing-busts-global-korea`, `ai-youth-hiring-productivity-evidence-2026`, `cross-institutional-report-discovery`
+- 관련 문서: `korea-household-consumption-divergence-2026`, `housing-busts-global-korea`, `ai-youth-hiring-productivity-evidence-2026`, `cross-institutional-report-discovery`, `korea-bottom-economy-reading`, `korea-bottom-economy-concept-compression`
 
 ## 절 목차
 

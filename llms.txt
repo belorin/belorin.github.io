@@ -250,6 +250,7 @@
 - [상상적 민족주의와 일본의 선택: 토드의 2026년 아사히신문 인터뷰 한국어 독해](https://belorin.github.io/notes/todd-asahi-2026-reading/): 일본의 주권·대중국 정책·대만, 한국·일본·중국의 인구 감소와 생산 능력에 관한 인터뷰를 해설하고 한국의 미제시 과제를 구분한다.
 - [2026, 바닥의 경제: 금융의 시간과 생활의 시간](https://belorin.github.io/notes/korea-bottom-economy-2026/): 금융시장의 변동과 수출 성장, 실물 생산·고용·소비·가계생활 사이의 시차와 분배를 2026년 월별·분기별로 추적하며 한국의 생활경제를 한 권의 책으로 집필한다.
 - [바닥경제: 개념 압축과 순환](https://belorin.github.io/notes/korea-bottom-economy-concept-compression/): 2026년 바닥경제 원고의 조사 단위를 13개 문장과 네 문단으로 압축하고, 회전형 불황·시간의 부채화·분모의 이탈·성장의 이중 선별이라는 교차 가설을 구성한다.
+- [바닥경제 — 생활을 지속할 수 있는 시간](https://belorin.github.io/notes/korea-bottom-economy-reading/): 소득의 도착 시기, 고용의 지속성, 신용 접근성과 경제활동 이탈을 연결해 생활의 회복을 설명하는 독서용 원고.
 
 ### 기술·지식 아카이브
 

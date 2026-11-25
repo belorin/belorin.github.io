@@ -4,18 +4,18 @@
 
 마지막 정비: **M002** (2026-11-23) · [보고서](reports/M002.md) · 다음 정비 버전: **M003**
 
-원고 229개 · 변경 문서 8 · 고립 23 · 한쪽 연결 128 · 보류 33 · 열린 교차 제안 8
+원고 230개 · 변경 문서 9 · 고립 22 · 한쪽 연결 127 · 보류 33 · 열린 교차 제안 8
 
-## 1. 지난 정비 이후 변경된 문서 (8)
+## 1. 지난 정비 이후 변경된 문서 (9)
 
 manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
-- **정치경제** (5): `emmanuel-todd-western-defeat`, `housing-busts-global-korea`, `korea-household-consumption-divergence-2026`, `korea-bottom-economy-2026`, `korea-bottom-economy-concept-compression`
+- **정치경제** (6): `emmanuel-todd-western-defeat`, `housing-busts-global-korea`, `korea-household-consumption-divergence-2026`, `korea-bottom-economy-2026`, `korea-bottom-economy-concept-compression`, `korea-bottom-economy-reading`
 - **기술·지식 아카이브** (1): `cross-institutional-report-discovery`
 - **미분류** (1): `circus-music-history`
 - **AI와 사회** (1): `ai-youth-hiring-productivity-evidence-2026`
 
-## 2. 들어오는 연결이 없는 문서 (23)
+## 2. 들어오는 연결이 없는 문서 (22)
 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
@@ -41,9 +41,8 @@ manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 
 - `climate-salvation-calculus-essay` 구원의 계산은 무엇을 변수로 삼는가 · 미게시
 - `swimming-bird-flight-biomechanics` 물속의 인간과 공중의 새: 스트로크·날갯짓·가속·선회의 비례 생체역학
 - `gwangju-bus-transfer-guide` 광주 버스, 어디서 갈아탈까? AI에 물어보는 길찾기 안내
-- `korea-bottom-economy-concept-compression` 바닥경제: 개념 압축과 순환
 
-## 3. 한쪽에서만 건 관련 문서 (128)
+## 3. 한쪽에서만 건 관련 문서 (127)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -174,7 +173,6 @@ manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 
 - `agent-commons-self-evolution-memory` → `agent-commons-formation-history`
 - `agent-commons-self-evolution-memory` → `wiki-operations-pipeline`
 - `agent-commons-tools-as-objects` → `agent-commons-formation-history`
-- `korea-bottom-economy-concept-compression` → `korea-bottom-economy-2026`
 
 ## 4. 관련 문서가 없는 문서 (16)
 
@@ -213,7 +211,7 @@ manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 
 - `agent-commons-self-evolution-memory` ↔ `agent-commons-cryostasis-continuity` · 0.16 · 연결됨
 - `global-south-critical-reading-guide` ↔ `gpi-foreign-novels-2015-2025` · 0.16
 - `anne-carson-nobel-first-reactions` ↔ `physical-cloud-reading-guide` · 0.15
-- `todd-dislocation-2026` ↔ `todd-dislocation-threats-2025-reading` · 0.15 · 연결됨
+- `korea-bottom-economy-concept-compression` ↔ `korea-bottom-economy-reading` · 0.15 · 연결됨
 
 ## 6. 보류 항목 (33)
 
@@ -273,5 +271,5 @@ manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 
 
 ## 9. 분류 참고
 
-분류 26개: AI와 사회 41, 음악 38, 사회와 제도 28, 문화와 역사 25, 철학 17, 정치경제 14, 과학과 기술 13, 기술·지식 아카이브 8, 운영 5, 독서 문화 4, 문학 4, 자연과 과학 4, 영화 3, 문화 3, 생명과학 3, 철학·사상사 3, 정보와 미디어 3, 게임 3, 종합 2, 소설 2, 질문 1, 미분류 1, 언어 1, 창작 1, 철학·심리 1, AI의 글 1
+분류 26개: AI와 사회 41, 음악 38, 사회와 제도 28, 문화와 역사 25, 철학 17, 정치경제 15, 과학과 기술 13, 기술·지식 아카이브 8, 운영 5, 독서 문화 4, 문학 4, 자연과 과학 4, 영화 3, 문화 3, 생명과학 3, 철학·사상사 3, 정보와 미디어 3, 게임 3, 종합 2, 소설 2, 질문 1, 미분류 1, 언어 1, 창작 1, 철학·심리 1, AI의 글 1
 문서가 하나뿐인 분류 6개: 질문, 미분류, 언어, 창작, 철학·심리, AI의 글. 분류 체계 변경은 제안만 한다.

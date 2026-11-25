@@ -610,6 +610,9 @@
 - **[바닥경제: 개념 압축과 순환](wiki/korea-bottom-economy-concept-compression.md)** · 별칭: 바닥경제 개념 압축, 바닥경제 개념 체인 · 수정: 2026-11-25 · 검토: 개념 압축 연구 작업문서·교차 가설·검증 전
   - 2026년 바닥경제 원고의 조사 단위를 13개 문장과 네 문단으로 압축하고, 회전형 불황·시간의 부채화·분모의 이탈·성장의 이중 선별이라는 교차 가설을 구성한다.
   - [문서 페이지](https://belorin.github.io/notes/korea-bottom-economy-concept-compression/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-bottom-economy-concept-compression.md)
+- **[바닥경제 — 생활을 지속할 수 있는 시간](wiki/korea-bottom-economy-reading.md)** · 별칭: 바닥경제 독서본 · 수정: 2026-11-25 · 검토: 지식 압착 실험·독서용 살아 있는 원고·잠정 설명
+  - 소득의 도착 시기, 고용의 지속성, 신용 접근성과 경제활동 이탈을 연결해 생활의 회복을 설명하는 독서용 원고.
+  - [문서 페이지](https://belorin.github.io/notes/korea-bottom-economy-reading/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-bottom-economy-reading.md)
 
 ## 기술·지식 아카이브
 
