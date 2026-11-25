@@ -2,21 +2,32 @@
   "schema": 1,
   "project": "world-reports",
   "phase": "pilot",
-  "revision": 1,
+  "revision": 2,
   "limit": 20,
   "paths": {
     "evidence": "wiki/world-report-evidence.md",
     "concepts": "wiki/world-report-concepts.md",
     "reading": "wiki/world-report-reading.md"
   },
-  "current_question": "충격 직후 생활 유지가 실제 회복인지 비용 이연인지 어떤 장기 관측으로 구별할 수 있는가?",
-  "current_thesis": "접근과 감당 능력뿐 아니라 현재의 충격 완충과 미래로의 비용 이연을 구별해야 한다. 차입의 효과는 이후 소득·위험·상환 부담의 경로에 달려 있다는 가설이다.",
+  "current_question": "재정 곤란 감소가 실제 보호 개선인지 필요한 서비스 이용 포기인지 동일 집단의 미충족 수요로 구별할 수 있는가?",
+  "current_thesis": "충격의 비용은 현재 지출, 미래 상환 부담뿐 아니라 이용 포기에 따른 건강·생활 손실로도 이동할 수 있다는 가설이다.",
   "recent": [
     {
       "run": 1,
       "op": "combine",
       "external": false,
       "result": "접근과 비용의 분리 및 충격 완충을 결합해 동일한 초기 회복도 미래 상환 부담과 소득 회복에 따라 실제 완충 또는 비용 이연으로 갈릴 수 있다는 예측을 도출했다.",
+      "changed": [
+        "wiki/world-report-concepts.md",
+        "wiki/world-report-reading.md"
+      ],
+      "outcome": "changed"
+    },
+    {
+      "run": 2,
+      "op": "challenge",
+      "external": false,
+      "result": "비용 이연 설명의 반례인 치료 포기를 검토해 재정 곤란 감소가 실질 보호 개선인지 판별하려면 미충족 수요를 함께 관측해야 한다는 가설을 도출했다.",
       "changed": [
         "wiki/world-report-concepts.md",
         "wiki/world-report-reading.md"
