@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 225,
+  "document_count": 226,
   "documents": [
     {
       "id": "living-notes",
@@ -7958,6 +7958,37 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/korea-bottom-economy-2026.md",
       "page_url": "https://belorin.github.io/notes/korea-bottom-economy-2026/",
       "app_url": "https://belorin.github.io/#korea-bottom-economy-2026"
+    },
+    {
+      "id": "korea-bottom-economy-concept-compression",
+      "title": "바닥경제: 개념 압축과 순환",
+      "aliases": [
+        "바닥경제 개념 압축",
+        "바닥경제 개념 체인"
+      ],
+      "category": "정치경제",
+      "tags": [
+        "바닥경제",
+        "개념 압축",
+        "개념 순환",
+        "노동시장",
+        "생활경제",
+        "경제적 지속성"
+      ],
+      "summary": "2026년 바닥경제 원고의 조사 단위를 13개 문장과 네 문단으로 압축하고, 회전형 불황·시간의 부채화·분모의 이탈·성장의 이중 선별이라는 교차 가설을 구성한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "개념 압축 연구 작업문서·교차 가설·검증 전",
+      "last_updated_on": "2026-11-25",
+      "last_enriched_on": "2026-11-25",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "korea-bottom-economy-2026"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/korea-bottom-economy-concept-compression.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/korea-bottom-economy-concept-compression.md",
+      "page_url": "https://belorin.github.io/notes/korea-bottom-economy-concept-compression/",
+      "app_url": "https://belorin.github.io/#korea-bottom-economy-concept-compression"
     }
   ]
 }

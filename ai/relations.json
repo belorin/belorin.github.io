@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 845,
+  "edge_count": 846,
   "edges": [
     {
       "from": "living-notes",
@@ -4802,6 +4802,12 @@
     {
       "from": "korea-bottom-economy-2026",
       "to": "cross-institutional-report-discovery",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "korea-bottom-economy-concept-compression",
+      "to": "korea-bottom-economy-2026",
       "type": "related_to",
       "basis": "manifest.related"
     },
