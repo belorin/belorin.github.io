@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "project": "world-reports",
+  "phase": "pilot",
+  "revision": 0,
+  "limit": 20,
+  "paths": {
+    "evidence": "wiki/world-report-evidence.md",
+    "concepts": "wiki/world-report-concepts.md",
+    "reading": "wiki/world-report-reading.md"
+  },
+  "current_question": "금융·보건·사회보장·기후 보고서의 관측을 교차할 때 충격 완충능력의 차이는 어디에서 발생하는가? 다른 영역에는 어떤 예외와 독립적 발견이 있는가?",
+  "current_thesis": "자원에 접근할 수 있는 기회와 그 비용을 감당하며 충격 후 생활을 유지할 능력은 별개의 발전 차원일 수 있다. 국가별 인과 연결은 아직 미검증이다.",
+  "recent": [],
+  "retired_ids": [],
+  "review": null,
+  "baseline": {
+    "date": "2026-11-25",
+    "note": "E01–E03 및 독서용 시작판을 초기화. 초기화는 20회에 포함하지 않는다."
+  }
+}
