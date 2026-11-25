@@ -20,6 +20,12 @@ WHO·세계은행, Tracking Universal Health Coverage: 2025 Global Monitoring Re
 
 서비스 보장지수는 2000년 54에서 2023년 71로 상승했다. 본인부담 의료비에 따른 재정 곤란 비중은 2000년 34%에서 2022년 26%로 감소했지만 약 21억 명에게 여전히 해당했다. 두 지표 모두 2025년 개정 정의를 적용한 시계열이다. 같은 연도의 동일 분모를 이용한 비교가 아니다. 서비스의 가용성과 비용을 감당할 능력을 구분해야 한다. WHO와 세계은행 공동 저술이므로 E01과 기관 독립성이 완전하다고 간주하지 않는다.
 
+## E04. 열량과 건강한 식단의 가격
+
+FAO 등 유엔 5개 기관, The State of Food Security and Nutrition in the World 2026. [공식 발표문, 2026-07-21](https://www.fao.org/newsroom/detail/un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist) · [FAO 공식 설명](https://www.fao.org/new-york/fao-statements/detail/fao-statement-at-hlpf-special-event-on-the-state-of-food-security-and-nutrition-in-the-world-2026--understanding-and-addressing-the-high-cost-of-a-healthy-diet/en).
+
+2026년판의 2021~2025년 추정에서 건강한 식단의 세계 평균 최소 비용은 하루 3.44에서 4.28 PPP달러로 상승했지만 이를 감당하지 못하는 인구 비중은 37.4%에서 32.7%로 하락했다. 2025년 아프리카에서는 66.6%였다. 같은 해 세계 기아 추정 비율은 7.8%였다. 건강한 식단 비용은 현지에서 구할 수 있는 식품으로 에너지와 영양 요건을 충족하는 최소 지출의 추정치이며 실제 구매액이나 섭취량이 아니다. FAO는 주식의 열량 기여에 비해 비용 비중이 낮고 영양이 풍부한 식품의 비용 비중이 높다고 설명한다. 가격 상승만으로 구매 가능성 악화를 추론할 수 없으며, 기아와 식단 구매 불능의 집계 차이로 개인별 중첩을 계산할 수도 없다. 확인 범위는 공식 발표와 설명이며 전문은 미열람이다. 세계은행과 공동 개발한 식단 비용 지표이므로 E01·E03과 기관 독립성을 과대평가하지 않는다.
+
 ## 교차 비교의 경계
 
 E01은 채무자 국가 집계, E02는 인구가중 사회보장 추정치, E03은 보건서비스·가계비용의 세계 추정치다. 국가별 시계열을 연결하기 전에는 부채비용 상승이 실제로 사회보장 또는 보건지출을 축소시켰다고 말할 수 없다. 국가별 세수, 국내채무, 양허성 자금, 재정 우선순위, 인구구성과 충격의 크기가 경쟁 설명이다. [개념 지도](./world-report-concepts.md)에는 이 자료에서 나온 가설을 별도로 둔다.
