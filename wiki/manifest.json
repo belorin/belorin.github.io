@@ -7571,7 +7571,9 @@
         "korea-household-consumption-divergence-2026",
         "housing-busts-global-korea",
         "ai-youth-hiring-productivity-evidence-2026",
-        "cross-institutional-report-discovery"
+        "cross-institutional-report-discovery",
+        "korea-bottom-economy-reading",
+        "korea-bottom-economy-concept-compression"
       ],
       "aliases": [
         "바닥 경제",
@@ -7602,7 +7604,8 @@
       ],
       "source": "2026-11-24 바닥경제 위키 원고의 순차 압축과 사용자 요청에 따른 연구 가설 구성·외부 신규 조사 없음",
       "related": [
-        "korea-bottom-economy-2026"
+        "korea-bottom-economy-2026",
+        "korea-bottom-economy-reading"
       ],
       "aliases": [
         "바닥경제 개념 압축",
@@ -7610,6 +7613,33 @@
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-11-25"
+    },
+    {
+      "id": "korea-bottom-economy-reading",
+      "path": "wiki/korea-bottom-economy-reading.md",
+      "publish": true,
+      "order": 228,
+      "title": "바닥경제 — 생활을 지속할 수 있는 시간",
+      "category": "정치경제",
+      "status": "지식 압착 실험·독서용 살아 있는 원고·잠정 설명",
+      "updated": "2026-11-25",
+      "summary": "소득의 도착 시기, 고용의 지속성, 신용 접근성과 경제활동 이탈을 연결해 생활의 회복을 설명하는 독서용 원고.",
+      "tags": [
+        "바닥경제",
+        "생활경제",
+        "경제적 지속성",
+        "지식 압착"
+      ],
+      "source": "기존 바닥경제 원고와 개념 압축 연구의 독서용 재구성·외부 신규 검증 없음",
+      "related": [
+        "korea-bottom-economy-2026",
+        "korea-bottom-economy-concept-compression"
+      ],
+      "aliases": [
+        "바닥경제 독서본"
+      ],
+      "review_state": "needs_review",
+      "last_enriched_on": null
     }
   ]
 }
