@@ -2,27 +2,16 @@
   "schema": 1,
   "project": "world-reports",
   "phase": "pilot",
-  "revision": 6,
+  "revision": 7,
   "limit": 20,
   "paths": {
     "evidence": "wiki/world-report-evidence.md",
     "concepts": "wiki/world-report-concepts.md",
     "reading": "wiki/world-report-reading.md"
   },
-  "current_question": "건강한 식단의 최소 비용 대비 필수 비식품 지출 이후 가용 예산이 실제 식단의 질과 어떻게 연결되는가?",
-  "current_thesis": "충격의 비용은 현재 지출·미래 상환·이용 포기로 이동할 수 있으며, 위험 분산 범위와 재원의 도착 시점이 보호의 지속성을 좌우할 수 있다는 가설이다. 식량에서는 이용 포기뿐 아니라 소비의 질 저하가 비용을 은폐할 수 있다는 전이 가설을 추가한다. 식량의 가격 상승만으로 구매 불능이나 영양 손실을 추론할 수 없으며 가용 예산과 최소 식단 비용의 관계가 중요하다.",
+  "current_question": "의료비 부담 감소가 식품 가격·소득 변화 없이 건강한 식단 구매와 실제 섭취를 개선하는가, 이용의 부대비용과 공급 제약은 이를 어떻게 바꾸는가?",
+  "current_thesis": "충격의 비용은 현재 지출·미래 상환·이용 포기로 이동할 수 있으며, 위험 분산 범위와 재원의 도착 시점이 보호의 지속성을 좌우할 수 있다는 가설이다. 식량에서는 이용 포기뿐 아니라 소비의 질 저하가 비용을 은폐할 수 있다는 전이 가설을 추가한다. 식량의 가격 상승만으로 구매 불능이나 영양 손실을 추론할 수 없으며 가용 예산과 최소 식단 비용의 관계가 중요하다. 필수 서비스 간 예산 경쟁으로 한 분야의 비용 변화가 다른 분야의 구매 가능성에 영향을 줄 수 있다는 가설을 추가한다.",
   "recent": [
-    {
-      "run": 1,
-      "op": "combine",
-      "external": false,
-      "result": "접근과 비용의 분리 및 충격 완충을 결합해 동일한 초기 회복도 미래 상환 부담과 소득 회복에 따라 실제 완충 또는 비용 이연으로 갈릴 수 있다는 예측을 도출했다.",
-      "changed": [
-        "wiki/world-report-concepts.md",
-        "wiki/world-report-reading.md"
-      ],
-      "outcome": "changed"
-    },
     {
       "run": 2,
       "op": "challenge",
@@ -74,6 +63,17 @@
       "result": "SOFI 2026의 가격 상승과 구매 불능 감소의 공존을 확인해 식단 질 저하 가설을 가용 예산과 최소 식단 비용의 관계로 제한했다.",
       "changed": [
         "wiki/world-report-evidence.md",
+        "wiki/world-report-concepts.md",
+        "wiki/world-report-reading.md"
+      ],
+      "outcome": "changed"
+    },
+    {
+      "run": 7,
+      "op": "combine",
+      "external": false,
+      "result": "보건의 본인부담과 식량의 구매 가능성을 결합해 한 필수 서비스의 비용 절감이 다른 필수재의 구매 가능성을 개선할 수 있다는 교차 예측을 도출하되, 실제 지출 재배분과 공급 제약을 검증 조건으로 남겼다.",
+      "changed": [
         "wiki/world-report-concepts.md",
         "wiki/world-report-reading.md"
       ],
