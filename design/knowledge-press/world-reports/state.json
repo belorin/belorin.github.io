@@ -2,15 +2,15 @@
   "schema": 1,
   "project": "world-reports",
   "phase": "pilot",
-  "revision": 5,
+  "revision": 6,
   "limit": 20,
   "paths": {
     "evidence": "wiki/world-report-evidence.md",
     "concepts": "wiki/world-report-concepts.md",
     "reading": "wiki/world-report-reading.md"
   },
-  "current_question": "식품 가격이나 소득 충격 뒤 식사량이 유지되는 가구에서도 식단 다양성과 영양 적정성이 악화되는가?",
-  "current_thesis": "충격의 비용은 현재 지출·미래 상환·이용 포기로 이동할 수 있으며, 위험 분산 범위와 재원의 도착 시점이 보호의 지속성을 좌우할 수 있다는 가설이다. 식량에서는 이용 포기뿐 아니라 소비의 질 저하가 비용을 은폐할 수 있다는 전이 가설을 추가한다.",
+  "current_question": "건강한 식단의 최소 비용 대비 필수 비식품 지출 이후 가용 예산이 실제 식단의 질과 어떻게 연결되는가?",
+  "current_thesis": "충격의 비용은 현재 지출·미래 상환·이용 포기로 이동할 수 있으며, 위험 분산 범위와 재원의 도착 시점이 보호의 지속성을 좌우할 수 있다는 가설이다. 식량에서는 이용 포기뿐 아니라 소비의 질 저하가 비용을 은폐할 수 있다는 전이 가설을 추가한다. 식량의 가격 상승만으로 구매 불능이나 영양 손실을 추론할 수 없으며 가용 예산과 최소 식단 비용의 관계가 중요하다.",
   "recent": [
     {
       "run": 1,
@@ -62,6 +62,18 @@
       "external": false,
       "result": "보건의 이용 포기와 비용 이연을 식량으로 전이해, 식사 횟수와 식비가 유지되어도 영양의 질을 낮추는 방식으로 충격이 은폐될 수 있다는 판별 가설을 도출했다.",
       "changed": [
+        "wiki/world-report-concepts.md",
+        "wiki/world-report-reading.md"
+      ],
+      "outcome": "changed"
+    },
+    {
+      "run": 6,
+      "op": "explore",
+      "external": true,
+      "result": "SOFI 2026의 가격 상승과 구매 불능 감소의 공존을 확인해 식단 질 저하 가설을 가용 예산과 최소 식단 비용의 관계로 제한했다.",
+      "changed": [
+        "wiki/world-report-evidence.md",
         "wiki/world-report-concepts.md",
         "wiki/world-report-reading.md"
       ],
