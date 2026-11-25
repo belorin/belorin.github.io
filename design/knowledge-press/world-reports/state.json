@@ -2,16 +2,28 @@
   "schema": 1,
   "project": "world-reports",
   "phase": "pilot",
-  "revision": 0,
+  "revision": 1,
   "limit": 20,
   "paths": {
     "evidence": "wiki/world-report-evidence.md",
     "concepts": "wiki/world-report-concepts.md",
     "reading": "wiki/world-report-reading.md"
   },
-  "current_question": "금융·보건·사회보장·기후 보고서의 관측을 교차할 때 충격 완충능력의 차이는 어디에서 발생하는가? 다른 영역에는 어떤 예외와 독립적 발견이 있는가?",
-  "current_thesis": "자원에 접근할 수 있는 기회와 그 비용을 감당하며 충격 후 생활을 유지할 능력은 별개의 발전 차원일 수 있다. 국가별 인과 연결은 아직 미검증이다.",
-  "recent": [],
+  "current_question": "충격 직후 생활 유지가 실제 회복인지 비용 이연인지 어떤 장기 관측으로 구별할 수 있는가?",
+  "current_thesis": "접근과 감당 능력뿐 아니라 현재의 충격 완충과 미래로의 비용 이연을 구별해야 한다. 차입의 효과는 이후 소득·위험·상환 부담의 경로에 달려 있다는 가설이다.",
+  "recent": [
+    {
+      "run": 1,
+      "op": "combine",
+      "external": false,
+      "result": "접근과 비용의 분리 및 충격 완충을 결합해 동일한 초기 회복도 미래 상환 부담과 소득 회복에 따라 실제 완충 또는 비용 이연으로 갈릴 수 있다는 예측을 도출했다.",
+      "changed": [
+        "wiki/world-report-concepts.md",
+        "wiki/world-report-reading.md"
+      ],
+      "outcome": "changed"
+    }
+  ],
   "retired_ids": [],
   "review": null,
   "baseline": {
