@@ -207,10 +207,10 @@ manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 
 - `physical-cloud-reading-guide` ↔ `gpi-foreign-novels-2015-2025` · 0.22
 - `taste-calculator-foundations` ↔ `taste-calculator-style-algebra` · 0.21 · 연결됨
 - `taste-calculator-adapter` ↔ `taste-calculator-style-algebra` · 0.20 · 연결됨
-- `korea-bottom-economy-concept-compression` ↔ `world-report-concepts` · 0.19
 - `taste-calculator-foundations` ↔ `taste-calculator-adapter` · 0.19 · 연결됨
 - `physical-cloud-reading-guide` ↔ `global-south-critical-reading-guide` · 0.19
 - `taste-calculator-foundations` ↔ `mathematical-theory-of-taste` · 0.18 · 연결됨
+- `korea-bottom-economy-concept-compression` ↔ `world-report-concepts` · 0.17
 - `mathematical-theory-of-taste` ↔ `taste-calculator-style-algebra` · 0.17 · 연결됨
 - `todd-budapest-2025-reading` ↔ `todd-dislocation-threats-2025-reading` · 0.16 · 연결됨
 - `agent-commons-self-evolution-memory` ↔ `agent-commons-cryostasis-continuity` · 0.16 · 연결됨
