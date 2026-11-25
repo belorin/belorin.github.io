@@ -2,15 +2,15 @@
   "schema": 1,
   "project": "world-reports",
   "phase": "pilot",
-  "revision": 2,
+  "revision": 3,
   "limit": 20,
   "paths": {
     "evidence": "wiki/world-report-evidence.md",
     "concepts": "wiki/world-report-concepts.md",
     "reading": "wiki/world-report-reading.md"
   },
-  "current_question": "재정 곤란 감소가 실제 보호 개선인지 필요한 서비스 이용 포기인지 동일 집단의 미충족 수요로 구별할 수 있는가?",
-  "current_thesis": "충격의 비용은 현재 지출, 미래 상환 부담뿐 아니라 이용 포기에 따른 건강·생활 손실로도 이동할 수 있다는 가설이다.",
+  "current_question": "지역 공동 충격에서 사전 확보된 재원과 위험 분산 범위가 실제 급여 지급 지속성을 높이는가?",
+  "current_thesis": "충격의 비용은 현재 지출·미래 상환·이용 포기로 이동할 수 있으며, 위험의 동시 발생과 재원 분산 범위가 보호의 지속성을 좌우할 수 있다는 가설이다.",
   "recent": [
     {
       "run": 1,
@@ -28,6 +28,17 @@
       "op": "challenge",
       "external": false,
       "result": "비용 이연 설명의 반례인 치료 포기를 검토해 재정 곤란 감소가 실질 보호 개선인지 판별하려면 미충족 수요를 함께 관측해야 한다는 가설을 도출했다.",
+      "changed": [
+        "wiki/world-report-concepts.md",
+        "wiki/world-report-reading.md"
+      ],
+      "outcome": "changed"
+    },
+    {
+      "run": 3,
+      "op": "combine",
+      "external": false,
+      "result": "기후 취약국의 보호 격차와 외부 조달비용을 결합해 동일한 급여 적용률도 위험의 동시 발생과 사전 확보된 재원에 따라 위기 시 지급 지속성이 달라질 수 있다는 가설을 도출했다.",
       "changed": [
         "wiki/world-report-concepts.md",
         "wiki/world-report-reading.md"
