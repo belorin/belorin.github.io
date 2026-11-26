@@ -13,9 +13,9 @@ def main():
         db.execute("PRAGMA foreign_keys = ON")
         db.executescript("""
         CREATE TABLE ensemble(id TEXT PRIMARY KEY, name TEXT NOT NULL, type TEXT NOT NULL);
-        CREATE TABLE concert(id TEXT PRIMARY KEY, date TEXT NOT NULL, title TEXT NOT NULL, venue TEXT, conductor TEXT, soloists_json TEXT);
+        CREATE TABLE concert(id TEXT PRIMARY KEY, date TEXT NOT NULL, title TEXT NOT NULL, venue TEXT, conductor TEXT, soloists_json TEXT, documentation_note TEXT, ensemble_source TEXT);
         CREATE TABLE work(id TEXT PRIMARY KEY, composer TEXT, title TEXT);
-        CREATE TABLE concert_ensemble(concert_id TEXT REFERENCES concert(id), ensemble_id TEXT REFERENCES ensemble(id), PRIMARY KEY(concert_id,ensemble_id));
+        CREATE TABLE concert_ensemble(concert_id TEXT REFERENCES concert(id), ensemble_id TEXT REFERENCES ensemble(id), event_label TEXT, PRIMARY KEY(concert_id,ensemble_id));
         CREATE TABLE concert_work(concert_id TEXT REFERENCES concert(id), work_id TEXT REFERENCES work(id), PRIMARY KEY(concert_id,work_id));
         CREATE TABLE person(id TEXT PRIMARY KEY, data_json TEXT NOT NULL);
         CREATE TABLE roster(id TEXT PRIMARY KEY, ensemble_id TEXT NOT NULL REFERENCES ensemble(id), concert_id TEXT REFERENCES concert(id), season TEXT, source_json TEXT NOT NULL, transcription_review TEXT NOT NULL, CHECK((concert_id IS NULL) != (season IS NULL)));
@@ -24,9 +24,9 @@ def main():
         CREATE INDEX roster_concert ON roster(concert_id);
         """)
         db.executemany("INSERT INTO ensemble VALUES (?,?,?)",[(x["id"],x["name"],x["type"]) for x in c["ensembles"]])
-        db.executemany("INSERT INTO concert VALUES (?,?,?,?,?,?)",[(x["id"],x["date"],x["title"],x.get("venue"),x.get("conductor"),json.dumps(x.get("soloists"),ensure_ascii=False)) for x in c["concerts"]])
+        db.executemany("INSERT INTO concert VALUES (?,?,?,?,?,?,?,?)",[(x["id"],x["date"],x["title"],x.get("venue"),x.get("conductor"),json.dumps(x.get("soloists"),ensure_ascii=False),x.get("documentation_note"),x.get("ensemble_source")) for x in c["concerts"]])
         db.executemany("INSERT INTO work VALUES (?,?,?)",[(x["id"],x["composer"],x["title"]) for x in c["works"]])
-        db.executemany("INSERT INTO concert_ensemble VALUES (?,?)",[(x["id"],e) for x in c["concerts"] for e in x["ensemble_ids"]])
+        db.executemany("INSERT INTO concert_ensemble VALUES (?,?,?)",[(x["id"],e,x.get("ensemble_labels",{}).get(e)) for x in c["concerts"] for e in x["ensemble_ids"]])
         db.executemany("INSERT INTO concert_work VALUES (?,?)",[(x["id"],w) for x in c["concerts"] for w in x["work_ids"]])
         db.executemany("INSERT INTO person VALUES (?,?)",[(x["id"],json.dumps(x,ensure_ascii=False)) for x in c["persons"]])
         for rid in c["roster_ids"]:

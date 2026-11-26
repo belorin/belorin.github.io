@@ -1,0 +1,534 @@
+{
+  "id": "gwangju-choir-2026-11-19",
+  "ensemble_id": "gwangju-choir",
+  "concert_id": "2026-11-19-elijah",
+  "season": null,
+  "source": {
+    "label": "2026-11-19 엘리야 프로그램북 · 전남광주합창단 명부",
+    "wiki": null,
+    "page": null
+  },
+  "transcription_review": "pending",
+  "records": [
+    {
+      "id": "gwangju-choir-2026-11-19-001",
+      "name": "임창은",
+      "part": "예술감독 겸 상임지휘자",
+      "role": "예술감독 겸 상임지휘자",
+      "printed_mark": null,
+      "category": "leadership",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-002",
+      "name": "이준",
+      "part": "부지휘자",
+      "role": "부지휘자",
+      "printed_mark": null,
+      "category": "leadership",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-003",
+      "name": "권현",
+      "part": "반주자",
+      "role": "반주자",
+      "printed_mark": null,
+      "category": "accompanist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-004",
+      "name": "임리라",
+      "part": "반주자",
+      "role": "반주자",
+      "printed_mark": null,
+      "category": "accompanist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-005",
+      "name": "표현진",
+      "part": "소프라노",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-006",
+      "name": "김지나",
+      "part": "소프라노",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-007",
+      "name": "장은지",
+      "part": "소프라노",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-008",
+      "name": "장미화",
+      "part": "소프라노",
+      "role": "차석",
+      "printed_mark": "☆",
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-009",
+      "name": "정지희",
+      "part": "소프라노",
+      "role": "차석",
+      "printed_mark": "☆",
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-010",
+      "name": "이명진",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-011",
+      "name": "김은혜",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-012",
+      "name": "윤은주",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-013",
+      "name": "안소현",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-014",
+      "name": "정혜원",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-015",
+      "name": "정혜진",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-016",
+      "name": "김한나",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-017",
+      "name": "지영남",
+      "part": "알토",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-018",
+      "name": "김혜진",
+      "part": "알토",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-019",
+      "name": "박민희",
+      "part": "알토",
+      "role": "차석",
+      "printed_mark": "☆",
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-020",
+      "name": "백미화",
+      "part": "알토",
+      "role": "차석",
+      "printed_mark": "☆",
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-021",
+      "name": "한여옥",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-022",
+      "name": "박애리",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-023",
+      "name": "오지영",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-024",
+      "name": "송지유",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-025",
+      "name": "황지혜",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-026",
+      "name": "박소정",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-027",
+      "name": "정기주",
+      "part": "테너",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-028",
+      "name": "김원태",
+      "part": "테너",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-029",
+      "name": "유정석",
+      "part": "테너",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-030",
+      "name": "홍명식",
+      "part": "테너",
+      "role": "차석",
+      "printed_mark": "☆",
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-031",
+      "name": "우성식",
+      "part": "테너",
+      "role": "차석",
+      "printed_mark": "☆",
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-032",
+      "name": "오승진",
+      "part": "테너",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-033",
+      "name": "정광진",
+      "part": "테너",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-034",
+      "name": "정양훈",
+      "part": "테너",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-035",
+      "name": "윤승종",
+      "part": "테너",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-036",
+      "name": "이요한",
+      "part": "테너",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-037",
+      "name": "김우정",
+      "part": "테너",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-038",
+      "name": "허지성",
+      "part": "테너",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-039",
+      "name": "김대성",
+      "part": "베이스",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-040",
+      "name": "손승범",
+      "part": "베이스",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-041",
+      "name": "김창식",
+      "part": "베이스",
+      "role": "차석",
+      "printed_mark": "☆",
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-042",
+      "name": "이준용",
+      "part": "베이스",
+      "role": "차석",
+      "printed_mark": "☆",
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-043",
+      "name": "홍태민",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-044",
+      "name": "조정구",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-045",
+      "name": "박광석",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-046",
+      "name": "염종호",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-047",
+      "name": "윤찬성",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-048",
+      "name": "이준희",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-049",
+      "name": "정상연",
+      "part": "운영실장",
+      "role": "운영실장",
+      "printed_mark": null,
+      "category": "staff",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-050",
+      "name": "최승아",
+      "part": "악보",
+      "role": "악보",
+      "printed_mark": null,
+      "category": "staff",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-051",
+      "name": "김동훈",
+      "part": "기획·홍보",
+      "role": "기획·홍보",
+      "printed_mark": null,
+      "category": "staff",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-choir-2026-11-19-052",
+      "name": "백가은",
+      "part": "기획·홍보",
+      "role": "기획·홍보",
+      "printed_mark": null,
+      "category": "staff",
+      "person_id": null,
+      "attendance": "unverified"
+    }
+  ]
+}

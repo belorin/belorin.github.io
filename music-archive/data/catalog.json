@@ -20,6 +20,17 @@
       "id": "cnu-music-choir",
       "name": "전남대학교 음악학과 합창단",
       "type": "choir"
+    },
+    {
+      "id": "gwangju-choir",
+      "name": "전남광주합창단",
+      "type": "choir",
+      "printed_name": "전남광주통합특별시립합창단"
+    },
+    {
+      "id": "naju-choir",
+      "name": "나주시립합창단",
+      "type": "choir"
     }
   ],
   "concerts": [
@@ -50,6 +61,28 @@
       "venue": null,
       "conductor": null,
       "soloists": null
+    },
+    {
+      "id": "2026-11-19-elijah",
+      "date": "2026-11-19",
+      "title": "엘리야",
+      "ensemble_ids": [
+        "gwangju-choir",
+        "gwangyang-choir",
+        "naju-choir",
+        "gso"
+      ],
+      "ensemble_labels": {
+        "gso": "전남광주특별시립교향악단"
+      },
+      "work_ids": [
+        "mendelssohn-elijah"
+      ],
+      "venue": null,
+      "conductor": null,
+      "soloists": null,
+      "ensemble_source": "공연 관람자 제공 참여 단체 정보",
+      "documentation_note": "확보된 프로그램북 자료에는 전남광주합창단의 개인 명부만 확인된다. 나머지 세 단체의 개별 명단은 미확보. 공연 전체 책자의 누락 여부와 사유는 별도 확인하지 않았다. 교향악단은 기존 GSO와 잠정 연결하며 공연 당시 제공 명칭을 별도로 보존한다."
     }
   ],
   "works": [
@@ -57,6 +90,11 @@
       "id": "beethoven-symphony-9",
       "composer": "베토벤",
       "title": "교향곡 제9번"
+    },
+    {
+      "id": "mendelssohn-elijah",
+      "composer": "멘델스존",
+      "title": "엘리야"
     }
   ],
   "roster_ids": [
@@ -64,7 +102,8 @@
     "gso-2026-10-23",
     "camerata-2026-11-06",
     "gwangyang-2026-11-06",
-    "cnu-2026-11-06"
+    "cnu-2026-11-06",
+    "gwangju-choir-2026-11-19"
   ],
   "persons": []
 }

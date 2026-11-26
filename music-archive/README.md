@@ -19,3 +19,5 @@
 index.html은 정적 브라우저 검색 화면이며 외부 서버 없이 작동한다(HTTP로 제공). 검색 결과는 이름·파트·단체·공연·시즌·직책 및 출처를 함께 표시한다. 동일 이름·파트의 여러 단체 등장은 확인 후보로 표시한다. SQL이 필요하면 python3 music-archive/export_sqlite.py /tmp/music-archive.sqlite 로 읽기용 SQLite를 생성한다. JSON이 정본이고 SQLite는 재생성 가능한 산출물이다. 생성 DB는 Git에 커밋하지 않는다.
 
 초기 이관: 후반 시즌 74건, Nordic Echo 93건, 카메라타전남 67건, 광양시립합창단 36건, 전남대 합창단 49건. 합계 319개 명부 등장 기록, 공연 2건, 시즌 스냅샷 1건, 단체 4개. 고유 인물 수는 확정하지 않는다.
+
+참여 단체가 확인되어도 명부가 없으면 concert.ensemble_ids에만 등록한다. 빈 명부나 다른 공연 명부를 복사하지 않는다. ensemble_labels에는 공연 당시 제공 명칭을 보존할 수 있으며 documentation_note에는 자료 범위·누락 상태를 기록한다. source.wiki가 null이면 DB 원본을 출처 열람 링크로 사용한다.
