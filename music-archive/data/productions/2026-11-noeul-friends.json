@@ -6,9 +6,9 @@
   "source": {
     "label": "노을, 길 위에서 프로그램북 · STAFF 및 자료 제공자 연출 정보",
     "page": null,
-    "note": "하단 일부 이름의 아래쪽이 잘려 확대 판독으로 잠정 입력. 연출은 사용자 제공."
+    "note": "사진 하단의 소품·진행 이름은 자료 제공자 정정. 전체 출연진·제작진 사용자 검수 완료. 연출은 사용자 제공."
   },
-  "transcription_review": "pending",
+  "transcription_review": "user_reviewed",
   "support": {
     "program": "2026 공연장상주단체육성지원사업",
     "source_url": "https://www.gjcf.or.kr/cf/cultureart/list/calendar/21844/view.do"
@@ -124,7 +124,7 @@
       "name": "김가연",
       "entity_type": "person",
       "person_id": null,
-      "transcription_note": "사진 하단 잘림; 잠정 판독, 사용자 검수 필요"
+      "transcription_note": "자료 제공자 검수 완료."
     },
     {
       "id": "2026-11-noeul-friends-credit-012",
@@ -132,10 +132,10 @@
       "organization": null,
       "department": null,
       "role": "소품",
-      "name": "정도연",
+      "name": "전도연",
       "entity_type": "person",
       "person_id": null,
-      "transcription_note": "사진 하단 잘림; 잠정 판독, 사용자 검수 필요"
+      "transcription_note": "자료 제공자 정정 및 검수 완료."
     },
     {
       "id": "2026-11-noeul-friends-credit-013",
@@ -143,10 +143,10 @@
       "organization": null,
       "department": null,
       "role": "진행",
-      "name": "김나은",
+      "name": "김나윤",
       "entity_type": "person",
       "person_id": null,
-      "transcription_note": "사진 하단 잘림; 잠정 판독, 사용자 검수 필요"
+      "transcription_note": "자료 제공자 정정 및 검수 완료."
     }
   ]
 }
