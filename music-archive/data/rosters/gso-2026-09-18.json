@@ -1,0 +1,884 @@
+{
+  "id": "gso-2026-09-18",
+  "ensemble_id": "gso",
+  "concert_id": "2026-09-18-romantic-legacy",
+  "season": null,
+  "source": {
+    "label": "낭만의 유산 프로그램북",
+    "wiki": null,
+    "page": 3
+  },
+  "transcription_review": "pending",
+  "records": [
+    {
+      "id": "gso-2026-09-18-001",
+      "name": "이병욱",
+      "part": "예술감독",
+      "role": "예술감독",
+      "printed_mark": null,
+      "category": "leadership",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-002",
+      "name": "김영언",
+      "part": "부지휘자",
+      "role": "부지휘자",
+      "printed_mark": null,
+      "category": "leadership",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-003",
+      "name": "이종만",
+      "part": "악장",
+      "role": "악장",
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-004",
+      "name": "오수안",
+      "part": "제1바이올린",
+      "role": "객원수석",
+      "printed_mark": "◆",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-005",
+      "name": "박신영",
+      "part": "제1바이올린",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-006",
+      "name": "석수연",
+      "part": "제1바이올린",
+      "role": "차석",
+      "printed_mark": "☆",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-007",
+      "name": "강다영",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-008",
+      "name": "박기리",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-009",
+      "name": "박다연",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-010",
+      "name": "박옥정",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-011",
+      "name": "박혜진",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-012",
+      "name": "서화옥",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-013",
+      "name": "송희경",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-014",
+      "name": "이현진",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-015",
+      "name": "임복희",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-016",
+      "name": "정수진",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-017",
+      "name": "김지민",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-018",
+      "name": "윤채연",
+      "part": "제1바이올린",
+      "role": "객원",
+      "printed_mark": "○",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-019",
+      "name": "이수연",
+      "part": "제2바이올린",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-020",
+      "name": "박강현",
+      "part": "제2바이올린",
+      "role": "객원차석",
+      "printed_mark": "◇",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-021",
+      "name": "김미현",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-022",
+      "name": "김수연",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-023",
+      "name": "김시환",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-024",
+      "name": "김정아",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-025",
+      "name": "박소영",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-026",
+      "name": "박윤경",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-027",
+      "name": "이준",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-028",
+      "name": "이지현",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-029",
+      "name": "김주아",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-030",
+      "name": "노수민",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-031",
+      "name": "엄광용",
+      "part": "비올라",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-032",
+      "name": "정수지",
+      "part": "비올라",
+      "role": "차석",
+      "printed_mark": "☆",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-033",
+      "name": "김현경",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-034",
+      "name": "박석윤",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-035",
+      "name": "신세영",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-036",
+      "name": "양신애",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-037",
+      "name": "조수영",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-038",
+      "name": "최미현",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-039",
+      "name": "김지수",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-040",
+      "name": "안호영",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-041",
+      "name": "최승욱",
+      "part": "첼로",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-042",
+      "name": "이후성",
+      "part": "첼로",
+      "role": "차석",
+      "printed_mark": "☆",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-043",
+      "name": "석민정",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-044",
+      "name": "오승석",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-045",
+      "name": "김예빈",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-046",
+      "name": "나유빈",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-047",
+      "name": "이다영",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-048",
+      "name": "이영민",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-049",
+      "name": "서지은",
+      "part": "더블베이스",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-050",
+      "name": "최지아",
+      "part": "더블베이스",
+      "role": "차석",
+      "printed_mark": "☆",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-051",
+      "name": "양은영",
+      "part": "더블베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-052",
+      "name": "연은주",
+      "part": "더블베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-053",
+      "name": "이진영",
+      "part": "더블베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-054",
+      "name": "최은재",
+      "part": "더블베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-055",
+      "name": "최선의",
+      "part": "더블베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-056",
+      "name": "백성현",
+      "part": "더블베이스",
+      "role": "객원",
+      "printed_mark": "○",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-057",
+      "name": "정은지",
+      "part": "플루트",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-058",
+      "name": "박소현",
+      "part": "플루트",
+      "role": "차석",
+      "printed_mark": "☆",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-059",
+      "name": "고관수",
+      "part": "오보에",
+      "role": "객원수석",
+      "printed_mark": "◆",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-060",
+      "name": "김영주",
+      "part": "오보에",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-061",
+      "name": "송애리",
+      "part": "오보에",
+      "role": "차석",
+      "printed_mark": "☆",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-062",
+      "name": "송용주",
+      "part": "오보에",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-063",
+      "name": "주민혁",
+      "part": "클라리넷",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-064",
+      "name": "김진수",
+      "part": "클라리넷",
+      "role": "객원차석",
+      "printed_mark": "◇",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-065",
+      "name": "홍인표",
+      "part": "클라리넷",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-066",
+      "name": "최수아",
+      "part": "바순",
+      "role": "객원수석",
+      "printed_mark": "◆",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-067",
+      "name": "박병준",
+      "part": "바순",
+      "role": "차석",
+      "printed_mark": "☆",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-068",
+      "name": "정주민",
+      "part": "바순",
+      "role": "객원",
+      "printed_mark": "○",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-069",
+      "name": "설호원",
+      "part": "호른",
+      "role": "객원수석",
+      "printed_mark": "◆",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-070",
+      "name": "이정현",
+      "part": "호른",
+      "role": "차석",
+      "printed_mark": "☆",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-071",
+      "name": "박남미",
+      "part": "호른",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-072",
+      "name": "장주연",
+      "part": "호른",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-073",
+      "name": "안석영",
+      "part": "트럼펫",
+      "role": "객원수석",
+      "printed_mark": "◆",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-074",
+      "name": "기경일",
+      "part": "트럼펫",
+      "role": "차석",
+      "printed_mark": "☆",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-075",
+      "name": "추선호",
+      "part": "트럼펫",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-076",
+      "name": "서용일",
+      "part": "트롬본",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-077",
+      "name": "이상헌",
+      "part": "트롬본",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-078",
+      "name": "김용환",
+      "part": "트롬본",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-079",
+      "name": "심재영",
+      "part": "튜바",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-080",
+      "name": "임예지",
+      "part": "팀파니",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-081",
+      "name": "이현동",
+      "part": "타악기",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-082",
+      "name": "손선미",
+      "part": "기획·홍보",
+      "role": "기획·홍보",
+      "printed_mark": null,
+      "category": "staff",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-083",
+      "name": "최옥경",
+      "part": "기획·홍보",
+      "role": "기획·홍보",
+      "printed_mark": null,
+      "category": "staff",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-084",
+      "name": "신준우",
+      "part": "기획·홍보",
+      "role": "기획·홍보",
+      "printed_mark": null,
+      "category": "staff",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-085",
+      "name": "박한결",
+      "part": "기획·홍보",
+      "role": "기획·홍보",
+      "printed_mark": null,
+      "category": "staff",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-086",
+      "name": "정성자",
+      "part": "악기·악보",
+      "role": "악기·악보",
+      "printed_mark": null,
+      "category": "staff",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-2026-09-18-087",
+      "name": "이은영",
+      "part": "악기·악보",
+      "role": "악기·악보",
+      "printed_mark": null,
+      "category": "staff",
+      "person_id": null,
+      "attendance": "unverified"
+    }
+  ]
+}

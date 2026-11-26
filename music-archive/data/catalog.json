@@ -115,6 +115,19 @@
       "source_url": "https://v.daum.net/v/W0DeuwEohf"
     },
     {
+      "id": "2026-09-18-romantic-legacy",
+      "date": "2026-09-18",
+      "title": "낭만의 유산",
+      "ensemble_ids": [
+        "gso"
+      ],
+      "work_ids": [],
+      "venue": null,
+      "conductor": null,
+      "soloists": null,
+      "documentation_note": "프로그램북 3쪽 기재 명단. 예술감독·부지휘자 표기는 공연 지휘자 확인과 구별한다."
+    },
+    {
       "id": "2026-10-13-gso-chamber-vi",
       "date": "2026-10-13",
       "title": "체임버 시리즈 VI — Trio : Pathetique",
@@ -222,7 +235,8 @@
     "gso-chamber-2026-07-25",
     "gso-chamber-2026-08-21",
     "gso-chamber-2026-10-13",
-    "gso-chamber-2026-11-11"
+    "gso-chamber-2026-11-11",
+    "gso-2026-09-18"
   ],
   "persons": []
 }
