@@ -20,6 +20,9 @@ def main():
         CREATE TABLE person(id TEXT PRIMARY KEY, data_json TEXT NOT NULL);
         CREATE TABLE roster(id TEXT PRIMARY KEY, ensemble_id TEXT NOT NULL REFERENCES ensemble(id), concert_id TEXT REFERENCES concert(id), season TEXT, source_json TEXT NOT NULL, transcription_review TEXT NOT NULL, CHECK((concert_id IS NULL) != (season IS NULL)));
         CREATE TABLE appearance(id TEXT PRIMARY KEY, roster_id TEXT NOT NULL REFERENCES roster(id), position INTEGER NOT NULL, name TEXT NOT NULL, part TEXT NOT NULL, role TEXT, printed_mark TEXT, category TEXT NOT NULL, person_id TEXT REFERENCES person(id), attendance TEXT NOT NULL, casting_scope TEXT, UNIQUE(roster_id,position));
+        CREATE TABLE production_credit_source(id TEXT PRIMARY KEY,title TEXT,source_json TEXT,transcription_review TEXT);
+        CREATE TABLE production_credit(id TEXT PRIMARY KEY,production_id TEXT REFERENCES production_credit_source(id),scope TEXT,organization TEXT,department TEXT,role TEXT,name TEXT,entity_type TEXT,person_id TEXT REFERENCES person(id),ensemble_id TEXT REFERENCES ensemble(id),extra_json TEXT);
+        CREATE INDEX production_credit_name ON production_credit(name);
         CREATE INDEX appearance_name_part ON appearance(name,part);
         CREATE INDEX roster_concert ON roster(concert_id);
         """)
@@ -33,6 +36,10 @@ def main():
             r = load("rosters/"+rid+".json")
             db.execute("INSERT INTO roster VALUES (?,?,?,?,?,?)",(rid,r["ensemble_id"],r["concert_id"],r["season"],json.dumps(r["source"],ensure_ascii=False),r["transcription_review"]))
             db.executemany("INSERT INTO appearance VALUES (?,?,?,?,?,?,?,?,?,?,?)",[(x["id"],rid,i,x["name"],x["part"],x["role"],x["printed_mark"],x["category"],x["person_id"],x["attendance"],x.get("casting_scope")) for i,x in enumerate(r["records"],1)])
+        for pid in c.get("production_credit_ids",[]):
+            p = load("productions/"+pid+".json")
+            db.execute("INSERT INTO production_credit_source VALUES (?,?,?,?)",(pid,p["title"],json.dumps(p["source"],ensure_ascii=False),p["transcription_review"]))
+            db.executemany("INSERT INTO production_credit VALUES (?,?,?,?,?,?,?,?,?,?,?)",[(x["id"],pid,x["scope"],x.get("organization"),x.get("department"),x["role"],x["name"],x["entity_type"],x.get("person_id"),x.get("ensemble_id"),json.dumps(x,ensure_ascii=False)) for x in p["credits"]])
         db.commit()
         print("appearances:",db.execute("SELECT COUNT(*) FROM appearance").fetchone()[0])
     finally:

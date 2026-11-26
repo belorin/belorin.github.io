@@ -1,0 +1,1215 @@
+{
+  "id": "2026-10-la-sylphide",
+  "title": "라 실피드",
+  "source": {
+    "label": "라 실피드 프로그램북 Production | 프로덕션",
+    "page": null,
+    "note": "페이지 번호 미확인. 인명 및 업체명은 사진 전사로 재검수 전. 특수효과 업체 표기는 원문 한 줄을 분리하지 않고 보존."
+  },
+  "transcription_review": "pending",
+  "credits": [
+    {
+      "id": "2026-10-la-sylphide-credit-001",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "예술감독",
+      "name": "조가영",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-002",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "재안무 및 연출",
+      "name": "Andrei Bolotin",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-003",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "재안무 및 연출",
+      "name": "배주윤",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-004",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "지휘",
+      "name": "박승유",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-005",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "지도위원",
+      "name": "정남열",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-006",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "지도위원",
+      "name": "강선영",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-007",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "객원지도",
+      "name": "박상철",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-008",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "협연",
+      "name": "광주여성필하모닉오케스트라",
+      "entity_type": "ensemble",
+      "person_id": null,
+      "ensemble_id": "gwangju-women-philharmonic"
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-009",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대디자인",
+      "name": "Dariya Vasilyeva",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-010",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "조명디자인",
+      "name": "Stavtsev Mark Garnievich",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-011",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "의상디자인",
+      "name": "Ekaterina Yakovleva",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-012",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "분장디자인",
+      "name": "메인메이크업",
+      "entity_type": "vendor",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-013",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "기술감독",
+      "name": "이동민",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-014",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "조명감독",
+      "name": "서경원",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-015",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대장치 제작감독",
+      "name": "이재승",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-016",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "음향감독",
+      "name": "강남규",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-017",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "음원구성",
+      "name": "Roman Denisov",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-018",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "의상제작",
+      "name": "에뚜왈",
+      "entity_type": "vendor",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-019",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대장치설치",
+      "name": "유어핸즈",
+      "entity_type": "vendor",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-020",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대구조물제작",
+      "name": "남도 스테이지",
+      "entity_type": "vendor",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-021",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대조감독",
+      "name": "이병훈",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-022",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대상부운영",
+      "name": "정동균",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-023",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대팀",
+      "name": "김석진",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-024",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대팀",
+      "name": "김성호",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-025",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대팀",
+      "name": "김종호",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-026",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대팀",
+      "name": "노승현",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-027",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대팀",
+      "name": "노유승",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-028",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대팀",
+      "name": "문승민",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-029",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대팀",
+      "name": "소시진",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-030",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대팀",
+      "name": "손근호",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-031",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대팀",
+      "name": "유승효",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-032",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대팀",
+      "name": "임훈성",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-033",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대팀",
+      "name": "정인호",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-034",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대팀",
+      "name": "최강원",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-035",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "조명오퍼레이터",
+      "name": "진영대",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-036",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "조명팀",
+      "name": "문영욱",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-037",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "조명팀",
+      "name": "박석진",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-038",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "조명팀",
+      "name": "안현정",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-039",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "조명팀",
+      "name": "천세현",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-040",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "음향팀",
+      "name": "김재혁",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-041",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "의상팀",
+      "name": "이다별",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-042",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "의상팀",
+      "name": "강민송",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-043",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "의상팀",
+      "name": "이혜주",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-044",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "분장팀",
+      "name": "임상아",
+      "entity_type": "person",
+      "person_id": null,
+      "printed_name": "임상아(팀장)",
+      "position": "팀장"
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-045",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "분장팀",
+      "name": "정다운",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-046",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "분장팀",
+      "name": "조희진",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-047",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "분장팀",
+      "name": "이경란",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-048",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "분장팀",
+      "name": "박연희",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-049",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "분장팀",
+      "name": "류연정",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-050",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대조명",
+      "name": "그래피티랩",
+      "entity_type": "vendor",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-051",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "특수효과",
+      "name": "(주)쇼텍라인 포인트 특수효과",
+      "entity_type": "vendor",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-052",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "공연사진촬영",
+      "name": "윤식스포토",
+      "entity_type": "vendor",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-053",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "공연영상촬영",
+      "name": "원스필름웍스",
+      "entity_type": "vendor",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-054",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "홍보물 디자인·인쇄",
+      "name": "수디자인스튜디오",
+      "entity_type": "vendor",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-055",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시립발레단",
+      "department": null,
+      "role": "무대감독",
+      "name": "이윤주",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-056",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시립발레단",
+      "department": null,
+      "role": "반주자",
+      "name": "주수경",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-057",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시립발레단",
+      "department": null,
+      "role": "기획·홍보",
+      "name": "노여진",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-058",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시립발레단",
+      "department": null,
+      "role": "기획·홍보",
+      "name": "서율이",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-059",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시립발레단",
+      "department": null,
+      "role": "기획·홍보",
+      "name": "강유빈",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-060",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시립발레단",
+      "department": null,
+      "role": "음악",
+      "name": "문하연",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-061",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시립발레단",
+      "department": null,
+      "role": "의상·소품",
+      "name": "조나은",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-062",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": null,
+      "role": "전당장",
+      "name": "윤영문",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-063",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "공연지원과장",
+      "name": "백홍승",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-064",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "공연기획팀장",
+      "name": "양철완",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-065",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "공연기획팀",
+      "name": "박은수",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-066",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "공연기획팀",
+      "name": "양기진",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-067",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "공연기획팀",
+      "name": "김채영",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-068",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "공연기획팀",
+      "name": "이가영",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-069",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "공연기획팀",
+      "name": "노성희",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-070",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "공연기획팀",
+      "name": "이경민",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-071",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "홍보마케팅팀",
+      "name": "한진영",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-072",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "홍보마케팅팀",
+      "name": "김진홍",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-073",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "홍보마케팅팀",
+      "name": "김아연",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-074",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "통합사무국",
+      "name": "강주희",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-075",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "통합사무국",
+      "name": "이영미",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-076",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "무대팀장",
+      "name": "노보연",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-077",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "무대팀",
+      "name": "문월승",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-078",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "무대팀",
+      "name": "박성준",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-079",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "무대팀",
+      "name": "국윤강",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-080",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "무대팀",
+      "name": "박열",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-081",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "무대팀",
+      "name": "천태",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-082",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "무대팀",
+      "name": "이상현",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-083",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "무대팀",
+      "name": "강동욱",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-084",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "무대팀",
+      "name": "강재성",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-085",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "무대팀",
+      "name": "이가연",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-086",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "무대팀",
+      "name": "정원태",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-087",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "무대팀",
+      "name": "조계원",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-088",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "무대팀",
+      "name": "조우원",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-089",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "공연지원과",
+      "role": "무대팀",
+      "name": "서종현",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-090",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "관리운영과장",
+      "name": "최기동",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-091",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "서무팀장",
+      "name": "하형석",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-092",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "서무팀",
+      "name": "구자용",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-093",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "서무팀",
+      "name": "허훈",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-094",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "서무팀",
+      "name": "김송미",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-095",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "서무팀",
+      "name": "이상훈",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-096",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "서무팀",
+      "name": "김홍량",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-097",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "서무팀",
+      "name": "박채정",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-098",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "시설팀장",
+      "name": "정동훈",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-099",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "시설팀",
+      "name": "송태준",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-100",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "시설팀",
+      "name": "정윤성",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-101",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "시설팀",
+      "name": "박영우",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-102",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "시설팀",
+      "name": "김민규",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-103",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "시설팀",
+      "name": "박미선",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-104",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "시설팀",
+      "name": "김영준",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-105",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "시설팀",
+      "name": "강기웅",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-106",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "청사미화팀",
+      "name": "이진이",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-107",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "청사미화팀",
+      "name": "김훈광",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-108",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "청사미화팀",
+      "name": "차이화",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-109",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "청사미화팀",
+      "name": "정인영",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-110",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "청사미화팀",
+      "name": "박건희",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-111",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "청사미화팀",
+      "name": "문영미",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-112",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "청사미화팀",
+      "name": "황미선",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-113",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "청사미화팀",
+      "name": "박수진",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-114",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "청사미화팀",
+      "name": "이미옥",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-115",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "청원경찰팀",
+      "name": "문진식",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-116",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "청원경찰팀",
+      "name": "김영찬",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-117",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "청원경찰팀",
+      "name": "조현빈",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-118",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "청원경찰팀",
+      "name": "김현호",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-119",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "청원경찰팀",
+      "name": "김승범",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-10-la-sylphide-credit-120",
+      "scope": "organization_roster",
+      "organization": "전남광주통합특별시예술의전당",
+      "department": "관리운영과",
+      "role": "청원경찰팀",
+      "name": "황호석",
+      "entity_type": "person",
+      "person_id": null
+    }
+  ]
+}

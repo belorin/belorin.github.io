@@ -1,4 +1,4 @@
-# 광주·전남 공연예술인 아카이브 v0.2
+# 광주·전남 공연예술인 아카이브 v0.3
 
 2026년 프로그램북에서 시작하는 공개 명부 데이터베이스. 기존 위키 원고는 역사적 전사본으로 보존하며, 구조화된 명부의 신규 등록·정정은 이 디렉터리의 JSON을 기준으로 한다. 위키의 서술·해설은 기존 원고 정본을 따른다.
 
@@ -29,3 +29,7 @@ index.html은 정적 브라우저 검색 화면이며 외부 서버 없이 작�
 ## 발레·연극 확장 (v0.2)
 
 기존 /music-archive/ 주소와 JSON ID를 유지한다. concert는 역사적 필드명이며 이제 모든 공연 회차를 뜻한다. genre는 music(생략 시 기본), ballet, theatre 등. 동일 제작 공연은 production_id로 연결하고 session_number와 time으로 회차를 구분한다. 발레·연극의 배역은 part에 원문대로 기록하며 직책과 구별한다. category는 dancer, actor, stage_crew를 추가한다. 한 사람이 한 회차에서 여러 배역을 맡을 경우 각각의 기록을 유지한다. 여러 회차 공통으로 병합된 배역표는 각 회차에 전사하되 casting_scope=all_sessions를 남긴다. 출연 기록 수는 고유 인물 수가 아니다. 실제 출연 여부와 소속은 별도 확인 전 확정하지 않는다.
+
+## 제작 크레딧 확장 (v0.3)
+
+catalog.production_credit_ids에 제작 프로젝트 ID를 등록하고 data/productions/<id>.json에 프로그램북의 제작진·기관 조직 명부·협력업체 크레딧을 보존한다. scope=production은 프로젝트 크레딧, organization_roster는 책자 시점의 기관 명부이며 실제 공연 참여를 뜻하지 않는다. entity_type은 person/vendor/ensemble로 분리하고 공연단체는 ensemble_id로 연결한다. 같은 인물의 복수 직책은 별개 크레딧으로 보존하며 동일인 확정은 별도 검증 후 person_id로 연결한다. 제작 크레딧은 회차별 출연 명부와 분리 집계한다. 공연에 명시된 협연단체는 해당 회차에 연결하되 개인 명부 미확보로 표시한다. 웹 제작 크레딧 검색 및 SQLite production_credit 테이블에서 조회한다.

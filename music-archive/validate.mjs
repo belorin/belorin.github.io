@@ -4,3 +4,7 @@ function validate(cat,rs){const assert=(x,m)=>{if(!x)throw Error(m)};const uniqu
 const cat=read("./data/catalog.json");
 const rs=cat.roster_ids.map(id=>read("./data/rosters/"+id+".json"));
 console.log("Music archive validated:",validate(cat,rs));
+
+function validateProductionCredits(cat,ps){const ids=cat.production_credit_ids||[];const assert=(x,m)=>{if(!x)throw Error(m)};assert(new Set(ids).size===ids.length&&ps.length===ids.length,"production credit index");const seen=new Set();for(const p of ps){assert(ids.includes(p.id)&&cat.concerts.some(c=>c.production_id===p.id),"production reference");assert(["pending","user_reviewed"].includes(p.transcription_review),"production review");assert(p.source?.label,"production source");for(const c of p.credits){assert(c.id&&c.name&&c.role&&!seen.has(c.id),"credit fields");seen.add(c.id);assert(["production","organization_roster"].includes(c.scope),"credit scope");assert(["person","vendor","ensemble"].includes(c.entity_type),"credit entity type");assert(c.scope!=="organization_roster"||c.organization,"organization roster reference");assert(c.entity_type!=="ensemble"||cat.ensembles.some(e=>e.id===c.ensemble_id),"credit ensemble");assert(c.person_id===null||cat.persons.some(x=>x.id===c.person_id),"credit person")}}return seen.size}
+const ps=(cat.production_credit_ids||[]).map(id=>read("./data/productions/"+id+".json"));
+console.log("Production credits validated:",validateProductionCredits(cat,ps));
