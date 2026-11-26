@@ -1,0 +1,184 @@
+{
+  "id": "gwangju-city-theatre-hamlet",
+  "ensemble_id": "gwangju-city-theatre",
+  "concert_id": "2026-11-hamlet-1",
+  "applies_to_concert_ids": [
+    "2026-11-hamlet-1",
+    "2026-11-hamlet-2",
+    "2026-11-hamlet-3",
+    "2026-11-hamlet-4",
+    "2026-11-hamlet-5"
+  ],
+  "season": null,
+  "source": {
+    "label": "햄릿 프로그램북 · 함께 만드는 사람들",
+    "wiki": null,
+    "page": null,
+    "type": "booklet_production_cast",
+    "production_id": "2026-11-hamlet",
+    "note": "회차별 구분 없는 공통 출연 명부. 공식 일정 URL은 공연 색인에 저장."
+  },
+  "transcription_review": "pending",
+  "records": [
+    {
+      "id": "gwangju-city-theatre-hamlet-001",
+      "name": "이승학",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-hamlet-002",
+      "name": "최진영",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-hamlet-003",
+      "name": "윤미란",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-hamlet-004",
+      "name": "한중곤",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-hamlet-005",
+      "name": "이명덕",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-hamlet-006",
+      "name": "이지은",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-hamlet-007",
+      "name": "이영환",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-hamlet-008",
+      "name": "박영국",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-hamlet-009",
+      "name": "나종근",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-hamlet-010",
+      "name": "최이노",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-hamlet-011",
+      "name": "조홍일",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-hamlet-012",
+      "name": "강현구",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-hamlet-013",
+      "name": "채윤정",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-hamlet-014",
+      "name": "주현지",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-hamlet-015",
+      "name": "김수옥",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-hamlet-016",
+      "name": "강병욱",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    }
+  ]
+}

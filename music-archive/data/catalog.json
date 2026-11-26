@@ -69,7 +69,10 @@
     {
       "id": "gwangju-city-theatre",
       "name": "광주시립극단",
-      "type": "theatre"
+      "type": "theatre",
+      "aliases": [
+        "전남광주통합특별시립극단"
+      ]
     },
     {
       "id": "theatre-cheongchun",
@@ -508,6 +511,136 @@
       "soloists": null,
       "source_url": "https://www.gjcf.or.kr/cf/cultureart/list/calendar/21844/view.do",
       "documentation_note": "광주문화재단 및 문화포털 공연 안내에서 일정·장소·단체·초연 확인. 연출 오설균은 자료 제공자 확인. 배역 및 제작진은 프로그램북. 실제 개별 출연 및 극단 소속은 별도 미확인."
+    },
+    {
+      "id": "2026-11-hamlet-1",
+      "date": "2026-11-26",
+      "time": "19:30",
+      "duration_minutes": 120,
+      "title": "햄릿 — 1회차",
+      "genre": "theatre",
+      "production_id": "2026-11-hamlet",
+      "session_number": 1,
+      "ensemble_ids": [
+        "gwangju-city-theatre"
+      ],
+      "ensemble_labels": {
+        "gwangju-city-theatre": "전남광주통합특별시립극단"
+      },
+      "work_ids": [
+        "hamlet-shakespeare"
+      ],
+      "venue": "전남광주통합특별시예술의전당 소극장",
+      "conductor": null,
+      "soloists": null,
+      "series_number": "제27회",
+      "source_url": "https://gjart.gwangju.go.kr/ko/cmd.do?bnum=10301&boper=view&opencode=p05074",
+      "documentation_note": "공식 공연 일정 및 프로그램북 공통 출연진. 첫 회차 관람은 자료 제공자 확인. 이후 회차는 2026-11-26 기준 예정. 배우별 배역과 개별 실제 출연 및 소속은 미확인.",
+      "performance_status": "held_user_reported"
+    },
+    {
+      "id": "2026-11-hamlet-2",
+      "date": "2026-11-27",
+      "time": "14:00",
+      "duration_minutes": 120,
+      "title": "햄릿 — 2회차",
+      "genre": "theatre",
+      "production_id": "2026-11-hamlet",
+      "session_number": 2,
+      "ensemble_ids": [
+        "gwangju-city-theatre"
+      ],
+      "ensemble_labels": {
+        "gwangju-city-theatre": "전남광주통합특별시립극단"
+      },
+      "work_ids": [
+        "hamlet-shakespeare"
+      ],
+      "venue": "전남광주통합특별시예술의전당 소극장",
+      "conductor": null,
+      "soloists": null,
+      "series_number": "제27회",
+      "source_url": "https://gjart.gwangju.go.kr/ko/cmd.do?bnum=10301&boper=view&opencode=p05074",
+      "documentation_note": "공식 공연 일정 및 프로그램북 공통 출연진. 첫 회차 관람은 자료 제공자 확인. 이후 회차는 2026-11-26 기준 예정. 배우별 배역과 개별 실제 출연 및 소속은 미확인.",
+      "performance_status": "scheduled_as_of_2026-11-26"
+    },
+    {
+      "id": "2026-11-hamlet-3",
+      "date": "2026-11-27",
+      "time": "19:30",
+      "duration_minutes": 120,
+      "title": "햄릿 — 3회차",
+      "genre": "theatre",
+      "production_id": "2026-11-hamlet",
+      "session_number": 3,
+      "ensemble_ids": [
+        "gwangju-city-theatre"
+      ],
+      "ensemble_labels": {
+        "gwangju-city-theatre": "전남광주통합특별시립극단"
+      },
+      "work_ids": [
+        "hamlet-shakespeare"
+      ],
+      "venue": "전남광주통합특별시예술의전당 소극장",
+      "conductor": null,
+      "soloists": null,
+      "series_number": "제27회",
+      "source_url": "https://gjart.gwangju.go.kr/ko/cmd.do?bnum=10301&boper=view&opencode=p05074",
+      "documentation_note": "공식 공연 일정 및 프로그램북 공통 출연진. 첫 회차 관람은 자료 제공자 확인. 이후 회차는 2026-11-26 기준 예정. 배우별 배역과 개별 실제 출연 및 소속은 미확인.",
+      "performance_status": "scheduled_as_of_2026-11-26"
+    },
+    {
+      "id": "2026-11-hamlet-4",
+      "date": "2026-11-28",
+      "time": "16:00",
+      "duration_minutes": 120,
+      "title": "햄릿 — 4회차",
+      "genre": "theatre",
+      "production_id": "2026-11-hamlet",
+      "session_number": 4,
+      "ensemble_ids": [
+        "gwangju-city-theatre"
+      ],
+      "ensemble_labels": {
+        "gwangju-city-theatre": "전남광주통합특별시립극단"
+      },
+      "work_ids": [
+        "hamlet-shakespeare"
+      ],
+      "venue": "전남광주통합특별시예술의전당 소극장",
+      "conductor": null,
+      "soloists": null,
+      "series_number": "제27회",
+      "source_url": "https://gjart.gwangju.go.kr/ko/cmd.do?bnum=10301&boper=view&opencode=p05074",
+      "documentation_note": "공식 공연 일정 및 프로그램북 공통 출연진. 첫 회차 관람은 자료 제공자 확인. 이후 회차는 2026-11-26 기준 예정. 배우별 배역과 개별 실제 출연 및 소속은 미확인.",
+      "performance_status": "scheduled_as_of_2026-11-26"
+    },
+    {
+      "id": "2026-11-hamlet-5",
+      "date": "2026-11-28",
+      "time": "19:30",
+      "duration_minutes": 120,
+      "title": "햄릿 — 5회차",
+      "genre": "theatre",
+      "production_id": "2026-11-hamlet",
+      "session_number": 5,
+      "ensemble_ids": [
+        "gwangju-city-theatre"
+      ],
+      "ensemble_labels": {
+        "gwangju-city-theatre": "전남광주통합특별시립극단"
+      },
+      "work_ids": [
+        "hamlet-shakespeare"
+      ],
+      "venue": "전남광주통합특별시예술의전당 소극장",
+      "conductor": null,
+      "soloists": null,
+      "series_number": "제27회",
+      "source_url": "https://gjart.gwangju.go.kr/ko/cmd.do?bnum=10301&boper=view&opencode=p05074",
+      "documentation_note": "공식 공연 일정 및 프로그램북 공통 출연진. 첫 회차 관람은 자료 제공자 확인. 이후 회차는 2026-11-26 기준 예정. 배우별 배역과 개별 실제 출연 및 소속은 미확인.",
+      "performance_status": "scheduled_as_of_2026-11-26"
     }
   ],
   "works": [
@@ -541,6 +674,13 @@
       "author": "이현진",
       "genre": "theatre",
       "composer": null
+    },
+    {
+      "id": "hamlet-shakespeare",
+      "title": "햄릿",
+      "author": "윌리엄 셰익스피어",
+      "composer": null,
+      "genre": "theatre"
     }
   ],
   "roster_ids": [
@@ -568,12 +708,14 @@
     "park-sooyong-jazz-orchestra-2026-10-31",
     "gwangju-city-theatre-girls",
     "gso-2026-06-17",
-    "theatre-cheongchun-2026-11-21"
+    "theatre-cheongchun-2026-11-21",
+    "gwangju-city-theatre-hamlet"
   ],
   "persons": [],
   "production_credit_ids": [
     "2026-10-la-sylphide",
     "2026-05-girls",
-    "2026-11-noeul-friends"
+    "2026-11-noeul-friends",
+    "2026-11-hamlet"
   ]
 }

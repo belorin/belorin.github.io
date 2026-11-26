@@ -13,6 +13,17 @@
           "note": "사용자 전사 검수 완료. 약칭 연결은 추정으로 유지."
         }
       ]
+    },
+    {
+      "a": "gwangju-city-theatre-hamlet-003",
+      "b": "theatre-cheongchun-2026-11-21-001",
+      "status": "possible",
+      "reason": "이름과 연극 출연 분야 일치",
+      "evidence": [
+        {
+          "label": "햄릿 및 노을, 길 위에서 프로그램북 · CAST"
+        }
+      ]
     }
   ]
 }
