@@ -238,6 +238,20 @@
       "documentation_note": "공식 공연 안내 일정. 프로그램북 공통 출연 명단 및 창·제작진 확보. 배우별 배역 및 일부 약력 확보. 배우별 소속 및 실제 회차별 출연 여부 미확인. 광주예술의전당 주최, 광주시립극단 주관."
     },
     {
+      "id": "2026-06-17-youth",
+      "date": "2026-06-17",
+      "title": "청춘",
+      "series_number": "제407회",
+      "ensemble_ids": [
+        "gso"
+      ],
+      "work_ids": [],
+      "venue": null,
+      "conductor": null,
+      "soloists": null,
+      "documentation_note": "프로그램북 3쪽 명부. 지휘부 직책과 공연 실제 지휘 및 실제 출연 여부는 별도 확인."
+    },
+    {
       "id": "2026-06-30-gso-chamber-iii",
       "date": "2026-06-30",
       "title": "체임버 시리즈 III — Brahms & Schumann",
@@ -518,7 +532,8 @@
     "gwangju-women-philharmonic-sylphide",
     "gwangju-women-philharmonic-2025-11-08",
     "park-sooyong-jazz-orchestra-2026-10-31",
-    "gwangju-city-theatre-girls"
+    "gwangju-city-theatre-girls",
+    "gso-2026-06-17"
   ],
   "persons": [],
   "production_credit_ids": [
