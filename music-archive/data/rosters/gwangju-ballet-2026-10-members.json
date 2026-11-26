@@ -1,0 +1,554 @@
+{
+  "id": "gwangju-ballet-2026-10-members",
+  "ensemble_id": "gwangju-ballet",
+  "concert_id": null,
+  "season": "2026년 10월 · 라 실피드 프로그램북 단원 명부",
+  "source": {
+    "label": "라 실피드 프로그램북 · Jeonnam Gwangju City Ballet 단원 소개",
+    "wiki": null,
+    "page": null,
+    "type": "booklet_membership_snapshot",
+    "production_id": "2026-10-la-sylphide",
+    "transcription_note": "직급 및 상임·비상임 분류는 인쇄된 표제 그대로 보존. 수석·차석의 계약 형태는 추정하지 않는다. 사진 자체는 저장하지 않는다."
+  },
+  "transcription_review": "pending",
+  "records": [
+    {
+      "id": "gwangju-ballet-2026-10-members-001",
+      "name": "보그단 플로피뉴",
+      "part": "무용",
+      "role": "수석단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified",
+      "cast_name_aliases": [
+        "보그단"
+      ],
+      "transcription_note": "작은 인쇄 글씨 확대 판독, 재검수 필요"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-002",
+      "name": "강은혜",
+      "part": "무용",
+      "role": "수석단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-003",
+      "name": "우건혁",
+      "part": "무용",
+      "role": "수석단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified",
+      "transcription_note": "작은 인쇄 글씨 확대 판독, 재검수 필요"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-004",
+      "name": "공유민",
+      "part": "무용",
+      "role": "수석단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-005",
+      "name": "임예섭",
+      "part": "무용",
+      "role": "수석단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified",
+      "transcription_note": "작은 인쇄 글씨 확대 판독, 재검수 필요"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-006",
+      "name": "강민지",
+      "part": "무용",
+      "role": "수석단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-007",
+      "name": "진성우",
+      "part": "무용",
+      "role": "차석단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-008",
+      "name": "박경애",
+      "part": "무용",
+      "role": "차석단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-009",
+      "name": "전진미",
+      "part": "무용",
+      "role": "차석단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-010",
+      "name": "하승수",
+      "part": "무용",
+      "role": "차석단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-011",
+      "name": "김선돈",
+      "part": "무용",
+      "role": "상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-012",
+      "name": "노윤정",
+      "part": "무용",
+      "role": "상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-013",
+      "name": "이승윤",
+      "part": "무용",
+      "role": "상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-014",
+      "name": "강진구",
+      "part": "무용",
+      "role": "상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-015",
+      "name": "신옥선",
+      "part": "무용",
+      "role": "상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-016",
+      "name": "신송현",
+      "part": "무용",
+      "role": "상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-017",
+      "name": "정아람",
+      "part": "무용",
+      "role": "상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-018",
+      "name": "송관석",
+      "part": "무용",
+      "role": "상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-019",
+      "name": "김주현",
+      "part": "무용",
+      "role": "상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-020",
+      "name": "김희준",
+      "part": "무용",
+      "role": "상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-021",
+      "name": "문병주",
+      "part": "무용",
+      "role": "상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-022",
+      "name": "허요완",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-023",
+      "name": "이기행",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-024",
+      "name": "김소영",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-025",
+      "name": "이상규",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-026",
+      "name": "김도영",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-027",
+      "name": "김희현",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-028",
+      "name": "황유정",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-029",
+      "name": "허대청",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-030",
+      "name": "이희지",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-031",
+      "name": "류슬아",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-032",
+      "name": "성하림",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-033",
+      "name": "정다인",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-034",
+      "name": "배수정",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-035",
+      "name": "정하은",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-036",
+      "name": "홍석형",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-037",
+      "name": "김승연",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-038",
+      "name": "이은택",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-039",
+      "name": "이아만",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-040",
+      "name": "강지환",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified",
+      "transcription_note": "작은 인쇄 글씨 확대 판독, 재검수 필요"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-041",
+      "name": "정은준",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-042",
+      "name": "강승현",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-043",
+      "name": "공서희",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-044",
+      "name": "이신애",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-045",
+      "name": "박종호",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-046",
+      "name": "이진영",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-047",
+      "name": "이소정",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-048",
+      "name": "오은서",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-049",
+      "name": "안재은",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-050",
+      "name": "황유민",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-051",
+      "name": "이채민",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-052",
+      "name": "이영서",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-ballet-2026-10-members-053",
+      "name": "김진아",
+      "part": "무용",
+      "role": "비상임단원",
+      "printed_mark": null,
+      "category": "dancer",
+      "person_id": null,
+      "attendance": "unverified"
+    }
+  ]
+}

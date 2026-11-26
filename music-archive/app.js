@@ -7,7 +7,8 @@ async function main(){
  const ens=new Map(cat.ensembles.map(x=>[x.id,x.name])), concerts=new Map(cat.concerts.map(x=>[x.id,x]));
  const eventLabel=c=>c.date+(c.time?" "+c.time:"")+" · "+c.title;
  const label=r=>r.concert_id?eventLabel(concerts.get(r.concert_id)):r.season;
- const records=rosters.flatMap(r=>r.records.map(x=>({...x,roster:r,ensemble:ens.get(r.ensemble_id),scope:label(r)})));
+ const membershipCandidates=(r,x)=>{const pid=concerts.get(r.concert_id)?.production_id;if(!pid)return [];return rosters.filter(s=>s.ensemble_id===r.ensemble_id&&s.source.type==="booklet_membership_snapshot"&&s.source.production_id===pid).flatMap(s=>s.records.filter(y=>y.name===x.name||y.cast_name_aliases?.includes(x.name)))};
+ const records=rosters.flatMap(r=>r.records.map(x=>({...x,roster:r,ensemble:ens.get(r.ensemble_id),scope:label(r),membership:membershipCandidates(r,x).map(y=>y.role+" (명부 연결 후보)").join(" / ")})));
  for(const [title,num] of [["공연 회차",cat.concerts.length],["단체",cat.ensembles.length],["명부",rosters.length],["등장 기록",records.length]]){const d=el("div");d.className="metric";d.append(el("strong",num+"건"),el("span",title));$("metrics").append(d)}
  const option=(target,value,label)=>{const o=el("option",label);o.value=value;$(target).append(o)};
  for(const e of cat.ensembles)option("ensemble",e.id,e.name);
@@ -21,10 +22,10 @@ async function main(){
  creditSearch.addEventListener("input",renderCredits);renderCredits();document.querySelector("footer").before(creditSection);
  const q=$("q");
  function render(){const text=q.value.trim().toLowerCase(), e=$("ensemble").value,s=$("scope").value,k=$("category").value;
- const out=records.filter(x=>(!e||x.roster.ensemble_id===e)&&(!s||(x.roster.concert_id||x.roster.id)===s)&&(!k||x.category===k)&&text.split(/\s+/).every(t=>[x.name,x.part,x.role,x.ensemble,x.scope].join(" ").toLowerCase().includes(t)));
+ const out=records.filter(x=>(!e||x.roster.ensemble_id===e)&&(!s||(x.roster.concert_id||x.roster.id)===s)&&(!k||x.category===k)&&text.split(/\s+/).every(t=>[x.name,x.part,x.role,x.membership,x.ensemble,x.scope].join(" ").toLowerCase().includes(t)));
  $("status").textContent=out.length+"개 명부 등장 기록 · 고유 인원 및 실제 출연 인원과 다릅니다.";
  $("rows").replaceChildren();const frag=document.createDocumentFragment();
- for(const x of out){const tr=el("tr"), name=el("td"), b=el("button",x.name);b.type="button";b.addEventListener("click",()=>{q.value=x.name;$("ensemble").value="";$("scope").value="";$("category").value="";render()});name.append(b);tr.append(name);for(const v of [x.part,x.role||"미표기",x.ensemble,x.scope])tr.append(el("td",v));const td=el("td"),a=el("a",x.roster.transcription_review==="user_reviewed"?"검수 완료":x.roster.source.url?"웹 출처 · 미검수":"재검수 전");a.href=x.roster.source.url||(x.roster.source.wiki?"../#"+x.roster.source.wiki:"data/rosters/"+x.roster.id+".json");a.title=x.roster.source.label;td.append(a);tr.append(td);frag.append(tr)}$("rows").append(frag)}
+ for(const x of out){const tr=el("tr"), name=el("td"), b=el("button",x.name);b.type="button";b.addEventListener("click",()=>{q.value=x.name;$("ensemble").value="";$("scope").value="";$("category").value="";render()});name.append(b);tr.append(name);for(const v of [x.part,x.role||x.membership||"미표기",x.ensemble,x.scope])tr.append(el("td",v));const td=el("td"),a=el("a",x.roster.transcription_review==="user_reviewed"?"검수 완료":x.roster.source.url?"웹 출처 · 미검수":"재검수 전");a.href=x.roster.source.url||(x.roster.source.wiki?"../#"+x.roster.source.wiki:"data/rosters/"+x.roster.id+".json");a.title=x.roster.source.label;td.append(a);tr.append(td);frag.append(tr)}$("rows").append(frag)}
  for(const id of ["q","ensemble","scope","category"])$(id).addEventListener(id==="q"?"input":"change",render);
  const groups=new Map();for(const x of records.filter(x=>x.roster.concert_id&&["instrumentalist","chorister","dancer","actor"].includes(x.category))){const key=x.name+"\u0000"+x.part;if(!groups.has(key))groups.set(key,[]);groups.get(key).push(x)}
  for(const xs of groups.values()){if(new Set(xs.map(x=>x.roster.ensemble_id)).size<2)continue;const d=el("details"),head=el("summary",xs[0].name+" · "+xs[0].part+" — "+new Set(xs.map(x=>x.roster.ensemble_id)).size+"개 단체 (동일인 미확인)");d.append(head);for(const x of xs)d.append(el("p",x.scope+" / "+x.ensemble+" / "+(x.role||"직책 미표기")));$("matches").append(d)}
