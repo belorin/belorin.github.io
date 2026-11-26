@@ -8,7 +8,7 @@
     "page": null,
     "note": "인쇄 명단 전사. 협력업체와 병기 인명은 구별하며 업체 내 직급은 확정하지 않음."
   },
-  "transcription_review": "pending",
+  "transcription_review": "user_reviewed",
   "credits": [
     {
       "id": "2026-05-girls-credit-001",
@@ -58,7 +58,7 @@
           "label": "소녀들 프로그램북 · 제작진",
           "page": 9
         },
-        "transcription_review": "pending",
+        "transcription_review": "user_reviewed",
         "works": [
           {
             "genre": "연극",
@@ -127,7 +127,7 @@
           "label": "소녀들 프로그램북 · 제작진",
           "page": 9
         },
-        "transcription_review": "pending",
+        "transcription_review": "user_reviewed",
         "works": [
           {
             "genre": "연극",
@@ -182,7 +182,7 @@
           "label": "소녀들 프로그램북 · 제작진",
           "page": 9
         },
-        "transcription_review": "pending",
+        "transcription_review": "user_reviewed",
         "works": [
           {
             "genre": "연극",
@@ -249,7 +249,7 @@
           "label": "소녀들 프로그램북 · 제작진",
           "page": 9
         },
-        "transcription_review": "pending",
+        "transcription_review": "user_reviewed",
         "works": [
           {
             "genre": "연극",
@@ -307,7 +307,7 @@
           "label": "소녀들 프로그램북 · 제작진",
           "page": 9
         },
-        "transcription_review": "pending",
+        "transcription_review": "user_reviewed",
         "works": [
           {
             "genre": "연극",
@@ -377,7 +377,7 @@
           "label": "소녀들 프로그램북 · 제작진",
           "page": 9
         },
-        "transcription_review": "pending",
+        "transcription_review": "user_reviewed",
         "works": [
           {
             "genre": "연극",
@@ -424,7 +424,7 @@
           "label": "소녀들 프로그램북 · 제작진",
           "page": 9
         },
-        "transcription_review": "pending",
+        "transcription_review": "user_reviewed",
         "works": [
           {
             "genre": "연극",
@@ -477,7 +477,7 @@
           "label": "소녀들 프로그램북 · 제작진",
           "page": 9
         },
-        "transcription_review": "pending",
+        "transcription_review": "user_reviewed",
         "works": [
           {
             "genre": "국악뮤지컬",
@@ -518,7 +518,7 @@
           "label": "소녀들 프로그램북 · 제작진",
           "page": 9
         },
-        "transcription_review": "pending",
+        "transcription_review": "user_reviewed",
         "works": [
           {
             "genre": "연극",
@@ -563,7 +563,7 @@
           "label": "소녀들 프로그램북 · 제작진",
           "page": 9
         },
-        "transcription_review": "pending",
+        "transcription_review": "user_reviewed",
         "works": [
           {
             "genre": "연극",
@@ -927,7 +927,7 @@
     {
       "label": "소녀들 프로그램북 · 제작진 약력",
       "page": 9,
-      "transcription_review": "pending"
+      "transcription_review": "user_reviewed"
     }
   ]
 }

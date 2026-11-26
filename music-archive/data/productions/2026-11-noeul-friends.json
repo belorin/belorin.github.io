@@ -1,0 +1,152 @@
+{
+  "id": "2026-11-noeul-friends",
+  "title": "노을, 길 위에서: 프렌즈",
+  "host": "극단 청춘",
+  "organizer": "극단 청춘",
+  "source": {
+    "label": "노을, 길 위에서 프로그램북 · STAFF 및 자료 제공자 연출 정보",
+    "page": null,
+    "note": "하단 일부 이름의 아래쪽이 잘려 확대 판독으로 잠정 입력. 연출은 사용자 제공."
+  },
+  "transcription_review": "pending",
+  "support": {
+    "program": "2026 공연장상주단체육성지원사업",
+    "source_url": "https://www.gjcf.or.kr/cf/cultureart/list/calendar/21844/view.do"
+  },
+  "credits": [
+    {
+      "id": "2026-11-noeul-friends-credit-001",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "연출",
+      "name": "오설균",
+      "entity_type": "person",
+      "person_id": null,
+      "source_note": "자료 제공자 확인"
+    },
+    {
+      "id": "2026-11-noeul-friends-credit-002",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "예술감독",
+      "name": "정관섭",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-11-noeul-friends-credit-003",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "작가",
+      "name": "이현진",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-11-noeul-friends-credit-004",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "조연출",
+      "name": "이유정",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-11-noeul-friends-credit-005",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "작곡",
+      "name": "김경민",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-11-noeul-friends-credit-006",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "안무감독",
+      "name": "박예진",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-11-noeul-friends-credit-007",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "영상제작",
+      "name": "강현구",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-11-noeul-friends-credit-008",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "기획·홍보",
+      "name": "채희영",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-11-noeul-friends-credit-009",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대감독",
+      "name": "한창현",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-11-noeul-friends-credit-010",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대디자인",
+      "name": "윤지원",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2026-11-noeul-friends-credit-011",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "오퍼레이터",
+      "name": "김가연",
+      "entity_type": "person",
+      "person_id": null,
+      "transcription_note": "사진 하단 잘림; 잠정 판독, 사용자 검수 필요"
+    },
+    {
+      "id": "2026-11-noeul-friends-credit-012",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "소품",
+      "name": "정도연",
+      "entity_type": "person",
+      "person_id": null,
+      "transcription_note": "사진 하단 잘림; 잠정 판독, 사용자 검수 필요"
+    },
+    {
+      "id": "2026-11-noeul-friends-credit-013",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "진행",
+      "name": "김나은",
+      "entity_type": "person",
+      "person_id": null,
+      "transcription_note": "사진 하단 잘림; 잠정 판독, 사용자 검수 필요"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "theatre-cheongchun-2026-11-21",
+  "ensemble_id": "theatre-cheongchun",
+  "concert_id": "2026-11-noeul-friends-1",
+  "season": null,
+  "source": {
+    "label": "노을, 길 위에서 프로그램북 · CAST",
+    "wiki": null,
+    "page": null,
+    "type": "booklet_cast",
+    "production_id": "2026-11-noeul-friends"
+  },
+  "transcription_review": "pending",
+  "records": [
+    {
+      "id": "theatre-cheongchun-2026-11-21-001",
+      "name": "윤미란",
+      "part": "경애",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "theatre-cheongchun-2026-11-21-002",
+      "name": "김진희",
+      "part": "예숙",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "theatre-cheongchun-2026-11-21-003",
+      "name": "양정인",
+      "part": "숙희",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "theatre-cheongchun-2026-11-21-004",
+      "name": "위희정",
+      "part": "희란",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "theatre-cheongchun-2026-11-21-005",
+      "name": "한종신",
+      "part": "아들 외 다역",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "theatre-cheongchun-2026-11-21-006",
+      "name": "김선주",
+      "part": "가수",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    }
+  ]
+}

@@ -70,6 +70,11 @@
       "id": "gwangju-city-theatre",
       "name": "광주시립극단",
       "type": "theatre"
+    },
+    {
+      "id": "theatre-cheongchun",
+      "name": "극단 청춘",
+      "type": "theatre"
     }
   ],
   "concerts": [
@@ -482,6 +487,27 @@
       "soloists": null,
       "ensemble_source": "공연 관람자 제공 참여 단체 정보",
       "documentation_note": "확보된 프로그램북 자료에는 전남광주합창단의 개인 명부만 확인된다. 나머지 세 단체의 개별 명단은 미확보. 공연 전체 책자의 누락 여부와 사유는 별도 확인하지 않았다. 교향악단은 기존 GSO와 잠정 연결하며 공연 당시 제공 명칭을 별도로 보존한다."
+    },
+    {
+      "id": "2026-11-noeul-friends-1",
+      "date": "2026-11-21",
+      "time": "17:00",
+      "duration_minutes": 80,
+      "title": "노을, 길 위에서: 프렌즈",
+      "genre": "theatre",
+      "production_id": "2026-11-noeul-friends",
+      "session_number": 1,
+      "ensemble_ids": [
+        "theatre-cheongchun"
+      ],
+      "work_ids": [
+        "noeul-friends"
+      ],
+      "venue": "서빛마루문화예술회관",
+      "conductor": null,
+      "soloists": null,
+      "source_url": "https://www.gjcf.or.kr/cf/cultureart/list/calendar/21844/view.do",
+      "documentation_note": "광주문화재단 및 문화포털 공연 안내에서 일정·장소·단체·초연 확인. 연출 오설균은 자료 제공자 확인. 배역 및 제작진은 프로그램북. 실제 개별 출연 및 극단 소속은 별도 미확인."
     }
   ],
   "works": [
@@ -507,6 +533,14 @@
       "composer": null,
       "author": "이난영",
       "genre": "theatre"
+    },
+    {
+      "id": "noeul-friends",
+      "title": "노을, 길 위에서",
+      "subtitle": "프렌즈",
+      "author": "이현진",
+      "genre": "theatre",
+      "composer": null
     }
   ],
   "roster_ids": [
@@ -533,11 +567,13 @@
     "gwangju-women-philharmonic-2025-11-08",
     "park-sooyong-jazz-orchestra-2026-10-31",
     "gwangju-city-theatre-girls",
-    "gso-2026-06-17"
+    "gso-2026-06-17",
+    "theatre-cheongchun-2026-11-21"
   ],
   "persons": [],
   "production_credit_ids": [
     "2026-10-la-sylphide",
-    "2026-05-girls"
+    "2026-05-girls",
+    "2026-11-noeul-friends"
   ]
 }
