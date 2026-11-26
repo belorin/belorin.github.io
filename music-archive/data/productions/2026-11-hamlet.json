@@ -1106,8 +1106,17 @@
       "name_b": "강현구",
       "a": "gwangju-city-theatre-hamlet-012",
       "related_production_id": "2026-11-noeul-friends",
-      "status": "unresolved",
-      "reason": "배우와 영상제작 크레딧 이름 일치, 분야 차이로 자동 연결하지 않음."
+      "status": "likely",
+      "reason": "이름 일치 및 자료 제공자가 두 프로그램북의 인쇄 프로필 사진이 동일하다고 직접 확인. 배우·영상제작 간 연결 유력.",
+      "b": "2026-11-noeul-friends-credit-007",
+      "evidence": [
+        {
+          "type": "user_reported_booklet_comparison",
+          "label": "자료 제공자의 햄릿·노을, 길 위에서 프로그램북 대조",
+          "reported_on": "2026-11-26",
+          "note": "사용자가 동일 사진이라고 보고함. 사진 자체는 저장하지 않고, 독립적인 신원 확정은 하지 않음."
+        }
+      ]
     }
   ]
 }
