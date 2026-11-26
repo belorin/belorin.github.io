@@ -1,0 +1,247 @@
+{
+  "id": "park-sooyong-jazz-orchestra-2026-10-31",
+  "ensemble_id": "park-sooyong-jazz-orchestra",
+  "concert_id": "2026-10-31-jazz-on-stage",
+  "season": null,
+  "source": {
+    "label": "박수용 재즈오케스트라 콘서트 프로그램북 · 빅밴드 오케스트라",
+    "wiki": null,
+    "page": null,
+    "type": "booklet_cast"
+  },
+  "transcription_review": "pending",
+  "records": [
+    {
+      "id": "park-sooyong-jazz-orchestra-2026-10-31-001",
+      "name": "정예닮",
+      "part": "알토 색소폰",
+      "source_part": "Alto Sax 1",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "park-sooyong-jazz-orchestra-2026-10-31-002",
+      "name": "김한나",
+      "part": "알토 색소폰",
+      "source_part": "Alto Sax 2",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "park-sooyong-jazz-orchestra-2026-10-31-003",
+      "name": "황태룡",
+      "part": "테너 색소폰",
+      "source_part": "Tenor Sax 1",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "park-sooyong-jazz-orchestra-2026-10-31-004",
+      "name": "나사랑 온누리에",
+      "part": "테너 색소폰",
+      "source_part": "Tenor Sax 2",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified",
+      "transcription_note": "원문 문자열 보존. 한 명인지 복수 인명인지 미확인."
+    },
+    {
+      "id": "park-sooyong-jazz-orchestra-2026-10-31-005",
+      "name": "김희수",
+      "part": "바리톤 색소폰",
+      "source_part": "Baritone Sax",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "park-sooyong-jazz-orchestra-2026-10-31-006",
+      "name": "기경일",
+      "part": "트럼펫",
+      "source_part": "Trumpet 1",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "park-sooyong-jazz-orchestra-2026-10-31-007",
+      "name": "기동필",
+      "part": "트럼펫",
+      "source_part": "Trumpet 2",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "park-sooyong-jazz-orchestra-2026-10-31-008",
+      "name": "마종재",
+      "part": "트럼펫",
+      "source_part": "Trumpet 3",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "park-sooyong-jazz-orchestra-2026-10-31-009",
+      "name": "김광형",
+      "part": "트럼펫",
+      "source_part": "Trumpet 4",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "park-sooyong-jazz-orchestra-2026-10-31-010",
+      "name": "이상헌",
+      "part": "트롬본",
+      "source_part": "Trombone 1",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "park-sooyong-jazz-orchestra-2026-10-31-011",
+      "name": "홍성혁",
+      "part": "트롬본",
+      "source_part": "Trombone 2",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "park-sooyong-jazz-orchestra-2026-10-31-012",
+      "name": "김의찬",
+      "part": "트롬본",
+      "source_part": "Trombone 3",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "park-sooyong-jazz-orchestra-2026-10-31-013",
+      "name": "정선우",
+      "part": "트롬본",
+      "source_part": "Trombone 4",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "park-sooyong-jazz-orchestra-2026-10-31-014",
+      "name": "강윤숙",
+      "part": "피아노",
+      "source_part": "Jazz Piano",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "park-sooyong-jazz-orchestra-2026-10-31-015",
+      "name": "박현아",
+      "part": "키보드",
+      "source_part": "Keyboards",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "park-sooyong-jazz-orchestra-2026-10-31-016",
+      "name": "김수곤",
+      "part": "기타",
+      "source_part": "Guitar",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "park-sooyong-jazz-orchestra-2026-10-31-017",
+      "name": "김자경",
+      "part": "바이올린",
+      "source_part": "Violin",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "park-sooyong-jazz-orchestra-2026-10-31-018",
+      "name": "전사무엘",
+      "part": "베이스",
+      "source_part": "Bass",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "park-sooyong-jazz-orchestra-2026-10-31-019",
+      "name": "윤영훈",
+      "part": "드럼",
+      "source_part": "Drums",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "park-sooyong-jazz-orchestra-2026-10-31-020",
+      "name": "최수희",
+      "part": "편곡",
+      "source_part": "편곡",
+      "role": "편곡",
+      "printed_mark": null,
+      "category": "stage_crew",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "park-sooyong-jazz-orchestra-2026-10-31-021",
+      "name": "박한율",
+      "part": "편곡",
+      "source_part": "편곡",
+      "role": "편곡",
+      "printed_mark": null,
+      "category": "stage_crew",
+      "person_id": null,
+      "attendance": "unverified"
+    }
+  ]
+}

@@ -60,6 +60,11 @@
         ],
         "verification": "프로그램북 자체 소개, 외부 검증 미실시"
       }
+    },
+    {
+      "id": "park-sooyong-jazz-orchestra",
+      "name": "박수용 재즈오케스트라",
+      "type": "jazz_big_band"
     }
   ],
   "concerts": [
@@ -278,6 +283,29 @@
       "documentation_note": "프로그램북의 회차별 발레 예정 캐스팅 및 제작 프로젝트 공통 오케스트라 명부 확보. 박승유 지휘, 광주여성필하모닉오케스트라 협연. 실제 회차별 출연 여부 미확인."
     },
     {
+      "id": "2026-10-31-jazz-on-stage",
+      "date": "2026-10-31",
+      "time": "19:00",
+      "title": "Jazz On Stage — 박수용 재즈오케스트라 콘서트 with 김용필",
+      "genre": "music",
+      "subgenre": "jazz",
+      "ensemble_ids": [
+        "park-sooyong-jazz-orchestra"
+      ],
+      "work_ids": [],
+      "venue": "서빛마루문화예술회관",
+      "conductor": null,
+      "soloists": [
+        {
+          "name": "김용필",
+          "role": "가수",
+          "status": "announced"
+        }
+      ],
+      "source_url": "https://seobitmaru.seogu.gwangju.kr/user/sub101010/detail?event_no=202609-110288&page=1",
+      "documentation_note": "빅밴드 오케스트라 프로그램북 명단 및 편곡 크레딧. 회차 제목·시간·장소·김용필 협연은 공식 공연 안내에 근거. 실제 출연 및 테너 색소폰 2의 인명 구분 미확인."
+    },
+    {
       "id": "2026-11-06-beethoven-9",
       "date": "2026-11-06",
       "title": "베토벤 교향곡 제9번",
@@ -371,7 +399,8 @@
     "gwangju-ballet-sylphide-3",
     "gwangju-ballet-2026-10-members",
     "gwangju-women-philharmonic-sylphide",
-    "gwangju-women-philharmonic-2025-11-08"
+    "gwangju-women-philharmonic-2025-11-08",
+    "park-sooyong-jazz-orchestra-2026-10-31"
   ],
   "persons": [],
   "production_credit_ids": [
