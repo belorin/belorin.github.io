@@ -11,7 +11,7 @@
     "accessed_on": "2026-11-26",
     "type": "online_cast_announcement"
   },
-  "transcription_review": "pending",
+  "transcription_review": "source_reviewed",
   "records": [
     {
       "id": "gso-chamber-2026-08-21-001",
@@ -163,5 +163,22 @@
       "person_id": null,
       "attendance": "unverified"
     }
-  ]
+  ],
+  "source_review": {
+    "reviewed_on": "2026-11-27",
+    "status": "matched",
+    "fields": [
+      "name",
+      "part",
+      "date",
+      "time"
+    ],
+    "sources": [
+      {
+        "label": "광주일보 2026-07-27",
+        "url": "https://v.daum.net/v/W0DeuwEohf"
+      }
+    ],
+    "note": "공개 공연 안내/예고의 예정 출연 명단 대조. 실제 출연 및 단원 소속 확정 아님."
+  }
 }

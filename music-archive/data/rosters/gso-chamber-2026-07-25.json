@@ -11,7 +11,7 @@
     "accessed_on": "2026-11-26",
     "type": "online_cast_announcement"
   },
-  "transcription_review": "pending",
+  "transcription_review": "source_reviewed",
   "records": [
     {
       "id": "gso-chamber-2026-07-25-001",
@@ -21,7 +21,12 @@
       "printed_mark": null,
       "category": "instrumentalist",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "reported_role": {
+        "role": "수석",
+        "source_url": "https://v.daum.net/v/20260714184228183",
+        "note": "광주매일신문 2026-07-14의 소개. 2026-06-17 및 09-18 프로그램북 차석 표기와 불일치; 승급 여부 미확정."
+      }
     },
     {
       "id": "gso-chamber-2026-07-25-002",
@@ -63,5 +68,25 @@
       "person_id": null,
       "attendance": "unverified"
     }
-  ]
+  ],
+  "source_review": {
+    "reviewed_on": "2026-11-27",
+    "status": "matched",
+    "fields": [
+      "name",
+      "part",
+      "date",
+      "time"
+    ],
+    "sources": [
+      {
+        "label": "광주매일신문 2026-07-14 및 YES24",
+        "url": "https://v.daum.net/v/20260714184228183"
+      },
+      {
+        "url": "https://m.ticket.yes24.com/Perf/Detail/PerfEtcInfo.aspx?IdPerf=59128&IdSubGenre=15471"
+      }
+    ],
+    "note": "공개 공연 안내/예고의 예정 출연 명단 대조. 실제 출연 및 단원 소속 확정 아님."
+  }
 }

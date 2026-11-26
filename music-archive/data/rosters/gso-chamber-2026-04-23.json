@@ -11,7 +11,7 @@
     "accessed_on": "2026-11-26",
     "type": "online_cast_announcement"
   },
-  "transcription_review": "pending",
+  "transcription_review": "source_reviewed",
   "records": [
     {
       "id": "gso-chamber-2026-04-23-001",
@@ -21,7 +21,14 @@
       "printed_mark": null,
       "category": "instrumentalist",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "reported_affiliation": {
+        "organization": "광주시립교향악단",
+        "role": "단원",
+        "source_url": "https://www.acc.go.kr/main/performance.do?PID=0102&action=Read&bnkey=EM_0000009374",
+        "as_of": "2026-04-23",
+        "note": "공식 공연 약력 표기."
+      }
     },
     {
       "id": "gso-chamber-2026-04-23-002",
@@ -31,7 +38,14 @@
       "printed_mark": null,
       "category": "instrumentalist",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "reported_affiliation": {
+        "organization": "광주시립교향악단",
+        "role": "단원",
+        "source_url": "https://www.acc.go.kr/main/performance.do?PID=0102&action=Read&bnkey=EM_0000009374",
+        "as_of": "2026-04-23",
+        "note": "공식 공연 약력 표기."
+      }
     },
     {
       "id": "gso-chamber-2026-04-23-003",
@@ -41,7 +55,14 @@
       "printed_mark": null,
       "category": "instrumentalist",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "reported_affiliation": {
+        "organization": "광주시립교향악단",
+        "role": "단원",
+        "source_url": "https://www.acc.go.kr/main/performance.do?PID=0102&action=Read&bnkey=EM_0000009374",
+        "as_of": "2026-04-23",
+        "note": "공식 공연 약력 표기."
+      }
     },
     {
       "id": "gso-chamber-2026-04-23-004",
@@ -53,5 +74,22 @@
       "person_id": null,
       "attendance": "unverified"
     }
-  ]
+  ],
+  "source_review": {
+    "reviewed_on": "2026-11-27",
+    "status": "matched",
+    "fields": [
+      "name",
+      "part",
+      "date",
+      "time"
+    ],
+    "sources": [
+      {
+        "label": "국립아시아문화전당 공식 공연 안내",
+        "url": "https://www.acc.go.kr/main/performance.do?PID=0102&action=Read&bnkey=EM_0000009374"
+      }
+    ],
+    "note": "공개 공연 안내/예고의 예정 출연 명단 대조. 실제 출연 및 단원 소속 확정 아님."
+  }
 }

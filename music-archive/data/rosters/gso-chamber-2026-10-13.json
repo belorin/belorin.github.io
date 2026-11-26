@@ -11,7 +11,7 @@
     "accessed_on": "2026-11-26",
     "type": "online_cast_announcement"
   },
-  "transcription_review": "pending",
+  "transcription_review": "source_reviewed",
   "records": [
     {
       "id": "gso-chamber-2026-10-13-001",
@@ -21,7 +21,12 @@
       "printed_mark": null,
       "category": "instrumentalist",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "reported_role": {
+        "role": "수석",
+        "source_url": "https://v.daum.net/v/83EQFO2uCQ",
+        "note": "광주일보 공연 소개의 악단 직책."
+      }
     },
     {
       "id": "gso-chamber-2026-10-13-002",
@@ -31,7 +36,12 @@
       "printed_mark": null,
       "category": "instrumentalist",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "reported_role": {
+        "role": "수석",
+        "source_url": "https://v.daum.net/v/83EQFO2uCQ",
+        "note": "광주일보 공연 소개의 악단 직책."
+      }
     },
     {
       "id": "gso-chamber-2026-10-13-003",
@@ -43,5 +53,28 @@
       "person_id": null,
       "attendance": "unverified"
     }
-  ]
+  ],
+  "source_review": {
+    "reviewed_on": "2026-11-27",
+    "status": "matched",
+    "fields": [
+      "name",
+      "part",
+      "date",
+      "time"
+    ],
+    "sources": [
+      {
+        "label": "광주일보 2026-09-28",
+        "url": "https://v.daum.net/v/20260928124239437"
+      },
+      {
+        "url": "https://v.daum.net/v/83EQFO2uCQ"
+      },
+      {
+        "url": "https://koreagenda.com/ko/events/trio-pathetique-2026-99510e"
+      }
+    ],
+    "note": "공개 공연 안내/예고의 예정 출연 명단 대조. 실제 출연 및 단원 소속 확정 아님."
+  }
 }

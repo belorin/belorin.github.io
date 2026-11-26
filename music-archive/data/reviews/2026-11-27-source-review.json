@@ -1,0 +1,24 @@
+{
+  "id": "2026-11-27-source-review",
+  "date": "2026-11-27",
+  "base_commit": "531d82de94ead17d453c748859091a4e6e161a1b",
+  "scope": "체임버 7개 명부의 이름·악기·일정 대조 및 일부 공연 메타데이터 보완",
+  "result": {
+    "rosters": 7,
+    "records": 42,
+    "missing_parts_resolved": 6,
+    "attendance_verified": 0
+  },
+  "prior_ci": {
+    "commit": "531d82de94ead17d453c748859091a4e6e161a1b",
+    "run": "https://github.com/belorin/belorin.github.io/actions/runs/45844541764",
+    "conclusion": "success",
+    "note": "기존 전체 명부 및 제작 크레딧 검증, 인물 연결 테스트, SQLite 변환 및 Pages 배포 워크플로 성공."
+  },
+  "limitations": [
+    "공개 공연 예고는 실제 출연 증거가 아님",
+    "개별 동일인 확정 없음",
+    "전체 사진 재전사 검수 아님",
+    "박병준 직책 상충 미해결"
+  ]
+}
