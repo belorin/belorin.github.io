@@ -8,7 +8,7 @@
     "page": null,
     "note": "소품제작 업체명 여우비 여우별은 원문 병기 그대로 하나의 표기 단위로 저장. 원작자는 제작 참여 인력에서 구별."
   },
-  "transcription_review": "pending",
+  "transcription_review": "user_reviewed",
   "credits": [
     {
       "id": "2026-11-hamlet-credit-001",
@@ -37,7 +37,7 @@
           "label": "햄릿 프로그램북 · 제작진",
           "page": 12
         },
-        "transcription_review": "pending",
+        "transcription_review": "user_reviewed",
         "works": [
           {
             "genre": "연극",
@@ -83,7 +83,7 @@
           "label": "햄릿 프로그램북 · 제작진",
           "page": 12
         },
-        "transcription_review": "pending",
+        "transcription_review": "user_reviewed",
         "works": [
           {
             "genre": "연극",
@@ -127,7 +127,7 @@
           "label": "햄릿 프로그램북 · 제작진",
           "page": 12
         },
-        "transcription_review": "pending",
+        "transcription_review": "user_reviewed",
         "works": [
           {
             "genre": "연극",
@@ -171,7 +171,7 @@
           "label": "햄릿 프로그램북 · 제작진",
           "page": 12
         },
-        "transcription_review": "pending",
+        "transcription_review": "user_reviewed",
         "works": [
           {
             "genre": "연극",
@@ -217,7 +217,7 @@
           "label": "햄릿 프로그램북 · 제작진",
           "page": 12
         },
-        "transcription_review": "pending",
+        "transcription_review": "user_reviewed",
         "works": [
           {
             "genre": "연극",
@@ -263,7 +263,7 @@
           "label": "햄릿 프로그램북 · 제작진",
           "page": 12
         },
-        "transcription_review": "pending",
+        "transcription_review": "user_reviewed",
         "works": [
           {
             "genre": "연극",
@@ -307,7 +307,7 @@
           "label": "햄릿 프로그램북 · 제작진",
           "page": 13
         },
-        "transcription_review": "pending",
+        "transcription_review": "user_reviewed",
         "works": [
           {
             "genre": "연극",
@@ -351,7 +351,7 @@
           "label": "햄릿 프로그램북 · 제작진",
           "page": 13
         },
-        "transcription_review": "pending",
+        "transcription_review": "user_reviewed",
         "works": [
           {
             "genre": "연극",
@@ -395,7 +395,7 @@
           "label": "햄릿 프로그램북 · 제작진",
           "page": 13
         },
-        "transcription_review": "pending",
+        "transcription_review": "user_reviewed",
         "works": [
           {
             "genre": "연극",
@@ -439,7 +439,7 @@
           "label": "햄릿 프로그램북 · 제작진",
           "page": 13
         },
-        "transcription_review": "pending",
+        "transcription_review": "user_reviewed",
         "works": [],
         "awards": [],
         "affiliations": [
@@ -468,7 +468,7 @@
           "label": "햄릿 프로그램북 · 제작진",
           "page": 13
         },
-        "transcription_review": "pending",
+        "transcription_review": "user_reviewed",
         "works": [
           {
             "genre": "연극",
@@ -512,7 +512,7 @@
           "label": "햄릿 프로그램북 · 제작진",
           "page": 13
         },
-        "transcription_review": "pending",
+        "transcription_review": "user_reviewed",
         "works": [
           {
             "genre": "연극",
@@ -1089,7 +1089,7 @@
         12,
         13
       ],
-      "transcription_review": "pending"
+      "transcription_review": "user_reviewed"
     }
   ],
   "profile_review_candidates": [
