@@ -74,7 +74,7 @@
 - [교향곡은 영화 이전의 블록버스터였는가: 작곡가·지휘자 팬덤과 인물 신화](https://belorin.github.io/notes/orchestra-composer-conductor-myth/): 말러·쇼스타코비치 7번·토스카니니·카라얀·번스타인을 통해 교향악 작품과 인간을 함께 사랑하는 팬덤, 정전·전기·방송·지휘자의 몸을 분석한다.
 - [살아 있는 작곡가들을 여행하는 현대 교향악: 1977~2025 작품 연표와 12주 청취 지도](https://belorin.github.io/notes/living-orchestral-listening-journey/): 패르트·애덤스·진은숙·아데스·토르발스도티르·오르티스 등의 작품을 연도순으로 정리하고 미학적 다섯 갈래와 12주 청취 코스를 제안한다.
 - [살아 있는 작곡가의 22.5%: 2026년 가을 오케스트라 통계와 재연의 제도](https://belorin.github.io/notes/orchestra-repertoire-repeat-performance-autumn-2026/): 10월 공개된 미국 오케스트라 보고서에서 생존 작곡가 비중과 내부 구성의 차이를 읽고, Toulmin 신규 위촉 컨소시엄과 지역 재연 사례를 작품의 생애라는 질문에 연결한다.
-- [광주시립교향악단 단원 명부와 공연 참여 기록](https://belorin.github.io/notes/gwangju-symphony-roster/): 광주시립교향악단 2026년 후반 시즌 책자에 기재된 74명의 파트별 명부와 직책을 보존하고 이후 공연별 출연 및 시즌별 변화를 축적한다.
+- [광주시립교향악단 단원 명부와 공연 참여 기록](https://belorin.github.io/notes/gwangju-symphony-roster/): 광주시립교향악단 2026년 후반 시즌 74명 명부와 10월 23일 Nordic Echo 공연 명부(연주자 85명, 객원 표시 17명)를 비교하고 공연별·시즌별 변화를 축적한다.
 
 ### AI와 사회
 
