@@ -45,6 +45,7 @@ jobs:
           node scripts/test-viewer.mjs
           node --check music-archive/app.js
           node music-archive/validate.mjs
+          node music-archive/test-identity.mjs
           python3 music-archive/export_sqlite.py /tmp/music-archive.sqlite
       - name: Commit regenerated files to main
         run: |

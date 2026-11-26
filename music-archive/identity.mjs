@@ -31,6 +31,6 @@ export function buildIdentity(cat,rosters,overrides={links:[]}){
   return [...pairs.entries()].map(([k,m])=>({ensembles:k.split("|"),count:m.size,candidates:[...m.values()].sort((a,b)=>a.label.localeCompare(b.label,"ko"))})).sort((a,b)=>b.count-a.count);
  }
  function dossier(id,mode="possible"){const min=rank[mode]??1;return edges.filter(e=>(e.a===id||e.b===id)&&rank[e.status]>=min).map(e=>({record:byId.get(e.a===id?e.b:e.a),status:e.status,reason:e.reason,evidence:e.evidence}));}
- const review=[...nameGroups].filter(([n,xs])=>xs.some(x=>!x.family)&&xs.some(x=>x.family)).map(([name,xs])=>({name,record_ids:xs.map(x=>x.id),reason:"이름 일치, 일부 악기 미확인; 자동 연결 제외"}));
+ const review=[...nameGroups].filter(([n,xs])=>xs.length>1&&(xs.some(x=>!x.family)||new Set(xs.map(x=>x.family)).size>1)).map(([name,xs])=>({name,record_ids:xs.map(x=>x.id),reason:"이름 일치, 일부 분야 미확인 또는 분야 상이; 이 경우 자동 연결 제외"}));
  return {rows,byId,edges,groups,network,dossier,review};
 }

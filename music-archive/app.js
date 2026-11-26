@@ -32,10 +32,19 @@ async function main(){
  const overrides=await get("data/identity-links.json"), identity=buildIdentity(cat,rosters,overrides);
  const match=$("matches"), mode=$("identity-mode"), iq=$("identity-q"), network=$("identity-network");
  const sourceName=x=>x.concert_id?eventLabel(concerts.get(x.concert_id)):rosters.find(r=>r.id===x.roster_id)?.season||x.roster_id;
+ function drawNetwork(pairs){
+ const ids=[...new Set(pairs.flatMap(p=>p.ensembles))];if(!ids.length)return;
+ const ns="http://www.w3.org/2000/svg",svg=document.createElementNS(ns,"svg"),make=(tag,attrs,t)=>{const n=document.createElementNS(ns,tag);for(const [k,v] of Object.entries(attrs))n.setAttribute(k,String(v));if(t)n.textContent=t;return n};
+ const width=660,height=Math.max(300,ids.length*58),cx=width/2,cy=height/2;
+ svg.setAttribute("viewBox","0 0 "+width+" "+height);svg.setAttribute("role","img");svg.setAttribute("aria-label","단체 간 동일인 연결 후보 관계망");svg.style.width="100%";svg.style.maxHeight="540px";
+ const pos=new Map(ids.map((id,i)=>{const a=-Math.PI/2+2*Math.PI*i/ids.length;return [id,[cx+Math.cos(a)*220,cy+Math.sin(a)*(height/2-43)]]}));
+ const max=Math.max(...pairs.map(p=>p.count));for(const p of pairs){const [a,b]=p.ensembles.map(id=>pos.get(id));svg.append(make("line",{x1:a[0],y1:a[1],x2:b[0],y2:b[1],stroke:"currentColor","stroke-opacity":".35","stroke-width":1+5*p.count/max,"stroke-dasharray":mode.value==="confirmed"?"none":"6 4"}));svg.append(make("text",{x:(a[0]+b[0])/2,y:(a[1]+b[1])/2-8,fill:"currentColor","font-size":16,"text-anchor":"middle","paint-order":"stroke",stroke:"var(--bg)","stroke-width":5},String(p.count)))}
+ for(const id of ids){const [x,y]=pos.get(id),name=ens.get(id);svg.append(make("rect",{x:x-100,y:y-22,width:200,height:44,rx:8,fill:"var(--panel)",stroke:"var(--accent)"}));svg.append(make("text",{x,y:y+5,fill:"currentColor","font-size":name.length>14?12:14,"text-anchor":"middle"},name))}network.append(svg);
+ }
  function showIdentity(){
  network.replaceChildren();match.replaceChildren();
  const pairs=identity.network(mode.value);const total=pairs.reduce((s,p)=>s+p.count,0);
- network.append(el("p",pairs.length+"개 단체 쌍 · "+total+"개 단체 쌍별 연결 후보 (고유 인물 수 아님)"));
+ network.append(el("p",pairs.length+"개 단체 쌍 · "+total+"개 단체 쌍별 연결 후보 (고유 인물 수 아님)"));drawNetwork(pairs);
  for(const p of pairs){const d=el("details");d.append(el("summary",p.ensembles.map(id=>ens.get(id)).join(" ↔ ")+" · "+p.count+"개"));for(const c of p.candidates)d.append(el("p",c.label+" / "+statusLabels[c.status]));network.append(d)}
  if(!pairs.length)network.append(el("p","해당 기준의 교차 연결 없음"));
  const query=iq.value.trim().toLowerCase();if(!query){match.append(el("p","이름을 입력하면 직접 연결된 활동 이력과 근거를 표시합니다."));return}
