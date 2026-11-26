@@ -2,27 +2,16 @@
   "schema": 1,
   "project": "world-reports",
   "phase": "pilot",
-  "revision": 8,
+  "revision": 9,
   "limit": 20,
   "paths": {
     "evidence": "wiki/world-report-evidence.md",
     "concepts": "wiki/world-report-concepts.md",
     "reading": "wiki/world-report-reading.md"
   },
-  "current_question": "의료비 곤란과 식단 구매 불능은 같은 가구에 얼마나 중첩되며, 의료비 경감 이후 그 공동 결핍은 어떻게 변하는가?",
-  "current_thesis": "충격의 비용은 현재 지출·미래 상환·이용 포기로 이동할 수 있으며, 위험 분산 범위와 재원의 도착 시점이 보호의 지속성을 좌우할 수 있다는 가설이다. 식량에서는 이용 포기뿐 아니라 소비의 질 저하가 비용을 은폐할 수 있다는 전이 가설을 추가한다. 식량의 가격 상승만으로 구매 불능이나 영양 손실을 추론할 수 없으며 가용 예산과 최소 식단 비용의 관계가 중요하다. 필수 서비스 간 예산 경쟁으로 한 분야의 비용 변화가 다른 분야의 구매 가능성에 영향을 줄 수 있다는 가설을 추가한다. 세계 평균의 개선이나 개별 결핍률만으로 공동 결핍과 정책의 교차 효과를 식별할 수 없다.",
+  "current_question": "필수 지출 충격 이후 소비를 유지한 가구에서 노동시간과 시간당 실질소득은 어떻게 변하는가?",
+  "current_thesis": "충격의 비용은 현재 지출·미래 상환·이용 포기로 이동할 수 있으며, 위험 분산 범위와 재원의 도착 시점이 보호의 지속성을 좌우할 수 있다는 가설이다. 식량에서는 이용 포기뿐 아니라 소비의 질 저하가 비용을 은폐할 수 있다는 전이 가설을 추가한다. 식량의 가격 상승만으로 구매 불능이나 영양 손실을 추론할 수 없으며 가용 예산과 최소 식단 비용의 관계가 중요하다. 필수 서비스 간 예산 경쟁으로 한 분야의 비용 변화가 다른 분야의 구매 가능성에 영향을 줄 수 있다는 가설을 추가한다. 세계 평균의 개선이나 개별 결핍률만으로 공동 결핍과 정책의 교차 효과를 식별할 수 없다. 추가 노동을 통해 소비를 유지할 경우 충격 비용이 시간으로 이전될 수 있다는 가설을 추가한다.",
   "recent": [
-    {
-      "run": 3,
-      "op": "combine",
-      "external": false,
-      "result": "기후 취약국의 보호 격차와 외부 조달비용을 결합해 동일한 급여 적용률도 위험의 동시 발생과 사전 확보된 재원에 따라 위기 시 지급 지속성이 달라질 수 있다는 가설을 도출했다.",
-      "changed": [
-        "wiki/world-report-concepts.md",
-        "wiki/world-report-reading.md"
-      ],
-      "outcome": "changed"
-    },
     {
       "run": 4,
       "op": "synthesize",
@@ -73,6 +62,17 @@
       "op": "challenge",
       "external": false,
       "result": "세계 평균의 개선은 같은 사람의 보호 개선과 다르며, 의료비 부담과 식단 구매 불능의 주변 비율만으로 두 결핍의 중첩이나 정책의 교차 효과를 식별할 수 없다.",
+      "changed": [
+        "wiki/world-report-concepts.md",
+        "wiki/world-report-reading.md"
+      ],
+      "outcome": "changed"
+    },
+    {
+      "run": 9,
+      "op": "transfer",
+      "external": false,
+      "result": "의료·식량의 비용 경쟁과 재난 후 비용 이연을 노동에 전이해, 노동시간 증가가 소득 회복이 아니라 필수 소비를 유지하기 위한 추가 부담일 수 있다는 가설을 도출했다.",
       "changed": [
         "wiki/world-report-concepts.md",
         "wiki/world-report-reading.md"
