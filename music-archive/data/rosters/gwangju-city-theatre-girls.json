@@ -1,0 +1,175 @@
+{
+  "id": "gwangju-city-theatre-girls",
+  "ensemble_id": "gwangju-city-theatre",
+  "concert_id": "2026-05-girls-1",
+  "applies_to_concert_ids": [
+    "2026-05-girls-1",
+    "2026-05-girls-2",
+    "2026-05-girls-3",
+    "2026-05-girls-4",
+    "2026-05-girls-5"
+  ],
+  "season": null,
+  "source": {
+    "label": "소녀들 프로그램북 · 함께 만드는 이들 / 출연",
+    "wiki": null,
+    "page": null,
+    "type": "booklet_production_cast",
+    "production_id": "2026-05-girls",
+    "url": "https://gjart.gwangju.go.kr/ko/cmd.do?bnum=9768&boper=view&opencode=p05074",
+    "note": "출연 명단은 사진 전사. URL은 별도 공식 일정 자료이며 사진의 원본 URL은 아님. 회차 구분 및 배역 표기 없음."
+  },
+  "transcription_review": "pending",
+  "records": [
+    {
+      "id": "gwangju-city-theatre-girls-001",
+      "name": "고영욱",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-girls-002",
+      "name": "김세희",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-girls-003",
+      "name": "김형욱",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-girls-004",
+      "name": "노현지",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-girls-005",
+      "name": "박영국",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-girls-006",
+      "name": "오창선",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-girls-007",
+      "name": "이명덕",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-girls-008",
+      "name": "이유진",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-girls-009",
+      "name": "이종경",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-girls-010",
+      "name": "이지은",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-girls-011",
+      "name": "정은지",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-girls-012",
+      "name": "정일행",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-girls-013",
+      "name": "조아라",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-girls-014",
+      "name": "차상경",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-city-theatre-girls-015",
+      "name": "한중곤",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    }
+  ]
+}

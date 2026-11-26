@@ -1,0 +1,495 @@
+{
+  "id": "2026-05-girls",
+  "title": "소녀들",
+  "organizer": "광주시립극단",
+  "host": "광주예술의전당",
+  "source": {
+    "label": "소녀들 프로그램북 · 함께 만드는 이들",
+    "page": null,
+    "note": "인쇄 명단 전사. 협력업체와 병기 인명은 구별하며 업체 내 직급은 확정하지 않음."
+  },
+  "transcription_review": "pending",
+  "credits": [
+    {
+      "id": "2026-05-girls-credit-001",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "예술감독",
+      "name": "원광연",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-002",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "작",
+      "name": "이난영",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-003",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "각색·연출",
+      "name": "김지훈",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-004",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대디자인",
+      "name": "김교은",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-005",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "조명디자인",
+      "name": "황종량",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-006",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "의상디자인",
+      "name": "박현주",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-007",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "분장·헤어",
+      "name": "이은경",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-008",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대감독",
+      "name": "김상오",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-009",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "음악감독(작·편곡)",
+      "name": "임주신",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-010",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "움직임 지도",
+      "name": "고재경",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-011",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "영상디자인",
+      "name": "최정혜",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-012",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "음향감독",
+      "name": "황성훈",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-013",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대조감독",
+      "name": "송민종",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-014",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "조연출 및 음악 오퍼",
+      "name": "오윤지",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-015",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "영상 오퍼",
+      "name": "양동수",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-016",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "조명 크루",
+      "name": "신지호",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-017",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "조명 크루",
+      "name": "정해인",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-018",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대 진행",
+      "name": "박준걸",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-019",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대 진행",
+      "name": "김성호",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-020",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대 진행",
+      "name": "유승효",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-021",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대 진행",
+      "name": "노유승",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-022",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "분장 진행",
+      "name": "이은경",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-023",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "분장 진행",
+      "name": "허유정",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-024",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "분장 진행",
+      "name": "조희정",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-025",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "음향 진행",
+      "name": "김이슬",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "창·제작진"
+    },
+    {
+      "id": "2026-05-girls-credit-026",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대 제작",
+      "name": "풀 굿",
+      "entity_type": "vendor",
+      "person_id": null,
+      "section": "프로덕션 협력업체"
+    },
+    {
+      "id": "2026-05-girls-credit-027",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "조명·영상 임차",
+      "name": "우리 컴퍼니",
+      "entity_type": "vendor",
+      "person_id": null,
+      "section": "프로덕션 협력업체"
+    },
+    {
+      "id": "2026-05-girls-credit-028",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "의상 제작",
+      "name": "드레스 이루다",
+      "entity_type": "vendor",
+      "person_id": null,
+      "section": "프로덕션 협력업체"
+    },
+    {
+      "id": "2026-05-girls-credit-029",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "분장·헤어",
+      "name": "분장 후 컴퍼니",
+      "entity_type": "vendor",
+      "person_id": null,
+      "section": "프로덕션 협력업체"
+    },
+    {
+      "id": "2026-05-girls-credit-030",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "음향임차",
+      "name": "탑 사운드",
+      "entity_type": "vendor",
+      "person_id": null,
+      "section": "프로덕션 협력업체"
+    },
+    {
+      "id": "2026-05-girls-credit-031",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "디자인·인쇄",
+      "name": "페이퍼뮤즈랩",
+      "entity_type": "vendor",
+      "person_id": null,
+      "section": "홍보협력업체",
+      "printed_contact": "이현숙"
+    },
+    {
+      "id": "2026-05-girls-credit-032",
+      "scope": "production",
+      "organization": "페이퍼뮤즈랩",
+      "department": null,
+      "role": "디자인·인쇄",
+      "name": "이현숙",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "홍보협력업체",
+      "credit_context": "업체명과 함께 인쇄된 개인, 직급 미확인"
+    },
+    {
+      "id": "2026-05-girls-credit-033",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "홍보영상·사진",
+      "name": "가능한 창작관",
+      "entity_type": "vendor",
+      "person_id": null,
+      "section": "홍보협력업체",
+      "printed_contact": "황인호"
+    },
+    {
+      "id": "2026-05-girls-credit-034",
+      "scope": "production",
+      "organization": "가능한 창작관",
+      "department": null,
+      "role": "홍보영상·사진",
+      "name": "황인호",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "홍보협력업체",
+      "credit_context": "업체명과 함께 인쇄된 개인, 직급 미확인"
+    },
+    {
+      "id": "2026-05-girls-credit-035",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "옥외홍보",
+      "name": "나눔과 비전",
+      "entity_type": "vendor",
+      "person_id": null,
+      "section": "홍보협력업체",
+      "printed_contact": "서석현"
+    },
+    {
+      "id": "2026-05-girls-credit-036",
+      "scope": "production",
+      "organization": "나눔과 비전",
+      "department": null,
+      "role": "옥외홍보",
+      "name": "서석현",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "홍보협력업체",
+      "credit_context": "업체명과 함께 인쇄된 개인, 직급 미확인"
+    },
+    {
+      "id": "2026-05-girls-credit-037",
+      "scope": "organization_roster",
+      "organization": "광주시립극단",
+      "department": "사무국",
+      "role": "운영실장",
+      "name": "지해나",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "광주시립극단 사무국"
+    },
+    {
+      "id": "2026-05-girls-credit-038",
+      "scope": "organization_roster",
+      "organization": "광주시립극단",
+      "department": "사무국",
+      "role": "기획·홍보",
+      "name": "강주희",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "광주시립극단 사무국"
+    },
+    {
+      "id": "2026-05-girls-credit-039",
+      "scope": "organization_roster",
+      "organization": "광주시립극단",
+      "department": "사무국",
+      "role": "의상·소품",
+      "name": "범정화",
+      "entity_type": "person",
+      "person_id": null,
+      "section": "광주시립극단 사무국"
+    }
+  ],
+  "related_credit_candidates": [
+    {
+      "a": "2026-05-girls-credit-019",
+      "b": "2026-10-la-sylphide-credit-024",
+      "status": "possible",
+      "reason": "이름 일치, 무대 제작 업무 계열 일치",
+      "evidence": [
+        {
+          "label": "소녀들 및 라 실피드 프로그램북"
+        }
+      ]
+    },
+    {
+      "a": "2026-05-girls-credit-020",
+      "b": "2026-10-la-sylphide-credit-031",
+      "status": "possible",
+      "reason": "이름 일치, 무대 제작 업무 계열 일치",
+      "evidence": [
+        {
+          "label": "소녀들 및 라 실피드 프로그램북"
+        }
+      ]
+    },
+    {
+      "a": "2026-05-girls-credit-021",
+      "b": "2026-10-la-sylphide-credit-027",
+      "status": "possible",
+      "reason": "이름 일치, 무대 제작 업무 계열 일치",
+      "evidence": [
+        {
+          "label": "소녀들 및 라 실피드 프로그램북"
+        }
+      ]
+    },
+    {
+      "a": "2026-05-girls-credit-038",
+      "b": "2026-10-la-sylphide-credit-074",
+      "status": "possible",
+      "reason": "이름 일치, 공연기관 사무·운영 명부",
+      "evidence": [
+        {
+          "label": "소녀들 및 라 실피드 프로그램북"
+        }
+      ]
+    }
+  ]
+}

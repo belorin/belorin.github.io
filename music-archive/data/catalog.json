@@ -65,6 +65,11 @@
       "id": "park-sooyong-jazz-orchestra",
       "name": "박수용 재즈오케스트라",
       "type": "jazz_big_band"
+    },
+    {
+      "id": "gwangju-city-theatre",
+      "name": "광주시립극단",
+      "type": "theatre"
     }
   ],
   "concerts": [
@@ -126,6 +131,111 @@
       "series": "체임버 시리즈",
       "series_number": "II",
       "source_url": "https://www.acc.go.kr/main/performance.do?PID=0102&action=Read&bnkey=EM_0000009374"
+    },
+    {
+      "id": "2026-05-girls-1",
+      "date": "2026-05-07",
+      "time": "19:30",
+      "title": "소녀들 — 1회차",
+      "genre": "theatre",
+      "production_id": "2026-05-girls",
+      "session_number": 1,
+      "ensemble_ids": [
+        "gwangju-city-theatre"
+      ],
+      "work_ids": [
+        "girls-lee-nanyoung"
+      ],
+      "venue": "광주예술의전당 소극장",
+      "conductor": null,
+      "soloists": null,
+      "series_number": "제26회",
+      "source_url": "https://gjart.gwangju.go.kr/ko/cmd.do?bnum=9768&boper=view&opencode=p05074",
+      "documentation_note": "공식 공연 안내 일정. 프로그램북 공통 출연 명단 및 창·제작진 확보. 배우별 배역·소속 및 실제 회차별 출연 여부 미확인. 광주예술의전당 주최, 광주시립극단 주관."
+    },
+    {
+      "id": "2026-05-girls-2",
+      "date": "2026-05-08",
+      "time": "14:00",
+      "title": "소녀들 — 2회차",
+      "genre": "theatre",
+      "production_id": "2026-05-girls",
+      "session_number": 2,
+      "ensemble_ids": [
+        "gwangju-city-theatre"
+      ],
+      "work_ids": [
+        "girls-lee-nanyoung"
+      ],
+      "venue": "광주예술의전당 소극장",
+      "conductor": null,
+      "soloists": null,
+      "series_number": "제26회",
+      "source_url": "https://gjart.gwangju.go.kr/ko/cmd.do?bnum=9768&boper=view&opencode=p05074",
+      "documentation_note": "공식 공연 안내 일정. 프로그램북 공통 출연 명단 및 창·제작진 확보. 배우별 배역·소속 및 실제 회차별 출연 여부 미확인. 광주예술의전당 주최, 광주시립극단 주관."
+    },
+    {
+      "id": "2026-05-girls-3",
+      "date": "2026-05-08",
+      "time": "19:30",
+      "title": "소녀들 — 3회차",
+      "genre": "theatre",
+      "production_id": "2026-05-girls",
+      "session_number": 3,
+      "ensemble_ids": [
+        "gwangju-city-theatre"
+      ],
+      "work_ids": [
+        "girls-lee-nanyoung"
+      ],
+      "venue": "광주예술의전당 소극장",
+      "conductor": null,
+      "soloists": null,
+      "series_number": "제26회",
+      "source_url": "https://gjart.gwangju.go.kr/ko/cmd.do?bnum=9768&boper=view&opencode=p05074",
+      "documentation_note": "공식 공연 안내 일정. 프로그램북 공통 출연 명단 및 창·제작진 확보. 배우별 배역·소속 및 실제 회차별 출연 여부 미확인. 광주예술의전당 주최, 광주시립극단 주관."
+    },
+    {
+      "id": "2026-05-girls-4",
+      "date": "2026-05-09",
+      "time": "16:00",
+      "title": "소녀들 — 4회차",
+      "genre": "theatre",
+      "production_id": "2026-05-girls",
+      "session_number": 4,
+      "ensemble_ids": [
+        "gwangju-city-theatre"
+      ],
+      "work_ids": [
+        "girls-lee-nanyoung"
+      ],
+      "venue": "광주예술의전당 소극장",
+      "conductor": null,
+      "soloists": null,
+      "series_number": "제26회",
+      "source_url": "https://gjart.gwangju.go.kr/ko/cmd.do?bnum=9768&boper=view&opencode=p05074",
+      "documentation_note": "공식 공연 안내 일정. 프로그램북 공통 출연 명단 및 창·제작진 확보. 배우별 배역·소속 및 실제 회차별 출연 여부 미확인. 광주예술의전당 주최, 광주시립극단 주관."
+    },
+    {
+      "id": "2026-05-girls-5",
+      "date": "2026-05-09",
+      "time": "19:30",
+      "title": "소녀들 — 5회차",
+      "genre": "theatre",
+      "production_id": "2026-05-girls",
+      "session_number": 5,
+      "ensemble_ids": [
+        "gwangju-city-theatre"
+      ],
+      "work_ids": [
+        "girls-lee-nanyoung"
+      ],
+      "venue": "광주예술의전당 소극장",
+      "conductor": null,
+      "soloists": null,
+      "series_number": "제26회",
+      "source_url": "https://gjart.gwangju.go.kr/ko/cmd.do?bnum=9768&boper=view&opencode=p05074",
+      "documentation_note": "공식 공연 안내 일정. 프로그램북 공통 출연 명단 및 창·제작진 확보. 배우별 배역·소속 및 실제 회차별 출연 여부 미확인. 광주예술의전당 주최, 광주시립극단 주관."
     },
     {
       "id": "2026-06-30-gso-chamber-iii",
@@ -376,6 +486,13 @@
       "title": "라 실피드",
       "composer": null,
       "genre": "ballet"
+    },
+    {
+      "id": "girls-lee-nanyoung",
+      "title": "소녀들",
+      "composer": null,
+      "author": "이난영",
+      "genre": "theatre"
     }
   ],
   "roster_ids": [
@@ -400,10 +517,12 @@
     "gwangju-ballet-2026-10-members",
     "gwangju-women-philharmonic-sylphide",
     "gwangju-women-philharmonic-2025-11-08",
-    "park-sooyong-jazz-orchestra-2026-10-31"
+    "park-sooyong-jazz-orchestra-2026-10-31",
+    "gwangju-city-theatre-girls"
   ],
   "persons": [],
   "production_credit_ids": [
-    "2026-10-la-sylphide"
+    "2026-10-la-sylphide",
+    "2026-05-girls"
   ]
 }
