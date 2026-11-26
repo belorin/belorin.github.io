@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 877,
+  "edge_count": 879,
   "edges": [
     {
       "from": "living-notes",
@@ -4994,6 +4994,18 @@
     {
       "from": "gwangju-symphony-roster",
       "to": "orchestra-halls-seasons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gwangju-symphony-roster",
+      "to": "camerata-jeonnam-roster",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "camerata-jeonnam-roster",
+      "to": "gwangju-symphony-roster",
       "type": "related_to",
       "basis": "manifest.related"
     },

@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1577개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1579개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (33)
 
@@ -857,7 +857,7 @@
 - 소프트웨어 개발 외주·EOR·프리랜서 계약 구별 → `global-bpo-labor-geography` § 개발자 아웃소싱의 새로운 연결층: EOR와 인력 플랫폼 · `ing-20261104-local-llm-global-developer-work`
 - 아프리카 개발자 다핵 네트워크와 원격 급여의 함정 → `global-bpo-labor-geography` § 아프리카 개발자 시장: 단일한 값싼 예비군이 아닌 다핵 구조 · `ing-20261104-local-llm-global-developer-work`
 
-## 음악 (134)
+## 음악 (136)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -995,6 +995,8 @@
 - 시즌별 명부와 실제 공연 참여 기록의 분리 및 누적 → `gwangju-symphony-roster` § 공연별 참여 기록; `gwangju-symphony-roster` § 시즌별 구성 변화 · `ing-20261126-gwangju-symphony-roster`
 - 2026-10-23 Nordic Echo 공연 책자 파트별 명부와 객원 표기 → `gwangju-symphony-roster` § 2026-10-23 — Nordic Echo · `ing-20261126-gso-nordic-echo`
 - 후반 시즌 명부와 Nordic Echo 공연 명부 인원 및 직책 차이 → `gwangju-symphony-roster` § 후반 시즌 명부와 비교 · `ing-20261126-gso-nordic-echo`
+- 카메라타전남 2026년 11월 6일 공연 명부 → `camerata-jeonnam-roster` § 2026-11-06 — 베토벤 교향곡 제9번 · `ing-20261126-camerata-jeonnam-beethoven9`
+- 광주시향 Nordic Echo와 카메라타전남 명부의 이름·파트 일치 사례 → `camerata-jeonnam-roster` § 광주시향 공연과의 교차 기록; `gwangju-symphony-roster` § 다른 지역 악단과의 교차 기록 · `ing-20261126-camerata-jeonnam-beethoven9`
 
 ## 과학과 기술 (101)
 
