@@ -1,0 +1,37 @@
+{
+  "id": "ing-20261126-camerata-jeonnam-beethoven9",
+  "processed_on": "2026-11-26",
+  "coverage": "visible-complete",
+  "limit_note": "공연 프로그램북 사진 명부와 기존 광주시향 명부 비교. 실제 출연과 동일인 여부 미확인.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "카메라타전남 2026년 11월 6일 공연 명부",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "camerata-jeonnam-roster",
+          "section": "2026-11-06 — 베토벤 교향곡 제9번"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "광주시향 Nordic Echo와 카메라타전남 명부의 이름·파트 일치 사례",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "camerata-jeonnam-roster",
+          "section": "광주시향 공연과의 교차 기록"
+        },
+        {
+          "doc_id": "gwangju-symphony-roster",
+          "section": "다른 지역 악단과의 교차 기록"
+        }
+      ]
+    }
+  ]
+}
