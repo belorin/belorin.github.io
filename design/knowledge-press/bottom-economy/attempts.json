@@ -29,6 +29,32 @@
         "total": null,
         "availability": "not_exposed"
       }
+    },
+    {
+      "attempt": "2026-11-26T10:17:06.967Z",
+      "source": "scheduled_executor",
+      "started_at": "2026-11-26T10:17:06.967Z",
+      "ended_at": null,
+      "duration_seconds": null,
+      "reported_stage": "contracts_read",
+      "stages": [
+        {
+          "stage": "contracts_read",
+          "status": "ok"
+        }
+      ],
+      "outcome": "started",
+      "reason_code": null,
+      "reason_detail": null,
+      "github_commit": null,
+      "state_revision_before": 3,
+      "state_revision_after": null,
+      "token_usage": {
+        "input": null,
+        "output": null,
+        "total": null,
+        "availability": "not_exposed"
+      }
     }
   ]
 }
