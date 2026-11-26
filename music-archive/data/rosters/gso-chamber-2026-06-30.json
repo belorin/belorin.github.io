@@ -1,0 +1,67 @@
+{
+  "id": "gso-chamber-2026-06-30",
+  "ensemble_id": "gso",
+  "concert_id": "2026-06-30-gso-chamber-iii",
+  "season": null,
+  "source": {
+    "label": "시사의창 공연 예고 · Brahms & Schumann",
+    "wiki": null,
+    "page": null,
+    "url": "https://sisaissue.com/View.aspx?No=4101287",
+    "accessed_on": "2026-11-26",
+    "type": "online_cast_announcement"
+  },
+  "transcription_review": "pending",
+  "records": [
+    {
+      "id": "gso-chamber-2026-06-30-001",
+      "name": "이수연",
+      "part": "바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-06-30-002",
+      "name": "김소연",
+      "part": "바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-06-30-003",
+      "name": "엄광용",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-06-30-004",
+      "name": "이후성",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-06-30-005",
+      "name": "김연",
+      "part": "피아노",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    }
+  ]
+}

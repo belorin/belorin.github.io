@@ -1,0 +1,167 @@
+{
+  "id": "gso-chamber-2026-08-21",
+  "ensemble_id": "gso",
+  "concert_id": "2026-08-21-gso-chamber-v",
+  "season": null,
+  "source": {
+    "label": "광주일보 공연 예고 · Brass & Beat",
+    "wiki": null,
+    "page": null,
+    "url": "https://v.daum.net/v/W0DeuwEohf",
+    "accessed_on": "2026-11-26",
+    "type": "online_cast_announcement"
+  },
+  "transcription_review": "pending",
+  "records": [
+    {
+      "id": "gso-chamber-2026-08-21-001",
+      "name": "정태진",
+      "part": "트럼펫",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-08-21-002",
+      "name": "기경일",
+      "part": "트럼펫",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-08-21-003",
+      "name": "추선호",
+      "part": "트럼펫",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-08-21-004",
+      "name": "이혁준",
+      "part": "트럼펫",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-08-21-005",
+      "name": "양지명",
+      "part": "호른",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-08-21-006",
+      "name": "이정현",
+      "part": "호른",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-08-21-007",
+      "name": "박남미",
+      "part": "호른",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-08-21-008",
+      "name": "장주연",
+      "part": "호른",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-08-21-009",
+      "name": "서용일",
+      "part": "트롬본",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-08-21-010",
+      "name": "이상헌",
+      "part": "트롬본",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-08-21-011",
+      "name": "김용환",
+      "part": "트롬본",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-08-21-012",
+      "name": "김태혁",
+      "part": "트롬본",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-08-21-013",
+      "name": "심재영",
+      "part": "튜바",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-08-21-014",
+      "name": "임예지",
+      "part": "팀파니",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-08-21-015",
+      "name": "이현동",
+      "part": "타악기",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    }
+  ]
+}

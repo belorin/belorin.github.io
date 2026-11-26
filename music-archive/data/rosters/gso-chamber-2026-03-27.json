@@ -1,0 +1,57 @@
+{
+  "id": "gso-chamber-2026-03-27",
+  "ensemble_id": "gso",
+  "concert_id": "2026-03-27-gso-chamber-i",
+  "season": null,
+  "source": {
+    "label": "국립아시아문화전당 공식 공연 소개 · From Vienna to Bohemia",
+    "wiki": null,
+    "page": null,
+    "url": "https://www.acc.go.kr/main/performance.do?PID=0102&action=Read&bnkey=EM_0000009298",
+    "accessed_on": "2026-11-26",
+    "type": "online_cast_announcement"
+  },
+  "transcription_review": "pending",
+  "records": [
+    {
+      "id": "gso-chamber-2026-03-27-001",
+      "name": "강다영",
+      "part": "바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-03-27-002",
+      "name": "조수영",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-03-27-003",
+      "name": "나유빈",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-03-27-004",
+      "name": "김성재",
+      "part": "피아노",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    }
+  ]
+}

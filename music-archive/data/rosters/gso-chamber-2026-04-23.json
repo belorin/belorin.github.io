@@ -1,0 +1,57 @@
+{
+  "id": "gso-chamber-2026-04-23",
+  "ensemble_id": "gso",
+  "concert_id": "2026-04-23-gso-chamber-ii",
+  "season": null,
+  "source": {
+    "label": "국립아시아문화전당 공식 공연 소개 · April Romance",
+    "wiki": null,
+    "page": null,
+    "url": "https://www.acc.go.kr/main/performance.do?PID=0102&action=Read&bnkey=EM_0000009374",
+    "accessed_on": "2026-11-26",
+    "type": "online_cast_announcement"
+  },
+  "transcription_review": "pending",
+  "records": [
+    {
+      "id": "gso-chamber-2026-04-23-001",
+      "name": "이준",
+      "part": "바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-04-23-002",
+      "name": "양신애",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-04-23-003",
+      "name": "나유빈",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-04-23-004",
+      "name": "이철민",
+      "part": "피아노",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    }
+  ]
+}

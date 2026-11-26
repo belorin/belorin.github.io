@@ -1,0 +1,77 @@
+{
+  "id": "gso-chamber-2026-11-11",
+  "ensemble_id": "gso",
+  "concert_id": "2026-11-11-gso-chamber-vii",
+  "season": null,
+  "source": {
+    "label": "오브리 공연 정보 · Souvenir",
+    "wiki": null,
+    "page": null,
+    "url": "https://obri.co.kr/events/118734",
+    "accessed_on": "2026-11-26",
+    "type": "online_cast_announcement"
+  },
+  "transcription_review": "pending",
+  "records": [
+    {
+      "id": "gso-chamber-2026-11-11-001",
+      "name": "이후성",
+      "part": "미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-11-11-002",
+      "name": "석민정",
+      "part": "미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-11-11-003",
+      "name": "김예빈",
+      "part": "미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-11-11-004",
+      "name": "나유빈",
+      "part": "미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-11-11-005",
+      "name": "이다영",
+      "part": "미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-11-11-006",
+      "name": "이영민",
+      "part": "미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    }
+  ]
+}

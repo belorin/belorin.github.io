@@ -35,6 +35,102 @@
   ],
   "concerts": [
     {
+      "id": "2026-03-27-gso-chamber-i",
+      "date": "2026-03-27",
+      "title": "체임버 시리즈 I — From Vienna to Bohemia",
+      "ensemble_ids": [
+        "gso"
+      ],
+      "work_ids": [],
+      "venue": "국립아시아문화전당 예술극장 극장2",
+      "conductor": null,
+      "soloists": null,
+      "documentation_note": "온라인 공연 안내에 기재된 출연 예정 명단. 실제 무대 출연은 미확인.",
+      "series": "체임버 시리즈",
+      "series_number": "I",
+      "source_url": "https://www.acc.go.kr/main/performance.do?PID=0102&action=Read&bnkey=EM_0000009298"
+    },
+    {
+      "id": "2026-04-23-gso-chamber-ii",
+      "date": "2026-04-23",
+      "title": "체임버 시리즈 II — April Romance",
+      "ensemble_ids": [
+        "gso"
+      ],
+      "work_ids": [],
+      "venue": "국립아시아문화전당 예술극장 극장2",
+      "conductor": null,
+      "soloists": null,
+      "documentation_note": "온라인 공연 안내에 기재된 출연 예정 명단. 실제 무대 출연은 미확인.",
+      "series": "체임버 시리즈",
+      "series_number": "II",
+      "source_url": "https://www.acc.go.kr/main/performance.do?PID=0102&action=Read&bnkey=EM_0000009374"
+    },
+    {
+      "id": "2026-06-30-gso-chamber-iii",
+      "date": "2026-06-30",
+      "title": "체임버 시리즈 III — Brahms & Schumann",
+      "ensemble_ids": [
+        "gso"
+      ],
+      "work_ids": [],
+      "venue": "광주예술의전당 소극장",
+      "conductor": null,
+      "soloists": null,
+      "documentation_note": "온라인 공연 안내에 기재된 출연 예정 명단. 실제 무대 출연은 미확인.",
+      "series": "체임버 시리즈",
+      "series_number": "III",
+      "source_url": "https://sisaissue.com/View.aspx?No=4101287"
+    },
+    {
+      "id": "2026-07-25-gso-chamber-iv",
+      "date": "2026-07-25",
+      "title": "체임버 시리즈 IV — The Art of Bassoon",
+      "ensemble_ids": [
+        "gso"
+      ],
+      "work_ids": [],
+      "venue": "전남광주예술의전당 소극장",
+      "conductor": null,
+      "soloists": null,
+      "documentation_note": "온라인 공연 안내에 기재된 출연 예정 명단. 실제 무대 출연은 미확인.",
+      "series": "체임버 시리즈",
+      "series_number": "IV",
+      "source_url": "https://v.daum.net/v/20260714184228183"
+    },
+    {
+      "id": "2026-08-21-gso-chamber-v",
+      "date": "2026-08-21",
+      "title": "체임버 시리즈 V — Brass & Beat",
+      "ensemble_ids": [
+        "gso"
+      ],
+      "work_ids": [],
+      "venue": "전남광주예술의전당 소극장",
+      "conductor": null,
+      "soloists": null,
+      "documentation_note": "온라인 공연 안내에 기재된 출연 예정 명단. 실제 무대 출연은 미확인.",
+      "series": "체임버 시리즈",
+      "series_number": "V",
+      "source_url": "https://v.daum.net/v/W0DeuwEohf"
+    },
+    {
+      "id": "2026-10-13-gso-chamber-vi",
+      "date": "2026-10-13",
+      "title": "체임버 시리즈 VI — Trio : Pathetique",
+      "ensemble_ids": [
+        "gso"
+      ],
+      "work_ids": [],
+      "venue": "전남광주예술의전당 소극장",
+      "conductor": null,
+      "soloists": null,
+      "documentation_note": "온라인 공연 안내에 기재된 출연 예정 명단. 실제 무대 출연은 미확인.",
+      "series": "체임버 시리즈",
+      "series_number": "VI",
+      "source_url": "https://v.daum.net/v/20260928124239437"
+    },
+    {
       "id": "2026-10-23-nordic-echo",
       "date": "2026-10-23",
       "title": "Nordic Echo",
@@ -61,6 +157,22 @@
       "venue": null,
       "conductor": null,
       "soloists": null
+    },
+    {
+      "id": "2026-11-11-gso-chamber-vii",
+      "date": "2026-11-11",
+      "title": "체임버 시리즈 VII — Souvenir",
+      "ensemble_ids": [
+        "gso"
+      ],
+      "work_ids": [],
+      "venue": "전남광주통합특별시 예술의전당",
+      "conductor": null,
+      "soloists": null,
+      "documentation_note": "온라인 공연 안내에 기재된 출연 예정 명단. 실제 무대 출연은 미확인.",
+      "series": "체임버 시리즈",
+      "series_number": "VII",
+      "source_url": "https://obri.co.kr/events/118734"
     },
     {
       "id": "2026-11-19-elijah",
@@ -103,7 +215,14 @@
     "camerata-2026-11-06",
     "gwangyang-2026-11-06",
     "cnu-2026-11-06",
-    "gwangju-choir-2026-11-19"
+    "gwangju-choir-2026-11-19",
+    "gso-chamber-2026-03-27",
+    "gso-chamber-2026-04-23",
+    "gso-chamber-2026-06-30",
+    "gso-chamber-2026-07-25",
+    "gso-chamber-2026-08-21",
+    "gso-chamber-2026-10-13",
+    "gso-chamber-2026-11-11"
   ],
   "persons": []
 }

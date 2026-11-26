@@ -1,0 +1,47 @@
+{
+  "id": "gso-chamber-2026-10-13",
+  "ensemble_id": "gso",
+  "concert_id": "2026-10-13-gso-chamber-vi",
+  "season": null,
+  "source": {
+    "label": "지역 언론 공연 예고 · Trio : Pathetique",
+    "wiki": null,
+    "page": null,
+    "url": "https://v.daum.net/v/20260928124239437",
+    "accessed_on": "2026-11-26",
+    "type": "online_cast_announcement"
+  },
+  "transcription_review": "pending",
+  "records": [
+    {
+      "id": "gso-chamber-2026-10-13-001",
+      "name": "주민혁",
+      "part": "클라리넷",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-10-13-002",
+      "name": "엄광용",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-10-13-003",
+      "name": "김연",
+      "part": "피아노",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    }
+  ]
+}

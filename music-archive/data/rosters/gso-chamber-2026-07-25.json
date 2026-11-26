@@ -1,0 +1,67 @@
+{
+  "id": "gso-chamber-2026-07-25",
+  "ensemble_id": "gso",
+  "concert_id": "2026-07-25-gso-chamber-iv",
+  "season": null,
+  "source": {
+    "label": "지역 언론 공연 예고 · The Art of Bassoon",
+    "wiki": null,
+    "page": null,
+    "url": "https://v.daum.net/v/20260714184228183",
+    "accessed_on": "2026-11-26",
+    "type": "online_cast_announcement"
+  },
+  "transcription_review": "pending",
+  "records": [
+    {
+      "id": "gso-chamber-2026-07-25-001",
+      "name": "박병준",
+      "part": "바순",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-07-25-002",
+      "name": "정수지",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-07-25-003",
+      "name": "송애리",
+      "part": "오보에",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-07-25-004",
+      "name": "오승은",
+      "part": "바순",
+      "role": "객원",
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gso-chamber-2026-07-25-005",
+      "name": "이철민",
+      "part": "피아노",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    }
+  ]
+}
