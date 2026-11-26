@@ -1,0 +1,219 @@
+{
+  "id": "national-theatre-company-korea-frank-and-stein",
+  "ensemble_id": "national-theatre-company-korea",
+  "concert_id": "2025-12-frank-and-stein-1",
+  "applies_to_concert_ids": [
+    "2025-12-frank-and-stein-1",
+    "2025-12-frank-and-stein-2",
+    "2025-12-frank-and-stein-3",
+    "2025-12-frank-and-stein-4",
+    "2025-12-frank-and-stein-5"
+  ],
+  "season": null,
+  "source": {
+    "label": "프랑크 앤 슈타인 프로그램북 · 출연 및 제작진",
+    "wiki": null,
+    "page": null,
+    "type": "booklet_production_cast",
+    "production_id": "2025-12-frank-and-stein",
+    "note": "공동제작 출연 명부. 국립극단은 제작 단체 연결용으로, 배우의 소속 단원 여부는 미확인. 공식 홍보 영상에는 Amarbold를 아마르 Amarbold로 병기.",
+    "corroboration_url": "https://www.youtube.com/watch?v=PQ-5K3Vo6hU"
+  },
+  "transcription_review": "pending",
+  "records": [
+    {
+      "id": "national-theatre-company-korea-frank-and-stein-001",
+      "name": "고찬유",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "national-theatre-company-korea-frank-and-stein-002",
+      "name": "공지수",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "national-theatre-company-korea-frank-and-stein-003",
+      "name": "김무준",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "national-theatre-company-korea-frank-and-stein-004",
+      "name": "김유진",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "national-theatre-company-korea-frank-and-stein-005",
+      "name": "남긍호",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "national-theatre-company-korea-frank-and-stein-006",
+      "name": "신기현",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "national-theatre-company-korea-frank-and-stein-007",
+      "name": "양병현",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "national-theatre-company-korea-frank-and-stein-008",
+      "name": "양정인",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "national-theatre-company-korea-frank-and-stein-009",
+      "name": "이승주",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "national-theatre-company-korea-frank-and-stein-010",
+      "name": "이은지",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "national-theatre-company-korea-frank-and-stein-011",
+      "name": "이채연",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "national-theatre-company-korea-frank-and-stein-012",
+      "name": "이채윤",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "national-theatre-company-korea-frank-and-stein-013",
+      "name": "이효성",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "national-theatre-company-korea-frank-and-stein-014",
+      "name": "정은재",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "national-theatre-company-korea-frank-and-stein-015",
+      "name": "정현우",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "national-theatre-company-korea-frank-and-stein-016",
+      "name": "조성경",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "national-theatre-company-korea-frank-and-stein-017",
+      "name": "한경수",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "national-theatre-company-korea-frank-and-stein-018",
+      "name": "황성준",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "national-theatre-company-korea-frank-and-stein-019",
+      "name": "Amarbold",
+      "part": "배역 미확인",
+      "role": null,
+      "printed_mark": null,
+      "category": "actor",
+      "person_id": null,
+      "attendance": "unverified",
+      "cast_name_aliases": [
+        "아마르"
+      ],
+      "transcription_note": "공식 홍보 영상 표기 아마르 Amarbold; 프로그램북 원문 Amarbold 유지."
+    }
+  ]
+}

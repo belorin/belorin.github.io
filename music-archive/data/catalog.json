@@ -78,6 +78,11 @@
       "id": "theatre-cheongchun",
       "name": "극단 청춘",
       "type": "theatre"
+    },
+    {
+      "id": "national-theatre-company-korea",
+      "name": "국립극단",
+      "type": "theatre"
     }
   ],
   "concerts": [
@@ -94,6 +99,111 @@
       "conductor": null,
       "soloists": null,
       "documentation_note": "공연 날짜 및 제목은 자료 제공자 확인. 프로그램북 출연 명단을 기록하며 실제 출연 및 단원 소속 형태는 미확인."
+    },
+    {
+      "id": "2025-12-frank-and-stein-1",
+      "date": "2025-12-04",
+      "time": "19:30",
+      "title": "프랑크 앤 슈타인 — 1회차",
+      "genre": "theatre",
+      "subgenre": "넌버벌 신체극",
+      "production_id": "2025-12-frank-and-stein",
+      "session_number": 1,
+      "ensemble_ids": [
+        "national-theatre-company-korea"
+      ],
+      "work_ids": [
+        "frank-and-stein"
+      ],
+      "venue": "광주예술의전당 소극장",
+      "conductor": null,
+      "soloists": null,
+      "source_url": "https://www.youtube.com/watch?v=PQ-5K3Vo6hU",
+      "documentation_note": "광주예술의전당 2025-11-14 공식 홍보 영상의 회차 일정. 국립극단·광주예술의전당 공동제작. 프로그램북 공통 출연 명부로 개별 회차 출연·배역·국립극단 소속은 미확인."
+    },
+    {
+      "id": "2025-12-frank-and-stein-2",
+      "date": "2025-12-05",
+      "time": "19:30",
+      "title": "프랑크 앤 슈타인 — 2회차",
+      "genre": "theatre",
+      "subgenre": "넌버벌 신체극",
+      "production_id": "2025-12-frank-and-stein",
+      "session_number": 2,
+      "ensemble_ids": [
+        "national-theatre-company-korea"
+      ],
+      "work_ids": [
+        "frank-and-stein"
+      ],
+      "venue": "광주예술의전당 소극장",
+      "conductor": null,
+      "soloists": null,
+      "source_url": "https://www.youtube.com/watch?v=PQ-5K3Vo6hU",
+      "documentation_note": "광주예술의전당 2025-11-14 공식 홍보 영상의 회차 일정. 국립극단·광주예술의전당 공동제작. 프로그램북 공통 출연 명부로 개별 회차 출연·배역·국립극단 소속은 미확인."
+    },
+    {
+      "id": "2025-12-frank-and-stein-3",
+      "date": "2025-12-06",
+      "time": "14:00",
+      "title": "프랑크 앤 슈타인 — 3회차",
+      "genre": "theatre",
+      "subgenre": "넌버벌 신체극",
+      "production_id": "2025-12-frank-and-stein",
+      "session_number": 3,
+      "ensemble_ids": [
+        "national-theatre-company-korea"
+      ],
+      "work_ids": [
+        "frank-and-stein"
+      ],
+      "venue": "광주예술의전당 소극장",
+      "conductor": null,
+      "soloists": null,
+      "source_url": "https://www.youtube.com/watch?v=PQ-5K3Vo6hU",
+      "documentation_note": "광주예술의전당 2025-11-14 공식 홍보 영상의 회차 일정. 국립극단·광주예술의전당 공동제작. 프로그램북 공통 출연 명부로 개별 회차 출연·배역·국립극단 소속은 미확인."
+    },
+    {
+      "id": "2025-12-frank-and-stein-4",
+      "date": "2025-12-06",
+      "time": "19:00",
+      "title": "프랑크 앤 슈타인 — 4회차",
+      "genre": "theatre",
+      "subgenre": "넌버벌 신체극",
+      "production_id": "2025-12-frank-and-stein",
+      "session_number": 4,
+      "ensemble_ids": [
+        "national-theatre-company-korea"
+      ],
+      "work_ids": [
+        "frank-and-stein"
+      ],
+      "venue": "광주예술의전당 소극장",
+      "conductor": null,
+      "soloists": null,
+      "source_url": "https://www.youtube.com/watch?v=PQ-5K3Vo6hU",
+      "documentation_note": "광주예술의전당 2025-11-14 공식 홍보 영상의 회차 일정. 국립극단·광주예술의전당 공동제작. 프로그램북 공통 출연 명부로 개별 회차 출연·배역·국립극단 소속은 미확인."
+    },
+    {
+      "id": "2025-12-frank-and-stein-5",
+      "date": "2025-12-07",
+      "time": "14:00",
+      "title": "프랑크 앤 슈타인 — 5회차",
+      "genre": "theatre",
+      "subgenre": "넌버벌 신체극",
+      "production_id": "2025-12-frank-and-stein",
+      "session_number": 5,
+      "ensemble_ids": [
+        "national-theatre-company-korea"
+      ],
+      "work_ids": [
+        "frank-and-stein"
+      ],
+      "venue": "광주예술의전당 소극장",
+      "conductor": null,
+      "soloists": null,
+      "source_url": "https://www.youtube.com/watch?v=PQ-5K3Vo6hU",
+      "documentation_note": "광주예술의전당 2025-11-14 공식 홍보 영상의 회차 일정. 국립극단·광주예술의전당 공동제작. 프로그램북 공통 출연 명부로 개별 회차 출연·배역·국립극단 소속은 미확인."
     },
     {
       "id": "2026-03-20-bohemian-spring",
@@ -681,6 +791,15 @@
       "author": "윌리엄 셰익스피어",
       "composer": null,
       "genre": "theatre"
+    },
+    {
+      "id": "frank-and-stein",
+      "title": "프랑크 앤 슈타인",
+      "author": "메리 셸리",
+      "adapter": "남긍호",
+      "genre": "theatre",
+      "composer": null,
+      "source_work": "프랑켄슈타인"
     }
   ],
   "roster_ids": [
@@ -709,13 +828,15 @@
     "gwangju-city-theatre-girls",
     "gso-2026-06-17",
     "theatre-cheongchun-2026-11-21",
-    "gwangju-city-theatre-hamlet"
+    "gwangju-city-theatre-hamlet",
+    "national-theatre-company-korea-frank-and-stein"
   ],
   "persons": [],
   "production_credit_ids": [
     "2026-10-la-sylphide",
     "2026-05-girls",
     "2026-11-noeul-friends",
-    "2026-11-hamlet"
+    "2026-11-hamlet",
+    "2025-12-frank-and-stein"
   ]
 }

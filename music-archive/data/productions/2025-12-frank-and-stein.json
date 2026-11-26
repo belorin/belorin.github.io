@@ -1,0 +1,234 @@
+{
+  "id": "2025-12-frank-and-stein",
+  "title": "프랑크 앤 슈타인",
+  "host": "예술경영지원센터",
+  "organizer": null,
+  "producers": [
+    "국립극단",
+    "광주예술의전당"
+  ],
+  "sponsors": [
+    "문화체육관광부"
+  ],
+  "source": {
+    "label": "프랑크 앤 슈타인 프로그램북 · 제작 및 출연 크레딧",
+    "page": null,
+    "note": "프로그램북 인쇄 명단. 원작자는 현대 제작 참여 인력에서 구별."
+  },
+  "transcription_review": "pending",
+  "support": {
+    "program": "2025 국립예술단체 전막 공연유통",
+    "source_url": "https://www.newdaily.co.kr/site/data/html/2025/11/05/2025110500125.amp.html"
+  },
+  "credits": [
+    {
+      "id": "2025-12-frank-and-stein-credit-001",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "원작",
+      "name": "메리 셸리",
+      "entity_type": "person",
+      "person_id": null,
+      "credit_context": "원작자, 현대 공연 제작 직접 참여 아님",
+      "printed_name": "메리 셸리(Mary Shelley)"
+    },
+    {
+      "id": "2025-12-frank-and-stein-credit-002",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "각색·연출",
+      "name": "남긍호",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2025-12-frank-and-stein-credit-003",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "드라마투르그",
+      "name": "김옥란",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2025-12-frank-and-stein-credit-004",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대디자인",
+      "name": "신승렬",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2025-12-frank-and-stein-credit-005",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "조명디자인",
+      "name": "고희선",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2025-12-frank-and-stein-credit-006",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "음향디자인",
+      "name": "안창용",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2025-12-frank-and-stein-credit-007",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "의상디자인",
+      "name": "이윤진",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2025-12-frank-and-stein-credit-008",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "소품디자인",
+      "name": "이예원",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2025-12-frank-and-stein-credit-009",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "분장디자인",
+      "name": "이수연",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2025-12-frank-and-stein-credit-010",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "음악감독",
+      "name": "조용경",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2025-12-frank-and-stein-credit-011",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "안무감독",
+      "name": "홍지현",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2025-12-frank-and-stein-credit-012",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "제작감독",
+      "name": "노병우",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2025-12-frank-and-stein-credit-013",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "무대감독",
+      "name": "이도하",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2025-12-frank-and-stein-credit-014",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "음향감독",
+      "name": "어규식",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2025-12-frank-and-stein-credit-015",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "조명감독",
+      "name": "정동권",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2025-12-frank-and-stein-credit-016",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "의상감독",
+      "name": "조은비",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2025-12-frank-and-stein-credit-017",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "조연출",
+      "name": "정지은",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2025-12-frank-and-stein-credit-018",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "조연출",
+      "name": "서진호",
+      "entity_type": "person",
+      "person_id": null
+    },
+    {
+      "id": "2025-12-frank-and-stein-credit-019",
+      "scope": "production",
+      "organization": null,
+      "department": null,
+      "role": "제작진행",
+      "name": "이효주",
+      "entity_type": "person",
+      "person_id": null
+    }
+  ],
+  "profile_review_candidates": [
+    {
+      "a": "national-theatre-company-korea-frank-and-stein-005",
+      "b": "2025-12-frank-and-stein-credit-002",
+      "name_a": "남긍호",
+      "name_b": "남긍호",
+      "status": "likely",
+      "reason": "동일 제작 프로그램북 및 공식 홍보 영상에서 같은 이름이 각색·연출과 출연으로 함께 명시",
+      "evidence": [
+        {
+          "type": "booklet_and_official_cast",
+          "label": "프랑크 앤 슈타인 프로그램북 및 광주예술의전당 공식 홍보 영상",
+          "url": "https://www.youtube.com/watch?v=PQ-5K3Vo6hU"
+        }
+      ]
+    }
+  ]
+}

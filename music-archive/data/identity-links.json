@@ -104,6 +104,17 @@
           "note": "인쇄된 텍스트 약력 비교, 사진 비교 아님. 개별 실제 출연 및 최종 동일인 확정 아님."
         }
       ]
+    },
+    {
+      "a": "national-theatre-company-korea-frank-and-stein-008",
+      "b": "theatre-cheongchun-2026-11-21-003",
+      "status": "possible",
+      "reason": "이름 및 연극 출연 분야 일치, 다른 제작의 동일인 후보",
+      "evidence": [
+        {
+          "label": "프랑크 앤 슈타인 및 노을, 길 위에서 프로그램북 · CAST"
+        }
+      ]
     }
   ]
 }
