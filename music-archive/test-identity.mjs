@@ -1,0 +1,10 @@
+import assert from "node:assert/strict";
+import {buildIdentity,family} from "./identity.mjs";
+const record=(id,name,part,category="instrumentalist",role=null)=>({id,name,part,category,role});
+const roster=(id,ensemble_id,records)=>({id,ensemble_id,concert_id:id,records,source:{}});
+const cat={concerts:[{id:"r1"},{id:"r2"},{id:"r3"}]};
+const rs=[roster("r1","a",[record("1","홍길동","제1바이올린"),record("4","홍길동","첼로"),record("6","홍길동","미확인")]),roster("r2","b",[record("2","홍길동","제2바이올린")]),roster("r3","a",[record("3","홍길동","바이올린")])];
+let g=buildIdentity(cat,rs);
+assert.equal(g.network().length,1);assert.equal(g.network()[0].count,1);assert.equal(g.network("confirmed").length,0);assert.equal(g.dossier("1","likely").length,1);assert.equal(g.dossier("4").length,0);assert.equal(g.review.length,1);assert.equal(family(record("x","가","팀파니")),"타악기");
+g=buildIdentity(cat,rs,{links:[{a:"1",b:"2",status:"distinct",reason:"테스트"},{a:"2",b:"3",status:"confirmed",reason:"테스트"}]});assert.equal(g.dossier("1").some(e=>e.record.id==="2"),false);assert.equal(g.network("confirmed")[0].count,1);assert.equal(g.dossier("1","confirmed").length,0);
+console.log("identity tests passed");

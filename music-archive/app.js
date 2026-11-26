@@ -1,3 +1,4 @@
+import {buildIdentity,statusLabels} from "./identity.mjs";
 "use strict";
 const $=id=>document.getElementById(id);
 const el=(tag,t)=>{const e=document.createElement(tag);if(t!==undefined)e.textContent=t;return e};
@@ -28,8 +29,26 @@ async function main(){
  $("rows").replaceChildren();const frag=document.createDocumentFragment();
  for(const x of out){const tr=el("tr"), name=el("td"), b=el("button",x.name);b.type="button";b.addEventListener("click",()=>{q.value=x.name;$("ensemble").value="";$("scope").value="";$("category").value="";render()});name.append(b);tr.append(name);for(const v of [x.part,x.role||x.membership||"미표기",x.ensemble,x.scope])tr.append(el("td",v));const td=el("td"),a=el("a",x.roster.transcription_review==="user_reviewed"?"검수 완료":x.roster.source.url?"웹 출처 · 미검수":"재검수 전");a.href=x.roster.source.url||(x.roster.source.wiki?"../#"+x.roster.source.wiki:"data/rosters/"+x.roster.id+".json");a.title=x.roster.source.label;td.append(a);tr.append(td);frag.append(tr)}$("rows").append(frag)}
  for(const id of ["q","ensemble","scope","category"])$(id).addEventListener(id==="q"?"input":"change",render);
- const groups=new Map();for(const x of records.filter(x=>x.roster.concert_id&&["instrumentalist","chorister","dancer","actor"].includes(x.category))){const key=x.name+"\u0000"+x.part;if(!groups.has(key))groups.set(key,[]);groups.get(key).push(x)}
- for(const xs of groups.values()){if(new Set(xs.map(x=>x.roster.ensemble_id)).size<2)continue;const d=el("details"),head=el("summary",xs[0].name+" · "+xs[0].part+" — "+new Set(xs.map(x=>x.roster.ensemble_id)).size+"개 단체 (동일인 미확인)");d.append(head);for(const x of xs)d.append(el("p",x.scope+" / "+x.ensemble+" / "+(x.role||"직책 미표기")));$("matches").append(d)}
- if(!$("matches").childNodes.length)$("matches").append(el("p","현재 후보 없음"));render()
+ const overrides=await get("data/identity-links.json"), identity=buildIdentity(cat,rosters,overrides);
+ const match=$("matches"), mode=$("identity-mode"), iq=$("identity-q"), network=$("identity-network");
+ const sourceName=x=>x.concert_id?eventLabel(concerts.get(x.concert_id)):rosters.find(r=>r.id===x.roster_id)?.season||x.roster_id;
+ function showIdentity(){
+ network.replaceChildren();match.replaceChildren();
+ const pairs=identity.network(mode.value);const total=pairs.reduce((s,p)=>s+p.count,0);
+ network.append(el("p",pairs.length+"개 단체 쌍 · "+total+"개 단체 쌍별 연결 후보 (고유 인물 수 아님)"));
+ for(const p of pairs){const d=el("details");d.append(el("summary",p.ensembles.map(id=>ens.get(id)).join(" ↔ ")+" · "+p.count+"개"));for(const c of p.candidates)d.append(el("p",c.label+" / "+statusLabels[c.status]));network.append(d)}
+ if(!pairs.length)network.append(el("p","해당 기준의 교차 연결 없음"));
+ const query=iq.value.trim().toLowerCase();if(!query){match.append(el("p","이름을 입력하면 직접 연결된 활동 이력과 근거를 표시합니다."));return}
+ const hits=identity.rows.filter(x=>[x.name,...(x.cast_name_aliases||[])].some(n=>n.toLowerCase().includes(query)));
+ const rendered=new Set();
+ for(const x of hits){const links=identity.dossier(x.id,mode.value);const signature=[x.id,...links.map(l=>l.record.id)].sort().join("|");if(rendered.has(signature))continue;rendered.add(signature);const d=el("details");d.open=true;d.append(el("summary",x.name+" · "+(x.family||"분야 미확인")+" · "+ens.get(x.ensemble_id)));
+ d.append(el("p","기준 기록: "+sourceName(x)+" / "+x.part));
+ for(const l of links){const y=l.record;d.append(el("p",y.name+" · "+ens.get(y.ensemble_id)+" · "+sourceName(y)+" / "+y.part+" — "+statusLabels[l.status]+" ("+l.reason+")"));for(const e of l.evidence||[]){const p=el("p",e.label||e.note||"근거");if(e.url){const a=el("a"," 출처");a.href=e.url;p.append(a)}d.append(p)}}
+ if(!links.length)d.append(el("p","이 기준에서 연결된 기록 없음"));match.append(d)}
+ for(const item of identity.review.filter(x=>x.name.toLowerCase().includes(query)))match.append(el("p",item.name+" — "+item.reason));
+ if(!hits.length)match.append(el("p","검색 결과 없음"));
+ }
+ mode.addEventListener("change",showIdentity);iq.addEventListener("input",showIdentity);showIdentity();render()
+
 }
 main().catch(e=>{$("status").textContent="데이터를 불러오지 못했습니다: "+e.message});

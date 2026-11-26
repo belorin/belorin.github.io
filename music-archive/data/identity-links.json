@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "links": [
+    {
+      "a": "gwangju-ballet-sylphide-1-004",
+      "b": "gwangju-ballet-2026-10-members-001",
+      "status": "likely",
+      "reason": "동일 공연 책자에서 캐스팅 약칭 보그단과 수석단원 전체 이름이 대응",
+      "evidence": [
+        {
+          "type": "booklet",
+          "label": "라 실피드 캐스팅 및 단원 소개",
+          "note": "사용자 전사 검수 완료. 약칭 연결은 추정으로 유지."
+        }
+      ]
+    }
+  ]
+}
