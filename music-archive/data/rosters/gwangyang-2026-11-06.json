@@ -1,0 +1,374 @@
+{
+  "id": "gwangyang-2026-11-06",
+  "ensemble_id": "gwangyang-choir",
+  "concert_id": "2026-11-06-beethoven-9",
+  "season": null,
+  "source": {
+    "label": "베토벤 교향곡 제9번 프로그램북 · 광양시립합창단",
+    "wiki": "camerata-jeonnam-roster",
+    "page": null
+  },
+  "transcription_review": "pending",
+  "records": [
+    {
+      "id": "gwangyang-2026-11-06-001",
+      "name": "김다소미",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-002",
+      "name": "박예진",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-003",
+      "name": "박은영",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-004",
+      "name": "서하은",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-005",
+      "name": "이하나",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-006",
+      "name": "이현숙",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-007",
+      "name": "장유리",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-008",
+      "name": "박수지",
+      "part": "알토",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-009",
+      "name": "김다영",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-010",
+      "name": "김지은",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-011",
+      "name": "김지인",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-012",
+      "name": "이예리",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-013",
+      "name": "이진영",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-014",
+      "name": "임선재",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-015",
+      "name": "정서정",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-016",
+      "name": "서지명",
+      "part": "테너",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-017",
+      "name": "김대명",
+      "part": "테너",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-018",
+      "name": "김주형",
+      "part": "테너",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-019",
+      "name": "김태성",
+      "part": "테너",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-020",
+      "name": "박영권",
+      "part": "테너",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-021",
+      "name": "박희권",
+      "part": "테너",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-022",
+      "name": "이영교",
+      "part": "테너",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-023",
+      "name": "최화수",
+      "part": "테너",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-024",
+      "name": "최호림",
+      "part": "테너",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-025",
+      "name": "이창성",
+      "part": "베이스",
+      "role": "수석",
+      "printed_mark": "★",
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-026",
+      "name": "구대웅",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-027",
+      "name": "김주헌",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-028",
+      "name": "박성호",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-029",
+      "name": "이은민",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-030",
+      "name": "이주태",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-031",
+      "name": "조형빈",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-032",
+      "name": "황진원",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-033",
+      "name": "배진실",
+      "part": "반주자",
+      "role": "반주자",
+      "printed_mark": null,
+      "category": "accompanist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-034",
+      "name": "송상아",
+      "part": "반주자",
+      "role": "반주자",
+      "printed_mark": null,
+      "category": "accompanist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-035",
+      "name": "이현옥",
+      "part": "단무장",
+      "role": "단무장",
+      "printed_mark": null,
+      "category": "staff",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangyang-2026-11-06-036",
+      "name": "여광준",
+      "part": "악보계",
+      "role": "악보계",
+      "printed_mark": null,
+      "category": "staff",
+      "person_id": null,
+      "attendance": "unverified"
+    }
+  ]
+}

@@ -1,0 +1,684 @@
+{
+  "id": "camerata-2026-11-06",
+  "ensemble_id": "camerata-jeonnam",
+  "concert_id": "2026-11-06-beethoven-9",
+  "season": null,
+  "source": {
+    "label": "베토벤 교향곡 제9번 프로그램북 · 카메라타전남",
+    "wiki": "camerata-jeonnam-roster",
+    "page": null
+  },
+  "transcription_review": "user_reviewed",
+  "records": [
+    {
+      "id": "camerata-2026-11-06-001",
+      "name": "임주연",
+      "part": "악장",
+      "role": "악장",
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-002",
+      "name": "윤채인",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-003",
+      "name": "윤예빈",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-004",
+      "name": "정다정",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-005",
+      "name": "김하라",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-006",
+      "name": "김현아",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-007",
+      "name": "박우정",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-008",
+      "name": "최윤령",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-009",
+      "name": "이강민",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-010",
+      "name": "이현나",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-011",
+      "name": "여현",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-012",
+      "name": "정태은",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-013",
+      "name": "김용상",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-014",
+      "name": "신예진",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-015",
+      "name": "강하선",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-016",
+      "name": "박지연",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-017",
+      "name": "강상",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-018",
+      "name": "김채형",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-019",
+      "name": "홍유정",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-020",
+      "name": "김도경",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-021",
+      "name": "김유빈",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-022",
+      "name": "차예원",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-023",
+      "name": "이세기",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-024",
+      "name": "정성국",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-025",
+      "name": "이지은",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-026",
+      "name": "김규리",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-027",
+      "name": "윤채원",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-028",
+      "name": "박채빈",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-029",
+      "name": "조은서",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-030",
+      "name": "김은솔",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-031",
+      "name": "김용식",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-032",
+      "name": "이성주",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-033",
+      "name": "김지선",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-034",
+      "name": "박성찬",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-035",
+      "name": "안세현",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-036",
+      "name": "이다율",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-037",
+      "name": "양지연",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-038",
+      "name": "유시우",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-039",
+      "name": "곽효일",
+      "part": "더블베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-040",
+      "name": "임수정",
+      "part": "더블베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-041",
+      "name": "권새롬",
+      "part": "더블베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-042",
+      "name": "박지성",
+      "part": "더블베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-043",
+      "name": "최승우",
+      "part": "더블베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-044",
+      "name": "이주혜",
+      "part": "플루트",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-045",
+      "name": "변예은",
+      "part": "플루트",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-046",
+      "name": "김민정",
+      "part": "플루트",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-047",
+      "name": "박영근",
+      "part": "오보에",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-048",
+      "name": "Azusa Nakayama",
+      "part": "오보에",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-049",
+      "name": "임주성",
+      "part": "오보에",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-050",
+      "name": "정진용",
+      "part": "클라리넷",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-051",
+      "name": "장양유",
+      "part": "클라리넷",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-052",
+      "name": "김자성",
+      "part": "바순",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-053",
+      "name": "이지형",
+      "part": "바순",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-054",
+      "name": "조이안",
+      "part": "바순",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-055",
+      "name": "김민규",
+      "part": "호른",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-056",
+      "name": "문명환",
+      "part": "호른",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-057",
+      "name": "박상미",
+      "part": "호른",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-058",
+      "name": "오은영",
+      "part": "호른",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-059",
+      "name": "하민중",
+      "part": "트럼펫",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-060",
+      "name": "김희수",
+      "part": "트럼펫",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-061",
+      "name": "홍성혁",
+      "part": "트롬본",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-062",
+      "name": "김의찬",
+      "part": "트롬본",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-063",
+      "name": "김현우",
+      "part": "트롬본",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-064",
+      "name": "한예주",
+      "part": "팀파니",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-065",
+      "name": "변재민",
+      "part": "타악기",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-066",
+      "name": "강민석",
+      "part": "타악기",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "camerata-2026-11-06-067",
+      "name": "전민호",
+      "part": "타악기",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    }
+  ]
+}

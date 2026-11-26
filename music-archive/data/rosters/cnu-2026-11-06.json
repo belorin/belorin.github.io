@@ -1,0 +1,504 @@
+{
+  "id": "cnu-2026-11-06",
+  "ensemble_id": "cnu-music-choir",
+  "concert_id": "2026-11-06-beethoven-9",
+  "season": null,
+  "source": {
+    "label": "베토벤 교향곡 제9번 프로그램북 · 전남대 음악학과 합창단",
+    "wiki": "camerata-jeonnam-roster",
+    "page": null
+  },
+  "transcription_review": "pending",
+  "records": [
+    {
+      "id": "cnu-2026-11-06-001",
+      "name": "박소은",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-002",
+      "name": "이룬아",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-003",
+      "name": "이정민",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-004",
+      "name": "주아린",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-005",
+      "name": "채승희",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-006",
+      "name": "Liuzhengtong",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-007",
+      "name": "김윤설",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-008",
+      "name": "김주원",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-009",
+      "name": "김태희",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-010",
+      "name": "오경은",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-011",
+      "name": "임채연",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-012",
+      "name": "조성아",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-013",
+      "name": "Qiuweiqing",
+      "part": "소프라노",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-014",
+      "name": "김지아",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-015",
+      "name": "문시우",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-016",
+      "name": "박인경",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-017",
+      "name": "박희",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-018",
+      "name": "백서진",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-019",
+      "name": "염주희",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-020",
+      "name": "윤정원",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-021",
+      "name": "이은파",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-022",
+      "name": "홍선주",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-023",
+      "name": "강효린",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-024",
+      "name": "고가희",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-025",
+      "name": "김민지",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-026",
+      "name": "김소현",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-027",
+      "name": "김예은",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-028",
+      "name": "김하민",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-029",
+      "name": "양예인",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-030",
+      "name": "유한림",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-031",
+      "name": "홍설유",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-032",
+      "name": "황은수",
+      "part": "알토",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-033",
+      "name": "김재민",
+      "part": "테너",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-034",
+      "name": "김한경",
+      "part": "테너",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-035",
+      "name": "김현민",
+      "part": "테너",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-036",
+      "name": "정진기",
+      "part": "테너",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-037",
+      "name": "이현민",
+      "part": "테너",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-038",
+      "name": "고요한",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-039",
+      "name": "김우석",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-040",
+      "name": "박상혁",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-041",
+      "name": "염정현",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-042",
+      "name": "조영엽",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-043",
+      "name": "민형우",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-044",
+      "name": "박은총",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-045",
+      "name": "배선혁",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-046",
+      "name": "정동근",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-047",
+      "name": "정사빈",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-048",
+      "name": "정의진",
+      "part": "베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "chorister",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "cnu-2026-11-06-049",
+      "name": "김보람",
+      "part": "반주자",
+      "role": "반주자",
+      "printed_mark": null,
+      "category": "accompanist",
+      "person_id": null,
+      "attendance": "unverified"
+    }
+  ]
+}

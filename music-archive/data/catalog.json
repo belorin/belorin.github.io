@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "ensembles": [
+    {
+      "id": "gso",
+      "name": "광주시립교향악단",
+      "type": "orchestra"
+    },
+    {
+      "id": "camerata-jeonnam",
+      "name": "카메라타전남",
+      "type": "orchestra"
+    },
+    {
+      "id": "gwangyang-choir",
+      "name": "광양시립합창단",
+      "type": "choir"
+    },
+    {
+      "id": "cnu-music-choir",
+      "name": "전남대학교 음악학과 합창단",
+      "type": "choir"
+    }
+  ],
+  "concerts": [
+    {
+      "id": "2026-10-23-nordic-echo",
+      "date": "2026-10-23",
+      "title": "Nordic Echo",
+      "ensemble_ids": [
+        "gso"
+      ],
+      "work_ids": [],
+      "venue": null,
+      "conductor": null,
+      "soloists": null
+    },
+    {
+      "id": "2026-11-06-beethoven-9",
+      "date": "2026-11-06",
+      "title": "베토벤 교향곡 제9번",
+      "ensemble_ids": [
+        "camerata-jeonnam",
+        "gwangyang-choir",
+        "cnu-music-choir"
+      ],
+      "work_ids": [
+        "beethoven-symphony-9"
+      ],
+      "venue": null,
+      "conductor": null,
+      "soloists": null
+    }
+  ],
+  "works": [
+    {
+      "id": "beethoven-symphony-9",
+      "composer": "베토벤",
+      "title": "교향곡 제9번"
+    }
+  ],
+  "roster_ids": [
+    "gso-2026-h2",
+    "gso-2026-10-23",
+    "camerata-2026-11-06",
+    "gwangyang-2026-11-06",
+    "cnu-2026-11-06"
+  ],
+  "persons": []
+}

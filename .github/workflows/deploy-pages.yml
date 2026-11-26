@@ -43,6 +43,9 @@ jobs:
           node --check app.js
           node --check calendar.js
           node scripts/test-viewer.mjs
+          node --check music-archive/app.js
+          node music-archive/validate.mjs
+          python3 music-archive/export_sqlite.py /tmp/music-archive.sqlite
       - name: Commit regenerated files to main
         run: |
           git add -A notes.json AI_INDEX.md ai llms.txt editorial/map editorial/maintenance/queue.md
