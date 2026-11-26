@@ -151,8 +151,8 @@
 - **[광주시립교향악단 단원 명부와 공연 참여 기록](wiki/gwangju-symphony-roster.md)** · 별칭: 광주시향 단원 명단, 광주시립교향악단 참여자 아카이브 · 수정: 2026-11-26 · 검토: 2026년 후반 시즌 명부 · Nordic Echo 공연 기록 추가
   - 광주시립교향악단 2026년 후반 시즌 74명 명부와 10월 23일 Nordic Echo 공연 명부(연주자 85명, 객원 표시 17명)를 비교하고 공연별·시즌별 변화를 축적한다.
   - [문서 페이지](https://belorin.github.io/notes/gwangju-symphony-roster/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gwangju-symphony-roster.md)
-- **[카메라타전남 공연 참여 기록](wiki/camerata-jeonnam-roster.md)** · 별칭: 카메라타 전남 연주자 명단 · 수정: 2026-11-26 · 검토: 2026-11-06 베토벤 교향곡 제9번 공연 명부 · 초기판
-  - 카메라타전남의 2026년 11월 6일 베토벤 교향곡 제9번 공연 책자 명부 67명과 광주시향 Nordic Echo 객원 명단의 교차 기록을 보존한다.
+- **[카메라타전남 공연 참여 기록](wiki/camerata-jeonnam-roster.md)** · 별칭: 카메라타 전남 연주자 명단 · 수정: 2026-11-26 · 검토: 2026-11-06 베토벤 교향곡 제9번 · 관현악 및 합동 합창 명부
+  - 카메라타전남 67명, 광양시립합창단 32명, 전남대학교 음악학과 합창단 48명의 2026년 11월 6일 베토벤 교향곡 제9번 공연 명부 및 광주시향과의 교차 기록을 보존한다.
   - [문서 페이지](https://belorin.github.io/notes/camerata-jeonnam-roster/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/camerata-jeonnam-roster.md)
 
 ## AI와 사회

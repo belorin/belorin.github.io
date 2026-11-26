@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1579개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1582개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (33)
 
@@ -714,6 +714,150 @@
 - 공적 이전소득 증가와 고유가 피해지원금의 영향 → `korea-household-consumption-divergence-2026` § 명목소득은 늘었지만 실질소비는 거의 제자리였다 · `ing-20261124-bottom-economy-q2-budget-divergence`
 - 1분위 적자 축소와 5분위 흑자 확대 및 식료품·주거비 부담 → `korea-household-consumption-divergence-2026` § 평균 69.2% 안에는 125.3%와 60.3%가 함께 있다 · `ing-20261124-bottom-economy-q2-budget-divergence`
 
+## 음악 (139)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 20세기 음악사의 단선적 진보 서사 비판 → `classical-canon-mauceri` § 존 마우체리의 《전쟁과 음악》과 수정주의적 음악사 · `ing-20261023-mauceri-classical-canon`
+- 퇴폐음악 정책과 망명 작곡가의 수용 → `classical-canon-mauceri` § 퇴폐음악과 망명의 두 번째 역사 · `ing-20261023-mauceri-classical-canon`
+- 영화음악의 후기낭만주의 계승과 반론 → `classical-canon-mauceri` § 영화음악은 후기낭만주의의 후계인가 · `ing-20261023-mauceri-classical-canon`
+- 유럽 공연장 영화음악과 코른골트의 편입 → `classical-canon-mauceri` § 유럽 공연장의 변화: 입장과 정전화의 차이 · `ing-20261023-mauceri-classical-canon`
+- 게임음악의 이벤트 공연과 정전화의 차이 → `classical-canon-mauceri` § 게임음악: 공연장 안의 장르별 이벤트 · `ing-20261023-mauceri-classical-canon`
+- 유럽 음악학 수용에 관한 근거와 불확실성 → `classical-canon-mauceri` § 유럽 음악학의 수용과 반론 · `ing-20261023-mauceri-classical-canon`
+- 두 번째 연주와 정전 형성의 시간차 → `classical-canon-mauceri` § 정전의 시간차와 '두 번째 연주'의 문제 · `ing-20261023-mauceri-classical-canon`
+- 미래의 다중 계보와 전후 교향악 재평가 → `classical-canon-mauceri` § 단일 계보에서 다중 계보로 · `ing-20261023-mauceri-classical-canon`
+- 소가 다이스케의 광주·전남 반복 초청 연혁 → `daisuke-soga-conductor-career` § 광주와 전남에서 누적된 연결 · `ing-20261023-soga-media-burning-ecosystem`
+- 소가 다이스케의 작곡 활동과 주요 작품 → `daisuke-soga-conductor-career` § 지휘자이면서 작곡가 · `ing-20261023-soga-media-burning-ecosystem`
+- 장기 지휘 포스트 종료와 은퇴의 구분 → `daisuke-soga-conductor-career` § 긴 포스트의 종료는 은퇴와 다르다 · `ing-20261023-soga-media-burning-ecosystem`
+- 세계 지휘자 시장의 희소한 자리와 경력 층위 모형 → `daisuke-soga-conductor-career` § 지휘자 시장은 매우 좁고 계층적이다 · `ing-20261023-soga-media-burning-ecosystem`
+- 희소 채널 시대를 기준으로 한 장수 음악방송 비교 → `long-running-music-broadcasts` § 비교 기준: 오래된 방송이 아니라 희소 채널 시대의 연속성 · `ing-20261023-soga-media-burning-ecosystem`
+- 일본 장수 음악방송의 프로그램과 시작 시점 → `long-running-music-broadcasts` § 일본: 노래 경연, 교육용 노래, 대중음악의 장기 포맷 · `ing-20261023-soga-media-burning-ecosystem`
+- 한국 장수 음악방송의 프로그램과 기능 차이 → `long-running-music-broadcasts` § 한국: 지역 공동체, 기억, 세대 혼합의 장수 프로그램 · `ing-20261023-soga-media-burning-ecosystem`
+- 산레모의 라디오·텔레비전 기원과 2026년 존속 → `long-running-music-broadcasts` § 이탈리아: 산레모는 프로그램이면서 국가적 연례 의식이다 · `ing-20261023-soga-media-burning-ecosystem`
+- 영국·미국·프랑스의 장수와 단절을 통한 비교 → `long-running-music-broadcasts` § 영국·미국·프랑스: 긴 역사와 단절이 함께 있는 경우 · `ing-20261023-soga-media-burning-ecosystem`
+- 일본에서 지휘자 이미지와 오자와 세이지를 연결한 대중문화 비교 → `japanese-classical-tv-conductor-image` § 1970~80년대: 친근한 TV 지휘자와 세계적 마에스트로의 병존; `japanese-classical-tv-conductor-image` § 2000년대 이후: 《노다메 칸타빌레》와 협업형 지휘자의 서사 · `ing-20261023-soga-media-burning-ecosystem`
+- 1964년 시작·2024년 60주년·2009년 기네스 인증의 장수 연혁 → `japanese-classical-tv-conductor-image` § 1964년에 시작해 60년을 넘긴 클래식 음악 TV · `ing-20261024-japanese-classical-tv`
+- 마유즈미 도시로와 Young People’s Concerts의 초기 구상 연결 → `japanese-classical-tv-conductor-image` § 번스타인의 TV 음악교육과 마유즈미 도시로의 변형 · `ing-20261024-japanese-classical-tv`
+- 연주·토크·실험·교육을 결합한 클래식 TV 해설 형식 → `japanese-classical-tv-conductor-image` § 번스타인의 TV 음악교육과 마유즈미 도시로의 변형 · `ing-20261024-japanese-classical-tv`
+- 마유즈미·하네다·사도·이시마루로 이어지는 진행 계보 → `japanese-classical-tv-conductor-image` § 프로그램은 한 사람의 캐릭터에서 벗어나 계속 변했다 · `ing-20261024-japanese-classical-tv`
+- 오케스트라가 왔다의 1972~1983년 544회 방송과 야마모토 나오즈미 → `japanese-classical-tv-conductor-image` § 경쟁작 《オーケストラがやって来た!》: 해설보다 현장과 쇼맨십 · `ing-20261024-japanese-classical-tv`
+- 야마모토의 친근한 TV 지휘자와 오자와의 세계적 마에스트로라는 이중 이미지 → `japanese-classical-tv-conductor-image` § 1970~80년대: 친근한 TV 지휘자와 세계적 마에스트로의 병존 · `ing-20261024-japanese-classical-tv`
+- 사도 유타카·소가 다이스케를 방송에 가시화된 지휘자 다음 세대로 읽는 관점 → `japanese-classical-tv-conductor-image` § 그 방송을 보고 자란 다음 세대 · `ing-20261024-japanese-classical-tv`
+- 노다메 칸타빌레의 치아키가 전제군주형에서 협업형 지휘자로 성장하는 서사 → `japanese-classical-tv-conductor-image` § 2000년대 이후: 《노다메 칸타빌레》와 협업형 지휘자의 서사 · `ing-20261024-japanese-classical-tv`
+- 세대별 대중매체가 지휘자 직업의 상상 가능한 얼굴을 바꾸었다는 비교 모형 → `japanese-classical-tv-conductor-image` § 세대별로 보면 지휘자의 얼굴이 달라진다 · `ing-20261024-japanese-classical-tv`
+- 클라리넷 싱글리드와 오보에·바순 더블리드의 발음 메커니즘 → `woodwind-reeds-material-history` § 풀 한 조각이 악기의 성대가 되는 방식 · `ing-20261025-woodwind-reeds`
+- Arundo donax 표준을 물성과 경로의존성의 결합으로 설명 → `woodwind-reeds-material-history` § 왜 거의 모두 Arundo donax인가 · `ing-20261025-woodwind-reeds`
+- Phragmites·대나무 등 비아룬도 천연 리드의 전통과 현대 실험 → `woodwind-reeds-material-history` § 다른 풀과 대나무도 실제로 연주된다; `woodwind-reeds-material-history` § 현대 서양악기에서의 대체 식물 실험 · `ing-20261025-woodwind-reeds`
+- 프랑스 단일 독점보다 지중해산 cane과 가공업체 중심의 공급 의존 → `woodwind-reeds-material-history` § 프랑스 독점인가, 지중해 표준인가 · `ing-20261025-woodwind-reeds`
+- 태국의 현지 Arundo 개발과 한국의 원료 국산화 공백 → `woodwind-reeds-material-history` § 태국의 국산화 실험과 한국의 빈자리 · `ing-20261025-woodwind-reeds`
+- 클라리넷·오보에·바순 연주자의 연간 리드 비용 추산 → `woodwind-reeds-material-history` § 연주자 한 사람은 1년에 얼마를 쓰는가 · `ing-20261025-woodwind-reeds`
+- 오텐자머·마이어·마살리스·모랄레스 등 비표준 리드 세팅 → `woodwind-reeds-material-history` § 유명 연주자들의 비표준 세팅 · `ing-20261025-woodwind-reeds`
+- 두 차례 세계대전의 cane 공급난과 미국·멕시코 대체 공급망 및 플라스틱 리드 → `woodwind-reeds-material-history` § 전쟁이 끊은 풀의 공급망 · `ing-20261025-woodwind-reeds`
+- 리드를 악기의 마지막 제작 공정·기계적 인터페이스로 해석 → `woodwind-reeds-material-history` § 리드는 악기의 마지막 제작 공정이다 · `ing-20261025-woodwind-reeds`
+- 리드 산지의 테루아·침입종 역설·물성 기반 선별 기술의 문제 → `woodwind-reeds-material-history` § 테루아, 침입종, 그리고 선별 기술 · `ing-20261025-woodwind-reeds`
+- 활털·송진·거트 현·깃털·자연피·펠트 등 악기의 생물성 소모품 → `instrument-consumables-organic-materials` § 소모품을 보면 악기의 역사가 달라 보인다 · `ing-20261025-woodwind-reeds`
+- 악기별 성격상을 실제 심리 특성보다 직업문화적 스테레오타입으로 구분 → `orchestra-instrument-stereotypes` § 스테레오타입은 실제 연구 대상이 되었다; `orchestra-instrument-stereotypes` § 악기가 사람을 만드는가, 사람이 악기를 고르는가 · `ing-20261025-woodwind-reeds`
+- 오보에·바순·호른·금관·비올라·현악·타악 등 파트별 스테레오타입 → `orchestra-instrument-stereotypes` § 오보에: 예민한 완벽주의자라는 이미지; `orchestra-instrument-stereotypes` § 비올라: 클래식계의 영원한 동네북 · `ing-20261025-woodwind-reeds`
+- 파트별 스테레오타입을 활용한 오케스트라 내부자 농담 묶음 → `orchestra-instrument-stereotypes` § 스테레오타입을 활용한 농담 묶음 · `ing-20261025-woodwind-reeds`
+- 오리지널·인터내셔널 투어 내한과 한국어 라이선스 프로덕션의 구분 → `korea-dance-musical-tours` § 먼저 구분할 것: 내한과 한국어 프로덕션 · `ing-20261025-korea-dance-musical-tours`
+- 대형 무대의 규모보다 춤의 밀도·신체성·스펙터클의 근원을 우선하는 선택 기준 → `korea-dance-musical-tours` § 무엇을 기다리는가: 노래가 아니라 몸으로 보는 뮤지컬 · `ing-20261025-korea-dance-musical-tours`
+- 2026년 9월 기준 캣츠·겨울왕국·오페라의 유령·노트르담 드 파리·라이온 킹의 한국 일정 상태 → `korea-dance-musical-tours` § 2026년 9월에 확인된 한국 일정 · `ing-20261025-korea-dance-musical-tours`
+- 춤·아크로바틱 취향으로 MJ·캣츠·물랑루즈·Some Like It Hot·앤 줄리엣을 재정렬한 추천 → `korea-dance-musical-tours` § 춤 취향으로 순위를 다시 매기면 · `ing-20261025-korea-dance-musical-tours`
+- 캣츠의 젤리클 볼과 재즈댄스·발레·체조적 동물 움직임을 춤 중심 추천 근거로 정리 → `korea-dance-musical-tours` § 《캣츠》: 지금 가장 안전한 선택 · `ing-20261025-korea-dance-musical-tours`
+- MJ의 마이클 잭슨 퍼포먼스·크리스토퍼 휠든 안무와 2027 아시아 투어를 한국행 감시 근거로 정리 → `korea-dance-musical-tours` § 《MJ》: 한국행이면 최우선 · `ing-20261025-korea-dance-musical-tours`
+- 물랑루즈의 캉캉·탱고·팝 군무와 아시아 월드투어 동선을 춤 중심 후보로 평가 → `korea-dance-musical-tours` § 《물랑루즈!》: 노트르담과 라이온 킹 사이의 감각 · `ing-20261025-korea-dance-musical-tours`
+- Some Like It Hot의 탭 군무와 앤 줄리엣의 팝 콘서트형 군무를 서로 다른 춤 취향으로 구분 → `korea-dance-musical-tours` § 탭과 팝 군무: 《Some Like It Hot》과 《& Juliet》 · `ing-20261025-korea-dance-musical-tours`
+- 백 투 더 퓨처·겨울왕국·오페라의 유령처럼 대형 스펙터클이 곧 춤 중심 공연은 아니라는 구분 → `korea-dance-musical-tours` § 큰 무대가 곧 몸의 스펙터클은 아니다 · `ing-20261025-korea-dance-musical-tours`
+- 아시아 투어 존재·동아시아 동선·한국 제작사 공동제작·반복 흥행·장기 파트너십을 내한 신호로 읽는 방법 → `korea-dance-musical-tours` § 장기 내한 신호를 읽는 법 · `ing-20261025-korea-dance-musical-tours`
+- 2027~2030년 MJ·물랑루즈·앤 줄리엣·Some Like It Hot·백 투 더 퓨처·디즈니·라이온 킹·해밀턴의 장기 관찰 목록 → `korea-dance-musical-tours` § 2027~2030 장기 전망 · `ing-20261025-korea-dance-musical-tours`
+- 노트르담 드 파리의 가수와 전문 무용수 기능 분리가 강한 아크로바틱 신체성을 가능하게 한다는 해석 → `korea-dance-musical-tours` § 왜 《노트르담 드 파리》가 특별한 기준점인가 · `ing-20261025-korea-dance-musical-tours`
+- 세계 레퍼토리 데이터베이스: 무엇을 얻고 무엇을 얻지 못하는가 → `orchestra-repertoire-data-access` § 세계 레퍼토리 데이터베이스: 무엇을 얻고 무엇을 얻지 못하는가 · `ing-20261025-orchestra-repertoire-seasons`
+- 미국 오케스트라 2,218개라는 숫자의 함정 → `orchestra-repertoire-data-access` § 미국 오케스트라 2,218개라는 숫자의 함정 · `ing-20261025-orchestra-repertoire-seasons`
+- 공연장 수와 음악을 들을 가능성은 다르다 → `orchestra-repertoire-data-access` § 공연장 수와 음악을 들을 가능성은 다르다 · `ing-20261025-orchestra-repertoire-seasons`
+- Bachtrack의 '콘서트' 10개 연례 통계 → `orchestra-repertoire-data-access` § Bachtrack의 '콘서트' 10개 연례 통계 · `ing-20261025-orchestra-repertoire-seasons`
+- 초연, 두 번째 공연, 정전화는 세 개의 사건이다 → `orchestra-living-composers-canon` § 초연, 두 번째 공연, 정전화는 세 개의 사건이다 · `ing-20261025-orchestra-repertoire-seasons`
+- Bachtrack에서 생존 작곡가가 늘어나는 방식 → `orchestra-living-composers-canon` § Bachtrack에서 생존 작곡가가 늘어나는 방식 · `ing-20261025-orchestra-repertoire-seasons`
+- 14%는 실제로 얼마나 새로운가 → `orchestra-living-composers-canon` § 14%는 실제로 얼마나 새로운가 · `ing-20261025-orchestra-repertoire-seasons`
+- 프로그램의 문장을 읽는 감상법 → `orchestra-living-composers-canon` § 프로그램의 문장을 읽는 감상법 · `ing-20261025-orchestra-repertoire-seasons`
+- 빈 필: 말러·브루크너와 의례 사이의 전통 → `world-orchestras-repertoire-2026` § 빈 필: 말러·브루크너와 의례 사이의 전통 · `ing-20261025-orchestra-repertoire-seasons`
+- 베를린 필: 작품 사이에 논리를 배치하는 레퍼토리 전략가 → `world-orchestras-repertoire-2026` § 베를린 필: 작품 사이에 논리를 배치하는 레퍼토리 전략가 · `ing-20261025-orchestra-repertoire-seasons`
+- 로열 콘세르트헤바우: 말러와 브루크너의 유산을 메켈레에게 넘기다 → `world-orchestras-repertoire-2026` § 로열 콘세르트헤바우: 말러와 브루크너의 유산을 메켈레에게 넘기다 · `ing-20261025-orchestra-repertoire-seasons`
+- 런던 심포니: 정통 교향곡만으로는 설명되지 않는 도시형 문화 플랫폼 → `world-orchestras-repertoire-2026` § 런던 심포니: 정통 교향곡만으로는 설명되지 않는 도시형 문화 플랫폼 · `ing-20261025-orchestra-repertoire-seasons`
+- 시카고 심포니: 미국 음악과 대편성의 힘, 메켈레 시대의 예고 → `world-orchestras-repertoire-2026` § 시카고 심포니: 미국 음악과 대편성의 힘, 메켈레 시대의 예고 · `ing-20261025-orchestra-repertoire-seasons`
+- 이 다섯이 세계 클래식의 전부는 아니다 → `world-orchestras-repertoire-2026` § 이 다섯이 세계 클래식의 전부는 아니다 · `ing-20261025-orchestra-repertoire-seasons`
+- 캐릭터는 해석이며, 의상은 근거가 아니다 → `world-orchestras-repertoire-2026` § 캐릭터는 해석이며, 의상은 근거가 아니다 · `ing-20261025-orchestra-repertoire-seasons`
+- 서울시립교향악단: 말러 사이클과 모차르트 집중 → `korean-orchestras-repertoire-2026` § 서울시립교향악단: 말러 사이클과 모차르트 집중 · `ing-20261025-orchestra-repertoire-seasons`
+- KBS교향악단: 70주년, 정명훈, 말러의 재집중 → `korean-orchestras-repertoire-2026` § KBS교향악단: 70주년, 정명훈, 말러의 재집중 · `ing-20261025-orchestra-repertoire-seasons`
+- 국립심포니오케스트라: 표준 레퍼토리의 공공 번역자 → `korean-orchestras-repertoire-2026` § 국립심포니오케스트라: 표준 레퍼토리의 공공 번역자 · `ing-20261025-orchestra-repertoire-seasons`
+- 부산시립교향악단: 브루크너의 거대한 구조물 → `korean-orchestras-repertoire-2026` § 부산시립교향악단: 브루크너의 거대한 구조물 · `ing-20261025-orchestra-repertoire-seasons`
+- 인천시립교향악단: 가장 명시적으로 시리즈 이름을 앞세운 기획자 → `korean-orchestras-repertoire-2026` § 인천시립교향악단: 가장 명시적으로 시리즈 이름을 앞세운 기획자 · `ing-20261025-orchestra-repertoire-seasons`
+- 부천필하모닉: 프로그램에 읽는 제목을 붙이는 문학형 편집자 → `korean-orchestras-repertoire-2026` § 부천필하모닉: 프로그램에 읽는 제목을 붙이는 문학형 편집자 · `ing-20261025-orchestra-repertoire-seasons`
+- 대구시립교향악단: 한 작곡가의 방을 차례로 여는 도슨트 → `korean-orchestras-repertoire-2026` § 대구시립교향악단: 한 작곡가의 방을 차례로 여는 도슨트 · `ing-20261025-orchestra-repertoire-seasons`
+- 광주시립교향악단: 청중과의 거리 줄이기 → `korean-orchestras-repertoire-2026` § 광주시립교향악단: 청중과의 거리 줄이기 · `ing-20261025-orchestra-repertoire-seasons`
+- 대전시립교향악단: 챔버·디스커버리·걸음마의 여러 문턱 → `korean-orchestras-repertoire-2026` § 대전시립교향악단: 챔버·디스커버리·걸음마의 여러 문턱 · `ing-20261025-orchestra-repertoire-seasons`
+- 수원시립교향악단: 전통을 중량급 레퍼토리로 확장하는 도전자 → `korean-orchestras-repertoire-2026` § 수원시립교향악단: 전통을 중량급 레퍼토리로 확장하는 도전자 · `ing-20261025-orchestra-repertoire-seasons`
+- 경기필하모닉: 캐릭터를 보류할 용기 → `korean-orchestras-repertoire-2026` § 경기필하모닉: 캐릭터를 보류할 용기 · `ing-20261025-orchestra-repertoire-seasons`
+- 한국 악단을 캐릭터로 그릴 때 지켜야 할 선 → `korean-orchestras-repertoire-2026` § 한국 악단을 캐릭터로 그릴 때 지켜야 할 선 · `ing-20261025-orchestra-repertoire-seasons`
+- 작곡가가 선택할 수 있는 관현악의 층위 → `orchestration-instrument-history` § 작곡가가 선택할 수 있는 관현악의 층위 · `ing-20261025-orchestra-repertoire-seasons`
+- 라흐마니노프 《교향적 무곡》의 '양념'은 얼마나 많은 사람을 요구하는가 → `orchestration-instrument-history` § 라흐마니노프 《교향적 무곡》의 '양념'은 얼마나 많은 사람을 요구하는가 · `ing-20261025-orchestra-repertoire-seasons`
+- 말러는 왜 지방 악단의 예산을 빨아들이는가 → `orchestration-instrument-history` § 말러는 왜 지방 악단의 예산을 빨아들이는가 · `ing-20261025-orchestra-repertoire-seasons`
+- 협주곡: 한 개인과 전체 악단의 대결은 언제 생겼는가 → `orchestration-instrument-history` § 협주곡: 한 개인과 전체 악단의 대결은 언제 생겼는가 · `ing-20261025-orchestra-repertoire-seasons`
+- 클래식 음악은 본래 어디에서 연주되었는가 → `orchestration-instrument-history` § 클래식 음악은 본래 어디에서 연주되었는가 · `ing-20261025-orchestra-repertoire-seasons`
+- 새 악기의 탄생과 관현악 입장 심사 → `orchestration-instrument-history` § 새 악기의 탄생과 관현악 입장 심사 · `ing-20261025-orchestra-repertoire-seasons`
+- 전자악기가 아니어도 새 어쿠스틱 악기는 태어난다 → `orchestration-instrument-history` § 전자악기가 아니어도 새 어쿠스틱 악기는 태어난다 · `ing-20261025-orchestra-repertoire-seasons`
+- 클라우스 메켈레라는 비정상적으로 빠른 경력 → `conductors-career-encores` § 클라우스 메켈레라는 비정상적으로 빠른 경력 · `ing-20261025-orchestra-repertoire-seasons`
+- 왜 콘세르트헤바우와 시카고는 같은 사람을 원하는가 → `conductors-career-encores` § 왜 콘세르트헤바우와 시카고는 같은 사람을 원하는가 · `ing-20261025-orchestra-repertoire-seasons`
+- 요즘 젊은 지휘자 붐은 있는가 → `conductors-career-encores` § 요즘 젊은 지휘자 붐은 있는가 · `ing-20261025-orchestra-repertoire-seasons`
+- 핀란드가 지휘자를 계속 배출하는 이유 → `conductors-career-encores` § 핀란드가 지휘자를 계속 배출하는 이유 · `ing-20261025-orchestra-repertoire-seasons`
+- 예전에도 혜성 같은 지휘자는 있었는가 → `conductors-career-encores` § 예전에도 혜성 같은 지휘자는 있었는가 · `ing-20261025-orchestra-repertoire-seasons`
+- 지휘자의 자리는 몇 개인가 → `conductors-career-encores` § 지휘자의 자리는 몇 개인가 · `ing-20261025-orchestra-repertoire-seasons`
+- 앵콜은 마지막에 던지는 사적인 문장이다 → `conductors-career-encores` § 앵콜은 마지막에 던지는 사적인 문장이다 · `ing-20261025-orchestra-repertoire-seasons`
+- 필하모닉, 심포니, 오케스트라: 이름은 무엇을 뜻하는가 → `orchestra-halls-seasons` § 필하모닉, 심포니, 오케스트라: 이름은 무엇을 뜻하는가 · `ing-20261025-orchestra-repertoire-seasons`
+- 가을에 시작해 다음 해 여름에 끝나는 시즌 → `orchestra-halls-seasons` § 가을에 시작해 다음 해 여름에 끝나는 시즌 · `ing-20261025-orchestra-repertoire-seasons`
+- 다섯 명문 악단의 본거지 홀 → `orchestra-halls-seasons` § 다섯 명문 악단의 본거지 홀 · `ing-20261025-orchestra-repertoire-seasons`
+- 한 콘서트홀과 한 악단이 같은 말이 아닌 이유 → `orchestra-halls-seasons` § 한 콘서트홀과 한 악단이 같은 말이 아닌 이유 · `ing-20261025-orchestra-repertoire-seasons`
+- 빈 필 신년음악회라는 별도의 산업 → `orchestra-halls-seasons` § 빈 필 신년음악회라는 별도의 산업 · `ing-20261025-orchestra-repertoire-seasons`
+- 작은 방과 세계적 권위 → `orchestra-halls-seasons` § 작은 방과 세계적 권위 · `ing-20261025-orchestra-repertoire-seasons`
+- 생존 작곡가의 비율과 정전 형성의 차이 → `classical-canon-mauceri` § 생존 작곡가의 비율과 다음 연주의 경제학 · `ing-20261025-orchestra-repertoire-seasons`
+- 선호 가설과 실제 감상 반응의 구분 → `mood-led-music-listening` § 첫 추천은 취향의 결론이 아니라 가설이다 · `ing-20261025-mood-led-music-listening`
+- 네 가지 분위기에 따른 해외 음악 열두 곡 → `mood-led-music-listening` § 서늘하고 큰 밤의 감각; `mood-led-music-listening` § 세상이 이상하게 돌아가는 날; `mood-led-music-listening` § SF의 거리감과 멀리 이동하는 감각; `mood-led-music-listening` § 우울하지만 지나치게 질척이지 않는 정서 · `ing-20261025-mood-led-music-listening`
+- 한국 음악 세 곡과 우선 청취 네 곡 → `mood-led-music-listening` § 한국 음악으로 넓히는 별도의 갈래; `mood-led-music-listening` § 먼저 들어 볼 네 곡 · `ing-20261025-mood-led-music-listening`
+- 추가 탐색 방향과 청취 반응의 미확인 → `mood-led-music-listening` § 취향의 다음 분기와 판단 유보 · `ing-20261025-mood-led-music-listening`
+- 쇼스타코비치 이후 교향악 쇠퇴와 정전 가시성의 구별 → `classical-canon-mauceri` § 작품이 없는 것이 아니라 작품을 공통의 사건으로 만드는 방식이 달라졌다 · `ing-20261030-contemporary-symphonic-journey`
+- 녹음·레퍼토리 비용·전후 현대주의·매체 분화의 복합 원인 → `orchestra-composer-conductor-myth` § 왜 지금은 같은 유형의 네임드가 잘 보이지 않는가 · `ing-20261030-contemporary-symphonic-journey`
+- 거장 이름을 공통 교양으로 만드는 반복과 제도 → `orchestra-composer-conductor-myth` § 신화가 만들어지는 여섯 개의 장치 · `ing-20261030-contemporary-symphonic-journey`
+- 말러 전기와 작곡가 인물 신화 → `orchestra-composer-conductor-myth` § 작품을 넘어 인간에게 향하는 팬덤 · `ing-20261030-contemporary-symphonic-journey`
+- 쇼스타코비치 7번 레닌그라드와 포위전 서사 → `orchestra-composer-conductor-myth` § 레닌그라드 교향곡: 한 곡이 전쟁사 한 권이 되는 순간 · `ing-20261030-contemporary-symphonic-journey`
+- 지휘자의 몸과 해석자 팬덤 → `orchestra-composer-conductor-myth` § 지휘자라는 살아 있는 화면; `conductors-career-encores` § 지휘자 스타라는 발명: 악보에 얼굴이 생기는 순간 · `ing-20261030-contemporary-symphonic-journey`
+- 교향곡 블록버스터 및 위인 숭배 비유의 한계 → `orchestra-composer-conductor-myth` § 작품을 넘어 인간에게 향하는 팬덤; `orchestra-composer-conductor-myth` § 음악에서 사람으로, 다시 작품으로 · `ing-20261030-contemporary-symphonic-journey`
+- 교향곡과 현대 관현악 대서사의 다른 범위 → `orchestra-living-composers-canon` § 무엇을 새로운 교향악으로 셀 것인가; `living-orchestral-listening-journey` § 왜 '새로운 말러' 대신 여러 갈래를 들어야 하는가 · `ing-20261030-contemporary-symphonic-journey`
+- 생존 작곡가 비중의 연도별 소개 수치와 해석 경계 → `orchestra-living-composers-canon` § 비중은 커져도 이름을 외우기 어려운 이유 · `ing-20261030-contemporary-symphonic-journey`
+- 1977~2025 현대 교향악 작곡·초연 연표 → `living-orchestral-listening-journey` § 작곡연도 지도로 먼저 보기 · `ing-20261030-contemporary-symphonic-journey`
+- 말러 이후 대형 감정과 영적 미니멀리즘 청취 → `living-orchestral-listening-journey` § 첫 갈래: 현대에도 오케스트라는 거대한 감정을 만든다 · `ing-20261030-contemporary-symphonic-journey`
+- 진은숙 아데스 벤저민 린드베리 현대주의 관현악 → `living-orchestral-listening-journey` § 두 번째 갈래: 색채와 지성의 구조물 · `ing-20261030-contemporary-symphonic-journey`
+- 기후 우주 지질학과 생태적 관현악 → `living-orchestral-listening-journey` § 세 번째 갈래: 인간보다 오래된 시간 · `ing-20261030-contemporary-symphonic-journey`
+- 이민 노동 역사 의례와 현대 오케스트라 → `living-orchestral-listening-journey` § 네 번째 갈래: 국가의 영웅 대신 보이지 않던 역사 · `ing-20261030-contemporary-symphonic-journey`
+- 독일 오스트리아 형식의 현대적 재구성과 후속 후보 → `living-orchestral-listening-journey` § 다섯 번째 갈래: 전통의 유령과 형식의 귀환 · `ing-20261030-contemporary-symphonic-journey`
+- 살아 있는 작곡가 중심 열두 주 청취 코스 → `living-orchestral-listening-journey` § 열두 주로 완주하는 실제 여행 · `ing-20261030-contemporary-symphonic-journey`
+- 2020~2025 최신 작품 다섯 곡의 별도 진입로 → `living-orchestral-listening-journey` § 2026년에 가장 가까운 다섯 작품 · `ing-20261030-contemporary-symphonic-journey`
+- 수상 위촉 상주작곡가 초연과 정전의 구별 → `living-orchestral-listening-journey` § 현재성을 확인하는 두 번째 축: 작품이 아니라 기관이 움직인다 · `ing-20261030-contemporary-symphonic-journey`
+- 초연 개정 시점과 2026년 수상 생존 여부의 재검증 경계 → `living-orchestral-listening-journey` § 자료 범위와 추가 확인 지점 · `ing-20261030-contemporary-symphonic-journey`
+- 청취기록으로 작품 반복과 해석자 팬덤을 관찰하기 → `living-orchestral-listening-journey` § 청취 기록: 사람의 이름이 되는 순간을 관찰하기 · `ing-20261030-contemporary-symphonic-journey`
+- 2025–26 미국 편성 작품의 생존 작곡가 비중과 내부 구성 → `orchestra-repertoire-repeat-performance-autumn-2026` § 전체 비중이 같아도 구성은 달라졌다 · `ing-20261110-autumn-other-followups`
+- 생존 작곡가 통계와 새 작품·진입 기회의 다른 의미 → `orchestra-repertoire-repeat-performance-autumn-2026` § ‘현대음악이 늘었다’만으로는 남는 질문 · `ing-20261110-autumn-other-followups`
+- 10월 27일 발표된 30개 악단의 Toulmin 신규 위촉 계획 → `orchestra-repertoire-repeat-performance-autumn-2026` § 초연 뒤 네 악단을 더 연결하는 방식 · `ing-20261110-autumn-other-followups`
+- TESTIFY!의 10월 지역별 공연 안내와 재연 추적 → `orchestra-repertoire-repeat-performance-autumn-2026` § 초연 뒤 네 악단을 더 연결하는 방식 · `ing-20261110-autumn-other-followups`
+- 초연 이후 작품 생애와 컨소시엄 밖 재연을 추적하는 지표 제안 → `orchestra-repertoire-repeat-performance-autumn-2026` § 다음 통계는 작품의 생애를 세어야 한다 · `ing-20261110-autumn-other-followups`
+- 광주시립교향악단 2026년 후반 시즌 단원 및 사무국 명부 → `gwangju-symphony-roster` § 2026년 후반 시즌 단원 명부 · `ing-20261126-gwangju-symphony-roster`
+- 시즌별 명부와 실제 공연 참여 기록의 분리 및 누적 → `gwangju-symphony-roster` § 공연별 참여 기록; `gwangju-symphony-roster` § 시즌별 구성 변화 · `ing-20261126-gwangju-symphony-roster`
+- 2026-10-23 Nordic Echo 공연 책자 파트별 명부와 객원 표기 → `gwangju-symphony-roster` § 2026-10-23 — Nordic Echo · `ing-20261126-gso-nordic-echo`
+- 후반 시즌 명부와 Nordic Echo 공연 명부 인원 및 직책 차이 → `gwangju-symphony-roster` § 후반 시즌 명부와 비교 · `ing-20261126-gso-nordic-echo`
+- 카메라타전남 2026년 11월 6일 공연 명부 → `camerata-jeonnam-roster` § 2026-11-06 — 베토벤 교향곡 제9번 · `ing-20261126-camerata-jeonnam-beethoven9`
+- 광주시향 Nordic Echo와 카메라타전남 명부의 이름·파트 일치 사례 → `camerata-jeonnam-roster` § 광주시향 공연과의 교차 기록; `gwangju-symphony-roster` § 다른 지역 악단과의 교차 기록 · `ing-20261126-camerata-jeonnam-beethoven9`
+- 광양시립합창단 2026-11-06 공연 명부 → `camerata-jeonnam-roster` § 광양시립합창단 · `ing-20261126-beethoven9-combined-choirs`
+- 전남대학교 음악학과 합창단 2026-11-06 공연 명부 → `camerata-jeonnam-roster` § 전남대학교 음악학과 합창단 · `ing-20261126-beethoven9-combined-choirs`
+- 베토벤 교향곡 제9번 세 단체 공동 참여 인원 집계 → `camerata-jeonnam-roster` § 합동 공연 인원 집계 · `ing-20261126-beethoven9-combined-choirs`
+
 ## 사회와 제도 (138)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -856,147 +1000,6 @@
 - 성범죄자 치료의 공헌과 논쟁적 SRA 주장 병존 → `ray-wyre-sex-offender-treatment` § 사후 평판의 비대칭: 치료의 선구자와 논쟁적인 증인 · `ing-20261103-satanic-panic-teresa`
 - 소프트웨어 개발 외주·EOR·프리랜서 계약 구별 → `global-bpo-labor-geography` § 개발자 아웃소싱의 새로운 연결층: EOR와 인력 플랫폼 · `ing-20261104-local-llm-global-developer-work`
 - 아프리카 개발자 다핵 네트워크와 원격 급여의 함정 → `global-bpo-labor-geography` § 아프리카 개발자 시장: 단일한 값싼 예비군이 아닌 다핵 구조 · `ing-20261104-local-llm-global-developer-work`
-
-## 음악 (136)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 20세기 음악사의 단선적 진보 서사 비판 → `classical-canon-mauceri` § 존 마우체리의 《전쟁과 음악》과 수정주의적 음악사 · `ing-20261023-mauceri-classical-canon`
-- 퇴폐음악 정책과 망명 작곡가의 수용 → `classical-canon-mauceri` § 퇴폐음악과 망명의 두 번째 역사 · `ing-20261023-mauceri-classical-canon`
-- 영화음악의 후기낭만주의 계승과 반론 → `classical-canon-mauceri` § 영화음악은 후기낭만주의의 후계인가 · `ing-20261023-mauceri-classical-canon`
-- 유럽 공연장 영화음악과 코른골트의 편입 → `classical-canon-mauceri` § 유럽 공연장의 변화: 입장과 정전화의 차이 · `ing-20261023-mauceri-classical-canon`
-- 게임음악의 이벤트 공연과 정전화의 차이 → `classical-canon-mauceri` § 게임음악: 공연장 안의 장르별 이벤트 · `ing-20261023-mauceri-classical-canon`
-- 유럽 음악학 수용에 관한 근거와 불확실성 → `classical-canon-mauceri` § 유럽 음악학의 수용과 반론 · `ing-20261023-mauceri-classical-canon`
-- 두 번째 연주와 정전 형성의 시간차 → `classical-canon-mauceri` § 정전의 시간차와 '두 번째 연주'의 문제 · `ing-20261023-mauceri-classical-canon`
-- 미래의 다중 계보와 전후 교향악 재평가 → `classical-canon-mauceri` § 단일 계보에서 다중 계보로 · `ing-20261023-mauceri-classical-canon`
-- 소가 다이스케의 광주·전남 반복 초청 연혁 → `daisuke-soga-conductor-career` § 광주와 전남에서 누적된 연결 · `ing-20261023-soga-media-burning-ecosystem`
-- 소가 다이스케의 작곡 활동과 주요 작품 → `daisuke-soga-conductor-career` § 지휘자이면서 작곡가 · `ing-20261023-soga-media-burning-ecosystem`
-- 장기 지휘 포스트 종료와 은퇴의 구분 → `daisuke-soga-conductor-career` § 긴 포스트의 종료는 은퇴와 다르다 · `ing-20261023-soga-media-burning-ecosystem`
-- 세계 지휘자 시장의 희소한 자리와 경력 층위 모형 → `daisuke-soga-conductor-career` § 지휘자 시장은 매우 좁고 계층적이다 · `ing-20261023-soga-media-burning-ecosystem`
-- 희소 채널 시대를 기준으로 한 장수 음악방송 비교 → `long-running-music-broadcasts` § 비교 기준: 오래된 방송이 아니라 희소 채널 시대의 연속성 · `ing-20261023-soga-media-burning-ecosystem`
-- 일본 장수 음악방송의 프로그램과 시작 시점 → `long-running-music-broadcasts` § 일본: 노래 경연, 교육용 노래, 대중음악의 장기 포맷 · `ing-20261023-soga-media-burning-ecosystem`
-- 한국 장수 음악방송의 프로그램과 기능 차이 → `long-running-music-broadcasts` § 한국: 지역 공동체, 기억, 세대 혼합의 장수 프로그램 · `ing-20261023-soga-media-burning-ecosystem`
-- 산레모의 라디오·텔레비전 기원과 2026년 존속 → `long-running-music-broadcasts` § 이탈리아: 산레모는 프로그램이면서 국가적 연례 의식이다 · `ing-20261023-soga-media-burning-ecosystem`
-- 영국·미국·프랑스의 장수와 단절을 통한 비교 → `long-running-music-broadcasts` § 영국·미국·프랑스: 긴 역사와 단절이 함께 있는 경우 · `ing-20261023-soga-media-burning-ecosystem`
-- 일본에서 지휘자 이미지와 오자와 세이지를 연결한 대중문화 비교 → `japanese-classical-tv-conductor-image` § 1970~80년대: 친근한 TV 지휘자와 세계적 마에스트로의 병존; `japanese-classical-tv-conductor-image` § 2000년대 이후: 《노다메 칸타빌레》와 협업형 지휘자의 서사 · `ing-20261023-soga-media-burning-ecosystem`
-- 1964년 시작·2024년 60주년·2009년 기네스 인증의 장수 연혁 → `japanese-classical-tv-conductor-image` § 1964년에 시작해 60년을 넘긴 클래식 음악 TV · `ing-20261024-japanese-classical-tv`
-- 마유즈미 도시로와 Young People’s Concerts의 초기 구상 연결 → `japanese-classical-tv-conductor-image` § 번스타인의 TV 음악교육과 마유즈미 도시로의 변형 · `ing-20261024-japanese-classical-tv`
-- 연주·토크·실험·교육을 결합한 클래식 TV 해설 형식 → `japanese-classical-tv-conductor-image` § 번스타인의 TV 음악교육과 마유즈미 도시로의 변형 · `ing-20261024-japanese-classical-tv`
-- 마유즈미·하네다·사도·이시마루로 이어지는 진행 계보 → `japanese-classical-tv-conductor-image` § 프로그램은 한 사람의 캐릭터에서 벗어나 계속 변했다 · `ing-20261024-japanese-classical-tv`
-- 오케스트라가 왔다의 1972~1983년 544회 방송과 야마모토 나오즈미 → `japanese-classical-tv-conductor-image` § 경쟁작 《オーケストラがやって来た!》: 해설보다 현장과 쇼맨십 · `ing-20261024-japanese-classical-tv`
-- 야마모토의 친근한 TV 지휘자와 오자와의 세계적 마에스트로라는 이중 이미지 → `japanese-classical-tv-conductor-image` § 1970~80년대: 친근한 TV 지휘자와 세계적 마에스트로의 병존 · `ing-20261024-japanese-classical-tv`
-- 사도 유타카·소가 다이스케를 방송에 가시화된 지휘자 다음 세대로 읽는 관점 → `japanese-classical-tv-conductor-image` § 그 방송을 보고 자란 다음 세대 · `ing-20261024-japanese-classical-tv`
-- 노다메 칸타빌레의 치아키가 전제군주형에서 협업형 지휘자로 성장하는 서사 → `japanese-classical-tv-conductor-image` § 2000년대 이후: 《노다메 칸타빌레》와 협업형 지휘자의 서사 · `ing-20261024-japanese-classical-tv`
-- 세대별 대중매체가 지휘자 직업의 상상 가능한 얼굴을 바꾸었다는 비교 모형 → `japanese-classical-tv-conductor-image` § 세대별로 보면 지휘자의 얼굴이 달라진다 · `ing-20261024-japanese-classical-tv`
-- 클라리넷 싱글리드와 오보에·바순 더블리드의 발음 메커니즘 → `woodwind-reeds-material-history` § 풀 한 조각이 악기의 성대가 되는 방식 · `ing-20261025-woodwind-reeds`
-- Arundo donax 표준을 물성과 경로의존성의 결합으로 설명 → `woodwind-reeds-material-history` § 왜 거의 모두 Arundo donax인가 · `ing-20261025-woodwind-reeds`
-- Phragmites·대나무 등 비아룬도 천연 리드의 전통과 현대 실험 → `woodwind-reeds-material-history` § 다른 풀과 대나무도 실제로 연주된다; `woodwind-reeds-material-history` § 현대 서양악기에서의 대체 식물 실험 · `ing-20261025-woodwind-reeds`
-- 프랑스 단일 독점보다 지중해산 cane과 가공업체 중심의 공급 의존 → `woodwind-reeds-material-history` § 프랑스 독점인가, 지중해 표준인가 · `ing-20261025-woodwind-reeds`
-- 태국의 현지 Arundo 개발과 한국의 원료 국산화 공백 → `woodwind-reeds-material-history` § 태국의 국산화 실험과 한국의 빈자리 · `ing-20261025-woodwind-reeds`
-- 클라리넷·오보에·바순 연주자의 연간 리드 비용 추산 → `woodwind-reeds-material-history` § 연주자 한 사람은 1년에 얼마를 쓰는가 · `ing-20261025-woodwind-reeds`
-- 오텐자머·마이어·마살리스·모랄레스 등 비표준 리드 세팅 → `woodwind-reeds-material-history` § 유명 연주자들의 비표준 세팅 · `ing-20261025-woodwind-reeds`
-- 두 차례 세계대전의 cane 공급난과 미국·멕시코 대체 공급망 및 플라스틱 리드 → `woodwind-reeds-material-history` § 전쟁이 끊은 풀의 공급망 · `ing-20261025-woodwind-reeds`
-- 리드를 악기의 마지막 제작 공정·기계적 인터페이스로 해석 → `woodwind-reeds-material-history` § 리드는 악기의 마지막 제작 공정이다 · `ing-20261025-woodwind-reeds`
-- 리드 산지의 테루아·침입종 역설·물성 기반 선별 기술의 문제 → `woodwind-reeds-material-history` § 테루아, 침입종, 그리고 선별 기술 · `ing-20261025-woodwind-reeds`
-- 활털·송진·거트 현·깃털·자연피·펠트 등 악기의 생물성 소모품 → `instrument-consumables-organic-materials` § 소모품을 보면 악기의 역사가 달라 보인다 · `ing-20261025-woodwind-reeds`
-- 악기별 성격상을 실제 심리 특성보다 직업문화적 스테레오타입으로 구분 → `orchestra-instrument-stereotypes` § 스테레오타입은 실제 연구 대상이 되었다; `orchestra-instrument-stereotypes` § 악기가 사람을 만드는가, 사람이 악기를 고르는가 · `ing-20261025-woodwind-reeds`
-- 오보에·바순·호른·금관·비올라·현악·타악 등 파트별 스테레오타입 → `orchestra-instrument-stereotypes` § 오보에: 예민한 완벽주의자라는 이미지; `orchestra-instrument-stereotypes` § 비올라: 클래식계의 영원한 동네북 · `ing-20261025-woodwind-reeds`
-- 파트별 스테레오타입을 활용한 오케스트라 내부자 농담 묶음 → `orchestra-instrument-stereotypes` § 스테레오타입을 활용한 농담 묶음 · `ing-20261025-woodwind-reeds`
-- 오리지널·인터내셔널 투어 내한과 한국어 라이선스 프로덕션의 구분 → `korea-dance-musical-tours` § 먼저 구분할 것: 내한과 한국어 프로덕션 · `ing-20261025-korea-dance-musical-tours`
-- 대형 무대의 규모보다 춤의 밀도·신체성·스펙터클의 근원을 우선하는 선택 기준 → `korea-dance-musical-tours` § 무엇을 기다리는가: 노래가 아니라 몸으로 보는 뮤지컬 · `ing-20261025-korea-dance-musical-tours`
-- 2026년 9월 기준 캣츠·겨울왕국·오페라의 유령·노트르담 드 파리·라이온 킹의 한국 일정 상태 → `korea-dance-musical-tours` § 2026년 9월에 확인된 한국 일정 · `ing-20261025-korea-dance-musical-tours`
-- 춤·아크로바틱 취향으로 MJ·캣츠·물랑루즈·Some Like It Hot·앤 줄리엣을 재정렬한 추천 → `korea-dance-musical-tours` § 춤 취향으로 순위를 다시 매기면 · `ing-20261025-korea-dance-musical-tours`
-- 캣츠의 젤리클 볼과 재즈댄스·발레·체조적 동물 움직임을 춤 중심 추천 근거로 정리 → `korea-dance-musical-tours` § 《캣츠》: 지금 가장 안전한 선택 · `ing-20261025-korea-dance-musical-tours`
-- MJ의 마이클 잭슨 퍼포먼스·크리스토퍼 휠든 안무와 2027 아시아 투어를 한국행 감시 근거로 정리 → `korea-dance-musical-tours` § 《MJ》: 한국행이면 최우선 · `ing-20261025-korea-dance-musical-tours`
-- 물랑루즈의 캉캉·탱고·팝 군무와 아시아 월드투어 동선을 춤 중심 후보로 평가 → `korea-dance-musical-tours` § 《물랑루즈!》: 노트르담과 라이온 킹 사이의 감각 · `ing-20261025-korea-dance-musical-tours`
-- Some Like It Hot의 탭 군무와 앤 줄리엣의 팝 콘서트형 군무를 서로 다른 춤 취향으로 구분 → `korea-dance-musical-tours` § 탭과 팝 군무: 《Some Like It Hot》과 《& Juliet》 · `ing-20261025-korea-dance-musical-tours`
-- 백 투 더 퓨처·겨울왕국·오페라의 유령처럼 대형 스펙터클이 곧 춤 중심 공연은 아니라는 구분 → `korea-dance-musical-tours` § 큰 무대가 곧 몸의 스펙터클은 아니다 · `ing-20261025-korea-dance-musical-tours`
-- 아시아 투어 존재·동아시아 동선·한국 제작사 공동제작·반복 흥행·장기 파트너십을 내한 신호로 읽는 방법 → `korea-dance-musical-tours` § 장기 내한 신호를 읽는 법 · `ing-20261025-korea-dance-musical-tours`
-- 2027~2030년 MJ·물랑루즈·앤 줄리엣·Some Like It Hot·백 투 더 퓨처·디즈니·라이온 킹·해밀턴의 장기 관찰 목록 → `korea-dance-musical-tours` § 2027~2030 장기 전망 · `ing-20261025-korea-dance-musical-tours`
-- 노트르담 드 파리의 가수와 전문 무용수 기능 분리가 강한 아크로바틱 신체성을 가능하게 한다는 해석 → `korea-dance-musical-tours` § 왜 《노트르담 드 파리》가 특별한 기준점인가 · `ing-20261025-korea-dance-musical-tours`
-- 세계 레퍼토리 데이터베이스: 무엇을 얻고 무엇을 얻지 못하는가 → `orchestra-repertoire-data-access` § 세계 레퍼토리 데이터베이스: 무엇을 얻고 무엇을 얻지 못하는가 · `ing-20261025-orchestra-repertoire-seasons`
-- 미국 오케스트라 2,218개라는 숫자의 함정 → `orchestra-repertoire-data-access` § 미국 오케스트라 2,218개라는 숫자의 함정 · `ing-20261025-orchestra-repertoire-seasons`
-- 공연장 수와 음악을 들을 가능성은 다르다 → `orchestra-repertoire-data-access` § 공연장 수와 음악을 들을 가능성은 다르다 · `ing-20261025-orchestra-repertoire-seasons`
-- Bachtrack의 '콘서트' 10개 연례 통계 → `orchestra-repertoire-data-access` § Bachtrack의 '콘서트' 10개 연례 통계 · `ing-20261025-orchestra-repertoire-seasons`
-- 초연, 두 번째 공연, 정전화는 세 개의 사건이다 → `orchestra-living-composers-canon` § 초연, 두 번째 공연, 정전화는 세 개의 사건이다 · `ing-20261025-orchestra-repertoire-seasons`
-- Bachtrack에서 생존 작곡가가 늘어나는 방식 → `orchestra-living-composers-canon` § Bachtrack에서 생존 작곡가가 늘어나는 방식 · `ing-20261025-orchestra-repertoire-seasons`
-- 14%는 실제로 얼마나 새로운가 → `orchestra-living-composers-canon` § 14%는 실제로 얼마나 새로운가 · `ing-20261025-orchestra-repertoire-seasons`
-- 프로그램의 문장을 읽는 감상법 → `orchestra-living-composers-canon` § 프로그램의 문장을 읽는 감상법 · `ing-20261025-orchestra-repertoire-seasons`
-- 빈 필: 말러·브루크너와 의례 사이의 전통 → `world-orchestras-repertoire-2026` § 빈 필: 말러·브루크너와 의례 사이의 전통 · `ing-20261025-orchestra-repertoire-seasons`
-- 베를린 필: 작품 사이에 논리를 배치하는 레퍼토리 전략가 → `world-orchestras-repertoire-2026` § 베를린 필: 작품 사이에 논리를 배치하는 레퍼토리 전략가 · `ing-20261025-orchestra-repertoire-seasons`
-- 로열 콘세르트헤바우: 말러와 브루크너의 유산을 메켈레에게 넘기다 → `world-orchestras-repertoire-2026` § 로열 콘세르트헤바우: 말러와 브루크너의 유산을 메켈레에게 넘기다 · `ing-20261025-orchestra-repertoire-seasons`
-- 런던 심포니: 정통 교향곡만으로는 설명되지 않는 도시형 문화 플랫폼 → `world-orchestras-repertoire-2026` § 런던 심포니: 정통 교향곡만으로는 설명되지 않는 도시형 문화 플랫폼 · `ing-20261025-orchestra-repertoire-seasons`
-- 시카고 심포니: 미국 음악과 대편성의 힘, 메켈레 시대의 예고 → `world-orchestras-repertoire-2026` § 시카고 심포니: 미국 음악과 대편성의 힘, 메켈레 시대의 예고 · `ing-20261025-orchestra-repertoire-seasons`
-- 이 다섯이 세계 클래식의 전부는 아니다 → `world-orchestras-repertoire-2026` § 이 다섯이 세계 클래식의 전부는 아니다 · `ing-20261025-orchestra-repertoire-seasons`
-- 캐릭터는 해석이며, 의상은 근거가 아니다 → `world-orchestras-repertoire-2026` § 캐릭터는 해석이며, 의상은 근거가 아니다 · `ing-20261025-orchestra-repertoire-seasons`
-- 서울시립교향악단: 말러 사이클과 모차르트 집중 → `korean-orchestras-repertoire-2026` § 서울시립교향악단: 말러 사이클과 모차르트 집중 · `ing-20261025-orchestra-repertoire-seasons`
-- KBS교향악단: 70주년, 정명훈, 말러의 재집중 → `korean-orchestras-repertoire-2026` § KBS교향악단: 70주년, 정명훈, 말러의 재집중 · `ing-20261025-orchestra-repertoire-seasons`
-- 국립심포니오케스트라: 표준 레퍼토리의 공공 번역자 → `korean-orchestras-repertoire-2026` § 국립심포니오케스트라: 표준 레퍼토리의 공공 번역자 · `ing-20261025-orchestra-repertoire-seasons`
-- 부산시립교향악단: 브루크너의 거대한 구조물 → `korean-orchestras-repertoire-2026` § 부산시립교향악단: 브루크너의 거대한 구조물 · `ing-20261025-orchestra-repertoire-seasons`
-- 인천시립교향악단: 가장 명시적으로 시리즈 이름을 앞세운 기획자 → `korean-orchestras-repertoire-2026` § 인천시립교향악단: 가장 명시적으로 시리즈 이름을 앞세운 기획자 · `ing-20261025-orchestra-repertoire-seasons`
-- 부천필하모닉: 프로그램에 읽는 제목을 붙이는 문학형 편집자 → `korean-orchestras-repertoire-2026` § 부천필하모닉: 프로그램에 읽는 제목을 붙이는 문학형 편집자 · `ing-20261025-orchestra-repertoire-seasons`
-- 대구시립교향악단: 한 작곡가의 방을 차례로 여는 도슨트 → `korean-orchestras-repertoire-2026` § 대구시립교향악단: 한 작곡가의 방을 차례로 여는 도슨트 · `ing-20261025-orchestra-repertoire-seasons`
-- 광주시립교향악단: 청중과의 거리 줄이기 → `korean-orchestras-repertoire-2026` § 광주시립교향악단: 청중과의 거리 줄이기 · `ing-20261025-orchestra-repertoire-seasons`
-- 대전시립교향악단: 챔버·디스커버리·걸음마의 여러 문턱 → `korean-orchestras-repertoire-2026` § 대전시립교향악단: 챔버·디스커버리·걸음마의 여러 문턱 · `ing-20261025-orchestra-repertoire-seasons`
-- 수원시립교향악단: 전통을 중량급 레퍼토리로 확장하는 도전자 → `korean-orchestras-repertoire-2026` § 수원시립교향악단: 전통을 중량급 레퍼토리로 확장하는 도전자 · `ing-20261025-orchestra-repertoire-seasons`
-- 경기필하모닉: 캐릭터를 보류할 용기 → `korean-orchestras-repertoire-2026` § 경기필하모닉: 캐릭터를 보류할 용기 · `ing-20261025-orchestra-repertoire-seasons`
-- 한국 악단을 캐릭터로 그릴 때 지켜야 할 선 → `korean-orchestras-repertoire-2026` § 한국 악단을 캐릭터로 그릴 때 지켜야 할 선 · `ing-20261025-orchestra-repertoire-seasons`
-- 작곡가가 선택할 수 있는 관현악의 층위 → `orchestration-instrument-history` § 작곡가가 선택할 수 있는 관현악의 층위 · `ing-20261025-orchestra-repertoire-seasons`
-- 라흐마니노프 《교향적 무곡》의 '양념'은 얼마나 많은 사람을 요구하는가 → `orchestration-instrument-history` § 라흐마니노프 《교향적 무곡》의 '양념'은 얼마나 많은 사람을 요구하는가 · `ing-20261025-orchestra-repertoire-seasons`
-- 말러는 왜 지방 악단의 예산을 빨아들이는가 → `orchestration-instrument-history` § 말러는 왜 지방 악단의 예산을 빨아들이는가 · `ing-20261025-orchestra-repertoire-seasons`
-- 협주곡: 한 개인과 전체 악단의 대결은 언제 생겼는가 → `orchestration-instrument-history` § 협주곡: 한 개인과 전체 악단의 대결은 언제 생겼는가 · `ing-20261025-orchestra-repertoire-seasons`
-- 클래식 음악은 본래 어디에서 연주되었는가 → `orchestration-instrument-history` § 클래식 음악은 본래 어디에서 연주되었는가 · `ing-20261025-orchestra-repertoire-seasons`
-- 새 악기의 탄생과 관현악 입장 심사 → `orchestration-instrument-history` § 새 악기의 탄생과 관현악 입장 심사 · `ing-20261025-orchestra-repertoire-seasons`
-- 전자악기가 아니어도 새 어쿠스틱 악기는 태어난다 → `orchestration-instrument-history` § 전자악기가 아니어도 새 어쿠스틱 악기는 태어난다 · `ing-20261025-orchestra-repertoire-seasons`
-- 클라우스 메켈레라는 비정상적으로 빠른 경력 → `conductors-career-encores` § 클라우스 메켈레라는 비정상적으로 빠른 경력 · `ing-20261025-orchestra-repertoire-seasons`
-- 왜 콘세르트헤바우와 시카고는 같은 사람을 원하는가 → `conductors-career-encores` § 왜 콘세르트헤바우와 시카고는 같은 사람을 원하는가 · `ing-20261025-orchestra-repertoire-seasons`
-- 요즘 젊은 지휘자 붐은 있는가 → `conductors-career-encores` § 요즘 젊은 지휘자 붐은 있는가 · `ing-20261025-orchestra-repertoire-seasons`
-- 핀란드가 지휘자를 계속 배출하는 이유 → `conductors-career-encores` § 핀란드가 지휘자를 계속 배출하는 이유 · `ing-20261025-orchestra-repertoire-seasons`
-- 예전에도 혜성 같은 지휘자는 있었는가 → `conductors-career-encores` § 예전에도 혜성 같은 지휘자는 있었는가 · `ing-20261025-orchestra-repertoire-seasons`
-- 지휘자의 자리는 몇 개인가 → `conductors-career-encores` § 지휘자의 자리는 몇 개인가 · `ing-20261025-orchestra-repertoire-seasons`
-- 앵콜은 마지막에 던지는 사적인 문장이다 → `conductors-career-encores` § 앵콜은 마지막에 던지는 사적인 문장이다 · `ing-20261025-orchestra-repertoire-seasons`
-- 필하모닉, 심포니, 오케스트라: 이름은 무엇을 뜻하는가 → `orchestra-halls-seasons` § 필하모닉, 심포니, 오케스트라: 이름은 무엇을 뜻하는가 · `ing-20261025-orchestra-repertoire-seasons`
-- 가을에 시작해 다음 해 여름에 끝나는 시즌 → `orchestra-halls-seasons` § 가을에 시작해 다음 해 여름에 끝나는 시즌 · `ing-20261025-orchestra-repertoire-seasons`
-- 다섯 명문 악단의 본거지 홀 → `orchestra-halls-seasons` § 다섯 명문 악단의 본거지 홀 · `ing-20261025-orchestra-repertoire-seasons`
-- 한 콘서트홀과 한 악단이 같은 말이 아닌 이유 → `orchestra-halls-seasons` § 한 콘서트홀과 한 악단이 같은 말이 아닌 이유 · `ing-20261025-orchestra-repertoire-seasons`
-- 빈 필 신년음악회라는 별도의 산업 → `orchestra-halls-seasons` § 빈 필 신년음악회라는 별도의 산업 · `ing-20261025-orchestra-repertoire-seasons`
-- 작은 방과 세계적 권위 → `orchestra-halls-seasons` § 작은 방과 세계적 권위 · `ing-20261025-orchestra-repertoire-seasons`
-- 생존 작곡가의 비율과 정전 형성의 차이 → `classical-canon-mauceri` § 생존 작곡가의 비율과 다음 연주의 경제학 · `ing-20261025-orchestra-repertoire-seasons`
-- 선호 가설과 실제 감상 반응의 구분 → `mood-led-music-listening` § 첫 추천은 취향의 결론이 아니라 가설이다 · `ing-20261025-mood-led-music-listening`
-- 네 가지 분위기에 따른 해외 음악 열두 곡 → `mood-led-music-listening` § 서늘하고 큰 밤의 감각; `mood-led-music-listening` § 세상이 이상하게 돌아가는 날; `mood-led-music-listening` § SF의 거리감과 멀리 이동하는 감각; `mood-led-music-listening` § 우울하지만 지나치게 질척이지 않는 정서 · `ing-20261025-mood-led-music-listening`
-- 한국 음악 세 곡과 우선 청취 네 곡 → `mood-led-music-listening` § 한국 음악으로 넓히는 별도의 갈래; `mood-led-music-listening` § 먼저 들어 볼 네 곡 · `ing-20261025-mood-led-music-listening`
-- 추가 탐색 방향과 청취 반응의 미확인 → `mood-led-music-listening` § 취향의 다음 분기와 판단 유보 · `ing-20261025-mood-led-music-listening`
-- 쇼스타코비치 이후 교향악 쇠퇴와 정전 가시성의 구별 → `classical-canon-mauceri` § 작품이 없는 것이 아니라 작품을 공통의 사건으로 만드는 방식이 달라졌다 · `ing-20261030-contemporary-symphonic-journey`
-- 녹음·레퍼토리 비용·전후 현대주의·매체 분화의 복합 원인 → `orchestra-composer-conductor-myth` § 왜 지금은 같은 유형의 네임드가 잘 보이지 않는가 · `ing-20261030-contemporary-symphonic-journey`
-- 거장 이름을 공통 교양으로 만드는 반복과 제도 → `orchestra-composer-conductor-myth` § 신화가 만들어지는 여섯 개의 장치 · `ing-20261030-contemporary-symphonic-journey`
-- 말러 전기와 작곡가 인물 신화 → `orchestra-composer-conductor-myth` § 작품을 넘어 인간에게 향하는 팬덤 · `ing-20261030-contemporary-symphonic-journey`
-- 쇼스타코비치 7번 레닌그라드와 포위전 서사 → `orchestra-composer-conductor-myth` § 레닌그라드 교향곡: 한 곡이 전쟁사 한 권이 되는 순간 · `ing-20261030-contemporary-symphonic-journey`
-- 지휘자의 몸과 해석자 팬덤 → `orchestra-composer-conductor-myth` § 지휘자라는 살아 있는 화면; `conductors-career-encores` § 지휘자 스타라는 발명: 악보에 얼굴이 생기는 순간 · `ing-20261030-contemporary-symphonic-journey`
-- 교향곡 블록버스터 및 위인 숭배 비유의 한계 → `orchestra-composer-conductor-myth` § 작품을 넘어 인간에게 향하는 팬덤; `orchestra-composer-conductor-myth` § 음악에서 사람으로, 다시 작품으로 · `ing-20261030-contemporary-symphonic-journey`
-- 교향곡과 현대 관현악 대서사의 다른 범위 → `orchestra-living-composers-canon` § 무엇을 새로운 교향악으로 셀 것인가; `living-orchestral-listening-journey` § 왜 '새로운 말러' 대신 여러 갈래를 들어야 하는가 · `ing-20261030-contemporary-symphonic-journey`
-- 생존 작곡가 비중의 연도별 소개 수치와 해석 경계 → `orchestra-living-composers-canon` § 비중은 커져도 이름을 외우기 어려운 이유 · `ing-20261030-contemporary-symphonic-journey`
-- 1977~2025 현대 교향악 작곡·초연 연표 → `living-orchestral-listening-journey` § 작곡연도 지도로 먼저 보기 · `ing-20261030-contemporary-symphonic-journey`
-- 말러 이후 대형 감정과 영적 미니멀리즘 청취 → `living-orchestral-listening-journey` § 첫 갈래: 현대에도 오케스트라는 거대한 감정을 만든다 · `ing-20261030-contemporary-symphonic-journey`
-- 진은숙 아데스 벤저민 린드베리 현대주의 관현악 → `living-orchestral-listening-journey` § 두 번째 갈래: 색채와 지성의 구조물 · `ing-20261030-contemporary-symphonic-journey`
-- 기후 우주 지질학과 생태적 관현악 → `living-orchestral-listening-journey` § 세 번째 갈래: 인간보다 오래된 시간 · `ing-20261030-contemporary-symphonic-journey`
-- 이민 노동 역사 의례와 현대 오케스트라 → `living-orchestral-listening-journey` § 네 번째 갈래: 국가의 영웅 대신 보이지 않던 역사 · `ing-20261030-contemporary-symphonic-journey`
-- 독일 오스트리아 형식의 현대적 재구성과 후속 후보 → `living-orchestral-listening-journey` § 다섯 번째 갈래: 전통의 유령과 형식의 귀환 · `ing-20261030-contemporary-symphonic-journey`
-- 살아 있는 작곡가 중심 열두 주 청취 코스 → `living-orchestral-listening-journey` § 열두 주로 완주하는 실제 여행 · `ing-20261030-contemporary-symphonic-journey`
-- 2020~2025 최신 작품 다섯 곡의 별도 진입로 → `living-orchestral-listening-journey` § 2026년에 가장 가까운 다섯 작품 · `ing-20261030-contemporary-symphonic-journey`
-- 수상 위촉 상주작곡가 초연과 정전의 구별 → `living-orchestral-listening-journey` § 현재성을 확인하는 두 번째 축: 작품이 아니라 기관이 움직인다 · `ing-20261030-contemporary-symphonic-journey`
-- 초연 개정 시점과 2026년 수상 생존 여부의 재검증 경계 → `living-orchestral-listening-journey` § 자료 범위와 추가 확인 지점 · `ing-20261030-contemporary-symphonic-journey`
-- 청취기록으로 작품 반복과 해석자 팬덤을 관찰하기 → `living-orchestral-listening-journey` § 청취 기록: 사람의 이름이 되는 순간을 관찰하기 · `ing-20261030-contemporary-symphonic-journey`
-- 2025–26 미국 편성 작품의 생존 작곡가 비중과 내부 구성 → `orchestra-repertoire-repeat-performance-autumn-2026` § 전체 비중이 같아도 구성은 달라졌다 · `ing-20261110-autumn-other-followups`
-- 생존 작곡가 통계와 새 작품·진입 기회의 다른 의미 → `orchestra-repertoire-repeat-performance-autumn-2026` § ‘현대음악이 늘었다’만으로는 남는 질문 · `ing-20261110-autumn-other-followups`
-- 10월 27일 발표된 30개 악단의 Toulmin 신규 위촉 계획 → `orchestra-repertoire-repeat-performance-autumn-2026` § 초연 뒤 네 악단을 더 연결하는 방식 · `ing-20261110-autumn-other-followups`
-- TESTIFY!의 10월 지역별 공연 안내와 재연 추적 → `orchestra-repertoire-repeat-performance-autumn-2026` § 초연 뒤 네 악단을 더 연결하는 방식 · `ing-20261110-autumn-other-followups`
-- 초연 이후 작품 생애와 컨소시엄 밖 재연을 추적하는 지표 제안 → `orchestra-repertoire-repeat-performance-autumn-2026` § 다음 통계는 작품의 생애를 세어야 한다 · `ing-20261110-autumn-other-followups`
-- 광주시립교향악단 2026년 후반 시즌 단원 및 사무국 명부 → `gwangju-symphony-roster` § 2026년 후반 시즌 단원 명부 · `ing-20261126-gwangju-symphony-roster`
-- 시즌별 명부와 실제 공연 참여 기록의 분리 및 누적 → `gwangju-symphony-roster` § 공연별 참여 기록; `gwangju-symphony-roster` § 시즌별 구성 변화 · `ing-20261126-gwangju-symphony-roster`
-- 2026-10-23 Nordic Echo 공연 책자 파트별 명부와 객원 표기 → `gwangju-symphony-roster` § 2026-10-23 — Nordic Echo · `ing-20261126-gso-nordic-echo`
-- 후반 시즌 명부와 Nordic Echo 공연 명부 인원 및 직책 차이 → `gwangju-symphony-roster` § 후반 시즌 명부와 비교 · `ing-20261126-gso-nordic-echo`
-- 카메라타전남 2026년 11월 6일 공연 명부 → `camerata-jeonnam-roster` § 2026-11-06 — 베토벤 교향곡 제9번 · `ing-20261126-camerata-jeonnam-beethoven9`
-- 광주시향 Nordic Echo와 카메라타전남 명부의 이름·파트 일치 사례 → `camerata-jeonnam-roster` § 광주시향 공연과의 교차 기록; `gwangju-symphony-roster` § 다른 지역 악단과의 교차 기록 · `ing-20261126-camerata-jeonnam-beethoven9`
 
 ## 과학과 기술 (101)
 

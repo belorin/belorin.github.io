@@ -204,9 +204,9 @@ manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 
 
 - `circus-music-questions` ↔ `circus-music-history` · 0.91
 - `world-reading-groups` ↔ `global-reading-club-2026-books` · 0.35 · 연결됨
-- `gwangju-symphony-roster` ↔ `camerata-jeonnam-roster` · 0.24 · 연결됨
 - `global-reading-club-2026-books` ↔ `world-book-club-korean-editions` · 0.24 · 연결됨
 - `physical-cloud-reading-guide` ↔ `gpi-foreign-novels-2015-2025` · 0.22
+- `gwangju-symphony-roster` ↔ `camerata-jeonnam-roster` · 0.22 · 연결됨
 - `taste-calculator-foundations` ↔ `taste-calculator-style-algebra` · 0.21 · 연결됨
 - `taste-calculator-adapter` ↔ `taste-calculator-style-algebra` · 0.20 · 연결됨
 - `taste-calculator-foundations` ↔ `taste-calculator-adapter` · 0.19 · 연결됨
