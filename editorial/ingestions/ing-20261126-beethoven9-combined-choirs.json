@@ -1,0 +1,45 @@
+{
+  "id": "ing-20261126-beethoven9-combined-choirs",
+  "processed_on": "2026-11-26",
+  "coverage": "visible-complete",
+  "limit_note": "관현악 명부 사용자 검수 및 합창단 명부 사진 전사. 합창 전사 사용자 재검수 전, 실제 출연 미확인.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "광양시립합창단 2026-11-06 공연 명부",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "camerata-jeonnam-roster",
+          "section": "광양시립합창단"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "전남대학교 음악학과 합창단 2026-11-06 공연 명부",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "camerata-jeonnam-roster",
+          "section": "전남대학교 음악학과 합창단"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "fact",
+      "title": "베토벤 교향곡 제9번 세 단체 공동 참여 인원 집계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "camerata-jeonnam-roster",
+          "section": "합동 공연 인원 집계"
+        }
+      ]
+    }
+  ]
+}
