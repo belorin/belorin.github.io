@@ -15,7 +15,7 @@
       "+": "객원차석",
       "○": "객원"
     },
-    "transcription_note": "서주희¹·서주희² 표기를 구별하여 보존. 하프 피어나 및 첼로 강리 등은 사용자 검수 전."
+    "transcription_note": "서주희¹·서주희² 표기를 구별하여 보존. 하프 피여나는 사용자 정정 및 원본·공식 약력으로 확인. 첼로 강리 등 나머지는 사용자 검수 전."
   },
   "transcription_review": "pending",
   "records": [
@@ -966,14 +966,34 @@
     },
     {
       "id": "gso-2026-06-17-091",
-      "name": "피어나",
+      "name": "피여나",
       "part": "하프",
       "role": "객원수석",
       "printed_mark": "◆",
       "category": "instrumentalist",
       "person_id": null,
       "attendance": "unverified",
-      "source_mark": "++"
+      "source_mark": "++",
+      "transcription_note": "사용자 정정 및 프로그램북 3쪽 확대 재판독으로 이름 확인. 예술의전당 공식 공연 약력과 교차 확인.",
+      "profile_note": {
+        "source": {
+          "label": "예술의전당 · 피여나 귀국 하프 독주회",
+          "url": "https://www.sac.or.kr/site/main/show/show_view?SN=70460&tab=5",
+          "accessed_on": "2026-11-26"
+        },
+        "transcription_review": "pending",
+        "works": [],
+        "awards": [],
+        "affiliations": [
+          "광주시립교향악단 객원 연주 경력",
+          "국립심포니오케스트라 객원 연주 경력",
+          "라디오프랑스 필하모닉 오케스트라 객원 연주 경력"
+        ],
+        "notes": [
+          "2025-04-04 피여나 귀국 하프 독주회, 예술의전당. 이름·악기·광주시향 객원 이력 일치. 해당 2026년 회차 실제 출연은 별도 미확인."
+        ],
+        "scope": "공식 공연 소개의 공개 전문 약력. 동일인 후보 근거이며 실제 회차 출연 확정 아님."
+      }
     },
     {
       "id": "gso-2026-06-17-092",
