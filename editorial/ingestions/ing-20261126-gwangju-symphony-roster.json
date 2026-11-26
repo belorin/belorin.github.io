@@ -1,0 +1,37 @@
+{
+  "id": "ing-20261126-gwangju-symphony-roster",
+  "processed_on": "2026-11-26",
+  "coverage": "visible-complete",
+  "limit_note": "2026년 후반 시즌 책자 명부 전사 및 검수. 실제 공연별 출연은 미확인.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "광주시립교향악단 2026년 후반 시즌 단원 및 사무국 명부",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gwangju-symphony-roster",
+          "section": "2026년 후반 시즌 단원 명부"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "시즌별 명부와 실제 공연 참여 기록의 분리 및 누적",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gwangju-symphony-roster",
+          "section": "공연별 참여 기록"
+        },
+        {
+          "doc_id": "gwangju-symphony-roster",
+          "section": "시즌별 구성 변화"
+        }
+      ]
+    }
+  ]
+}
