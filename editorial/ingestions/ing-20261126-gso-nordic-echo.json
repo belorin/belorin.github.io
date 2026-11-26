@@ -1,0 +1,33 @@
+{
+  "id": "ing-20261126-gso-nordic-echo",
+  "processed_on": "2026-11-26",
+  "coverage": "visible-complete",
+  "limit_note": "공연 책자 3쪽 명부 전사. 실제 출연·지휘자·곡목 미확인.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "2026-10-23 Nordic Echo 공연 책자 파트별 명부와 객원 표기",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gwangju-symphony-roster",
+          "section": "2026-10-23 — Nordic Echo"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "후반 시즌 명부와 Nordic Echo 공연 명부 인원 및 직책 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "gwangju-symphony-roster",
+          "section": "후반 시즌 명부와 비교"
+        }
+      ]
+    }
+  ]
+}
