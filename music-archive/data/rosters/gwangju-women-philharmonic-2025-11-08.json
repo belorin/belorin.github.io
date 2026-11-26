@@ -1,0 +1,556 @@
+{
+  "id": "gwangju-women-philharmonic-2025-11-08",
+  "ensemble_id": "gwangju-women-philharmonic",
+  "concert_id": "2025-11-08-brahms",
+  "season": null,
+  "source": {
+    "label": "2025-11-08 브람스 프로그램북 · 출연 명단",
+    "wiki": null,
+    "page": null,
+    "type": "booklet_cast",
+    "note": "공연 날짜 및 브람스 공연명은 자료 제공자 확인. 사진 하단에 2025 브람스, 창작의 여름 시리즈 소개가 인쇄됨. 개별 회차 제목·공연 장소·지휘자·연주곡은 별도 미확인."
+  },
+  "transcription_review": "pending",
+  "records": [
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-001",
+      "name": "박승원",
+      "part": "악장",
+      "role": "악장",
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-002",
+      "name": "조국영",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-003",
+      "name": "주보람",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-004",
+      "name": "문희연",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-005",
+      "name": "문호정",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-006",
+      "name": "홍빛나",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-007",
+      "name": "정다정",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-008",
+      "name": "김현아",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-009",
+      "name": "김하라",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-010",
+      "name": "신예진",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-011",
+      "name": "문민주",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-012",
+      "name": "박은서",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-013",
+      "name": "서승현",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-014",
+      "name": "강세진",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-015",
+      "name": "이슬",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-016",
+      "name": "이지연",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-017",
+      "name": "곽성은",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-018",
+      "name": "한소희",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-019",
+      "name": "이가은",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-020",
+      "name": "박서진",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-021",
+      "name": "진채영",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-022",
+      "name": "홍유정",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-023",
+      "name": "이준서",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-024",
+      "name": "임지선",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-025",
+      "name": "신세민",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-026",
+      "name": "김규리",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-027",
+      "name": "서윤아",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-028",
+      "name": "양은지",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-029",
+      "name": "윤채원",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-030",
+      "name": "유경진",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-031",
+      "name": "노혜경",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-032",
+      "name": "오지희",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-033",
+      "name": "이유영",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-034",
+      "name": "조혜원",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-035",
+      "name": "허연희",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-036",
+      "name": "류수경",
+      "part": "더블베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-037",
+      "name": "염찬미",
+      "part": "더블베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-038",
+      "name": "최선의",
+      "part": "더블베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-039",
+      "name": "박지성",
+      "part": "더블베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-040",
+      "name": "박지혜",
+      "part": "플루트",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-041",
+      "name": "노신영",
+      "part": "플루트",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-042",
+      "name": "박해강",
+      "part": "오보에",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-043",
+      "name": "박연수",
+      "part": "오보에",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-044",
+      "name": "권미리",
+      "part": "클라리넷",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-045",
+      "name": "박수현",
+      "part": "클라리넷",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-046",
+      "name": "이지형",
+      "part": "바순",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-047",
+      "name": "한은성",
+      "part": "바순",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-048",
+      "name": "김옥길",
+      "part": "호른",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-049",
+      "name": "장주연",
+      "part": "호른",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-050",
+      "name": "조혜선",
+      "part": "호른",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-051",
+      "name": "한지수",
+      "part": "호른",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-052",
+      "name": "오창훈",
+      "part": "트럼펫",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-053",
+      "name": "박찬솔",
+      "part": "트럼펫",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-2025-11-08-054",
+      "name": "김유양",
+      "part": "팀파니",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    }
+  ]
+}

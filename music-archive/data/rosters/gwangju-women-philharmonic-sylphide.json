@@ -16,7 +16,7 @@
     "production_id": "2026-10-la-sylphide",
     "note": "회차 구분 없는 공통 명부. 각 회차의 실제 출연 및 고용 형태 미확인."
   },
-  "transcription_review": "pending",
+  "transcription_review": "user_reviewed",
   "records": [
     {
       "id": "gwangju-women-philharmonic-sylphide-001",

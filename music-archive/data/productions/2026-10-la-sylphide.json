@@ -6,7 +6,7 @@
     "page": null,
     "note": "페이지 번호 미확인. 인명 및 업체명은 사진 전사로 재검수 전. 특수효과 업체 표기는 원문 한 줄을 분리하지 않고 보존."
   },
-  "transcription_review": "pending",
+  "transcription_review": "user_reviewed",
   "credits": [
     {
       "id": "2026-10-la-sylphide-credit-001",
@@ -1216,7 +1216,7 @@
     "source": {
       "label": "라 실피드 프로그램북 · 객원무용수·어린이객원·사무국 소개",
       "page": null,
-      "transcription_review": "pending"
+      "transcription_review": "user_reviewed"
     },
     "records": [
       {
@@ -1245,7 +1245,7 @@
     {
       "label": "라 실피드 프로그램북 · 객원무용수·어린이객원·사무국 소개",
       "page": null,
-      "transcription_review": "pending",
+      "transcription_review": "user_reviewed",
       "scope": "organization_roster",
       "credit_refs": [
         {

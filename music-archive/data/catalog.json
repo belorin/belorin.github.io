@@ -64,6 +64,20 @@
   ],
   "concerts": [
     {
+      "id": "2025-11-08-brahms",
+      "date": "2025-11-08",
+      "title": "브람스",
+      "series": "브람스, 창작의 여름",
+      "ensemble_ids": [
+        "gwangju-women-philharmonic"
+      ],
+      "work_ids": [],
+      "venue": null,
+      "conductor": null,
+      "soloists": null,
+      "documentation_note": "공연 날짜 및 제목은 자료 제공자 확인. 프로그램북 출연 명단을 기록하며 실제 출연 및 단원 소속 형태는 미확인."
+    },
+    {
       "id": "2026-03-20-bohemian-spring",
       "date": "2026-03-20",
       "title": "보헤미아의 봄",
@@ -356,7 +370,8 @@
     "gwangju-ballet-sylphide-2",
     "gwangju-ballet-sylphide-3",
     "gwangju-ballet-2026-10-members",
-    "gwangju-women-philharmonic-sylphide"
+    "gwangju-women-philharmonic-sylphide",
+    "gwangju-women-philharmonic-2025-11-08"
   ],
   "persons": [],
   "production_credit_ids": [
