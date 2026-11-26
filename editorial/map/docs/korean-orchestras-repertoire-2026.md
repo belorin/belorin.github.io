@@ -7,7 +7,7 @@
 - 요약: 서울·KBS·국립·부산·인천·부천·대구·광주·대전·수원·경기필의 확인된 2026년 프로그램과 인상비평의 한계를 구별한다.
 - 태그: 한국 교향악단, 2026 시즌, 서울시향, 인천시향, 부천필, 큐레이션
 - 수정일: 2026-11-10 · 실제 증보일: 2026-10-25 · 검토: needs_review
-- 관련 문서: `world-orchestras-repertoire-2026`, `orchestra-repertoire-data-access`, `orchestra-living-composers-canon`, `orchestra-repertoire-repeat-performance-autumn-2026`
+- 관련 문서: `world-orchestras-repertoire-2026`, `orchestra-repertoire-data-access`, `orchestra-living-composers-canon`, `orchestra-repertoire-repeat-performance-autumn-2026`, `gwangju-symphony-roster`
 
 ## 절 목차
 

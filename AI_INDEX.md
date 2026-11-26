@@ -148,6 +148,9 @@
 - **[살아 있는 작곡가의 22.5%: 2026년 가을 오케스트라 통계와 재연의 제도](wiki/orchestra-repertoire-repeat-performance-autumn-2026.md)** · 별칭: 2026년 가을 미국 오케스트라 통계, 현대음악의 재연 컨소시엄 · 수정: 2026-11-10 · 검토: 2026년 가을 후속 조사
   - 10월 공개된 미국 오케스트라 보고서에서 생존 작곡가 비중과 내부 구성의 차이를 읽고, Toulmin 신규 위촉 컨소시엄과 지역 재연 사례를 작품의 생애라는 질문에 연결한다.
   - [문서 페이지](https://belorin.github.io/notes/orchestra-repertoire-repeat-performance-autumn-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/orchestra-repertoire-repeat-performance-autumn-2026.md)
+- **[광주시립교향악단 단원 명부와 공연 참여 기록](wiki/gwangju-symphony-roster.md)** · 별칭: 광주시향 단원 명단, 광주시립교향악단 참여자 아카이브 · 수정: 2026-11-26 · 검토: 2026년 후반 시즌 명부 · 장기 누적 아카이브 초기판
+  - 광주시립교향악단 2026년 후반 시즌 책자에 기재된 74명의 파트별 명부와 직책을 보존하고 이후 공연별 출연 및 시즌별 변화를 축적한다.
+  - [문서 페이지](https://belorin.github.io/notes/gwangju-symphony-roster/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/gwangju-symphony-roster.md)
 
 ## AI와 사회
 

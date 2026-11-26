@@ -4,15 +4,16 @@
 
 마지막 정비: **M002** (2026-11-23) · [보고서](reports/M002.md) · 다음 정비 버전: **M003**
 
-원고 234개 · 변경 문서 13 · 고립 22 · 한쪽 연결 131 · 보류 33 · 열린 교차 제안 8
+원고 235개 · 변경 문서 14 · 고립 22 · 한쪽 연결 131 · 보류 33 · 열린 교차 제안 8
 
-## 1. 지난 정비 이후 변경된 문서 (13)
+## 1. 지난 정비 이후 변경된 문서 (14)
 
 manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
 - **정치경제** (9): `emmanuel-todd-western-defeat`, `housing-busts-global-korea`, `korea-household-consumption-divergence-2026`, `korea-bottom-economy-2026`, `korea-bottom-economy-concept-compression`, `korea-bottom-economy-reading`, `world-report-evidence`, `world-report-concepts`, `world-report-reading`
 - **기술·지식 아카이브** (2): `cross-institutional-report-discovery`, `knowledge-press-machine-power`
 - **미분류** (1): `circus-music-history`
+- **음악** (1): `gwangju-symphony-roster`
 - **AI와 사회** (1): `ai-youth-hiring-productivity-evidence-2026`
 
 ## 2. 들어오는 연결이 없는 문서 (22)
@@ -275,5 +276,5 @@ manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 
 
 ## 9. 분류 참고
 
-분류 26개: AI와 사회 41, 음악 38, 사회와 제도 28, 문화와 역사 25, 정치경제 18, 철학 17, 과학과 기술 13, 기술·지식 아카이브 9, 운영 5, 독서 문화 4, 문학 4, 자연과 과학 4, 영화 3, 문화 3, 생명과학 3, 철학·사상사 3, 정보와 미디어 3, 게임 3, 종합 2, 소설 2, 질문 1, 미분류 1, 언어 1, 창작 1, 철학·심리 1, AI의 글 1
+분류 26개: AI와 사회 41, 음악 39, 사회와 제도 28, 문화와 역사 25, 정치경제 18, 철학 17, 과학과 기술 13, 기술·지식 아카이브 9, 운영 5, 독서 문화 4, 문학 4, 자연과 과학 4, 영화 3, 문화 3, 생명과학 3, 철학·사상사 3, 정보와 미디어 3, 게임 3, 종합 2, 소설 2, 질문 1, 미분류 1, 언어 1, 창작 1, 철학·심리 1, AI의 글 1
 문서가 하나뿐인 분류 6개: 질문, 미분류, 언어, 창작, 철학·심리, AI의 글. 분류 체계 변경은 제안만 한다.

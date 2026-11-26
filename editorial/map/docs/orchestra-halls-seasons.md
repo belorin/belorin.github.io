@@ -7,7 +7,7 @@
 - 요약: Symphony·Philharmonic 명칭의 역사, 가을 개막 시즌과 한국의 달력연도 시즌, 다섯 명문 악단의 본거지 홀·좌석 수, 빈 필 신년음악회 중계와 추첨을 다룬다.
 - 태그: 콘서트홀, 무지크페라인, 오케스트라 시즌, 필하모닉, 신년음악회, 빈 필
 - 수정일: 2026-10-25 · 실제 증보일: 2026-10-25 · 검토: needs_review
-- 관련 문서: `world-orchestras-repertoire-2026`, `orchestra-repertoire-data-access`, `orchestration-instrument-history`
+- 관련 문서: `world-orchestras-repertoire-2026`, `orchestra-repertoire-data-access`, `orchestration-instrument-history`, `gwangju-symphony-roster`
 
 ## 절 목차
 

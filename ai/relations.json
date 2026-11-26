@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 873,
+  "edge_count": 877,
   "edges": [
     {
       "from": "living-notes",
@@ -2004,6 +2004,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "korean-orchestras-repertoire-2026",
+      "to": "gwangju-symphony-roster",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "orchestration-instrument-history",
       "to": "woodwind-reeds-material-history",
       "type": "related_to",
@@ -2072,6 +2078,12 @@
     {
       "from": "orchestra-halls-seasons",
       "to": "orchestration-instrument-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "orchestra-halls-seasons",
+      "to": "gwangju-symphony-roster",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -4970,6 +4982,18 @@
     {
       "from": "knowledge-press-machine-power",
       "to": "agent-commons-self-evolution-memory",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gwangju-symphony-roster",
+      "to": "korean-orchestras-repertoire-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gwangju-symphony-roster",
+      "to": "orchestra-halls-seasons",
       "type": "related_to",
       "basis": "manifest.related"
     },
