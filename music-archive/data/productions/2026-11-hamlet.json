@@ -31,7 +31,42 @@
       "name": "원광연",
       "entity_type": "person",
       "person_id": null,
-      "section": "창·제작진"
+      "section": "창·제작진",
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 제작진",
+          "page": 12
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "낭자군"
+          },
+          {
+            "genre": "연극",
+            "title": "양로원탈출기"
+          },
+          {
+            "genre": "연극",
+            "title": "오리장대 위로날다"
+          },
+          {
+            "genre": "연극",
+            "title": "경종비사"
+          },
+          {
+            "genre": "연극",
+            "title": "위선자 타르튀프"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [
+          "낭자군·오리장대 위로날다는 재검수 필요"
+        ],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "2026-11-hamlet-credit-003",
@@ -42,7 +77,40 @@
       "name": "윤희철",
       "entity_type": "person",
       "person_id": null,
-      "section": "창·제작진"
+      "section": "창·제작진",
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 제작진",
+          "page": 12
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "검사와 여선생"
+          },
+          {
+            "genre": "연극",
+            "title": "베니스의 상인"
+          },
+          {
+            "genre": "연극",
+            "title": "대머리 여가수"
+          },
+          {
+            "genre": "연극",
+            "title": "관객 모독"
+          },
+          {
+            "genre": "연극",
+            "title": "느릅나무 그늘의 욕망"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "2026-11-hamlet-credit-004",
@@ -53,7 +121,40 @@
       "name": "김교은",
       "entity_type": "person",
       "person_id": null,
-      "section": "창·제작진"
+      "section": "창·제작진",
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 제작진",
+          "page": 12
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "홍도"
+          },
+          {
+            "genre": "연극",
+            "title": "한국인의 초상"
+          },
+          {
+            "genre": "연극",
+            "title": "세자매"
+          },
+          {
+            "genre": "연극",
+            "title": "달팽이의별"
+          },
+          {
+            "genre": "연극",
+            "title": "고독 청소부"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "2026-11-hamlet-credit-005",
@@ -64,7 +165,42 @@
       "name": "황종량",
       "entity_type": "person",
       "person_id": null,
-      "section": "창·제작진"
+      "section": "창·제작진",
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 제작진",
+          "page": 12
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "실크로드"
+          },
+          {
+            "genre": "연극",
+            "title": "오방선생"
+          },
+          {
+            "genre": "연극",
+            "title": "정율성"
+          },
+          {
+            "genre": "연극",
+            "title": "청명심수"
+          },
+          {
+            "genre": "연극",
+            "title": "소녀들"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [
+          "정율성·청명심수 표기는 소녀들 기존 전사와 차이 있음. 원문별 기록 유지."
+        ],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "2026-11-hamlet-credit-006",
@@ -75,7 +211,42 @@
       "name": "박미서",
       "entity_type": "person",
       "person_id": null,
-      "section": "창·제작진"
+      "section": "창·제작진",
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 제작진",
+          "page": 12
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "보이체크"
+          },
+          {
+            "genre": "연극",
+            "title": "연극적 환상"
+          },
+          {
+            "genre": "연극",
+            "title": "깐느로 가는 길"
+          },
+          {
+            "genre": "연극",
+            "title": "굿모닝 홍콩"
+          },
+          {
+            "genre": "연극",
+            "title": "카운터포인트"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [
+          "소녀들 박현주 약력과 연극 제목 5개 일치하나 이름이 달라 동일인 연결 금지. 추가 확인 대상."
+        ],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "2026-11-hamlet-credit-007",
@@ -86,7 +257,40 @@
       "name": "김지현",
       "entity_type": "person",
       "person_id": null,
-      "section": "창·제작진"
+      "section": "창·제작진",
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 제작진",
+          "page": 12
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "한 여름밤의 꿈"
+          },
+          {
+            "genre": "연극",
+            "title": "벚꽃동산"
+          },
+          {
+            "genre": "연극",
+            "title": "안녕, 프랑켄슈타인"
+          },
+          {
+            "genre": "연극",
+            "title": "수상한 제삿날"
+          },
+          {
+            "genre": "연극",
+            "title": "로미오와 줄리엣 The Clown"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "2026-11-hamlet-credit-008",
@@ -97,7 +301,40 @@
       "name": "이은경",
       "entity_type": "person",
       "person_id": null,
-      "section": "창·제작진"
+      "section": "창·제작진",
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 제작진",
+          "page": 13
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "달빛결혼식"
+          },
+          {
+            "genre": "연극",
+            "title": "세자매"
+          },
+          {
+            "genre": "연극",
+            "title": "나의 살던 고향"
+          },
+          {
+            "genre": "연극",
+            "title": "연극적 환상"
+          },
+          {
+            "genre": "연극",
+            "title": "보이체크"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "2026-11-hamlet-credit-009",
@@ -108,7 +345,40 @@
       "name": "임주신",
       "entity_type": "person",
       "person_id": null,
-      "section": "창·제작진"
+      "section": "창·제작진",
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 제작진",
+          "page": 13
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "앙리"
+          },
+          {
+            "genre": "연극",
+            "title": "벚꽃동산"
+          },
+          {
+            "genre": "연극",
+            "title": "세자매"
+          },
+          {
+            "genre": "연극",
+            "title": "오스카와 장미할머니"
+          },
+          {
+            "genre": "연극",
+            "title": "위선자 타르튀프"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "2026-11-hamlet-credit-010",
@@ -119,7 +389,40 @@
       "name": "신민승",
       "entity_type": "person",
       "person_id": null,
-      "section": "창·제작진"
+      "section": "창·제작진",
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 제작진",
+          "page": 13
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "거의, 인간"
+          },
+          {
+            "genre": "연극",
+            "title": "천 개의 파랑"
+          },
+          {
+            "genre": "연극",
+            "title": "언니의 언니의 언니"
+          },
+          {
+            "genre": "연극",
+            "title": "어부의 핵"
+          },
+          {
+            "genre": "연극",
+            "title": "가족극:농사왕"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "2026-11-hamlet-credit-011",
@@ -130,7 +433,25 @@
       "name": "박경두",
       "entity_type": "person",
       "person_id": null,
-      "section": "창·제작진"
+      "section": "창·제작진",
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 제작진",
+          "page": 13
+        },
+        "transcription_review": "pending",
+        "works": [],
+        "awards": [],
+        "affiliations": [
+          "광주국대펜싱 감독(책자 표기)"
+        ],
+        "notes": [],
+        "career": [
+          "2012 런던올림픽·2016 리우 올림픽 국가대표",
+          "세계선수권 및 아시아선수권 등 메달 18개"
+        ],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "2026-11-hamlet-credit-012",
@@ -141,7 +462,40 @@
       "name": "송민종",
       "entity_type": "person",
       "person_id": null,
-      "section": "창·제작진"
+      "section": "창·제작진",
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 제작진",
+          "page": 13
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "보이체크"
+          },
+          {
+            "genre": "연극",
+            "title": "위선자 타르튀프"
+          },
+          {
+            "genre": "연극",
+            "title": "거대한 뿌리"
+          },
+          {
+            "genre": "연극",
+            "title": "섬옆의 섬"
+          },
+          {
+            "genre": "연극",
+            "title": "벚꽃동산"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "2026-11-hamlet-credit-013",
@@ -152,7 +506,34 @@
       "name": "오윤지",
       "entity_type": "person",
       "person_id": null,
-      "section": "창·제작진"
+      "section": "창·제작진",
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 제작진",
+          "page": 13
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "소녀들"
+          },
+          {
+            "genre": "연극",
+            "title": "오스카와 장미할머니"
+          },
+          {
+            "genre": "연극",
+            "title": "write down"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [
+          "약력 및 직책에 조연출·음향오퍼로 기재. 소녀들 기존 제작진 페이지의 음악 오퍼 표기와 구별."
+        ],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "2026-11-hamlet-credit-014",
@@ -403,33 +784,63 @@
     {
       "a": "2026-11-hamlet-credit-004",
       "b": "2026-05-girls-credit-004",
-      "status": "possible",
-      "reason": "이름 및 제작 업무 또는 같은 공연기관 직책 일치",
+      "status": "likely",
+      "reason": "이름·업무 및 복수 약력 작품명 일치",
       "evidence": [
         {
           "label": "햄릿 및 소녀들 프로그램북"
+        },
+        {
+          "type": "booklet_profile_comparison",
+          "label": "햄릿 12쪽 / 소녀들 9쪽",
+          "common_works": [
+            "홍도",
+            "한국인의 초상",
+            "세자매",
+            "달팽이의별",
+            "고독 청소부"
+          ]
         }
       ]
     },
     {
       "a": "2026-11-hamlet-credit-005",
       "b": "2026-05-girls-credit-005",
-      "status": "possible",
-      "reason": "이름 및 제작 업무 또는 같은 공연기관 직책 일치",
+      "status": "likely",
+      "reason": "이름·업무 및 복수 약력 작품명 일치",
       "evidence": [
         {
           "label": "햄릿 및 소녀들 프로그램북"
+        },
+        {
+          "type": "booklet_profile_comparison",
+          "label": "햄릿 12쪽 / 소녀들 9쪽",
+          "common_works": [
+            "실크로드",
+            "오방선생"
+          ]
         }
       ]
     },
     {
       "a": "2026-11-hamlet-credit-008",
       "b": "2026-05-girls-credit-007",
-      "status": "possible",
-      "reason": "이름 및 제작 업무 또는 같은 공연기관 직책 일치",
+      "status": "likely",
+      "reason": "이름·업무 및 복수 약력 작품명 일치",
       "evidence": [
         {
           "label": "햄릿 및 소녀들 프로그램북"
+        },
+        {
+          "type": "booklet_profile_comparison",
+          "label": "햄릿 13쪽 / 소녀들 9쪽",
+          "common_works": [
+            "달빛결혼식",
+            "세자매",
+            "나의 살던 고향",
+            "연극적 환상",
+            "보이체크"
+          ]
         }
       ]
     },
@@ -447,33 +858,61 @@
     {
       "a": "2026-11-hamlet-credit-009",
       "b": "2026-05-girls-credit-009",
-      "status": "possible",
-      "reason": "이름 및 제작 업무 또는 같은 공연기관 직책 일치",
+      "status": "likely",
+      "reason": "이름·업무 및 복수 약력 작품명 일치",
       "evidence": [
         {
           "label": "햄릿 및 소녀들 프로그램북"
+        },
+        {
+          "type": "booklet_profile_comparison",
+          "label": "햄릿 13쪽 / 소녀들 9쪽",
+          "common_works": [
+            "앙리",
+            "벚꽃동산",
+            "세자매",
+            "오스카와 장미할머니",
+            "위선자 타르튀프"
+          ]
         }
       ]
     },
     {
       "a": "2026-11-hamlet-credit-012",
       "b": "2026-05-girls-credit-013",
-      "status": "possible",
-      "reason": "이름 및 제작 업무 또는 같은 공연기관 직책 일치",
+      "status": "likely",
+      "reason": "이름·업무 및 복수 약력 작품명 일치",
       "evidence": [
         {
           "label": "햄릿 및 소녀들 프로그램북"
+        },
+        {
+          "type": "booklet_profile_comparison",
+          "label": "햄릿 13쪽 / 소녀들 9쪽",
+          "common_works": [
+            "보이체크",
+            "위선자 타르튀프",
+            "거대한 뿌리",
+            "섬옆의 섬",
+            "벚꽃동산"
+          ]
         }
       ]
     },
     {
       "a": "2026-11-hamlet-credit-013",
       "b": "2026-05-girls-credit-014",
-      "status": "possible",
-      "reason": "이름 및 제작 업무 또는 같은 공연기관 직책 일치",
+      "status": "likely",
+      "reason": "이름·조연출 업무 및 햄릿 약력에 소녀들 명시",
       "evidence": [
         {
           "label": "햄릿 및 소녀들 프로그램북"
+        },
+        {
+          "type": "booklet_profile_comparison",
+          "label": "햄릿 13쪽 / 소녀들 9쪽",
+          "common_works": [],
+          "explicit_prior_work": "소녀들"
         }
       ]
     },
@@ -641,6 +1080,34 @@
           "label": "햄릿 및 소녀들 프로그램북"
         }
       ]
+    }
+  ],
+  "supplementary_sources": [
+    {
+      "label": "햄릿 프로그램북 · 제작진 약력",
+      "pages": [
+        12,
+        13
+      ],
+      "transcription_review": "pending"
+    }
+  ],
+  "profile_review_candidates": [
+    {
+      "name_a": "박미서",
+      "name_b": "박현주",
+      "a": "2026-11-hamlet-credit-006",
+      "b": "2026-05-girls-credit-006",
+      "status": "unresolved",
+      "reason": "이름 불일치, 의상디자인 업무 및 연극 약력 5개 제목 일치. 동일인 판정 보류."
+    },
+    {
+      "name_a": "강현구",
+      "name_b": "강현구",
+      "a": "gwangju-city-theatre-hamlet-012",
+      "related_production_id": "2026-11-noeul-friends",
+      "status": "unresolved",
+      "reason": "배우와 영상제작 크레딧 이름 일치, 분야 차이로 자동 연결하지 않음."
     }
   ]
 }

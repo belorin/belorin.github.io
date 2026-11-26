@@ -24,6 +24,86 @@
           "label": "햄릿 및 노을, 길 위에서 프로그램북 · CAST"
         }
       ]
+    },
+    {
+      "a": "gwangju-city-theatre-hamlet-004",
+      "b": "gwangju-city-theatre-girls-015",
+      "status": "likely",
+      "reason": "이름·연극 분야·동일 극단 및 복수 약력 작품명 일치",
+      "evidence": [
+        {
+          "type": "booklet_profile_comparison",
+          "label": "햄릿 8쪽 / 소녀들 7쪽",
+          "common_works": [
+            "올드맨",
+            "나는 고려인이다",
+            "늙은 부부 이야기",
+            "벚꽃동산",
+            "한 여름밤의 꿈"
+          ],
+          "note": "인쇄된 텍스트 약력 비교, 사진 비교 아님. 개별 실제 출연 및 최종 동일인 확정 아님."
+        }
+      ]
+    },
+    {
+      "a": "gwangju-city-theatre-hamlet-005",
+      "b": "gwangju-city-theatre-girls-007",
+      "status": "likely",
+      "reason": "이름·연극 분야·동일 극단 및 복수 약력 작품명 일치",
+      "evidence": [
+        {
+          "type": "booklet_profile_comparison",
+          "label": "햄릿 9쪽 / 소녀들 8쪽",
+          "common_works": [
+            "오셀로",
+            "전우치전",
+            "당신이 집을 비운 사이",
+            "나의 살던 고향",
+            "위선자 타르튀프"
+          ],
+          "note": "인쇄된 텍스트 약력 비교, 사진 비교 아님. 개별 실제 출연 및 최종 동일인 확정 아님."
+        }
+      ]
+    },
+    {
+      "a": "gwangju-city-theatre-hamlet-006",
+      "b": "gwangju-city-theatre-girls-010",
+      "status": "likely",
+      "reason": "이름·연극 분야·동일 극단 및 복수 약력 작품명 일치",
+      "evidence": [
+        {
+          "type": "booklet_profile_comparison",
+          "label": "햄릿 9쪽 / 소녀들 6쪽",
+          "common_works": [
+            "셰익스피어 in 광주",
+            "뿔",
+            "모든 군인은 불쌍하다",
+            "릴미",
+            "위선자 타르튀프"
+          ],
+          "note": "인쇄된 텍스트 약력 비교, 사진 비교 아님. 개별 실제 출연 및 최종 동일인 확정 아님."
+        }
+      ]
+    },
+    {
+      "a": "gwangju-city-theatre-hamlet-008",
+      "b": "gwangju-city-theatre-girls-005",
+      "status": "likely",
+      "reason": "이름·연극 분야·동일 극단 및 복수 약력 작품명 일치",
+      "evidence": [
+        {
+          "type": "booklet_profile_comparison",
+          "label": "햄릿 9쪽 / 소녀들 8쪽",
+          "common_works": [
+            "올드맨",
+            "그들만의 전쟁",
+            "화평시장cctv",
+            "맥베스 411",
+            "하카리"
+          ],
+          "note": "인쇄된 텍스트 약력 비교, 사진 비교 아님. 개별 실제 출연 및 최종 동일인 확정 아님."
+        }
+      ]
     }
   ]
 }

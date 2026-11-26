@@ -16,169 +16,799 @@
     "page": null,
     "type": "booklet_production_cast",
     "production_id": "2026-11-hamlet",
-    "note": "회차별 구분 없는 공통 출연 명부. 공식 일정 URL은 공연 색인에 저장."
+    "note": "공통 출연 명부 및 8~11쪽 배역·약력. 회차별 실제 출연과 소속 구분 미확인.",
+    "supplementary_pages": [
+      8,
+      9,
+      10,
+      11
+    ]
   },
   "transcription_review": "pending",
   "records": [
     {
       "id": "gwangju-city-theatre-hamlet-001",
       "name": "이승학",
-      "part": "배역 미확인",
+      "part": "햄릿",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "햄릿 프로그램북 · 출연진",
+        "page": 8
+      },
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 출연진",
+          "page": 8
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "순애의 순정은 없다"
+          },
+          {
+            "genre": "연극",
+            "title": "기울어진 시선"
+          },
+          {
+            "genre": "연극",
+            "title": "산 동쪽의 다리"
+          },
+          {
+            "genre": "연극",
+            "title": "흑색소음"
+          },
+          {
+            "genre": "연극",
+            "title": "시민군 윤상원"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-hamlet-002",
       "name": "최진영",
-      "part": "배역 미확인",
+      "part": "클로디어스",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "햄릿 프로그램북 · 출연진",
+        "page": 8
+      },
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 출연진",
+          "page": 8
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "낭자군"
+          },
+          {
+            "genre": "연극",
+            "title": "장자의 꿈"
+          },
+          {
+            "genre": "연극",
+            "title": "리어왕"
+          },
+          {
+            "genre": "연극",
+            "title": "세자매"
+          },
+          {
+            "genre": "연극",
+            "title": "나의 살던 고향"
+          },
+          {
+            "genre": "연극",
+            "title": "연극적 환상"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [
+          "첫 작품명 낭자군은 작은 글씨 판독, 재검수 필요"
+        ],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-hamlet-003",
       "name": "윤미란",
-      "part": "배역 미확인",
+      "part": "거트루드",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "햄릿 프로그램북 · 출연진",
+        "page": 8
+      },
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 출연진",
+          "page": 8
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "늦은행복"
+          },
+          {
+            "genre": "연극",
+            "title": "막차타고 노을보다"
+          },
+          {
+            "genre": "연극",
+            "title": "나의 살던 고향"
+          },
+          {
+            "genre": "연극",
+            "title": "꿈꾸는 해바라기"
+          },
+          {
+            "genre": "연극",
+            "title": "신시야화"
+          },
+          {
+            "genre": "연극",
+            "title": "오스카와 장미할머니"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-hamlet-004",
       "name": "한중곤",
-      "part": "배역 미확인",
+      "part": "폴로니어스",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "햄릿 프로그램북 · 출연진",
+        "page": 8
+      },
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 출연진",
+          "page": 8
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "올드맨"
+          },
+          {
+            "genre": "연극",
+            "title": "나는 고려인이다"
+          },
+          {
+            "genre": "연극",
+            "title": "늙은 부부 이야기"
+          },
+          {
+            "genre": "연극",
+            "title": "벚꽃동산"
+          },
+          {
+            "genre": "연극",
+            "title": "한 여름밤의 꿈"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-hamlet-005",
       "name": "이명덕",
-      "part": "배역 미확인",
+      "part": "레이어티즈",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "햄릿 프로그램북 · 출연진",
+        "page": 9
+      },
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 출연진",
+          "page": 9
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "오셀로"
+          },
+          {
+            "genre": "연극",
+            "title": "전우치전"
+          },
+          {
+            "genre": "연극",
+            "title": "당신이 집을 비운 사이"
+          },
+          {
+            "genre": "연극",
+            "title": "나의 살던 고향"
+          },
+          {
+            "genre": "연극",
+            "title": "위선자 타르튀프"
+          },
+          {
+            "genre": "연극",
+            "title": "보이체크"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-hamlet-006",
       "name": "이지은",
-      "part": "배역 미확인",
+      "part": "오필리아",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "햄릿 프로그램북 · 출연진",
+        "page": 9
+      },
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 출연진",
+          "page": 9
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "셰익스피어 in 광주"
+          },
+          {
+            "genre": "연극",
+            "title": "뿔"
+          },
+          {
+            "genre": "연극",
+            "title": "오셀로"
+          },
+          {
+            "genre": "연극",
+            "title": "모든 군인은 불쌍하다"
+          },
+          {
+            "genre": "연극",
+            "title": "릴미"
+          },
+          {
+            "genre": "연극",
+            "title": "위선자 타르튀프"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [
+          "짧은 제목 뿔·릴미는 재검수 필요"
+        ],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-hamlet-007",
       "name": "이영환",
-      "part": "배역 미확인",
+      "part": "호레이쇼",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "햄릿 프로그램북 · 출연진",
+        "page": 9
+      },
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 출연진",
+          "page": 9
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "리어왕"
+          },
+          {
+            "genre": "연극",
+            "title": "채광창"
+          },
+          {
+            "genre": "연극",
+            "title": "거대한 뿌리"
+          },
+          {
+            "genre": "연극",
+            "title": "벚꽃동산"
+          },
+          {
+            "genre": "연극",
+            "title": "한 여름밤의 꿈"
+          },
+          {
+            "genre": "연극",
+            "title": "모든 군인은 불쌍하다"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-hamlet-008",
       "name": "박영국",
-      "part": "배역 미확인",
+      "part": "선왕 유령",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "햄릿 프로그램북 · 출연진",
+        "page": 9
+      },
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 출연진",
+          "page": 9
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "소녀들"
+          },
+          {
+            "genre": "연극",
+            "title": "올드맨"
+          },
+          {
+            "genre": "연극",
+            "title": "그들만의 전쟁"
+          },
+          {
+            "genre": "연극",
+            "title": "화평시장cctv"
+          },
+          {
+            "genre": "연극",
+            "title": "맥베스 411"
+          },
+          {
+            "genre": "연극",
+            "title": "하카리"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-hamlet-009",
       "name": "나종근",
-      "part": "배역 미확인",
+      "part": "로젠크란츠, 버나도",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "햄릿 프로그램북 · 출연진",
+        "page": 10
+      },
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 출연진",
+          "page": 10
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "명예로울지도 몰라 퇴직"
+          },
+          {
+            "genre": "연극",
+            "title": "거대한 뿌리"
+          },
+          {
+            "genre": "연극",
+            "title": "안녕 프랑켄슈타인"
+          },
+          {
+            "genre": "연극",
+            "title": "돌아올 수 없는 강을 건너다"
+          },
+          {
+            "genre": "연극",
+            "title": "홍도1589"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [
+          "첫 작품명 띄어쓰기 재검수 필요"
+        ],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-hamlet-010",
       "name": "최이노",
-      "part": "배역 미확인",
+      "part": "볼티먼드",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "햄릿 프로그램북 · 출연진",
+        "page": 10
+      },
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 출연진",
+          "page": 10
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "아일랜드"
+          },
+          {
+            "genre": "연극",
+            "title": "위선자 타르튀프"
+          },
+          {
+            "genre": "연극",
+            "title": "보이체크"
+          },
+          {
+            "genre": "연극",
+            "title": "깁스가족"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-hamlet-011",
       "name": "조홍일",
-      "part": "배역 미확인",
+      "part": "루치아너스, 전령, 사제",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "햄릿 프로그램북 · 출연진",
+        "page": 10
+      },
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 출연진",
+          "page": 10
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "세자매"
+          },
+          {
+            "genre": "연극",
+            "title": "갈매기"
+          },
+          {
+            "genre": "연극",
+            "title": "죄와벌"
+          },
+          {
+            "genre": "연극",
+            "title": "위선자 타르튀프"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-hamlet-012",
       "name": "강현구",
-      "part": "배역 미확인",
+      "part": "마셀러스, 배우, 선원",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "햄릿 프로그램북 · 출연진",
+        "page": 10
+      },
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 출연진",
+          "page": 10
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "거대한 뿌리"
+          },
+          {
+            "genre": "연극",
+            "title": "12만 KM"
+          },
+          {
+            "genre": "연극",
+            "title": "모두가 내 아들"
+          },
+          {
+            "genre": "연극",
+            "title": "가정식 백반 맛있게 먹는 법"
+          },
+          {
+            "genre": "연극",
+            "title": "용을 잡는 사람들"
+          },
+          {
+            "genre": "연극",
+            "title": "안티고네"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-hamlet-013",
       "name": "채윤정",
-      "part": "배역 미확인",
+      "part": "왕비역 배우",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "햄릿 프로그램북 · 출연진",
+        "page": 11
+      },
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 출연진",
+          "page": 11
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "거대한 뿌리"
+          },
+          {
+            "genre": "연극",
+            "title": "모든 군인은 불쌍하다"
+          },
+          {
+            "genre": "연극",
+            "title": "노부인의 방문"
+          },
+          {
+            "genre": "연극",
+            "title": "파수꾼"
+          },
+          {
+            "genre": "연극",
+            "title": "모두가 나의 아들"
+          },
+          {
+            "genre": "연극",
+            "title": "리어왕"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-hamlet-014",
       "name": "주현지",
-      "part": "배역 미확인",
+      "part": "낭독 배우",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "햄릿 프로그램북 · 출연진",
+        "page": 11
+      },
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 출연진",
+          "page": 11
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "단피몽두전"
+          },
+          {
+            "genre": "연극",
+            "title": "돼지와 오토바이"
+          },
+          {
+            "genre": "연극",
+            "title": "안티고네"
+          },
+          {
+            "genre": "연극",
+            "title": "청춘부르스"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [
+          "단피몽두전은 재판독 필요"
+        ],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-hamlet-015",
       "name": "김수옥",
-      "part": "배역 미확인",
+      "part": "레이나",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "햄릿 프로그램북 · 출연진",
+        "page": 11
+      },
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 출연진",
+          "page": 11
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "산불"
+          },
+          {
+            "genre": "연극",
+            "title": "보이체크"
+          },
+          {
+            "genre": "연극",
+            "title": "죄와벌"
+          },
+          {
+            "genre": "연극",
+            "title": "정의의 사람들"
+          },
+          {
+            "genre": "연극",
+            "title": "갈매기"
+          },
+          {
+            "genre": "연극",
+            "title": "세자매"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-hamlet-016",
       "name": "강병욱",
-      "part": "배역 미확인",
+      "part": "신하",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "햄릿 프로그램북 · 출연진",
+        "page": 11
+      },
+      "profile_note": {
+        "source": {
+          "label": "햄릿 프로그램북 · 출연진",
+          "page": 11
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "시간 속 갈매기"
+          },
+          {
+            "genre": "연극",
+            "title": "모란이 피기까지 우리는"
+          },
+          {
+            "genre": "연극",
+            "title": "송정역"
+          },
+          {
+            "genre": "연극",
+            "title": "가을이 가도 겨울이 온다"
+          },
+          {
+            "genre": "연극",
+            "title": "타오르는 강 낙인"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "프로그램북에 인쇄된 전문 약력. 개별 공연의 날짜·단체 및 실제 출연 여부는 별도 확인 전 미확정."
+      }
     }
   ]
 }
