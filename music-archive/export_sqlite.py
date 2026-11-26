@@ -20,7 +20,7 @@ def main():
         CREATE TABLE person(id TEXT PRIMARY KEY, data_json TEXT NOT NULL);
         CREATE TABLE roster(id TEXT PRIMARY KEY, ensemble_id TEXT NOT NULL REFERENCES ensemble(id), concert_id TEXT REFERENCES concert(id), season TEXT, source_json TEXT NOT NULL, transcription_review TEXT NOT NULL, CHECK((concert_id IS NULL) != (season IS NULL)));
         CREATE TABLE roster_session(roster_id TEXT REFERENCES roster(id), concert_id TEXT REFERENCES concert(id), PRIMARY KEY(roster_id,concert_id));
-        CREATE TABLE appearance(id TEXT PRIMARY KEY, roster_id TEXT NOT NULL REFERENCES roster(id), position INTEGER NOT NULL, name TEXT NOT NULL, part TEXT NOT NULL, role TEXT, printed_mark TEXT, category TEXT NOT NULL, person_id TEXT REFERENCES person(id), attendance TEXT NOT NULL, casting_scope TEXT, UNIQUE(roster_id,position));
+        CREATE TABLE appearance(id TEXT PRIMARY KEY, roster_id TEXT NOT NULL REFERENCES roster(id), position INTEGER NOT NULL, name TEXT NOT NULL, part TEXT NOT NULL, role TEXT, printed_mark TEXT, category TEXT NOT NULL, person_id TEXT REFERENCES person(id), attendance TEXT NOT NULL, casting_scope TEXT, profile_note_json TEXT, UNIQUE(roster_id,position));
         CREATE TABLE production_credit_source(id TEXT PRIMARY KEY,title TEXT,source_json TEXT,transcription_review TEXT);
         CREATE TABLE production_credit(id TEXT PRIMARY KEY,production_id TEXT REFERENCES production_credit_source(id),scope TEXT,organization TEXT,department TEXT,role TEXT,name TEXT,entity_type TEXT,person_id TEXT REFERENCES person(id),ensemble_id TEXT REFERENCES ensemble(id),extra_json TEXT);
         CREATE INDEX production_credit_name ON production_credit(name);
@@ -37,7 +37,7 @@ def main():
             r = load("rosters/"+rid+".json")
             db.execute("INSERT INTO roster VALUES (?,?,?,?,?,?)",(rid,r["ensemble_id"],r["concert_id"],r["season"],json.dumps(r["source"],ensure_ascii=False),r["transcription_review"]))
             db.executemany("INSERT INTO roster_session VALUES (?,?)",[(rid,e) for e in r.get("applies_to_concert_ids",[r["concert_id"]] if r["concert_id"] else [])])
-            db.executemany("INSERT INTO appearance VALUES (?,?,?,?,?,?,?,?,?,?,?)",[(x["id"],rid,i,x["name"],x["part"],x["role"],x["printed_mark"],x["category"],x["person_id"],x["attendance"],x.get("casting_scope")) for i,x in enumerate(r["records"],1)])
+            db.executemany("INSERT INTO appearance VALUES (?,?,?,?,?,?,?,?,?,?,?,?)",[(x["id"],rid,i,x["name"],x["part"],x["role"],x["printed_mark"],x["category"],x["person_id"],x["attendance"],x.get("casting_scope"),json.dumps(x.get("profile_note"),ensure_ascii=False)) for i,x in enumerate(r["records"],1)])
         for pid in c.get("production_credit_ids",[]):
             p = load("productions/"+pid+".json")
             db.execute("INSERT INTO production_credit_source VALUES (?,?,?,?)",(pid,p["title"],json.dumps(p["source"],ensure_ascii=False),p["transcription_review"]))

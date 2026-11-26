@@ -17,159 +17,851 @@
     "type": "booklet_production_cast",
     "production_id": "2026-05-girls",
     "url": "https://gjart.gwangju.go.kr/ko/cmd.do?bnum=9768&boper=view&opencode=p05074",
-    "note": "출연 명단은 사진 전사. URL은 별도 공식 일정 자료이며 사진의 원본 URL은 아님. 회차 구분 및 배역 표기 없음."
+    "note": "출연 명단 및 6~8쪽 배역·약력 보완. 공식 URL은 일정 자료. 회차별 개별 캐스팅 및 단원/객원 구분 미확인.",
+    "supplementary_pages": [
+      6,
+      7,
+      8
+    ]
   },
   "transcription_review": "pending",
   "records": [
     {
       "id": "gwangju-city-theatre-girls-001",
       "name": "고영욱",
-      "part": "배역 미확인",
+      "part": "순사2 외",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "소녀들 프로그램북 · 출연진",
+        "page": 8
+      },
+      "profile_note": {
+        "source": {
+          "label": "소녀들 프로그램북 · 출연진",
+          "page": 8
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "오! 금남식당"
+          },
+          {
+            "genre": "연극",
+            "title": "하티와 광대들"
+          },
+          {
+            "genre": "연극",
+            "title": "꽃이여 바람이여"
+          },
+          {
+            "genre": "연극",
+            "title": "금희의 오월"
+          },
+          {
+            "genre": "연극",
+            "title": "버스킹(king)버스"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [
+          "마지막 작품명은 오른쪽 사진 경계에서 잘림: 광천동 청년 …; 미완전 제목은 작품 배열에서 제외",
+          "하티와 광대들 재판독 필요"
+        ],
+        "scope": "약력에 기재된 전문 활동 이력. 개별 공연의 날짜·장소·소속·실제 참여 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-girls-002",
       "name": "김세희",
-      "part": "배역 미확인",
+      "part": "박희란 외",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "소녀들 프로그램북 · 출연진",
+        "page": 6
+      },
+      "profile_note": {
+        "source": {
+          "label": "소녀들 프로그램북 · 출연진",
+          "page": 6
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "표 신하가 황제에게 올리는 글"
+          },
+          {
+            "genre": "뮤지컬",
+            "title": "어느 11월"
+          },
+          {
+            "genre": "뮤지컬",
+            "title": "아직 서른"
+          },
+          {
+            "genre": "뮤지컬",
+            "title": "망월:달을 바라다"
+          },
+          {
+            "genre": "음악극",
+            "title": "나두야 간다"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "약력에 기재된 전문 활동 이력. 개별 공연의 날짜·장소·소속·실제 참여 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-girls-003",
       "name": "김형욱",
-      "part": "배역 미확인",
+      "part": "최병선 외",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "소녀들 프로그램북 · 출연진",
+        "page": 7
+      },
+      "profile_note": {
+        "source": {
+          "label": "소녀들 프로그램북 · 출연진",
+          "page": 7
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "흑색소음"
+          },
+          {
+            "genre": "연극",
+            "title": "나는 고려인이다"
+          },
+          {
+            "genre": "연극",
+            "title": "홍범도"
+          },
+          {
+            "genre": "연극",
+            "title": "불가 불가"
+          },
+          {
+            "genre": "연극",
+            "title": "용궁에 용왕이 없다"
+          },
+          {
+            "genre": "뮤지컬",
+            "title": "크리스마스 캐럴"
+          },
+          {
+            "genre": "뮤지컬",
+            "title": "모단걸 다이어리1930"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "약력에 기재된 전문 활동 이력. 개별 공연의 날짜·장소·소속·실제 참여 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-girls-004",
       "name": "노현지",
-      "part": "배역 미확인",
+      "part": "고순례 외",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "소녀들 프로그램북 · 출연진",
+        "page": 7
+      },
+      "profile_note": {
+        "source": {
+          "label": "소녀들 프로그램북 · 출연진",
+          "page": 7
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "은박지에 새긴 사랑"
+          },
+          {
+            "genre": "뮤지컬",
+            "title": "심야모드:보이는라디오"
+          },
+          {
+            "genre": "뮤지컬",
+            "title": "고군산군도 선유도령&장자아씨"
+          },
+          {
+            "genre": "무용극",
+            "title": "발광볼개"
+          },
+          {
+            "genre": "무용극",
+            "title": "춤추는 별주부전:수궁무"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [
+          "무용극 첫 작품명 재판독 필요"
+        ],
+        "scope": "약력에 기재된 전문 활동 이력. 개별 공연의 날짜·장소·소속·실제 참여 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-girls-005",
       "name": "박영국",
-      "part": "배역 미확인",
+      "part": "교장 외",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "소녀들 프로그램북 · 출연진",
+        "page": 8
+      },
+      "profile_note": {
+        "source": {
+          "label": "소녀들 프로그램북 · 출연진",
+          "page": 8
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "달라진 저승"
+          },
+          {
+            "genre": "연극",
+            "title": "하카리"
+          },
+          {
+            "genre": "연극",
+            "title": "맥베스 411"
+          },
+          {
+            "genre": "연극",
+            "title": "세자매"
+          },
+          {
+            "genre": "연극",
+            "title": "화평시장 CCTV"
+          },
+          {
+            "genre": "연극",
+            "title": "그들만의 전쟁"
+          },
+          {
+            "genre": "연극",
+            "title": "올드맨"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "약력에 기재된 전문 활동 이력. 개별 공연의 날짜·장소·소속·실제 참여 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-girls-006",
       "name": "오창선",
-      "part": "배역 미확인",
+      "part": "순사1 외",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "소녀들 프로그램북 · 출연진",
+        "page": 8
+      },
+      "profile_note": {
+        "source": {
+          "label": "소녀들 프로그램북 · 출연진",
+          "page": 8
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "흑색소음"
+          },
+          {
+            "genre": "연극",
+            "title": "나는 고려인이다"
+          },
+          {
+            "genre": "연극",
+            "title": "추억예찬"
+          },
+          {
+            "genre": "연극",
+            "title": "리보와 앤"
+          },
+          {
+            "genre": "연극",
+            "title": "순애의 순정이 없다"
+          },
+          {
+            "genre": "뮤지컬",
+            "title": "퓨어 아티스트"
+          },
+          {
+            "genre": "뮤지컬",
+            "title": "빛고을 가얏고"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "약력에 기재된 전문 활동 이력. 개별 공연의 날짜·장소·소속·실제 참여 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-girls-007",
       "name": "이명덕",
-      "part": "배역 미확인",
+      "part": "히로키 외",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "소녀들 프로그램북 · 출연진",
+        "page": 8
+      },
+      "profile_note": {
+        "source": {
+          "label": "소녀들 프로그램북 · 출연진",
+          "page": 8
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "위선자 타르튀프"
+          },
+          {
+            "genre": "연극",
+            "title": "오셀로"
+          },
+          {
+            "genre": "연극",
+            "title": "보이체크1942"
+          },
+          {
+            "genre": "연극",
+            "title": "당신이 집을 비운 사이"
+          },
+          {
+            "genre": "연극",
+            "title": "전우치전"
+          },
+          {
+            "genre": "연극",
+            "title": "나의 살던 고향"
+          },
+          {
+            "genre": "연극",
+            "title": "베니스의 상인"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "약력에 기재된 전문 활동 이력. 개별 공연의 날짜·장소·소속·실제 참여 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-girls-008",
       "name": "이유진",
-      "part": "배역 미확인",
+      "part": "최연선",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "소녀들 프로그램북 · 출연진",
+        "page": 6
+      },
+      "profile_note": {
+        "source": {
+          "label": "소녀들 프로그램북 · 출연진",
+          "page": 6
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "안녕, 프랑켄슈타인"
+          },
+          {
+            "genre": "연극",
+            "title": "섬 옆의 섬"
+          },
+          {
+            "genre": "연극",
+            "title": "꽃며느리"
+          },
+          {
+            "genre": "연극",
+            "title": "이다희 길들이기"
+          },
+          {
+            "genre": "연극",
+            "title": "용아"
+          },
+          {
+            "genre": "연극",
+            "title": "불꽃"
+          },
+          {
+            "genre": "뮤지컬",
+            "title": "시작하는 여자, 끝내주는 남자"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "약력에 기재된 전문 활동 이력. 개별 공연의 날짜·장소·소속·실제 참여 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-girls-009",
       "name": "이종경",
-      "part": "배역 미확인",
+      "part": "최창선 외",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "소녀들 프로그램북 · 출연진",
+        "page": 7
+      },
+      "profile_note": {
+        "source": {
+          "label": "소녀들 프로그램북 · 출연진",
+          "page": 7
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "정의의 사람들"
+          },
+          {
+            "genre": "연극",
+            "title": "우리말 글"
+          },
+          {
+            "genre": "연극",
+            "title": "미친 햄릿"
+          },
+          {
+            "genre": "연극",
+            "title": "18번의 방의 형"
+          },
+          {
+            "genre": "연극",
+            "title": "세자매"
+          },
+          {
+            "genre": "연극",
+            "title": "죄와 벌"
+          },
+          {
+            "genre": "연극",
+            "title": "댕기머리"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [
+          "18번의 방의 형: 원문 판독 재검수 필요"
+        ],
+        "scope": "약력에 기재된 전문 활동 이력. 개별 공연의 날짜·장소·소속·실제 참여 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-girls-010",
       "name": "이지은",
-      "part": "배역 미확인",
+      "part": "장매성",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "소녀들 프로그램북 · 출연진",
+        "page": 6
+      },
+      "profile_note": {
+        "source": {
+          "label": "소녀들 프로그램북 · 출연진",
+          "page": 6
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "셰익스피어 인 광주"
+          },
+          {
+            "genre": "연극",
+            "title": "뿔"
+          },
+          {
+            "genre": "연극",
+            "title": "모든 군인은 불쌍하다"
+          },
+          {
+            "genre": "연극",
+            "title": "나는 광주에 없었다"
+          },
+          {
+            "genre": "연극",
+            "title": "릴미"
+          },
+          {
+            "genre": "연극",
+            "title": "나무는 서서 죽는다"
+          },
+          {
+            "genre": "연극",
+            "title": "위선자 타르튀프"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [
+          "짧은 작품명 '뿔', '릴미' 재판독 필요"
+        ],
+        "scope": "약력에 기재된 전문 활동 이력. 개별 공연의 날짜·장소·소속·실제 참여 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-girls-011",
       "name": "정은지",
-      "part": "배역 미확인",
+      "part": "김옥남",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "소녀들 프로그램북 · 출연진",
+        "page": 6
+      },
+      "profile_note": {
+        "source": {
+          "label": "소녀들 프로그램북 · 출연진",
+          "page": 6
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "리보와 앤"
+          },
+          {
+            "genre": "연극",
+            "title": "1930모단걸다이어리"
+          },
+          {
+            "genre": "연극",
+            "title": "금복음악다방"
+          },
+          {
+            "genre": "연극",
+            "title": "인터뷰:내일의 기억"
+          },
+          {
+            "genre": "뮤지컬",
+            "title": "송정역"
+          },
+          {
+            "genre": "뮤지컬",
+            "title": "슈퍼스타"
+          },
+          {
+            "genre": "뮤지컬",
+            "title": "청춘부르스"
+          },
+          {
+            "genre": "뮤지컬",
+            "title": "둘이 아닌 하나"
+          },
+          {
+            "genre": "뮤지컬",
+            "title": "달빛팽팽"
+          },
+          {
+            "genre": "뮤지컬",
+            "title": "welcome!7차전용 술집"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [
+          "일부 작품명 띄어쓰기·영문 표기 재검수 필요"
+        ],
+        "scope": "약력에 기재된 전문 활동 이력. 개별 공연의 날짜·장소·소속·실제 참여 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-girls-012",
       "name": "정일행",
-      "part": "배역 미확인",
+      "part": "모리야 외",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "소녀들 프로그램북 · 출연진",
+        "page": 8
+      },
+      "profile_note": {
+        "source": {
+          "label": "소녀들 프로그램북 · 출연진",
+          "page": 8
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "멍키열전"
+          },
+          {
+            "genre": "연극",
+            "title": "보이체크1942"
+          },
+          {
+            "genre": "연극",
+            "title": "나의 살던 고향"
+          },
+          {
+            "genre": "연극",
+            "title": "신시야화"
+          },
+          {
+            "genre": "연극",
+            "title": "위선자 타르튀프"
+          },
+          {
+            "genre": "연극",
+            "title": "굿닥터"
+          },
+          {
+            "genre": "연극",
+            "title": "가스펠"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [
+          "첫 작품명 및 신시야화 재판독 필요"
+        ],
+        "scope": "약력에 기재된 전문 활동 이력. 개별 공연의 날짜·장소·소속·실제 참여 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-girls-013",
       "name": "조아라",
-      "part": "배역 미확인",
+      "part": "남협협",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "소녀들 프로그램북 · 출연진",
+        "page": 7
+      },
+      "profile_note": {
+        "source": {
+          "label": "소녀들 프로그램북 · 출연진",
+          "page": 7
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "더 파더"
+          },
+          {
+            "genre": "연극",
+            "title": "사형수 김대중"
+          },
+          {
+            "genre": "연극",
+            "title": "리보와 앤"
+          },
+          {
+            "genre": "연극",
+            "title": "우리집 세입자"
+          },
+          {
+            "genre": "연극",
+            "title": "화류춘몽"
+          },
+          {
+            "genre": "연극",
+            "title": "옥녀춘산곡"
+          },
+          {
+            "genre": "뮤지컬",
+            "title": "고군산군도 선유도령과 장자아씨"
+          },
+          {
+            "genre": "뮤지컬",
+            "title": "THE MARCH"
+          },
+          {
+            "genre": "뮤지컬",
+            "title": "보이지 않는 얼굴"
+          },
+          {
+            "genre": "뮤지컬",
+            "title": "페이스 오프"
+          },
+          {
+            "genre": "뮤지컬",
+            "title": "홍길동"
+          }
+        ],
+        "awards": [
+          "경기 연극 올림피아드 우수연기상"
+        ],
+        "affiliations": [],
+        "notes": [],
+        "scope": "약력에 기재된 전문 활동 이력. 개별 공연의 날짜·장소·소속·실제 참여 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-girls-014",
       "name": "차상경",
-      "part": "배역 미확인",
+      "part": "윤금영",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "소녀들 프로그램북 · 출연진",
+        "page": 6
+      },
+      "profile_note": {
+        "source": {
+          "label": "소녀들 프로그램북 · 출연진",
+          "page": 6
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "인형공장"
+          },
+          {
+            "genre": "연극",
+            "title": "고백"
+          },
+          {
+            "genre": "연극",
+            "title": "소녀들"
+          }
+        ],
+        "awards": [],
+        "affiliations": [],
+        "notes": [],
+        "scope": "약력에 기재된 전문 활동 이력. 개별 공연의 날짜·장소·소속·실제 참여 여부는 별도 확인 전 미확정."
+      }
     },
     {
       "id": "gwangju-city-theatre-girls-015",
       "name": "한중곤",
-      "part": "배역 미확인",
+      "part": "최두석 외",
       "role": null,
       "printed_mark": null,
       "category": "actor",
       "person_id": null,
-      "attendance": "unverified"
+      "attendance": "unverified",
+      "role_source": {
+        "label": "소녀들 프로그램북 · 출연진",
+        "page": 7
+      },
+      "profile_note": {
+        "source": {
+          "label": "소녀들 프로그램북 · 출연진",
+          "page": 7
+        },
+        "transcription_review": "pending",
+        "works": [
+          {
+            "genre": "연극",
+            "title": "올드맨"
+          },
+          {
+            "genre": "연극",
+            "title": "나는 고려인이다"
+          },
+          {
+            "genre": "연극",
+            "title": "늙은 부부 이야기"
+          },
+          {
+            "genre": "연극",
+            "title": "질투"
+          },
+          {
+            "genre": "연극",
+            "title": "화평시장 CCTV"
+          },
+          {
+            "genre": "연극",
+            "title": "벚꽃동산"
+          },
+          {
+            "genre": "연극",
+            "title": "피고지고 피고지고"
+          },
+          {
+            "genre": "연극",
+            "title": "한 여름밤의 꿈"
+          }
+        ],
+        "awards": [
+          "자랑스러운 연극인상(2022)",
+          "광주예총 예술문화상 공로상(2016)",
+          "광주 연극인상(2015)",
+          "전국연극제 경기도 최우수연기상(2011)"
+        ],
+        "affiliations": [],
+        "notes": [],
+        "scope": "약력에 기재된 전문 활동 이력. 개별 공연의 날짜·장소·소속·실제 참여 여부는 별도 확인 전 미확정."
+      }
     }
   ]
 }

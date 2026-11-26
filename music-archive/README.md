@@ -45,3 +45,7 @@ catalog.production_credit_ids에 제작 프로젝트 ID를 등록하고 data/pro
 원본 명부 ID와 person_id는 수정하지 않는다. identity.mjs는 이름·악기 계열의 일치에 따라 재현 가능한 직접 후보 고리를 생성한다. 바이올린 I/II/악장, 팀파니/타악기, 트롬본/베이스트롬본은 계열을 통합한다. 원본 파트는 유지한다. 동일 단체 내 이름·분야 일치는 likely(유력), 다른 단체는 possible(추정). 악기 미확인 및 이름만 일치는 조사 대상으로만 표시한다. 무용·연기는 같은 단체 안에서만 자동 연결하며 어린이객원은 같은 제작 범위로 제한한다. 운영·지휘 직책은 단체와 직책이 일치할 때만 후보로 삼는다. 이것은 확률 추정이 아니라 규칙 기반 등급이다.
 
 data/identity-links.json은 사람이 조사·판정한 개별 기록 ID 쌍의 지속적 근거 장부다. a,b,status,reason,evidence를 저장하며 possible/likely/confirmed/distinct를 지원한다. distinct는 자동 연결을 차단한다. confirmed에는 공개 전문 활동 자료 근거가 필요하며 추정 연결을 통해 전이적으로 확정하지 않는다. 원문을 변경하지 않고 장부를 고쳐 연결을 취소할 수 있다. 이름·분야만 맞는 외부 약력은 후보 근거이지 해당 공연의 실제 출연 증명은 아니다. 신규 명부는 자동 후보 계산에 포함된다. 웹의 단체 쌍별 후보 수는 이름·분야 조합을 중복 제거한 값이며 고유 인물 수, 실제 출연 횟수, 단체 소속 확정이 아니다. 제작진·업체 크레딧은 이 단계 자동 동일인 연결 대상에서 제외한다. 확인만/유력 이상/추정 이상을 선택하여 관계망과 인물 직접 연결 이력을 조회한다. 테스트: node music-archive/test-identity.mjs.
+
+## 약력·동일인 규명 메모
+
+프로그램북의 전문 약력은 출연 기록 또는 제작 크레딧에 profile_note로 추가한다. source.label/page, transcription_review, works(genre,title), awards, affiliations, notes를 보존한다. 배역은 part에 기록하고 role_source로 출처를 남긴다. 약력의 과거 작품은 별도의 공연 일시·단체 확인 전 공연/출연 기록으로 생성하지 않는다. 약력 일치 자체도 자동 동일인 확정 근거가 아니다. 판독이 불확실하거나 잘린 제목은 notes에 표시하고 완전한 작품명으로 보정하지 않는다. 상충하는 직책은 profile_note.printed_role 및 notes로 원문 병존. 웹 검색에서 펼침 메모를 제공하며 SQLite에는 JSON으로 보존한다.
