@@ -35,6 +35,19 @@
   ],
   "concerts": [
     {
+      "id": "2026-03-20-bohemian-spring",
+      "date": "2026-03-20",
+      "title": "보헤미아의 봄",
+      "ensemble_ids": [
+        "gso"
+      ],
+      "work_ids": [],
+      "venue": null,
+      "conductor": null,
+      "soloists": null,
+      "documentation_note": "프로그램북 3쪽. 원본 범례에서 ++는 수석객원, +는 객원. 후반 시즌 책자와 표기 의미가 다르다."
+    },
+    {
       "id": "2026-03-27-gso-chamber-i",
       "date": "2026-03-27",
       "title": "체임버 시리즈 I — From Vienna to Bohemia",
@@ -236,7 +249,8 @@
     "gso-chamber-2026-08-21",
     "gso-chamber-2026-10-13",
     "gso-chamber-2026-11-11",
-    "gso-2026-09-18"
+    "gso-2026-09-18",
+    "gso-2026-03-20"
   ],
   "persons": []
 }
