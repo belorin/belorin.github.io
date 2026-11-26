@@ -5,14 +5,15 @@ const get=async path=>{const r=await fetch(path);if(!r.ok)throw Error(path+" "+r
 async function main(){
  const cat=await get("data/catalog.json"), rosters=await Promise.all(cat.roster_ids.map(id=>get("data/rosters/"+id+".json")));
  const ens=new Map(cat.ensembles.map(x=>[x.id,x.name])), concerts=new Map(cat.concerts.map(x=>[x.id,x]));
- const label=r=>r.concert_id?concerts.get(r.concert_id).date+" · "+concerts.get(r.concert_id).title:r.season;
+ const eventLabel=c=>c.date+(c.time?" "+c.time:"")+" · "+c.title;
+ const label=r=>r.concert_id?eventLabel(concerts.get(r.concert_id)):r.season;
  const records=rosters.flatMap(r=>r.records.map(x=>({...x,roster:r,ensemble:ens.get(r.ensemble_id),scope:label(r)})));
- for(const [title,num] of [["공연",cat.concerts.length],["단체",cat.ensembles.length],["명부",rosters.length],["등장 기록",records.length]]){const d=el("div");d.className="metric";d.append(el("strong",num+"건"),el("span",title));$("metrics").append(d)}
+ for(const [title,num] of [["공연 회차",cat.concerts.length],["단체",cat.ensembles.length],["명부",rosters.length],["등장 기록",records.length]]){const d=el("div");d.className="metric";d.append(el("strong",num+"건"),el("span",title));$("metrics").append(d)}
  const option=(target,value,label)=>{const o=el("option",label);o.value=value;$(target).append(o)};
  for(const e of cat.ensembles)option("ensemble",e.id,e.name);
- for(const c of cat.concerts)option("scope",c.id,c.date+" · "+c.title);
+ for(const c of cat.concerts)option("scope",c.id,eventLabel(c));
  for(const r of rosters.filter(r=>!r.concert_id))option("scope",r.id,ens.get(r.ensemble_id)+" · "+r.season);
- const overview=el("section");overview.append(el("h2","공연별 참여 단체 및 명부 확보 상태"));for(const c of cat.concerts){const d=el("details");d.append(el("summary",c.date+" · "+c.title));for(const eid of c.ensemble_ids){const rr=rosters.filter(r=>r.concert_id===c.id&&r.ensemble_id===eid);d.append(el("p",(c.ensemble_labels?.[eid]||ens.get(eid))+" — "+(rr.length?"명부 "+rr.reduce((n,r)=>n+r.records.length,0)+"건":"개인 명부 미확보")))}if(c.documentation_note)d.append(el("p",c.documentation_note));overview.append(d)}$("status").before(overview);
+ const overview=el("section");overview.append(el("h2","공연별 참여 단체 및 명부 확보 상태"));for(const c of cat.concerts){const d=el("details");d.append(el("summary",eventLabel(c)));for(const eid of c.ensemble_ids){const rr=rosters.filter(r=>r.concert_id===c.id&&r.ensemble_id===eid);d.append(el("p",(c.ensemble_labels?.[eid]||ens.get(eid))+" — "+(rr.length?"명부 "+rr.reduce((n,r)=>n+r.records.length,0)+"건":"개인 명부 미확보")))}if(c.documentation_note)d.append(el("p",c.documentation_note));overview.append(d)}$("status").before(overview);
  const q=$("q");
  function render(){const text=q.value.trim().toLowerCase(), e=$("ensemble").value,s=$("scope").value,k=$("category").value;
  const out=records.filter(x=>(!e||x.roster.ensemble_id===e)&&(!s||(x.roster.concert_id||x.roster.id)===s)&&(!k||x.category===k)&&text.split(/\s+/).every(t=>[x.name,x.part,x.role,x.ensemble,x.scope].join(" ").toLowerCase().includes(t)));
@@ -20,7 +21,7 @@ async function main(){
  $("rows").replaceChildren();const frag=document.createDocumentFragment();
  for(const x of out){const tr=el("tr"), name=el("td"), b=el("button",x.name);b.type="button";b.addEventListener("click",()=>{q.value=x.name;$("ensemble").value="";$("scope").value="";$("category").value="";render()});name.append(b);tr.append(name);for(const v of [x.part,x.role||"미표기",x.ensemble,x.scope])tr.append(el("td",v));const td=el("td"),a=el("a",x.roster.transcription_review==="user_reviewed"?"검수 완료":x.roster.source.url?"웹 출처 · 미검수":"재검수 전");a.href=x.roster.source.url||(x.roster.source.wiki?"../#"+x.roster.source.wiki:"data/rosters/"+x.roster.id+".json");a.title=x.roster.source.label;td.append(a);tr.append(td);frag.append(tr)}$("rows").append(frag)}
  for(const id of ["q","ensemble","scope","category"])$(id).addEventListener(id==="q"?"input":"change",render);
- const groups=new Map();for(const x of records.filter(x=>x.roster.concert_id&&["instrumentalist","chorister"].includes(x.category))){const key=x.name+"\u0000"+x.part;if(!groups.has(key))groups.set(key,[]);groups.get(key).push(x)}
+ const groups=new Map();for(const x of records.filter(x=>x.roster.concert_id&&["instrumentalist","chorister","dancer","actor"].includes(x.category))){const key=x.name+"\u0000"+x.part;if(!groups.has(key))groups.set(key,[]);groups.get(key).push(x)}
  for(const xs of groups.values()){if(new Set(xs.map(x=>x.roster.ensemble_id)).size<2)continue;const d=el("details"),head=el("summary",xs[0].name+" · "+xs[0].part+" — "+new Set(xs.map(x=>x.roster.ensemble_id)).size+"개 단체 (동일인 미확인)");d.append(head);for(const x of xs)d.append(el("p",x.scope+" / "+x.ensemble+" / "+(x.role||"직책 미표기")));$("matches").append(d)}
  if(!$("matches").childNodes.length)$("matches").append(el("p","현재 후보 없음"));render()
 }

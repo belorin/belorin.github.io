@@ -31,6 +31,14 @@
       "id": "naju-choir",
       "name": "나주시립합창단",
       "type": "choir"
+    },
+    {
+      "id": "gwangju-ballet",
+      "name": "전남광주통합특별시립발레단",
+      "type": "ballet",
+      "aliases": [
+        "광주시립발레단"
+      ]
     }
   ],
   "concerts": [
@@ -169,6 +177,69 @@
       "soloists": null
     },
     {
+      "id": "2026-10-la-sylphide-1",
+      "date": "2026-10-23",
+      "time": "19:30",
+      "genre": "ballet",
+      "production_id": "2026-10-la-sylphide",
+      "session_number": 1,
+      "title": "라 실피드 — 1회차",
+      "ensemble_ids": [
+        "gwangju-ballet"
+      ],
+      "work_ids": [
+        "la-sylphide"
+      ],
+      "venue": "전남광주통합특별시예술의전당 대극장",
+      "conductor": null,
+      "soloists": null,
+      "series_number": "제143회",
+      "source_url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=399923",
+      "documentation_note": "프로그램북 배역표의 예정 캐스팅. 병합된 셀은 세 회차 공통으로 전사. 실제 출연 및 반주단체 명부 미확인."
+    },
+    {
+      "id": "2026-10-la-sylphide-2",
+      "date": "2026-10-24",
+      "time": "15:00",
+      "genre": "ballet",
+      "production_id": "2026-10-la-sylphide",
+      "session_number": 2,
+      "title": "라 실피드 — 2회차",
+      "ensemble_ids": [
+        "gwangju-ballet"
+      ],
+      "work_ids": [
+        "la-sylphide"
+      ],
+      "venue": "전남광주통합특별시예술의전당 대극장",
+      "conductor": null,
+      "soloists": null,
+      "series_number": "제143회",
+      "source_url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=399923",
+      "documentation_note": "프로그램북 배역표의 예정 캐스팅. 병합된 셀은 세 회차 공통으로 전사. 실제 출연 및 반주단체 명부 미확인."
+    },
+    {
+      "id": "2026-10-la-sylphide-3",
+      "date": "2026-10-24",
+      "time": "19:00",
+      "genre": "ballet",
+      "production_id": "2026-10-la-sylphide",
+      "session_number": 3,
+      "title": "라 실피드 — 3회차",
+      "ensemble_ids": [
+        "gwangju-ballet"
+      ],
+      "work_ids": [
+        "la-sylphide"
+      ],
+      "venue": "전남광주통합특별시예술의전당 대극장",
+      "conductor": null,
+      "soloists": null,
+      "series_number": "제143회",
+      "source_url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=399923",
+      "documentation_note": "프로그램북 배역표의 예정 캐스팅. 병합된 셀은 세 회차 공통으로 전사. 실제 출연 및 반주단체 명부 미확인."
+    },
+    {
       "id": "2026-11-06-beethoven-9",
       "date": "2026-11-06",
       "title": "베토벤 교향곡 제9번",
@@ -233,6 +304,12 @@
       "id": "mendelssohn-elijah",
       "composer": "멘델스존",
       "title": "엘리야"
+    },
+    {
+      "id": "la-sylphide",
+      "title": "라 실피드",
+      "composer": null,
+      "genre": "ballet"
     }
   ],
   "roster_ids": [
@@ -250,7 +327,10 @@
     "gso-chamber-2026-10-13",
     "gso-chamber-2026-11-11",
     "gso-2026-09-18",
-    "gso-2026-03-20"
+    "gso-2026-03-20",
+    "gwangju-ballet-sylphide-1",
+    "gwangju-ballet-sylphide-2",
+    "gwangju-ballet-sylphide-3"
   ],
   "persons": []
 }
