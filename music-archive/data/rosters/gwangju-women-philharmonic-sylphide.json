@@ -1,0 +1,552 @@
+{
+  "id": "gwangju-women-philharmonic-sylphide",
+  "ensemble_id": "gwangju-women-philharmonic",
+  "concert_id": "2026-10-la-sylphide-1",
+  "applies_to_concert_ids": [
+    "2026-10-la-sylphide-1",
+    "2026-10-la-sylphide-2",
+    "2026-10-la-sylphide-3"
+  ],
+  "season": null,
+  "source": {
+    "label": "라 실피드 프로그램북 · Conductor / Orchestra",
+    "wiki": null,
+    "page": null,
+    "type": "booklet_production_orchestra",
+    "production_id": "2026-10-la-sylphide",
+    "note": "회차 구분 없는 공통 명부. 각 회차의 실제 출연 및 고용 형태 미확인."
+  },
+  "transcription_review": "pending",
+  "records": [
+    {
+      "id": "gwangju-women-philharmonic-sylphide-001",
+      "name": "박승원",
+      "part": "악장",
+      "role": "악장",
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-002",
+      "name": "주보람",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-003",
+      "name": "문희연",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-004",
+      "name": "박주영",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-005",
+      "name": "문호정",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-006",
+      "name": "홍빛나",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-007",
+      "name": "정다정",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-008",
+      "name": "김현아",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-009",
+      "name": "김하라",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-010",
+      "name": "신예진",
+      "part": "제1바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-011",
+      "name": "서승현",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-012",
+      "name": "강세진",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-013",
+      "name": "이슬",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-014",
+      "name": "이지연",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-015",
+      "name": "곽성은",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-016",
+      "name": "한소희",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-017",
+      "name": "조세음",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-018",
+      "name": "진채영",
+      "part": "제2바이올린",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-019",
+      "name": "신세민",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-020",
+      "name": "임지선",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-021",
+      "name": "김규리",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-022",
+      "name": "윤채원",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-023",
+      "name": "한소명",
+      "part": "비올라",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-024",
+      "name": "유경진",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-025",
+      "name": "노혜경",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-026",
+      "name": "오지희",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-027",
+      "name": "이유영",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-028",
+      "name": "허연희",
+      "part": "첼로",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-029",
+      "name": "문지선",
+      "part": "더블베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-030",
+      "name": "염찬미",
+      "part": "더블베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-031",
+      "name": "김라진",
+      "part": "더블베이스",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-032",
+      "name": "박지혜",
+      "part": "플루트",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-033",
+      "name": "노신영",
+      "part": "플루트",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-034",
+      "name": "박해강",
+      "part": "오보에",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-035",
+      "name": "이혜리",
+      "part": "오보에",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-036",
+      "name": "권미리",
+      "part": "클라리넷",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-037",
+      "name": "박수현",
+      "part": "클라리넷",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-038",
+      "name": "이지형",
+      "part": "바순",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-039",
+      "name": "한은성",
+      "part": "바순",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-040",
+      "name": "김옥길",
+      "part": "호른",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-041",
+      "name": "오은영",
+      "part": "호른",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-042",
+      "name": "박상미",
+      "part": "호른",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-043",
+      "name": "조혜선",
+      "part": "호른",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-044",
+      "name": "오창훈",
+      "part": "트럼펫",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-045",
+      "name": "채혜인",
+      "part": "트럼펫",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-046",
+      "name": "김이슬",
+      "part": "트롬본",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-047",
+      "name": "양지원",
+      "part": "트롬본",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-048",
+      "name": "정승열",
+      "part": "베이스트롬본",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-049",
+      "name": "김유양",
+      "part": "팀파니",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-050",
+      "name": "한예주",
+      "part": "타악기",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-051",
+      "name": "홍지수",
+      "part": "타악기",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-052",
+      "name": "이정빈",
+      "part": "타악기",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    },
+    {
+      "id": "gwangju-women-philharmonic-sylphide-053",
+      "name": "윤유진",
+      "part": "하프",
+      "role": null,
+      "printed_mark": null,
+      "category": "instrumentalist",
+      "person_id": null,
+      "attendance": "unverified"
+    }
+  ]
+}

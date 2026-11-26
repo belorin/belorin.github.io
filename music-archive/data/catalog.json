@@ -43,7 +43,23 @@
     {
       "id": "gwangju-women-philharmonic",
       "name": "광주여성필하모닉오케스트라",
-      "type": "orchestra"
+      "type": "orchestra",
+      "profile": {
+        "source": "라 실피드 프로그램북 · Conductor / Orchestra",
+        "as_of": "2026-10",
+        "representative": "김유정",
+        "founded": "1999-05",
+        "history": [
+          "2026년 창단 27주년, 창단 이후 약 560회 공연",
+          "2011~2019년 빛고을시민문화관·광산문화예술회관 공연장 상주단체",
+          "2024년 8월 25주년 기념 음악회 말러 교향곡 제4번",
+          "2018년부터 시립발레단과 백조의 호수·라 실피드·파키타·돈키호테·지젤·해적 협업",
+          "2010년 다문화음악학교 개설, 2026년 기준 17년째 무료 악기교육 및 다문화M오케스트라 육성",
+          "2012년·2019년 여성가족부 장관상",
+          "2025년 지역대표 예술단체 선정, 브람스·창작의 여름 등 6개 시리즈 공연"
+        ],
+        "verification": "프로그램북 자체 소개, 외부 검증 미실시"
+      }
     }
   ],
   "concerts": [
@@ -201,7 +217,7 @@
       "soloists": null,
       "series_number": "제143회",
       "source_url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=399923",
-      "documentation_note": "프로그램북 배역표의 예정 캐스팅. 병합된 셀은 세 회차 공통으로 전사. 제작진 표에 박승유 지휘 및 광주여성필하모닉오케스트라 협연이 기재되어 있으며 회차별 실제 출연과 관현악 개별 명단은 미확인."
+      "documentation_note": "프로그램북의 회차별 발레 예정 캐스팅 및 제작 프로젝트 공통 오케스트라 명부 확보. 박승유 지휘, 광주여성필하모닉오케스트라 협연. 실제 회차별 출연 여부 미확인."
     },
     {
       "id": "2026-10-la-sylphide-2",
@@ -223,7 +239,7 @@
       "soloists": null,
       "series_number": "제143회",
       "source_url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=399923",
-      "documentation_note": "프로그램북 배역표의 예정 캐스팅. 병합된 셀은 세 회차 공통으로 전사. 제작진 표에 박승유 지휘 및 광주여성필하모닉오케스트라 협연이 기재되어 있으며 회차별 실제 출연과 관현악 개별 명단은 미확인."
+      "documentation_note": "프로그램북의 회차별 발레 예정 캐스팅 및 제작 프로젝트 공통 오케스트라 명부 확보. 박승유 지휘, 광주여성필하모닉오케스트라 협연. 실제 회차별 출연 여부 미확인."
     },
     {
       "id": "2026-10-la-sylphide-3",
@@ -245,7 +261,7 @@
       "soloists": null,
       "series_number": "제143회",
       "source_url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?menuNo=200010&pblprfrSn=399923",
-      "documentation_note": "프로그램북 배역표의 예정 캐스팅. 병합된 셀은 세 회차 공통으로 전사. 제작진 표에 박승유 지휘 및 광주여성필하모닉오케스트라 협연이 기재되어 있으며 회차별 실제 출연과 관현악 개별 명단은 미확인."
+      "documentation_note": "프로그램북의 회차별 발레 예정 캐스팅 및 제작 프로젝트 공통 오케스트라 명부 확보. 박승유 지휘, 광주여성필하모닉오케스트라 협연. 실제 회차별 출연 여부 미확인."
     },
     {
       "id": "2026-11-06-beethoven-9",
@@ -339,7 +355,8 @@
     "gwangju-ballet-sylphide-1",
     "gwangju-ballet-sylphide-2",
     "gwangju-ballet-sylphide-3",
-    "gwangju-ballet-2026-10-members"
+    "gwangju-ballet-2026-10-members",
+    "gwangju-women-philharmonic-sylphide"
   ],
   "persons": [],
   "production_credit_ids": [

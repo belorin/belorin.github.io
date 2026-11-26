@@ -37,3 +37,5 @@ catalog.production_credit_ids에 제작 프로젝트 ID를 등록하고 data/pro
 발레단 단원 소개 페이지는 공연 캐스팅과 독립된 membership snapshot으로 등록한다. season에 책자 시점을 명시하고 source.type=booklet_membership_snapshot, source.production_id에 출처 제작 프로젝트를 연결한다. 단원 구분은 role에 수석단원/차석단원/상임단원/비상임단원 원문 그대로 기록하며 수석·차석의 계약 형태를 추정하지 않는다. 동일 책자 캐스팅과의 이름 일치는 명부 연결 후보이며 person_id는 확정하지 않는다. 약칭은 명시적으로 cast_name_aliases에 기록한다. 웹 검색에서 배역별 직급 후보를 표시하고 원명부를 독립적으로 조회한다.
 
 공연별 객원 소개가 별도로 확인되면 기존 캐스팅 기록의 role과 role_source에 명시된 객원 구분과 출처를 추가한다. 객원은 단원 소속 스냅샷에 합산하지 않는다. 제작 자료 guest_cast에는 별도 소개 페이지의 분류를 보존하며, 동일 기관 명부 재등장은 supplementary_sources에서 기존 크레딧 ID를 참조한다. 어린이객원은 공개 프로그램에 기재된 배역과 객원 구분 이외의 사적 정보 및 사진을 저장하지 않는다.
+
+회차 구분 없는 오케스트라 등 제작 공통 명부는 한 개의 roster로 저장하고 applies_to_concert_ids로 적용 회차를 연결한다. concert_id는 기존 호환용 첫 회차 앵커이며 실제 개별 출연을 뜻하지 않는다. 웹 회차 검색 및 SQLite roster_session에서 연결하고, 총 명부 등장 건수는 중복 합산하지 않는다. 단체 연혁은 출처와 시점이 붙은 ensemble.profile에 보존한다.
