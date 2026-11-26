@@ -35,3 +35,5 @@ index.html은 정적 브라우저 검색 화면이며 외부 서버 없이 작�
 catalog.production_credit_ids에 제작 프로젝트 ID를 등록하고 data/productions/<id>.json에 프로그램북의 제작진·기관 조직 명부·협력업체 크레딧을 보존한다. scope=production은 프로젝트 크레딧, organization_roster는 책자 시점의 기관 명부이며 실제 공연 참여를 뜻하지 않는다. entity_type은 person/vendor/ensemble로 분리하고 공연단체는 ensemble_id로 연결한다. 같은 인물의 복수 직책은 별개 크레딧으로 보존하며 동일인 확정은 별도 검증 후 person_id로 연결한다. 제작 크레딧은 회차별 출연 명부와 분리 집계한다. 공연에 명시된 협연단체는 해당 회차에 연결하되 개인 명부 미확보로 표시한다. 웹 제작 크레딧 검색 및 SQLite production_credit 테이블에서 조회한다.
 
 발레단 단원 소개 페이지는 공연 캐스팅과 독립된 membership snapshot으로 등록한다. season에 책자 시점을 명시하고 source.type=booklet_membership_snapshot, source.production_id에 출처 제작 프로젝트를 연결한다. 단원 구분은 role에 수석단원/차석단원/상임단원/비상임단원 원문 그대로 기록하며 수석·차석의 계약 형태를 추정하지 않는다. 동일 책자 캐스팅과의 이름 일치는 명부 연결 후보이며 person_id는 확정하지 않는다. 약칭은 명시적으로 cast_name_aliases에 기록한다. 웹 검색에서 배역별 직급 후보를 표시하고 원명부를 독립적으로 조회한다.
+
+공연별 객원 소개가 별도로 확인되면 기존 캐스팅 기록의 role과 role_source에 명시된 객원 구분과 출처를 추가한다. 객원은 단원 소속 스냅샷에 합산하지 않는다. 제작 자료 guest_cast에는 별도 소개 페이지의 분류를 보존하며, 동일 기관 명부 재등장은 supplementary_sources에서 기존 크레딧 ID를 참조한다. 어린이객원은 공개 프로그램에 기재된 배역과 객원 구분 이외의 사적 정보 및 사진을 저장하지 않는다.

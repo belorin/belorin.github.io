@@ -83,12 +83,13 @@
       "id": "gwangju-ballet-sylphide-3-007",
       "name": "심은지",
       "part": "여자아이",
-      "role": null,
+      "role": "어린이객원",
       "printed_mark": null,
       "category": "dancer",
       "person_id": null,
       "attendance": "unverified",
-      "casting_scope": "session"
+      "casting_scope": "session",
+      "role_source": "라 실피드 프로그램북 · 객원무용수·어린이객원·사무국 소개"
     },
     {
       "id": "gwangju-ballet-sylphide-3-008",
@@ -160,12 +161,13 @@
       "id": "gwangju-ballet-sylphide-3-014",
       "name": "김규림",
       "part": "음악사",
-      "role": null,
+      "role": "객원무용수",
       "printed_mark": null,
       "category": "dancer",
       "person_id": null,
       "attendance": "unverified",
-      "casting_scope": "all_sessions"
+      "casting_scope": "all_sessions",
+      "role_source": "라 실피드 프로그램북 · 객원무용수·어린이객원·사무국 소개"
     },
     {
       "id": "gwangju-ballet-sylphide-3-015",
@@ -666,12 +668,13 @@
       "id": "gwangju-ballet-sylphide-3-060",
       "name": "김니시",
       "part": "실피드 군무",
-      "role": null,
+      "role": "객원무용수",
       "printed_mark": null,
       "category": "dancer",
       "person_id": null,
       "attendance": "unverified",
-      "casting_scope": "session"
+      "casting_scope": "session",
+      "role_source": "라 실피드 프로그램북 · 객원무용수·어린이객원·사무국 소개"
     }
   ]
 }

@@ -1211,5 +1211,73 @@
       "entity_type": "person",
       "person_id": null
     }
+  ],
+  "guest_cast": {
+    "source": {
+      "label": "라 실피드 프로그램북 · 객원무용수·어린이객원·사무국 소개",
+      "page": null,
+      "transcription_review": "pending"
+    },
+    "records": [
+      {
+        "name": "김규림",
+        "role": "객원무용수",
+        "person_id": null
+      },
+      {
+        "name": "김니시",
+        "role": "객원무용수",
+        "person_id": null
+      },
+      {
+        "name": "윤주아",
+        "role": "어린이객원",
+        "person_id": null
+      },
+      {
+        "name": "심은지",
+        "role": "어린이객원",
+        "person_id": null
+      }
+    ]
+  },
+  "supplementary_sources": [
+    {
+      "label": "라 실피드 프로그램북 · 객원무용수·어린이객원·사무국 소개",
+      "page": null,
+      "transcription_review": "pending",
+      "scope": "organization_roster",
+      "credit_refs": [
+        {
+          "credit_id": "2026-10-la-sylphide-credit-055",
+          "printed_role": "무대감독"
+        },
+        {
+          "credit_id": "2026-10-la-sylphide-credit-056",
+          "printed_role": "반주자"
+        },
+        {
+          "credit_id": "2026-10-la-sylphide-credit-057",
+          "printed_role": "기획·홍보"
+        },
+        {
+          "credit_id": "2026-10-la-sylphide-credit-058",
+          "printed_role": "기획·홍보"
+        },
+        {
+          "credit_id": "2026-10-la-sylphide-credit-059",
+          "printed_role": "기획·홍보"
+        },
+        {
+          "credit_id": "2026-10-la-sylphide-credit-060",
+          "printed_role": "음악담당"
+        },
+        {
+          "credit_id": "2026-10-la-sylphide-credit-061",
+          "printed_role": "의상·소품"
+        }
+      ],
+      "note": "사무국 명단은 기존 제작 페이지의 발레단 명부와 이름이 일치하여 중복 등록하지 않음."
+    }
   ]
 }
