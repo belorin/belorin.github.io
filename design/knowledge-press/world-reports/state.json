@@ -2,7 +2,7 @@
   "schema": 1,
   "project": "world-reports",
   "phase": "pilot",
-  "revision": 10,
+  "revision": 11,
   "limit": 20,
   "paths": {
     "evidence": "wiki/world-report-evidence.md",
@@ -10,19 +10,8 @@
     "reading": "wiki/world-report-reading.md"
   },
   "current_question": "지원 이후 필수 소비가 유지되는 가운데 추가 노동·고비용 차입이 감소하는지, 비자발적 실업이나 이용 포기와 어떻게 구별할 수 있는가?",
-  "current_thesis": "충격의 비용은 현재 지출·미래 상환·이용 포기로 이동할 수 있으며, 위험 분산 범위와 재원의 도착 시점이 보호의 지속성을 좌우할 수 있다는 가설이다. 식량에서는 이용 포기뿐 아니라 소비의 질 저하가 비용을 은폐할 수 있다는 전이 가설을 추가한다. 식량의 가격 상승만으로 구매 불능이나 영양 손실을 추론할 수 없으며 가용 예산과 최소 식단 비용의 관계가 중요하다. 필수 서비스 간 예산 경쟁으로 한 분야의 비용 변화가 다른 분야의 구매 가능성에 영향을 줄 수 있다는 가설을 추가한다. 세계 평균의 개선이나 개별 결핍률만으로 공동 결핍과 정책의 교차 효과를 식별할 수 없다. 추가 노동을 통해 소비를 유지할 경우 충격 비용이 시간으로 이전될 수 있다는 가설을 추가한다. 지원의 효과는 소비 증가뿐 아니라 기존 소비를 유지하기 위해 치르던 시간과 차입 비용의 감소로 나타날 수 있다.",
+  "current_thesis": "보호는 현재 필수 이용의 유지와 다음 충격에 대응할 선택 여력의 유지라는 두 축으로 평가할 수 있다는 가설이다. 비용은 부채·자산·건강·시간·소비의 질로 이동할 수 있으며 위험 분산 범위와 지급 시점, 결핍의 중첩이 결과를 바꿀 수 있다. E01–E04는 접근과 감당 능력의 분리를 뒷받침하지만 두 축의 공동 변화는 미검증이다.",
   "recent": [
-    {
-      "run": 5,
-      "op": "transfer",
-      "external": false,
-      "result": "보건의 이용 포기와 비용 이연을 식량으로 전이해, 식사 횟수와 식비가 유지되어도 영양의 질을 낮추는 방식으로 충격이 은폐될 수 있다는 판별 가설을 도출했다.",
-      "changed": [
-        "wiki/world-report-concepts.md",
-        "wiki/world-report-reading.md"
-      ],
-      "outcome": "changed"
-    },
     {
       "run": 6,
       "op": "explore",
@@ -73,6 +62,17 @@
       "op": "synthesize",
       "external": false,
       "result": "보건·식량·노동의 비용 이동을 총합해 지원이 현재 소비를 늘리지 않더라도 추가 노동이나 고비용 차입을 줄이면 실질 보호가 개선될 수 있다는 예측을 도출했다.",
+      "changed": [
+        "wiki/world-report-concepts.md",
+        "wiki/world-report-reading.md"
+      ],
+      "outcome": "changed"
+    },
+    {
+      "run": 11,
+      "op": "compress",
+      "external": false,
+      "result": "비용 이동의 여러 경로를 현재의 필수 이용과 다음 충격에 대한 선택 여력이라는 두 축으로 압축해, 소비 유지와 회복을 구별하는 공통 판별 기준을 만들었다.",
       "changed": [
         "wiki/world-report-concepts.md",
         "wiki/world-report-reading.md"
