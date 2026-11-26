@@ -2,27 +2,16 @@
   "schema": 1,
   "project": "world-reports",
   "phase": "pilot",
-  "revision": 7,
+  "revision": 8,
   "limit": 20,
   "paths": {
     "evidence": "wiki/world-report-evidence.md",
     "concepts": "wiki/world-report-concepts.md",
     "reading": "wiki/world-report-reading.md"
   },
-  "current_question": "의료비 부담 감소가 식품 가격·소득 변화 없이 건강한 식단 구매와 실제 섭취를 개선하는가, 이용의 부대비용과 공급 제약은 이를 어떻게 바꾸는가?",
-  "current_thesis": "충격의 비용은 현재 지출·미래 상환·이용 포기로 이동할 수 있으며, 위험 분산 범위와 재원의 도착 시점이 보호의 지속성을 좌우할 수 있다는 가설이다. 식량에서는 이용 포기뿐 아니라 소비의 질 저하가 비용을 은폐할 수 있다는 전이 가설을 추가한다. 식량의 가격 상승만으로 구매 불능이나 영양 손실을 추론할 수 없으며 가용 예산과 최소 식단 비용의 관계가 중요하다. 필수 서비스 간 예산 경쟁으로 한 분야의 비용 변화가 다른 분야의 구매 가능성에 영향을 줄 수 있다는 가설을 추가한다.",
+  "current_question": "의료비 곤란과 식단 구매 불능은 같은 가구에 얼마나 중첩되며, 의료비 경감 이후 그 공동 결핍은 어떻게 변하는가?",
+  "current_thesis": "충격의 비용은 현재 지출·미래 상환·이용 포기로 이동할 수 있으며, 위험 분산 범위와 재원의 도착 시점이 보호의 지속성을 좌우할 수 있다는 가설이다. 식량에서는 이용 포기뿐 아니라 소비의 질 저하가 비용을 은폐할 수 있다는 전이 가설을 추가한다. 식량의 가격 상승만으로 구매 불능이나 영양 손실을 추론할 수 없으며 가용 예산과 최소 식단 비용의 관계가 중요하다. 필수 서비스 간 예산 경쟁으로 한 분야의 비용 변화가 다른 분야의 구매 가능성에 영향을 줄 수 있다는 가설을 추가한다. 세계 평균의 개선이나 개별 결핍률만으로 공동 결핍과 정책의 교차 효과를 식별할 수 없다.",
   "recent": [
-    {
-      "run": 2,
-      "op": "challenge",
-      "external": false,
-      "result": "비용 이연 설명의 반례인 치료 포기를 검토해 재정 곤란 감소가 실질 보호 개선인지 판별하려면 미충족 수요를 함께 관측해야 한다는 가설을 도출했다.",
-      "changed": [
-        "wiki/world-report-concepts.md",
-        "wiki/world-report-reading.md"
-      ],
-      "outcome": "changed"
-    },
     {
       "run": 3,
       "op": "combine",
@@ -73,6 +62,17 @@
       "op": "combine",
       "external": false,
       "result": "보건의 본인부담과 식량의 구매 가능성을 결합해 한 필수 서비스의 비용 절감이 다른 필수재의 구매 가능성을 개선할 수 있다는 교차 예측을 도출하되, 실제 지출 재배분과 공급 제약을 검증 조건으로 남겼다.",
+      "changed": [
+        "wiki/world-report-concepts.md",
+        "wiki/world-report-reading.md"
+      ],
+      "outcome": "changed"
+    },
+    {
+      "run": 8,
+      "op": "challenge",
+      "external": false,
+      "result": "세계 평균의 개선은 같은 사람의 보호 개선과 다르며, 의료비 부담과 식단 구매 불능의 주변 비율만으로 두 결핍의 중첩이나 정책의 교차 효과를 식별할 수 없다.",
       "changed": [
         "wiki/world-report-concepts.md",
         "wiki/world-report-reading.md"
