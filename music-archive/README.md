@@ -49,3 +49,7 @@ data/identity-links.json은 사람이 조사·판정한 개별 기록 ID 쌍의 
 ## 약력·동일인 규명 메모
 
 프로그램북의 전문 약력은 출연 기록 또는 제작 크레딧에 profile_note로 추가한다. source.label/page, transcription_review, works(genre,title), awards, affiliations, notes를 보존한다. 배역은 part에 기록하고 role_source로 출처를 남긴다. 약력의 과거 작품은 별도의 공연 일시·단체 확인 전 공연/출연 기록으로 생성하지 않는다. 약력 일치 자체도 자동 동일인 확정 근거가 아니다. 판독이 불확실하거나 잘린 제목은 notes에 표시하고 완전한 작품명으로 보정하지 않는다. 상충하는 직책은 profile_note.printed_role 및 notes로 원문 병존. 웹 검색에서 펼침 메모를 제공하며 SQLite에는 JSON으로 보존한다.
+
+## 경력 사건
+
+catalog.json의 career_events는 날짜·단체·파트·사건 종류·근속 연수·출처·명부 연결 후보를 보존한다. 퇴임 등 사용자 전달 사건은 공개 자료 검증과 구별하고, 실제 출연·정확한 입단일·행정적 효력일을 추정하지 않는다. 기존 명부는 역사적 스냅샷이므로 수정하지 않는다. 웹 경력 사건 섹션 및 SQLite career_event에서 조회할 수 있다.

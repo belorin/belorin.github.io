@@ -17,6 +17,7 @@ def main():
         CREATE TABLE work(id TEXT PRIMARY KEY, composer TEXT, title TEXT);
         CREATE TABLE concert_ensemble(concert_id TEXT REFERENCES concert(id), ensemble_id TEXT REFERENCES ensemble(id), event_label TEXT, PRIMARY KEY(concert_id,ensemble_id));
         CREATE TABLE concert_work(concert_id TEXT REFERENCES concert(id), work_id TEXT REFERENCES work(id), PRIMARY KEY(concert_id,work_id));
+        CREATE TABLE career_event(id TEXT PRIMARY KEY, date TEXT NOT NULL, name TEXT NOT NULL, ensemble_id TEXT REFERENCES ensemble(id), concert_id TEXT REFERENCES concert(id), type TEXT NOT NULL, data_json TEXT NOT NULL);
         CREATE TABLE person(id TEXT PRIMARY KEY, data_json TEXT NOT NULL);
         CREATE TABLE roster(id TEXT PRIMARY KEY, ensemble_id TEXT NOT NULL REFERENCES ensemble(id), concert_id TEXT REFERENCES concert(id), season TEXT, source_json TEXT NOT NULL, transcription_review TEXT NOT NULL, CHECK((concert_id IS NULL) != (season IS NULL)));
         CREATE TABLE roster_session(roster_id TEXT REFERENCES roster(id), concert_id TEXT REFERENCES concert(id), PRIMARY KEY(roster_id,concert_id));
@@ -42,6 +43,7 @@ def main():
             p = load("productions/"+pid+".json")
             db.execute("INSERT INTO production_credit_source VALUES (?,?,?,?)",(pid,p["title"],json.dumps(p["source"],ensure_ascii=False),p["transcription_review"]))
             db.executemany("INSERT INTO production_credit VALUES (?,?,?,?,?,?,?,?,?,?,?)",[(x["id"],pid,x["scope"],x.get("organization"),x.get("department"),x["role"],x["name"],x["entity_type"],x.get("person_id"),x.get("ensemble_id"),json.dumps(x,ensure_ascii=False)) for x in p["credits"]])
+        db.executemany("INSERT INTO career_event VALUES (?,?,?,?,?,?,?)",[(x["id"],x["date"],x["name"],x["ensemble_id"],x.get("concert_id"),x["type"],json.dumps(x,ensure_ascii=False)) for x in c.get("career_events",[])])
         db.commit()
         print("appearances:",db.execute("SELECT COUNT(*) FROM appearance").fetchone()[0])
     finally:

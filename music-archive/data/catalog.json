@@ -688,7 +688,9 @@
       "venue": null,
       "conductor": null,
       "soloists": null,
-      "documentation_note": "사용자 제공 날짜 및 프로그램북 3쪽. 예정 명부와 실제 출연은 구별."
+      "documentation_note": "사용자 제공 날짜 및 프로그램북 3쪽. 예정 명부와 실제 출연은 구별. 공식 공연 안내로 회차 번호 대조. 최은재 퇴임은 별도 경력 사건(사용자 전달)으로 보존.",
+      "series_number": "제412회",
+      "source_url": "https://www.mcst.go.kr/site/s_culture/culture/cultureView.jsp?pRo=205&pSeq=77813"
     },
     {
       "id": "2026-11-hamlet-2",
@@ -891,5 +893,59 @@
     "2026-11-noeul-friends",
     "2026-11-hamlet",
     "2025-12-frank-and-stein"
+  ],
+  "career_events": [
+    {
+      "id": "gso-choi-eunjae-retirement-2026-11-27",
+      "name": "최은재",
+      "ensemble_id": "gso",
+      "part": "더블베이스",
+      "type": "retirement",
+      "date": "2026-11-27",
+      "concert_id": "2026-11-27-saga",
+      "tenure": {
+        "regular_years": 38,
+        "total_years_including_nonregular": 42
+      },
+      "source": {
+        "type": "user_report",
+        "label": "자료 제공자 전달",
+        "reported_on": "2026-11-27",
+        "note": "상임 38년, 비상임 포함 42년 활동 후 이날 퇴임했다는 사용자 전달. 별도 공개 퇴임 공지 미확보."
+      },
+      "record_links": [
+        {
+          "record_id": "gso-2026-11-27-057",
+          "status": "likely",
+          "reason": "이름·악기·같은 악단의 명부 일치"
+        },
+        {
+          "record_id": "gso-2026-h2-048",
+          "status": "likely",
+          "reason": "이름·악기·같은 악단의 명부 일치"
+        },
+        {
+          "record_id": "gso-2026-03-20-054",
+          "status": "likely",
+          "reason": "이름·악기·같은 악단의 명부 일치"
+        },
+        {
+          "record_id": "gso-2026-06-17-058",
+          "status": "likely",
+          "reason": "이름·악기·같은 악단의 명부 일치"
+        },
+        {
+          "record_id": "gso-2026-09-18-054",
+          "status": "likely",
+          "reason": "이름·악기·같은 악단의 명부 일치"
+        },
+        {
+          "record_id": "gso-2026-10-23-052",
+          "status": "likely",
+          "reason": "이름·악기·같은 악단의 명부 일치"
+        }
+      ],
+      "note": "근속 기간은 전달된 연수 그대로 보존. 입단·상임 전환 정확한 날짜, 퇴임의 행정적 효력일 및 개별 회차 실제 출연 여부는 별도 미확인."
+    }
   ]
 }
