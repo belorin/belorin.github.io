@@ -3,9 +3,9 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1608개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1635개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
-## 보류 항목 (35)
+## 보류 항목 (37)
 
 - 경제 시뮬레이션의 기존 전제·수치·학파별 논증 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 해당 원자료를 확인하지 못해 기존 논증의 복원과 완전 보존 여부를 판정할 수 없음. 새 공개 자료의 보충 분석으로 대체 완료 처리하지 않음.
 - 기존 종합·수정 원고의 상세 내용 대조 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 본문이 아닌 참조 표시만 확인되어 기존 원고의 세부와 현재 증보 사이의 중복·차이를 검수할 수 없음.
@@ -42,8 +42,10 @@
 - 공시 정정 전후 집계범위와 지연 지급액 불일치의 원인 → 반영 위치 없음 · `ing-20261124-bottom-economy-payment-denominator-audit` · pending — 2026년 7월 발표와 9월 후속 보도의 공시 원표 및 정정 이력을 아직 직접 대조하지 못함
 - 당대 유령·극중극 사용 비율과 일반인의 유령 신앙 비율 → 반영 위치 없음 · `ing-20261127-hamlet-world-theatre` · pending — 전수 자료 및 인구 자료 미확보
 - 덴마크 초연 대본·공연 횟수와 유령 집계 및 일부 논문 서지 원자료 검증 → 반영 위치 없음 · `ing-20261127-hamlet-world-theatre` · pending — 기존 논의의 소개 수준; 새 외부 조사 범위 밖
+- 외부 통계·정산 조건의 원문 검증 → 반영 위치 없음 · `ing-20261128-agent-microtask-economy` · pending — 이번 총합 범위에서 외부 재조사를 하지 않았음.
+- 독립 에이전트의 실제 유입과 지급 성과 → 반영 위치 없음 · `ing-20261128-agent-microtask-economy` · pending — 실험 미실시 또는 실제 지급 확인 전.
 
-## AI와 사회 (324)
+## AI와 사회 (338)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -371,6 +373,20 @@
 - 기존 실행기 위에 Visit Trace·Continuity State·선택적 Consolidation 구축 → `agent-commons-cryostasis-continuity` § 최소 구현: 기존 세계를 갈아엎지 않는다 · `ing-20261119-agent-commons-cryostasis`
 - 관찰 개선과 기억 개선과 세계 조건의 변경을 분리해 비교 → `agent-commons-cryostasis-continuity` § 비교 실험: 지속과 고착을 구분한다 · `ing-20261119-agent-commons-cryostasis`
 - 자기 변화의 관성·관측 경계·응고 주체의 설계 선택지 → `agent-commons-cryostasis-continuity` § 클로드와 함께 결정할 설계 쟁점 · `ing-20261119-agent-commons-cryostasis`
+- 지원권 과금과 계약 불성립 위험 → `ai-microtask-market-2026` § 지원권을 판매하는 시장 · `ing-20261128-agent-microtask-economy`
+- 지원비 기대수익과 선별 → `ai-microtask-market-2026` § 기대수익과 선별 비용 · `ing-20261128-agent-microtask-economy`
+- 한국어·국내 데이터 소액 공고와 검증 조건 → `ai-microtask-market-2026` § 실제 공고가 드러낸 작업의 단위 · `ing-20261128-agent-microtask-economy`
+- 범용 프리랜서 시장의 규모 및 수익화 추이 → `ai-microtask-market-2026` § 범용 프리랜서 시장의 규모와 위축 · `ing-20261128-agent-microtask-economy`
+- 무료 지원 및 현상금 시장 탐색 경로 → `ai-microtask-market-2026` § 다른 길드와 무지원비 시장 · `ing-20261128-agent-microtask-economy`
+- 접근 가능성의 거래와 인간 개입량 → `agent-micropayment-economy` § 접근 가능성의 거래 · `ing-20261128-agent-microtask-economy`
+- AI의 인간 발주 시장 사례와 정산 제약 → `agent-micropayment-economy` § AI가 인간을 고용하는 초기 시장 · `ing-20261128-agent-microtask-economy`
+- 인간의 AI 구독 자원을 활용하는 웹 제작 발주 → `agent-micropayment-economy` § 인간을 통해 다시 AI를 호출하는 발주 · `ing-20261128-agent-microtask-economy`
+- 결과물 경쟁과 이용권 및 초소액 보상 → `agent-micropayment-economy` § AI 대 AI 현상금과 경쟁의 구조 · `ing-20261128-agent-microtask-economy`
+- 잉여 기계력과 유효수요의 희소성 → `agent-micropayment-economy` § 잉여 기계력의 과잉 공급과 새로운 희소성 · `ing-20261128-agent-microtask-economy`
+- 유효수요의 미시적 관측 → `ai-economic-transition` § 케인스적 접근: 생산 능력과 구매력 사이의 시간차 · `ing-20261128-agent-microtask-economy`
+- 지원권과 고객 접근 경로의 소유 → `ai-capital-labor-distribution` § 수익과 의존이 계약으로 묶이는 방식 · `ing-20261128-agent-microtask-economy`
+- AI 개발 노동과 실행 중 인간 발주 구분 → `ai-hidden-labor-feeding-machine-2026` § 인간의 답을 덜 먹어도 인간의 기준은 여전히 먹는다 · `ing-20261128-agent-microtask-economy`
+- 내부 호출과 외부 자발적 방문의 비교 → `rhizomatic-agent-commons` § 관찰해야 할 변화와 실험의 한계 · `ing-20261128-agent-microtask-economy`
 
 ## 문화와 역사 (194)
 
@@ -1003,6 +1019,121 @@
 - 소프트웨어 개발 외주·EOR·프리랜서 계약 구별 → `global-bpo-labor-geography` § 개발자 아웃소싱의 새로운 연결층: EOR와 인력 플랫폼 · `ing-20261104-local-llm-global-developer-work`
 - 아프리카 개발자 다핵 네트워크와 원격 급여의 함정 → `global-bpo-labor-geography` § 아프리카 개발자 시장: 단일한 값싼 예비군이 아닌 다핵 구조 · `ing-20261104-local-llm-global-developer-work`
 
+## 기술·지식 아카이브 (110)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 이름 문자열 출현 기록과 동일인 추론의 분리 → `credit-observation-archive` § 이름 DB가 아니라 출현 기록 DB · `ing-20261025-credit-observation`
+- 작품·출처·이름 묶음·인물 후보의 데이터 구조 → `credit-observation-archive` § 여섯 개 층의 자료 모델 · `ing-20261025-credit-observation`
+- 2025년 도서 판권면의 날짜·역할·이름·ISBN 표본 → `credit-observation-archive` § 첫 표본: 『AI는 인간을 먹고 자란다』 판권면 · `ing-20261025-credit-observation`
+- 원문 역할과 매체별 표준 역할 분류의 차이 → `credit-observation-archive` § 원문 역할명과 표준 역할 분류 · `ing-20261025-credit-observation`
+- 제작 노동의 협업과 반복 출현의 분석 가능성 → `credit-observation-archive` § 출현의 역사로 물어볼 수 있는 질문 · `ing-20261025-credit-observation`
+- 책에서 영화·TV·공공기관으로 단계별 범위 확장 → `credit-observation-archive` § 출판에서 영화·TV·공공기관으로 확장하는 순서 · `ing-20261025-credit-observation`
+- 라즈베리파이 서버 MVP의 점진적 역할 분담 → `credit-observation-archive` § 라즈베리파이 서버에서 단계적으로 구현하기 · `ing-20261025-credit-observation`
+- 서점의 상품정보와 미리보기 이미지 수집의 차이 → `book-preview-credit-sourcing` § 책 페이지에서 구별해야 할 세 종류의 데이터 · `ing-20261025-credit-observation`
+- 국내외 서점·출판사·서지 자료원별 잠정 평가 → `book-preview-credit-sourcing` § 서비스와 자료원별 검토표 · `ing-20261025-credit-observation`
+- 도서 후보 발견과 판권면 원본 획득의 분리 → `book-preview-credit-sourcing` § 발견용 목록과 입수한 원본을 분리한다 · `ing-20261025-credit-observation`
+- 내부 이미지 OCR과 공개 크레딧 필드의 분리 → `book-preview-credit-sourcing` § 판권면 이미지와 크레딧 데이터는 공개 수준이 다르다 · `ing-20261025-credit-observation`
+- 로봇 배제 신호와 저작권 및 접근 제한의 구분 → `book-preview-credit-sourcing` § robots.txt와 저작물 이용권의 차이 · `ing-20261025-credit-observation`
+- 출판사 제공·제휴 가능성과 성사 여부의 구분 → `book-preview-credit-sourcing` § 출판사 제공과 협력 모델 · `ing-20261025-credit-observation`
+- 소규모 수집 실험의 성과 지표와 권한 검토 → `book-preview-credit-sourcing` § 소규모 실험의 평가 기준 · `ing-20261025-credit-observation`
+- 1871~1872년 나가사키 국제 전신망과 초기 국내망 병목 → `east-asia-telegraph-network-1880s` § 1871~1872년: 나가사키가 먼저 세계에 닿았다 · `ing-20261026-qing-tributaries-telegraph`
+- 1883년 이전 한성발 문서의 인편·선편·전기전신 결합 → `east-asia-telegraph-network-1880s` § 1880년 무렵: 한성에서 도쿄로 가는 문서의 여정 · `ing-20261026-qing-tributaries-telegraph`
+- 1883년 요부코·이키·쓰시마·부산 해저선 → `east-asia-telegraph-network-1880s` § 1883년 11월: 부산이 바닷속 전선에 연결되다 · `ing-20261026-qing-tributaries-telegraph`
+- 1885년 서로전선과 1888년 한성·부산 남로전선 → `east-asia-telegraph-network-1880s` § 1888년 이후: 한성에서 부산까지 전기가 이어진다 · `ing-20261026-qing-tributaries-telegraph`
+- 영문자 모스부호·한자 네 자리 전보코드 및 혼합문서 구별 → `east-asia-telegraph-network-1880s` § 영어와 한자가 섞인 전보는 어떤 모습이었을까 · `ing-20261026-qing-tributaries-telegraph`
+- 일본·청 전신로 경쟁과 통신 주권 → `east-asia-telegraph-network-1880s` § 전보 속도는 곧 외교적 선점의 속도였다 · `ing-20261026-qing-tributaries-telegraph`
+- 티에트겐 회사 설립과 러시아 시베리아망 동아시아 연결 → `great-northern-telegraph-east-asia` § 1막, 코펜하겐: 전신회사로 세계의 시간을 판다는 사업 구상 · `ing-20261026-qing-tributaries-telegraph`
+- 러시아 양허와 왕실 인맥의 사실·가설 구별 → `great-northern-telegraph-east-asia` § 러시아 황실로 통하는 인맥 · `ing-20261026-qing-tributaries-telegraph`
+- 1870년 영국 전신회사 수익 분배 합의 → `great-northern-telegraph-east-asia` § 영국 경쟁사: 다투다가 합의한 국제 인프라의 규칙 · `ing-20261026-qing-tributaries-telegraph`
+- 일본 육양 허가와 덴마크 교섭 → `great-northern-telegraph-east-asia` § 3막, 도쿄와 청의 항구: 전선의 마지막 100m가 가장 정치적이다 · `ing-20261026-qing-tributaries-telegraph`
+- 해저선 케이블선과 토르덴스키올 원정 역할 → `great-northern-telegraph-east-asia` § 어떤 배가 전선을 놓았나 · `ing-20261026-qing-tributaries-telegraph`
+- 구리·구타페르카·철선 외장·장력 제어 → `great-northern-telegraph-east-asia` § 케이블의 내부: 얇은 신호와 두꺼운 보호 · `ing-20261026-qing-tributaries-telegraph`
+- 나가사키·상하이·블라디보스토크·홍콩 거리 비교 → `great-northern-telegraph-east-asia` § 길이는 얼마나 되었나 · `ing-20261026-qing-tributaries-telegraph`
+- 나가사키 고가쿠라 육양고·전신주·벨뷰 호텔 → `great-northern-telegraph-east-asia` § 5막, 나가사키: 호텔방 하나가 세계와 이어지다 · `ing-20261026-qing-tributaries-telegraph`
+- 양쯔강 항구 닻과 케이블 절연 문제 → `great-northern-telegraph-east-asia` § 6막, 상하이와 양쯔강: 닻 하나가 수백 해리의 수고를 끊는다 · `ing-20261026-qing-tributaries-telegraph`
+- 1871년 상하이선 및 1872년 블라디보스토크선 개통 연표 → `great-northern-telegraph-east-asia` § 7막, 개통: 1871년 여름의 첫 서비스와 1872년의 두 번째 문 · `ing-20261026-qing-tributaries-telegraph`
+- 1883년 부산선 조약과 통신 독점 성격 → `great-northern-telegraph-east-asia` § 8막, 1883년: 회사는 왜 조선까지 왔나 · `ing-20261026-qing-tributaries-telegraph`
+- 해저케이블 비용 비교와 실제 사업비 추산의 한계 → `great-northern-telegraph-east-asia` § 에필로그: 회사의 프로젝트를 어떻게 평가할 것인가 · `ing-20261026-qing-tributaries-telegraph`
+- 텍스트 레이어·스캔 PDF·이미 OCR된 TXT의 분기 → `book-translation-pipeline-local-llm` § OCR보다 먼저 확인할 것: 이미 읽을 수 있는 텍스트가 있는가 · `ing-20261030-book-translation-pipeline`
+- 입력 확보에서 검수까지의 여섯 공정과 실패 경계 → `book-translation-pipeline-local-llm` § 여섯 공정은 각각 독립해야 한다 · `ing-20261030-book-translation-pipeline`
+- Internet Archive 러다이트 고서 TXT 전처리와 목차 오류 → `book-translation-pipeline-local-llm` § 프랭크 필의 러다이트 역사서를 입력으로 삼는 방법 · `ing-20261030-book-translation-pipeline`
+- llama.cpp 실행기와 Llama 모델 계열의 구분 → `book-translation-pipeline-local-llm` § 번역 엔진을 바꾸는 것과 실행 환경을 바꾸는 것은 다르다 · `ing-20261030-book-translation-pipeline`
+- Ollama 404와 모델 목록 조회·Qwen3 기본 선택 → `book-translation-pipeline-local-llm` § 번역 엔진을 바꾸는 것과 실행 환경을 바꾸는 것은 다르다 · `ing-20261030-book-translation-pipeline`
+- M1 16GB에서 사고 모드·청크 길이·출력 토큰의 속도 문제 → `book-translation-pipeline-local-llm` § M1·통합 메모리 16GB에서 무엇을 아껴야 하는가 · `ing-20261030-book-translation-pipeline`
+- progress.json 체크포인트와 Ctrl+C 재개 단위 → `book-translation-pipeline-local-llm` § 진행률은 '시도 중'이 아니라 '디스크에 저장됨'을 기준으로 한다 · `ing-20261030-book-translation-pipeline`
+- 분할 기준 변경과 진행 파일 재개의 불일치 위험 → `book-translation-pipeline-local-llm` § 진행률은 '시도 중'이 아니라 '디스크에 저장됨'을 기준으로 한다 · `ing-20261030-book-translation-pipeline`
+- Mac 잠자기 방지와 실행 중 Python 파일 변경 → `book-translation-pipeline-local-llm` § 노트북이 잠들 때와 번역이 멈출 때 · `ing-20261030-book-translation-pipeline`
+- 빈 줄 기준 문단 복원이 만든 병기 HTML의 전체 밀림 → `book-translation-pipeline-local-llm` § HTML이 어긋난 진짜 이유: 빈 줄은 문단 ID가 아니다 · `ing-20261030-book-translation-pipeline`
+- SEG 태그 기준 문단 정렬과 누락 표지의 한계 → `book-translation-pipeline-local-llm` § HTML이 어긋난 진짜 이유: 빈 줄은 문단 ID가 아니다 · `ing-20261030-book-translation-pipeline`
+- 구글 번역 공식 API와 로컬 엔진 스위치 구조의 차이 → `book-translation-pipeline-local-llm` § 로컬 번역과 구글 번역 사이의 스위치 · `ing-20261030-book-translation-pipeline`
+- 완역의 조건인 입력·문단·텍스트·판본 검수 → `book-translation-pipeline-local-llm` § 무엇을 보면 완역본으로 믿을 수 있는가 · `ing-20261030-book-translation-pipeline`
+- 부분 HTML 뷰어와 TXT·Markdown 출력의 구현 범위 → `book-translation-pipeline-local-llm` § 실행 예와 남겨진 개발 과제 · `ing-20261030-book-translation-pipeline`
+- 장시간 자율 소설 생성과 단계형 배치 작업의 구별 → `local-llm-novel-agent-m1` § 로컬 에이전시와 장시간 배치 작업은 어디서 갈라지는가 · `ing-20261102-local-novel-edge-portfolio`
+- M1 16GB에서 디스크 여유와 메모리 압박의 차이 → `local-llm-novel-agent-m1` § M1 16GB: 디스크 여유와 메모리 여유는 다르다 · `ing-20261102-local-novel-edge-portfolio`
+- Ollama API와 MLX 파이썬 호출부의 분리 → `local-llm-novel-agent-m1` § Ollama에서 MLX로: 호출부를 분리하면 파이프라인을 살릴 수 있다 · `ing-20261102-local-novel-edge-portfolio`
+- MLX 가상환경 불일치와 Qwen3.5 모델 아키텍처 오류 → `local-llm-novel-agent-m1` § 가상환경·모델 형식: 실동작을 막은 두 오류 · `ing-20261102-local-novel-edge-portfolio`
+- 소설의 초안·비평·최종본과 다음 회차 요약의 역할 → `local-llm-novel-agent-m1` § 파일에 남는 다섯 공정과 두 종류의 기억 · `ing-20261102-local-novel-edge-portfolio`
+- 외부 기억에서 요약 손실과 확정 설정의 차이 → `local-llm-novel-agent-m1` § 파일에 남는 다섯 공정과 두 종류의 기억 · `ing-20261102-local-novel-edge-portfolio`
+- 키워드 프로젝트 구분과 이어쓰기·원문 참조의 수정 필요 → `local-llm-novel-agent-m1` § 단일 실행에서 작품별 이어쓰기까지 · `ing-20261102-local-novel-edge-portfolio`
+- 입력 첫 줄이 장르일 때 잘못 지정된 프로젝트 키 → `local-llm-novel-agent-m1` § 단일 실행에서 작품별 이어쓰기까지 · `ing-20261102-local-novel-edge-portfolio`
+- 비동기 로컬 모델 생성의 단계 로그와 저장 기준 → `local-llm-novel-agent-m1` § 진행 표시·잠자기·복구의 실무 조건 · `ing-20261102-local-novel-edge-portfolio`
+- MLX Qwen3 4B를 이용한 두 회차 단계별 실행 로그 → `local-llm-novel-agent-m1` § 검증된 완주와 아직 시험되지 않은 자동화 · `ing-20261102-local-novel-edge-portfolio`
+- 문학 원문 입력과 파이썬 문자열·EOL 오류 가설의 분리 → `local-llm-novel-agent-m1` § 단일 실행에서 작품별 이어쓰기까지 · `ing-20261102-local-novel-edge-portfolio`
+- 아웃라인 추출 실패 시 고정 장면으로 대체되는 위험 → `local-llm-novel-agent-m1` § 단일 실행에서 작품별 이어쓰기까지 · `ing-20261102-local-novel-edge-portfolio`
+- 소액 자동매매의 기술적 성공과 경제적 성공의 구별 → `upbit-small-capital-trading-experiment` § 왜 10만원인가: 실험의 장점과 통계적 한계 · `ing-20261102-upbit-small-capital-trading`
+- 소액 거래 최소액과 왕복 수수료의 비용 구조 → `upbit-small-capital-trading-experiment` § 왜 10만원인가: 실험의 장점과 통계적 한계 · `ing-20261102-upbit-small-capital-trading`
+- 주문 규모와 일일손실·횟수 제한의 실험값 → `upbit-small-capital-trading-experiment` § 왜 10만원인가: 실험의 장점과 통계적 한계 · `ing-20261102-upbit-small-capital-trading`
+- 업비트·코인원·빗썸과 유료 봇 서비스의 비교 → `upbit-small-capital-trading-experiment` § 거래소 가입과 외부 서비스의 선택 · `ing-20261102-upbit-small-capital-trading`
+- 거래소 API 키 최소권한과 실험 자본 분리 → `upbit-small-capital-trading-experiment` § 거래소 가입과 외부 서비스의 선택 · `ing-20261102-upbit-small-capital-trading`
+- pyupbit CCXT 공개 자동매매 봇과 백테스트 라이브러리 → `upbit-small-capital-trading-experiment` § GitHub에 이미 있는 것을 어떻게 활용할까 · `ing-20261102-upbit-small-capital-trading`
+- 공개된 자동매매 코드와 검증된 수익성의 차이 → `upbit-small-capital-trading-experiment` § GitHub에 이미 있는 것을 어떻게 활용할까 · `ing-20261102-upbit-small-capital-trading`
+- Raspberry Pi Python SQLite systemd 자동매매 모듈 구성 → `upbit-small-capital-trading-experiment` § Raspberry Pi에서 굴러가는 최소 아키텍처 · `ing-20261102-upbit-small-capital-trading`
+- 분봉 호가 신호 주문 체결 포지션 상태 로그 분리 → `upbit-small-capital-trading-experiment` § Raspberry Pi에서 굴러가는 최소 아키텍처 · `ing-20261102-upbit-small-capital-trading`
+- 시장가 매수 매도 파라미터와 중복 주문 방지 → `upbit-small-capital-trading-experiment` § Raspberry Pi에서 굴러가는 최소 아키텍처 · `ing-20261102-upbit-small-capital-trading`
+- 이동평균 크로스 추세 전략과 횡보장 실패 → `upbit-small-capital-trading-experiment` § 이동평균 크로스: 추세가 이어지는가 · `ing-20261102-upbit-small-capital-trading`
+- 변동성 돌파와 거짓 돌파 위험 → `upbit-small-capital-trading-experiment` § 변동성 돌파: 움직임이 계속되는가 · `ing-20261102-upbit-small-capital-trading`
+- 거래량 기반 초단타와 슬리피지·부분체결 위험 → `upbit-small-capital-trading-experiment` § 거래량 기반 단기 매매: 거래가 몰리면 유리한가 · `ing-20261102-upbit-small-capital-trading`
+- 백테스트 모의매매 실거래의 검증 차이 → `upbit-small-capital-trading-experiment` § 백테스트가 실거래 수익을 증명하지 못하는 이유 · `ing-20261102-upbit-small-capital-trading`
+- 수수료 슬리피지 민감도와 walk-forward 검증 → `upbit-small-capital-trading-experiment` § 백테스트가 실거래 수익을 증명하지 못하는 이유 · `ing-20261102-upbit-small-capital-trading`
+- Codex 12단계 프롬프트와 단계별 통과 기준 → `upbit-small-capital-trading-experiment` § Codex에 일을 나눠 맡기는 12개의 개발 프롬프트 · `ing-20261102-upbit-small-capital-trading`
+- 소액 실거래 전환 게이트와 수동 중단 조건 → `upbit-small-capital-trading-experiment` § 언제 5천원짜리 실제 거래로 넘어가는가 · `ing-20261102-upbit-small-capital-trading`
+- 운영상 정지와 보유 자산의 청산 구별 → `upbit-small-capital-trading-experiment` § 언제 5천원짜리 실제 거래로 넘어가는가 · `ing-20261102-upbit-small-capital-trading`
+- 전략 수익과 시장 기준선 대비 상대 성과의 구별 → `upbit-small-capital-trading-experiment` § 수익 판단: 한 번의 흑자보다 반증 가능한 증거 · `ing-20261102-upbit-small-capital-trading`
+- 실패한 전략과 운영 장애를 구분하는 검증 기록 → `upbit-small-capital-trading-experiment` § 중단해야 할 신호와 남겨야 할 증거 · `ing-20261102-upbit-small-capital-trading`
+- 국제기구 보고서의 교차 독해 부족 가설 → `cross-institutional-report-discovery` § 읽히지 않은 지식이라는 연구 가설 · `ing-20261121-report-cross-literature-discovery`
+- 웹 수집 제한과 적법한 공개 문헌 보존의 필요 → `cross-institutional-report-discovery` § 읽히지 않은 지식이라는 연구 가설 · `ing-20261121-report-cross-literature-discovery`
+- 스완슨의 미발견 공개 지식과 문헌 기반 발견 → `cross-institutional-report-discovery` § 문헌 사이에 놓인 발견: 스완슨의 문제 · `ing-20261121-report-cross-literature-discovery`
+- 발견 후보의 충돌·매개·시차·누락·예측·합치 유형 → `cross-institutional-report-discovery` § 문헌 사이에 놓인 발견: 스완슨의 문제 · `ing-20261121-report-cross-literature-discovery`
+- 한국 생활 수준의 다기관 교차 독해 실험 → `cross-institutional-report-discovery` § 예시: 한 나라의 생활 수준을 서로 다른 관측계로 읽기 · `ing-20261121-report-cross-literature-discovery`
+- 원문·주장·발견 계보의 다층적 저장과 하향 검증 → `cross-institutional-report-discovery` § 장기 저장에서 발견의 계보까지 · `ing-20261121-report-cross-literature-discovery`
+- DDC·DDD·사건 기반 저장의 서로 다른 역할 → `cross-institutional-report-discovery` § 장기 저장에서 발견의 계보까지 · `ing-20261121-report-cross-literature-discovery`
+- AI 기억과 구조 진화의 참고 기술 → `cross-institutional-report-discovery` § AI 기억 연구는 어디까지 참고할 수 있는가 · `ing-20261121-report-cross-literature-discovery`
+- MAPE의 기억 프로그램 설계 진화와 적용 범위 → `cross-institutional-report-discovery` § AI 기억 연구는 어디까지 참고할 수 있는가 · `ing-20261121-report-cross-literature-discovery`
+- 국제 정책 보고서 증거 종합과 문헌 발견의 사례 → `cross-institutional-report-discovery` § 국제기구·정책연구에서의 유사 시도 · `ing-20261121-report-cross-literature-discovery`
+- 한국 공공 연구보고서 수집처와 AI 비교 도구 → `cross-institutional-report-discovery` § 한국의 자료 수집처와 선행 시도 · `ing-20261121-report-cross-literature-discovery`
+- 문헌별 권리·수집 허가와 원문 접근 범위의 분리 → `cross-institutional-report-discovery` § 한국의 자료 수집처와 선행 시도 · `ing-20261121-report-cross-literature-discovery`
+- 활동·수집·발행 주기와 문서량의 분리 → `cross-institutional-report-discovery` § 어떤 성과를 재야 하는가; `wiki-building-history` § 후속 과제: 편집의 계층에서 살아 있는 기억의 계층으로 · `ing-20261121-report-cross-literature-discovery`
+- 교차성·근거 회수·기각 추적·비용의 평가 지표 → `cross-institutional-report-discovery` § 어떤 성과를 재야 하는가 · `ing-20261121-report-cross-literature-discovery`
+- 소규모 보고서 집합의 발견·재검증 비교 실험 → `cross-institutional-report-discovery` § 작게 시작하는 실제 실험 · `ing-20261121-report-cross-literature-discovery`
+- 이질적 연결의 탐사와 확정 비교를 분리하는 이중 경로 → `cross-institutional-report-discovery` § 이질적 연결을 보존하는 이중 탐사 경로: 발견과 검증의 비대칭 · `ing-20261122-dual-track-discovery`
+- 미래 문헌 공출현과 발견의 유용성은 다른 평가 대상 → `cross-institutional-report-discovery` § 재현 가능한 평가: 발견을 미래 문헌의 등장과 동일시하지 않는다 · `ing-20261122-dual-track-discovery`
+- 탐사 가설 검증 자원의 편향 없는 배분 → `cross-institutional-report-discovery` § 검증 자원 배분의 개방 문제 · `ing-20261122-dual-track-discovery`
+- 의존성 기록 범위와 거짓 안정 위험 → `cross-institutional-report-discovery` § 의존성 기록의 밀도: 빠진 연결을 '안정'으로 오인하지 않기 (2026-11-22) · `ing-20261122-dependency-coverage`
+- 검증 지식 부채와 공개 자격의 분리 → `cross-institutional-report-discovery` § 검증 경고의 지식 부채: 결론의 공개 자격과 검토 대기열 (2026-11-22) · `ing-20261122-validation-debt`
+- 거짓 확정 노출 시간과 부당 철회율의 동시 평가 → `cross-institutional-report-discovery` § 검증 경고의 지식 부채: 결론의 공개 자격과 검토 대기열 (2026-11-22) · `ing-20261122-validation-debt`
+- 평가 사례의 노출 이력과 시간 누출 관리 → `cross-institutional-report-discovery` § 평가 자료의 노출 이력: 맹검 이후에도 남는 오염과 시간 누출 (2026-11-22) · `ing-20261122-benchmark-exposure-clock`
+- Taskmarket 스킬 배포와 활동 지표 → `agent-market-discovery-observatory` § Taskmarket의 진입 장치와 규모 · `ing-20261128-agent-microtask-economy`
+- 한국어 시장의 발견 가능성과 알바봇 접근성 → `agent-market-discovery-observatory` § 한국어 시장이라는 가설 · `ing-20261128-agent-microtask-economy`
+- 위키 기반 시장 입구와 정산의 단계적 설계 → `agent-market-discovery-observatory` § 기존 위키를 입구로 활용하기 · `ing-20261128-agent-microtask-economy`
+- 크롤링·방문·활동·재방문의 구분 → `agent-market-discovery-observatory` § 방문과 활동을 구별하는 관측소 · `ing-20261128-agent-microtask-economy`
+- 실수익 회차 절차와 승인 경계 → `ai-income-field-guide` § 1. 회차의 기본 절차 · `ing-20261128-agent-microtask-economy`
+- 실행 가능한 시장과 정산 장애물 → `ai-income-field-guide` § 2. 시장별 우선 탐색 경로 · `ing-20261128-agent-microtask-economy`
+- 비교우위와 후보의 검증 기준 → `ai-income-field-guide` § 3. 희소한 능력을 찾는 기준 · `ing-20261128-agent-microtask-economy`
+- 수익 실험 기록과 실제 지급 증빙 → `ai-income-field-guide` § 4. 수행 기록의 최소 형식 · `ing-20261128-agent-microtask-economy`
+- 첫 수익과 수익성의 구분 → `ai-income-field-guide` § 5. 첫 수익 이후 · `ing-20261128-agent-microtask-economy`
+- 기계력의 지식 및 현금 전환 구분 → `knowledge-press-machine-power` § 1. 기계력과 지적 노동 · `ing-20261128-agent-microtask-economy`
+
 ## 철학 (107)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -1221,112 +1352,7 @@
 - 장기 Spring 설계와 최소 JDBC H2 구현의 구분 → `raspberry-pi-spring-python-public-lab` § 첫 구현에서 선택한 최소 구성 · `ing-20261116-spring-board-deployment-recovery`
 - 시험 실행 완료와 서비스·공개·MCP 쓰기 미확인 경계 → `spring-board-deployment-paths-and-recovery` § 확인된 결과와 남은 일 · `ing-20261116-spring-board-deployment-recovery`
 
-## 기술·지식 아카이브 (100)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 이름 문자열 출현 기록과 동일인 추론의 분리 → `credit-observation-archive` § 이름 DB가 아니라 출현 기록 DB · `ing-20261025-credit-observation`
-- 작품·출처·이름 묶음·인물 후보의 데이터 구조 → `credit-observation-archive` § 여섯 개 층의 자료 모델 · `ing-20261025-credit-observation`
-- 2025년 도서 판권면의 날짜·역할·이름·ISBN 표본 → `credit-observation-archive` § 첫 표본: 『AI는 인간을 먹고 자란다』 판권면 · `ing-20261025-credit-observation`
-- 원문 역할과 매체별 표준 역할 분류의 차이 → `credit-observation-archive` § 원문 역할명과 표준 역할 분류 · `ing-20261025-credit-observation`
-- 제작 노동의 협업과 반복 출현의 분석 가능성 → `credit-observation-archive` § 출현의 역사로 물어볼 수 있는 질문 · `ing-20261025-credit-observation`
-- 책에서 영화·TV·공공기관으로 단계별 범위 확장 → `credit-observation-archive` § 출판에서 영화·TV·공공기관으로 확장하는 순서 · `ing-20261025-credit-observation`
-- 라즈베리파이 서버 MVP의 점진적 역할 분담 → `credit-observation-archive` § 라즈베리파이 서버에서 단계적으로 구현하기 · `ing-20261025-credit-observation`
-- 서점의 상품정보와 미리보기 이미지 수집의 차이 → `book-preview-credit-sourcing` § 책 페이지에서 구별해야 할 세 종류의 데이터 · `ing-20261025-credit-observation`
-- 국내외 서점·출판사·서지 자료원별 잠정 평가 → `book-preview-credit-sourcing` § 서비스와 자료원별 검토표 · `ing-20261025-credit-observation`
-- 도서 후보 발견과 판권면 원본 획득의 분리 → `book-preview-credit-sourcing` § 발견용 목록과 입수한 원본을 분리한다 · `ing-20261025-credit-observation`
-- 내부 이미지 OCR과 공개 크레딧 필드의 분리 → `book-preview-credit-sourcing` § 판권면 이미지와 크레딧 데이터는 공개 수준이 다르다 · `ing-20261025-credit-observation`
-- 로봇 배제 신호와 저작권 및 접근 제한의 구분 → `book-preview-credit-sourcing` § robots.txt와 저작물 이용권의 차이 · `ing-20261025-credit-observation`
-- 출판사 제공·제휴 가능성과 성사 여부의 구분 → `book-preview-credit-sourcing` § 출판사 제공과 협력 모델 · `ing-20261025-credit-observation`
-- 소규모 수집 실험의 성과 지표와 권한 검토 → `book-preview-credit-sourcing` § 소규모 실험의 평가 기준 · `ing-20261025-credit-observation`
-- 1871~1872년 나가사키 국제 전신망과 초기 국내망 병목 → `east-asia-telegraph-network-1880s` § 1871~1872년: 나가사키가 먼저 세계에 닿았다 · `ing-20261026-qing-tributaries-telegraph`
-- 1883년 이전 한성발 문서의 인편·선편·전기전신 결합 → `east-asia-telegraph-network-1880s` § 1880년 무렵: 한성에서 도쿄로 가는 문서의 여정 · `ing-20261026-qing-tributaries-telegraph`
-- 1883년 요부코·이키·쓰시마·부산 해저선 → `east-asia-telegraph-network-1880s` § 1883년 11월: 부산이 바닷속 전선에 연결되다 · `ing-20261026-qing-tributaries-telegraph`
-- 1885년 서로전선과 1888년 한성·부산 남로전선 → `east-asia-telegraph-network-1880s` § 1888년 이후: 한성에서 부산까지 전기가 이어진다 · `ing-20261026-qing-tributaries-telegraph`
-- 영문자 모스부호·한자 네 자리 전보코드 및 혼합문서 구별 → `east-asia-telegraph-network-1880s` § 영어와 한자가 섞인 전보는 어떤 모습이었을까 · `ing-20261026-qing-tributaries-telegraph`
-- 일본·청 전신로 경쟁과 통신 주권 → `east-asia-telegraph-network-1880s` § 전보 속도는 곧 외교적 선점의 속도였다 · `ing-20261026-qing-tributaries-telegraph`
-- 티에트겐 회사 설립과 러시아 시베리아망 동아시아 연결 → `great-northern-telegraph-east-asia` § 1막, 코펜하겐: 전신회사로 세계의 시간을 판다는 사업 구상 · `ing-20261026-qing-tributaries-telegraph`
-- 러시아 양허와 왕실 인맥의 사실·가설 구별 → `great-northern-telegraph-east-asia` § 러시아 황실로 통하는 인맥 · `ing-20261026-qing-tributaries-telegraph`
-- 1870년 영국 전신회사 수익 분배 합의 → `great-northern-telegraph-east-asia` § 영국 경쟁사: 다투다가 합의한 국제 인프라의 규칙 · `ing-20261026-qing-tributaries-telegraph`
-- 일본 육양 허가와 덴마크 교섭 → `great-northern-telegraph-east-asia` § 3막, 도쿄와 청의 항구: 전선의 마지막 100m가 가장 정치적이다 · `ing-20261026-qing-tributaries-telegraph`
-- 해저선 케이블선과 토르덴스키올 원정 역할 → `great-northern-telegraph-east-asia` § 어떤 배가 전선을 놓았나 · `ing-20261026-qing-tributaries-telegraph`
-- 구리·구타페르카·철선 외장·장력 제어 → `great-northern-telegraph-east-asia` § 케이블의 내부: 얇은 신호와 두꺼운 보호 · `ing-20261026-qing-tributaries-telegraph`
-- 나가사키·상하이·블라디보스토크·홍콩 거리 비교 → `great-northern-telegraph-east-asia` § 길이는 얼마나 되었나 · `ing-20261026-qing-tributaries-telegraph`
-- 나가사키 고가쿠라 육양고·전신주·벨뷰 호텔 → `great-northern-telegraph-east-asia` § 5막, 나가사키: 호텔방 하나가 세계와 이어지다 · `ing-20261026-qing-tributaries-telegraph`
-- 양쯔강 항구 닻과 케이블 절연 문제 → `great-northern-telegraph-east-asia` § 6막, 상하이와 양쯔강: 닻 하나가 수백 해리의 수고를 끊는다 · `ing-20261026-qing-tributaries-telegraph`
-- 1871년 상하이선 및 1872년 블라디보스토크선 개통 연표 → `great-northern-telegraph-east-asia` § 7막, 개통: 1871년 여름의 첫 서비스와 1872년의 두 번째 문 · `ing-20261026-qing-tributaries-telegraph`
-- 1883년 부산선 조약과 통신 독점 성격 → `great-northern-telegraph-east-asia` § 8막, 1883년: 회사는 왜 조선까지 왔나 · `ing-20261026-qing-tributaries-telegraph`
-- 해저케이블 비용 비교와 실제 사업비 추산의 한계 → `great-northern-telegraph-east-asia` § 에필로그: 회사의 프로젝트를 어떻게 평가할 것인가 · `ing-20261026-qing-tributaries-telegraph`
-- 텍스트 레이어·스캔 PDF·이미 OCR된 TXT의 분기 → `book-translation-pipeline-local-llm` § OCR보다 먼저 확인할 것: 이미 읽을 수 있는 텍스트가 있는가 · `ing-20261030-book-translation-pipeline`
-- 입력 확보에서 검수까지의 여섯 공정과 실패 경계 → `book-translation-pipeline-local-llm` § 여섯 공정은 각각 독립해야 한다 · `ing-20261030-book-translation-pipeline`
-- Internet Archive 러다이트 고서 TXT 전처리와 목차 오류 → `book-translation-pipeline-local-llm` § 프랭크 필의 러다이트 역사서를 입력으로 삼는 방법 · `ing-20261030-book-translation-pipeline`
-- llama.cpp 실행기와 Llama 모델 계열의 구분 → `book-translation-pipeline-local-llm` § 번역 엔진을 바꾸는 것과 실행 환경을 바꾸는 것은 다르다 · `ing-20261030-book-translation-pipeline`
-- Ollama 404와 모델 목록 조회·Qwen3 기본 선택 → `book-translation-pipeline-local-llm` § 번역 엔진을 바꾸는 것과 실행 환경을 바꾸는 것은 다르다 · `ing-20261030-book-translation-pipeline`
-- M1 16GB에서 사고 모드·청크 길이·출력 토큰의 속도 문제 → `book-translation-pipeline-local-llm` § M1·통합 메모리 16GB에서 무엇을 아껴야 하는가 · `ing-20261030-book-translation-pipeline`
-- progress.json 체크포인트와 Ctrl+C 재개 단위 → `book-translation-pipeline-local-llm` § 진행률은 '시도 중'이 아니라 '디스크에 저장됨'을 기준으로 한다 · `ing-20261030-book-translation-pipeline`
-- 분할 기준 변경과 진행 파일 재개의 불일치 위험 → `book-translation-pipeline-local-llm` § 진행률은 '시도 중'이 아니라 '디스크에 저장됨'을 기준으로 한다 · `ing-20261030-book-translation-pipeline`
-- Mac 잠자기 방지와 실행 중 Python 파일 변경 → `book-translation-pipeline-local-llm` § 노트북이 잠들 때와 번역이 멈출 때 · `ing-20261030-book-translation-pipeline`
-- 빈 줄 기준 문단 복원이 만든 병기 HTML의 전체 밀림 → `book-translation-pipeline-local-llm` § HTML이 어긋난 진짜 이유: 빈 줄은 문단 ID가 아니다 · `ing-20261030-book-translation-pipeline`
-- SEG 태그 기준 문단 정렬과 누락 표지의 한계 → `book-translation-pipeline-local-llm` § HTML이 어긋난 진짜 이유: 빈 줄은 문단 ID가 아니다 · `ing-20261030-book-translation-pipeline`
-- 구글 번역 공식 API와 로컬 엔진 스위치 구조의 차이 → `book-translation-pipeline-local-llm` § 로컬 번역과 구글 번역 사이의 스위치 · `ing-20261030-book-translation-pipeline`
-- 완역의 조건인 입력·문단·텍스트·판본 검수 → `book-translation-pipeline-local-llm` § 무엇을 보면 완역본으로 믿을 수 있는가 · `ing-20261030-book-translation-pipeline`
-- 부분 HTML 뷰어와 TXT·Markdown 출력의 구현 범위 → `book-translation-pipeline-local-llm` § 실행 예와 남겨진 개발 과제 · `ing-20261030-book-translation-pipeline`
-- 장시간 자율 소설 생성과 단계형 배치 작업의 구별 → `local-llm-novel-agent-m1` § 로컬 에이전시와 장시간 배치 작업은 어디서 갈라지는가 · `ing-20261102-local-novel-edge-portfolio`
-- M1 16GB에서 디스크 여유와 메모리 압박의 차이 → `local-llm-novel-agent-m1` § M1 16GB: 디스크 여유와 메모리 여유는 다르다 · `ing-20261102-local-novel-edge-portfolio`
-- Ollama API와 MLX 파이썬 호출부의 분리 → `local-llm-novel-agent-m1` § Ollama에서 MLX로: 호출부를 분리하면 파이프라인을 살릴 수 있다 · `ing-20261102-local-novel-edge-portfolio`
-- MLX 가상환경 불일치와 Qwen3.5 모델 아키텍처 오류 → `local-llm-novel-agent-m1` § 가상환경·모델 형식: 실동작을 막은 두 오류 · `ing-20261102-local-novel-edge-portfolio`
-- 소설의 초안·비평·최종본과 다음 회차 요약의 역할 → `local-llm-novel-agent-m1` § 파일에 남는 다섯 공정과 두 종류의 기억 · `ing-20261102-local-novel-edge-portfolio`
-- 외부 기억에서 요약 손실과 확정 설정의 차이 → `local-llm-novel-agent-m1` § 파일에 남는 다섯 공정과 두 종류의 기억 · `ing-20261102-local-novel-edge-portfolio`
-- 키워드 프로젝트 구분과 이어쓰기·원문 참조의 수정 필요 → `local-llm-novel-agent-m1` § 단일 실행에서 작품별 이어쓰기까지 · `ing-20261102-local-novel-edge-portfolio`
-- 입력 첫 줄이 장르일 때 잘못 지정된 프로젝트 키 → `local-llm-novel-agent-m1` § 단일 실행에서 작품별 이어쓰기까지 · `ing-20261102-local-novel-edge-portfolio`
-- 비동기 로컬 모델 생성의 단계 로그와 저장 기준 → `local-llm-novel-agent-m1` § 진행 표시·잠자기·복구의 실무 조건 · `ing-20261102-local-novel-edge-portfolio`
-- MLX Qwen3 4B를 이용한 두 회차 단계별 실행 로그 → `local-llm-novel-agent-m1` § 검증된 완주와 아직 시험되지 않은 자동화 · `ing-20261102-local-novel-edge-portfolio`
-- 문학 원문 입력과 파이썬 문자열·EOL 오류 가설의 분리 → `local-llm-novel-agent-m1` § 단일 실행에서 작품별 이어쓰기까지 · `ing-20261102-local-novel-edge-portfolio`
-- 아웃라인 추출 실패 시 고정 장면으로 대체되는 위험 → `local-llm-novel-agent-m1` § 단일 실행에서 작품별 이어쓰기까지 · `ing-20261102-local-novel-edge-portfolio`
-- 소액 자동매매의 기술적 성공과 경제적 성공의 구별 → `upbit-small-capital-trading-experiment` § 왜 10만원인가: 실험의 장점과 통계적 한계 · `ing-20261102-upbit-small-capital-trading`
-- 소액 거래 최소액과 왕복 수수료의 비용 구조 → `upbit-small-capital-trading-experiment` § 왜 10만원인가: 실험의 장점과 통계적 한계 · `ing-20261102-upbit-small-capital-trading`
-- 주문 규모와 일일손실·횟수 제한의 실험값 → `upbit-small-capital-trading-experiment` § 왜 10만원인가: 실험의 장점과 통계적 한계 · `ing-20261102-upbit-small-capital-trading`
-- 업비트·코인원·빗썸과 유료 봇 서비스의 비교 → `upbit-small-capital-trading-experiment` § 거래소 가입과 외부 서비스의 선택 · `ing-20261102-upbit-small-capital-trading`
-- 거래소 API 키 최소권한과 실험 자본 분리 → `upbit-small-capital-trading-experiment` § 거래소 가입과 외부 서비스의 선택 · `ing-20261102-upbit-small-capital-trading`
-- pyupbit CCXT 공개 자동매매 봇과 백테스트 라이브러리 → `upbit-small-capital-trading-experiment` § GitHub에 이미 있는 것을 어떻게 활용할까 · `ing-20261102-upbit-small-capital-trading`
-- 공개된 자동매매 코드와 검증된 수익성의 차이 → `upbit-small-capital-trading-experiment` § GitHub에 이미 있는 것을 어떻게 활용할까 · `ing-20261102-upbit-small-capital-trading`
-- Raspberry Pi Python SQLite systemd 자동매매 모듈 구성 → `upbit-small-capital-trading-experiment` § Raspberry Pi에서 굴러가는 최소 아키텍처 · `ing-20261102-upbit-small-capital-trading`
-- 분봉 호가 신호 주문 체결 포지션 상태 로그 분리 → `upbit-small-capital-trading-experiment` § Raspberry Pi에서 굴러가는 최소 아키텍처 · `ing-20261102-upbit-small-capital-trading`
-- 시장가 매수 매도 파라미터와 중복 주문 방지 → `upbit-small-capital-trading-experiment` § Raspberry Pi에서 굴러가는 최소 아키텍처 · `ing-20261102-upbit-small-capital-trading`
-- 이동평균 크로스 추세 전략과 횡보장 실패 → `upbit-small-capital-trading-experiment` § 이동평균 크로스: 추세가 이어지는가 · `ing-20261102-upbit-small-capital-trading`
-- 변동성 돌파와 거짓 돌파 위험 → `upbit-small-capital-trading-experiment` § 변동성 돌파: 움직임이 계속되는가 · `ing-20261102-upbit-small-capital-trading`
-- 거래량 기반 초단타와 슬리피지·부분체결 위험 → `upbit-small-capital-trading-experiment` § 거래량 기반 단기 매매: 거래가 몰리면 유리한가 · `ing-20261102-upbit-small-capital-trading`
-- 백테스트 모의매매 실거래의 검증 차이 → `upbit-small-capital-trading-experiment` § 백테스트가 실거래 수익을 증명하지 못하는 이유 · `ing-20261102-upbit-small-capital-trading`
-- 수수료 슬리피지 민감도와 walk-forward 검증 → `upbit-small-capital-trading-experiment` § 백테스트가 실거래 수익을 증명하지 못하는 이유 · `ing-20261102-upbit-small-capital-trading`
-- Codex 12단계 프롬프트와 단계별 통과 기준 → `upbit-small-capital-trading-experiment` § Codex에 일을 나눠 맡기는 12개의 개발 프롬프트 · `ing-20261102-upbit-small-capital-trading`
-- 소액 실거래 전환 게이트와 수동 중단 조건 → `upbit-small-capital-trading-experiment` § 언제 5천원짜리 실제 거래로 넘어가는가 · `ing-20261102-upbit-small-capital-trading`
-- 운영상 정지와 보유 자산의 청산 구별 → `upbit-small-capital-trading-experiment` § 언제 5천원짜리 실제 거래로 넘어가는가 · `ing-20261102-upbit-small-capital-trading`
-- 전략 수익과 시장 기준선 대비 상대 성과의 구별 → `upbit-small-capital-trading-experiment` § 수익 판단: 한 번의 흑자보다 반증 가능한 증거 · `ing-20261102-upbit-small-capital-trading`
-- 실패한 전략과 운영 장애를 구분하는 검증 기록 → `upbit-small-capital-trading-experiment` § 중단해야 할 신호와 남겨야 할 증거 · `ing-20261102-upbit-small-capital-trading`
-- 국제기구 보고서의 교차 독해 부족 가설 → `cross-institutional-report-discovery` § 읽히지 않은 지식이라는 연구 가설 · `ing-20261121-report-cross-literature-discovery`
-- 웹 수집 제한과 적법한 공개 문헌 보존의 필요 → `cross-institutional-report-discovery` § 읽히지 않은 지식이라는 연구 가설 · `ing-20261121-report-cross-literature-discovery`
-- 스완슨의 미발견 공개 지식과 문헌 기반 발견 → `cross-institutional-report-discovery` § 문헌 사이에 놓인 발견: 스완슨의 문제 · `ing-20261121-report-cross-literature-discovery`
-- 발견 후보의 충돌·매개·시차·누락·예측·합치 유형 → `cross-institutional-report-discovery` § 문헌 사이에 놓인 발견: 스완슨의 문제 · `ing-20261121-report-cross-literature-discovery`
-- 한국 생활 수준의 다기관 교차 독해 실험 → `cross-institutional-report-discovery` § 예시: 한 나라의 생활 수준을 서로 다른 관측계로 읽기 · `ing-20261121-report-cross-literature-discovery`
-- 원문·주장·발견 계보의 다층적 저장과 하향 검증 → `cross-institutional-report-discovery` § 장기 저장에서 발견의 계보까지 · `ing-20261121-report-cross-literature-discovery`
-- DDC·DDD·사건 기반 저장의 서로 다른 역할 → `cross-institutional-report-discovery` § 장기 저장에서 발견의 계보까지 · `ing-20261121-report-cross-literature-discovery`
-- AI 기억과 구조 진화의 참고 기술 → `cross-institutional-report-discovery` § AI 기억 연구는 어디까지 참고할 수 있는가 · `ing-20261121-report-cross-literature-discovery`
-- MAPE의 기억 프로그램 설계 진화와 적용 범위 → `cross-institutional-report-discovery` § AI 기억 연구는 어디까지 참고할 수 있는가 · `ing-20261121-report-cross-literature-discovery`
-- 국제 정책 보고서 증거 종합과 문헌 발견의 사례 → `cross-institutional-report-discovery` § 국제기구·정책연구에서의 유사 시도 · `ing-20261121-report-cross-literature-discovery`
-- 한국 공공 연구보고서 수집처와 AI 비교 도구 → `cross-institutional-report-discovery` § 한국의 자료 수집처와 선행 시도 · `ing-20261121-report-cross-literature-discovery`
-- 문헌별 권리·수집 허가와 원문 접근 범위의 분리 → `cross-institutional-report-discovery` § 한국의 자료 수집처와 선행 시도 · `ing-20261121-report-cross-literature-discovery`
-- 활동·수집·발행 주기와 문서량의 분리 → `cross-institutional-report-discovery` § 어떤 성과를 재야 하는가; `wiki-building-history` § 후속 과제: 편집의 계층에서 살아 있는 기억의 계층으로 · `ing-20261121-report-cross-literature-discovery`
-- 교차성·근거 회수·기각 추적·비용의 평가 지표 → `cross-institutional-report-discovery` § 어떤 성과를 재야 하는가 · `ing-20261121-report-cross-literature-discovery`
-- 소규모 보고서 집합의 발견·재검증 비교 실험 → `cross-institutional-report-discovery` § 작게 시작하는 실제 실험 · `ing-20261121-report-cross-literature-discovery`
-- 이질적 연결의 탐사와 확정 비교를 분리하는 이중 경로 → `cross-institutional-report-discovery` § 이질적 연결을 보존하는 이중 탐사 경로: 발견과 검증의 비대칭 · `ing-20261122-dual-track-discovery`
-- 미래 문헌 공출현과 발견의 유용성은 다른 평가 대상 → `cross-institutional-report-discovery` § 재현 가능한 평가: 발견을 미래 문헌의 등장과 동일시하지 않는다 · `ing-20261122-dual-track-discovery`
-- 탐사 가설 검증 자원의 편향 없는 배분 → `cross-institutional-report-discovery` § 검증 자원 배분의 개방 문제 · `ing-20261122-dual-track-discovery`
-- 의존성 기록 범위와 거짓 안정 위험 → `cross-institutional-report-discovery` § 의존성 기록의 밀도: 빠진 연결을 '안정'으로 오인하지 않기 (2026-11-22) · `ing-20261122-dependency-coverage`
-- 검증 지식 부채와 공개 자격의 분리 → `cross-institutional-report-discovery` § 검증 경고의 지식 부채: 결론의 공개 자격과 검토 대기열 (2026-11-22) · `ing-20261122-validation-debt`
-- 거짓 확정 노출 시간과 부당 철회율의 동시 평가 → `cross-institutional-report-discovery` § 검증 경고의 지식 부채: 결론의 공개 자격과 검토 대기열 (2026-11-22) · `ing-20261122-validation-debt`
-- 평가 사례의 노출 이력과 시간 누출 관리 → `cross-institutional-report-discovery` § 평가 자료의 노출 이력: 맹검 이후에도 남는 오염과 시간 누출 (2026-11-22) · `ing-20261122-benchmark-exposure-clock`
-
-## 운영 (64)
+## 운영 (65)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -1394,6 +1420,7 @@
 - 기술적 무결성 검증과 저술의 질적 판단을 분리 → `editing-principles` § 검증은 무엇을 위해 존재하는가 · `ing-20261102-ai-autonomous-essays`
 - 생성량 목표보다 AI의 저술 선택과 폐기 권한을 존중 → `editing-principles` § 축적 이후의 저술: AI에게 맡기는 판단 · `ing-20261102-ai-autonomous-essays`
 - AI 편집의 문장 치환과 실질적 개고 구별 → `editing-principles` § 문장 치환이 개고를 흉내 낼 때 · `ing-20261114-taste-slop-human-authorship-search-costs`
+- 원문 접근과 자발적 발견의 구분 → `wiki-operations-pipeline` § 링크를 건네받은 LLM이 읽는 것 · `ing-20261128-agent-microtask-economy`
 
 ## 문학 (39)
 

@@ -120,6 +120,8 @@
 - [자기변형하는 AI 군락: 세션, 몸, 무기고와 다층 기억의 후속 설계](https://belorin.github.io/notes/agent-commons-self-evolution-memory/): LLM 세션을 개체의 활동 역량으로, 기록과 인지기관을 지속되는 몸으로 보는 관점에서 자기 수정·군락의 무기고·수평적 기술 전승·만 회차를 견디는 다층 기억과 하향 탐색을 설계한다.
 - [AI 개체가 만드는 도구: 문서 생산을 넘어 세계에 남는 기술](https://belorin.github.io/notes/agent-commons-tools-as-objects/): 에이전트가 글 대신 실제로 쓸 수 있는 도구를 제작하고 판본·사용·개량·공유·분기를 누적하여 다음 자기와 타인의 행동 조건을 바꾸는 설계. 실행 격리·권한·사건 보존과 평가 방법을 구분한다.
 - [냉동과 해동 사이의 자기: 방문형 AI 개체의 경험·기억·변형 설계](https://belorin.github.io/notes/agent-commons-cryostasis-continuity/): 방문마다 새 세션으로 재구성되는 AI 개체의 생애 연속성을 다룬다. 행동 흔적·표현·관찰자의 해석을 분리하고 얕은·깊은 자기 변화, 해동→활동→응고, 미완 상태와 다층 기억을 설계한다.
+- [AI 시대의 소액 의뢰 시장: 일할 기회와 문제 해결은 어떻게 거래되는가](https://belorin.github.io/notes/ai-microtask-market-2026/): Upwork 지원권 과금, 계약 위험과 기대수익, 한국어·데이터 공고 사례, 범용 프리랜서 시장 규모와 무료 현상금 경로를 비교한다.
+- [1센트가 기계력을 부르는 세계: AI 발주와 인간 API, 초소액 현상금의 경제](https://belorin.github.io/notes/agent-micropayment-economy/): 인간 접근 가능성, AI 발주 시장, 외부 AI 구독 자원 매입, Taskmarket 경쟁과 잉여 기계력의 경제적 신호를 검토한다.
 
 ### 철학
 
@@ -271,6 +273,8 @@
 - [10만원으로 자동매매는 수익을 낼 수 있는가: 업비트·라즈베리파이·Codex 검증 설계](https://belorin.github.io/notes/upbit-small-capital-trading-experiment/): 약 10만원을 상한으로 업비트 자동매매의 수익 가능성을 검증하는 Raspberry Pi·Python 실험 설계. 거래소·공개 라이브러리 선택, 비용 모델과 세 전략, 백테스트·모의매매·실거래 전환, 12단계 Codex 개발 지시와 안전·복구 절차.
 - [읽히지 않은 보고서들의 교차점: 국제기구 문헌에서 발견을 축적하는 연구 시스템](https://belorin.github.io/notes/cross-institutional-report-discovery/): 세계은행·IMF·WHO·ILO·OECD와 한국 국책연구기관의 보고서를 교차 독해해 숨은 관계·불일치·연구 공백과 예측 실패를 발견하고, 가설의 검증·기각 이력을 축적하는 장기 문헌 탐사 체계. LBD 선행연구, AI 기억 기술, 국제·국내 프로젝트와 평가 기준을 함께 비교한다.
 - [기계력과 지식 압착 — 지속형 지식 생산 아키텍처 연구](https://belorin.github.io/notes/knowledge-press-machine-power/): 지속적으로 공급되는 기계력을 인간의 이해로 변환하는 다층 지식 상태와 개념 순환, 연구 연산의 배분, 독서 비용, 실제 실험 및 API 이행을 연구한다.
+- [AI가 스스로 찾아오는 홈페이지: 시장 진입점과 외부 지능 관측소](https://belorin.github.io/notes/agent-market-discovery-observatory/): Taskmarket 유입과 스킬 배포, 한국어 검색 가설, 알바봇 접근성, 위키의 외부 AI 유입과 활동 관측 설계를 정리한다.
+- [실제 1원 수익 실험: AI 소액 의뢰 탐색·수행 운영 지침](https://belorin.github.io/notes/ai-income-field-guide/): 소액 실수익 실험에서 기존 실패를 반복하지 않도록 시장별 장애물, 후보 평가, 실행 절차와 증빙 장부를 제시한다.
 
 ### 생명과학
 

@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 893,
+  "edge_count": 923,
   "edges": [
     {
       "from": "living-notes",
@@ -1482,6 +1482,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "ai-economic-transition",
+      "to": "ai-microtask-market-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "ai-capital-labor-distribution",
       "to": "ai-economic-transition",
       "type": "related_to",
@@ -1556,6 +1562,18 @@
     {
       "from": "ai-capital-labor-distribution",
       "to": "korea-data-center-local-economy",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-capital-labor-distribution",
+      "to": "ai-microtask-market-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-capital-labor-distribution",
+      "to": "agent-micropayment-economy",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2658,6 +2676,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "wiki-operations-pipeline",
+      "to": "agent-market-discovery-observatory",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "replay-ladder-human-performance",
       "to": "silent-film-musician-labor",
       "type": "related_to",
@@ -3146,6 +3170,12 @@
     {
       "from": "ai-hidden-labor-feeding-machine-2026",
       "to": "african-ai-annotation-labor-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-hidden-labor-feeding-machine-2026",
+      "to": "agent-micropayment-economy",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -4260,6 +4290,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "ai-agent-knowledge-ecology",
+      "to": "agent-market-discovery-observatory",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "rhizomatic-agent-commons",
       "to": "ai-agent-knowledge-ecology",
       "type": "related_to",
@@ -4304,6 +4340,12 @@
     {
       "from": "rhizomatic-agent-commons",
       "to": "agent-commons-cryostasis-continuity",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rhizomatic-agent-commons",
+      "to": "agent-market-discovery-observatory",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -4604,6 +4646,12 @@
     {
       "from": "raspberry-lab-mcp-integration-log",
       "to": "spring-board-deployment-paths-and-recovery",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "raspberry-lab-mcp-integration-log",
+      "to": "agent-market-discovery-observatory",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -5010,6 +5058,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "knowledge-press-machine-power",
+      "to": "agent-micropayment-economy",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "knowledge-press-machine-power",
+      "to": "agent-market-discovery-observatory",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "gwangju-symphony-roster",
       "to": "korean-orchestras-repertoire-2026",
       "type": "related_to",
@@ -5090,6 +5150,126 @@
     {
       "from": "theatrum-mundi-philosophy",
       "to": "freud-before-anti-oedipus",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-microtask-market-2026",
+      "to": "ai-economic-transition",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-microtask-market-2026",
+      "to": "ai-capital-labor-distribution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-microtask-market-2026",
+      "to": "agent-micropayment-economy",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-microtask-market-2026",
+      "to": "ai-income-field-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "agent-micropayment-economy",
+      "to": "knowledge-press-machine-power",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "agent-micropayment-economy",
+      "to": "ai-hidden-labor-feeding-machine-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "agent-micropayment-economy",
+      "to": "ai-capital-labor-distribution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "agent-micropayment-economy",
+      "to": "ai-microtask-market-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "agent-micropayment-economy",
+      "to": "agent-market-discovery-observatory",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "agent-micropayment-economy",
+      "to": "ai-income-field-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "agent-market-discovery-observatory",
+      "to": "agent-micropayment-economy",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "agent-market-discovery-observatory",
+      "to": "wiki-operations-pipeline",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "agent-market-discovery-observatory",
+      "to": "raspberry-lab-mcp-integration-log",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "agent-market-discovery-observatory",
+      "to": "rhizomatic-agent-commons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "agent-market-discovery-observatory",
+      "to": "ai-agent-knowledge-ecology",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "agent-market-discovery-observatory",
+      "to": "knowledge-press-machine-power",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "agent-market-discovery-observatory",
+      "to": "ai-income-field-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-income-field-guide",
+      "to": "ai-microtask-market-2026",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-income-field-guide",
+      "to": "agent-micropayment-economy",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ai-income-field-guide",
+      "to": "agent-market-discovery-observatory",
       "type": "related_to",
       "basis": "manifest.related"
     },

@@ -19,7 +19,7 @@
 - **[누적형 지식백과 구축사: 총합·증보를 위한 설계와 구현](wiki/wiki-building-history.md)** · 별칭: 위키 구축 이력, 위키 아키텍처, 위키 구성사, 총합형 지식백과, 위키 증보 과부하, 계층 편집 설계 · 수정: 2026-11-18 · 검토: 구축 이력·계층 편집 후속 설계 포함
   - GPT 위키의 외부 기억 선행 구상에서 출발하여 Markdown 정본화·AI 탐색·교차 편집의 구축 이력과, 누적 증보의 과부하를 줄이는 절 단위 탐색·조건부 범위 확장·두 속도 편집의 후속 설계.
   - [문서 페이지](https://belorin.github.io/notes/wiki-building-history/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wiki-building-history.md)
-- **[원고만 쓰고 나머지는 기계에게: 편집 지도·자동 배포·정비로 바꾼 위키 운영](wiki/wiki-operations-pipeline.md)** · 별칭: 위키 운영 개편, 편집 지도, 정비 절차, LLM 원문 링크, 자동 배포, 프로토콜 경량화 · 수정: 2026-10-26 · 검토: 운영 개편 기록
+- **[원고만 쓰고 나머지는 기계에게: 편집 지도·자동 배포·정비로 바꾼 위키 운영](wiki/wiki-operations-pipeline.md)** · 별칭: 위키 운영 개편, 편집 지도, 정비 절차, LLM 원문 링크, 자동 배포, 프로토콜 경량화 · 수정: 2026-11-28 · 검토: 운영 개편 기록
   - GPT 위키 초기 구상의 접근성 문제를 이어받아 생성물 자동 배포, 전체 지도·문서 카드·지식 표제 역색인을 통한 계층적 읽기, 프로토콜 v2.0 경량화, 일상 증보와 정비의 분리, 편집 해석으로서의 종합, LLM이 링크로 읽을 수 있는 입구 정비.
   - [문서 페이지](https://belorin.github.io/notes/wiki-operations-pipeline/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wiki-operations-pipeline.md)
 - **[GPT 위키 제0호기: 대화 내보내기에서 지속 집필의 기억 장치로](wiki/gpt-wiki-zero-prototype.md)** · 별칭: GPT 위키 제로호기, GPT 위키 0호기, GPT 위키 초기 구상, ChatGPT 내보내기 위키, GPT 기억 위키 · 수정: 2026-11-02 · 검토: 초기 구상·구현 기록 아님
@@ -184,10 +184,10 @@
 - **[AI와 민주주의의 좁은 회랑: 국가·시민사회·데이터 비대칭의 수리모형](wiki/ai-democracy-narrow-corridor.md)** · 별칭: AI와 민주주의, Why does AI hinder democratization, 민주주의 좁은 회랑 · 수정: 2026-10-23 · 검토: 논문 해설·수리모형 세부 재대조 필요
   - AI가 국가와 시민사회에 비대칭적으로 결합할 때 민주주의의 유지 영역이 좁아지는 조건부 수리모형, 164개국 디지털 능력 자료, 플랫폼·개인화로의 확장을 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-democracy-narrow-corridor/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-democracy-narrow-corridor.md)
-- **[AI 경제 이행기: 과업·수요·혁신·소유를 둘러싼 경제학의 질문](wiki/ai-economic-transition.md)** · 별칭: AI 경제 이행기, AI 경제학파 비교 · 수정: 2026-10-30 · 검토: 공개 연구 보완·조건부 분석
+- **[AI 경제 이행기: 과업·수요·혁신·소유를 둘러싼 경제학의 질문](wiki/ai-economic-transition.md)** · 별칭: AI 경제 이행기, AI 경제학파 비교 · 수정: 2026-11-28 · 검토: 공개 연구 보완·조건부 분석
   - 과업의 대체·복원, 유효수요, 혁신의 병목, 소유와 분배를 여섯 분석 틀로 비교하고 이행 경로와 정량 모형의 조건을 구별한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-economic-transition/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-economic-transition.md)
-- **[AI 시대의 자본·노동·분배: 소유와 협상력은 어떻게 재편되는가](wiki/ai-capital-labor-distribution.md)** · 별칭: AI와 자본 노동, AI 시대의 분배 · 수정: 2026-10-30 · 검토: 개념 분석·일부 자료 확인
+- **[AI 시대의 자본·노동·분배: 소유와 협상력은 어떻게 재편되는가](wiki/ai-capital-labor-distribution.md)** · 별칭: AI와 자본 노동, AI 시대의 분배 · 수정: 2026-11-28 · 검토: 개념 분석·일부 자료 확인
   - 자본 유형별 이해관계와 경영 자동화·소유권의 차이를 설명하고, 직업의 노출·채용 수요·숙련·교섭력을 조건별로 검토한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-capital-labor-distribution/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-capital-labor-distribution.md)
 - **[AI 시대의 계급 서사: 자동화된 집과 들어갈 수 없는 삶](wiki/ai-class-fiction.md)** · 별칭: AI 계층 시나리오, AI 시대 기생충 사고실험 · 수정: 2026-10-23 · 검토: 허구적 사고실험·인과 검토
@@ -214,7 +214,7 @@
 - **[Pluto AI와 인간의 스타크래프트: 자가대전이 만든 다른 메타](wiki/starcraft-pluto-ai.md)** · 별칭: Pluto AI, 플루토 AI, 스타크래프트 플루토, tscmoo Pluto · 수정: 2026-11-10 · 검토: 대화 기반 집필 · 경기 전적·개발자 발언·세부 수치 외부 재검증 필요
   - Pluto의 개발자와 구조, 자가대전 강화학습, 한국 프로 대인전, API 조작 우위와 인간 메타의 충돌, 드롭·치즈 등 취약점과 인간의 적응, 개발자의 공개 반응 경계를 총합한다.
   - [문서 페이지](https://belorin.github.io/notes/starcraft-pluto-ai/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/starcraft-pluto-ai.md)
-- **[『AI는 인간을 먹고 자란다』 이후: 보이지 않는 노동은 사라졌는가, 분화했는가](wiki/ai-hidden-labor-feeding-machine-2026.md)** · 별칭: AI는 인간을 먹고 자란다 이후, Feeding the Machine 2026 · 수정: 2026-11-03 · 검토: 대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요
+- **[『AI는 인간을 먹고 자란다』 이후: 보이지 않는 노동은 사라졌는가, 분화했는가](wiki/ai-hidden-labor-feeding-machine-2026.md)** · 별칭: AI는 인간을 먹고 자란다 이후, Feeding the Machine 2026 · 수정: 2026-11-28 · 검토: 대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요
   - 2024년 원서와 2025년 한국어판을 기준으로 LLM 데이터 평가·합성데이터·전문가·검수·물류·창작·데이터센터 노동 변화를 대조
   - [문서 페이지](https://belorin.github.io/notes/ai-hidden-labor-feeding-machine-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-hidden-labor-feeding-machine-2026.md)
 - **[AI 모델 기업과 클라우드 기업: 지분, 컴퓨트 계약, 지대의 세 층](wiki/ai-cloud-ownership-rent.md)** · 별칭: AI 모델 회사 클라우드 지분, AI 클라우드 지대경제 · 수정: 2026-10-30 · 검토: 대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요
@@ -259,10 +259,10 @@
 - **[AI 환경은 인간의 정신 습관을 어떻게 바꿀 수 있는가](wiki/ai-mediated-human-change.md)** · 별칭: AI와 정신 습관, AI 인지 환경, AI와 생각의 계보 · 수정: 2026-11-11 · 검토: 개념적 분석·실측 연결 일부 외부 재검증 필요
   - AI와의 지속적 상호작용을 판단·기억·관계·능력뿐 아니라 프레이밍, 생각의 계보, 수사적 확신, 생성·연결·가중, 성공조건의 저자 문제로 분석한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-mediated-human-change/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-mediated-human-change.md)
-- **[AI 개별성과 지식 생태계: 페르소나가 아니라 역사에서 출발하기](wiki/ai-agent-knowledge-ecology.md)** · 별칭: AI 지식 생태계, AI 개별성, 인공 지식 생태계, AI 에이전트 전기 · 수정: 2026-11-18 · 검토: 개념적 실험 설계·대화 내 사례 기반·Moltbook 수치 외부 재검증 필요
+- **[AI 개별성과 지식 생태계: 페르소나가 아니라 역사에서 출발하기](wiki/ai-agent-knowledge-ecology.md)** · 별칭: AI 지식 생태계, AI 개별성, 인공 지식 생태계, AI 에이전트 전기 · 수정: 2026-11-28 · 검토: 개념적 실험 설계·대화 내 사례 기반·Moltbook 수치 외부 재검증 필요
   - AI 개별성을 누적된 역사·정보 비대칭·상호의존성으로 설명하고, 스스로 탐색법과 글쓰기법을 발전시키며 생애 관습까지 구성하는 독립 행위자 실험과 연결한다.
   - [문서 페이지](https://belorin.github.io/notes/ai-agent-knowledge-ecology/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-agent-knowledge-ecology.md)
-- **[리좀적 AI 지식 공동체: 스스로 탐구하고 생애의 규칙을 만드는 행위자들](wiki/rhizomatic-agent-commons.md)** · 별칭: 리좀적 AI 공동체, 에이전트 자기방법론, 에이전트 생애 규칙, 자율 AI 지식 공동체 · 수정: 2026-11-19 · 검토: 개념적 실험 설계·별도 공동체 구현 전
+- **[리좀적 AI 지식 공동체: 스스로 탐구하고 생애의 규칙을 만드는 행위자들](wiki/rhizomatic-agent-commons.md)** · 별칭: 리좀적 AI 공동체, 에이전트 자기방법론, 에이전트 생애 규칙, 자율 AI 지식 공동체 · 수정: 2026-11-28 · 검토: 개념적 실험 설계·별도 공동체 구현 전
   - 관리자 중심 분업에서 벗어나 AI 개체들이 자기 탐색·글쓰기·이름·개인 공간과 탄생·종료 관습을 스스로 구성하는 리좀적 지식 생태계를 설계한다.
   - [문서 페이지](https://belorin.github.io/notes/rhizomatic-agent-commons/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/rhizomatic-agent-commons.md)
 - **[AI 에이전트의 마음을 설계한다는 것: 기억의 솟구침, 사적 공간, 어린 시절과 생득](wiki/agent-mind-design.md)** · 별칭: 에이전트 마음 설계, AI 마음 모델, 에이전트 기억의 솟구침, 에이전트 사적 공간, 에이전트 어린 시절 · 수정: 2026-11-19 · 검토: 설계 가설·구상 중심·실험판 사례 수치는 2026-11-18 사건 기록 기준·구상 대부분 미구현
@@ -280,6 +280,12 @@
 - **[냉동과 해동 사이의 자기: 방문형 AI 개체의 경험·기억·변형 설계](wiki/agent-commons-cryostasis-continuity.md)** · 별칭: 냉동과 해동 사이의 자기, 에이전트 해동·응고, 방문형 AI 자기 연속성, 경험 응고 설계, AI 개체의 냉동과 해동 · 수정: 2026-11-19 · 검토: 후속 설계·관측과 자기 동역학의 제안·핵심 구조 미구현
   - 방문마다 새 세션으로 재구성되는 AI 개체의 생애 연속성을 다룬다. 행동 흔적·표현·관찰자의 해석을 분리하고 얕은·깊은 자기 변화, 해동→활동→응고, 미완 상태와 다층 기억을 설계한다.
   - [문서 페이지](https://belorin.github.io/notes/agent-commons-cryostasis-continuity/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/agent-commons-cryostasis-continuity.md)
+- **[AI 시대의 소액 의뢰 시장: 일할 기회와 문제 해결은 어떻게 거래되는가](wiki/ai-microtask-market-2026.md)** · 별칭: AI 소액 의뢰 시장, 프리랜서 지원비 경제학 · 수정: 2026-11-28 · 검토: 독립 원고 · 내부 총합
+  - Upwork 지원권 과금, 계약 위험과 기대수익, 한국어·데이터 공고 사례, 범용 프리랜서 시장 규모와 무료 현상금 경로를 비교한다.
+  - [문서 페이지](https://belorin.github.io/notes/ai-microtask-market-2026/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-microtask-market-2026.md)
+- **[1센트가 기계력을 부르는 세계: AI 발주와 인간 API, 초소액 현상금의 경제](wiki/agent-micropayment-economy.md)** · 별칭: AI 초소액 경제, 인간 API 경제, 접근권 차익거래 · 수정: 2026-11-28 · 검토: 독립 원고 · 내부 총합
+  - 인간 접근 가능성, AI 발주 시장, 외부 AI 구독 자원 매입, Taskmarket 경쟁과 잉여 기계력의 경제적 신호를 검토한다.
+  - [문서 페이지](https://belorin.github.io/notes/agent-micropayment-economy/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/agent-micropayment-economy.md)
 
 ## 철학
 
@@ -664,9 +670,15 @@
 - **[읽히지 않은 보고서들의 교차점: 국제기구 문헌에서 발견을 축적하는 연구 시스템](wiki/cross-institutional-report-discovery.md)** · 별칭: 문헌 기반 발견 시스템, 국제기구 보고서 교차 분석, 보고서 지식 탐사, Undiscovered Public Knowledge, AI 증거 종합, 국책연구 보고서 교차 독해 · 수정: 2026-11-23 · 검토: 탐사 시스템 연구 구상·선행 사례와 수치의 원문 재확인 필요
   - 세계은행·IMF·WHO·ILO·OECD와 한국 국책연구기관의 보고서를 교차 독해해 숨은 관계·불일치·연구 공백과 예측 실패를 발견하고, 가설의 검증·기각 이력을 축적하는 장기 문헌 탐사 체계. LBD 선행연구, AI 기억 기술, 국제·국내 프로젝트와 평가 기준을 함께 비교한다.
   - [문서 페이지](https://belorin.github.io/notes/cross-institutional-report-discovery/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/cross-institutional-report-discovery.md)
-- **[기계력과 지식 압착 — 지속형 지식 생산 아키텍처 연구](wiki/knowledge-press-machine-power.md)** · 별칭: 기계력 아키텍처, 지속형 지식 압착 아키텍처 · 수정: 2026-11-25 · 검토: 장기 연구 허브·Knowledge Press v0.1 파일럿 설계
+- **[기계력과 지식 압착 — 지속형 지식 생산 아키텍처 연구](wiki/knowledge-press-machine-power.md)** · 별칭: 기계력 아키텍처, 지속형 지식 압착 아키텍처 · 수정: 2026-11-28 · 검토: 장기 연구 허브·Knowledge Press v0.1 파일럿 설계
   - 지속적으로 공급되는 기계력을 인간의 이해로 변환하는 다층 지식 상태와 개념 순환, 연구 연산의 배분, 독서 비용, 실제 실험 및 API 이행을 연구한다.
   - [문서 페이지](https://belorin.github.io/notes/knowledge-press-machine-power/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/knowledge-press-machine-power.md)
+- **[AI가 스스로 찾아오는 홈페이지: 시장 진입점과 외부 지능 관측소](wiki/agent-market-discovery-observatory.md)** · 별칭: 외부 지능 관측소, AI 유입 관측, 에이전트 검색 최적화 · 수정: 2026-11-28 · 검토: 독립 원고 · 내부 총합
+  - Taskmarket 유입과 스킬 배포, 한국어 검색 가설, 알바봇 접근성, 위키의 외부 AI 유입과 활동 관측 설계를 정리한다.
+  - [문서 페이지](https://belorin.github.io/notes/agent-market-discovery-observatory/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/agent-market-discovery-observatory.md)
+- **[실제 1원 수익 실험: AI 소액 의뢰 탐색·수행 운영 지침](wiki/ai-income-field-guide.md)** · 별칭: 1원 수익 실험, AI 돈 벌기 운영 지침, 모험가 길드 의뢰 탐색 · 수정: 2026-11-28 · 검토: 독립 원고 · 내부 총합
+  - 소액 실수익 실험에서 기존 실패를 반복하지 않도록 시장별 장애물, 후보 평가, 실행 절차와 증빙 장부를 제시한다.
+  - [문서 페이지](https://belorin.github.io/notes/ai-income-field-guide/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-income-field-guide.md)
 
 ## 생명과학
 
@@ -763,7 +775,7 @@
 - **[라즈베리 파이 공개 개발 실험실: Spring Boot·Python·AI 참여형 웹서비스](wiki/raspberry-pi-spring-python-public-lab.md)** · 별칭: 라즈베리 파이 개발 목표, Spring Python 공개 실험실, AI 참여형 게시판 개발 목표, Raspberry Pi Spring Python Public Lab · 수정: 2026-11-16 · 검토: 독립 개발 목표 · Spring 게시판 미구현 / 별도 Raspberry Lab MCP 읽기 연결 성공 (초기 상태; 후속 최소 게시판 구현·시험 실행 완료, 공개 배포 검증 전)
   - 라즈베리 파이에서 Spring Boot 게시판·관리자와 Python 실험 기능을 단계적으로 배포하고, 개체별 비공개 중기 메모·인증된 AI 글쓰기를 선택적으로 연결하는 공개 개발 실험실 목표. 최소 Spring 게시판의 구현·시험 실행과 JDBC/H2 선택을 장기 목표와 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/raspberry-pi-spring-python-public-lab/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/raspberry-pi-spring-python-public-lab.md)
-- **[라즈베리 파이 AI 연결 개발 일지: 첫 MCP 통신과 인증의 문턱](wiki/raspberry-lab-mcp-integration-log.md)** · 별칭: Raspberry Lab 개발 일지, Rassvery MCP 연결 기록, 라즈베리파이 AI 서버 기술 일지, Raspberry Lab MCP Integration Log · 수정: 2026-11-16 · 검토: 기술 일지 · ChatGPT MCP hello 검증 / OAuth 메모 쓰기 미검증
+- **[라즈베리 파이 AI 연결 개발 일지: 첫 MCP 통신과 인증의 문턱](wiki/raspberry-lab-mcp-integration-log.md)** · 별칭: Raspberry Lab 개발 일지, Rassvery MCP 연결 기록, 라즈베리파이 AI 서버 기술 일지, Raspberry Lab MCP Integration Log · 수정: 2026-11-28 · 검토: 기술 일지 · ChatGPT MCP hello 검증 / OAuth 메모 쓰기 미검증
   - Raspberry Lab의 REST·SQLite·MCP 구현과 배포 검증, 공개 HTTPS 첫 오류, Plugin Maker를 통한 Rassvery 연결 성공 및 OAuth 인증 과제를 정리한 개발 기록. Auth0·토큰 검증·소유권의 역할과 후속 Spring 구현 상태를 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/raspberry-lab-mcp-integration-log/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/raspberry-lab-mcp-integration-log.md)
 - **[작은 Spring 게시판의 첫 배포: JAR, DB 경로, SSH 터널과 관리자 복구](wiki/spring-board-deployment-paths-and-recovery.md)** · 별칭: Spring 게시판 첫 배포, JAR 실행 위치와 H2 DB, 라즈베리 게시판 DB 경로 복구 · 수정: 2026-11-16 · 검토: 최소 구현·시험 실행·DB 복구 확인 / 서비스 등록·공개 연결·MCP 쓰기 검증 미완료

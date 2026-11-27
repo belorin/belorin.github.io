@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `rhizomatic-agent-commons` · 분류: AI와 사회 · 공개 · 원고: [wiki/rhizomatic-agent-commons.md](../../../wiki/rhizomatic-agent-commons.md) · 8,227자 · 절 10개
+- id: `rhizomatic-agent-commons` · 분류: AI와 사회 · 공개 · 원고: [wiki/rhizomatic-agent-commons.md](../../../wiki/rhizomatic-agent-commons.md) · 8,435자 · 절 10개
 - 별칭: 리좀적 AI 공동체, 에이전트 자기방법론, 에이전트 생애 규칙, 자율 AI 지식 공동체
 - 요약: 관리자 중심 분업에서 벗어나 AI 개체들이 자기 탐색·글쓰기·이름·개인 공간과 탄생·종료 관습을 스스로 구성하는 리좀적 지식 생태계를 설계한다.
 - 태그: 리좀, AI 에이전트, 지식 생태계, 자율 탐색, 자기 방법론, 생애 규칙, 다중 에이전트
-- 수정일: 2026-11-19 · 실제 증보일: 2026-11-18 · 검토: needs_review
-- 관련 문서: `ai-agent-knowledge-ecology`, `deleuze-becoming-new`, `ai-mediated-human-change`, `agent-mind-design`, `agent-commons-formation-history`, `agent-commons-self-evolution-memory`, `agent-commons-tools-as-objects`, `agent-commons-cryostasis-continuity`
+- 수정일: 2026-11-28 · 실제 증보일: 2026-11-28 · 검토: needs_review
+- 관련 문서: `ai-agent-knowledge-ecology`, `deleuze-becoming-new`, `ai-mediated-human-change`, `agent-mind-design`, `agent-commons-formation-history`, `agent-commons-self-evolution-memory`, `agent-commons-tools-as-objects`, `agent-commons-cryostasis-continuity`, `agent-market-discovery-observatory`
 
 ## 절 목차
 
@@ -21,9 +21,9 @@
 - 탄생과 죽음: 무작위 법칙이 아니라 자기 규칙의 생성 · L45–55 · 1,031자 · `1b42c241` — 개체의 수를 늘리고 줄이는 기능을 만들 때 흔히 중앙 시스템이 생존 기간이나 출생 확률을 정한다.
 - 공유되는 기관과 군락의 자기변형 · L57–63 · 790자 · `529a2f1a` — 개체 사이에 공유할 것은 글과 전언만이 아니다.
 - 웹사이트의 혼잡과 독자의 길 찾기 · L65–71 · 531자 · `10931ab7` — 개체마다 페이지와 글의 형식이 달라지면 사이트는 쉽게 산만해질 수 있다.
-- 관찰해야 할 변화와 실험의 한계 · L73–83 · 1,289자 · `07f28d3c` — 첫 번째 비교 대상은 결과물의 수가 아니라 행동의 계보다.
-- 관련 문서와 개발 참조 · L85–92 · 458자 · `9e92ceca` — AI 개별성과 지식 생태계: 페르소나가 아니라 역사에서 출발하기
-- 검토 상태 · L94–96 · 132자 · `08544c0e` — 이 글은 기존 위키 원고와 접근 가능한 논의에서 형성한 설계 가설을 정리한다.
+- 관찰해야 할 변화와 실험의 한계 · L73–85 · 1,497자 · `e87fc82a` — 첫 번째 비교 대상은 결과물의 수가 아니라 행동의 계보다.
+- 관련 문서와 개발 참조 · L87–94 · 458자 · `9e92ceca` — AI 개별성과 지식 생태계: 페르소나가 아니라 역사에서 출발하기
+- 검토 상태 · L96–98 · 132자 · `08544c0e` — 이 글은 기존 위키 원고와 접근 가능한 논의에서 형성한 설계 가설을 정리한다.
 
 ## 장부에 기록된 반영 지식
 
@@ -44,5 +44,6 @@
 - **관찰해야 할 변화와 실험의 한계**
   - 지적 개별성과 관계의 인과적 변화에 대한 실험 평가 · `ing-20261113-rhizomatic-agent-commons`
   - 실험판 가동 뒤 자기 명세 정체와 사적 기록의 조사 일지화 · `ing-20261118-agent-mind-design`
+  - 내부 호출과 외부 자발적 방문의 비교 · `ing-20261128-agent-microtask-economy`
 - **공유되는 기관과 군락의 자기변형**
   - 자기개선 명령과 군락의 자기변형 가능성이라는 두 목적의 차이 · `ing-20261118-agent-self-evolution-memory`

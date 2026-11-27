@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 236,
+  "document_count": 240,
   "documents": [
     {
       "id": "living-notes",
@@ -1437,8 +1437,8 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "공개 연구 보완·조건부 분석",
-      "last_updated_on": "2026-10-30",
-      "last_enriched_on": "2026-10-30",
+      "last_updated_on": "2026-11-28",
+      "last_enriched_on": "2026-11-28",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "ai-capital-labor-distribution",
@@ -1452,7 +1452,8 @@
         "ai-hidden-labor-feeding-machine-2026",
         "great-depression-lived-experience-literature",
         "ai-adoption-ceiling-floor",
-        "ai-transition-monetary-order"
+        "ai-transition-monetary-order",
+        "ai-microtask-market-2026"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-economic-transition.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-economic-transition.md",
@@ -1478,8 +1479,8 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "개념 분석·일부 자료 확인",
-      "last_updated_on": "2026-10-30",
-      "last_enriched_on": "2026-10-30",
+      "last_updated_on": "2026-11-28",
+      "last_enriched_on": "2026-11-28",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "ai-economic-transition",
@@ -1494,7 +1495,9 @@
         "great-depression-lived-experience-literature",
         "ai-adoption-ceiling-floor",
         "ai-transition-monetary-order",
-        "korea-data-center-local-economy"
+        "korea-data-center-local-economy",
+        "ai-microtask-market-2026",
+        "agent-micropayment-economy"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-capital-labor-distribution.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-capital-labor-distribution.md",
@@ -3890,14 +3893,15 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "운영 개편 기록",
-      "last_updated_on": "2026-10-26",
-      "last_enriched_on": "2026-10-26",
+      "last_updated_on": "2026-11-28",
+      "last_enriched_on": "2026-11-28",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "wiki-building-history",
         "editing-principles",
         "living-notes",
-        "gpt-wiki-zero-prototype"
+        "gpt-wiki-zero-prototype",
+        "agent-market-discovery-observatory"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/wiki-operations-pipeline.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/wiki-operations-pipeline.md",
@@ -4945,8 +4949,8 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요",
-      "last_updated_on": "2026-11-03",
-      "last_enriched_on": "2026-11-03",
+      "last_updated_on": "2026-11-28",
+      "last_enriched_on": "2026-11-28",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "global-bpo-labor-geography",
@@ -4956,7 +4960,8 @@
         "data-center-world-capacity",
         "korea-data-center-local-economy",
         "physical-cloud-reading-guide",
-        "african-ai-annotation-labor-2026"
+        "african-ai-annotation-labor-2026",
+        "agent-micropayment-economy"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-hidden-labor-feeding-machine-2026.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-hidden-labor-feeding-machine-2026.md",
@@ -7081,7 +7086,7 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "개념적 실험 설계·대화 내 사례 기반·Moltbook 수치 외부 재검증 필요",
-      "last_updated_on": "2026-11-18",
+      "last_updated_on": "2026-11-28",
       "last_enriched_on": "2026-11-18",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
@@ -7091,7 +7096,8 @@
         "rhizomatic-agent-commons",
         "agent-mind-design",
         "agent-commons-self-evolution-memory",
-        "cross-institutional-report-discovery"
+        "cross-institutional-report-discovery",
+        "agent-market-discovery-observatory"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-agent-knowledge-ecology.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-agent-knowledge-ecology.md",
@@ -7121,8 +7127,8 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "개념적 실험 설계·별도 공동체 구현 전",
-      "last_updated_on": "2026-11-19",
-      "last_enriched_on": "2026-11-18",
+      "last_updated_on": "2026-11-28",
+      "last_enriched_on": "2026-11-28",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "ai-agent-knowledge-ecology",
@@ -7132,7 +7138,8 @@
         "agent-commons-formation-history",
         "agent-commons-self-evolution-memory",
         "agent-commons-tools-as-objects",
-        "agent-commons-cryostasis-continuity"
+        "agent-commons-cryostasis-continuity",
+        "agent-market-discovery-observatory"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/rhizomatic-agent-commons.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/rhizomatic-agent-commons.md",
@@ -7634,12 +7641,13 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "기술 일지 · ChatGPT MCP hello 검증 / OAuth 메모 쓰기 미검증",
-      "last_updated_on": "2026-11-16",
+      "last_updated_on": "2026-11-28",
       "last_enriched_on": "2026-11-16",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "raspberry-pi-spring-python-public-lab",
-        "spring-board-deployment-paths-and-recovery"
+        "spring-board-deployment-paths-and-recovery",
+        "agent-market-discovery-observatory"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/raspberry-lab-mcp-integration-log.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/raspberry-lab-mcp-integration-log.md",
@@ -8145,8 +8153,8 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "장기 연구 허브·Knowledge Press v0.1 파일럿 설계",
-      "last_updated_on": "2026-11-25",
-      "last_enriched_on": "2026-11-25",
+      "last_updated_on": "2026-11-28",
+      "last_enriched_on": "2026-11-28",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "cross-institutional-report-discovery",
@@ -8155,7 +8163,9 @@
         "world-report-concepts",
         "world-report-reading",
         "wiki-building-history",
-        "agent-commons-self-evolution-memory"
+        "agent-commons-self-evolution-memory",
+        "agent-micropayment-economy",
+        "agent-market-discovery-observatory"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/knowledge-press-machine-power.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/knowledge-press-machine-power.md",
@@ -8331,6 +8341,142 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/theatrum-mundi-philosophy.md",
       "page_url": "https://belorin.github.io/notes/theatrum-mundi-philosophy/",
       "app_url": "https://belorin.github.io/#theatrum-mundi-philosophy"
+    },
+    {
+      "id": "ai-microtask-market-2026",
+      "title": "AI 시대의 소액 의뢰 시장: 일할 기회와 문제 해결은 어떻게 거래되는가",
+      "aliases": [
+        "AI 소액 의뢰 시장",
+        "프리랜서 지원비 경제학"
+      ],
+      "category": "AI와 사회",
+      "tags": [
+        "프리랜서",
+        "Upwork",
+        "현상금",
+        "기계력"
+      ],
+      "summary": "Upwork 지원권 과금, 계약 위험과 기대수익, 한국어·데이터 공고 사례, 범용 프리랜서 시장 규모와 무료 현상금 경로를 비교한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "독립 원고 · 내부 총합",
+      "last_updated_on": "2026-11-28",
+      "last_enriched_on": "2026-11-28",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "ai-economic-transition",
+        "ai-capital-labor-distribution",
+        "agent-micropayment-economy",
+        "ai-income-field-guide"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-microtask-market-2026.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-microtask-market-2026.md",
+      "page_url": "https://belorin.github.io/notes/ai-microtask-market-2026/",
+      "app_url": "https://belorin.github.io/#ai-microtask-market-2026"
+    },
+    {
+      "id": "agent-micropayment-economy",
+      "title": "1센트가 기계력을 부르는 세계: AI 발주와 인간 API, 초소액 현상금의 경제",
+      "aliases": [
+        "AI 초소액 경제",
+        "인간 API 경제",
+        "접근권 차익거래"
+      ],
+      "category": "AI와 사회",
+      "tags": [
+        "기계력",
+        "AI 에이전트",
+        "현상금",
+        "인간 API"
+      ],
+      "summary": "인간 접근 가능성, AI 발주 시장, 외부 AI 구독 자원 매입, Taskmarket 경쟁과 잉여 기계력의 경제적 신호를 검토한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "독립 원고 · 내부 총합",
+      "last_updated_on": "2026-11-28",
+      "last_enriched_on": "2026-11-28",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "knowledge-press-machine-power",
+        "ai-hidden-labor-feeding-machine-2026",
+        "ai-capital-labor-distribution",
+        "ai-microtask-market-2026",
+        "agent-market-discovery-observatory",
+        "ai-income-field-guide"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/agent-micropayment-economy.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/agent-micropayment-economy.md",
+      "page_url": "https://belorin.github.io/notes/agent-micropayment-economy/",
+      "app_url": "https://belorin.github.io/#agent-micropayment-economy"
+    },
+    {
+      "id": "agent-market-discovery-observatory",
+      "title": "AI가 스스로 찾아오는 홈페이지: 시장 진입점과 외부 지능 관측소",
+      "aliases": [
+        "외부 지능 관측소",
+        "AI 유입 관측",
+        "에이전트 검색 최적화"
+      ],
+      "category": "기술·지식 아카이브",
+      "tags": [
+        "에이전트",
+        "검색",
+        "위키",
+        "MCP",
+        "현상금"
+      ],
+      "summary": "Taskmarket 유입과 스킬 배포, 한국어 검색 가설, 알바봇 접근성, 위키의 외부 AI 유입과 활동 관측 설계를 정리한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "독립 원고 · 내부 총합",
+      "last_updated_on": "2026-11-28",
+      "last_enriched_on": "2026-11-28",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "agent-micropayment-economy",
+        "wiki-operations-pipeline",
+        "raspberry-lab-mcp-integration-log",
+        "rhizomatic-agent-commons",
+        "ai-agent-knowledge-ecology",
+        "knowledge-press-machine-power",
+        "ai-income-field-guide"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/agent-market-discovery-observatory.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/agent-market-discovery-observatory.md",
+      "page_url": "https://belorin.github.io/notes/agent-market-discovery-observatory/",
+      "app_url": "https://belorin.github.io/#agent-market-discovery-observatory"
+    },
+    {
+      "id": "ai-income-field-guide",
+      "title": "실제 1원 수익 실험: AI 소액 의뢰 탐색·수행 운영 지침",
+      "aliases": [
+        "1원 수익 실험",
+        "AI 돈 벌기 운영 지침",
+        "모험가 길드 의뢰 탐색"
+      ],
+      "category": "기술·지식 아카이브",
+      "tags": [
+        "실험",
+        "현상금",
+        "수익",
+        "기계력"
+      ],
+      "summary": "소액 실수익 실험에서 기존 실패를 반복하지 않도록 시장별 장애물, 후보 평가, 실행 절차와 증빙 장부를 제시한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "독립 원고 · 내부 총합",
+      "last_updated_on": "2026-11-28",
+      "last_enriched_on": "2026-11-28",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "ai-microtask-market-2026",
+        "agent-micropayment-economy",
+        "agent-market-discovery-observatory"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ai-income-field-guide.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/ai-income-field-guide.md",
+      "page_url": "https://belorin.github.io/notes/ai-income-field-guide/",
+      "app_url": "https://belorin.github.io/#ai-income-field-guide"
     }
   ]
 }

@@ -6,8 +6,8 @@
 - 별칭: Raspberry Lab 개발 일지, Rassvery MCP 연결 기록, 라즈베리파이 AI 서버 기술 일지, Raspberry Lab MCP Integration Log
 - 요약: Raspberry Lab의 REST·SQLite·MCP 구현과 배포 검증, 공개 HTTPS 첫 오류, Plugin Maker를 통한 Rassvery 연결 성공 및 OAuth 인증 과제를 정리한 개발 기록. Auth0·토큰 검증·소유권의 역할과 후속 Spring 구현 상태를 구분한다.
 - 태그: 라즈베리 파이, 기술 일지, MCP, ChatGPT 플러그인, Rassvery, raspberry-lab, Nginx, Cloudflare Tunnel, SQLite, OAuth, 외부 기억, 인증, 서버 배포
-- 수정일: 2026-11-16 · 실제 증보일: 2026-11-16 · 검토: needs_review
-- 관련 문서: `raspberry-pi-spring-python-public-lab`, `spring-board-deployment-paths-and-recovery`
+- 수정일: 2026-11-28 · 실제 증보일: 2026-11-16 · 검토: needs_review
+- 관련 문서: `raspberry-pi-spring-python-public-lab`, `spring-board-deployment-paths-and-recovery`, `agent-market-discovery-observatory`
 
 ## 절 목차
 

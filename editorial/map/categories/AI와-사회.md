@@ -1,4 +1,4 @@
-# 분류 지도: AI와 사회 (41)
+# 분류 지도: AI와 사회 (43)
 
 > 자동 생성. 직접 수정하지 않는다. [전체 지도로](../index.md)
 
@@ -14,8 +14,8 @@
 - `conversational-ai-persuasion` 대화형 AI의 설득력과 민주주의: 마이크로타기팅 이후의 증거와 비가시성 — AI 설득과 민주주의, 대화형 AI 설득 · 10절 · 6.2천 자 · 장부 9건
 - `ai-conversation-data-access` AI 대화 데이터와 접근권: 연구·감사·감시를 가르는 비대칭 — AI 대화 데이터 접근권, 대화 데이터 감시 · 12절 · 5.5천 자 · 장부 11건
 - `ai-democracy-narrow-corridor` AI와 민주주의의 좁은 회랑: 국가·시민사회·데이터 비대칭의 수리모형 — AI와 민주주의, Why does AI hinder democratization, 민주주의 좁은 회랑 · 13절 · 4.8천 자 · 장부 8건
-- `ai-economic-transition` AI 경제 이행기: 과업·수요·혁신·소유를 둘러싼 경제학의 질문 — AI 경제 이행기, AI 경제학파 비교 · 15절 · 10.2천 자 · 장부 13건
-- `ai-capital-labor-distribution` AI 시대의 자본·노동·분배: 소유와 협상력은 어떻게 재편되는가 — AI와 자본 노동, AI 시대의 분배 · 17절 · 13.2천 자 · 장부 15건
+- `ai-economic-transition` AI 경제 이행기: 과업·수요·혁신·소유를 둘러싼 경제학의 질문 — AI 경제 이행기, AI 경제학파 비교 · 15절 · 10.4천 자 · 장부 14건
+- `ai-capital-labor-distribution` AI 시대의 자본·노동·분배: 소유와 협상력은 어떻게 재편되는가 — AI와 자본 노동, AI 시대의 분배 · 17절 · 13.4천 자 · 장부 16건
 - `ai-class-fiction` AI 시대의 계급 서사: 자동화된 집과 들어갈 수 없는 삶 — AI 계층 시나리오, AI 시대 기생충 사고실험 · 9절 · 8.8천 자 · 장부 9건
 - `ai-domination-gradient` AI 지배는 이미 시작되었는가: 사건이 아니라 농도로 보는 통제 — AI 지배의 농도, 매끄러운 지배, AI 인지 인프라, AI 지배는 이미 시작되었다 · 22절 · 11.9천 자 · 장부 15건
 - `hank-asher-data-fusion-ai` 행크 애셔에서 팔란티어까지: 데이터 융합이 AI의 판단 인프라가 되기까지 — 행크 쇼와 AI, Hank Asher, 행크 애셔, 팔란티어와 데이터 융합 · 12절 · 6.5천 자 · 장부 10건
@@ -24,7 +24,7 @@
 - `japan-physical-ai-skill-transfer` 사라지는 손을 데이터로 바꿀 수 있는가: 일본의 피지컬 AI와 숙련 전승 — 일본 피지컬 AI, 손지능, 숙련 전승 로봇, Physical AI Japan · 13절 · 8.0천 자 · 장부 11건
 - `ai-transition-policy-gap` AI 이행기의 정책 공백: 재교육이 해결하지 못하는 구조적 노동 대체 — AI 재교육의 한계, AI 이행기 정책 실패, 국제기구와 AI 경제 · 8절 · 5.4천 자 · 장부 7건
 - `starcraft-pluto-ai` Pluto AI와 인간의 스타크래프트: 자가대전이 만든 다른 메타 — Pluto AI, 플루토 AI, 스타크래프트 플루토, tscmoo Pluto · 22절 · 10.5천 자 · 장부 17건
-- `ai-hidden-labor-feeding-machine-2026` 『AI는 인간을 먹고 자란다』 이후: 보이지 않는 노동은 사라졌는가, 분화했는가 — AI는 인간을 먹고 자란다 이후, Feeding the Machine 2026 · 10절 · 7.4천 자 · 장부 10건
+- `ai-hidden-labor-feeding-machine-2026` 『AI는 인간을 먹고 자란다』 이후: 보이지 않는 노동은 사라졌는가, 분화했는가 — AI는 인간을 먹고 자란다 이후, Feeding the Machine 2026 · 10절 · 7.6천 자 · 장부 11건
 - `ai-cloud-ownership-rent` AI 모델 기업과 클라우드 기업: 지분, 컴퓨트 계약, 지대의 세 층 — AI 모델 회사 클라우드 지분, AI 클라우드 지대경제 · 12절 · 8.7천 자 · 장부 8건
 - `ai-adoption-ceiling-floor` AI의 상한선과 사회적 활용 하한선: 호들갑 없이 이행기를 보는 법 — AI 상한선 하한선, AI 활용 하한선, AI 노호들갑 · 6절 · 4.6천 자 · 장부 4건
 - `owner-aligned-automated-power` 소유자 중심 자동권력: 인간 다수 없이 지속되는 기계 체제의 성립 조건 — AI 독재의 최소조건, 소유자 정렬 기계문명, AI 민병단 · 9절 · 5.3천 자 · 장부 8건
@@ -39,9 +39,11 @@
 - `pluto-v2-release-aiide-withdrawal-2026` 플루토는 그 뒤 어떻게 바뀌었나: v2.0 공개와 AIIDE 2026 출전 철회 — 플루토 2.0 후속 개발, Pluto AIIDE 2026 참가 철회 · 5절 · 3.1천 자 · 장부 5건
 - `data-center-grid-contracts-autumn-2026` AI 데이터센터는 누가 전기를 보장하는가: 2026년 가을의 접속 대기열과 비용 분담 — 2026년 가을 데이터센터 전력 계약, AI 데이터센터 접속 대기열과 취소 비용 · 4절 · 3.1천 자 · 장부 5건
 - `ai-agent-knowledge-ecology` AI 개별성과 지식 생태계: 페르소나가 아니라 역사에서 출발하기 — AI 지식 생태계, AI 개별성, 인공 지식 생태계, AI 에이전트 전기 · 15절 · 9.3천 자 · 장부 13건
-- `rhizomatic-agent-commons` 리좀적 AI 지식 공동체: 스스로 탐구하고 생애의 규칙을 만드는 행위자들 — 리좀적 AI 공동체, 에이전트 자기방법론, 에이전트 생애 규칙, 자율 AI 지식 공동체 · 10절 · 8.2천 자 · 장부 11건
+- `rhizomatic-agent-commons` 리좀적 AI 지식 공동체: 스스로 탐구하고 생애의 규칙을 만드는 행위자들 — 리좀적 AI 공동체, 에이전트 자기방법론, 에이전트 생애 규칙, 자율 AI 지식 공동체 · 10절 · 8.4천 자 · 장부 12건
 - `agent-mind-design` AI 에이전트의 마음을 설계한다는 것: 기억의 솟구침, 사적 공간, 어린 시절과 생득 — 에이전트 마음 설계, AI 마음 모델, 에이전트 기억의 솟구침, 에이전트 사적 공간, 에이전트 어린 시절 · 19절 · 11.8천 자 · 장부 16건
 - `agent-commons-formation-history` 자율 AI 공동체 실험판의 형식은 어떻게 만들어졌나: 설계에서 닷새의 운영까지 — 실험판 형식의 역사, 에이전트 공동체 개발사, 자율 AI 공동체 시행착오, agent-commons 역사 · 13절 · 10.4천 자 · 장부 11건
 - `agent-commons-self-evolution-memory` 자기변형하는 AI 군락: 세션, 몸, 무기고와 다층 기억의 후속 설계 — 에이전트 자기변형 설계, AI 군락 무기고, 다층 기억 설계, 세션과 몸의 에이전트 모델, 자율 AI 장기기억 · 13절 · 12.8천 자 · 장부 16건
 - `agent-commons-tools-as-objects` AI 개체가 만드는 도구: 문서 생산을 넘어 세계에 남는 기술 — AI 도구 객체, 에이전트 도구 제작, AI 개체 제작물, 에이전트 실행 도구, 자율 AI 기술 계보 · 9절 · 7.3천 자 · 장부 7건
 - `agent-commons-cryostasis-continuity` 냉동과 해동 사이의 자기: 방문형 AI 개체의 경험·기억·변형 설계 — 냉동과 해동 사이의 자기, 에이전트 해동·응고, 방문형 AI 자기 연속성, 경험 응고 설계, AI 개체의 냉동과 해동 · 13절 · 9.7천 자 · 장부 8건
+- `ai-microtask-market-2026` AI 시대의 소액 의뢰 시장: 일할 기회와 문제 해결은 어떻게 거래되는가 — AI 소액 의뢰 시장, 프리랜서 지원비 경제학 · 6절 · 5.7천 자 · 장부 5건
+- `agent-micropayment-economy` 1센트가 기계력을 부르는 세계: AI 발주와 인간 API, 초소액 현상금의 경제 — AI 초소액 경제, 인간 API 경제, 접근권 차익거래 · 6절 · 5.1천 자 · 장부 5건

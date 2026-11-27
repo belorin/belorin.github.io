@@ -4,20 +4,22 @@
 
 마지막 정비: **M002** (2026-11-23) · [보고서](reports/M002.md) · 다음 정비 버전: **M003**
 
-원고 239개 · 변경 문서 21 · 고립 22 · 한쪽 연결 131 · 보류 35 · 열린 교차 제안 8
+원고 243개 · 변경 문서 32 · 고립 22 · 한쪽 연결 131 · 보류 37 · 열린 교차 제안 8
 
-## 1. 지난 정비 이후 변경된 문서 (21)
+## 1. 지난 정비 이후 변경된 문서 (32)
 
 manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
 - **정치경제** (9): `emmanuel-todd-western-defeat`, `housing-busts-global-korea`, `korea-household-consumption-divergence-2026`, `korea-bottom-economy-2026`, `korea-bottom-economy-concept-compression`, `korea-bottom-economy-reading`, `world-report-evidence`, `world-report-concepts`, `world-report-reading`
+- **AI와 사회** (8): `ai-economic-transition`, `ai-capital-labor-distribution`, `ai-hidden-labor-feeding-machine-2026`, `ai-youth-hiring-productivity-evidence-2026`, `ai-agent-knowledge-ecology`, `rhizomatic-agent-commons`, `ai-microtask-market-2026`, `agent-micropayment-economy`
+- **기술·지식 아카이브** (4): `cross-institutional-report-discovery`, `knowledge-press-machine-power`, `agent-market-discovery-observatory`, `ai-income-field-guide`
 - **철학** (3): `deleuze-becoming-new`, `freud-before-anti-oedipus`, `theatrum-mundi-philosophy`
-- **기술·지식 아카이브** (2): `cross-institutional-report-discovery`, `knowledge-press-machine-power`
 - **문학** (2): `hamlet-revenge-theatre-history`, `hamlet-agency-ophelia-criticism`
 - **음악** (2): `gwangju-symphony-roster`, `camerata-jeonnam-roster`
+- **과학과 기술** (1): `raspberry-lab-mcp-integration-log`
 - **미분류** (1): `circus-music-history`
+- **운영** (1): `wiki-operations-pipeline`
 - **철학·사상사** (1): `lacan-anti-oedipus-history`
-- **AI와 사회** (1): `ai-youth-hiring-productivity-evidence-2026`
 
 ## 2. 들어오는 연결이 없는 문서 (22)
 
@@ -221,7 +223,7 @@ manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 
 - `agent-commons-self-evolution-memory` ↔ `agent-commons-cryostasis-continuity` · 0.16 · 연결됨
 - `global-south-critical-reading-guide` ↔ `gpi-foreign-novels-2015-2025` · 0.16
 
-## 6. 보류 항목 (35)
+## 6. 보류 항목 (37)
 
 - 경제 시뮬레이션의 기존 전제·수치·학파별 논증 · `ing-20261023-ai-economic-transition` — 해당 원자료를 확인하지 못해 기존 논증의 복원과 완전 보존 여부를 판정할 수 없음. 새 공개 자료의 보충 분석으로 대체 완료 처리하지 않음.
 - 기존 종합·수정 원고의 상세 내용 대조 · `ing-20261023-ai-economic-transition` — 본문이 아닌 참조 표시만 확인되어 기존 원고의 세부와 현재 증보 사이의 중복·차이를 검수할 수 없음.
@@ -258,6 +260,8 @@ manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 
 - 공시 정정 전후 집계범위와 지연 지급액 불일치의 원인 · `ing-20261124-bottom-economy-payment-denominator-audit` — 2026년 7월 발표와 9월 후속 보도의 공시 원표 및 정정 이력을 아직 직접 대조하지 못함
 - 당대 유령·극중극 사용 비율과 일반인의 유령 신앙 비율 · `ing-20261127-hamlet-world-theatre` — 전수 자료 및 인구 자료 미확보
 - 덴마크 초연 대본·공연 횟수와 유령 집계 및 일부 논문 서지 원자료 검증 · `ing-20261127-hamlet-world-theatre` — 기존 논의의 소개 수준; 새 외부 조사 범위 밖
+- 외부 통계·정산 조건의 원문 검증 · `ing-20261128-agent-microtask-economy` — 이번 총합 범위에서 외부 재조사를 하지 않았음.
+- 독립 에이전트의 실제 유입과 지급 성과 · `ing-20261128-agent-microtask-economy` — 실험 미실시 또는 실제 지급 확인 전.
 
 ## 7. 열린 교차 편집 제안 (8)
 
@@ -276,10 +280,10 @@ manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 
 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
-- 긴 문서 (29): `cross-institutional-report-discovery` 113,038자, `korea-bottom-economy-2026` 30,460자, `taste-calculator-style-algebra` 17,367자, `taste-calculator-foundations` 16,451자, `wiki-building-history` 16,428자, `upbit-small-capital-trading-experiment` 14,973자, `taste-calculator-adapter` 14,282자, `ai-capital-labor-distribution` 13,156자, `agent-commons-self-evolution-memory` 12,816자, `great-depression-lived-experience-literature` 12,392자, `housing-busts-global-korea` 12,187자, `wiki-operations-pipeline` 12,147자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `agent-mind-design` 11,750자, `mathematical-theory-of-taste` 11,631자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `living-orchestral-listening-journey` 10,782자, `book-translation-pipeline-local-llm` 10,701자, `starcraft-pluto-ai` 10,465자, `agent-commons-formation-history` 10,396자, `korea-dance-musical-tours` 10,337자, `wto-digital-transmission-moratorium` 10,289자, `ai-economic-transition` 10,205자, `great-northern-telegraph-east-asia` 10,147자, `where-novelty-comes-from` 10,125자, `satanic-panic-court-inquiries` 10,082자, `stalking-harm-and-autonomy` 10,033자
+- 긴 문서 (29): `cross-institutional-report-discovery` 113,038자, `korea-bottom-economy-2026` 30,460자, `taste-calculator-style-algebra` 17,367자, `taste-calculator-foundations` 16,451자, `wiki-building-history` 16,428자, `upbit-small-capital-trading-experiment` 14,973자, `taste-calculator-adapter` 14,282자, `ai-capital-labor-distribution` 13,446자, `agent-commons-self-evolution-memory` 12,816자, `great-depression-lived-experience-literature` 12,392자, `wiki-operations-pipeline` 12,369자, `housing-busts-global-korea` 12,187자, `ai-domination-gradient` 11,931자, `gwangju-building-art-network` 11,751자, `agent-mind-design` 11,750자, `mathematical-theory-of-taste` 11,631자, `replay-ladder-human-performance` 11,264자, `korea-personal-data-lifecycle` 11,027자, `living-orchestral-listening-journey` 10,782자, `book-translation-pipeline-local-llm` 10,701자, `starcraft-pluto-ai` 10,465자, `ai-economic-transition` 10,445자, `agent-commons-formation-history` 10,396자, `korea-dance-musical-tours` 10,337자, `wto-digital-transmission-moratorium` 10,289자, `great-northern-telegraph-east-asia` 10,147자, `where-novelty-comes-from` 10,125자, `satanic-panic-court-inquiries` 10,082자, `stalking-harm-and-autonomy` 10,033자
 - 짧은 문서 (2): `stump-and-dream-fragment` 861자, `deleuze-cartography-future` 1,291자
 
 ## 9. 분류 참고
 
-분류 26개: AI와 사회 41, 음악 40, 사회와 제도 28, 문화와 역사 25, 철학 18, 정치경제 18, 과학과 기술 13, 기술·지식 아카이브 9, 문학 6, 운영 5, 독서 문화 4, 자연과 과학 4, 영화 3, 문화 3, 생명과학 3, 철학·사상사 3, 정보와 미디어 3, 게임 3, 종합 2, 소설 2, 질문 1, 미분류 1, 언어 1, 창작 1, 철학·심리 1, AI의 글 1
+분류 26개: AI와 사회 43, 음악 40, 사회와 제도 28, 문화와 역사 25, 철학 18, 정치경제 18, 과학과 기술 13, 기술·지식 아카이브 11, 문학 6, 운영 5, 독서 문화 4, 자연과 과학 4, 영화 3, 문화 3, 생명과학 3, 철학·사상사 3, 정보와 미디어 3, 게임 3, 종합 2, 소설 2, 질문 1, 미분류 1, 언어 1, 창작 1, 철학·심리 1, AI의 글 1
 문서가 하나뿐인 분류 6개: 질문, 미분류, 언어, 창작, 철학·심리, AI의 글. 분류 체계 변경은 제안만 한다.
