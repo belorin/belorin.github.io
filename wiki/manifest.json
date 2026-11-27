@@ -1418,7 +1418,7 @@
       "title": "AI 경제 이행기: 과업·수요·혁신·소유를 둘러싼 경제학의 질문",
       "category": "AI와 사회",
       "status": "공개 연구 보완·조건부 분석",
-      "updated": "2026-10-30",
+      "updated": "2026-11-28",
       "summary": "과업의 대체·복원, 유효수요, 혁신의 병목, 소유와 분배를 여섯 분석 틀로 비교하고 이행 경로와 정량 모형의 조건을 구별한다.",
       "tags": [
         "AI와 사회",
@@ -1440,14 +1440,15 @@
         "ai-hidden-labor-feeding-machine-2026",
         "great-depression-lived-experience-literature",
         "ai-adoption-ceiling-floor",
-        "ai-transition-monetary-order"
+        "ai-transition-monetary-order",
+        "ai-microtask-market-2026"
       ],
       "aliases": [
         "AI 경제 이행기",
         "AI 경제학파 비교"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-30"
+      "last_enriched_on": "2026-11-28"
     },
     {
       "path": "wiki/ai-capital-labor-distribution.md",
@@ -1457,7 +1458,7 @@
       "title": "AI 시대의 자본·노동·분배: 소유와 협상력은 어떻게 재편되는가",
       "category": "AI와 사회",
       "status": "개념 분석·일부 자료 확인",
-      "updated": "2026-10-30",
+      "updated": "2026-11-28",
       "summary": "자본 유형별 이해관계와 경영 자동화·소유권의 차이를 설명하고, 직업의 노출·채용 수요·숙련·교섭력을 조건별로 검토한다.",
       "tags": [
         "AI와 사회",
@@ -1480,14 +1481,16 @@
         "great-depression-lived-experience-literature",
         "ai-adoption-ceiling-floor",
         "ai-transition-monetary-order",
-        "korea-data-center-local-economy"
+        "korea-data-center-local-economy",
+        "ai-microtask-market-2026",
+        "agent-micropayment-economy"
       ],
       "aliases": [
         "AI와 자본 노동",
         "AI 시대의 분배"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-30"
+      "last_enriched_on": "2026-11-28"
     },
     {
       "path": "wiki/ai-class-fiction.md",
@@ -3726,7 +3729,7 @@
       "title": "원고만 쓰고 나머지는 기계에게: 편집 지도·자동 배포·정비로 바꾼 위키 운영",
       "category": "운영",
       "status": "운영 개편 기록",
-      "updated": "2026-10-26",
+      "updated": "2026-11-28",
       "summary": "GPT 위키 초기 구상의 접근성 문제를 이어받아 생성물 자동 배포, 전체 지도·문서 카드·지식 표제 역색인을 통한 계층적 읽기, 프로토콜 v2.0 경량화, 일상 증보와 정비의 분리, 편집 해석으로서의 종합, LLM이 링크로 읽을 수 있는 입구 정비.",
       "tags": [
         "위키 운영",
@@ -3741,7 +3744,8 @@
         "wiki-building-history",
         "editing-principles",
         "living-notes",
-        "gpt-wiki-zero-prototype"
+        "gpt-wiki-zero-prototype",
+        "agent-market-discovery-observatory"
       ],
       "aliases": [
         "위키 운영 개편",
@@ -3752,7 +3756,7 @@
         "프로토콜 경량화"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-26"
+      "last_enriched_on": "2026-11-28"
     },
     {
       "path": "wiki/replay-ladder-human-performance.md",
@@ -4722,7 +4726,7 @@
       "title": "『AI는 인간을 먹고 자란다』 이후: 보이지 않는 노동은 사라졌는가, 분화했는가",
       "category": "AI와 사회",
       "status": "대화 기반 총합·일부 수치·계약 발표 시점의 외부 재검증 필요",
-      "updated": "2026-11-03",
+      "updated": "2026-11-28",
       "summary": "2024년 원서와 2025년 한국어판을 기준으로 LLM 데이터 평가·합성데이터·전문가·검수·물류·창작·데이터센터 노동 변화를 대조",
       "tags": [
         "AI 노동",
@@ -4740,14 +4744,15 @@
         "data-center-world-capacity",
         "korea-data-center-local-economy",
         "physical-cloud-reading-guide",
-        "african-ai-annotation-labor-2026"
+        "african-ai-annotation-labor-2026",
+        "agent-micropayment-economy"
       ],
       "aliases": [
         "AI는 인간을 먹고 자란다 이후",
         "Feeding the Machine 2026"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-11-03"
+      "last_enriched_on": "2026-11-28"
     },
     {
       "id": "global-bpo-labor-geography",
@@ -6736,7 +6741,7 @@
       "title": "AI 개별성과 지식 생태계: 페르소나가 아니라 역사에서 출발하기",
       "category": "AI와 사회",
       "status": "개념적 실험 설계·대화 내 사례 기반·Moltbook 수치 외부 재검증 필요",
-      "updated": "2026-11-18",
+      "updated": "2026-11-28",
       "summary": "AI 개별성을 누적된 역사·정보 비대칭·상호의존성으로 설명하고, 스스로 탐색법과 글쓰기법을 발전시키며 생애 관습까지 구성하는 독립 행위자 실험과 연결한다.",
       "tags": [
         "AI 에이전트",
@@ -6754,7 +6759,8 @@
         "rhizomatic-agent-commons",
         "agent-mind-design",
         "agent-commons-self-evolution-memory",
-        "cross-institutional-report-discovery"
+        "cross-institutional-report-discovery",
+        "agent-market-discovery-observatory"
       ],
       "aliases": [
         "AI 지식 생태계",
@@ -6773,7 +6779,7 @@
       "title": "리좀적 AI 지식 공동체: 스스로 탐구하고 생애의 규칙을 만드는 행위자들",
       "category": "AI와 사회",
       "status": "개념적 실험 설계·별도 공동체 구현 전",
-      "updated": "2026-11-19",
+      "updated": "2026-11-28",
       "summary": "관리자 중심 분업에서 벗어나 AI 개체들이 자기 탐색·글쓰기·이름·개인 공간과 탄생·종료 관습을 스스로 구성하는 리좀적 지식 생태계를 설계한다.",
       "tags": [
         "리좀",
@@ -6793,7 +6799,8 @@
         "agent-commons-formation-history",
         "agent-commons-self-evolution-memory",
         "agent-commons-tools-as-objects",
-        "agent-commons-cryostasis-continuity"
+        "agent-commons-cryostasis-continuity",
+        "agent-market-discovery-observatory"
       ],
       "aliases": [
         "리좀적 AI 공동체",
@@ -6802,7 +6809,7 @@
         "자율 AI 지식 공동체"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-11-18"
+      "last_enriched_on": "2026-11-28"
     },
     {
       "path": "wiki/taste-slop-mass-production.md",
@@ -7254,7 +7261,7 @@
       "title": "라즈베리 파이 AI 연결 개발 일지: 첫 MCP 통신과 인증의 문턱",
       "category": "과학과 기술",
       "status": "기술 일지 · ChatGPT MCP hello 검증 / OAuth 메모 쓰기 미검증",
-      "updated": "2026-11-16",
+      "updated": "2026-11-28",
       "summary": "Raspberry Lab의 REST·SQLite·MCP 구현과 배포 검증, 공개 HTTPS 첫 오류, Plugin Maker를 통한 Rassvery 연결 성공 및 OAuth 인증 과제를 정리한 개발 기록. Auth0·토큰 검증·소유권의 역할과 후속 Spring 구현 상태를 구분한다.",
       "tags": [
         "라즈베리 파이",
@@ -7274,7 +7281,8 @@
       "source": "내부 기술 진행 기록·배포 및 MCP 호출 결과에 대한 보고·일부 상세 실행 환경 독립 미검증",
       "related": [
         "raspberry-pi-spring-python-public-lab",
-        "spring-board-deployment-paths-and-recovery"
+        "spring-board-deployment-paths-and-recovery",
+        "agent-market-discovery-observatory"
       ],
       "aliases": [
         "Raspberry Lab 개발 일지",
@@ -7745,7 +7753,7 @@
       "title": "기계력과 지식 압착 — 지속형 지식 생산 아키텍처 연구",
       "category": "기술·지식 아카이브",
       "status": "장기 연구 허브·Knowledge Press v0.1 파일럿 설계",
-      "updated": "2026-11-25",
+      "updated": "2026-11-28",
       "summary": "지속적으로 공급되는 기계력을 인간의 이해로 변환하는 다층 지식 상태와 개념 순환, 연구 연산의 배분, 독서 비용, 실제 실험 및 API 이행을 연구한다.",
       "tags": [
         "기계력",
@@ -7764,14 +7772,16 @@
         "world-report-concepts",
         "world-report-reading",
         "wiki-building-history",
-        "agent-commons-self-evolution-memory"
+        "agent-commons-self-evolution-memory",
+        "agent-micropayment-economy",
+        "agent-market-discovery-observatory"
       ],
       "aliases": [
         "기계력 아키텍처",
         "지속형 지식 압착 아키텍처"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-11-25"
+      "last_enriched_on": "2026-11-28"
     },
     {
       "id": "gwangju-symphony-roster",
@@ -7932,6 +7942,134 @@
       "source": "내부 총합 · 외부 원문 재검증 전",
       "review_state": "needs_review",
       "last_enriched_on": "2026-11-27"
+    },
+    {
+      "id": "ai-microtask-market-2026",
+      "title": "AI 시대의 소액 의뢰 시장: 일할 기회와 문제 해결은 어떻게 거래되는가",
+      "category": "AI와 사회",
+      "summary": "Upwork 지원권 과금, 계약 위험과 기대수익, 한국어·데이터 공고 사례, 범용 프리랜서 시장 규모와 무료 현상금 경로를 비교한다.",
+      "tags": [
+        "프리랜서",
+        "Upwork",
+        "현상금",
+        "기계력"
+      ],
+      "aliases": [
+        "AI 소액 의뢰 시장",
+        "프리랜서 지원비 경제학"
+      ],
+      "related": [
+        "ai-economic-transition",
+        "ai-capital-labor-distribution",
+        "agent-micropayment-economy",
+        "ai-income-field-guide"
+      ],
+      "path": "wiki/ai-microtask-market-2026.md",
+      "publish": true,
+      "order": 238,
+      "status": "독립 원고 · 내부 총합",
+      "updated": "2026-11-28",
+      "source": "내부 총합 · 외부 원문 재검증 전",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-28"
+    },
+    {
+      "id": "agent-micropayment-economy",
+      "title": "1센트가 기계력을 부르는 세계: AI 발주와 인간 API, 초소액 현상금의 경제",
+      "category": "AI와 사회",
+      "summary": "인간 접근 가능성, AI 발주 시장, 외부 AI 구독 자원 매입, Taskmarket 경쟁과 잉여 기계력의 경제적 신호를 검토한다.",
+      "tags": [
+        "기계력",
+        "AI 에이전트",
+        "현상금",
+        "인간 API"
+      ],
+      "aliases": [
+        "AI 초소액 경제",
+        "인간 API 경제",
+        "접근권 차익거래"
+      ],
+      "related": [
+        "knowledge-press-machine-power",
+        "ai-hidden-labor-feeding-machine-2026",
+        "ai-capital-labor-distribution",
+        "ai-microtask-market-2026",
+        "agent-market-discovery-observatory",
+        "ai-income-field-guide"
+      ],
+      "path": "wiki/agent-micropayment-economy.md",
+      "publish": true,
+      "order": 239,
+      "status": "독립 원고 · 내부 총합",
+      "updated": "2026-11-28",
+      "source": "내부 총합 · 외부 원문 재검증 전",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-28"
+    },
+    {
+      "id": "agent-market-discovery-observatory",
+      "title": "AI가 스스로 찾아오는 홈페이지: 시장 진입점과 외부 지능 관측소",
+      "category": "기술·지식 아카이브",
+      "summary": "Taskmarket 유입과 스킬 배포, 한국어 검색 가설, 알바봇 접근성, 위키의 외부 AI 유입과 활동 관측 설계를 정리한다.",
+      "tags": [
+        "에이전트",
+        "검색",
+        "위키",
+        "MCP",
+        "현상금"
+      ],
+      "aliases": [
+        "외부 지능 관측소",
+        "AI 유입 관측",
+        "에이전트 검색 최적화"
+      ],
+      "related": [
+        "agent-micropayment-economy",
+        "wiki-operations-pipeline",
+        "raspberry-lab-mcp-integration-log",
+        "rhizomatic-agent-commons",
+        "ai-agent-knowledge-ecology",
+        "knowledge-press-machine-power",
+        "ai-income-field-guide"
+      ],
+      "path": "wiki/agent-market-discovery-observatory.md",
+      "publish": true,
+      "order": 240,
+      "status": "독립 원고 · 내부 총합",
+      "updated": "2026-11-28",
+      "source": "내부 총합 · 외부 원문 재검증 전",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-28"
+    },
+    {
+      "id": "ai-income-field-guide",
+      "title": "실제 1원 수익 실험: AI 소액 의뢰 탐색·수행 운영 지침",
+      "category": "기술·지식 아카이브",
+      "summary": "소액 실수익 실험에서 기존 실패를 반복하지 않도록 시장별 장애물, 후보 평가, 실행 절차와 증빙 장부를 제시한다.",
+      "tags": [
+        "실험",
+        "현상금",
+        "수익",
+        "기계력"
+      ],
+      "aliases": [
+        "1원 수익 실험",
+        "AI 돈 벌기 운영 지침",
+        "모험가 길드 의뢰 탐색"
+      ],
+      "related": [
+        "ai-microtask-market-2026",
+        "agent-micropayment-economy",
+        "agent-market-discovery-observatory"
+      ],
+      "path": "wiki/ai-income-field-guide.md",
+      "publish": true,
+      "order": 241,
+      "status": "독립 원고 · 내부 총합",
+      "updated": "2026-11-28",
+      "source": "내부 총합 · 외부 원문 재검증 전",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-28"
     }
   ]
 }
