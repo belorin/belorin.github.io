@@ -770,11 +770,11 @@
         "들뢰즈 독서 경로"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-25",
+      "last_enriched_on": "2026-11-27",
       "title": "들뢰즈: 생성과 새로운 것의 철학",
       "category": "철학",
       "status": "개념 종합·현재 적용 해석 포함",
-      "updated": "2026-10-25",
+      "updated": "2026-11-27",
       "summary": "고정된 미래상보다 문제·생성·배치의 문법을 남긴 들뢰즈를 2026년의 렌즈로 읽고, 『디알로그』·『천 개의 고원』·통제사회로 이어지는 독서 경로를 정리한다.",
       "tags": [
         "들뢰즈",
@@ -790,7 +790,8 @@
         "post-deleuze-novelty-thinkers",
         "deleuze-number-intensity-spatium",
         "freud-before-anti-oedipus",
-        "rhizomatic-agent-commons"
+        "rhizomatic-agent-commons",
+        "theatrum-mundi-philosophy"
       ],
       "order": 32
     },
@@ -3396,7 +3397,7 @@
       "title": "『안티 오이디푸스』 전에 읽는 프로이트: 한 권과 두 권의 선택",
       "category": "철학",
       "status": "내부 총합 · 원전 문구·비교 해석 재검토 필요",
-      "updated": "2026-10-26",
+      "updated": "2026-11-27",
       "summary": "한 권은 『정신분석 입문』, 두 권은 『꿈의 해석』과 『성욕에 관한 세 편의 에세이』로 읽는 목적과 선택 근거를 구분한다.",
       "tags": [
         "프로이트",
@@ -3410,7 +3411,8 @@
         "deleuze-becoming-new",
         "deleuze-negation-history",
         "freud-dreams-modern-science",
-        "lacan-anti-oedipus-history"
+        "lacan-anti-oedipus-history",
+        "theatrum-mundi-philosophy"
       ],
       "aliases": [
         "안티 오이디푸스 사전 독서",
@@ -3418,7 +3420,7 @@
         "반오이디푸스 읽기"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-26"
+      "last_enriched_on": "2026-11-27"
     },
     {
       "path": "wiki/fruit-flesh-living-cells.md",
@@ -3628,7 +3630,7 @@
       "title": "라캉이 사상권력이던 시절: 『안티 오이디푸스』 전후의 정신분석과 독서 지도",
       "category": "철학·사상사",
       "status": "내부 총합 · 개별 자료 재검증 필요",
-      "updated": "2026-10-26",
+      "updated": "2026-11-27",
       "summary": "라캉의 세미나·학파·출판 권력, 1972년 반정신분석의 맥락, 1980~2020년대 변천과 입문 독서 목록.",
       "tags": [
         "라캉",
@@ -3641,7 +3643,9 @@
         "freud-before-anti-oedipus",
         "freud-dreams-modern-science",
         "philosophical-systems-after-2000",
-        "contemporary-intellectual-power"
+        "contemporary-intellectual-power",
+        "theatrum-mundi-philosophy",
+        "hamlet-agency-ophelia-criticism"
       ],
       "aliases": [
         "라캉 독서",
@@ -3649,7 +3653,7 @@
         "에크리"
       ],
       "review_state": "needs_review",
-      "last_enriched_on": "2026-10-26"
+      "last_enriched_on": "2026-11-27"
     },
     {
       "path": "wiki/philosophical-systems-after-2000.md",
@@ -7827,6 +7831,107 @@
       ],
       "review_state": "needs_review",
       "last_enriched_on": "2026-11-26"
+    },
+    {
+      "id": "hamlet-revenge-theatre-history",
+      "title": "햄릿을 만든 연극계: 복수 비극, 유령, 극중극과 정전의 형성",
+      "category": "문학",
+      "summary": "덴마크 원전과 수용사, 셰익스피어의 당대 위상과 정전화, 고대부터 근세까지의 유령 및 복수 비극·극중극의 계보를 비교한다.",
+      "tags": [
+        "햄릿",
+        "셰익스피어",
+        "복수 비극",
+        "유령",
+        "극중극",
+        "정전"
+      ],
+      "aliases": [
+        "햄릿 연극사",
+        "엘리자베스 시대 복수 비극",
+        "햄릿 덴마크 수용사",
+        "유령의 문학사"
+      ],
+      "related": [
+        "hamlet-agency-ophelia-criticism",
+        "theatrum-mundi-philosophy"
+      ],
+      "path": "wiki/hamlet-revenge-theatre-history.md",
+      "publish": true,
+      "order": 235,
+      "status": "독립 원고 · 내부 총합",
+      "updated": "2026-11-27",
+      "source": "내부 총합 · 외부 원문 재검증 전",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-27"
+    },
+    {
+      "id": "hamlet-agency-ophelia-criticism",
+      "title": "햄릿은 자신의 삶을 주도하는가: 오필리아, 광기, 언어와 연극의 비평",
+      "category": "문학",
+      "summary": "햄릿의 반응적 행동, 오필리아와 레어티즈의 대칭, 말과 행위의 불일치, 연극적 자아를 분석하고 일곱 가지 비평적 독해와 비교한다.",
+      "tags": [
+        "햄릿",
+        "오필리아",
+        "광기",
+        "행위성",
+        "라캉",
+        "연극"
+      ],
+      "aliases": [
+        "햄릿의 수동성",
+        "오필리아와 햄릿의 대칭",
+        "햄릿 비평",
+        "햄릿의 연극적 인간"
+      ],
+      "related": [
+        "hamlet-revenge-theatre-history",
+        "theatrum-mundi-philosophy",
+        "lacan-anti-oedipus-history"
+      ],
+      "path": "wiki/hamlet-agency-ophelia-criticism.md",
+      "publish": true,
+      "order": 236,
+      "status": "독립 원고 · 내부 총합",
+      "updated": "2026-11-27",
+      "source": "내부 총합 · 외부 원문 재검증 전",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-27"
+    },
+    {
+      "id": "theatrum-mundi-philosophy",
+      "title": "세계는 하나의 극장이다: 배역과 가면에서 주체의 생성까지",
+      "category": "철학",
+      "summary": "플라톤·스토아·중세·셰익스피어부터 홉스·스미스·니체·융·고프먼·들뢰즈·버틀러까지 세계극장의 구조 변화를 추적한다.",
+      "tags": [
+        "세계극장",
+        "테아트룸 문디",
+        "페르소나",
+        "들뢰즈",
+        "수행성",
+        "연극"
+      ],
+      "aliases": [
+        "세계극장론",
+        "Theatrum Mundi",
+        "세계는 하나의 극장",
+        "들뢰즈 극화의 방법",
+        "페르소나와 가면"
+      ],
+      "related": [
+        "hamlet-agency-ophelia-criticism",
+        "hamlet-revenge-theatre-history",
+        "deleuze-becoming-new",
+        "lacan-anti-oedipus-history",
+        "freud-before-anti-oedipus"
+      ],
+      "path": "wiki/theatrum-mundi-philosophy.md",
+      "publish": true,
+      "order": 237,
+      "status": "독립 원고 · 내부 총합",
+      "updated": "2026-11-27",
+      "source": "내부 총합 · 외부 원문 재검증 전",
+      "review_state": "needs_review",
+      "last_enriched_on": "2026-11-27"
     }
   ]
 }

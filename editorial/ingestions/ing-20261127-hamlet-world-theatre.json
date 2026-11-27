@@ -1,0 +1,313 @@
+{
+  "id": "ing-20261127-hamlet-world-theatre",
+  "processed_on": "2026-11-27",
+  "coverage": "visible-complete",
+  "limit_note": "접근 가능한 논의 전체를 총합. 외부 원문 재검증 및 실제 공연 대본 대조는 하지 않음.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "덴마크의 암레트와 영국의 햄릿",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hamlet-revenge-theatre-history",
+          "section": "덴마크의 암레트와 영국의 햄릿"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "덴마크의 늦은 수용과 정치적 각색",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hamlet-revenge-theatre-history",
+          "section": "덴마크의 늦은 수용과 정치적 각색"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "fact",
+      "title": "당대의 인기에서 세계문학의 정전으로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hamlet-revenge-theatre-history",
+          "section": "당대의 인기에서 세계문학의 정전으로"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "fact",
+      "title": "복수 비극의 경쟁 작품들",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hamlet-revenge-theatre-history",
+          "section": "복수 비극의 경쟁 작품들"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "fact",
+      "title": "유령의 고대 문학사: 장례에서 증언과 복수로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hamlet-revenge-theatre-history",
+          "section": "유령의 고대 문학사: 장례에서 증언과 복수로"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "fact",
+      "title": "중세의 죽은 자와 종교개혁의 불확실성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hamlet-revenge-theatre-history",
+          "section": "중세의 죽은 자와 종교개혁의 불확실성"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "fact",
+      "title": "당대 사람들에게 유령은 허구였는가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hamlet-revenge-theatre-history",
+          "section": "당대 사람들에게 유령은 허구였는가"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "fact",
+      "title": "극중극과 관객의 시대",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hamlet-revenge-theatre-history",
+          "section": "극중극과 관객의 시대"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "fact",
+      "title": "오필리아와 햄릿: 미친 되기와 실제 붕괴",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hamlet-agency-ophelia-criticism",
+          "section": "오필리아와 햄릿: 미친 되기와 실제 붕괴"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "concept",
+      "title": "장례와 책임의 비대칭",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hamlet-agency-ophelia-criticism",
+          "section": "장례와 책임의 비대칭"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "fact",
+      "title": "말이 행동을 대신할 때",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hamlet-agency-ophelia-criticism",
+          "section": "말이 행동을 대신할 때"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "concept",
+      "title": "주인공과 사건의 주도자는 다르다",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hamlet-agency-ophelia-criticism",
+          "section": "주인공과 사건의 주도자는 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "fact",
+      "title": "연기와 관람: 허구는 실제를 생산한다",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hamlet-agency-ophelia-criticism",
+          "section": "연기와 관람: 허구는 실제를 생산한다"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "concept",
+      "title": "일곱 가지 비평의 전환",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hamlet-agency-ophelia-criticism",
+          "section": "일곱 가지 비평의 전환"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "concept",
+      "title": "신과 운명이 배역을 주는 극장",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "theatrum-mundi-philosophy",
+          "section": "신과 운명이 배역을 주는 극장"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "concept",
+      "title": "셰익스피어와 르네상스의 불안정한 극장",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "theatrum-mundi-philosophy",
+          "section": "셰익스피어와 르네상스의 불안정한 극장"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "fact",
+      "title": "대표와 관객: 홉스에서 애덤 스미스까지",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "theatrum-mundi-philosophy",
+          "section": "대표와 관객: 홉스에서 애덤 스미스까지"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "concept",
+      "title": "가면과 역사: 키르케고르, 니체, 마르크스",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "theatrum-mundi-philosophy",
+          "section": "가면과 역사: 키르케고르, 니체, 마르크스"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "concept",
+      "title": "무의식과 사회적 가면",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "theatrum-mundi-philosophy",
+          "section": "무의식과 사회적 가면"
+        }
+      ]
+    },
+    {
+      "id": "k20",
+      "kind": "concept",
+      "title": "들뢰즈: 재현이 아닌 운동의 극장",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "theatrum-mundi-philosophy",
+          "section": "들뢰즈: 재현이 아닌 운동의 극장"
+        }
+      ]
+    },
+    {
+      "id": "k21",
+      "kind": "concept",
+      "title": "무의식은 극장이 아니라 공장이다",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "theatrum-mundi-philosophy",
+          "section": "무의식은 극장이 아니라 공장이다"
+        }
+      ]
+    },
+    {
+      "id": "k22",
+      "kind": "concept",
+      "title": "버틀러: 수행하는 주체는 이미 완성되어 있는가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "theatrum-mundi-philosophy",
+          "section": "버틀러: 수행하는 주체는 이미 완성되어 있는가"
+        }
+      ]
+    },
+    {
+      "id": "k23",
+      "kind": "concept",
+      "title": "세계극장의 구조 변환",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "theatrum-mundi-philosophy",
+          "section": "세계극장의 구조 변환"
+        }
+      ]
+    },
+    {
+      "id": "k24",
+      "kind": "fact",
+      "title": "들뢰즈의 햄릿: 경첩에서 벗어난 시간",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "theatrum-mundi-philosophy",
+          "section": "들뢰즈의 햄릿: 경첩에서 벗어난 시간"
+        }
+      ]
+    },
+    {
+      "id": "k25",
+      "kind": "question",
+      "title": "당대 유령·극중극 사용 비율과 일반인의 유령 신앙 비율",
+      "status": "pending",
+      "targets": [],
+      "reason": "전수 자료 및 인구 자료 미확보"
+    },
+    {
+      "id": "k26",
+      "kind": "question",
+      "title": "덴마크 초연 대본·공연 횟수와 유령 집계 및 일부 논문 서지 원자료 검증",
+      "status": "pending",
+      "targets": [],
+      "reason": "기존 논의의 소개 수준; 새 외부 조사 범위 밖"
+    }
+  ]
+}
