@@ -283,7 +283,7 @@
 
 ## 철학
 
-- **[들뢰즈: 생성과 새로운 것의 철학](wiki/deleuze-becoming-new.md)** · 별칭: 들뢰즈와 생성, 들뢰즈와 미래, 들뢰즈 독서 경로 · 수정: 2026-10-25 · 검토: 개념 종합·현재 적용 해석 포함
+- **[들뢰즈: 생성과 새로운 것의 철학](wiki/deleuze-becoming-new.md)** · 별칭: 들뢰즈와 생성, 들뢰즈와 미래, 들뢰즈 독서 경로 · 수정: 2026-11-27 · 검토: 개념 종합·현재 적용 해석 포함
   - 고정된 미래상보다 문제·생성·배치의 문법을 남긴 들뢰즈를 2026년의 렌즈로 읽고, 『디알로그』·『천 개의 고원』·통제사회로 이어지는 독서 경로를 정리한다.
   - [문서 페이지](https://belorin.github.io/notes/deleuze-becoming-new/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-becoming-new.md)
 - **[차이, 문제, 역사: 『차이와 반복』의 부정 비판과 피비린내 나는 긍정](wiki/deleuze-negation-history.md)** · 별칭: 들뢰즈와 부정, 피비린내와 잔혹함, 차이와 반복의 역사론 · 수정: 2026-11-03 · 검토: 원문 대조 기반 해설·외부 재검토 필요
@@ -310,7 +310,7 @@
 - **[사유의 중심에 접혀 있는 불가능자: 생각할 수 없음이 생각을 움직일 때](wiki/deleuze-unthinkable-fold-thought.md)** · 별칭: 사유의 불가능자, 안주름, 사유의 내부의 접힘 · 수정: 2026-10-25 · 검토: 내부 총합 · 원전 문구·비교 해석 재검토 필요
   - 사유의 내부에 안-주름잡힌 불가능성을 죽음·자기인식·사랑의 비유와 사유에 대한 강제라는 문제로 구별해 설명한다.
   - [문서 페이지](https://belorin.github.io/notes/deleuze-unthinkable-fold-thought/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-unthinkable-fold-thought.md)
-- **[『안티 오이디푸스』 전에 읽는 프로이트: 한 권과 두 권의 선택](wiki/freud-before-anti-oedipus.md)** · 별칭: 안티 오이디푸스 사전 독서, 프로이트 입문서 추천, 반오이디푸스 읽기 · 수정: 2026-10-26 · 검토: 내부 총합 · 원전 문구·비교 해석 재검토 필요
+- **[『안티 오이디푸스』 전에 읽는 프로이트: 한 권과 두 권의 선택](wiki/freud-before-anti-oedipus.md)** · 별칭: 안티 오이디푸스 사전 독서, 프로이트 입문서 추천, 반오이디푸스 읽기 · 수정: 2026-11-27 · 검토: 내부 총합 · 원전 문구·비교 해석 재검토 필요
   - 한 권은 『정신분석 입문』, 두 권은 『꿈의 해석』과 『성욕에 관한 세 편의 에세이』로 읽는 목적과 선택 근거를 구분한다.
   - [문서 페이지](https://belorin.github.io/notes/freud-before-anti-oedipus/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/freud-before-anti-oedipus.md)
 - **[결국 침묵한다면: 들뢰즈의 열역학적 가상, 안·밖 주름운동과 강도의 깊이](wiki/deleuze-thermodynamics-implication-equilibrium.md)** · 별칭: 들뢰즈와 엔트로피, 안 주름운동과 밖 주름운동, 열역학적 파성추, 차이의 최종 침묵, 초월론적 물리학적 가상 · 수정: 2026-11-03 · 검토: 내부 총합에 따른 개념 해석 · 원전 원어·번역 대응 및 우주론적 단정 미검증
@@ -331,6 +331,9 @@
 - **[취향 계산기의 스타일 대수: 생성 가능한 양식과 가상 취향체](wiki/taste-calculator-style-algebra.md)** · 별칭: 스타일 대수, 취향체 중층구조, Style Algebra, Taste Calculator Style Algebra, 생성 가능한 스타일 공간 · 수정: 2026-11-16 · 검토: 독립 설계 기초 논문 0.1 · 수학적 내부 예제 제시 · 실증 미검증
   - 객체의 하층·중층·상층과 이를 가로지르는 스타일을 구분하고 판정 대수와 별도의 생성 규칙, 선형독립 판정과 자유도의 차이, 관찰·가능 동치, 가상 취향체를 연구하는 형식 설계 문서.
   - [문서 페이지](https://belorin.github.io/notes/taste-calculator-style-algebra/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/taste-calculator-style-algebra.md)
+- **[세계는 하나의 극장이다: 배역과 가면에서 주체의 생성까지](wiki/theatrum-mundi-philosophy.md)** · 별칭: 세계극장론, Theatrum Mundi, 세계는 하나의 극장, 들뢰즈 극화의 방법, 페르소나와 가면 · 수정: 2026-11-27 · 검토: 독립 원고 · 내부 총합
+  - 플라톤·스토아·중세·셰익스피어부터 홉스·스미스·니체·융·고프먼·들뢰즈·버틀러까지 세계극장의 구조 변화를 추적한다.
+  - [문서 페이지](https://belorin.github.io/notes/theatrum-mundi-philosophy/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/theatrum-mundi-philosophy.md)
 
 ## 독서 문화
 
@@ -544,6 +547,12 @@
 - **[《The Ministry for the Future》: 미래 세대의 이름으로 세계의 장부를 바꾸는 소설](wiki/ministry-for-the-future-reading.md)** · 별칭: Le Ministère du futur, 미래부 소설, The Ministry for the Future 해설 · 수정: 2026-11-03 · 검토: 대화 기반 문학상·작품 정보 총합 / 원자료·서지 일부 재검증 필요
   - 킴 스탠리 로빈슨의 기후소설에 나타난 인도 폭염, 미래부, 프랭크와 메리, 탄소 코인, 급진적 폭력, 빙하·난민 정책과 결말을 스포일러 포함해 독해한다.
   - [문서 페이지](https://belorin.github.io/notes/ministry-for-the-future-reading/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/ministry-for-the-future-reading.md)
+- **[햄릿을 만든 연극계: 복수 비극, 유령, 극중극과 정전의 형성](wiki/hamlet-revenge-theatre-history.md)** · 별칭: 햄릿 연극사, 엘리자베스 시대 복수 비극, 햄릿 덴마크 수용사, 유령의 문학사 · 수정: 2026-11-27 · 검토: 독립 원고 · 내부 총합
+  - 덴마크 원전과 수용사, 셰익스피어의 당대 위상과 정전화, 고대부터 근세까지의 유령 및 복수 비극·극중극의 계보를 비교한다.
+  - [문서 페이지](https://belorin.github.io/notes/hamlet-revenge-theatre-history/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hamlet-revenge-theatre-history.md)
+- **[햄릿은 자신의 삶을 주도하는가: 오필리아, 광기, 언어와 연극의 비평](wiki/hamlet-agency-ophelia-criticism.md)** · 별칭: 햄릿의 수동성, 오필리아와 햄릿의 대칭, 햄릿 비평, 햄릿의 연극적 인간 · 수정: 2026-11-27 · 검토: 독립 원고 · 내부 총합
+  - 햄릿의 반응적 행동, 오필리아와 레어티즈의 대칭, 말과 행위의 불일치, 연극적 자아를 분석하고 일곱 가지 비평적 독해와 비교한다.
+  - [문서 페이지](https://belorin.github.io/notes/hamlet-agency-ophelia-criticism/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hamlet-agency-ophelia-criticism.md)
 
 ## 자연과 과학
 
@@ -685,7 +694,7 @@
 
 ## 철학·사상사
 
-- **[라캉이 사상권력이던 시절: 『안티 오이디푸스』 전후의 정신분석과 독서 지도](wiki/lacan-anti-oedipus-history.md)** · 별칭: 라캉 독서, 라캉주의의 역사, 에크리 · 수정: 2026-10-26 · 검토: 내부 총합 · 개별 자료 재검증 필요
+- **[라캉이 사상권력이던 시절: 『안티 오이디푸스』 전후의 정신분석과 독서 지도](wiki/lacan-anti-oedipus-history.md)** · 별칭: 라캉 독서, 라캉주의의 역사, 에크리 · 수정: 2026-11-27 · 검토: 내부 총합 · 개별 자료 재검증 필요
   - 라캉의 세미나·학파·출판 권력, 1972년 반정신분석의 맥락, 1980~2020년대 변천과 입문 독서 목록.
   - [문서 페이지](https://belorin.github.io/notes/lacan-anti-oedipus-history/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/lacan-anti-oedipus-history.md)
 - **[거대한 철학적 성채는 사라졌는가: 21세기의 정전과 체계 구축](wiki/philosophical-systems-after-2000.md)** · 별칭: 벽돌책 철학, 철학의 거대서사, 21세기 정전 후보 · 수정: 2026-10-26 · 검토: 내부 총합 · 개별 자료 재검증 필요

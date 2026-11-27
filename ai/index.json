@@ -6,7 +6,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 233,
+  "document_count": 236,
   "documents": [
     {
       "id": "living-notes",
@@ -1090,8 +1090,8 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "개념 종합·현재 적용 해석 포함",
-      "last_updated_on": "2026-10-25",
-      "last_enriched_on": "2026-10-25",
+      "last_updated_on": "2026-11-27",
+      "last_enriched_on": "2026-11-27",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "deleuze-negation-history",
@@ -1099,7 +1099,8 @@
         "post-deleuze-novelty-thinkers",
         "deleuze-number-intensity-spatium",
         "freud-before-anti-oedipus",
-        "rhizomatic-agent-commons"
+        "rhizomatic-agent-commons",
+        "theatrum-mundi-philosophy"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/deleuze-becoming-new.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/deleuze-becoming-new.md",
@@ -3536,14 +3537,15 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "내부 총합 · 원전 문구·비교 해석 재검토 필요",
-      "last_updated_on": "2026-10-26",
-      "last_enriched_on": "2026-10-26",
+      "last_updated_on": "2026-11-27",
+      "last_enriched_on": "2026-11-27",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "deleuze-becoming-new",
         "deleuze-negation-history",
         "freud-dreams-modern-science",
-        "lacan-anti-oedipus-history"
+        "lacan-anti-oedipus-history",
+        "theatrum-mundi-philosophy"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/freud-before-anti-oedipus.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/freud-before-anti-oedipus.md",
@@ -3781,14 +3783,16 @@
       "published": true,
       "review_state": "needs_review",
       "review_label": "내부 총합 · 개별 자료 재검증 필요",
-      "last_updated_on": "2026-10-26",
-      "last_enriched_on": "2026-10-26",
+      "last_updated_on": "2026-11-27",
+      "last_enriched_on": "2026-11-27",
       "last_enriched_note": "explicitly_recorded",
       "related_ids": [
         "freud-before-anti-oedipus",
         "freud-dreams-modern-science",
         "philosophical-systems-after-2000",
-        "contemporary-intellectual-power"
+        "contemporary-intellectual-power",
+        "theatrum-mundi-philosophy",
+        "hamlet-agency-ophelia-criticism"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/lacan-anti-oedipus-history.md",
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/lacan-anti-oedipus-history.md",
@@ -8220,6 +8224,113 @@
       "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/camerata-jeonnam-roster.md",
       "page_url": "https://belorin.github.io/notes/camerata-jeonnam-roster/",
       "app_url": "https://belorin.github.io/#camerata-jeonnam-roster"
+    },
+    {
+      "id": "hamlet-revenge-theatre-history",
+      "title": "햄릿을 만든 연극계: 복수 비극, 유령, 극중극과 정전의 형성",
+      "aliases": [
+        "햄릿 연극사",
+        "엘리자베스 시대 복수 비극",
+        "햄릿 덴마크 수용사",
+        "유령의 문학사"
+      ],
+      "category": "문학",
+      "tags": [
+        "햄릿",
+        "셰익스피어",
+        "복수 비극",
+        "유령",
+        "극중극",
+        "정전"
+      ],
+      "summary": "덴마크 원전과 수용사, 셰익스피어의 당대 위상과 정전화, 고대부터 근세까지의 유령 및 복수 비극·극중극의 계보를 비교한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "독립 원고 · 내부 총합",
+      "last_updated_on": "2026-11-27",
+      "last_enriched_on": "2026-11-27",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "hamlet-agency-ophelia-criticism",
+        "theatrum-mundi-philosophy"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hamlet-revenge-theatre-history.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/hamlet-revenge-theatre-history.md",
+      "page_url": "https://belorin.github.io/notes/hamlet-revenge-theatre-history/",
+      "app_url": "https://belorin.github.io/#hamlet-revenge-theatre-history"
+    },
+    {
+      "id": "hamlet-agency-ophelia-criticism",
+      "title": "햄릿은 자신의 삶을 주도하는가: 오필리아, 광기, 언어와 연극의 비평",
+      "aliases": [
+        "햄릿의 수동성",
+        "오필리아와 햄릿의 대칭",
+        "햄릿 비평",
+        "햄릿의 연극적 인간"
+      ],
+      "category": "문학",
+      "tags": [
+        "햄릿",
+        "오필리아",
+        "광기",
+        "행위성",
+        "라캉",
+        "연극"
+      ],
+      "summary": "햄릿의 반응적 행동, 오필리아와 레어티즈의 대칭, 말과 행위의 불일치, 연극적 자아를 분석하고 일곱 가지 비평적 독해와 비교한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "독립 원고 · 내부 총합",
+      "last_updated_on": "2026-11-27",
+      "last_enriched_on": "2026-11-27",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "hamlet-revenge-theatre-history",
+        "theatrum-mundi-philosophy",
+        "lacan-anti-oedipus-history"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/hamlet-agency-ophelia-criticism.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/hamlet-agency-ophelia-criticism.md",
+      "page_url": "https://belorin.github.io/notes/hamlet-agency-ophelia-criticism/",
+      "app_url": "https://belorin.github.io/#hamlet-agency-ophelia-criticism"
+    },
+    {
+      "id": "theatrum-mundi-philosophy",
+      "title": "세계는 하나의 극장이다: 배역과 가면에서 주체의 생성까지",
+      "aliases": [
+        "세계극장론",
+        "Theatrum Mundi",
+        "세계는 하나의 극장",
+        "들뢰즈 극화의 방법",
+        "페르소나와 가면"
+      ],
+      "category": "철학",
+      "tags": [
+        "세계극장",
+        "테아트룸 문디",
+        "페르소나",
+        "들뢰즈",
+        "수행성",
+        "연극"
+      ],
+      "summary": "플라톤·스토아·중세·셰익스피어부터 홉스·스미스·니체·융·고프먼·들뢰즈·버틀러까지 세계극장의 구조 변화를 추적한다.",
+      "published": true,
+      "review_state": "needs_review",
+      "review_label": "독립 원고 · 내부 총합",
+      "last_updated_on": "2026-11-27",
+      "last_enriched_on": "2026-11-27",
+      "last_enriched_note": "explicitly_recorded",
+      "related_ids": [
+        "hamlet-agency-ophelia-criticism",
+        "hamlet-revenge-theatre-history",
+        "deleuze-becoming-new",
+        "lacan-anti-oedipus-history",
+        "freud-before-anti-oedipus"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/belorin.github.io/main/wiki/theatrum-mundi-philosophy.md",
+      "github_url": "https://github.com/belorin/belorin.github.io/blob/main/wiki/theatrum-mundi-philosophy.md",
+      "page_url": "https://belorin.github.io/notes/theatrum-mundi-philosophy/",
+      "app_url": "https://belorin.github.io/#theatrum-mundi-philosophy"
     }
   ]
 }

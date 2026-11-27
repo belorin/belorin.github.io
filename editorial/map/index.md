@@ -4,7 +4,7 @@
 > 사용 순서: ① 채팅에서 추출한 지식 항목마다 제목·별칭으로 후보를 찾는다 → ② 후보의 문서 카드 `editorial/map/docs/<id>.md`에서 절 목차와 장부 기록을 본다 → ③ 해당 절 본문을 읽고 대조한다. 전문으로 넓히는 조건은 WIKI_PROTOCOL §4를 따른다.
 > 지도와 카드는 후보를 찾는 도구일 뿐이다. 중복·반영 여부는 원고 본문을 읽고 판정한다.
 
-원고 233개 (미게시 2, 소설 2편 포함) · 종합 2편 · AI의 글 1편 · 절 2,666개 · 장부 지식 항목 1582개
+원고 236개 (미게시 2, 소설 2편 포함) · 종합 2편 · AI의 글 1편 · 절 2,693개 · 장부 지식 항목 1608개
 
 특정 논점이 이미 처리되었는지는 [지식 표제 역색인](knowledge.md)에서 낱말로 **검색**한다(통째로 읽지 않는다). 장부가 없는 원고는 문서 카드의 절 목차로 찾는다.
 
@@ -30,9 +30,9 @@
 
 `critical-optimism-fragile-order` · `state-hollowing-index` · `state-hollowing-country-pilot` · `money-credit-seigniorage-critique` · `emmanuel-todd-western-defeat` · `housing-busts-global-korea` · `korea-household-consumption-divergence-2026` · `todd-dislocation-2026` · `todd-budapest-2025-reading` · `todd-dislocation-threats-2025-reading` · `todd-world-war-interview-2026-reading` · `todd-asahi-2026-reading` · `korea-bottom-economy-2026` · `korea-bottom-economy-concept-compression` · `korea-bottom-economy-reading` · `world-report-evidence` · `world-report-concepts` · `world-report-reading`
 
-## 철학 (17) → [분류 지도](categories/%EC%B2%A0%ED%95%99.md)
+## 철학 (18) → [분류 지도](categories/%EC%B2%A0%ED%95%99.md)
 
-`deleuze-becoming-new` · `deleuze-cartography-future` · `post-deleuze-novelty-thinkers` · `deleuze-negation-history` · `deleuze-control-marx-future` · `contemporary-governing-philosophies` · `chiikawa-philosophy` · `deleuze-number-intensity-spatium` · `hegel-fichte-schelling-difference` · `deleuze-unthinkable-fold-thought` · `freud-before-anti-oedipus` · `deleuze-thermodynamics-implication-equilibrium` · `human-authorship-creator-preference` · `taste-calculator-foundations` · `taste-calculator-adapter` · `mathematical-theory-of-taste` · `taste-calculator-style-algebra`
+`deleuze-becoming-new` · `deleuze-cartography-future` · `post-deleuze-novelty-thinkers` · `deleuze-negation-history` · `deleuze-control-marx-future` · `contemporary-governing-philosophies` · `chiikawa-philosophy` · `deleuze-number-intensity-spatium` · `hegel-fichte-schelling-difference` · `deleuze-unthinkable-fold-thought` · `freud-before-anti-oedipus` · `deleuze-thermodynamics-implication-equilibrium` · `human-authorship-creator-preference` · `taste-calculator-foundations` · `taste-calculator-adapter` · `mathematical-theory-of-taste` · `taste-calculator-style-algebra` · `theatrum-mundi-philosophy`
 
 ## 과학과 기술 (13) → [분류 지도](categories/%EA%B3%BC%ED%95%99%EA%B3%BC-%EA%B8%B0%EC%88%A0.md)
 
@@ -42,6 +42,10 @@
 
 `credit-observation-archive` · `book-preview-credit-sourcing` · `east-asia-telegraph-network-1880s` · `great-northern-telegraph-east-asia` · `book-translation-pipeline-local-llm` · `local-llm-novel-agent-m1` · `upbit-small-capital-trading-experiment` · `cross-institutional-report-discovery` · `knowledge-press-machine-power`
 
+## 문학 (6) → [분류 지도](categories/%EB%AC%B8%ED%95%99.md)
+
+`anne-carson-nobel-first-reactions` · `grand-prix-imaginaire-awards` · `gpi-foreign-novels-2015-2025` · `ministry-for-the-future-reading` · `hamlet-revenge-theatre-history` · `hamlet-agency-ophelia-criticism`
+
 ## 운영 (5) → [분류 지도](categories/%EC%9A%B4%EC%98%81.md)
 
 `living-notes` · `editing-principles` · `wiki-building-history` · `wiki-operations-pipeline` · `gpt-wiki-zero-prototype`
@@ -49,10 +53,6 @@
 ## 독서 문화 (4) → [분류 지도](categories/%EB%8F%85%EC%84%9C-%EB%AC%B8%ED%99%94.md)
 
 `world-reading-groups` · `global-reading-club-2026-books` · `world-book-club-korean-editions` · `global-south-critical-reading-guide`
-
-## 문학 (4) → [분류 지도](categories/%EB%AC%B8%ED%95%99.md)
-
-`anne-carson-nobel-first-reactions` · `grand-prix-imaginaire-awards` · `gpi-foreign-novels-2015-2025` · `ministry-for-the-future-reading`
 
 ## 자연과 과학 (4) → [분류 지도](categories/%EC%9E%90%EC%97%B0%EA%B3%BC-%EA%B3%BC%ED%95%99.md)
 

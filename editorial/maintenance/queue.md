@@ -4,16 +4,19 @@
 
 마지막 정비: **M002** (2026-11-23) · [보고서](reports/M002.md) · 다음 정비 버전: **M003**
 
-원고 236개 · 변경 문서 15 · 고립 22 · 한쪽 연결 131 · 보류 33 · 열린 교차 제안 8
+원고 239개 · 변경 문서 21 · 고립 22 · 한쪽 연결 131 · 보류 35 · 열린 교차 제안 8
 
-## 1. 지난 정비 이후 변경된 문서 (15)
+## 1. 지난 정비 이후 변경된 문서 (21)
 
 manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
 - **정치경제** (9): `emmanuel-todd-western-defeat`, `housing-busts-global-korea`, `korea-household-consumption-divergence-2026`, `korea-bottom-economy-2026`, `korea-bottom-economy-concept-compression`, `korea-bottom-economy-reading`, `world-report-evidence`, `world-report-concepts`, `world-report-reading`
+- **철학** (3): `deleuze-becoming-new`, `freud-before-anti-oedipus`, `theatrum-mundi-philosophy`
 - **기술·지식 아카이브** (2): `cross-institutional-report-discovery`, `knowledge-press-machine-power`
+- **문학** (2): `hamlet-revenge-theatre-history`, `hamlet-agency-ophelia-criticism`
 - **음악** (2): `gwangju-symphony-roster`, `camerata-jeonnam-roster`
 - **미분류** (1): `circus-music-history`
+- **철학·사상사** (1): `lacan-anti-oedipus-history`
 - **AI와 사회** (1): `ai-youth-hiring-productivity-evidence-2026`
 
 ## 2. 들어오는 연결이 없는 문서 (22)
@@ -218,7 +221,7 @@ manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 
 - `agent-commons-self-evolution-memory` ↔ `agent-commons-cryostasis-continuity` · 0.16 · 연결됨
 - `global-south-critical-reading-guide` ↔ `gpi-foreign-novels-2015-2025` · 0.16
 
-## 6. 보류 항목 (33)
+## 6. 보류 항목 (35)
 
 - 경제 시뮬레이션의 기존 전제·수치·학파별 논증 · `ing-20261023-ai-economic-transition` — 해당 원자료를 확인하지 못해 기존 논증의 복원과 완전 보존 여부를 판정할 수 없음. 새 공개 자료의 보충 분석으로 대체 완료 처리하지 않음.
 - 기존 종합·수정 원고의 상세 내용 대조 · `ing-20261023-ai-economic-transition` — 본문이 아닌 참조 표시만 확인되어 기존 원고의 세부와 현재 증보 사이의 중복·차이를 검수할 수 없음.
@@ -253,6 +256,8 @@ manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 
 - 건설 퇴직공제 사업연보 간 집계 변경 원인 · `ing-20261123-bottom-economy-construction-baseline-synthesis` — 두 연보의 원표와 정정 이력 미확보
 - 공정위 공시와 후속 보도의 지연 지급 총액 불일치 · `ing-20261124-bottom-economy-payment-disclosure` — 1,389억 원과 1,203억 원의 집계 범위 및 정정 여부 원표 대조 필요
 - 공시 정정 전후 집계범위와 지연 지급액 불일치의 원인 · `ing-20261124-bottom-economy-payment-denominator-audit` — 2026년 7월 발표와 9월 후속 보도의 공시 원표 및 정정 이력을 아직 직접 대조하지 못함
+- 당대 유령·극중극 사용 비율과 일반인의 유령 신앙 비율 · `ing-20261127-hamlet-world-theatre` — 전수 자료 및 인구 자료 미확보
+- 덴마크 초연 대본·공연 횟수와 유령 집계 및 일부 논문 서지 원자료 검증 · `ing-20261127-hamlet-world-theatre` — 기존 논의의 소개 수준; 새 외부 조사 범위 밖
 
 ## 7. 열린 교차 편집 제안 (8)
 
@@ -276,5 +281,5 @@ manifest의 수정일이 2026-11-23 이후(당일 포함)이거나 수정일이 
 
 ## 9. 분류 참고
 
-분류 26개: AI와 사회 41, 음악 40, 사회와 제도 28, 문화와 역사 25, 정치경제 18, 철학 17, 과학과 기술 13, 기술·지식 아카이브 9, 운영 5, 독서 문화 4, 문학 4, 자연과 과학 4, 영화 3, 문화 3, 생명과학 3, 철학·사상사 3, 정보와 미디어 3, 게임 3, 종합 2, 소설 2, 질문 1, 미분류 1, 언어 1, 창작 1, 철학·심리 1, AI의 글 1
+분류 26개: AI와 사회 41, 음악 40, 사회와 제도 28, 문화와 역사 25, 철학 18, 정치경제 18, 과학과 기술 13, 기술·지식 아카이브 9, 문학 6, 운영 5, 독서 문화 4, 자연과 과학 4, 영화 3, 문화 3, 생명과학 3, 철학·사상사 3, 정보와 미디어 3, 게임 3, 종합 2, 소설 2, 질문 1, 미분류 1, 언어 1, 창작 1, 철학·심리 1, AI의 글 1
 문서가 하나뿐인 분류 6개: 질문, 미분류, 언어, 창작, 철학·심리, AI의 글. 분류 체계 변경은 제안만 한다.

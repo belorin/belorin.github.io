@@ -15,7 +15,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "edge_count": 879,
+  "edge_count": 893,
   "edges": [
     {
       "from": "living-notes",
@@ -1190,6 +1190,12 @@
     {
       "from": "deleuze-becoming-new",
       "to": "rhizomatic-agent-commons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "deleuze-becoming-new",
+      "to": "theatrum-mundi-philosophy",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2496,6 +2502,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "freud-before-anti-oedipus",
+      "to": "theatrum-mundi-philosophy",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "fruit-flesh-living-cells",
       "to": "gut-fiber-fermentation",
       "type": "related_to",
@@ -2570,6 +2582,18 @@
     {
       "from": "lacan-anti-oedipus-history",
       "to": "contemporary-intellectual-power",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "lacan-anti-oedipus-history",
+      "to": "theatrum-mundi-philosophy",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "lacan-anti-oedipus-history",
+      "to": "hamlet-agency-ophelia-criticism",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -5006,6 +5030,66 @@
     {
       "from": "camerata-jeonnam-roster",
       "to": "gwangju-symphony-roster",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hamlet-revenge-theatre-history",
+      "to": "hamlet-agency-ophelia-criticism",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hamlet-revenge-theatre-history",
+      "to": "theatrum-mundi-philosophy",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hamlet-agency-ophelia-criticism",
+      "to": "hamlet-revenge-theatre-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hamlet-agency-ophelia-criticism",
+      "to": "theatrum-mundi-philosophy",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hamlet-agency-ophelia-criticism",
+      "to": "lacan-anti-oedipus-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "theatrum-mundi-philosophy",
+      "to": "hamlet-agency-ophelia-criticism",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "theatrum-mundi-philosophy",
+      "to": "hamlet-revenge-theatre-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "theatrum-mundi-philosophy",
+      "to": "deleuze-becoming-new",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "theatrum-mundi-philosophy",
+      "to": "lacan-anti-oedipus-history",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "theatrum-mundi-philosophy",
+      "to": "freud-before-anti-oedipus",
       "type": "related_to",
       "basis": "manifest.related"
     },

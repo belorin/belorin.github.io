@@ -139,6 +139,7 @@
 - [취향 계산기 0.2: 생성형 취향 공간의 LLM 어댑터](https://belorin.github.io/notes/taste-calculator-adapter/): 완성품 전시와 자유 반응, 사전 예측의 봉인·사후 대조를 다루는 어댑터 설계와 직접 실행 가능한 SVG 취향 실험실. 생성형 이미지 LLM 연동은 후속 단계다.
 - [수리취향학 0.1: 기록적 취향체의 기하학과 동역학](https://belorin.github.io/notes/mathematical-theory-of-taste/): 객체·스타일·취향 상태·반응 공간을 구별하고 취향체를 기록을 포함한 한 점으로 정식화한 뒤, 역사 동치류·비가환 전이·유도 계량·곡률·방향별 도달 비용 및 차원 식별을 다룬다.
 - [취향 계산기의 스타일 대수: 생성 가능한 양식과 가상 취향체](https://belorin.github.io/notes/taste-calculator-style-algebra/): 객체의 하층·중층·상층과 이를 가로지르는 스타일을 구분하고 판정 대수와 별도의 생성 규칙, 선형독립 판정과 자유도의 차이, 관찰·가능 동치, 가상 취향체를 연구하는 형식 설계 문서.
+- [세계는 하나의 극장이다: 배역과 가면에서 주체의 생성까지](https://belorin.github.io/notes/theatrum-mundi-philosophy/): 플라톤·스토아·중세·셰익스피어부터 홉스·스미스·니체·융·고프먼·들뢰즈·버틀러까지 세계극장의 구조 변화를 추적한다.
 
 ### 독서 문화
 
@@ -222,6 +223,8 @@
 - [그랑프리 드 리마지네르: 2015~2026 후보와 수상작을 읽는 지도](https://belorin.github.io/notes/grand-prix-imaginaire-awards/): 2026년 GPI 각 부문 후보와 이영도 《눈물을 마시는 새》의 프랑스어판 제목, 2020~2025 여섯 작품상과 기타 부문 및 2015~2019 외국 장편 수상 기록을 구분·보존한다.
 - [2015~2025 GPI 외국 장편 수상작: 열한 개의 미래와 한국어 독서 경로](https://belorin.github.io/notes/gpi-foreign-novels-2015-2025/): 2015~2025 GPI 외국 장편 수상작 11편의 줄거리·형식·핵심 질문과 한국어 번역 여부의 확인·정정 상태를 비교한다.
 - [《The Ministry for the Future》: 미래 세대의 이름으로 세계의 장부를 바꾸는 소설](https://belorin.github.io/notes/ministry-for-the-future-reading/): 킴 스탠리 로빈슨의 기후소설에 나타난 인도 폭염, 미래부, 프랭크와 메리, 탄소 코인, 급진적 폭력, 빙하·난민 정책과 결말을 스포일러 포함해 독해한다.
+- [햄릿을 만든 연극계: 복수 비극, 유령, 극중극과 정전의 형성](https://belorin.github.io/notes/hamlet-revenge-theatre-history/): 덴마크 원전과 수용사, 셰익스피어의 당대 위상과 정전화, 고대부터 근세까지의 유령 및 복수 비극·극중극의 계보를 비교한다.
+- [햄릿은 자신의 삶을 주도하는가: 오필리아, 광기, 언어와 연극의 비평](https://belorin.github.io/notes/hamlet-agency-ophelia-criticism/): 햄릿의 반응적 행동, 오필리아와 레어티즈의 대칭, 말과 행위의 불일치, 연극적 자아를 분석하고 일곱 가지 비평적 독해와 비교한다.
 
 ### 자연과 과학
 

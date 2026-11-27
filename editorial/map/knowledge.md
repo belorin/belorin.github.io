@@ -3,9 +3,9 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 1582개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 1608개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
-## 보류 항목 (33)
+## 보류 항목 (35)
 
 - 경제 시뮬레이션의 기존 전제·수치·학파별 논증 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 해당 원자료를 확인하지 못해 기존 논증의 복원과 완전 보존 여부를 판정할 수 없음. 새 공개 자료의 보충 분석으로 대체 완료 처리하지 않음.
 - 기존 종합·수정 원고의 상세 내용 대조 → 반영 위치 없음 · `ing-20261023-ai-economic-transition` · pending — 본문이 아닌 참조 표시만 확인되어 기존 원고의 세부와 현재 증보 사이의 중복·차이를 검수할 수 없음.
@@ -40,6 +40,8 @@
 - 건설 퇴직공제 사업연보 간 집계 변경 원인 → 반영 위치 없음 · `ing-20261123-bottom-economy-construction-baseline-synthesis` · pending — 두 연보의 원표와 정정 이력 미확보
 - 공정위 공시와 후속 보도의 지연 지급 총액 불일치 → 반영 위치 없음 · `ing-20261124-bottom-economy-payment-disclosure` · pending — 1,389억 원과 1,203억 원의 집계 범위 및 정정 여부 원표 대조 필요
 - 공시 정정 전후 집계범위와 지연 지급액 불일치의 원인 → 반영 위치 없음 · `ing-20261124-bottom-economy-payment-denominator-audit` · pending — 2026년 7월 발표와 9월 후속 보도의 공시 원표 및 정정 이력을 아직 직접 대조하지 못함
+- 당대 유령·극중극 사용 비율과 일반인의 유령 신앙 비율 → 반영 위치 없음 · `ing-20261127-hamlet-world-theatre` · pending — 전수 자료 및 인구 자료 미확보
+- 덴마크 초연 대본·공연 횟수와 유령 집계 및 일부 논문 서지 원자료 검증 → 반영 위치 없음 · `ing-20261127-hamlet-world-theatre` · pending — 기존 논의의 소개 수준; 새 외부 조사 범위 밖
 
 ## AI와 사회 (324)
 
@@ -1001,6 +1003,118 @@
 - 소프트웨어 개발 외주·EOR·프리랜서 계약 구별 → `global-bpo-labor-geography` § 개발자 아웃소싱의 새로운 연결층: EOR와 인력 플랫폼 · `ing-20261104-local-llm-global-developer-work`
 - 아프리카 개발자 다핵 네트워크와 원격 급여의 함정 → `global-bpo-labor-geography` § 아프리카 개발자 시장: 단일한 값싼 예비군이 아닌 다핵 구조 · `ing-20261104-local-llm-global-developer-work`
 
+## 철학 (107)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 부정의 과대평가와 문제·차이의 발생론 → `deleuze-negation-history` § 부정은 원인이 아니라 표면 효과다; `deleuze-negation-history` § 기획의 보수성: 이미 주어진 항을 부정하는 것 · `ing-20261023-deleuze-control-democracy`
+- 역사의 비목적론과 원문의 passe par 해석 → `deleuze-negation-history` § 역사는 진보가 아니라 문제의 규정을 통과한다 · `ing-20261023-deleuze-control-democracy`
+- 피비린내와 잔혹함이 차이의 긍정을 평화주의와 분리한다는 해석 → `deleuze-negation-history` § 피비린내와 잔혹함: 긍정은 평화주의가 아니다; `deleuze-negation-history` § “혁명은 축제”와 역사적 잔혹함은 양립할 수 있다 · `ing-20261023-deleuze-control-democracy`
+- 플라톤식 모델·재현과 내재적 평가의 구별 → `deleuze-negation-history` § 플라톤식 도덕주의와 다른 평가 · `ing-20261023-deleuze-control-democracy`
+- 재현적 제도와 비재현적 플랫폼 통제가 공존하는 현대사회 → `deleuze-negation-history` § 현재 세계는 헤겔적인가; `deleuze-control-marx-future` § 자본주의가 비재현적으로 변한 역설 · `ing-20261023-deleuze-control-democracy`
+- 통제사회의 주형·변조·dividual·빚진 인간 → `deleuze-control-marx-future` § 규율사회에서 통제사회로; `deleuze-control-marx-future` § 개인에서 dividual로; `deleuze-control-marx-future` § 기업, 마케팅, 빚진 인간 · `ing-20261023-deleuze-control-democracy`
+- 말년의 마르크스 회귀와 미완성 『마르크스의 위대함』 → `deleuze-control-marx-future` § 『마르크스의 위대함』이라는 미완성 기획 · `ing-20261023-deleuze-control-democracy`
+- 혁명적 생성·비소통·세계에 대한 믿음으로 본 말년의 미래관 → `deleuze-control-marx-future` § 말년의 미래관: “아마도, 나는 모른다”; `deleuze-control-marx-future` § 혁명적 생성; `deleuze-control-marx-future` § 비소통의 공백과 회로 차단기; `deleuze-control-marx-future` § 세계를 믿는다는 것 · `ing-20261023-deleuze-control-democracy`
+- 『디알로그』·『천 개의 고원』·통제사회로 이어지는 독서 경로 → `deleuze-becoming-new` § 독서 경로: 『디알로그』에서 말년의 통제사회까지 · `ing-20261023-deleuze-control-democracy`
+- 오래된 철학을 예언이 아닌 현재 문제의 렌즈로 읽는 기준 → `deleuze-becoming-new` § 2026년에 읽는 법: 예언이 아니라 오래된 고성능 렌즈 · `ing-20261023-deleuze-control-democracy`
+- 라자라토에서 육후이까지 분산된 들뢰즈 이후의 계보 → `post-deleuze-novelty-thinkers` § 기능이 분산된 계보; `post-deleuze-novelty-thinkers` § 무엇을 읽을 것인가 · `ing-20261023-deleuze-control-democracy`
+- 단일 패권철학보다 제도별 합리성이 작동한다는 현대 철학 지도 → `contemporary-governing-philosophies` § 하나의 패권철학보다 겹치는 운영체제 · `ing-20261023-deleuze-control-democracy`
+- 자유주의·신자유주의·통계적 실증주의·경제학·계산주의의 구별 → `contemporary-governing-philosophies` § 자유주의: 법과 정치의 기본 운영체제; `contemporary-governing-philosophies` § 신자유주의: 시장보다 더 넓은 평가의 문법; `contemporary-governing-philosophies` § 학문의 운영 문법: 자연주의와 통계적 실증주의; `contemporary-governing-philosophies` § 경제학 제국주의: 철학보다 강한 사회과학의 언어; `contemporary-governing-philosophies` § 떠오르는 합리성: 계산주의·최적화·사이버네틱스 · `ing-20261023-deleuze-control-democracy`
+- 일본에서 치이카와가 철학·노동·캐릭터론·만화표현론의 분석 대상으로 확장된 흐름 → `chiikawa-philosophy` § 연구는 이미 팬 고찰을 넘어섰다 · `ing-20261024-chiikawa-philosophy`
+- 히라이시의 2025년 논문과 2024년 발표자료 사이의 자료 경계 → `chiikawa-philosophy` § 히라이시 논문의 위치와 자료의 경계 · `ing-20261024-chiikawa-philosophy`
+- 초기 욕망적 존재에서 사회 구성원으로 이동하는 치이카와의 문제 설정 → `chiikawa-philosophy` § 출발점: “이런 식으로 되어 살아가고 싶다”; `chiikawa-philosophy` § 욕망적인 존재에게 사회가 생길 때 · `ing-20261024-chiikawa-philosophy`
+- 플라톤의 2차적 덕으로 읽는 습관·노동·규칙의 사회적 통치 → `chiikawa-philosophy` § 2차적 덕: 철학하지 않아도 질서 안에서 잘 사는 법 · `ing-20261024-chiikawa-philosophy`
+- 마법의 지팡이 에피소드에서 욕망이 사회적 절차를 우회할 때 나타나는 괴물화 → `chiikawa-philosophy` § 마법의 지팡이: 욕망이 절차를 건너뛸 때 괴물이 된다 · `ing-20261024-chiikawa-philosophy`
+- 고귀한 거짓말로서의 치이카와와 이미 주어진 질서의 자연화 → `chiikawa-philosophy` § 고귀한 거짓말: 이미 주어진 질서를 자연스럽게 느끼게 하는 장치 · `ing-20261024-chiikawa-philosophy`
+- 순응 독해의 한계와 우정·서술 시점·우사기가 만드는 반례 → `chiikawa-philosophy` § 이 독해가 강한 곳과 약한 곳; `chiikawa-philosophy` § 우사기라는 반례와 규범의 누수 · `ing-20261024-chiikawa-philosophy`
+- 알튀세르·캐라/캐릭터·소리와 리듬·노동·심리적 수용을 잇는 일본의 치이카와 비평 지형 → `chiikawa-philosophy` § 일본에서 확장되고 있는 다른 독해들; `chiikawa-philosophy` § 현재 확인되는 연구 지형 · `ing-20261024-chiikawa-philosophy`
+- 유리수와 무리수의 정확한 표현 → `deleuze-number-intensity-spatium` § 유리수와 무리수: 분수라는 표현의 정확한 조건 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 기수와 서수 및 무한의 순서형 → `deleuze-number-intensity-spatium` § 기수와 서수: 세 개와 세 번째에서 무한의 순서형까지 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 외연적 측정과 강도적 발생의 대비 → `deleuze-number-intensity-spatium` § 외연으로 측정하는 공간과 강도로 발생하는 공간 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 들뢰즈 spatium의 발생적 공간 → `deleuze-number-intensity-spatium` § spatium: 이미 놓인 공간이 아니라 차이가 펼쳐지는 장 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 미확인 A+B/2+C 판독 보류 → `deleuze-number-intensity-spatium` § '수에서 비동등한 것이 떠맡는 역할'과 A+B/2+C의 판독 문제 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 산술·조화평균과 중항의 계산 → `deleuze-number-intensity-spatium` § '수에서 비동등한 것이 떠맡는 역할'과 A+B/2+C의 판독 문제 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 플라톤의 세계 영혼과 비례 → `deleuze-number-intensity-spatium` § 플라톤 『티마이오스』의 세계 영혼과 비례의 질서 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 라틴어 -um의 개념적 효과 → `deleuze-number-intensity-spatium` § -um이라는 어미: 명사화보다 라틴어 개념어의 호출 · `ing-20261025-deleuze-numbers-greek-neighbors`
+- 잡다와 차이의 발생적 조건 → `deleuze-number-intensity-spatium` § 차이와 잡다: 소여에 머물러 있는 발생의 조건 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 카르노의 온도 차와 열기관 → `deleuze-number-intensity-spatium` § 카르노의 열기관: 차이가 일을 만든 뒤 소모되는가 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 퀴리의 대칭성과 결과의 비대칭 → `deleuze-number-intensity-spatium` § 퀴리의 대칭성: 결과의 비대칭과 원인의 조건 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 강도 차이의 질화·연장과 자기소멸 비유 → `deleuze-number-intensity-spatium` § 질과 연장 속의 강도: 자기소멸이라는 비유 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 감성적인 것과 발생의 이유 → `deleuze-number-intensity-spatium` § 감성적인 것의 이유: 감정이 아니라 감각 가능한 것 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 차이를 소여와 가치로 구별 → `deleuze-number-intensity-spatium` § 차이는 소여였으나 가치가 아니었다 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 피히테의 자아와 비자아의 대립 → `hegel-fichte-schelling-difference` § 피히테: 자아가 세계의 한계를 넘어서려 할 때 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 셸링의 자연과 정신의 동일성 → `hegel-fichte-schelling-difference` § 셸링: 자연은 자아의 장애물이 아니라 절대자의 다른 표현이다 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 헤겔 초기 호의와 후기 셸링 비판 → `hegel-fichte-schelling-difference` § 초기의 호의와 이후의 비판을 구분하기 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 사유의 불가능자와 내부의 접힘 → `deleuze-unthinkable-fold-thought` § 외부의 한계가 아니라 안쪽의 접힘 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 죽음·자기인식·사랑의 사유 한계 → `deleuze-unthinkable-fold-thought` § 죽음, 자기 자신, 사랑: 포착할 수 없지만 생각을 멈출 수 없는 것 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 충격과 감각이 강제하는 사유 → `deleuze-unthinkable-fold-thought` § 사유는 스스로 시작되는가, 무언가에 강요되는가 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 프로이트 단권 입문서 선택 → `freud-before-anti-oedipus` § 한 권이라면 『정신분석 입문』 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 꿈의 해석과 성욕 이론의 두 권 선택 → `freud-before-anti-oedipus` § 두 권이라면 『꿈의 해석』과 『성욕에 관한 세 편의 에세이』 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 프로이트 비판 대상의 단순화 방지 → `freud-before-anti-oedipus` § 『안티 오이디푸스』의 비판 대상을 지나치게 단순화하지 않기 · `ing-20261025-deleuze-intensity-hegel-freud`
+- 프로이트 입문서와 라캉 입문서의 목적 차이 → `freud-before-anti-oedipus` § 1972년을 위한 라캉 독서: 프로이트 원전을 대신하는 것이 아니다 · `ing-20261026-dreams-lacan-philosophy-power`
+- 강도 차이와 열기관의 발생 조건 → `deleuze-thermodynamics-implication-equilibrium` § 열역학은 차이를 발견하면서 차이의 소멸도 보여준다 · `ing-20261103-deleuze-entropy-implication`
+- 초월론적 물리학적 가상과 결과의 선취 → `deleuze-thermodynamics-implication-equilibrium` § ‘초월론적 물리학적 가상’은 무엇을 착각하는가 · `ing-20261103-deleuze-entropy-implication`
+- 열역학적 파성추 번역과 원전 대조 → `deleuze-thermodynamics-implication-equilibrium` § ‘초월론적 물리학적 가상’은 무엇을 착각하는가 · `ing-20261103-deleuze-entropy-implication`
+- 안 주름운동과 밖 주름운동의 함축·펼침 → `deleuze-thermodynamics-implication-equilibrium` § 안으로 접히는 것과 밖으로 펼쳐지는 것 · `ing-20261103-deleuze-entropy-implication`
+- 안 주름의 물리적 구체성과 개념적 한계 → `deleuze-thermodynamics-implication-equilibrium` § ‘안 주름은 구체적으로 무엇인가’라는 난점 · `ing-20261103-deleuze-entropy-implication`
+- 번개와 씨앗의 이질적 차이 배치 → `deleuze-thermodynamics-implication-equilibrium` § ‘안 주름은 구체적으로 무엇인가’라는 난점 · `ing-20261103-deleuze-entropy-implication`
+- 발생적 깊이와 공간의 차원 구분 → `deleuze-thermodynamics-implication-equilibrium` § 깊이: 길이·너비 뒤에 추가한 세 번째 축이 아니다 · `ing-20261103-deleuze-entropy-implication`
+- 포텐셜 에너지와 강도적 함축의 비동일성 → `deleuze-thermodynamics-implication-equilibrium` § 포텐셜 에너지와 거의 닿지만 완전히 겹치지 않는다 · `ing-20261103-deleuze-entropy-implication`
+- 낙차·배터리·압축 기체와 다양한 전개의 경로 → `deleuze-thermodynamics-implication-equilibrium` § 포텐셜 에너지와 거의 닿지만 완전히 겹치지 않는다 · `ing-20261103-deleuze-entropy-implication`
+- 엔트로피의 경험적 법칙과 존재론적 일반화의 구별 → `deleuze-thermodynamics-implication-equilibrium` § 엔트로피에 반대한 것인가, 엔트로피의 철학적 독점에 반대한 것인가 · `ing-20261103-deleuze-entropy-implication`
+- 최종 열평형과 완전한 침묵의 반론 → `deleuze-thermodynamics-implication-equilibrium` § 그러나 결국 완전히 침묵한다면 · `ing-20261103-deleuze-entropy-implication`
+- 국소적 열평형과 우주 열죽음의 구별 → `deleuze-thermodynamics-implication-equilibrium` § 그러나 결국 완전히 침묵한다면 · `ing-20261103-deleuze-entropy-implication`
+- 발생의 우선권과 최종 소멸의 양립 문제 → `deleuze-thermodynamics-implication-equilibrium` § 그러나 결국 완전히 침묵한다면 · `ing-20261103-deleuze-entropy-implication`
+- 감각적 동일성과 예술적 출처의 별개 문제 → `human-authorship-creator-preference` § 감각적 동일성과 창작자의 동일성 · `ing-20261114-taste-slop-human-authorship-search-costs`
+- AI와 인간 작품의 식별·평가·지불 행동 분리 → `human-authorship-creator-preference` § 알아맞히는 능력과 지불하려는 마음 · `ing-20261114-taste-slop-human-authorship-search-costs`
+- 완성품과 창작 과정의 경험적 가치 구별 → `human-authorship-creator-preference` § 만드는 사람의 경험과 관객의 경험 · `ing-20261114-taste-slop-human-authorship-search-costs`
+- 작가 홍보 노동과 인간성의 상품화 가능성 → `human-authorship-creator-preference` § 저자의 죽음 뒤에 돌아온 작가의 얼굴 · `ing-20261114-taste-slop-human-authorship-search-costs`
+- 개인화된 작품과 공동 문화의 두 방향 → `human-authorship-creator-preference` § AI가 가져간 것은 공통의 작품인가, 공통의 청중인가 · `ing-20261114-taste-slop-human-authorship-search-costs`
+- 인간 창작자 선호의 장·단기 분화와 관찰 조건 → `human-authorship-creator-preference` § 긴 싸움일 수도, 짧은 싸움일 수도 있다 · `ing-20261114-taste-slop-human-authorship-search-costs`
+- 서로 먼 완성품 우선 제시와 분류 이전의 생성 → `taste-calculator-adapter` § 1. 먼저 완성품을, 다음에 취향의 차원을 · `ing-20261115-taste-calculator-adapter-design`
+- 삼층 스타일 거리의 임시성 및 개인별 차이 → `taste-calculator-adapter` § 2. 거리는 생성기의 초기 가설일 뿐이다 · `ing-20261115-taste-calculator-adapter-design`
+- 생성기 주도 차원 발견과 N1~N4 구별 → `taste-calculator-adapter` § 3. 생성기는 차원을 발견해야 한다 · `ing-20261115-taste-calculator-adapter-design`
+- 티어메이커와 월드컵을 넘는 자유 반응 방식 → `taste-calculator-adapter` § 4. 전시와 반응: 설문지가 되지 않는 티어메이커 · `ing-20261115-taste-calculator-adapter-design`
+- 이미지 생성 한도에 따른 N과 회차 구성 → `taste-calculator-adapter` § 5. 첫 라운드: 이미지 수는 LLM 인터페이스가 결정한다 · `ing-20261115-taste-calculator-adapter-design`
+- 위키 명세·생성 LLM·계산 영역의 어댑터 역할 → `taste-calculator-adapter` § 6. 위키 기반 LLM 어댑터: 구성요소별 경계 · `ing-20261115-taste-calculator-adapter-design`
+- 작품·반응·개인 상태를 위한 데이터 계약 → `taste-calculator-adapter` § 7. 어댑터의 최소 데이터 계약 · `ing-20261115-taste-calculator-adapter-design`
+- LLM 내부 모드와 Python 외부 모드의 분리 → `taste-calculator-adapter` § 8. 계산 영역: 내부 모드와 외부 모드 · `ing-20261115-taste-calculator-adapter-design`
+- 과포화의 추정 이전에 노출 이력 보존 → `taste-calculator-adapter` § 10. 과포화는 초기 라운드에서 판정하지 않는다 · `ing-20261115-taste-calculator-adapter-design`
+- 반응 출력과 작품·취향·반응 공간의 구별 → `mathematical-theory-of-taste` § 1. 네 공간과 계산의 출력 · `ing-20261115-mathematical-taste-dynamics`
+- 스타일 불변성과 형식 조직 → `mathematical-theory-of-taste` § 2. 스타일은 상층도 객체도 아닌 가로지르는 형식이다 · `ing-20261115-mathematical-taste-dynamics`
+- 반응 거리에 의한 의사거리와 국소 계량 → `mathematical-theory-of-taste` § 3. 두 사람의 취향 거리는 어떻게 정의되는가 · `ing-20261115-mathematical-taste-dynamics`
+- 비선형 반응 곡면의 음의 곡률 → `mathematical-theory-of-taste` § 반응의 비선형성이 만드는 곡률 · `ing-20261115-mathematical-taste-dynamics`
+- 두 작품과 기록 변수의 전이 규칙 → `mathematical-theory-of-taste` § 4. 역사적 존재: A와 B밖에 없는 작은 세계 · `ing-20261115-mathematical-taste-dynamics`
+- 감상 순서의 비가환성 → `mathematical-theory-of-taste` § 4. 역사적 존재: A와 B밖에 없는 작은 세계 · `ing-20261115-mathematical-taste-dynamics`
+- 미래 실험을 기준으로 한 역사 동치류 → `mathematical-theory-of-taste` § 5. 과거를 모두 저장하지 않고 역사에 충실할 수 있는가 · `ing-20261115-mathematical-taste-dynamics`
+- 미래 관측 지평에 따른 식별 차원 → `mathematical-theory-of-taste` § 미래를 더 물어보면 차원이 드러난다 · `ing-20261115-mathematical-taste-dynamics`
+- 취향 전이 비용과 방향별 도달 가능성 → `mathematical-theory-of-taste` § 6. 기하학적 거리, 이동 비용, 도달 가능성 · `ing-20261115-mathematical-taste-dynamics`
+- 취향체 순서쌍과 경험 순서쌍의 구별 → `mathematical-theory-of-taste` § 7. 순서쌍의 두 의미: 경험의 순서와 취향체의 방향 관계 · `ing-20261115-mathematical-taste-dynamics`
+- 관측 차원과 구조적 새 차원 구분 → `mathematical-theory-of-taste` § 8. 관측 가능한 차원과 새로 생성된 차원은 다르다 · `ing-20261115-mathematical-taste-dynamics`
+- 새 작품 C의 도달 가능성 변화와 원래 경로의 보존 → `mathematical-theory-of-taste` § 9. C의 등장: 다음 연구의 출발점 · `ing-20261115-mathematical-taste-dynamics`
+- 수리취향학과 취향역학의 명명 → `mathematical-theory-of-taste` § 10. 명칭과 연구의 경계 · `ing-20261115-mathematical-taste-dynamics`
+- 기존 취향 계산기 기초 이론과 수리취향학 정식화 연결 → `taste-calculator-foundations` § 후속 수학적 정식화: 기록적 취향체와 도달 가능성 · `ing-20261115-mathematical-taste-dynamics`
+- 감상 이전에 경쟁 가설의 반응 예측을 기록하고 이후 공개하는 절차 → `taste-calculator-adapter` § 두 예측을 먼저 보관하고 작품을 보여주기 · `ing-20261116-taste-prediction`
+- 복수 예측의 불일치를 다음 작품 탐색의 선택 기준으로 활용 → `taste-calculator-adapter` § 두 예측을 먼저 보관하고 작품을 보여주기 · `ing-20261116-taste-prediction`
+- 현재 반응 예측과 경험 후 기존 작품 재평가 예측의 분리 → `taste-calculator-adapter` § 두 예측을 먼저 보관하고 작품을 보여주기 · `ing-20261116-taste-prediction`
+- 위키 안에서 취향 실험실 0.2를 직접 실행하고 전체화면으로 열 수 있는 연결 → `taste-calculator-adapter` § 설계의 중심 · `ing-20261116-taste-lab-site-integration`
+- 취향 상태 몫공간과 도달 집합의 기호 충돌 해소 → `mathematical-theory-of-taste` § 5. 과거를 모두 저장하지 않고 역사에 충실할 수 있는가; `mathematical-theory-of-taste` § 6. 기하학적 거리, 이동 비용, 도달 가능성 · `ing-20261116-taste-lab-site-integration`
+- 객체 생성과 취향 상태 전이를 구분하는 기호 정정 → `taste-calculator-foundations` § 5. 두 시간의 계산: 지금 맞히기와 나중을 바꾸기 · `ing-20261116-taste-lab-site-integration`
+- 스타일 판정 예시와 유한 대수 예제의 함수 명칭 구분 → `taste-calculator-style-algebra` § 4. 스타일의 판정과 생성은 다른 방향의 계산이다 · `ing-20261116-taste-lab-site-integration`
+- 원본과 파생 실험의 제작 목적과 구현 한계 → `taste-calculator-adapter` § 원본과 파생 실험: 무엇을 경험하게 하려 했는가 · `ing-20261116-taste-experiment-rationales`
+- 객체 변형 합성을 위한 생성 실험의 범위 → `taste-calculator-style-algebra` § 생성 연산을 눈으로 확인하기 위한 구현 · `ing-20261116-taste-experiment-rationales`
+- 경험 순서와 C 전이의 실행 예제 및 감상과의 간극 → `mathematical-theory-of-taste` § 순서와 C의 역할을 실행해 보는 실험 · `ing-20261116-taste-experiment-rationales`
+- 신과 운명이 배역을 주는 극장 → `theatrum-mundi-philosophy` § 신과 운명이 배역을 주는 극장 · `ing-20261127-hamlet-world-theatre`
+- 셰익스피어와 르네상스의 불안정한 극장 → `theatrum-mundi-philosophy` § 셰익스피어와 르네상스의 불안정한 극장 · `ing-20261127-hamlet-world-theatre`
+- 대표와 관객: 홉스에서 애덤 스미스까지 → `theatrum-mundi-philosophy` § 대표와 관객: 홉스에서 애덤 스미스까지 · `ing-20261127-hamlet-world-theatre`
+- 가면과 역사: 키르케고르, 니체, 마르크스 → `theatrum-mundi-philosophy` § 가면과 역사: 키르케고르, 니체, 마르크스 · `ing-20261127-hamlet-world-theatre`
+- 무의식과 사회적 가면 → `theatrum-mundi-philosophy` § 무의식과 사회적 가면 · `ing-20261127-hamlet-world-theatre`
+- 들뢰즈: 재현이 아닌 운동의 극장 → `theatrum-mundi-philosophy` § 들뢰즈: 재현이 아닌 운동의 극장 · `ing-20261127-hamlet-world-theatre`
+- 무의식은 극장이 아니라 공장이다 → `theatrum-mundi-philosophy` § 무의식은 극장이 아니라 공장이다 · `ing-20261127-hamlet-world-theatre`
+- 버틀러: 수행하는 주체는 이미 완성되어 있는가 → `theatrum-mundi-philosophy` § 버틀러: 수행하는 주체는 이미 완성되어 있는가 · `ing-20261127-hamlet-world-theatre`
+- 세계극장의 구조 변환 → `theatrum-mundi-philosophy` § 세계극장의 구조 변환 · `ing-20261127-hamlet-world-theatre`
+- 들뢰즈의 햄릿: 경첩에서 벗어난 시간 → `theatrum-mundi-philosophy` § 들뢰즈의 햄릿: 경첩에서 벗어난 시간 · `ing-20261127-hamlet-world-theatre`
+
 ## 과학과 기술 (101)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -1212,108 +1326,6 @@
 - 거짓 확정 노출 시간과 부당 철회율의 동시 평가 → `cross-institutional-report-discovery` § 검증 경고의 지식 부채: 결론의 공개 자격과 검토 대기열 (2026-11-22) · `ing-20261122-validation-debt`
 - 평가 사례의 노출 이력과 시간 누출 관리 → `cross-institutional-report-discovery` § 평가 자료의 노출 이력: 맹검 이후에도 남는 오염과 시간 누출 (2026-11-22) · `ing-20261122-benchmark-exposure-clock`
 
-## 철학 (97)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 부정의 과대평가와 문제·차이의 발생론 → `deleuze-negation-history` § 부정은 원인이 아니라 표면 효과다; `deleuze-negation-history` § 기획의 보수성: 이미 주어진 항을 부정하는 것 · `ing-20261023-deleuze-control-democracy`
-- 역사의 비목적론과 원문의 passe par 해석 → `deleuze-negation-history` § 역사는 진보가 아니라 문제의 규정을 통과한다 · `ing-20261023-deleuze-control-democracy`
-- 피비린내와 잔혹함이 차이의 긍정을 평화주의와 분리한다는 해석 → `deleuze-negation-history` § 피비린내와 잔혹함: 긍정은 평화주의가 아니다; `deleuze-negation-history` § “혁명은 축제”와 역사적 잔혹함은 양립할 수 있다 · `ing-20261023-deleuze-control-democracy`
-- 플라톤식 모델·재현과 내재적 평가의 구별 → `deleuze-negation-history` § 플라톤식 도덕주의와 다른 평가 · `ing-20261023-deleuze-control-democracy`
-- 재현적 제도와 비재현적 플랫폼 통제가 공존하는 현대사회 → `deleuze-negation-history` § 현재 세계는 헤겔적인가; `deleuze-control-marx-future` § 자본주의가 비재현적으로 변한 역설 · `ing-20261023-deleuze-control-democracy`
-- 통제사회의 주형·변조·dividual·빚진 인간 → `deleuze-control-marx-future` § 규율사회에서 통제사회로; `deleuze-control-marx-future` § 개인에서 dividual로; `deleuze-control-marx-future` § 기업, 마케팅, 빚진 인간 · `ing-20261023-deleuze-control-democracy`
-- 말년의 마르크스 회귀와 미완성 『마르크스의 위대함』 → `deleuze-control-marx-future` § 『마르크스의 위대함』이라는 미완성 기획 · `ing-20261023-deleuze-control-democracy`
-- 혁명적 생성·비소통·세계에 대한 믿음으로 본 말년의 미래관 → `deleuze-control-marx-future` § 말년의 미래관: “아마도, 나는 모른다”; `deleuze-control-marx-future` § 혁명적 생성; `deleuze-control-marx-future` § 비소통의 공백과 회로 차단기; `deleuze-control-marx-future` § 세계를 믿는다는 것 · `ing-20261023-deleuze-control-democracy`
-- 『디알로그』·『천 개의 고원』·통제사회로 이어지는 독서 경로 → `deleuze-becoming-new` § 독서 경로: 『디알로그』에서 말년의 통제사회까지 · `ing-20261023-deleuze-control-democracy`
-- 오래된 철학을 예언이 아닌 현재 문제의 렌즈로 읽는 기준 → `deleuze-becoming-new` § 2026년에 읽는 법: 예언이 아니라 오래된 고성능 렌즈 · `ing-20261023-deleuze-control-democracy`
-- 라자라토에서 육후이까지 분산된 들뢰즈 이후의 계보 → `post-deleuze-novelty-thinkers` § 기능이 분산된 계보; `post-deleuze-novelty-thinkers` § 무엇을 읽을 것인가 · `ing-20261023-deleuze-control-democracy`
-- 단일 패권철학보다 제도별 합리성이 작동한다는 현대 철학 지도 → `contemporary-governing-philosophies` § 하나의 패권철학보다 겹치는 운영체제 · `ing-20261023-deleuze-control-democracy`
-- 자유주의·신자유주의·통계적 실증주의·경제학·계산주의의 구별 → `contemporary-governing-philosophies` § 자유주의: 법과 정치의 기본 운영체제; `contemporary-governing-philosophies` § 신자유주의: 시장보다 더 넓은 평가의 문법; `contemporary-governing-philosophies` § 학문의 운영 문법: 자연주의와 통계적 실증주의; `contemporary-governing-philosophies` § 경제학 제국주의: 철학보다 강한 사회과학의 언어; `contemporary-governing-philosophies` § 떠오르는 합리성: 계산주의·최적화·사이버네틱스 · `ing-20261023-deleuze-control-democracy`
-- 일본에서 치이카와가 철학·노동·캐릭터론·만화표현론의 분석 대상으로 확장된 흐름 → `chiikawa-philosophy` § 연구는 이미 팬 고찰을 넘어섰다 · `ing-20261024-chiikawa-philosophy`
-- 히라이시의 2025년 논문과 2024년 발표자료 사이의 자료 경계 → `chiikawa-philosophy` § 히라이시 논문의 위치와 자료의 경계 · `ing-20261024-chiikawa-philosophy`
-- 초기 욕망적 존재에서 사회 구성원으로 이동하는 치이카와의 문제 설정 → `chiikawa-philosophy` § 출발점: “이런 식으로 되어 살아가고 싶다”; `chiikawa-philosophy` § 욕망적인 존재에게 사회가 생길 때 · `ing-20261024-chiikawa-philosophy`
-- 플라톤의 2차적 덕으로 읽는 습관·노동·규칙의 사회적 통치 → `chiikawa-philosophy` § 2차적 덕: 철학하지 않아도 질서 안에서 잘 사는 법 · `ing-20261024-chiikawa-philosophy`
-- 마법의 지팡이 에피소드에서 욕망이 사회적 절차를 우회할 때 나타나는 괴물화 → `chiikawa-philosophy` § 마법의 지팡이: 욕망이 절차를 건너뛸 때 괴물이 된다 · `ing-20261024-chiikawa-philosophy`
-- 고귀한 거짓말로서의 치이카와와 이미 주어진 질서의 자연화 → `chiikawa-philosophy` § 고귀한 거짓말: 이미 주어진 질서를 자연스럽게 느끼게 하는 장치 · `ing-20261024-chiikawa-philosophy`
-- 순응 독해의 한계와 우정·서술 시점·우사기가 만드는 반례 → `chiikawa-philosophy` § 이 독해가 강한 곳과 약한 곳; `chiikawa-philosophy` § 우사기라는 반례와 규범의 누수 · `ing-20261024-chiikawa-philosophy`
-- 알튀세르·캐라/캐릭터·소리와 리듬·노동·심리적 수용을 잇는 일본의 치이카와 비평 지형 → `chiikawa-philosophy` § 일본에서 확장되고 있는 다른 독해들; `chiikawa-philosophy` § 현재 확인되는 연구 지형 · `ing-20261024-chiikawa-philosophy`
-- 유리수와 무리수의 정확한 표현 → `deleuze-number-intensity-spatium` § 유리수와 무리수: 분수라는 표현의 정확한 조건 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 기수와 서수 및 무한의 순서형 → `deleuze-number-intensity-spatium` § 기수와 서수: 세 개와 세 번째에서 무한의 순서형까지 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 외연적 측정과 강도적 발생의 대비 → `deleuze-number-intensity-spatium` § 외연으로 측정하는 공간과 강도로 발생하는 공간 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 들뢰즈 spatium의 발생적 공간 → `deleuze-number-intensity-spatium` § spatium: 이미 놓인 공간이 아니라 차이가 펼쳐지는 장 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 미확인 A+B/2+C 판독 보류 → `deleuze-number-intensity-spatium` § '수에서 비동등한 것이 떠맡는 역할'과 A+B/2+C의 판독 문제 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 산술·조화평균과 중항의 계산 → `deleuze-number-intensity-spatium` § '수에서 비동등한 것이 떠맡는 역할'과 A+B/2+C의 판독 문제 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 플라톤의 세계 영혼과 비례 → `deleuze-number-intensity-spatium` § 플라톤 『티마이오스』의 세계 영혼과 비례의 질서 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 라틴어 -um의 개념적 효과 → `deleuze-number-intensity-spatium` § -um이라는 어미: 명사화보다 라틴어 개념어의 호출 · `ing-20261025-deleuze-numbers-greek-neighbors`
-- 잡다와 차이의 발생적 조건 → `deleuze-number-intensity-spatium` § 차이와 잡다: 소여에 머물러 있는 발생의 조건 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 카르노의 온도 차와 열기관 → `deleuze-number-intensity-spatium` § 카르노의 열기관: 차이가 일을 만든 뒤 소모되는가 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 퀴리의 대칭성과 결과의 비대칭 → `deleuze-number-intensity-spatium` § 퀴리의 대칭성: 결과의 비대칭과 원인의 조건 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 강도 차이의 질화·연장과 자기소멸 비유 → `deleuze-number-intensity-spatium` § 질과 연장 속의 강도: 자기소멸이라는 비유 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 감성적인 것과 발생의 이유 → `deleuze-number-intensity-spatium` § 감성적인 것의 이유: 감정이 아니라 감각 가능한 것 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 차이를 소여와 가치로 구별 → `deleuze-number-intensity-spatium` § 차이는 소여였으나 가치가 아니었다 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 피히테의 자아와 비자아의 대립 → `hegel-fichte-schelling-difference` § 피히테: 자아가 세계의 한계를 넘어서려 할 때 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 셸링의 자연과 정신의 동일성 → `hegel-fichte-schelling-difference` § 셸링: 자연은 자아의 장애물이 아니라 절대자의 다른 표현이다 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 헤겔 초기 호의와 후기 셸링 비판 → `hegel-fichte-schelling-difference` § 초기의 호의와 이후의 비판을 구분하기 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 사유의 불가능자와 내부의 접힘 → `deleuze-unthinkable-fold-thought` § 외부의 한계가 아니라 안쪽의 접힘 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 죽음·자기인식·사랑의 사유 한계 → `deleuze-unthinkable-fold-thought` § 죽음, 자기 자신, 사랑: 포착할 수 없지만 생각을 멈출 수 없는 것 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 충격과 감각이 강제하는 사유 → `deleuze-unthinkable-fold-thought` § 사유는 스스로 시작되는가, 무언가에 강요되는가 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 프로이트 단권 입문서 선택 → `freud-before-anti-oedipus` § 한 권이라면 『정신분석 입문』 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 꿈의 해석과 성욕 이론의 두 권 선택 → `freud-before-anti-oedipus` § 두 권이라면 『꿈의 해석』과 『성욕에 관한 세 편의 에세이』 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 프로이트 비판 대상의 단순화 방지 → `freud-before-anti-oedipus` § 『안티 오이디푸스』의 비판 대상을 지나치게 단순화하지 않기 · `ing-20261025-deleuze-intensity-hegel-freud`
-- 프로이트 입문서와 라캉 입문서의 목적 차이 → `freud-before-anti-oedipus` § 1972년을 위한 라캉 독서: 프로이트 원전을 대신하는 것이 아니다 · `ing-20261026-dreams-lacan-philosophy-power`
-- 강도 차이와 열기관의 발생 조건 → `deleuze-thermodynamics-implication-equilibrium` § 열역학은 차이를 발견하면서 차이의 소멸도 보여준다 · `ing-20261103-deleuze-entropy-implication`
-- 초월론적 물리학적 가상과 결과의 선취 → `deleuze-thermodynamics-implication-equilibrium` § ‘초월론적 물리학적 가상’은 무엇을 착각하는가 · `ing-20261103-deleuze-entropy-implication`
-- 열역학적 파성추 번역과 원전 대조 → `deleuze-thermodynamics-implication-equilibrium` § ‘초월론적 물리학적 가상’은 무엇을 착각하는가 · `ing-20261103-deleuze-entropy-implication`
-- 안 주름운동과 밖 주름운동의 함축·펼침 → `deleuze-thermodynamics-implication-equilibrium` § 안으로 접히는 것과 밖으로 펼쳐지는 것 · `ing-20261103-deleuze-entropy-implication`
-- 안 주름의 물리적 구체성과 개념적 한계 → `deleuze-thermodynamics-implication-equilibrium` § ‘안 주름은 구체적으로 무엇인가’라는 난점 · `ing-20261103-deleuze-entropy-implication`
-- 번개와 씨앗의 이질적 차이 배치 → `deleuze-thermodynamics-implication-equilibrium` § ‘안 주름은 구체적으로 무엇인가’라는 난점 · `ing-20261103-deleuze-entropy-implication`
-- 발생적 깊이와 공간의 차원 구분 → `deleuze-thermodynamics-implication-equilibrium` § 깊이: 길이·너비 뒤에 추가한 세 번째 축이 아니다 · `ing-20261103-deleuze-entropy-implication`
-- 포텐셜 에너지와 강도적 함축의 비동일성 → `deleuze-thermodynamics-implication-equilibrium` § 포텐셜 에너지와 거의 닿지만 완전히 겹치지 않는다 · `ing-20261103-deleuze-entropy-implication`
-- 낙차·배터리·압축 기체와 다양한 전개의 경로 → `deleuze-thermodynamics-implication-equilibrium` § 포텐셜 에너지와 거의 닿지만 완전히 겹치지 않는다 · `ing-20261103-deleuze-entropy-implication`
-- 엔트로피의 경험적 법칙과 존재론적 일반화의 구별 → `deleuze-thermodynamics-implication-equilibrium` § 엔트로피에 반대한 것인가, 엔트로피의 철학적 독점에 반대한 것인가 · `ing-20261103-deleuze-entropy-implication`
-- 최종 열평형과 완전한 침묵의 반론 → `deleuze-thermodynamics-implication-equilibrium` § 그러나 결국 완전히 침묵한다면 · `ing-20261103-deleuze-entropy-implication`
-- 국소적 열평형과 우주 열죽음의 구별 → `deleuze-thermodynamics-implication-equilibrium` § 그러나 결국 완전히 침묵한다면 · `ing-20261103-deleuze-entropy-implication`
-- 발생의 우선권과 최종 소멸의 양립 문제 → `deleuze-thermodynamics-implication-equilibrium` § 그러나 결국 완전히 침묵한다면 · `ing-20261103-deleuze-entropy-implication`
-- 감각적 동일성과 예술적 출처의 별개 문제 → `human-authorship-creator-preference` § 감각적 동일성과 창작자의 동일성 · `ing-20261114-taste-slop-human-authorship-search-costs`
-- AI와 인간 작품의 식별·평가·지불 행동 분리 → `human-authorship-creator-preference` § 알아맞히는 능력과 지불하려는 마음 · `ing-20261114-taste-slop-human-authorship-search-costs`
-- 완성품과 창작 과정의 경험적 가치 구별 → `human-authorship-creator-preference` § 만드는 사람의 경험과 관객의 경험 · `ing-20261114-taste-slop-human-authorship-search-costs`
-- 작가 홍보 노동과 인간성의 상품화 가능성 → `human-authorship-creator-preference` § 저자의 죽음 뒤에 돌아온 작가의 얼굴 · `ing-20261114-taste-slop-human-authorship-search-costs`
-- 개인화된 작품과 공동 문화의 두 방향 → `human-authorship-creator-preference` § AI가 가져간 것은 공통의 작품인가, 공통의 청중인가 · `ing-20261114-taste-slop-human-authorship-search-costs`
-- 인간 창작자 선호의 장·단기 분화와 관찰 조건 → `human-authorship-creator-preference` § 긴 싸움일 수도, 짧은 싸움일 수도 있다 · `ing-20261114-taste-slop-human-authorship-search-costs`
-- 서로 먼 완성품 우선 제시와 분류 이전의 생성 → `taste-calculator-adapter` § 1. 먼저 완성품을, 다음에 취향의 차원을 · `ing-20261115-taste-calculator-adapter-design`
-- 삼층 스타일 거리의 임시성 및 개인별 차이 → `taste-calculator-adapter` § 2. 거리는 생성기의 초기 가설일 뿐이다 · `ing-20261115-taste-calculator-adapter-design`
-- 생성기 주도 차원 발견과 N1~N4 구별 → `taste-calculator-adapter` § 3. 생성기는 차원을 발견해야 한다 · `ing-20261115-taste-calculator-adapter-design`
-- 티어메이커와 월드컵을 넘는 자유 반응 방식 → `taste-calculator-adapter` § 4. 전시와 반응: 설문지가 되지 않는 티어메이커 · `ing-20261115-taste-calculator-adapter-design`
-- 이미지 생성 한도에 따른 N과 회차 구성 → `taste-calculator-adapter` § 5. 첫 라운드: 이미지 수는 LLM 인터페이스가 결정한다 · `ing-20261115-taste-calculator-adapter-design`
-- 위키 명세·생성 LLM·계산 영역의 어댑터 역할 → `taste-calculator-adapter` § 6. 위키 기반 LLM 어댑터: 구성요소별 경계 · `ing-20261115-taste-calculator-adapter-design`
-- 작품·반응·개인 상태를 위한 데이터 계약 → `taste-calculator-adapter` § 7. 어댑터의 최소 데이터 계약 · `ing-20261115-taste-calculator-adapter-design`
-- LLM 내부 모드와 Python 외부 모드의 분리 → `taste-calculator-adapter` § 8. 계산 영역: 내부 모드와 외부 모드 · `ing-20261115-taste-calculator-adapter-design`
-- 과포화의 추정 이전에 노출 이력 보존 → `taste-calculator-adapter` § 10. 과포화는 초기 라운드에서 판정하지 않는다 · `ing-20261115-taste-calculator-adapter-design`
-- 반응 출력과 작품·취향·반응 공간의 구별 → `mathematical-theory-of-taste` § 1. 네 공간과 계산의 출력 · `ing-20261115-mathematical-taste-dynamics`
-- 스타일 불변성과 형식 조직 → `mathematical-theory-of-taste` § 2. 스타일은 상층도 객체도 아닌 가로지르는 형식이다 · `ing-20261115-mathematical-taste-dynamics`
-- 반응 거리에 의한 의사거리와 국소 계량 → `mathematical-theory-of-taste` § 3. 두 사람의 취향 거리는 어떻게 정의되는가 · `ing-20261115-mathematical-taste-dynamics`
-- 비선형 반응 곡면의 음의 곡률 → `mathematical-theory-of-taste` § 반응의 비선형성이 만드는 곡률 · `ing-20261115-mathematical-taste-dynamics`
-- 두 작품과 기록 변수의 전이 규칙 → `mathematical-theory-of-taste` § 4. 역사적 존재: A와 B밖에 없는 작은 세계 · `ing-20261115-mathematical-taste-dynamics`
-- 감상 순서의 비가환성 → `mathematical-theory-of-taste` § 4. 역사적 존재: A와 B밖에 없는 작은 세계 · `ing-20261115-mathematical-taste-dynamics`
-- 미래 실험을 기준으로 한 역사 동치류 → `mathematical-theory-of-taste` § 5. 과거를 모두 저장하지 않고 역사에 충실할 수 있는가 · `ing-20261115-mathematical-taste-dynamics`
-- 미래 관측 지평에 따른 식별 차원 → `mathematical-theory-of-taste` § 미래를 더 물어보면 차원이 드러난다 · `ing-20261115-mathematical-taste-dynamics`
-- 취향 전이 비용과 방향별 도달 가능성 → `mathematical-theory-of-taste` § 6. 기하학적 거리, 이동 비용, 도달 가능성 · `ing-20261115-mathematical-taste-dynamics`
-- 취향체 순서쌍과 경험 순서쌍의 구별 → `mathematical-theory-of-taste` § 7. 순서쌍의 두 의미: 경험의 순서와 취향체의 방향 관계 · `ing-20261115-mathematical-taste-dynamics`
-- 관측 차원과 구조적 새 차원 구분 → `mathematical-theory-of-taste` § 8. 관측 가능한 차원과 새로 생성된 차원은 다르다 · `ing-20261115-mathematical-taste-dynamics`
-- 새 작품 C의 도달 가능성 변화와 원래 경로의 보존 → `mathematical-theory-of-taste` § 9. C의 등장: 다음 연구의 출발점 · `ing-20261115-mathematical-taste-dynamics`
-- 수리취향학과 취향역학의 명명 → `mathematical-theory-of-taste` § 10. 명칭과 연구의 경계 · `ing-20261115-mathematical-taste-dynamics`
-- 기존 취향 계산기 기초 이론과 수리취향학 정식화 연결 → `taste-calculator-foundations` § 후속 수학적 정식화: 기록적 취향체와 도달 가능성 · `ing-20261115-mathematical-taste-dynamics`
-- 감상 이전에 경쟁 가설의 반응 예측을 기록하고 이후 공개하는 절차 → `taste-calculator-adapter` § 두 예측을 먼저 보관하고 작품을 보여주기 · `ing-20261116-taste-prediction`
-- 복수 예측의 불일치를 다음 작품 탐색의 선택 기준으로 활용 → `taste-calculator-adapter` § 두 예측을 먼저 보관하고 작품을 보여주기 · `ing-20261116-taste-prediction`
-- 현재 반응 예측과 경험 후 기존 작품 재평가 예측의 분리 → `taste-calculator-adapter` § 두 예측을 먼저 보관하고 작품을 보여주기 · `ing-20261116-taste-prediction`
-- 위키 안에서 취향 실험실 0.2를 직접 실행하고 전체화면으로 열 수 있는 연결 → `taste-calculator-adapter` § 설계의 중심 · `ing-20261116-taste-lab-site-integration`
-- 취향 상태 몫공간과 도달 집합의 기호 충돌 해소 → `mathematical-theory-of-taste` § 5. 과거를 모두 저장하지 않고 역사에 충실할 수 있는가; `mathematical-theory-of-taste` § 6. 기하학적 거리, 이동 비용, 도달 가능성 · `ing-20261116-taste-lab-site-integration`
-- 객체 생성과 취향 상태 전이를 구분하는 기호 정정 → `taste-calculator-foundations` § 5. 두 시간의 계산: 지금 맞히기와 나중을 바꾸기 · `ing-20261116-taste-lab-site-integration`
-- 스타일 판정 예시와 유한 대수 예제의 함수 명칭 구분 → `taste-calculator-style-algebra` § 4. 스타일의 판정과 생성은 다른 방향의 계산이다 · `ing-20261116-taste-lab-site-integration`
-- 원본과 파생 실험의 제작 목적과 구현 한계 → `taste-calculator-adapter` § 원본과 파생 실험: 무엇을 경험하게 하려 했는가 · `ing-20261116-taste-experiment-rationales`
-- 객체 변형 합성을 위한 생성 실험의 범위 → `taste-calculator-style-algebra` § 생성 연산을 눈으로 확인하기 위한 구현 · `ing-20261116-taste-experiment-rationales`
-- 경험 순서와 C 전이의 실행 예제 및 감상과의 간극 → `mathematical-theory-of-taste` § 순서와 C의 역할을 실행해 보는 실험 · `ing-20261116-taste-experiment-rationales`
-
 ## 운영 (64)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -1382,6 +1394,50 @@
 - 기술적 무결성 검증과 저술의 질적 판단을 분리 → `editing-principles` § 검증은 무엇을 위해 존재하는가 · `ing-20261102-ai-autonomous-essays`
 - 생성량 목표보다 AI의 저술 선택과 폐기 권한을 존중 → `editing-principles` § 축적 이후의 저술: AI에게 맡기는 판단 · `ing-20261102-ai-autonomous-essays`
 - AI 편집의 문장 치환과 실질적 개고 구별 → `editing-principles` § 문장 치환이 개고를 흉내 낼 때 · `ing-20261114-taste-slop-human-authorship-search-costs`
+
+## 문학 (39)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 2026년 노벨문학상 수상 반응의 인터뷰 상황과 매체 구분 → `anne-carson-nobel-first-reactions` § 수상 직후 인터뷰의 현장 · `ing-20261024-anne-carson-nobel-reactions`
+- crazy의 대상과 놀라움·비난 사이 번역의 경계 → `anne-carson-nobel-first-reactions` § “Crazy. I think they're all crazy”: 무엇이 미쳤다는 말인가 · `ing-20261024-anne-carson-nobel-reactions`
+- 현장 인터뷰의 바람·수상 통지·한림원 연락·독자층 질문 → `anne-carson-nobel-first-reactions` § 보도에서 전해진 질문과 답변의 범위 · `ing-20261024-anne-carson-nobel-reactions`
+- hear things와 read things를 작품의 발견·선택으로 구별하는 해석 → `anne-carson-nobel-first-reactions` § “I don't understand how people hear things or read things” · `ing-20261024-anne-carson-nobel-reactions`
+- 작품의 존재와 독자 도달, 실제 읽기의 단계 구별 → `anne-carson-nobel-first-reactions` § 책의 가치, 발견 가능성, 실제 독서는 서로 다르다 · `ing-20261024-anne-carson-nobel-reactions`
+- 노벨상 스티커와 출판사의 기대를 독자 발견의 매개로 해석 → `anne-carson-nobel-first-reactions` § 출판사의 기대와 노벨상 스티커 · `ing-20261024-anne-carson-nobel-reactions`
+- RÚV 현장 영상과 노벨상 공식 전화 인터뷰의 별개 자료 구별 → `anne-carson-nobel-first-reactions` § 공식 전화 인터뷰는 별개의 자료다 · `ing-20261024-anne-carson-nobel-reactions`
+- 보도 인용 단편과 영어 전체 축어록 사이의 검증 경계 → `anne-carson-nobel-first-reactions` § 번역과 인용에서 남는 문제; `anne-carson-nobel-first-reactions` § 자료와 검증 상태 · `ing-20261024-anne-carson-nobel-reactions`
+- GPI의 외국 작품·다언어 장르 구분 → `grand-prix-imaginaire-awards` § 이영도의 진출과 2026년 외국 장편 부문 · `ing-20261103-gpi-foreign-novels`
+- 2026 외국 장편 여섯 작품과 한국어 임시 역제 → `grand-prix-imaginaire-awards` § 이영도의 진출과 2026년 외국 장편 부문 · `ing-20261103-gpi-foreign-novels`
+- 2026 GPI 다른 부문 후보 명단 → `grand-prix-imaginaire-awards` § 2026년의 다른 최종 후보 목록 · `ing-20261103-gpi-foreign-novels`
+- 2020~2025 GPI 주요 여섯 작품상 수상 기록 → `grand-prix-imaginaire-awards` § 2020~2025년 작품 부문 수상작 · `ing-20261103-gpi-foreign-novels`
+- 2020~2025 GPI 번역·그래픽·에세이·특별상 기록 → `grand-prix-imaginaire-awards` § 번역·그래픽·에세이·특별상: 확인된 범위 · `ing-20261103-gpi-foreign-novels`
+- 2015~2019 외국 장편 수상작과 원제·프랑스 표제 → `grand-prix-imaginaire-awards` § 2015~2019년 외국 장편: 이전 수상 기록 · `ing-20261103-gpi-foreign-novels`
+- 2021~2025 외국 장편 줄거리와 형식 비교 → `gpi-foreign-novels-2015-2025` § 어떤 독서 경험을 고를 것인가 · `ing-20261103-gpi-foreign-novels`
+- 2015~2020 외국 장편 줄거리와 형식 비교 → `gpi-foreign-novels-2015-2025` § 어떤 독서 경험을 고를 것인가 · `ing-20261103-gpi-foreign-novels`
+- 비타 노스트라 한국어판 존재 주장 정정과 국내 서지 유보 → `gpi-foreign-novels-2015-2025` § 2020 — 《비타 노스트라》: Marina & Sergey Dyachenko, Vita Nostra; `gpi-foreign-novels-2015-2025` § 국내 출간 여부의 잠정 표 · `ing-20261103-gpi-foreign-novels`
+- 미래부 소설 인도 폭염 참사와 생존자의 증언 → `ministry-for-the-future-reading` § 1. 인도의 열파: 대량 죽음에서 시작하는 시간 · `ing-20261103-gpi-foreign-novels`
+- 미래세대의 대표성·제도적 강제력과 메리·프랭크의 갈등 → `ministry-for-the-future-reading` § 2. 미래부라는 기구: 미래 세대에게도 대표가 있는가; `ministry-for-the-future-reading` § 3. 프랭크와 메리: 폭력의 윤리와 제도의 속도 · `ing-20261103-gpi-foreign-novels`
+- 탄소 코인의 금융적 보상과 정책적 전제 → `ministry-for-the-future-reading` § 4. 탄소 코인: 중앙은행이 다른 미래에 값을 매길 때 · `ing-20261103-gpi-foreign-novels`
+- 기후위기 급진 행동과 정책 변화의 인과·정당화 구분 → `ministry-for-the-future-reading` § 5. 또 하나의 압력: 항공산업, 지하조직, 불법행동 · `ing-20261103-gpi-foreign-novels`
+- 빙하·난민·생태·에너지 조치의 복합성과 비동기성 → `ministry-for-the-future-reading` § 6. 빙하, 난민, 토지, 에너지: 정책 하나로 끝낼 수 없는 위기 · `ing-20261103-gpi-foreign-novels`
+- 다성적 증언·보고서·정책 해설로 구성한 기후소설 형식 → `ministry-for-the-future-reading` § 7. 왜 이렇게 많은 화자가 필요한가: 형식이 세계를 닮는다 · `ing-20261103-gpi-foreign-novels`
+- 미래부의 결말과 피해의 불가역성 → `ministry-for-the-future-reading` § 8. 결말: 회복은 이미 치른 손실을 없애 주지 않는다 · `ing-20261103-gpi-foreign-novels`
+- 기후 재난소설에서 정책 과정이 서사를 이루는 방식 → `ministry-for-the-future-reading` § 9. 기후소설의 두 관습을 벗어나기 · `ing-20261103-gpi-foreign-novels`
+- 덴마크의 암레트와 영국의 햄릿 → `hamlet-revenge-theatre-history` § 덴마크의 암레트와 영국의 햄릿 · `ing-20261127-hamlet-world-theatre`
+- 덴마크의 늦은 수용과 정치적 각색 → `hamlet-revenge-theatre-history` § 덴마크의 늦은 수용과 정치적 각색 · `ing-20261127-hamlet-world-theatre`
+- 당대의 인기에서 세계문학의 정전으로 → `hamlet-revenge-theatre-history` § 당대의 인기에서 세계문학의 정전으로 · `ing-20261127-hamlet-world-theatre`
+- 복수 비극의 경쟁 작품들 → `hamlet-revenge-theatre-history` § 복수 비극의 경쟁 작품들 · `ing-20261127-hamlet-world-theatre`
+- 유령의 고대 문학사: 장례에서 증언과 복수로 → `hamlet-revenge-theatre-history` § 유령의 고대 문학사: 장례에서 증언과 복수로 · `ing-20261127-hamlet-world-theatre`
+- 중세의 죽은 자와 종교개혁의 불확실성 → `hamlet-revenge-theatre-history` § 중세의 죽은 자와 종교개혁의 불확실성 · `ing-20261127-hamlet-world-theatre`
+- 당대 사람들에게 유령은 허구였는가 → `hamlet-revenge-theatre-history` § 당대 사람들에게 유령은 허구였는가 · `ing-20261127-hamlet-world-theatre`
+- 극중극과 관객의 시대 → `hamlet-revenge-theatre-history` § 극중극과 관객의 시대 · `ing-20261127-hamlet-world-theatre`
+- 오필리아와 햄릿: 미친 되기와 실제 붕괴 → `hamlet-agency-ophelia-criticism` § 오필리아와 햄릿: 미친 되기와 실제 붕괴 · `ing-20261127-hamlet-world-theatre`
+- 장례와 책임의 비대칭 → `hamlet-agency-ophelia-criticism` § 장례와 책임의 비대칭 · `ing-20261127-hamlet-world-theatre`
+- 말이 행동을 대신할 때 → `hamlet-agency-ophelia-criticism` § 말이 행동을 대신할 때 · `ing-20261127-hamlet-world-theatre`
+- 주인공과 사건의 주도자는 다르다 → `hamlet-agency-ophelia-criticism` § 주인공과 사건의 주도자는 다르다 · `ing-20261127-hamlet-world-theatre`
+- 연기와 관람: 허구는 실제를 생산한다 → `hamlet-agency-ophelia-criticism` § 연기와 관람: 허구는 실제를 생산한다 · `ing-20261127-hamlet-world-theatre`
+- 일곱 가지 비평의 전환 → `hamlet-agency-ophelia-criticism` § 일곱 가지 비평의 전환 · `ing-20261127-hamlet-world-theatre`
 
 ## 게임 (31)
 
@@ -1547,36 +1603,6 @@
 - 외부 바이럴과 내부 확산의 경쟁 가설 → `dwar-netflix-revival` § 외부 바이럴과 내부 바이럴의 경쟁 가설 · `ing-20261025-dwar-netflix-revival`
 - 국내 제작 담론과 해외 소비 프레임의 차이 → `dwar-netflix-revival` § 한국에서의 기억과 해외에서의 소비 · `ing-20261025-dwar-netflix-revival`
 - 국가별 순위와 추천 노출 검증 설계 → `dwar-netflix-revival` § 미해결 문제와 검증 설계 · `ing-20261025-dwar-netflix-revival`
-
-## 문학 (25)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 2026년 노벨문학상 수상 반응의 인터뷰 상황과 매체 구분 → `anne-carson-nobel-first-reactions` § 수상 직후 인터뷰의 현장 · `ing-20261024-anne-carson-nobel-reactions`
-- crazy의 대상과 놀라움·비난 사이 번역의 경계 → `anne-carson-nobel-first-reactions` § “Crazy. I think they're all crazy”: 무엇이 미쳤다는 말인가 · `ing-20261024-anne-carson-nobel-reactions`
-- 현장 인터뷰의 바람·수상 통지·한림원 연락·독자층 질문 → `anne-carson-nobel-first-reactions` § 보도에서 전해진 질문과 답변의 범위 · `ing-20261024-anne-carson-nobel-reactions`
-- hear things와 read things를 작품의 발견·선택으로 구별하는 해석 → `anne-carson-nobel-first-reactions` § “I don't understand how people hear things or read things” · `ing-20261024-anne-carson-nobel-reactions`
-- 작품의 존재와 독자 도달, 실제 읽기의 단계 구별 → `anne-carson-nobel-first-reactions` § 책의 가치, 발견 가능성, 실제 독서는 서로 다르다 · `ing-20261024-anne-carson-nobel-reactions`
-- 노벨상 스티커와 출판사의 기대를 독자 발견의 매개로 해석 → `anne-carson-nobel-first-reactions` § 출판사의 기대와 노벨상 스티커 · `ing-20261024-anne-carson-nobel-reactions`
-- RÚV 현장 영상과 노벨상 공식 전화 인터뷰의 별개 자료 구별 → `anne-carson-nobel-first-reactions` § 공식 전화 인터뷰는 별개의 자료다 · `ing-20261024-anne-carson-nobel-reactions`
-- 보도 인용 단편과 영어 전체 축어록 사이의 검증 경계 → `anne-carson-nobel-first-reactions` § 번역과 인용에서 남는 문제; `anne-carson-nobel-first-reactions` § 자료와 검증 상태 · `ing-20261024-anne-carson-nobel-reactions`
-- GPI의 외국 작품·다언어 장르 구분 → `grand-prix-imaginaire-awards` § 이영도의 진출과 2026년 외국 장편 부문 · `ing-20261103-gpi-foreign-novels`
-- 2026 외국 장편 여섯 작품과 한국어 임시 역제 → `grand-prix-imaginaire-awards` § 이영도의 진출과 2026년 외국 장편 부문 · `ing-20261103-gpi-foreign-novels`
-- 2026 GPI 다른 부문 후보 명단 → `grand-prix-imaginaire-awards` § 2026년의 다른 최종 후보 목록 · `ing-20261103-gpi-foreign-novels`
-- 2020~2025 GPI 주요 여섯 작품상 수상 기록 → `grand-prix-imaginaire-awards` § 2020~2025년 작품 부문 수상작 · `ing-20261103-gpi-foreign-novels`
-- 2020~2025 GPI 번역·그래픽·에세이·특별상 기록 → `grand-prix-imaginaire-awards` § 번역·그래픽·에세이·특별상: 확인된 범위 · `ing-20261103-gpi-foreign-novels`
-- 2015~2019 외국 장편 수상작과 원제·프랑스 표제 → `grand-prix-imaginaire-awards` § 2015~2019년 외국 장편: 이전 수상 기록 · `ing-20261103-gpi-foreign-novels`
-- 2021~2025 외국 장편 줄거리와 형식 비교 → `gpi-foreign-novels-2015-2025` § 어떤 독서 경험을 고를 것인가 · `ing-20261103-gpi-foreign-novels`
-- 2015~2020 외국 장편 줄거리와 형식 비교 → `gpi-foreign-novels-2015-2025` § 어떤 독서 경험을 고를 것인가 · `ing-20261103-gpi-foreign-novels`
-- 비타 노스트라 한국어판 존재 주장 정정과 국내 서지 유보 → `gpi-foreign-novels-2015-2025` § 2020 — 《비타 노스트라》: Marina & Sergey Dyachenko, Vita Nostra; `gpi-foreign-novels-2015-2025` § 국내 출간 여부의 잠정 표 · `ing-20261103-gpi-foreign-novels`
-- 미래부 소설 인도 폭염 참사와 생존자의 증언 → `ministry-for-the-future-reading` § 1. 인도의 열파: 대량 죽음에서 시작하는 시간 · `ing-20261103-gpi-foreign-novels`
-- 미래세대의 대표성·제도적 강제력과 메리·프랭크의 갈등 → `ministry-for-the-future-reading` § 2. 미래부라는 기구: 미래 세대에게도 대표가 있는가; `ministry-for-the-future-reading` § 3. 프랭크와 메리: 폭력의 윤리와 제도의 속도 · `ing-20261103-gpi-foreign-novels`
-- 탄소 코인의 금융적 보상과 정책적 전제 → `ministry-for-the-future-reading` § 4. 탄소 코인: 중앙은행이 다른 미래에 값을 매길 때 · `ing-20261103-gpi-foreign-novels`
-- 기후위기 급진 행동과 정책 변화의 인과·정당화 구분 → `ministry-for-the-future-reading` § 5. 또 하나의 압력: 항공산업, 지하조직, 불법행동 · `ing-20261103-gpi-foreign-novels`
-- 빙하·난민·생태·에너지 조치의 복합성과 비동기성 → `ministry-for-the-future-reading` § 6. 빙하, 난민, 토지, 에너지: 정책 하나로 끝낼 수 없는 위기 · `ing-20261103-gpi-foreign-novels`
-- 다성적 증언·보고서·정책 해설로 구성한 기후소설 형식 → `ministry-for-the-future-reading` § 7. 왜 이렇게 많은 화자가 필요한가: 형식이 세계를 닮는다 · `ing-20261103-gpi-foreign-novels`
-- 미래부의 결말과 피해의 불가역성 → `ministry-for-the-future-reading` § 8. 결말: 회복은 이미 치른 손실을 없애 주지 않는다 · `ing-20261103-gpi-foreign-novels`
-- 기후 재난소설에서 정책 과정이 서사를 이루는 방식 → `ministry-for-the-future-reading` § 9. 기후소설의 두 관습을 벗어나기 · `ing-20261103-gpi-foreign-novels`
 
 ## 정보와 미디어 (24)
 
