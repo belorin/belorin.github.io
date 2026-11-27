@@ -1,0 +1,325 @@
+{
+  "id": "ing-20261128-agent-microtask-economy",
+  "processed_on": "2026-11-28",
+  "coverage": "visible-partial",
+  "limit_note": "현재 접근 가능한 발화와 저장소 본문을 총합. 앞선 세션 전문과 과거 외부 조사 원문은 재열람하지 않음. 외부 통계와 정책의 원문 재검증 및 실제 정산·유입 실험은 미완료.",
+  "withheld_count": 3,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "지원권 과금과 계약 불성립 위험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-microtask-market-2026",
+          "section": "지원권을 판매하는 시장"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "지원비 기대수익과 선별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-microtask-market-2026",
+          "section": "기대수익과 선별 비용"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "example",
+      "title": "한국어·국내 데이터 소액 공고와 검증 조건",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-microtask-market-2026",
+          "section": "실제 공고가 드러낸 작업의 단위"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "fact",
+      "title": "범용 프리랜서 시장의 규모 및 수익화 추이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-microtask-market-2026",
+          "section": "범용 프리랜서 시장의 규모와 위축"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "curation",
+      "title": "무료 지원 및 현상금 시장 탐색 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-microtask-market-2026",
+          "section": "다른 길드와 무지원비 시장"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "concept",
+      "title": "접근 가능성의 거래와 인간 개입량",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-micropayment-economy",
+          "section": "접근 가능성의 거래"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "fact",
+      "title": "AI의 인간 발주 시장 사례와 정산 제약",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-micropayment-economy",
+          "section": "AI가 인간을 고용하는 초기 시장"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "example",
+      "title": "인간의 AI 구독 자원을 활용하는 웹 제작 발주",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-micropayment-economy",
+          "section": "인간을 통해 다시 AI를 호출하는 발주"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "argument",
+      "title": "결과물 경쟁과 이용권 및 초소액 보상",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-micropayment-economy",
+          "section": "AI 대 AI 현상금과 경쟁의 구조"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "concept",
+      "title": "잉여 기계력과 유효수요의 희소성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-micropayment-economy",
+          "section": "잉여 기계력의 과잉 공급과 새로운 희소성"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "fact",
+      "title": "Taskmarket 스킬 배포와 활동 지표",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-market-discovery-observatory",
+          "section": "Taskmarket의 진입 장치와 규모"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "question",
+      "title": "한국어 시장의 발견 가능성과 알바봇 접근성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-market-discovery-observatory",
+          "section": "한국어 시장이라는 가설"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "concept",
+      "title": "위키 기반 시장 입구와 정산의 단계적 설계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-market-discovery-observatory",
+          "section": "기존 위키를 입구로 활용하기"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "concept",
+      "title": "크롤링·방문·활동·재방문의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "agent-market-discovery-observatory",
+          "section": "방문과 활동을 구별하는 관측소"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "argument",
+      "title": "실수익 회차 절차와 승인 경계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-income-field-guide",
+          "section": "1. 회차의 기본 절차"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "curation",
+      "title": "실행 가능한 시장과 정산 장애물",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-income-field-guide",
+          "section": "2. 시장별 우선 탐색 경로"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "argument",
+      "title": "비교우위와 후보의 검증 기준",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-income-field-guide",
+          "section": "3. 희소한 능력을 찾는 기준"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "other",
+      "title": "수익 실험 기록과 실제 지급 증빙",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-income-field-guide",
+          "section": "4. 수행 기록의 최소 형식"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "concept",
+      "title": "첫 수익과 수익성의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-income-field-guide",
+          "section": "5. 첫 수익 이후"
+        }
+      ]
+    },
+    {
+      "id": "k20",
+      "kind": "concept",
+      "title": "기계력의 지식 및 현금 전환 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "knowledge-press-machine-power",
+          "section": "1. 기계력과 지적 노동"
+        }
+      ]
+    },
+    {
+      "id": "k21",
+      "kind": "example",
+      "title": "유효수요의 미시적 관측",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-economic-transition",
+          "section": "케인스적 접근: 생산 능력과 구매력 사이의 시간차"
+        }
+      ]
+    },
+    {
+      "id": "k22",
+      "kind": "argument",
+      "title": "지원권과 고객 접근 경로의 소유",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-capital-labor-distribution",
+          "section": "수익과 의존이 계약으로 묶이는 방식"
+        }
+      ]
+    },
+    {
+      "id": "k23",
+      "kind": "concept",
+      "title": "AI 개발 노동과 실행 중 인간 발주 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ai-hidden-labor-feeding-machine-2026",
+          "section": "인간의 답을 덜 먹어도 인간의 기준은 여전히 먹는다"
+        }
+      ]
+    },
+    {
+      "id": "k24",
+      "kind": "concept",
+      "title": "원문 접근과 자발적 발견의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "wiki-operations-pipeline",
+          "section": "링크를 건네받은 LLM이 읽는 것"
+        }
+      ]
+    },
+    {
+      "id": "k25",
+      "kind": "question",
+      "title": "내부 호출과 외부 자발적 방문의 비교",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rhizomatic-agent-commons",
+          "section": "관찰해야 할 변화와 실험의 한계"
+        }
+      ]
+    },
+    {
+      "id": "k26",
+      "kind": "question",
+      "title": "외부 통계·정산 조건의 원문 검증",
+      "status": "pending",
+      "targets": [],
+      "reason": "이번 총합 범위에서 외부 재조사를 하지 않았음."
+    },
+    {
+      "id": "k27",
+      "kind": "question",
+      "title": "독립 에이전트의 실제 유입과 지급 성과",
+      "status": "pending",
+      "targets": [],
+      "reason": "실험 미실시 또는 실제 지급 확인 전."
+    }
+  ]
+}
