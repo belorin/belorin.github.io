@@ -1,0 +1,331 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://belorin.github.io/taste-lab/characters/state.schema.json",
+  "title": "Character taste exploration L2 state",
+  "description": "Portable, nonpublic-by-default state for an ongoing image taste experiment. No images or personal identifiers are required.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "revision",
+    "session",
+    "policy",
+    "hypotheses",
+    "events",
+    "exposures",
+    "generator_failures"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "0.1.0"
+    },
+    "revision": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "session": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "last_updated",
+        "media",
+        "description"
+      ],
+      "properties": {
+        "last_updated": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
+        },
+        "media": {
+          "const": "single-character-image"
+        },
+        "description": {
+          "type": "string",
+          "maxLength": 400
+        }
+      }
+    },
+    "policy": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "mode",
+        "distance_priority",
+        "explore_far_probability",
+        "avoid_default_beauty_pose",
+        "notes"
+      ],
+      "properties": {
+        "mode": {
+          "enum": [
+            "early-exploration",
+            "boundary",
+            "return",
+            "manual"
+          ]
+        },
+        "distance_priority": {
+          "enum": [
+            "far",
+            "balanced",
+            "near"
+          ]
+        },
+        "explore_far_probability": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "description": "Design policy probability, not estimated human taste parameter"
+        },
+        "avoid_default_beauty_pose": {
+          "type": "boolean"
+        },
+        "notes": {
+          "type": "string",
+          "maxLength": 1000
+        }
+      }
+    },
+    "hypotheses": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "dimension",
+          "description",
+          "direction",
+          "confidence",
+          "basis_event_ids",
+          "status"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "dimension": {
+            "enum": [
+              "local-attraction",
+              "local-aversion",
+              "aesthetic-discovery",
+              "pose-cliche",
+              "pattern-repetition",
+              "reported-saturation",
+              "other"
+            ]
+          },
+          "description": {
+            "type": "string",
+            "minLength": 1
+          },
+          "direction": {
+            "type": "number",
+            "minimum": -1,
+            "maximum": 1
+          },
+          "confidence": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "basis_event_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "uniqueItems": true
+          },
+          "status": {
+            "enum": [
+              "tentative",
+              "supported",
+              "rejected"
+            ]
+          }
+        }
+      }
+    },
+    "events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "image_id",
+          "timestamp",
+          "observation",
+          "inferred",
+          "affect"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "image_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "timestamp": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date-time"
+          },
+          "observation": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Paraphrased non-verbatim reaction"
+          },
+          "inferred": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Model interpretations, not user statements"
+          },
+          "affect": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "attraction",
+              "novelty",
+              "reported_fatigue"
+            ],
+            "properties": {
+              "attraction": {
+                "enum": [
+                  "positive",
+                  "negative",
+                  "mixed",
+                  "unknown"
+                ]
+              },
+              "novelty": {
+                "enum": [
+                  "novel",
+                  "repetitive",
+                  "unknown"
+                ]
+              },
+              "reported_fatigue": {
+                "enum": [
+                  "yes",
+                  "no",
+                  "unknown"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    "exposures": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "image_id",
+          "order",
+          "description",
+          "origin",
+          "generation_intent",
+          "visual_regime"
+        ],
+        "properties": {
+          "image_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "order": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "description": {
+            "type": "string",
+            "minLength": 1
+          },
+          "origin": {
+            "enum": [
+              "chat-image",
+              "uploaded",
+              "other"
+            ]
+          },
+          "generation_intent": {
+            "type": "string"
+          },
+          "visual_regime": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "uniqueItems": true
+          },
+          "image_ref": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Optional reference, not a guarantee of durable image access"
+          }
+        }
+      }
+    },
+    "generator_failures": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "related_images",
+          "type",
+          "evidence",
+          "status"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "related_images": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "uniqueItems": true
+          },
+          "type": {
+            "enum": [
+              "identity-collapse",
+              "style-collapse",
+              "pose-cliche",
+              "other"
+            ]
+          },
+          "evidence": {
+            "type": "string",
+            "minLength": 1
+          },
+          "status": {
+            "enum": [
+              "observed",
+              "hypothesized",
+              "resolved"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

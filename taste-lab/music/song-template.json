@@ -1,0 +1,31 @@
+{
+  "schema_version": "music-taste/0.1",
+  "song_id": "EXAMPLE_ID",
+  "title": "예시 제목 — 실제 곡 아님",
+  "created_at": "2026-11-20T00:00:00.000Z",
+  "head": "v000",
+  "versions": [
+    {
+      "version_id": "v000",
+      "parent": null,
+      "kind": "seed",
+      "status": "planned",
+      "focus": {
+        "start_sec": 0,
+        "duration_sec": 5
+      },
+      "intent": "처음 5초를 어떻게 만들지 결정",
+      "source": null,
+      "audio": null,
+      "report": null,
+      "created_at": "2026-11-20T00:00:00.000Z"
+    }
+  ],
+  "listens": [],
+  "taste_hypotheses": [],
+  "next_focus": {
+    "start_sec": 0,
+    "duration_sec": 5
+  },
+  "links": []
+}

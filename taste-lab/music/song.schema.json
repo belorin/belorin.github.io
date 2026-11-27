@@ -1,0 +1,254 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://belorin.github.io/taste-lab/music/song.schema.json",
+  "title": "Portable music taste exploration and revisions state",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "song_id",
+    "title",
+    "created_at",
+    "head",
+    "versions",
+    "listens",
+    "taste_hypotheses",
+    "next_focus",
+    "links"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "music-taste/0.1"
+    },
+    "song_id": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9][A-Za-z0-9_-]{0,79}$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "head": {
+      "type": "string",
+      "pattern": "^v[0-9]{3,}$"
+    },
+    "versions": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/version"
+      }
+    },
+    "listens": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/listen"
+      }
+    },
+    "taste_hypotheses": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "hypothesis",
+          "confidence",
+          "evidence_ids",
+          "status"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "hypothesis": {
+            "type": "string"
+          },
+          "confidence": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "evidence_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "status": {
+            "enum": [
+              "tentative",
+              "supported",
+              "rejected"
+            ]
+          }
+        }
+      }
+    },
+    "next_focus": {
+      "$ref": "#/$defs/focus"
+    },
+    "links": {
+      "type": "array",
+      "description": "Optional documentation and project URLs; do not include secrets",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "$defs": {
+    "focus": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "start_sec",
+        "duration_sec"
+      ],
+      "properties": {
+        "start_sec": {
+          "type": "number",
+          "minimum": 0
+        },
+        "duration_sec": {
+          "type": "number",
+          "exclusiveMinimum": 0,
+          "maximum": 600
+        }
+      }
+    },
+    "version": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "version_id",
+        "parent",
+        "kind",
+        "status",
+        "focus",
+        "intent",
+        "source",
+        "audio",
+        "report",
+        "created_at"
+      ],
+      "properties": {
+        "version_id": {
+          "type": "string",
+          "pattern": "^v[0-9]{3,}$"
+        },
+        "parent": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "kind": {
+          "enum": [
+            "seed",
+            "revision",
+            "variation",
+            "exploration"
+          ]
+        },
+        "status": {
+          "enum": [
+            "planned",
+            "source-linked",
+            "render-linked",
+            "auditioned"
+          ]
+        },
+        "focus": {
+          "$ref": "#/$defs/focus"
+        },
+        "intent": {
+          "type": "string"
+        },
+        "source": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Actual YAML/Python/DAW project source path or URL"
+        },
+        "audio": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Actual audio path or URL; a link alone does not verify rendering"
+        },
+        "report": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Optional Poser analysis report path or URL"
+        },
+        "created_at": {
+          "type": "string",
+          "format": "date-time"
+        }
+      }
+    },
+    "listen": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "event_id",
+        "version_id",
+        "at",
+        "focus",
+        "reaction",
+        "attraction",
+        "novelty",
+        "reported_fatigue"
+      ],
+      "properties": {
+        "event_id": {
+          "type": "string"
+        },
+        "version_id": {
+          "type": "string"
+        },
+        "at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "focus": {
+          "$ref": "#/$defs/focus"
+        },
+        "reaction": {
+          "type": "string",
+          "minLength": 1
+        },
+        "attraction": {
+          "enum": [
+            "positive",
+            "negative",
+            "mixed",
+            "unknown"
+          ]
+        },
+        "novelty": {
+          "enum": [
+            "new",
+            "repetitive",
+            "unknown"
+          ]
+        },
+        "reported_fatigue": {
+          "enum": [
+            "yes",
+            "no",
+            "unknown"
+          ]
+        }
+      }
+    }
+  }
+}

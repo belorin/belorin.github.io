@@ -1,0 +1,16 @@
+name: Character taste cards smoke test
+on:
+  push:
+    paths:
+      - "taste-lab/characters/**"
+      - ".github/workflows/character-taste-smoke.yml"
+  pull_request:
+    paths:
+      - "taste-lab/characters/**"
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check HTML and explorer logic
+        run: node taste-lab/characters/test.mjs
