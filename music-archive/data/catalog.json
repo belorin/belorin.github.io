@@ -678,6 +678,19 @@
       "performance_status": "held_user_reported"
     },
     {
+      "id": "2026-11-27-saga",
+      "date": "2026-11-27",
+      "title": "SAGA",
+      "ensemble_ids": [
+        "gso"
+      ],
+      "work_ids": [],
+      "venue": null,
+      "conductor": null,
+      "soloists": null,
+      "documentation_note": "사용자 제공 날짜 및 프로그램북 3쪽. 예정 명부와 실제 출연은 구별."
+    },
+    {
       "id": "2026-11-hamlet-2",
       "date": "2026-11-27",
       "time": "14:00",
@@ -868,7 +881,8 @@
     "gso-2026-06-17",
     "theatre-cheongchun-2026-11-21",
     "gwangju-city-theatre-hamlet",
-    "national-theatre-company-korea-frank-and-stein"
+    "national-theatre-company-korea-frank-and-stein",
+    "gso-2026-11-27"
   ],
   "persons": [],
   "production_credit_ids": [
